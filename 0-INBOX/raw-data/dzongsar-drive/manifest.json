@@ -1,0 +1,17 @@
+{
+ "source": "Google Drive export of the Dzongsar tracking sheet and the Docs/Sheets it links, downloaded by the Claude in Chrome extension into ~/Downloads, then unzipped here",
+ "zips": {
+  "Dzongsar_corpus.zip": {
+   "path": "/Users/tashitsering/Downloads/Dzongsar_corpus.zip",
+   "bytes": 78066580,
+   "sha256": "c026728b83fb553bc8cd253ca713ae110a732c9860aeaad23c3d2d68af6d038a",
+   "modified": "2026-10-02"
+  }
+ },
+ "copied": "2026-10-02",
+ "sheet_section": "03_འཕགས་སྡུད།",
+ "layout": "paths are exactly as inside the zips; only this text's part is copied. Dzongsar_sheet.csv, the full catalogue workbook and links_manifest.csv are copied whole (shared by all texts).",
+ "rerouted_from_other_sections": [],
+ "rerouted_note": null,
+ "files": 28
+}
