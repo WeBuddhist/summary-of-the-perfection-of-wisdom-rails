@@ -1,0 +1,47 @@
+{
+  "_comment": [
+    "Locked section vocabulary for one plan's day packages.",
+    "Consumed by day_package_tools.py validate/conform.",
+    "It must agree with the plan's `_TEMPLATE.md`; when one changes, change both.",
+    "Save it beside the package template, e.g.",
+    "3-TRANSFORMATIONS/Day-Packages/_package-spec.json.",
+    "Delete every `_comment` key and every placeholder before use."
+  ],
+
+  "_top_sections": "[key, exact H2 heading text without the 'N. ' prefix, anchor slug], in required order",
+  "top_sections": [
+    ["challenge", "<H2 heading 1>", "sec:challenge"],
+    ["verses",    "<H2 heading 2>", "sec:verses"],
+    ["rails",     "<H2 heading 3>", "sec:rails"]
+  ],
+
+  "_challenge_subs": "exact H3 heading text -> anchor slug, inside the first H2",
+  "challenge_subs": {
+    "<H3 heading a>": "challenge:opening",
+    "<H3 heading b>": "challenge:tradition",
+    "<H3 heading c>": "challenge:practice"
+  },
+
+  "_verse_subs": "[H4 heading prefix, anchor slug, required?] inside each verse block",
+  "verse_subs": [
+    ["<Root Verse heading>",        "sub:root-verse",      true],
+    ["<Interlinear Gloss heading>", "sub:interlinear",     true],
+    ["<Commentary heading>",        "sub:commentary",      true],
+    ["<Stories heading>",           "sub:stories",         false],
+    ["<Metaphors heading>",         "sub:metaphors",       false],
+    ["<Quotations heading>",        "sub:quotations",      false],
+    ["<Teaching Points heading>",   "sub:teaching-points", true],
+    ["<Key Terms heading>",         "sub:key-terms",       true],
+    ["<Synthesis heading>",         "sub:synthesis",       true]
+  ],
+
+  "_verse_heading_prefix": "the H3 prefix that introduces a verse block; the rest of the heading is the verse id",
+  "verse_heading_prefix": "Verse ",
+
+  "_divergence_prefix": "a Divergences heading must START with this word, at H4 or H5",
+  "divergence_prefix": "Divergences",
+
+  "frontmatter_required": [
+    "day:", "chapter:", "verses:", "status:", "language:", "document_type:"
+  ]
+}

@@ -1,0 +1,3 @@
+Read `4-SYSTEM/Skills/wiki-article-from-claims/SKILL.md` in full, then execute it on the file(s) or input the user specifies.
+
+Skill purpose: Draft a cited, readable Tibetan Wikipedia article from one consolidated claims topic page — claims-only drafting, fixed claim-resolution chain, verbatim character-verified quotations — in encyclopedic wikivoice with at most 3 refs per statement, at most 2 commentary quotations per article, the Tibetan punctuation contract (sentence-final shad, paragraph-final double shad, no commas), and in-prose author names from the human-curated author_in_use key; plus a generated read-only footnote preview for reviewers.

@@ -1,0 +1,3 @@
+Read `4-SYSTEM/Skills/plan-day-generate/SKILL.md` in full, then execute it on the file(s) or input the user specifies.
+
+Skill purpose: Author one or more day files for a plan's **authoring stream** from the stream's schedule, the verse rails and the plan's fixed assets, section by section, following the section-type declaration in `About <plan-name>.md`: Fixed sections copied verbatim from `assets/liturgy.md`, Extracted sections inlined verbatim by block ID from the stream's designated verse source, and Generated sections composed inside their declared ceiling, voice and formula and grounded only in the day's rails (or, in `teaching-file` mode, copied verbatim from a pre-assigned teaching).

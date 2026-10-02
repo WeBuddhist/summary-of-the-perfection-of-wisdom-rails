@@ -1,0 +1,23 @@
+# EXAMPLE guard.paths — copy this into the vault, do not run it from the skill folder.
+#
+# Protected source-of-truth files, as globs relative to the vault root passed as
+# `--root`. Any change to a file listed here requires explicit human
+# confirmation; `guard check` makes an unauthorised change loud, it does not
+# prevent one.
+#
+# Install at `4-SYSTEM/scripts/day-package/guard.paths` in the vault; the lock
+# file (`guard.lock`) is written beside it and is generated, never hand-edited.
+# Ship the paths file; never ship a lock file — its hashes belong to one vault.
+
+3-TRANSFORMATIONS/Day-Packages/<source-stream>/*/*.md
+3-TRANSFORMATIONS/Day-Packages/<target-stream>/*/*.md
+3-TRANSFORMATIONS/Day-Packages/<source-stream>/_TEMPLATE.md
+3-TRANSFORMATIONS/Day-Packages/<source-stream>/_TERMBASE.md
+4-SYSTEM/scripts/day-package/day_package_tools.py
+4-SYSTEM/scripts/day-package/reorder_commentators.py
+
+# Notes
+# - Use chapter-agnostic globs so a new chapter's files are picked up
+#   automatically and this file never needs editing when the plan grows.
+# - A glob that matches nothing is silently empty; check `guard record`'s count
+#   after adding a line.

@@ -1,0 +1,70 @@
+{
+  "_comment": [
+    "Machine-readable form of the section-type declaration in `About <plan-name>.md`.",
+    "One of these per stream, saved at `<lang>/assets/section-spec.json`.",
+    "It must agree with the declaration table; when the table changes, change this too.",
+    "Consumed by plan-day-generate/scripts/check_day_file.py and by plan-day-qa.",
+    "Delete every `_comment` key and every placeholder before use."
+  ],
+
+  "heading_level": 2,
+  "default_unit": "words",
+
+  "sections": [
+    {
+      "_comment": "Fixed: copied verbatim from <lang>/assets/liturgy.md. No ceiling.",
+      "id": "<section-id>",
+      "heading": "## <heading exactly as written in the day file>",
+      "required": true
+    },
+    {
+      "_comment": "Generated: ceiling is a hard limit; band is a diagnostic only.",
+      "id": "<section-id>",
+      "heading": "## <heading>",
+      "required": true,
+      "unit": "words",
+      "ceiling": 60,
+      "band": [40, 60],
+      "opens_with": "<required opening formula, verbatim>",
+      "ends_with": null
+    },
+    {
+      "_comment": "Extracted: the verse section. block_id_section below points at its id.",
+      "id": "<verse-section-id>",
+      "heading": "## <heading>",
+      "required": true,
+      "verbatim": true
+    },
+    {
+      "_comment": "May be absent: `required: false`. The checker notes the absence.",
+      "id": "<section-id>",
+      "heading": "## <heading>",
+      "required": false,
+      "unit": "syllables",
+      "ceiling": 300
+    },
+    {
+      "_comment": "count_from_label scopes the count to one labelled sub-block.",
+      "id": "<practice-section-id>",
+      "heading": "## <heading>",
+      "required": true,
+      "count_from_label": "**<label>:**",
+      "unit": "syllables",
+      "ceiling": 30
+    }
+  ],
+
+  "forbidden": [
+    {"name": "em dash in body prose", "regex": "—"},
+    {"name": "emoji in body text", "regex": "[🌀-🫿]"}
+  ],
+  "forbidden_exempt_sections": ["<verse-section-id>"],
+
+  "block_id_section": "<verse-section-id>",
+
+  "category_tag": {
+    "section": "<practice-section-id>",
+    "regex": "_\\(([^)]+)\\)_",
+    "allowed": ["<category>", "<category>"]
+  }
+}

@@ -1,0 +1,3 @@
+Read `4-SYSTEM/Skills/graded-translate/SKILL.md` in full, then execute it on the file(s) or input the user specifies.
+
+Skill purpose: Produce an audience-graded, term-consistent translation of a block-ID'd verse text into any target language: first build a per-grade keyword termbase for that language on top of the keyword-extract output or the rails' own concept lists (beginner / general / intermediate / advanced, rank-cut and register-adapted, optionally seeded from an attested human translation), then translate chapter by chapter with every termbase rendering locked, then run the mechanical drift check.
