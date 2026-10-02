@@ -25,6 +25,19 @@ source_description: "Index of the verbatim OpenPecha backend API v2 download in 
 | 4 | commentary | Tibetan | ཡོན་ཏན་རིན་ཆེན་སྡུད་པའི་འགྲེལ་པ་རྒྱལ་བའི་ཡུམ་གྱི་དགོངས་དོན་ལ་ཕྱིན་ཅི་མ་ལོག་པར་འཇུག་པའི་ལེགས་བཤད་ཅེས་བྱ་བ་བཞུགས། | `XkTFVp0RDzdMk0fe6vDL8` | bdrc.io · Public Domain Mark | 243,232 | 1021 | — none upstream |  |
 | 5 | commentary | Tibetan | ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པ་ཚིགས་སུ་བཅད་པའི་འགྲེལ་བ་ཟབ་མོ་རྟེན་འབྱུང་གི་དེ་ཁོ་ན་ཉིད་གསལ་བར་བྱེད་པའི་ནོར་བུའི་སྒྲོན་མ་སྐལ་བཟང་རེ་སྐོང་ཞེས་བྱ་བ་བཞུགས་སོ། | `iomd5mo5cFrdUS7Ue4h4f` | bdrc.io · Public Domain Mark | 320,583 | 1816 | — none upstream |  |
 
+## Indian commentaries (not linked upstream)
+
+These were copied from `Nalanda-texts-rails`. Upstream they are standalone texts, so they are **not aligned** to the root. Each comes in two versions:
+
+- the OpenPecha API JSON, in `raw-data/openpecha-api/texts/<text_id>/`;
+- the printed-book version, in `raw-data/nalanda-printed/` (the version Nalanda-texts-rails now keeps in `1-SOURCES/Text/`).
+
+The author attributions come from Nalanda-texts-rails' identification triage, which is not verified. Details are in `raw-data/openpecha-api/unlinked-commentaries.json`.
+
+| Work | Author | Tibetan title | API text | Printed version |
+|---|---|---|---|---|
+| Commentary on the Difficult Points of the Ratnaguṇasañcayagāthā, 'Easy to Understand' | Haribhadra | བཅོམ་ལྡན་འདས་ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པའི་ཚིགས་སུ་བཅད་པའི་དཀའ་འགྲེལ། | `d1GBmNXgtFkvmNF7Ps1L6` (BDRC `WA0RT3137`) · 246,169 chars | `raw-data/nalanda-printed/Ha_3CFM.md` ([3CFM](https://wb.pub/3CFM)) |
+
 ## Not downloaded
 
 Texts linked to this tree upstream but titled "Delete this" (test records):
