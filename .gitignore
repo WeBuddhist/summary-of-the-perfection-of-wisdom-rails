@@ -13,3 +13,6 @@
 
 # Claude Code worktrees (local only)
 .claude/worktrees/
+
+# Over GitHub's 100 MB file limit — kept locally only (scan PDF from the Dzongsar Drive export)
+0-INBOX/raw-data/dzongsar-drive/Dzongsar_missing_summary/Summary/D1__M6BD866B7 འཕགས་པ་སྡུད་པ།/Resources/R0804AAA2 ཕགས་པ་མདོ་སྡུད་པའི་འགྲེལ་པ་རྒྱས་པ་སྤས་དོན་གསལ་བའི་སྒྲོན་མེ།/Others/R0804AAA2 ཕགས་པ་མདོ་སྡུད་པའི་འགྲེལ་པ་རྒྱས་པ་སྤས་དོན་གསལ་བའི་སྒྲོན་མེ། B-2.pdf
