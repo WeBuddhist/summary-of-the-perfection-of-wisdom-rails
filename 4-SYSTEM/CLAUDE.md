@@ -433,6 +433,7 @@ Skills are reusable, step-by-step procedures stored in `4-SYSTEM/Skills/`. Each 
 | Bring one raw file into `1-SOURCES/` | `raw-to-sources` |
 | Repair mechanical OCR / page damage | `clean-raw-text` |
 | Score OCR quality before trusting a file | `tibetan-ocr-quality` |
+| Ingest a human-aligned corpus (OpenPecha API, Dzongsar docx alignments) | `aligned-corpus-intake` |
 | **Formatting and structure** | |
 | Format a root text | `format-root-text` · `format-tibetan-root-text` · `format-sanskrit-root-text` |
 | Format a commentary (OCR repair happens here, nowhere else) | `format-commentary` |

@@ -50,6 +50,12 @@ Inspects a raw text for **mechanical** damage — page markers, running headers,
 Scores a Tibetan OCR file's perplexity against a language model, so a bad scan is caught before anyone spends time formatting it.
 → [`tibetan-ocr-quality/SKILL.md`](tibetan-ocr-quality/SKILL.md)
 
+### `aligned-corpus-intake` **[exists]**
+**Purpose:** Converts a human-segmented, human-aligned corpus — OpenPecha API downloads and Dzongsar-style Google-Docs exports (Tsadel/Tsadrel line-parallel alignments, sentence segmentations, citation and *sa bcad* TOC docs, numbered alignment references, metadata sheets) — into publishable `1-SOURCES/` root texts, translations and commentaries with headings, block ids and transclusions, plus a lossless annotation sidecar per file. Manifest-driven; a verifier proves no source letter was lost.
+**Inputs:** raw data in `0-INBOX/raw-data/` and an intake manifest listing each work and its raw files.
+**Outputs:** `1-SOURCES/{Text,Translations,Commentaries}/*.md`, `1-SOURCES/Annotations/*.annotations.json`, an intake report in `0-INBOX/`.
+→ [`aligned-corpus-intake/SKILL.md`](aligned-corpus-intake/SKILL.md)
+
 ---
 
 ## 2. Formatting

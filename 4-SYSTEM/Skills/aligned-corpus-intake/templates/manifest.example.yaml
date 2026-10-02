@@ -1,0 +1,81 @@
+# Intake manifest — copy to 0-INBOX/raw-data/intake-manifest.yaml and fill in.
+# One entry per work, in build order: a work may only target a work above it.
+# Values come from the raw data (metadata sheets, OpenPecha text.json, the
+# docs themselves). Leave a field empty when the source records nothing.
+
+raw_root: 0-INBOX/raw-data
+openpecha_root: openpecha-api          # folder under raw_root, if any
+sidecar_dir: 1-SOURCES/Annotations
+
+works:
+
+# A root text whose rows ARE the human segmentation: block ^N = row N.
+- key: bo-root
+  path: 1-SOURCES/Text/bo-<slug>.md
+  adapter: rows
+  id_scheme: flat
+  text: "<docx under raw_root>"
+  title: <title in the source language>
+  frontmatter: {title: …, language: Tibetan, lang_tag: bo, file_type: root-text,
+                verse_id_format: verse, category_id: , license: , source: <URL>,
+                source_description: "…"}
+
+# A root/translation whose paragraphs are auto-numbered: block ^N = number N.
+# align_via: a line-parallel pair that re-splits this text against the target.
+# headings_from_openpecha: chapter headings carried by an OpenPecha version.
+- key: zh-root
+  adapter: numbered
+  target: bo-root
+  text: "<docx>"
+  align_via: {root_rows: "<root-side docx>", other: "<this-text-side docx>"}
+  headings_from_openpecha: {text_id: <id>, pattern: "〔.+分第.+〕"}
+  number_source: auto                 # auto (Word list numbers) | typed ("  12. text")
+  text_corrections:                   # only corrections a human decided on
+    - {id: 146, find: "…", replace: "…", reason: "…", source: "<doc>"}
+  alt_segmentations: [{label: "<name>", doc: "<docx>"}]
+
+# A translation laid out row-for-row against a root split (Tsadrel pair).
+- key: xx-translation
+  adapter: parallel
+  target: bo-root
+  pair: {root_rows: "<docx>", other: "<docx>"}
+
+# A translation whose text, segments and alignment come from OpenPecha.
+- key: zh-modern
+  adapter: op_translation
+  target: zh-root
+  openpecha_text: <text_id>
+  title_pattern: "《…》"
+  heading_pattern: "〔.+分第.+〕"
+
+# A commentary with headings and leading alignment numbers.
+- key: bo-commentary
+  adapter: ref_commentary
+  id_scheme: h2
+  target: bo-root
+  root_work: bo-root                  # for openpecha_alignment overlays
+  text: "<docx>"
+  title_paragraph: 0                  # paragraph index of the title, if any
+  heading_numbers: true               # heading path = its outline number
+  headings: {"ff0000+bold": 1}        # colour[+bold] / style:<name> -> level
+  heading_patterns: [{regex: "^卷第.+$", level: 1}]
+  ref_style: bare                     # bare | dotted
+  ref_corrections: {"189190": {refs: [189, 190], reason: "…"}}   # human-decided readings
+  # ref_map: avoid. Build the root from the numbering the commentary cites so
+  # numbers are transcluded as written; use a ref_map only for a secondary
+  # layer (overlay) made against some other numbering.
+  refs: align                         # align | candidate | none
+  split_lines: false                  # true: line breaks inside a paragraph are rows
+  lemma_colours: ["980000"]
+  legend: {"ff0000": "sa bcad heading", "980000": "quoted root passage"}
+  exclude_paragraphs: [{regex: "^#", reason: "CBETA colophon"}]
+  tsadrel: {root_rows: "<docx>", other: "<docx>"}     # row-level cross-check
+  overlays:
+    - {type: openpecha_alignment, text_id: <id>}
+    - {type: openpecha_notes, text_id: <id>}
+    - {type: refs_doc, label: "<name>", doc: "<docx>", ref_style: dotted,
+       ref_map: {doc: "<docx>", style: auto}}
+    - {type: formatting, doc: "<docx>", keep: [italic]}
+  extra_raw: ["<other raw files consulted, for provenance>"]
+  notes: >-
+    What a reviewer needs to know about how this file was assembled.
