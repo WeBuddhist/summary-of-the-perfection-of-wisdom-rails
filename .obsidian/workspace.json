@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 464.9765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +197,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "d066ca5c15f520a5",
+  "active": "15014ceefa497d3c",
   "lastOpenFiles": [
     "4-SYSTEM/Skills/aligned-corpus-intake/templates/manifest.example.yaml",
     "4-SYSTEM/Skills/aligned-corpus-intake/scripts/vault_writer.py",
