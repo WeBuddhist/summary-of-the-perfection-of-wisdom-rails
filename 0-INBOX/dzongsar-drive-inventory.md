@@ -6,9 +6,9 @@ source_description: "Index of the Google Drive export (the Dzongsar tracking she
 
 # Dzongsar Drive export — Summary of the Perfection of Wisdom (Sañcayagāthā)
 
-**From:** `Dzongsar_corpus.zip` in ~/Downloads (exported from Google Drive on 2026-10-02 with the Claude in Chrome extension). Copied 2026-10-02; checksums are in `raw-data/dzongsar-drive/manifest.json`.
+**From:** `Dzongsar_corpus.zip`, `Dzongsar_missing_summary.zip` in ~/Downloads (exported from Google Drive on 2026-10-02 with the Claude in Chrome extension). Copied 2026-10-02; checksums are in `raw-data/dzongsar-drive/manifest.json`.
 
-**What's here:** the `03_འཕགས་སྡུད།` section of the tracking sheet. That is 28 files: metadata sheets, clean texts, TOCs, segmentations, and root-text and commentary alignment docs. The folder paths are exactly as they were inside the zips. Three files are shared by all texts and copied whole: `Dzongsar_sheet.csv`, `links_manifest.csv` (which says what was downloaded from each sheet cell), and `Tibetan_Catalogue_Seg-Align_full_workbook.xlsx` (the master catalogue, with its authors and segmentation-guideline tabs).
+**What's here:** the `03_འཕགས་སྡུད།` section of the tracking sheet. That is 146 files: metadata sheets, clean texts, TOCs, segmentations, and root-text and commentary alignment docs. The folder paths are exactly as they were inside the zips. Three files are shared by all texts and copied whole: `Dzongsar_sheet.csv`, `links_manifest.csv` (which says what was downloaded from each sheet cell), and `Tibetan_Catalogue_Seg-Align_full_workbook.xlsx` (the master catalogue, with its authors and segmentation-guideline tabs).
 
 ## Sheet rows
 
@@ -26,15 +26,30 @@ Column letters are the sheet's columns. A Metadata · B Clean text · C TOC · D
 
 ## Failed downloads
 
-These links in the sheet could not be exported (permission, or a non-Google file). Fetch them by hand if they matter.
+These links in the sheet could not be exported on the first pass. "Second pass" shows the result of the follow-up download (see below).
 
-| Row | Column | Label | Link |
-|---|---|---|---|
-| — | | none | |
+| Row | Column | Label | Link | Second pass |
+|---|---|---|---|---|
+| — | | none | | |
 
 ## External links in the sheet
 
 - none
+
+## Second pass: `Dzongsar_missing_summary.zip`
+
+The first two zips skipped or failed some links. The Chrome extension then fetched every link the sheet lists for this text that was still missing, including the Tibetan, Chinese and General-list tabs and everything inside linked folders. The result is in `raw-data/dzongsar-drive/Dzongsar_missing_summary/`. Each top-level name starts with its number in the request: A = linked on the Dzongsar tab but never crawled, B = failed on the first pass, C = uploaded files skipped in the commentary folders, D = linked only from the other tabs.
+
+- **Downloaded:** 116 files (A: 5, D: 111).
+- **Renamed:** 39 paths. A name over 200 bytes was shortened at a tsheg, keeping its ID and extension, and extension-less files got one. Some nested Tibetan folder names had pushed full paths past macOS's 1024-byte limit. `path-renames.json` maps each original path to its new one; `missing_manifest.csv` still uses the original paths.
+- **Overlap:** many items, especially a text's main folder, contain copies of files already in the first two zips. Nothing has been de-duplicated.
+- **Not in git:** Dzongsar_missing_summary/…/Others/R0804AAA2 … B-2.pdf (105 MB, over GitHub's 100 MB limit; listed in .gitignore). It is on disk only.
+
+Still unavailable (0 distinct links). Reasons: none.
+
+| # | Item | Status | Link |
+|---|---|---|---|
+| — | none | | |
 
 ## Next step
 
