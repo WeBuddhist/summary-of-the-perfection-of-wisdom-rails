@@ -536,4 +536,101 @@ batching   : 479 calls for 487 blocks (<=3 blocks, <=900 chars, <=32 lines per c
 [405/479] ^1-409  (1 blk, 525 src, 3606 payload) … 3.4s  Second, this is the single verse beginning with "In 
 [406/479] ^1-410  (1 blk, 35 src, 2615 payload) … 1.9s  Third, this has two parts: the brief presentation an
 [407/479] ^1-411  (1 blk, 671 src, 3440 payload) … 3.9s  First, this is the single verse beginning with "The 
-[408/479] ^1-412  (1 blk, 25 src, 2994 payload) … 
+[408/479] ^1-412  (1 blk, 25 src, 2994 payload) … 1.6s  Second, this has two parts: the example and the mean
+[409/479] ^1-413  (1 blk, 420 src, 3545 payload) … 3.0s  First, this is the single verse beginning with "For 
+[410/479] ^1-414  (1 blk, 772 src, 3108 payload) … 3.3s  Second, this is the single verse beginning with "Jus
+[411/479] ^1-415  (1 blk, 50 src, 3155 payload) … 1.9s  Regarding the fourth, there are two aspects: the inf
+[412/479] ^1-416  (1 blk, 527 src, 3862 payload) … 3.4s  First, this is the single verse beginning with "If a
+[413/479] ^1-417  (1 blk, 887 src, 3628 payload) … 4.5s  Second, this is the single verse beginning with "Fur
+[414/479] ^1-418  (1 blk, 139 src, 3503 payload) … 2.8s  The explanation of the perfection of diligence. Seco
+[415/479] ^1-419  (1 blk, 64 src, 1703 payload) … 2.2s  The instruction to exert diligence for the sake of o
+[416/479] ^1-420  (1 blk, 540 src, 2468 payload) … 3.4s  The first, "sentient beings, persons, and so forth,"
+[417/479] ^1-421  (1 blk, 95 src, 3335 payload) … 1.8s  The second part consists of two aspects: not abandon
+[418/479] ^1-422  (1 blk, 27 src, 3118 payload) … 2.0s  The first of these has two parts: the example and th
+[419/479] ^1-423  (1 blk, 493 src, 3459 payload) … 3.4s  The first, "if one is scolded," and so forth, is a s
+[420/479] ^1-424  (1 blk, 611 src, 3415 payload) … 3.8s  The second, "just as enlightenment," and so forth, i
+[421/479] ^1-425  (1 blk, 532 src, 3215 payload) … 3.1s  The second, "my happiness," and so forth, is a singl
+[422/479] ^1-426  (1 blk, 41 src, 2462 payload) … 1.4s  The second, unwavering effort, has two parts: a brie
+[423/479] ^1-427  (1 blk, 448 src, 3079 payload) … 3.8s  The first, "bodhisattva," and so forth, is a single 
+[424/479] ^1-428  (1 blk, 32 src, 2457 payload) … 2.0s  The second has two parts: the factors to be abandone
+[425/479] ^1-429  (1 blk, 1398 src, 4002 payload) … 4.9s  The first, "bodhisattva," and so forth, is a single 
+[426/479] ^1-430  (1 blk, 64 src, 1223 payload) … 1.7s  Regarding the second, there are two parts: the persp
+[427/479] ^1-431  (1 blk, 1253 src, 2660 payload) … 5.3s  Regarding the first, there is one verse beginning wi
+[428/479] ^1-432  (1 blk, 1136 src, 2295 payload) … 4.8s  The second point, "If someone," and so forth, consis
+[429/479] ^1-433  (1 blk, 72 src, 1231 payload) … 2.0s  Striving by way of the purity of the three spheres. 
+[430/479] ^1-434  (1 blk, 599 src, 2052 payload) … 3.2s  The first is the single verse beginning with "bringi
+[431/479] ^1-435  (1 blk, 488 src, 3366 payload) … 4.2s  The second is the single verse beginning with "at th
+[432/479] ^1-436  (1 blk, 104 src, 2509 payload) … 1.8s  The third is patience, which consists of three types
+[433/479] ^1-437  (1 blk, 65 src, 2849 payload) … 1.9s  Regarding the patience of certain conviction in the 
+[434/479] ^1-438  (1 blk, 785 src, 3829 payload) … 3.6s  The first is the single verse beginning with "if fro
+[435/479] ^1-439  (1 blk, 415 src, 3728 payload) … 3.0s  The second is the two verses beginning with "a bodhi
+[436/479] ^1-440  (1 blk, 500 src, 2626 payload) … 3.1s  The fruition of maturation for one who abides in pat
+[437/479] ^1-441  (1 blk, 126 src, 3405 payload) … 2.5s  Patience that is not provoked by harm. The second, t
+[438/479] ^1-442  (1 blk, 384 src, 4049 payload) … 3.0s  The first is the single verse beginning with "If a s
+[439/479] ^1-443  (1 blk, 683 src, 4237 payload) … 4.0s  The second is the single verse beginning with "The b
+[440/479] ^1-444  (1 blk, 1036 src, 4701 payload) … 3.7s  Patience of accepting suffering. The third is the ex
+[441/479] ^1-445  (1 blk, 104 src, 3633 payload) … 1.9s  The fourth is the explanation of the benefits of pos
+[442/479] ^1-446  (1 blk, 945 src, 2458 payload) … 3.8s  The benefits of possessing supreme ethical disciplin
+[443/479] ^1-447  (1 blk, 169 src, 3728 payload) … 1.8s  Explaining the distinction between the superior and 
+[444/479] ^1-448  (1 blk, 677 src, 2401 payload) … 3.8s  Distinction by way of complete dedication. First, re
+[445/479] ^1-449  (1 blk, 33 src, 3465 payload) … 1.6s  The second has two parts: a brief presentation and a
+[446/479] ^1-450  (1 blk, 476 src, 4090 payload) … 3.0s  First, regarding the verse beginning with "Whatever 
+[447/479] ^1-451  (1 blk, 57 src, 2575 payload) … 2.7s  The second, the detailed explanation, has two parts:
+[448/479] ^1-452  (1 blk, 402 src, 3175 payload) … 3.2s  The first, regarding the verse beginning with "If a 
+[449/479] ^1-453  (1 blk, 629 src, 4208 payload) … 3.3s  The second, regarding the verse beginning with "If f
+[450/479] ^1-454  (1 blk, 66 src, 2853 payload) … 1.5s  The third, regarding the classification by way of th
+[451/479] ^1-455  (1 blk, 414 src, 3503 payload) … 3.3s  The first, regarding the verse beginning with "Guard
+[452/479] ^1-456  (1 blk, 51 src, 2506 payload) … 1.5s  The second, regarding the actual factors to be aband
+[453/479] ^1-457  (1 blk, 539 src, 3236 payload) … 3.4s  The first, regarding the verse beginning with "If a 
+[454/479] ^1-458  (1 blk, 811 src, 3521 payload) … 4.2s  The second, regarding the verse beginning with "For 
+[455/479] ^1-459  (1 blk, 122 src, 3267 payload) … 2.2s  The fifth, regarding the perfection of generosity, c
+[456/479] ^1-460  (1 blk, 195 src, 3777 payload) … 2.9s  Developing joy in generosity by understanding the fa
+[457/479] ^1-461  (1 blk, 749 src, 2958 payload) … 3.8s  The first, "Sentient beings purified," and so forth,
+[458/479] ^1-462  (1 blk, 366 src, 3904 payload) … 2.1s  The second, "Perception of a self," and so forth, re
+[459/479] ^1-463  (1 blk, 767 src, 2799 payload) … 4.5s  The third, "At that time, the Bodhisattva," and so f
+[460/479] ^1-464  (1 blk, 53 src, 3100 payload) … 1.5s  The second, the manner of how to give, has two parts
+[461/479] ^1-465  (1 blk, 116 src, 3382 payload) … 2.3s  The first has three parts: giving for the sake of ot
+[462/479] ^1-466  (1 blk, 495 src, 4144 payload) … 3.4s  The first, "Bodhisattva," and so forth, refers to th
+[463/479] ^1-467  (1 blk, 215 src, 3101 payload) … 2.5s  The second, "That also," and so forth, refers to one
+[464/479] ^1-468  (1 blk, 394 src, 3601 payload) … 2.6s  The third, "Having given a gift," and so forth, refe
+[465/479] ^1-469  (1 blk, 37 src, 2722 payload) … 1.6s  The second, regarding the benefits, has two parts: g
+[466/479] ^1-470  (1 blk, 384 src, 3253 payload) … 2.7s  The first, "In this way, giving," and so forth, refe
+[467/479] ^1-471  (1 blk, 103 src, 3390 payload) … 2.2s  The second, regarding the specific, has two parts: t
+[468/479] ^1-472  (1 blk, 586 src, 3235 payload) … 3.3s  The first, "In the three realms," and so forth, refe
+[469/479] ^1-473  (1 blk, 553 src, 3388 payload) … 2.9s  If one dedicates [that merit] to the supreme and exc
+[470/479] ^1-474  (1 blk, 611 src, 4287 payload) … 3.3s  The second, "If a Bodhisattva," and so forth, refers
+[471/479] ^1-475  (1 blk, 109 src, 2642 payload) … 1.7s  The Fruition of the Path. Second, regarding the expl
+[472/479] ^1-476  (1 blk, 1028 src, 3934 payload) … 4.0s  The Fruition of the Specific Path. First, this is ta
+[473/479] ^1-477  (1 blk, 1458 src, 4930 payload) … 4.5s  Through ethical discipline, one abandons the various
+[474/479] ^1-478  (1 blk, 1969 src, 3128 payload) … 6.4s  "The second [point] concerns the single verse beginn
+[475/479] ^1-479  (1 blk, 18 src, 1177 payload) … 1.3s  The conclusion of that.
+[476/479] ^1-480  (1 blk, 1665 src, 2938 payload) … 5.1s  The third, the conclusion by way of the purpose of t
+[477/479] ^1-481,^1-482  (2 blk, 505 src, 2028 payload) … 3.1s  The Concluding Meaning. Regarding the fourth section
+[478/479] ^2-1  (1 blk, 90 src, 2569 payload) … 2.0s  The second section of the root outline, which connec
+[479/479] ^2-2  (1 blk, 3802 src, 6588 payload) … 9.4s  Here it is said: The great ocean of the Buddha’s exc
+
+wrote 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-mipham-lekshe-en.md  (487/487 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/work/bo-mipham-lekshe-en.jsonl
+calls  479 planned for 487 blocks; 487 blocks translated
+note   30 block(s) where the translation's line count differs from the source's (id: source→output): ^0-2: 1→11, ^1-8: 1→3, ^1-25: 1→3, ^1-30: 1→3, ^1-31: 1→3, ^1-54: 1→3, ^1-58: 1→3, ^1-76: 1→3, ^1-128: 1→3, ^1-152: 1→20 …
+source     : 1-SOURCES/Commentaries/bo-mipham-lekshe.md
+target     : english (en)   mode=headings
+track      : 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries
+headings   : 453 total, 0 already in ledger, 453 to do
+batching   : 31 calls for 453 headings (<=15 per call)
+[1/31] ^1-0 … ^1-3-2-2-1-1-0  དངོས་བསྟན་སྟོང་ཉིད་ཀྱི་ཚུལ་ལྟར་བཤད་པ། … 3.2s  An explanation according to the method of explicitly taught 
+[2/31] ^1-3-2-2-1-1-1-0 … ^1-3-2-2-1-1-1-1-1-1-2-0  **བསྡུས་ཏེ་བསྟན་པའི་སྒོ།** … 2.6s  The section summarizing the explanation
+[3/31] ^1-3-2-2-1-1-1-1-1-1-3-0 … ^1-3-2-2-1-1-1-1-1-3-2-2-2-2-0  **འབྲས་བུ་མཐའ་གཉིས་སུ་མི་གནས་པའི་ཚུལ།** … 1.8s  The manner in which the result does not abide in the two ext
+[4/31] ^1-3-2-2-1-1-1-1-2-0 … ^1-3-2-2-1-1-2-1-0  **ཉམས་སུ་བླང་བྱ་ཆོས།** … 2.4s  Dharmas to be practiced
+[5/31] ^1-3-2-2-1-1-2-1-1-0 … ^1-3-2-2-1-1-2-2-1-0  **མི་གནས་པའི་ཚུལ།** … 3.5s  The manner of non-abiding.
+[6/31] ^1-3-2-2-1-1-2-2-2-0 … ^1-3-2-2-1-1-2-3-1-2-2-1-1-1-1-0  **མཐའ་ཡས་པར་བསྟན་པ།** … 2.7s  The infinite teaching
+[7/31] ^1-3-2-2-1-1-2-3-1-2-2-1-1-1-2-0 … ^1-3-2-2-1-1-2-3-2-1-2-0  **ཞི་བ་ཆེན་པོའི་གོ་འཕང་དུས་གསུམ་གྱི་སངས་ … 2.7s  The emergence of the Buddhas of the three times in the state
+[8/31] ^1-3-2-2-1-1-2-3-2-2-0 … ^1-3-2-2-1-1-2-4-1-1-1-2-0  **ཤེར་ཕྱིན་ཡང་དག་པ་བཤད་པའི་ཕན་ཡོན།** … 2.4s  The Benefits of Correctly Explaining the Perfection of Wisdo
+[9/31] ^1-3-2-2-1-1-2-4-1-1-2-0 … ^1-3-2-2-1-1-2-4-1-2-2-2-1-2-0  **ཡི་རང་དང་བསྔོ་བའི་གཞི་ཐུན་མོང་དུ་བསྟན་ … 3.4s  A general presentation of the basis for rejoicing and dedica
+[10/31] ^1-3-2-2-1-1-2-4-1-2-2-2-2-0 … ^1-3-2-2-1-1-2-4-2-3-2-0  **ལམ་ཕར་ཕྱིན་དག་པ་ཐོབ་ཚུལ།** … 2.7s  The manner of attaining the purity of the path of the perfec
+[11/31] ^1-3-2-2-1-1-2-4-2-4-0 … ^1-3-2-2-1-1-3-1-2-3-2-0  **མཉམ་བཞག་ཡེ་ཤེས་དེའི་རྣམ་པར་དམིགས་མེད་བ … 2.4s  Teaching on the non-conceptual nature of that meditative equ
+[12/31] ^1-3-2-2-1-1-3-1-3-0 … ^1-3-2-2-1-1-3-1-3-2-1-4-0  **སྦྱོར་བའི་བར་ཆོད་དུ་གྱུར་པ་བསྟན་པ།** … 2.2s  Showing the obstacles to the application
+[13/31] ^1-3-2-2-1-1-3-1-3-2-2-0 … ^1-3-2-2-1-1-3-1-4-2-2-2-0  **བདུད་ལས་འབྱུང་བའི་རྒྱུ་མཚན།** … 2.8s  The reasons for the arising of Māra
+[14/31] ^1-3-2-2-1-1-3-1-4-2-2-2-1-0 … ^1-3-2-2-1-1-3-1-4-2-3-2-2-2-2-0  **ལམ་མིན་ཚར་གཅོད་པ།** … 1.9s  Eliminating the non-path
+[15/31] ^1-3-2-2-1-1-3-1-4-2-3-2-2-2-3-0 … ^1-3-2-2-1-1-3-1-5-2-2-0  **གྲུ་འཛུགས་པ།** … 2.9s  Launching the ferry
+[16/31] ^1-3-2-2-1-1-3-1-5-2-2-1-0 … ^1-3-2-2-1-1-3-3-1-0  **སྤྱད་བྱའི་ཆོས་ཟབ་པར་བསྟན་པ།** … 
