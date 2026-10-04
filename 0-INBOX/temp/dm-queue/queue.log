@@ -1070,4 +1070,209 @@ batching   : 479 calls for 487 blocks (<=3 blocks, <=900 chars, <=32 lines per c
 [409/479] ^1-413  (1 blk, 420 src, 2791 payload) … 2.5s  第一，關於「譬如某人」等一偈，其義如下：譬如某人發現了珍寶伏藏，卻沒有對該伏藏產生貪著或希求之心，因而沒
 [410/479] ^1-414  (1 blk, 772 src, 3643 payload) … 3.6s  第二，關於「如是菩提」等一偈，其義如下：如同上述譬喻，具足智慧的菩薩，為了給予眾生現前的喜樂與究竟的安樂
 [411/479] ^1-415  (1 blk, 50 src, 3077 payload) … 2.2s  第四部分包含應斷之低劣與應取之殊勝，這兩者。
-[412/479] ^1-416  (1 blk, 527 src, 3587 payload) … 
+[412/479] ^1-416  (1 blk, 527 src, 3587 payload) … === 2026-10-04 14:02:56 1-SOURCES/Translations/bo-ratnagunasancayagatha.md -> en
+source     : 1-SOURCES/Translations/bo-ratnagunasancayagatha.md
+target     : english (en)   focus=tibetan
+track      : 3-TRANSFORMATIONS/Translations/Dharmamitra/en
+blocks     : 308 total, 308 already in ledger, 0 to do
+nothing to translate; re-rendered 3-TRANSFORMATIONS/Translations/Dharmamitra/en/bo-ratnagunasancayagatha-en.md
+source     : 1-SOURCES/Translations/bo-ratnagunasancayagatha.md
+target     : english (en)   mode=headings
+track      : 3-TRANSFORMATIONS/Translations/Dharmamitra/en
+headings   : 9 total, 9 already in ledger, 0 to do
+batching   : 0 calls for 0 headings (<=15 per call)
+
+wrote 3-TRANSFORMATIONS/Translations/Dharmamitra/en/bo-ratnagunasancayagatha-en.md  (0 heading(s) translated this run)
+=== 2026-10-04 14:02:56 1-SOURCES/Commentaries/bo-mipham-lekshe.md -> en
+source     : 1-SOURCES/Commentaries/bo-mipham-lekshe.md
+target     : english (en)   focus=tibetan
+track      : 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries
+blocks     : 487 total, 487 already in ledger, 0 to do
+nothing to translate; re-rendered 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-mipham-lekshe-en.md
+source     : 1-SOURCES/Commentaries/bo-mipham-lekshe.md
+target     : english (en)   mode=headings
+track      : 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries
+headings   : 453 total, 453 already in ledger, 0 to do
+batching   : 0 calls for 0 headings (<=15 per call)
+
+wrote 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-mipham-lekshe-en.md  (0 heading(s) translated this run)
+=== 2026-10-04 14:02:56 1-SOURCES/Commentaries/bo-mipham-lekshe.md -> zh
+source     : 1-SOURCES/Commentaries/bo-mipham-lekshe.md
+target     : modern chinese (zh)   focus=tibetan
+track      : 3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries
+blocks     : 487 total, 419 already in ledger, 68 to do
+batching   : 67 calls for 68 blocks (<=3 blocks, <=900 chars, <=32 lines per call)
+[1/67] ^1-417  (1 blk, 887 src, 4087 payload) … 4.7s  第二，關於「如是色」等一偈，其義如下：與上述情況不同者，即是此處：即便菩薩對於色、聲、香、味、觸等五欲功
+[2/67] ^1-418  (1 blk, 139 src, 3494 payload) … 2.4s  精進波羅蜜多之闡釋。第二，關於精進，分為三點：勸導為利他而精進、不退縮地精進、以三輪清淨之方式精進。
+[3/67] ^1-419  (1 blk, 64 src, 3536 payload) … 2.6s  關於勸導為利他而精進，第一部分分為略說與廣說二者。
+[4/67] ^1-420  (1 blk, 540 src, 3411 payload) … 3.3s  第一，關於「眾生、補特伽羅」等一偈，其義如下：菩薩為了利益一切名為眾生、補特伽羅等之有情，而披上修持利樂
+[5/67] ^1-421  (1 blk, 95 src, 2484 payload) … 1.7s  第二部分分為二：即便遭受損害也不捨棄為其利益而精進，以及恆常為利他而精進之方式。
+[6/67] ^1-422  (1 blk, 27 src, 2362 payload) … 2.0s  第一部分分為譬喻與義理二者。
+[7/67] ^1-423  (1 blk, 493 src, 2780 payload) … 2.9s  第一，關於「即便遭受責罵」等一偈，其義如下：若有人以惡語責罵，甚或恆常以肢體毆打，即便如此，女僕也不會對
+[8/67] ^1-424  (1 blk, 611 src, 2850 payload) … 3.7s  第二，關於「如是菩提」等一偈，其義如下：如同上述譬喻，為了無上菩提而進入殊勝菩提道之菩薩，應當如同成為一
+[9/67] ^1-425  (1 blk, 532 src, 3443 payload) … 4.7s  第二，關於「自身之安樂」等一偈，其義如下：由於執著自身會引發輪迴中一切痛苦，而珍視他人則能獲得佛陀之一切
+[10/67] ^1-426  (1 blk, 41 src, 3611 payload) … 2.8s  第二，關於不退轉之精進，分為略說與廣說二者。
+[11/67] ^1-427  (1 blk, 448 src, 3430 payload) … 3.3s  第一，關於「菩薩」等一偈，其義如下：若有菩薩，因大悲心之力量，欲於此無量長久之輪迴中安住而不捨離；且於安
+[12/67] ^1-428  (1 blk, 32 src, 2780 payload) … 2.5s  第二，關於此部分，分為所斷與對治二者。
+[13/67] ^1-429  (1 blk, 1398 src, 3497 payload) … 6.1s  第一，關於「菩薩」等一偈，其義如下：若有菩薩於方便法門不善巧，心想：「我當於億劫等無量時數中精進，直至此
+[14/67] ^1-430  (1 blk, 64 src, 3326 payload) … 2.0s  第二，關於此部分，分為從時間角度而言與從實體角度而言二者。
+[15/67] ^1-431  (1 blk, 1253 src, 4683 payload) … 5.2s  第一，關於「菩提無上」等一偈，其義如下：為了捨棄那種認為時間漫長與實體難行之想，而發起精進之方式，即是從
+[16/67] ^1-432  (1 blk, 1136 src, 4248 payload) … 4.9s  第二，關於「若有某人」等二偈，其義如下：若有某人對菩薩說：「請你摧毀這座須彌山王，摧毀之後，你便能證得無
+[17/67] ^1-433  (1 blk, 72 src, 2820 payload) … 15.2s  以三輪清淨之方式精進。第三部分分為二：應遮止者與應趣入者。
+[18/67] ^1-434  (1 blk, 599 src, 3523 payload) … 3.3s  第一，關於「令眾生」等一偈，其義如下：若在發起精進時仍存有「所緣」，便會因其影響而成為不淨的懈怠。何謂「
+[19/67] ^1-435  (1 blk, 488 src, 2728 payload) … 3.3s  第二，關於「何時身與」等一偈，其義如下：在發起精進之時，若行者心中無有關於自身之身、心，以及他人眾生之執
+[20/67] ^1-436  (1 blk, 104 src, 3060 payload) … 2.4s  第三，關於忍辱波羅蜜多，分為三種：對法生起定解之忍、不為損害所動之忍、以及忍受痛苦之忍。
+[21/67] ^1-437  (1 blk, 65 src, 3068 payload) … 2.3s  第三，關於對法生起定解之忍，分為二：正釋與其功德。
+[22/67] ^1-438  (1 blk, 785 src, 3076 payload) … 5.7s  第一，關於「若從他人」等一偈，其義如下：若聽聞他人對自己辱罵等惡言惡語，應當思惟：這正是獲得了修習忍辱的
+[23/67] ^1-439  (1 blk, 415 src, 3120 payload) … 2.8s  第二，關於「菩薩」等二偈，其義如下：若菩薩具備忍辱之善法，則即便有人將三千大千世界裝滿各種珍寶，並供養世
+[24/67] ^1-440  (1 blk, 500 src, 3567 payload) … 3.8s  安住於忍辱之異熟果，即是身體如黃金般清淨，具足三十二相，且威力與勢力無窮無盡；而修習對法生起定解之忍的士
+[25/67] ^1-441  (1 blk, 126 src, 3720 payload) … 2.3s  關於「不為損害所動之忍辱」。第二，關於對損害不以為意之忍辱，分為二：如何修習忍辱，以及修習忍辱之果報。
+[26/67] ^1-442  (1 blk, 384 src, 3100 payload) … 2.2s  第一，關於「若有眾生」等一偈，其義如下：若有眾生取來旃檀香粉，以極其恭敬之心塗抹於菩薩之身；而另一人則懷
+[27/67] ^1-443  (1 blk, 683 src, 3366 payload) … 3.4s  第二，關於「菩薩」等一偈，其義如下：菩薩通達實相之理，以此修習忍辱，並生起具足忍辱之心，若能將此功德迴向
+[28/67] ^1-444  (1 blk, 1036 src, 3990 payload) … 5.2s  關於「忍受痛苦之忍辱」。第三，開示忍受痛苦之忍辱。關於「修習忍辱，心作如是念」等二偈，修習忍辱者應當生起
+[29/67] ^1-445  (1 blk, 104 src, 3659 payload) … 3.1s  第四，關於持戒，分為二部分：闡述具足殊勝持戒之功德，以及辨析持戒之勝劣差別。
+[30/67] ^1-446  (1 blk, 945 src, 3754 payload) … 5.1s  關於「具足殊勝持戒之功德」。首先，關於「以持戒」等一偈，修習持戒者，希求寂靜涅槃，將會變得極為殊勝，因為
+[31/67] ^1-447  (1 blk, 169 src, 2855 payload) … 3.0s  關於「辨析持戒之勝劣差別」。第二部分，辨析持戒之勝劣差別，分為三種：依據迴向之方式、依據發心之方式，以及
+[32/67] ^1-448  (1 blk, 677 src, 3669 payload) … 4.4s  關於「依據迴向之方式」進行辨析。首先，關於「若聲聞」等一偈，若以希求證得聲聞阿羅漢與獨覺菩提之心而守護持
+[33/67] ^1-449  (1 blk, 33 src, 2506 payload) … 1.9s  第二部分分為略說與廣說二者。
+[34/67] ^1-450  (1 blk, 476 src, 3071 payload) … 3.8s  第一，關於「若法決定」等一偈。所謂「應學之法」，是指依據發心而決定者，即菩薩所應證得之無上菩提殊勝功德，
+[35/67] ^1-451  (1 blk, 57 src, 3020 payload) … 2.6s  第二部分廣說，分為應趣入之殊勝與應遠離之低劣二者。
+[36/67] ^1-452  (1 blk, 402 src, 2542 payload) … 2.9s  第一，關於「若菩提」等一偈。若有初發心菩薩，即便以耽著五欲之方式而行事，但若能從內心深處皈依佛、法、僧三
+[37/67] ^1-453  (1 blk, 629 src, 3217 payload) … 3.2s  第二，關於「若劫」等一偈。若於億劫之中修習十善業道，然若對聲聞阿羅漢與獨覺之果位生起希求之心，則此時大乘
+[38/67] ^1-454  (1 blk, 66 src, 2854 payload) … 2.1s  依據有無執著而進行分類。第三部分分為應取與應捨二者。
+[39/67] ^1-455  (1 blk, 414 src, 3212 payload) … 3.0s  第一，關於「持戒」等一偈。若能持守戒律，並將此功德完全迴向於無上菩提，且對於該戒律不生起執著相，因而無有
+[40/67] ^1-456  (1 blk, 51 src, 2877 payload) … 1.7s  第二部分分為應捨之法與顯示其對治二者。
+[41/67] ^1-457  (1 blk, 539 src, 2636 payload) … 3.8s  第一，關於「若能持守」等一偈。若菩薩行於勝者之大乘道，心中生起種種分別之想，認為「這些眾生持戒，而那些眾
+[42/67] ^1-458  (1 blk, 811 src, 3512 payload) … 3.7s  第二，關於「於何處有我」等一偈。對於那些已證悟人無我，且心中無有「我」之想與「眾生」之想的人而言，既已遠
+[43/67] ^1-459  (1 blk, 122 src, 3395 payload) … 2.2s  第五，關於布施波羅蜜多，分為二者：一者，了知布施與不布施之過患與功德，從而對布施生起歡喜；二者，應當如何
+[44/67] ^1-460  (1 blk, 195 src, 3580 payload) … 2.7s  了知布施與不布施之過患與功德，從而對布施生起歡喜。關於第一點，分為三項：菩薩行布施之方式；凡夫不布施之過
+[45/67] ^1-461  (1 blk, 749 src, 3706 payload) … 4.7s  第一，關於「眾生清淨」等二偈。對於上述已證悟人無我，且因遠離了分別心與貪欲而具足清淨戒律的眾生而言，對於
+[46/67] ^1-462  (1 blk, 366 src, 3225 payload) … 3.0s  第二，關於「執著於我」等一偈。對於那些在實相中本無實體，卻因執著於「我」之想，並對眼根等諸法生起「我所」
+[47/67] ^1-463  (1 blk, 767 src, 3933 payload) … 4.1s  第三，關於「彼時菩薩」等一偈。如是，於輪迴中受生之時，菩薩了知眾生皆因慳吝之勢力而變得貧窮，故而自身斷除
+[48/67] ^1-464  (1 blk, 53 src, 2882 payload) … 1.7s  第二，關於如何布施之方式，分為布施之本體與其功德利益二者。
+[49/67] ^1-465  (1 blk, 116 src, 3102 payload) … 2.6s  第一，關於布施之方式，分為三種：以慈悲心為他人而布施；具備善巧方便之迴向；以及對異熟果報與布施之物不生貪
+[50/67] ^1-466  (1 blk, 495 src, 3165 payload) … 3.4s  第一，關於「菩薩」等三句。那位具備明晰智慧的菩薩，即便只是布施一團食物，也會以慈悲心為前導，思維著：「願
+[51/67] ^1-467  (1 blk, 215 src, 2493 payload) … 3.2s  第二，關於「眾生」等一句。布施所生之福德，亦是為了利益一切眾生界，為了令自己與一切眾生皆能證得無上菩提，
+[52/67] ^1-468  (1 blk, 394 src, 2865 payload) … 3.4s  第三，關於「布施之後」等二句。如是，菩薩在「布施之後」，對於所施之物以及對其回報之「事物」，並不會以希求
+[53/67] ^1-469  (1 blk, 37 src, 2870 payload) … 2.9s  第二，關於功德利益，分為總說與別說二者。
+[54/67] ^1-470  (1 blk, 384 src, 2663 payload) … 3.0s  第一，關於「如是布施」等二句。如是，該位菩薩在「如是」布施時，具備善巧方便的作意，不僅「善於布施」，且對
+[55/67] ^1-471  (1 blk, 103 src, 2618 payload) … 2.1s  第二，關於別說，分為具備悲心等善巧方便之布施功德，以及不生貪著而布施之功德二者。
+[56/67] ^1-472  (1 blk, 586 src, 2709 payload) … 2.9s  第一，關於「三界中」等三頌。以三界中所有的一切眾生，無一遺漏，盡其所有作為觀察的極限範例，假設這些眾生皆
+[57/67] ^1-473  (1 blk, 553 src, 3352 payload) … 2.7s  並為一切眾生之利益，將此功德迴向於無上正等正覺之佛果。僅僅生起一念如是迴向之心，便能勝過一切眾生之善根。
+[58/67] ^1-474  (1 blk, 611 src, 3576 payload) … 4.4s  第二，關於「若菩薩」等一頌。若菩薩對眾生行布施時，對於布施之福德不生執著，對於所施之物亦無吝惜，以如是極
+[59/67] ^1-475  (1 blk, 109 src, 3714 payload) … 2.2s  道之果。第二，闡釋道之果，分為二：個別道之果，以及圓滿道之果。
+[60/67] ^1-476  (1 blk, 1028 src, 4040 payload) … 4.0s  個別道之果。第一，以「菩薩布施」等十六句或四頌來闡釋。如是，菩薩之一切道皆不離六波羅蜜多，因此，大乘與廣
+[61/67] ^1-477  (1 blk, 1458 src, 5077 payload) … 4.8s  藉由持戒，能斷除畜生道中種種不同類別與形體之眾生相續，不僅如此，亦能遠離八無暇處，並以此戒律，恆常獲得殊
+[62/67] ^1-478  (1 blk, 1969 src, 5032 payload) … 6.5s  第二，「圓滿此法等」為一偈。凡安住於大乘種性者，自最初發菩提心起，乃至如前所說之六波羅蜜多，皆是大乘道之
+[63/67] ^1-479  (1 blk, 18 src, 1207 payload) … 1.7s  其結尾總結。
+[64/67] ^1-480  (1 blk, 1665 src, 2951 payload) … 6.8s  第三，以如是開示之必要而作結尾者，即「療癒眾生之疾」等一偈。所謂療癒眾生身心之疾，使其不留餘地地從根本上
+[65/67] ^1-481,^1-482  (2 blk, 505 src, 4387 payload) … 3.3s  結尾之義。第四，關於結尾之義，分為二者：一是以顯示其餘經文無餘之語句來總結章節，二是以顯示傳承純正之目的
+[66/67] ^2-1  (1 blk, 90 src, 2095 payload) … 2.1s  至於根本科判的第二部分，即關於「現觀次第」的結合方式，應當從另行存在的文獻中去了解。
+[67/67] ^2-2  (1 blk, 3802 src, 6010 payload) … 14.1s  在此宣說：佛陀善說之大海中，作為心要的般若波羅蜜多，其無價之珍寶心髓，即是此《功德寶藏攝頌》之如意寶。其
+
+wrote 3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-mipham-lekshe-zh.md  (487/487 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/work/bo-mipham-lekshe-zh.jsonl
+calls  67 planned for 68 blocks; 68 blocks translated
+note   5 block(s) where the translation's line count differs from the source's (id: source→output): ^1-425: 1→3, ^1-435: 1→3, ^1-458: 1→3, ^1-463: 1→3, ^2-2: 1→3
+source     : 1-SOURCES/Commentaries/bo-mipham-lekshe.md
+target     : modern chinese (zh)   mode=headings
+track      : 3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries
+headings   : 453 total, 0 already in ledger, 453 to do
+batching   : 31 calls for 453 headings (<=15 per call)
+[1/31] ^1-0 … ^1-3-2-2-1-1-0  དངོས་བསྟན་སྟོང་ཉིད་ཀྱི་ཚུལ་ལྟར་བཤད་པ། … 2.8s  依據顯說空性之理而作解釋
+[2/31] ^1-3-2-2-1-1-1-0 … ^1-3-2-2-1-1-1-1-1-1-2-0  **བསྡུས་ཏེ་བསྟན་པའི་སྒོ།** … 2.4s  攝略開示門
+[3/31] ^1-3-2-2-1-1-1-1-1-1-3-0 … ^1-3-2-2-1-1-1-1-1-3-2-2-2-2-0  **འབྲས་བུ་མཐའ་གཉིས་སུ་མི་གནས་པའི་ཚུལ།** … 1.9s  果不墮二邊之理
+[4/31] ^1-3-2-2-1-1-1-1-2-0 … ^1-3-2-2-1-1-2-1-0  **ཉམས་སུ་བླང་བྱ་ཆོས།** … 2.1s  應修持之法
+[5/31] ^1-3-2-2-1-1-2-1-1-0 … ^1-3-2-2-1-1-2-2-1-0  **མི་གནས་པའི་ཚུལ།** … 2.6s  不住之相
+[6/31] ^1-3-2-2-1-1-2-2-2-0 … ^1-3-2-2-1-1-2-3-1-2-2-1-1-1-1-0  **མཐའ་ཡས་པར་བསྟན་པ།** … 2.7s  開示無邊際
+[7/31] ^1-3-2-2-1-1-2-3-1-2-2-1-1-1-2-0 … ^1-3-2-2-1-1-2-3-2-1-2-0  **ཞི་བ་ཆེན་པོའི་གོ་འཕང་དུས་གསུམ་གྱི་སངས་ … 3.0s  三世諸佛示現大寂滅果位之理
+[8/31] ^1-3-2-2-1-1-2-3-2-2-0 … ^1-3-2-2-1-1-2-4-1-1-1-2-0  **ཤེར་ཕྱིན་ཡང་དག་པ་བཤད་པའི་ཕན་ཡོན།** … 3.3s  般若波羅蜜多真實宣說之功德
+[9/31] ^1-3-2-2-1-1-2-4-1-1-2-0 … ^1-3-2-2-1-1-2-4-1-2-2-2-1-2-0  **ཡི་རང་དང་བསྔོ་བའི་གཞི་ཐུན་མོང་དུ་བསྟན་ … 2.8s  共同宣說隨喜與迴向之基礎
+[10/31] ^1-3-2-2-1-1-2-4-1-2-2-2-2-0 … ^1-3-2-2-1-1-2-4-2-3-2-0  **ལམ་ཕར་ཕྱིན་དག་པ་ཐོབ་ཚུལ།** … 3.0s  獲得清淨般若波羅蜜多道之理
+[11/31] ^1-3-2-2-1-1-2-4-2-4-0 … ^1-3-2-2-1-1-3-1-2-3-2-0  **མཉམ་བཞག་ཡེ་ཤེས་དེའི་རྣམ་པར་དམིགས་མེད་བ … 4.5s  顯示等持智慧之無所緣相
+[12/31] ^1-3-2-2-1-1-3-1-3-0 … ^1-3-2-2-1-1-3-1-3-2-1-4-0  **སྦྱོར་བའི་བར་ཆོད་དུ་གྱུར་པ་བསྟན་པ།** … 2.4s  顯示加行之障礙
+[13/31] ^1-3-2-2-1-1-3-1-3-2-2-0 … ^1-3-2-2-1-1-3-1-4-2-2-2-0  **བདུད་ལས་འབྱུང་བའི་རྒྱུ་མཚན།** … 2.7s  魔障生起之因由
+[14/31] ^1-3-2-2-1-1-3-1-4-2-2-2-1-0 … ^1-3-2-2-1-1-3-1-4-2-3-2-2-2-2-0  **ལམ་མིན་ཚར་གཅོད་པ།** … 2.5s  斷除邪道
+[15/31] ^1-3-2-2-1-1-3-1-4-2-3-2-2-2-3-0 … ^1-3-2-2-1-1-3-1-5-2-2-0  **གྲུ་འཛུགས་པ།** … 2.6s  建立舟楫
+[16/31] ^1-3-2-2-1-1-3-1-5-2-2-1-0 … ^1-3-2-2-1-1-3-3-1-0  **སྤྱད་བྱའི་ཆོས་ཟབ་པར་བསྟན་པ།** … 3.1s  顯示所修之法甚深
+[17/31] ^1-3-2-2-1-1-3-3-2-0 … ^1-3-2-2-1-1-3-3-2-2-1-1-2-2-0  **ལན་གྱིས་རྒྱས་པར་བཤད་པ།** … 2.5s  以問答方式詳盡解說
+[18/31] ^1-3-2-2-1-1-3-3-2-2-1-1-2-2-1-0 … ^1-3-2-2-1-1-3-3-2-2-1-2-2-0  **དོན་དམ་པར་བསོད་ནམས་ཀྱི་འབྲས་བུ་འཕེལ་བ་ … 3.2s  勝義中福德果報增長與斷證皆無，故成佛不合理之詰難
+[19/31] ^1-3-2-2-1-1-3-3-2-2-2-0 … ^1-3-2-2-1-1-3-3-2-2-3-3-2-0  **ཀུན་རྫོབ་པའི་ཡུལ་ཅན་རྒྱ་ཆེ་བའི་སྤྱོད་པ … 6.8s  世俗諦之境的廣大行
+[20/31] ^1-3-2-2-1-1-3-3-2-3-0 … ^1-3-2-2-1-1-3-3-2-3-2-2-1-3-2-2-2-0  **ཕྱིར་མི་ལྡོག་པ་དེའི་སྤྱོད་པའི་ཁྱད་པར་ཕ … 2.6s  顯示不退轉者之行持殊勝，以及退轉與不退轉之差別
+[21/31] ^1-3-2-2-1-1-3-3-2-3-2-2-1-3-2-2-2-1-0 … ^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-1-2-3-0  **དངོས།** … 2.9s  正義
+[22/31] ^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-0 … ^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-3-2-2-1-0  **ཤེར་ཕྱིན་དེ་བསྟེན་དགོས་པར་གདམས་པ།** … 3.0s  勸導應當依止般若波羅蜜多
+[23/31] ^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-3-2-2-1-1-0 … ^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-5-2-0  **རྩོད་པ་སྤྱི།** … 3.1s  諍論總說
+[24/31] ^1-3-2-2-1-1-3-4-0 … ^1-3-2-2-1-1-3-5-1-0  **དེ་ལྟར་འཇུག་པའི་གང་ཟག་གི་ཆེ་བ།** … 3.0s  如是趣入者之殊勝
+[25/31] ^1-3-2-2-1-1-3-5-2-0 … ^1-3-2-2-1-1-3-5-3-2-3-0  **ལམ་གནས་པ་རྣམས་ཀྱི་མཆོག་ཏུ་གྱུར་པ།** … 3.4s  成為諸道之最勝
+[26/31] ^1-3-2-2-1-2-0 … ^1-3-2-2-1-2-1-4-0  **ཕར་ཕྱིན་གཞན་ལྔ་བཤད་པ།** … 3.6s  宣說其餘五波羅蜜多
+[27/31] ^1-3-2-2-1-2-1-4-1-0 … ^1-3-2-2-1-2-2-2-1-1-2-0  **སྤང་བྱ་དམན་པ།** … 2.6s  應斷除之劣法
+[28/31] ^1-3-2-2-1-2-2-2-1-1-2-1-0 … ^1-3-2-2-1-2-4-1-0  **དུས་ཀྱི་དབང་དུ་བྱས་པ།** … 2.8s  依時間而定
+[29/31] ^1-3-2-2-1-2-4-2-0 … ^1-3-2-2-1-2-5-1-1-0  **ཚུལ་ཁྲིམས་དེའི་མཆོག་དམན་གྱི་དབྱེ་བ་བཤད … 2.9s  戒律之勝劣差別說明
+[30/31] ^1-3-2-2-1-2-5-1-2-0 … ^1-3-2-2-2-2-0  **ཕལ་པས་དེ་ལྟར་མ་བཏང་བའི་སྐྱོན།** … 2.5s  凡夫未如是捨之過患
+[31/31] ^1-3-2-3-0 … ^2-0  དེ་ལྟར་བསྟན་པའི་དགོས་པས་མཇུག་བསྡུ་བ། … 1.7s  以如是宣說之必要作結
+
+wrote 3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-mipham-lekshe-zh.md  (453 heading(s) translated this run)
+=== 2026-10-04 14:14:58 1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md -> en
+source     : 1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md
+target     : english (en)   focus=tibetan
+track      : 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries
+blocks     : 323 total, 0 already in ledger, 323 to do
+batching   : 303 calls for 323 blocks (<=3 blocks, <=900 chars, <=32 lines per call)
+[1/303] ^0-1  (1 blk, 148 src, 1162 payload) … 1.8s  Here is the Noble Commentary on the Verse Summary of
+[2/303] ^0-2  (1 blk, 4558 src, 6067 payload) … 10.3s  I bow to the feet of the great lion, the Subduer, wh
+[3/303] ^0-3  (1 blk, 2932 src, 4062 payload) … 7.3s  In the language of India: *Āryaprajñāpāramitāsañcaya
+[4/303] ^0-4  (1 blk, 13 src, 1143 payload) … 1.3s  It is said:
+[5/303] ^1-1  (1 blk, 1463 src, 2686 payload) … 5.1s  From the phrase "From then on" up to the phrase "it 
+[6/303] ^2-1  (1 blk, 41 src, 1171 payload) … 9.7s  Second, regarding the five aspects of the perfection
+[7/303] ^2-2  (1 blk, 220 src, 1540 payload) … 2.3s  The five are: urging the chief of the retinue to lis
+[8/303] ^2-3  (1 blk, 744 src, 2680 payload) … 4.4s  It is said, from the words "with joy" up to the word
+[9/303] ^2-4  (1 blk, 1514 src, 5050 payload) … 5.4s  It is said, the example is the mention of the "Jambu
+[10/303] ^2-5  (1 blk, 2807 src, 3937 payload) … 6.4s  When considering the meaning of these and other such
+[11/303] ^2-6  (1 blk, 1885 src, 3015 payload) … 5.2s  "By these methods it is taught," it is said. When it
+[12/303] ^2-7  (1 blk, 13 src, 1143 payload) … 2.0s  It is said:
+[13/303] ^2-8  (1 blk, 1010 src, 2233 payload) … 5.5s  From "without form" up to "abiding in wisdom": In re
+[14/303] ^2-9  (1 blk, 514 src, 4155 payload) … 3.3s  It is said: From "this perfection of wisdom" up to "
+[15/303] ^2-10  (1 blk, 13 src, 2348 payload) … 1.7s  It is said:
+[16/303] ^2-11  (1 blk, 462 src, 2894 payload) … 10.3s  From "If, while lacking realization" up to "lacks fa
+[17/303] ^2-12  (1 blk, 724 src, 4321 payload) … 3.6s  It is said: From "not the form of a person" up to "i
+[18/303] ^2-13  (1 blk, 13 src, 2923 payload) … 1.7s  Thus it was taught:
+[19/303] ^2-14  (1 blk, 1256 src, 4271 payload) … 5.7s  Regarding the meaning from "The self" up to "definit
+[20/303] ^2-15  (1 blk, 513 src, 1643 payload) … 3.6s  It is said: from the passage "Whoever knows the five
+[21/303] ^2-16  (1 blk, 13 src, 2500 payload) … 1.8s  It is said:
+[22/303] ^2-17  (1 blk, 535 src, 3119 payload) … 3.0s  It is said: from the passage "Endowed with a spiritu
+[23/303] ^2-18  (1 blk, 13 src, 2516 payload) … 1.7s  It is said:
+[24/303] ^2-19  (1 blk, 403 src, 3003 payload) … 2.6s  It is said: from the passage "For what reason is thi
+[25/303] ^2-20  (1 blk, 885 src, 4380 payload) … 4.3s  It is said: from the passage "For what reason is thi
+[26/303] ^2-21  (1 blk, 1056 src, 4509 payload) … 4.9s  It is said: from the passage "For example, as a magi
+[27/303] ^2-22  (1 blk, 13 src, 1143 payload) … 2.3s  Thus it is said.
+[28/303] ^2-23  (1 blk, 521 src, 1751 payload) … 3.4s  From the phrase "Why is this..." up to the phrase "s
+[29/303] ^2-24  (1 blk, 819 src, 3354 payload) … 4.2s  Thus it is said. From the phrase "mounting which" up
+[30/303] ^2-25  (1 blk, 31 src, 3075 payload) … 2.1s  Thus it is said: the bodhisattva
+[31/303] ^2-26  (1 blk, 483 src, 3663 payload) … 3.6s  From the phrase "up to" the phrase "is the practice,
+[32/303] ^2-27  (1 blk, 451 src, 2937 payload) … 4.4s  Thus it is said: If, contrary to that, one perceives
+[33/303] ^2-28  (1 blk, 368 src, 4008 payload) … 2.9s  Thus it is said: From the phrase "Just as the self i
+[34/303] ^2-29  (1 blk, 420 src, 3634 payload) … 2.7s  Thus it is said: From the phrase "in the world" up t
+[35/303] ^2-30,^2-31  (2 blk, 768 src, 4264 payload) … 4.2s  Thus it is said: From the phrase "bodhisattva" up to
+[36/303] ^2-32  (1 blk, 13 src, 3233 payload) … 1.1s  It is said:
+[37/303] ^2-33  (1 blk, 1413 src, 4730 payload) … 4.8s  "Not abiding in form, not abiding in feeling," and s
+[38/303] ^2-34  (1 blk, 423 src, 1553 payload) … 3.0s  It is said: from the phrase "Just as the Guide" up t
+[39/303] ^2-35  (1 blk, 522 src, 2704 payload) … 3.0s  It is said: from the phrase "Those who think of the 
+[40/303] ^2-36  (1 blk, 13 src, 3507 payload) … 1.8s  It is said:
+[41/303] ^2-37  (1 blk, 783 src, 4374 payload) … 4.4s  It is said: from the phrase "teaching the Dharma" up
+[42/303] ^2-38  (1 blk, 516 src, 3733 payload) … 3.9s  It is said: from the phrase "these four types of ind
+[43/303] ^2-39  (1 blk, 13 src, 2638 payload) … 1.8s  It is said:
+[44/303] ^2-40  (1 blk, 493 src, 3215 payload) … 3.8s  Regarding the phrase "bodhisattva" up to the phrase 
+[45/303] ^2-41  (1 blk, 327 src, 2842 payload) … 3.4s  It is said: Regarding the phrase "form increasing" u
+[46/303] ^2-42  (1 blk, 348 src, 3727 payload) … 3.2s  It is said: Regarding the phrase "omniscience" up to
+[47/303] ^2-43  (1 blk, 13 src, 2869 payload) … 1.7s  Thus it is said:
+[48/303] ^2-44,^2-45  (2 blk, 400 src, 3722 payload) … 2.8s  Regarding the phrase "form" up to the phrase "they a
+[49/303] ^2-46  (1 blk, 126 src, 2412 payload) … 1.8s  The four lines beginning with "the nature of objects
+[50/303] ^2-47  (1 blk, 450 src, 2962 payload) … 2.8s  Thus it is said: Regarding the phrase "perception is
+[51/303] ^2-48,^2-49  (2 blk, 397 src, 3498 payload) … 3.2s  Thus it is said: Regarding the phrase "if the Teache
+[52/303] ^2-50  (1 blk, 274 src, 3610 payload) … 2.5s  Thus it is said: Regarding the phrase "at the time w
+[53/303] ^2-51  (1 blk, 130 src, 2993 payload) … 2.1s  Thus it is said: Regarding the phrase "perfection of
+[54/303] ^2-52  (1 blk, 13 src, 2315 payload) … 1.7s  Thus it is said:
+[55/303] ^2-53  (1 blk, 1377 src, 3679 payload) … 5.0s  Regarding the phrase "from 'some' up to 'the Sugata'
+[56/303] ^2-54,^2-55  (2 blk, 268 src, 1762 payload) … 2.5s  It is said, and furthermore, it demonstrates the rea
+[57/303] ^2-56  (1 blk, 1631 src, 3514 payload) … 5.4s  From the phrase "the multitude of sentient beings' r
+[58/303] ^2-57  (1 blk, 13 src, 1143 payload) … 
