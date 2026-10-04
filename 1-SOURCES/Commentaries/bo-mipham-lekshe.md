@@ -6,15 +6,15 @@ alt_titles:
 - འཇུ་མི་ཕམ། ཡོན་ཏན་རིན་ཆེན་སྡུད་པའི་འགྲེལ་པ།
 title_in_english: 'Commentary on Precious Qualities: Entering the True Intent of the Buddha''s Mother'
 author: འཇུ་མི་ཕམ།
-author_in_english: Ju Mipham
+author_in_english: Ju Mipham [bdrc:P252]
 registered_id: mipham-lekshe
 language: Tibetan
 lang_tag: bo
 file_type: commentary
 root_text: 1-SOURCES/Translations/bo-ratnagunasancayagatha.md
 verse_id_format: section-paragraph
-category_id: null
-license: unknown
+category_id: uGpinx0GZlvU1uw44RyYS
+license: public
 source: https://online.adarshah.org/index.html?kdb=mipam&sutra=MP267&page=24-1-1b
 other_ids:
 - 'Dzongsar: phakpadoepa comm-2'

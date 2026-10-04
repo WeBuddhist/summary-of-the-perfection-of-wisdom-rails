@@ -24,6 +24,20 @@ from build import write_output, write_edition_output
 YAML_PROPS_RE = re.compile(r"\A---\r?\n(.*?)\r?\n---\r?\n?", re.DOTALL)
 
 
+# Footnotes (`[^n]` markers and `[^n]: …` definition lines) are not accepted by
+# the library backend yet, so they are left out of the edition, segmentation,
+# TOC and alignment — the same treatment as the <small> yigchung marks. The
+# source file is never changed. When the backend takes footnote annotations, a
+# separate parser will read them from the source.
+FOOTNOTE_DEF_RE = re.compile(r"^[ \t]*\[\^[^\]\s]+\]:.*(?:\r?\n|$)", re.MULTILINE)
+FOOTNOTE_REF_RE = re.compile(r"\[\^[^\]\s]+\](?!:)")
+
+
+def strip_footnotes(body):
+    """Drop footnote definition lines and inline footnote markers from a body."""
+    return FOOTNOTE_REF_RE.sub("", FOOTNOTE_DEF_RE.sub("", body))
+
+
 def extract_doc_info(path):
     try:
         import yaml
@@ -41,7 +55,7 @@ def extract_doc_info(path):
         data = {}
     if not isinstance(data, dict):
         raise ValueError("document info must be a YAML mapping")
-    body = text[match.end():]
+    body = strip_footnotes(text[match.end():])
     return data, body
 
 

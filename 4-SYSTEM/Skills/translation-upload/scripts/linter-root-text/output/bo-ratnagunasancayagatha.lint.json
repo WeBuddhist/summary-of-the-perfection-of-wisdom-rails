@@ -1,0 +1,51 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Translations/bo-ratnagunasancayagatha.md",
+  "validated_at": "2026-10-04T06:07:20.112909+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Text/sa-ratnagunasancayagatha.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'http://purl.bdrc.io/resource/WA0RK0013'",
+    "toc: 10 headers found"
+  ],
+  "warnings": [
+    "author 'སྟོན་པ་བཅོམ་ལྡན་འདས།': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped",
+    "translator 'རྒྱ་གར་གྱི་མཁན་པོ་བིདྷ་ཀ་ར་སིང་ཧ། · ཞུ་ཆེན་གྱི་ལོཙཚ་བ་བན་དེ་དཔལ་བརྩེགས།': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RK0013",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྡུད་པ་ཚིགས་སུ་བཅད་པ།",
+      "en": "Verses on the Collection of the Precious Qualities of the Perfection of Wisdom"
+    },
+    "alt_titles": [
+      {
+        "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པ།"
+      },
+      {
+        "bo": "བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྡུད་པ་ཚིགས་སུ་བཅད་པ།"
+      },
+      {
+        "bo": "འཕགས་པ་མདོ་སྡུད་པ།"
+      },
+      {
+        "bo": "སྡུད་པ་ཚིགས་སུ་བཅད་པ།"
+      },
+      {
+        "bo": "སྟོན་པ་བཅོམ་ལྡན་འདས། མདོ་སྡུད་པ།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": "415kqyNhR8qC6d7R1dhpB",
+    "category_id": "uGpinx0GZlvU1uw44RyYS",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

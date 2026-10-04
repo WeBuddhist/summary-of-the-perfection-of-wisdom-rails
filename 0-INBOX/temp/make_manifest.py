@@ -22,6 +22,13 @@ import yaml
 V = pathlib.Path(".")
 RAW = V / "0-INBOX/raw-data"
 TMP = V / "0-INBOX/temp"
+
+# Library upload metadata (vault owner, 2026-10-04): the Prajñāpāramitā category
+# on library.webuddhist.com, license public for every classical text.
+CATEGORY_ID = "uGpinx0GZlvU1uw44RyYS"
+LICENSE = "public"
+SA_SOURCE = "https://dsbcproject.org/canon-text/book/402"
+ZH_SOURCE = "https://cbetaonline.dila.edu.tw/zh/T0229"
 sys.path.insert(0, str(V / "4-SYSTEM/Skills/aligned-corpus-intake/scripts"))
 from md_export import read_rows, read_meta   # noqa: E402
 from project import letters                  # noqa: E402
@@ -361,8 +368,8 @@ def main():
                   "team's segmentation of the Sanskrit-Tibetan pair (373 rows; the Sanskrit's chapter titles and "
                   "chapter colophons have empty Tibetan rows). Read in full against the Tibetan: no pairing errors."),
         "frontmatter": {"title": "रत्नगुणसंचयगाथा", "language": "Sanskrit", "lang_tag": "sa", "file_type": "root-text",
-                        "verse_id_format": "section-paragraph", "category_id": None, "license": "unknown",
-                        "source": None,
+                        "verse_id_format": "section-paragraph", "category_id": CATEGORY_ID, "license": LICENSE,
+                        "source": SA_SOURCE,
                         "other_ids": ["Dzongsar: phakpadoepa Sanskrit-Tibetan alignment doc"],
                         "source_description": ("Dzongsar Google Doc (Sanskrit side of the Sanskrit-Tibetan row alignment), "
                                                "exported as phakpadoepa-root-sa(sa-bo).md. Title from its first row. No "
@@ -404,7 +411,7 @@ def main():
             "translator": "རྒྱ་གར་གྱི་མཁན་པོ་བིདྷ་ཀ་ར་སིང་ཧ། · ཞུ་ཆེན་གྱི་ལོཙཚ་བ་བན་དེ་དཔལ་བརྩེགས།",
             "language": "Tibetan", "lang_tag": "bo", "file_type": "translation",
             "root_text": "1-SOURCES/Text/sa-ratnagunasancayagatha.md", "verse_id_format": "section-paragraph",
-            "category_id": None, "license": "unknown", "source": g(bom, "source"),
+            "category_id": CATEGORY_ID, "license": LICENSE, "source": g(bom, "source"),
             "bdrc_work_id": "WA0RK0013",
             "other_ids": ["Dzongsar: phakpadoepa display doc"],
             "source_description": ("Dzongsar Google Doc (the display segmentation), exported as "
@@ -447,7 +454,7 @@ def main():
                   "unaligned, as made."),
         "frontmatter": {"title": "佛母寶德藏般若波羅蜜經", "language": "Chinese", "lang_tag": "zh",
                         "file_type": "translation", "root_text": ROOT_FILE, "verse_id_format": "section-paragraph",
-                        "category_id": None, "license": "unknown", "source": None,
+                        "category_id": CATEGORY_ID, "license": LICENSE, "source": ZH_SOURCE,
                         "other_ids": ["Dzongsar: phakpadoepa Tibetan-Chinese alignment doc"],
                         "source_description": ("Dzongsar Google Doc (Chinese side of the Tibetan-Chinese row alignment), "
                                                "exported as phakpadoepa-root-zh(bo-zh).md. Title from its first row "
@@ -509,7 +516,7 @@ def main():
             "author": None,
             "registered_id": "rangjung-dorje-tika", "language": "Tibetan", "lang_tag": "bo",
             "file_type": "commentary", "root_text": ROOT_FILE, "verse_id_format": "section-paragraph",
-            "category_id": None, "license": "unknown", "source": g(m1, "source"),
+            "category_id": CATEGORY_ID, "license": LICENSE, "source": g(m1, "source"),
             "other_ids": ["Dzongsar: phakpadoepa comm-1"],
             "source_description": ("Dzongsar alignment doc exported as phakpadoepa-comm-1(root-comm).md, paired row for "
                                    "row with phakpadoepa-root-1(root-comm).md (the team's own cut of the Tibetan root), "
@@ -586,9 +593,11 @@ def main():
             "title": "ཡོན་ཏན་རིན་ཆེན་སྡུད་པའི་འགྲེལ་པ་རྒྱལ་བའི་ཡུམ་གྱི་དགོངས་དོན་ལ་ཕྱིན་ཅི་མ་ལོག་པར་འཇུག་པའི་ལེགས་བཤད།",
             "alt_titles": [x for x in alts(m2) if x.rstrip(" །") != "ཡོན་ཏན་རིན་ཆེན་སྡུད་པའི་འགྲེལ་པ་རྒྱལ་བའི་ཡུམ་གྱི་དགོངས་དོན་ལ་ཕྱིན་ཅི་མ་ལོག་པར་འཇུག་པའི་ལེགས་བཤད།"],
             "title_in_english": g(m2, "title_long_clean", "en"),
-            "author": g(m2, "author"), "author_in_english": g(m2, "author", "en"),
+            "author": g(m2, "author"),
+            # BDRC id tag so the library credits Mipham (person P252); vault owner, 2026-10-04
+            "author_in_english": f'{g(m2, "author", "en")} [bdrc:P252]',
             "registered_id": "mipham-lekshe", "language": "Tibetan", "lang_tag": "bo", "file_type": "commentary",
-            "root_text": ROOT_FILE, "verse_id_format": "section-paragraph", "category_id": None, "license": "unknown",
+            "root_text": ROOT_FILE, "verse_id_format": "section-paragraph", "category_id": CATEGORY_ID, "license": LICENSE,
             "source": g(m2, "source"), "other_ids": ["Dzongsar: phakpadoepa comm-2"],
             "source_description": ("Dzongsar alignment doc exported as phakpadoepa-comm-2(root-comm).md, paired row for "
                                    "row with phakpadoepa-root-2(root-comm).md (the team's own cut of the Tibetan root), "
@@ -656,7 +665,7 @@ def main():
             "title_in_english": g(m, "title_long_clean", "en") or g(m, "title_short", "en"),
             "author": g(m, "author"), "author_in_english": g(m, "author", "en"),
             "registered_id": rid, "language": "Tibetan", "lang_tag": "bo", "file_type": "commentary",
-            "root_text": ROOT_FILE, "verse_id_format": "section-paragraph", "category_id": None, "license": "unknown",
+            "root_text": ROOT_FILE, "verse_id_format": "section-paragraph", "category_id": CATEGORY_ID, "license": LICENSE,
             "source": g(m, "source"), "other_ids": [f"Dzongsar: phakpadoepa comm-{i}"],
             **({"title_note": "Title from the text's own title line (row 2); the metadata sheet's form, which lacks the initial འ, is kept in alt_titles."} if i == "3" else {}),
             "source_description": (f"Dzongsar alignment doc exported as phakpadoepa-comm-{i}(root-comm).md, paired row "
@@ -710,7 +719,7 @@ def main():
                 "title": row[1].strip(), "alt_titles": [x for x in [row[3].strip()] if x and x.strip() != row[1].strip()],
                 "author": row[2].strip(), "registered_id": rid, "language": "Tibetan", "lang_tag": "bo",
                 "file_type": "commentary", "root_text": ROOT_FILE, "verse_id_format": "section-paragraph",
-                "category_id": None, "license": "unknown", "source": fm_o["index_url"],
+                "category_id": CATEGORY_ID, "license": LICENSE, "source": fm_o["index_url"],
                 "alignment_status": "none",
                 "source_description": (f"Wikisource, {ws['index_page']} (revision {ws['index_revid']}), {edition}; "
                                        f"text of every proofread page retrieved {ws['retrieved']}. Title and author "

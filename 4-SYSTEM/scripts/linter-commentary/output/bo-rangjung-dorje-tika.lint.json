@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md",
+  "validated_at": "2026-10-04T06:08:20.566384+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "translation_of: not set (optional)",
+    "root_text: '1-SOURCES/Translations/bo-ratnagunasancayagatha.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'http://purl.bdrc.io/resource/MW4CZ295070'",
+    "toc: 318 headers found"
+  ],
+  "warnings": [
+    "commentary_of: not set — resolve from root_text's text_id (set text_id on the root text first)",
+    "contributions: author/translator missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྡུད་པ་ཚིགས་སུ་བཅད་པའི་ཊཱི་ཀ་ཡིད་བཞིན་གྱི་ནོར་བུ་རིན་པོ་ཆེ་ལྟ་བུ་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྒྱ་མཚོའི་སྡེ།",
+      "en": "Commentaries on the Short Prajnaparamita Sutras:The Ocean of Perfection."
+    },
+    "alt_titles": [
+      {
+        "bo": "མདོ་སྡུད་པ་ཚིགས་སུ་བཅད་པའི་འགྲེལ་པ།"
+      },
+      {
+        "bo": "མདོ་སྡུད་པ་ཚིགས་སུ་བཅད་པའི་འགྲེལ་པ་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྒྱ་མཚོའི་སྡེ།"
+      },
+      {
+        "bo": "མི་བསྐྱོད་རྡོ་རྗེ། སྡུད་པའི་འགྲེལ་པ།"
+      },
+      {
+        "bo": "སྡུད་པ་ཚིགས་སུ་བཅད་པའི་ཊིཀྐ་ཡིད་བཞིན་གྱི་ནོར་བུ།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "uGpinx0GZlvU1uw44RyYS",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

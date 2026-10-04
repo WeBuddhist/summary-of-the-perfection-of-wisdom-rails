@@ -20,6 +20,10 @@ VERSE_X_RE = re.compile(r'\d+[xX]\d+')
 TRANSCLUSION_RE = re.compile(r'^\s*!\[\[.*?#\^.*?\]\]\s*$')
 _TRANS_REF_RE = re.compile(r'!\[\[.*?#\^([A-Za-z0-9]+(?:-[A-Za-z0-9]+)*)\]\]')
 _WYLIE_RE = re.compile(r"'[a-zA-Z]")
+# <small>…</small> marks a yigchung (small-script rubric). It is an annotation on
+# the text, uploaded separately: the TAGS never enter `content` or a TOC title,
+# the text between them does, so a later annotation can span it.
+SMALL_TAG_RE = re.compile(r'</?small>', re.IGNORECASE)
 
 
 def _ref_part_count(ref):
@@ -55,6 +59,20 @@ def _is_empty(value):
     return False
 
 
+# Footnotes (`[^n]` markers and `[^n]: …` definition lines) are not accepted by
+# the library backend yet, so they are left out of the edition, segmentation,
+# TOC and alignment — the same treatment as the <small> yigchung marks. The
+# source file is never changed. When the backend takes footnote annotations, a
+# separate parser will read them from the source.
+FOOTNOTE_DEF_RE = re.compile(r"^[ \t]*\[\^[^\]\s]+\]:.*(?:\r?\n|$)", re.MULTILINE)
+FOOTNOTE_REF_RE = re.compile(r"\[\^[^\]\s]+\](?!:)")
+
+
+def strip_footnotes(body):
+    """Drop footnote definition lines and inline footnote markers from a body."""
+    return FOOTNOTE_REF_RE.sub("", FOOTNOTE_DEF_RE.sub("", body))
+
+
 def _read_source(path):
     try:
         import yaml
@@ -65,7 +83,7 @@ def _read_source(path):
     if not m:
         raise ValueError("no YAML properties found")
     data = yaml.safe_load(m.group(1)) or {}
-    body = text[m.end():]
+    body = strip_footnotes(text[m.end():])
     return data, body
 
 
@@ -253,7 +271,7 @@ def _build_content_and_segmentation(blocks, doc_default):
         ref_no_caret = ref[1:] if ref.startswith("^") else ref
 
         if is_header:
-            text = raw_lines[0].strip().lstrip('#').strip()
+            text = SMALL_TAG_RE.sub("", raw_lines[0]).strip().lstrip('#').strip()
             ref_idx = text.rfind(ref)
             if ref_idx != -1:
                 text = text[:ref_idx].rstrip()
@@ -281,7 +299,7 @@ def _build_content_and_segmentation(blocks, doc_default):
                 break
         line_spans = []
         for i, raw_line in enumerate(content_lines):
-            text = raw_line.rstrip()
+            text = SMALL_TAG_RE.sub("", raw_line).rstrip()
             if i == last_nonempty_idx:
                 ref_idx = text.rfind(ref)
                 if ref_idx != -1:
@@ -293,6 +311,11 @@ def _build_content_and_segmentation(blocks, doc_default):
             pos += len(text)
             line_spans.append({"start": start, "end": start + len(text)})
         seg_type = _infer_segment_type(ref_no_caret, doc_default)
+        # A translation of a COMMENTARY (paragraph default) types its segments the
+        # way parser-commentary types the source: two or more lines with no gap is
+        # a quoted verse. Root-text translations (verse default) are unchanged.
+        if doc_default == "paragraph" and seg_type == "paragraph" and len(line_spans) > 1:
+            seg_type = "verse"
         seg_list.append({"lines": line_spans, "type": seg_type, "reference": ref_no_caret})
 
     return "".join(parts), seg_list, headings

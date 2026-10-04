@@ -5,9 +5,9 @@ lang_tag: zh
 file_type: translation
 root_text: 1-SOURCES/Translations/bo-ratnagunasancayagatha.md
 verse_id_format: section-paragraph
-category_id: null
-license: unknown
-source: null
+category_id: uGpinx0GZlvU1uw44RyYS
+license: public
+source: https://cbetaonline.dila.edu.tw/zh/T0229
 other_ids:
 - 'Dzongsar: phakpadoepa Tibetan-Chinese alignment doc'
 source_description: Dzongsar Google Doc (Chinese side of the Tibetan-Chinese row alignment), exported as phakpadoepa-root-zh(bo-zh).md. Title from its first row (佛母寶德藏般若波羅蜜經卷上, without the fascicle marker 卷上). A translation aligned to the Tibetan; no metadata sheet, translator not recorded upstream.

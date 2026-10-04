@@ -9,8 +9,8 @@ lang_tag: bo
 file_type: commentary
 root_text: 1-SOURCES/Translations/bo-ratnagunasancayagatha.md
 verse_id_format: section-paragraph
-category_id: null
-license: unknown
+category_id: uGpinx0GZlvU1uw44RyYS
+license: public
 source: https://wikisource.org/wiki/Index%3A%E0%BD%A6%E0%BE%A1%E0%BD%B4%E0%BD%91%E0%BC%8B%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%A0%E0%BD%82%E0%BE%B2%E0%BD%BA%E0%BD%A3%E0%BC%8B%E0%BD%94%E0%BC%8B%E0%BD%A2%E0%BE%92%E0%BE%B1%E0%BD%A3%E0%BC%8B%E0%BD%96%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%91%E0%BD%82%E0%BD%BC%E0%BD%84%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A6%E0%BD%A3%E0%BC%8D_%E0%BD%A4%E0%BD%B2%E0%BD%84%E0%BC%8B%E0%BD%94%E0%BD%A2%E0%BC%8D.pdf
 alignment_status: none
 source_description: Wikisource, Index:སྡུད་པའི་འགྲེལ་པ་རྒྱལ་བའི་དགོངས་གསལ། ཤིང་པར།.pdf (revision 1177625), ཤིང་པར། (a woodblock print, one volume; Index gives no year or publisher); text of every proofread page retrieved 2026-10-04. Title and author from the text sheet phakpadoepa.csv, row 3. Not aligned to the root (no transclusions).

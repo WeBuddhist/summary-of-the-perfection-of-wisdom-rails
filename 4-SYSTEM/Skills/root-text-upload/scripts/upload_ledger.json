@@ -1,0 +1,30 @@
+{
+  "sa-ratnagunasancayagatha": {
+    "edition_id": "PjNu42nbrR7yrGKKlL2aM",
+    "file_type": "root-text",
+    "lang_tag": "sa",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "415kqyNhR8qC6d7R1dhpB",
+        "ts": "2026-10-04T11:37:01"
+      },
+      {
+        "chars": 44512,
+        "edition_id": "PjNu42nbrR7yrGKKlL2aM",
+        "segments": 373,
+        "step": "edition",
+        "ts": "2026-10-04T11:37:02"
+      },
+      {
+        "step": "toc",
+        "subsections": 9,
+        "toc_id": "wfBhXu6ei7PPcMz2j1zIV",
+        "ts": "2026-10-04T11:37:03"
+      }
+    ],
+    "source_file": "1-SOURCES/Text/sa-ratnagunasancayagatha.md",
+    "text_id": "415kqyNhR8qC6d7R1dhpB",
+    "toc_id": "wfBhXu6ei7PPcMz2j1zIV"
+  }
+}

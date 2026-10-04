@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Commentaries/bo-mipham-lekshe.md",
+  "validated_at": "2026-10-04T06:04:18.259669+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "translation_of: not set (optional)",
+    "root_text: '1-SOURCES/Translations/bo-ratnagunasancayagatha.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://online.adarshah.org/index.html?kdb=mipam&sutra=MP267&page=24-1-1b'",
+    "toc: 454 headers found"
+  ],
+  "warnings": [
+    "commentary_of: not set — resolve from root_text's text_id (set text_id on the root text first)",
+    "author 'Ju Mipham': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཡོན་ཏན་རིན་ཆེན་སྡུད་པའི་འགྲེལ་པ་རྒྱལ་བའི་ཡུམ་གྱི་དགོངས་དོན་ལ་ཕྱིན་ཅི་མ་ལོག་པར་འཇུག་པའི་ལེགས་བཤད།",
+      "en": "Commentary on Precious Qualities: Entering the True Intent of the Buddha's Mother"
+    },
+    "alt_titles": [
+      {
+        "bo": "ཡོན་ཏན་རིན་ཆེན་སྡུད་པའི་འགྲེལ་པ་རྒྱལ་བའི་ཡུམ་གྱི་དགོངས་དོན་ལ་ཕྱིན་ཅི་མ་ལོག་པར་འཇུག་པའི་ལེགས་བཤད། །"
+      },
+      {
+        "bo": "ཡོན་ཏན་རིན་ཆེན་སྡུད་པའི་འགྲེལ་པ་རྒྱལ་བའི་ཡུམ་གྱི་དགོངས་དོན་ལ་ཕྱིན་ཅི་མ་ལོག་པར་འཇུག་པའི་ལེགས་བཤད་ཅེས་བྱ་བ་བཞུགས་སོ། །"
+      },
+      {
+        "bo": "འཇུ་མི་ཕམ། ཡོན་ཏན་རིན་ཆེན་སྡུད་པའི་འགྲེལ་པ།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "uGpinx0GZlvU1uw44RyYS",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

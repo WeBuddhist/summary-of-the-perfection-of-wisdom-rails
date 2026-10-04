@@ -163,6 +163,11 @@ def main(argv=None):
     ap.add_argument("--skip-lint", action="store_true", help="reuse the existing lint output")
     ap.add_argument("--no-live", action="store_true", help="skip the read-only check against the live root")
     ap.add_argument("--verify", action="store_true", help="only GET the live state of this translation and exit")
+    ap.add_argument("--alignment", choices=("identity", "transclusion"), default="identity",
+                    help="identity (default): block ^N aligns to root ^N, one for one. transclusion: the pairs "
+                         "the parser derives from the note's transclusions are sent as they are (many-to-many; "
+                         "for a translation cut differently from its root). Every pair must still resolve to a "
+                         "segment of this edition and of the live root.")
     args = ap.parse_args(argv)
 
     note = pathlib.Path(args.note)
@@ -255,10 +260,20 @@ def main(argv=None):
         problems.append("edition content is empty")
     if len(refs) != len(set(refs)):
         problems.append("duplicate segment references")
-    if [p["target_segment_reference"] for p in pairs] != refs:
-        problems.append(f"alignment pairs ({len(pairs)}) do not cover the edition segments ({len(refs)}) one for one, in order")
-    if [p["source_segment_reference"] for p in pairs] != refs:
-        problems.append("alignment is not identity (translation ids differ from root ids)")
+    if args.alignment == "identity":
+        if [p["target_segment_reference"] for p in pairs] != refs:
+            problems.append(f"alignment pairs ({len(pairs)}) do not cover the edition segments ({len(refs)}) one for one, in order")
+        if [p["source_segment_reference"] for p in pairs] != refs:
+            problems.append("alignment is not identity (translation ids differ from root ids)")
+    else:
+        if not pairs:
+            problems.append("transclusion alignment has no pairs")
+        stray = sorted({p["target_segment_reference"] for p in pairs} - set(refs))
+        if stray:
+            problems.append(f"alignment names segments not in this edition: {stray[:6]}")
+        unaligned = [r for r in refs if r not in {p["target_segment_reference"] for p in pairs}]
+        print(f"  transclusion alignment: {len(pairs)} pairs; {len(refs) - len(unaligned)}/{len(refs)} "
+              f"segments aligned; unaligned: {unaligned}")
     for s in segs:
         for sp in s["lines"]:
             if not 0 <= sp["start"] <= sp["end"] <= len(edition["content"]):
@@ -270,7 +285,13 @@ def main(argv=None):
     if not args.no_live:
         try:
             live = live_segment_refs(root_edition_id)
-            if live != refs:
+            if args.alignment == "transclusion":
+                missing = sorted({p["source_segment_reference"] for p in pairs} - set(live))
+                if missing:
+                    problems.append(f"alignment targets not in the LIVE root segmentation: {missing[:6]}")
+                else:
+                    print(f"  live root {root_edition_id}: {len(live)} segments, every alignment target present ✓")
+            elif live != refs:
                 only_live = sorted(set(live) - set(refs))[:6]
                 only_here = sorted(set(refs) - set(live))[:6]
                 problems.append(f"segment refs differ from the LIVE root ({len(live)} live vs {len(refs)} here); "

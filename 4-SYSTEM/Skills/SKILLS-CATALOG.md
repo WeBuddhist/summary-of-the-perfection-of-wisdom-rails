@@ -293,8 +293,18 @@ Grades one plan day file against the plan's declared session shape, its groundin
 
 ## 13. Publishing
 
+Order: the root first (`root-text-upload`), then its commentaries (`commentary-upload`) and translations (`translation-upload`) — each needs the root's `text_id` / `edition_id`. Installed 2026-10-04 from `heart-sutra-rails` (the Dzongsar-dolma-bumtsok chain, plus `--alignment transclusion`).
+
+### `root-text-upload` [vault-local]
+Uploads a root text: lint, parse, then create the text, its edition (segmentation = block IDs) and its table of contents. Dry-run by default; `--execute` needs explicit human confirmation. Uses the linter/parser bundled in `translation-upload/scripts/`.
+→ [`root-text-upload/SKILL.md`](root-text-upload/SKILL.md)
+
+### `commentary-upload` [vault-local]
+Uploads a commentary as its own text (`commentary_of` the root): text, edition, table of contents, and an alignment to the root edition derived from its root transclusions. Uses `4-SYSTEM/scripts/linter-commentary/` and `parser-commentary/`. Dry-run by default.
+→ [`commentary-upload/SKILL.md`](commentary-upload/SKILL.md)
+
 ### `translation-upload`
-Uploads a finished translation to the library backend: lint, parse, then create the text, edition, alignment and table of contents. Dry-run by default; `--execute` needs explicit human confirmation every time.
+Uploads a finished translation to the library backend: lint, parse, then create the text, edition, alignment and table of contents. `--alignment transclusion` sends the transclusion-derived pairs for a translation cut differently from its root (here: the Tibetan against the Sanskrit). Dry-run by default; `--execute` needs explicit human confirmation every time.
 → [`translation-upload/SKILL.md`](translation-upload/SKILL.md)
 
 ---

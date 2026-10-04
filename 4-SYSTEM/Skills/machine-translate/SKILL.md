@@ -361,7 +361,7 @@ python3 4-SYSTEM/Skills/machine-translate/scripts/dm_translate.py \
   --source "1-SOURCES/Text/<file>.md" --lang <language> --headings
 ```
 
-One call per `##` heading (level ≥ 2) under `HEADING_STYLE`; the H1 is never sent. Read the four-or-so results back: a short label, numeral kept, nothing added. Re-run one with `--headings --force --only <id>` if needed. These become the section titles of the translation's table of contents on upload.
+One call per `##` heading (level ≥ 2) under `HEADING_STYLE`; the H1 is never sent. For a large outline (a commentary's sa bcad runs to hundreds of headings) add `--heading-batch 15`: headings go 15 per call under the `[[n]]` marker protocol, and a group whose markers do not come back exactly — or whose segments are not one line each — is re-run one heading per call (added in this vault 2026-10-04; not yet upstream). Read the four-or-so results back: a short label, numeral kept, nothing added. Re-run one with `--headings --force --only <id>` if needed. These become the section titles of the translation's table of contents on upload.
 
 #### Step 4 — Verify the render
 

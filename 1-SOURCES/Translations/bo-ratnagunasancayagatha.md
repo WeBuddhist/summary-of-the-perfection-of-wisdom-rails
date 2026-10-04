@@ -17,8 +17,8 @@ lang_tag: bo
 file_type: translation
 root_text: 1-SOURCES/Text/sa-ratnagunasancayagatha.md
 verse_id_format: section-paragraph
-category_id: null
-license: unknown
+category_id: uGpinx0GZlvU1uw44RyYS
+license: public
 source: http://purl.bdrc.io/resource/WA0RK0013
 bdrc_work_id: WA0RK0013
 other_ids:

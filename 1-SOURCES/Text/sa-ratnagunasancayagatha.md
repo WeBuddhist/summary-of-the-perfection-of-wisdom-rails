@@ -4,15 +4,15 @@ language: Sanskrit
 lang_tag: sa
 file_type: root-text
 verse_id_format: section-paragraph
-category_id: null
-license: unknown
-source: null
+category_id: uGpinx0GZlvU1uw44RyYS
+license: public
+source: https://dsbcproject.org/canon-text/book/402
 other_ids:
 - 'Dzongsar: phakpadoepa Sanskrit-Tibetan alignment doc'
 source_description: Dzongsar Google Doc (Sanskrit side of the Sanskrit-Tibetan row alignment), exported as phakpadoepa-root-sa(sa-bo).md. Title from its first row. No metadata sheet for the Sanskrit is in the raw data, so source URL and licence are not recorded. One block per row.
-text_id: null
-edition_id: null
-toc_id: null
+text_id: 415kqyNhR8qC6d7R1dhpB
+edition_id: PjNu42nbrR7yrGKKlL2aM
+toc_id: wfBhXu6ei7PPcMz2j1zIV
 raw_sources:
 - file: 0-INBOX/raw-data/phakpadoepa-root-sa(sa-bo).md
   sha1: b02cc51dde465b4a22098635c13b8e311c6bf126

@@ -731,6 +731,11 @@ def main():
     p.add_argument("--headings", action="store_true",
                    help="translate the section headings (^N-0 units) instead of the blocks, "
                         "one call each under --heading-style; the H1 is never translated")
+    p.add_argument("--heading-batch", type=int, default=1,
+                   help="with --headings: headings per call, sent with the [[n]] marker protocol "
+                        "(a wrong marker split falls back to one call per heading). 1 = the old "
+                        "one-call-per-heading behaviour. Large TOCs (hundreds of headings) "
+                        "otherwise spend most of the daily quota on labels.")
     p.add_argument("--heading-style", default=HEADING_STYLE,
                    help="style_instruction for --headings (default: HEADING_STYLE); append e.g. "
                         "a script requirement to match the rest of the track")
@@ -849,42 +854,75 @@ def main():
                 if (wanted is None or h["id"] in wanted)
                 and (args.force or h["id"] not in done_heads)]
         args.style = args.heading_style
-        args.batch = 1
         print(f"source     : {src_path}")
         print(f"target     : {args.lang} ({args.lang_tag})   mode=headings")
         print(f"track      : {out_dir}")
         print(f"headings   : {len(heading_units)} total, {len(done_heads)} already in ledger, {len(todo)} to do")
         n_done = 0
-        for i, hu in enumerate(todo, 1):
-            body = build_body([hu], header, args)
-            print(f"[{i}/{len(todo)}] ^{hu['id']}  {hu['text'][:40]} … ", end="", flush=True)
-            if args.dry_run:
-                print("(dry run)")
-                print(json.dumps(body, ensure_ascii=False, indent=2))
-                continue
-            t0 = time.time()
-            try:
-                one = call_api(body, args.timeout, args.retries)
-            except RuntimeError as exc:
-                print(f"\nSTOPPED at ^{hu['id']}: {exc}", file=sys.stderr)
-                break
-            el = time.time() - t0
-            translation = one.strip().split("\n")[0].strip().strip('"').strip("'")
+        hb = max(1, args.heading_batch)
+        groups = [todo[i:i + hb] for i in range(0, len(todo), hb)]
+        if hb > 1:
+            print(f"batching   : {len(groups)} calls for {len(todo)} headings (<={hb} per call)")
+
+        def head_record(hu, translation, el, ids, fell_back):
             rec = {
                 "block_id": hu["id"], "kind": "heading", "heading": None,
                 "source": hu["text"], "translation": translation,
                 "target_language": args.lang, "focus": args.focus,
                 "style_instruction": args.style, "context": header, "endpoint": ENDPOINT,
-                "batch_size": 1, "batch_block_ids": [hu["id"]], "batch_fallback": False,
+                "batch_size": len(ids), "batch_block_ids": ids, "batch_fallback": fell_back,
                 "elapsed_s": round(el, 2),
                 "ts": _dt.datetime.now().isoformat(timespec="seconds"),
             }
             ledger.append(rec)
             with ledger_path.open("a", encoding="utf-8") as fh:
                 fh.write(json.dumps(rec, ensure_ascii=False) + "\n")
-            n_done += 1
-            print(f"{el:.1f}s  {translation[:60]}")
-            if args.sleep and i < len(todo):
+
+        def first_line(t):
+            return t.strip().split("\n")[0].strip().strip('"').strip("'")
+
+        stopped = False
+        for gi, group in enumerate(groups, 1):
+            ids = [h["id"] for h in group]
+            body = build_body(group, header, args)
+            print(f"[{gi}/{len(groups)}] ^{ids[0]}{' … ^' + ids[-1] if len(ids) > 1 else ''}  "
+                  f"{group[0]['text'][:40]} … ", end="", flush=True)
+            if args.dry_run:
+                print("(dry run)")
+                print(json.dumps(body, ensure_ascii=False, indent=2))
+                continue
+            t0 = time.time()
+            try:
+                out = call_api(body, args.timeout, args.retries)
+            except RuntimeError as exc:
+                print(f"\nSTOPPED at ^{ids[0]}: {exc}", file=sys.stderr)
+                break
+            el = time.time() - t0
+            segs = split_batch_response(out, len(group))
+            # A heading is one line: a segment that came back as several lines
+            # means the split is not trustworthy either.
+            if segs is not None and all(len(sg.strip().split("\n")) == 1 for sg in segs):
+                for hu, sg in zip(group, segs):
+                    head_record(hu, first_line(sg), el, ids, False)
+                n_done += len(group)
+                print(f"{el:.1f}s  {first_line(segs[0])[:60]}")
+            else:
+                print(f"{el:.1f}s  ! marker split failed; retrying {len(group)} headings singly", flush=True)
+                for hu in group:
+                    if args.sleep:
+                        time.sleep(args.sleep)
+                    t0 = time.time()
+                    try:
+                        one = call_api(build_body([hu], header, args), args.timeout, args.retries)
+                    except RuntimeError as exc:
+                        print(f"\nSTOPPED at ^{hu['id']}: {exc}", file=sys.stderr)
+                        stopped = True
+                        break
+                    head_record(hu, first_line(one), time.time() - t0, [hu["id"]], len(group) > 1)
+                    n_done += 1
+                if stopped:
+                    break
+            if args.sleep and gi < len(groups):
                 time.sleep(args.sleep)
         if not args.dry_run:
             render(out_md, units, latest_records(), meta, args, src_rel, extra_fm=extra_fm)

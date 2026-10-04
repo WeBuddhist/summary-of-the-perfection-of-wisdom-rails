@@ -12,8 +12,8 @@ lang_tag: bo
 file_type: commentary
 root_text: 1-SOURCES/Translations/bo-ratnagunasancayagatha.md
 verse_id_format: section-paragraph
-category_id: null
-license: unknown
+category_id: uGpinx0GZlvU1uw44RyYS
+license: public
 source: https://library.bdrc.io/show/bdr:WA1KG802?tabs=bdr:MW1KG802,bdr:W1KG802
 other_ids:
 - 'Dzongsar: phakpadoepa comm-4'

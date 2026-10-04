@@ -1,0 +1,1 @@
+This is a section heading from the topical outline (sa bcad) of a Tibetan Buddhist commentary on the Verse Summary of the Perfection of Wisdom. Translate it into the target language as a short heading: one line only, no sentence, no commentary, no explanation, no quotation marks. Keep any leading numeral exactly as it is. Keep proper names in their standard Sanskrit forms.
