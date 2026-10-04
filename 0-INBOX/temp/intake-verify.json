@@ -1,0 +1,197 @@
+[
+ {
+  "key": "sa-root",
+  "md": {
+   "rows": 373
+  },
+  "numbered": 0,
+  "matching": 0,
+  "blocks": 373,
+  "headings": 10,
+  "transclusions": 0,
+  "letters": 39584,
+  "missing": 0,
+  "extra": 0,
+  "problems": [],
+  "target": null
+ },
+ {
+  "key": "bo-display",
+  "md": {
+   "rows": 307,
+   "aligned_ok": "308/308",
+   "content_ok": "307/307"
+  },
+  "numbered": 0,
+  "matching": 0,
+  "blocks": 308,
+  "headings": 10,
+  "transclusions": 307,
+  "letters": 38209,
+  "missing": 0,
+  "extra": 0,
+  "problems": [],
+  "target": "sa-root"
+ },
+ {
+  "key": "zh-translation",
+  "md": {
+   "rows": 333,
+   "aligned_ok": "333/333",
+   "content_ok": "301/301"
+  },
+  "numbered": 0,
+  "matching": 0,
+  "blocks": 333,
+  "headings": 10,
+  "transclusions": 308,
+  "letters": 9188,
+  "missing": 0,
+  "extra": 0,
+  "problems": [],
+  "target": "bo-display"
+ },
+ {
+  "key": "bo-rangjung-dorje-tika",
+  "md": {
+   "rows": 229,
+   "aligned_ok": "323/323",
+   "content_ok": "142/142",
+   "edition_variant_rows": 1,
+   "_variants": [
+    {
+     "block": "2-171",
+     "row": 127,
+     "letters_found": 0.78,
+     "targets": [
+      "4-71",
+      "4-72",
+      "4-73",
+      "4-74"
+     ]
+    }
+   ]
+  },
+  "numbered": 0,
+  "matching": 0,
+  "blocks": 323,
+  "headings": 318,
+  "transclusions": 331,
+  "letters": 96519,
+  "missing": 0,
+  "extra": 0,
+  "problems": [],
+  "target": "bo-display"
+ },
+ {
+  "key": "bo-mipham-lekshe",
+  "md": {
+   "rows": 270,
+   "aligned_ok": "487/487",
+   "content_ok": "134/134"
+  },
+  "numbered": 0,
+  "matching": 0,
+  "blocks": 487,
+  "headings": 454,
+  "transclusions": 324,
+  "letters": 179176,
+  "missing": 0,
+  "extra": 0,
+  "problems": [],
+  "target": "bo-display"
+ },
+ {
+  "key": "bo-shasana-dibam-bedon-dronme",
+  "md": {
+   "rows": 256,
+   "aligned_ok": "297/297",
+   "content_ok": "191/191",
+   "edition_variant_rows": 4,
+   "_variants": [
+    {
+     "block": "3-150",
+     "row": 132,
+     "letters_found": 0.65,
+     "targets": [
+      "4-33",
+      "4-34",
+      "4-35"
+     ]
+    },
+    {
+     "block": "3-158",
+     "row": 140,
+     "letters_found": 0.88,
+     "targets": [
+      "4-52"
+     ]
+    },
+    {
+     "block": "3-179",
+     "row": 157,
+     "letters_found": 0.5,
+     "targets": [
+      "4-74"
+     ]
+    },
+    {
+     "block": "3-288",
+     "row": 257,
+     "letters_found": 0.84,
+     "targets": [
+      "8-2"
+     ]
+    }
+   ]
+  },
+  "numbered": 0,
+  "matching": 0,
+  "blocks": 297,
+  "headings": 141,
+  "transclusions": 340,
+  "letters": 126682,
+  "missing": 0,
+  "extra": 0,
+  "problems": [],
+  "target": "bo-display"
+ },
+ {
+  "key": "bo-khenrab-jamyang-norbu-dronme",
+  "md": {
+   "rows": 276,
+   "aligned_ok": "349/349",
+   "content_ok": "230/230",
+   "edition_variant_rows": 2,
+   "_variants": [
+    {
+     "block": "3-189",
+     "row": 141,
+     "letters_found": 0.58,
+     "targets": [
+      "4-33",
+      "4-34"
+     ]
+    },
+    {
+     "block": "3-335",
+     "row": 273,
+     "letters_found": 0.89,
+     "targets": [
+      "8-2"
+     ]
+    }
+   ]
+  },
+  "numbered": 0,
+  "matching": 0,
+  "blocks": 349,
+  "headings": 144,
+  "transclusions": 345,
+  "letters": 232315,
+  "missing": 0,
+  "extra": 0,
+  "problems": [],
+  "target": "bo-display"
+ }
+]

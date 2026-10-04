@@ -23,7 +23,9 @@ Expected layout (one folder per text, exactly as the API returned it):
 
 Spans are character offsets, end-exclusive, exactly as upstream. Nothing is
 dropped: annotations of a type this reader does not know are returned under
-"other_annotations".
+"other_annotations". A text with several instances is read from the one
+tree.json pairs it by (else its only critical instance); `instance_id`
+overrides.
 """
 import json
 import pathlib
@@ -45,14 +47,35 @@ def _spans(data, extra=()):
     return sorted(out, key=lambda x: (x["start"], x["end"]))
 
 
-def load(root, text_id):
+def _pick_instance(root, text_id, inst_files, instance_id=None):
+    """Choose the instance to read when a text has several (e.g. a critical
+    edition plus a placeholder diplomatic one): the one asked for, else the
+    one tree.json pairs this text by, else the only 'critical' one."""
+    by_id = {f.stem: f for f in inst_files}
+    if instance_id:
+        return by_id[instance_id]
+    if len(inst_files) == 1:
+        return inst_files[0]
+    tree = _j(root / "tree.json") if (root / "tree.json").exists() else {"pairs": []}
+    used = {p["parent_instance"] for p in tree.get("pairs", []) if p.get("parent_text") == text_id}
+    used |= {p["derived_instance"] for p in tree.get("pairs", []) if p.get("derived_text") == text_id}
+    used &= set(by_id)
+    if len(used) == 1:
+        return by_id[used.pop()]
+    critical = [f for f in inst_files if _j(f)["metadata"].get("type") == "critical"]
+    if len(critical) == 1:
+        return critical[0]
+    raise ValueError(f"{text_id}: {len(inst_files)} instances and no single paired or critical one; pass instance_id")
+
+
+def load(root, text_id, instance_id=None):
     root = pathlib.Path(root)
     tdir = root / "texts" / text_id
     meta = _j(tdir / "text.json")
     inst_files = sorted((tdir / "instances").glob("*.json"))
-    if len(inst_files) != 1:
-        raise ValueError(f"{text_id}: expected one instance, found {len(inst_files)}")
-    inst = _j(inst_files[0])
+    if not inst_files:
+        raise ValueError(f"{text_id}: no instance")
+    inst = _j(_pick_instance(root, text_id, inst_files, instance_id))
     model = {
         "text_id": text_id, "meta": meta,
         "instance_id": inst["metadata"]["id"], "instance_meta": inst["metadata"],

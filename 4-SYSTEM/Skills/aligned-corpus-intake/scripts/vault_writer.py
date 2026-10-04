@@ -64,9 +64,21 @@ def clean_lines(text):
     return out
 
 
-def heading_line(path, title):
+def heading_level(item):
+    """Markdown depth below the '#' title: 1 = '##'. An adapter may set it
+    (a TOC whose root node is the work's title shifts every node up one);
+    otherwise it is the number of parts in the heading's path."""
+    return item.get("level") or len([p for p in str(item["path"]).split(".") if p != ""])
+
+
+def top_label(item):
+    """The h2 label a top-level heading gives the blocks under it."""
+    return "-".join(p for p in str(item["path"]).split(".") if p != "")
+
+
+def heading_line(path, title, level=None):
     parts = [p for p in str(path).split(".") if p != ""]
-    depth = len(parts) + 1                      # '##' is tree depth 1
+    depth = (level or len(parts)) + 1          # '##' is tree depth 1
     hashes = "#" * min(depth, 6)
     title = " ".join(clean_lines(title)) or "—"
     if depth > 6:
@@ -90,12 +102,12 @@ def render(work, vault_root):
     used = set()
     for item in work["items"]:
         if item["kind"] == "heading":
-            hl = heading_line(item["path"], item["title"])
+            hl = heading_line(item["path"], item["title"], heading_level(item))
             lines += [hl, ""]
-            if len(str(item["path"]).split(".")) == 1:
-                h2 = str(item["path"])
-            headings.append({"line": hl, "path": item["path"], "title": item["title"],
-                             "source": item.get("source")})
+            if heading_level(item) == 1:
+                h2 = top_label(item)
+            headings.append({"line": hl, "path": item["path"], "level": heading_level(item),
+                             "title": item["title"], "source": item.get("source")})
             continue
         text_lines = clean_lines(item["text"])
         if not text_lines:

@@ -17,6 +17,7 @@ Model shape:
                                "bold", "italic", "underline", "strike",
                                "vert_align"}]}],
      "comments": {id: {"author", "date", "text"}},
+     "footnotes": {id: text},     # paragraphs carry "footnote_refs": [{id, offset}]
      "sha1": <hash of the .docx bytes>}
 
 A paragraph's "text" is the exact concatenation of its runs' text. Line
@@ -24,6 +25,7 @@ breaks inside a paragraph are kept as "\n" and tabs as "\t".
 """
 import hashlib
 import json
+import re
 import sys
 import zipfile
 from xml.etree import ElementTree as ET
@@ -67,6 +69,11 @@ def _run_props(rpr):
 def _run_text(r):
     out = []
     for x in r:
+        if x.tag == W + "footnoteReference":
+            # zero-width marker, turned into a footnote_refs entry by read();
+            # never part of the paragraph text
+            out.append("\x00FN" + (x.get(W + "id") or "") + "\x00")
+            continue
         if x.tag == W + "t":
             out.append(x.text or "")
         elif x.tag == W + "tab":
@@ -102,6 +109,41 @@ def _comments(z):
         text = "\n".join("".join(t.text or "" for t in p.iter(W + "t")) for p in c.iter(W + "p"))
         out[c.get(W + "id")] = {"author": c.get(W + "author"), "date": c.get(W + "date"), "text": text}
     return out
+
+
+def _footnotes(z):
+    """Word footnotes (id -> text), e.g. a collation apparatus. Separator
+    footnotes (w:type set) are skipped."""
+    if "word/footnotes.xml" not in z.namelist():
+        return {}
+    root = ET.fromstring(z.read("word/footnotes.xml"))
+    out = {}
+    for f in root.findall(W + "footnote"):
+        if f.get(W + "type"):
+            continue
+        out[f.get(W + "id")] = "\n".join("".join(t.text or "" for t in p.iter(W + "t")) for p in f.iter(W + "p")).strip()
+    return out
+
+
+_FN = re.compile("\x00FN([^\x00]*)\x00")
+
+
+def _pull_footnote_refs(para):
+    """Move footnote markers out of the runs into para["footnote_refs"]
+    (id + offset into the paragraph text, i.e. right after the lemma)."""
+    refs, pos = [], 0
+    for r in para["runs"]:
+        clean, last = [], 0
+        for m in _FN.finditer(r["text"]):
+            clean.append(r["text"][last:m.start()])
+            refs.append({"id": m.group(1), "offset": pos + sum(len(x) for x in clean)})
+            last = m.end()
+        clean.append(r["text"][last:])
+        r["text"] = "".join(clean)
+        pos += len(r["text"])
+    para["runs"] = [r for r in para["runs"] if r["text"]]
+    if refs:
+        para["footnote_refs"] = refs
 
 
 def read(path):
@@ -144,10 +186,11 @@ def read(path):
                 prev["text"] += text          # merge identical neighbours
             else:
                 para["runs"].append({"text": text, **props})
+        _pull_footnote_refs(para)
         para["text"] = "".join(r["text"] for r in para["runs"])
         paragraphs.append(para)
     _render_numbers(z, paragraphs)
-    return {"paragraphs": paragraphs, "comments": _comments(z),
+    return {"paragraphs": paragraphs, "comments": _comments(z), "footnotes": _footnotes(z),
             "sha1": hashlib.sha1(data).hexdigest()}
 
 

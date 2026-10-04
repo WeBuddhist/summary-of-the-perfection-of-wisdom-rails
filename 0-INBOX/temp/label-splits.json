@@ -1,0 +1,962 @@
+{
+ "bo-shasana-dibam-bedon-dronme": [
+  {
+   "row": 6,
+   "at": [
+    "དང་པོ་ནི།"
+   ],
+   "targets": [
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 10,
+   "at": [
+    "དང་པོ་ལ་གསུམ།",
+    "དང་པོ་ལ། ཐོབ་བྱ་རྣམ་མཁྱེན།",
+    "དང་པོ་ལ། བསམ་པ་སེམས་བསྐྱེད་དང་།"
+   ],
+   "targets": [
+    [],
+    [],
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 3 heading label(s) (3.1, 3.1.1, 3.1.1.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 22,
+   "at": [
+    "དེ་ལ་དམིགས་པ་སོགས་ཀྱི་ཁྱད་པར་དང་།"
+   ],
+   "targets": [
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.1.1.1.2.2.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 25,
+   "at": [
+    "གཉིས་པ་རྩེ་མོ་ལ་དམིགས་པ་ནི།"
+   ],
+   "targets": [
+    [
+     0
+    ],
+    [
+     1
+    ]
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.1.1.1.2.2.1.2) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 30,
+   "at": [
+    "གཉིས་པ་རྣམ་རྟོག་སྤང་བྱ་ལྡན་ཚུལ་ལ།"
+   ],
+   "targets": [
+    [
+     0
+    ],
+    []
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.1.1.1.2.2.1.5) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 35,
+   "at": [
+    "དང་པོ་གཉིས་སྟོན་པར།",
+    "རིགས་ཀྱི་དོན་ལ་གཞི་རྟེན་བྱེད་པ་དང་རྒྱུ་བྱེད་པ་གཉིས་ལས།",
+    "དང་པོ་ནི།"
+   ],
+   "targets": [
+    [],
+    [
+     0,
+     1
+    ],
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 3 heading label(s) (3.1.1.1.3.1, 3.1.1.1.3.1.1, 3.1.1.1.3.1.1.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 48,
+   "at": [
+    "དང་པོ་ལ། གཞན་དོན་དང་རང་དོན་གྱི་དབང་བྱས་པ་གཉིས་ཀྱི་ དང་པོ་ལ།",
+    "དང་པོ་ལ། གཞན་དོན་བྱེད་པའི་རྒྱུ་མཉམ་ཉིད་དང་།",
+    "གཉིས་པ་ལ།",
+    "དང་པོ་ནི།",
+    "རྟོགས་པ་ལ་ཇི་ལྟ་བ་རྟོགས་པ་མཐའ་འདས་དང་།"
+   ],
+   "targets": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 5 heading label(s) (3.1.1.1.3.4.4.1, 3.1.1.1.3.4.4.1.1, 3.1.1.1.3.4.4.2, 3.1.1.1.3.4.4.2.1, 3.1.1.1.3.4.4.2.2) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 55,
+   "at": [
+    "དང་པོ་ནི།"
+   ],
+   "targets": [
+    [
+     0
+    ],
+    []
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.1.1.2.2.1.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 57,
+   "at": [
+    "གཉིས་པ་ལ།",
+    "དང་པོ་ལ་ཁྱད་པར་གསུམ་ལས།",
+    "དང་པོ་གཟུང་རྟོག་སྤོང་བའི་ཁྱད་པར་ནི།"
+   ],
+   "targets": [
+    [],
+    [],
+    [],
+    [
+     0
+    ]
+   ],
+   "reason": "The TOC doc puts 3 heading label(s) (3.1.1.2.2.2, 3.1.1.2.2.2.1, 3.1.1.2.2.2.1.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 69,
+   "at": [
+    "དང་པོ་མོས་པ་སྒོམ་ལམ་ལ་བཞི་ལས།",
+    "དང་པོ་རང་དོན་མོས་པ་ནི།"
+   ],
+   "targets": [
+    [],
+    [],
+    [
+     0,
+     1,
+     2
+    ]
+   ],
+   "reason": "The TOC doc puts 2 heading label(s) (3.1.1.2.2.3.2.2.1.1, 3.1.1.2.2.3.2.2.1.1.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 71,
+   "at": [
+    "གཉིས་པ་གཉིས་དོན་མོས་པ་ནི།"
+   ],
+   "targets": [
+    [],
+    [
+     0,
+     1
+    ]
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.1.1.2.2.3.2.2.1.1.2) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 81,
+   "at": [
+    "བསྟོད་བཀུར་བསྔགས་གསུམ།བསྟོད་བཀུར་བསྔགས་གསུམ་ཉེར་བདུན་མཛད་པ་སྟེ།"
+   ],
+   "targets": [
+    [
+     0,
+     1
+    ],
+    []
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.1.1.2.2.3.2.2.1.2) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 88,
+   "at": [
+    "གཉིས་པ་ཟག་མེད་སྒོམ་ལམ་ལ་གཉིས་ལས།",
+    "དང་པོ་སྒྲུབ་པ་སྒོམ་ལམ་ལ།"
+   ],
+   "targets": [
+    [
+     0,
+     1
+    ],
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 2 heading label(s) (3.1.1.2.2.3.2.2.2, 3.1.1.2.2.3.2.2.2.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 95,
+   "at": [
+    "གཉིས་པ་ལ་རྣམ་དག་སྤྱིར་བསྟན་པ་དང་།"
+   ],
+   "targets": [
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.1.1.2.2.3.2.2.2.2.2) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 103,
+   "at": [
+    "དང་པོ་ལ། དབང་དུ་བྱེད་པའི་རྒྱུ་རྣམ་རྫོགས་སྦྱོར་བ་དང་།",
+    "དང་པོ་ལ། །མཚོན་བྱེད་ཀྱི་ཆོས་བཅུ་གཅིག་ལས།"
+   ],
+   "targets": [
+    [],
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 2 heading label(s) (3.1.2.1, 3.1.2.1.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 147,
+   "at": [
+    "དང་པོ་ལ།"
+   ],
+   "targets": [
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.1.2.1.1.8.2.3.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 154,
+   "at": [
+    "གྲངས་ངེས་ལ་རྩོད་པ་དང་།",
+    "ཕྱི་མ་ལ་དོན་དམ་དང་ཀུན་རྫོབ་ལ་ལྟོས་པའི་རྩོད་པ་གཉིས་ལས།",
+    "དང་པོའི་དོགས་པ་སེལ་ཚུལ་ནི།"
+   ],
+   "targets": [
+    [],
+    [],
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 3 heading label(s) (3.1.2.1.1.8.2.3.1.3.2.1, 3.1.2.1.1.8.2.3.1.3.2.2, 3.1.2.1.1.8.2.3.1.3.2.2.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 163,
+   "at": [
+    "དང་སྦྱོར་བའི་བར་ཆད་ཀྱི་ཆོས་དགྲ་རྣམས་ལས་འདས་པའི་ཐབས་མཁས་སྦྱོར་བ་ནི།"
+   ],
+   "targets": [
+    [],
+    [
+     0,
+     1,
+     2
+    ]
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.1.2.1.1.11.2.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 170,
+   "at": [
+    "ཆོས་ཐམས་ཅད་ལ་འཛིན་པ་མེད་པར་མ་ཆགས་པའི་དེ་ནི།"
+   ],
+   "targets": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ]
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.1.2.1.1.11.2.6) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 204,
+   "at": [
+    "ལྔ་པ་མཐོང་ལམ་རྩེ་སྦྱོར་ལ་གཉིས།",
+    "དང་པོ་ལ་གཟུང་འཛིན་གྱི་རྣམ་རྟོག་བཞི་དང་དེ་དག་སྤོང་བའི་ཕན་ཡོན་དང་ལྔ་ལས།"
+   ],
+   "targets": [
+    [],
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 2 heading label(s) (3.1.2.1.2.5, 3.1.2.1.2.5.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 208,
+   "at": [
+    "ལྔ་པ་དེ་ལྟར་རྣམ་རྟོག་བཞི་སྤོང་བའི་ཕན་ཡོན་ལ་གསུམ།",
+    "དང་པོ་ནི།"
+   ],
+   "targets": [
+    [
+     0,
+     1
+    ],
+    [],
+    [
+     2
+    ]
+   ],
+   "reason": "The TOC doc puts 2 heading label(s) (3.1.2.1.2.5.1.5, 3.1.2.1.2.5.1.5.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 209,
+   "at": [
+    "གསུམ་པ་ལ་ལྷ་བུའི་འདུད་ལས་འདས་ཚུལ་དང་།"
+   ],
+   "targets": [
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.1.2.1.2.5.1.5.3) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 210,
+   "at": [
+    "གཉིས་པ་ནི།"
+   ],
+   "targets": [
+    [
+     0
+    ],
+    [
+     1
+    ]
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.1.2.1.2.5.1.5.3.2) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 227,
+   "at": [
+    "བརྟན་པ་ཐོབ་པའི་རྒྱུ་མཐར་གྱིས་པའི་སྦྱོར་བ་ནི།"
+   ],
+   "targets": [
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.1.2.2.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  }
+ ],
+ "bo-khenrab-jamyang-norbu-dronme": [
+  {
+   "row": 4,
+   "at": [
+    "མཚན་གྱི་དོན།དང་པོ་ལ་ཡང་མཚན་བསྒྱུར་བ།",
+    "མཚན་བསྒྱུར་བ།དང་པོ་ནི།"
+   ],
+   "targets": [
+    [
+     0
+    ],
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 2 heading label(s) (1, 1.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 5,
+   "at": [
+    "མཚན་དོན་བཤད་པ།",
+    "དགོས་པ། གསུམ་པ་ནི།"
+   ],
+   "targets": [
+    [
+     0
+    ],
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 2 heading label(s) (1.2, 1.3) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 8,
+   "at": [
+    "དགོས་དོན།དེ་རྣམས་ལས་ཀྱང་ཐོག་མར་དགོས་འབྲེལ་བསྙད་དགོས་ཏེ།"
+   ],
+   "targets": [
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 11,
+   "at": [
+    "མདོ་གང་ལས་བྱུང་བའི་གླེང་གཞི།"
+   ],
+   "targets": [
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.3.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 17,
+   "at": [
+    "ཤེས་བྱ་མཁྱེན་པ་གསུམ།དང་པོ་ལ་རྣམ་མཁྱེན།",
+    "རྣམ་མཁྱེན།དང་པོ་ནི།"
+   ],
+   "targets": [
+    [],
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 2 heading label(s) (3.3.2.1, 3.3.2.1.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 18,
+   "at": [
+    "དངོས། དང་པོ་ནི།"
+   ],
+   "targets": [
+    [],
+    [
+     0
+    ]
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.3.2.1.1.1.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 26,
+   "at": [
+    "ངོ་བོ་དམིགས་རྣམ་རྒྱུ་གསུམ་གྱི་ཁྱད་པར།དང་པོ་ལ་དྲོད་རྩེ་མོ་བཟོད་པ་ཆོས་མཆོག་དང་བཞི་ལས།",
+    "དྲོད་ཀྱི་དམིགས་པ། དྲོད་ཀྱི་དམིགས་པ་ནི།"
+   ],
+   "targets": [
+    [],
+    [],
+    [
+     0
+    ]
+   ],
+   "reason": "The TOC doc puts 2 heading label(s) (3.3.2.1.1.3.1, 3.3.2.1.1.3.1.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 34,
+   "at": [
+    "ཤེས་སྒྲིབ་བཟུང་རྟོགདང་པོ་ལ་ཡང་རྩ་བའི་སྒོ་ནས་དབྱེ་ན་ཀུན་ཉོན་བཟུང་རྟོག་དང་རྣམ་བྱང་བཟུང་རྟོག་གཉིས།"
+   ],
+   "targets": [
+    [],
+    [
+     0
+    ]
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.3.2.1.1.3.2.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 59,
+   "at": [
+    "ལམ་ཤེས་ཡན་ལགདང་པོ་སྟོན་པར།",
+    "མཚན་ཉིད།དང་པོ་ནི།",
+    "དབྱེ་བ།གཉིས་པ་དེ་ལ་དབྱེ་ན།",
+    "ས་མཚམས།གསུམ་པ་ས་མཚམས་ནི།"
+   ],
+   "targets": [
+    [],
+    [],
+    [],
+    [],
+    [
+     0
+    ]
+   ],
+   "reason": "The TOC doc puts 4 heading label(s) (3.3.2.1.2.1, 3.3.2.1.2.1.1, 3.3.2.1.2.1.2, 3.3.2.1.2.1.3) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 60,
+   "at": [
+    "ཉན་ཐོས་ཀྱི་ལམ་ཤེས།གཉིས་པ་ཉན་ཐོས་ཀྱི་ལམ་ཤེས་པའི་ལམ་ཤེས་ལ་གཉིས།",
+    "དེའི་ངོ་བོ་དངོས།",
+    "མཚན་ཉིད།དང་པོ་ནི།",
+    "དབྱེ་བ།གཉིས་པ་དེ་ལ་དབྱེ་ན།",
+    "ས་མཚམས།གསུམ་པ་ནི།"
+   ],
+   "targets": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     0
+    ]
+   ],
+   "reason": "The TOC doc puts 5 heading label(s) (3.3.2.1.2.2, 3.3.2.1.2.2.1, 3.3.2.1.2.2.1.1, 3.3.2.1.2.2.1.2, 3.3.2.1.2.2.1.3) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 62,
+   "at": [
+    "མཚན་ཉིད།དང་པོ་ནི།",
+    "དབྱེ་བ།གཉིས་པ་དེ་ལ་དབྱེ་ན།",
+    "ས་མཚམས།གསུམ་པ་ས་མཚམས་ནི།",
+    "དངོས།དང་པོ་ནི།"
+   ],
+   "targets": [
+    [],
+    [],
+    [],
+    [],
+    [
+     0
+    ]
+   ],
+   "reason": "The TOC doc puts 4 heading label(s) (3.3.2.1.2.3.1, 3.3.2.1.2.3.2, 3.3.2.1.2.3.3, 3.3.2.1.2.3.4) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 67,
+   "at": [
+    "བྱང་སེམས་ཀྱི་མཐོང་ལམ།བཞི་པ་བྱང་སེམས་ཀྱི་མཐོང་ལམ་ནི།",
+    "མཚན་ཉིད།དང་པོ་ནི།",
+    "དབྱེ་བ།གཉིས་པ་དེ་ལ་དབྱེ་ན།",
+    "ས་མཚམས།གསུམ་པ་ནི།",
+    "དངོས།དང་པོ་ནི།"
+   ],
+   "targets": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     0
+    ]
+   ],
+   "reason": "The TOC doc puts 5 heading label(s) (3.3.2.1.2.4, 3.3.2.1.2.4.1, 3.3.2.1.2.4.2, 3.3.2.1.2.4.3, 3.3.2.1.2.4.4) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 69,
+   "at": [
+    "འཕྲོས་དོན། གཉིས་པ་འཕྲོས་དོན་ནི།"
+   ],
+   "targets": [
+    [
+     0
+    ],
+    [
+     1
+    ]
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.3.2.1.2.4.5) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 72,
+   "at": [
+    "མཚན་ཉིད།དང་པོ་ནི།",
+    "དབྱེ་བ།གཉིས་པ་དེ་ལ་དབྱེ་ན།",
+    "ས་མཚམས།གསུམ་པ་ནི།"
+   ],
+   "targets": [
+    [],
+    [],
+    [],
+    [
+     0
+    ]
+   ],
+   "reason": "The TOC doc puts 3 heading label(s) (3.3.2.1.2.5.1, 3.3.2.1.2.5.2, 3.3.2.1.2.5.3) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 73,
+   "at": [
+    "མཚན་ཉིད།དང་པོ་ནི།",
+    "དབྱེ་བ།གཉིས་པ་དེ་ལ་དབྱེ་ན།",
+    "རྟོག་པ་ཟག་བཅས་སྒོམ་ལམ།དང་པོ་ལ་མོས་བསྔོ་རྗེས་སུ་ཡི་རང་སྒོམ་ལམ་དང་གསུམ་ཡོད།",
+    "མོས་པ་སྒོམ་ལམ།དེའི་དང་པོ་མོས་པ་སྒོམ་ལམ་སྟོན་པར།",
+    "མཚན་ཉིད།ཡུམ་དོན་གསུམ་གྱི་འབྱུང་གནས་སུ་ཡིད་ཆེས་པའི་ཐེག་ཆེན་གྱི་རྗེས་ལ་མངོན་རྟོགས་དེ་མོས་པ་སྒོམ་ལམ་གྱི་མཚན་ཉིད།",
+    "དབྱེ་བ།དབྱེ་ན།",
+    "ས་མཚམས།ས་མཚམས་ས་དང་པོ་ནས་བཅུ་པའི་བར་དུ་ཡོད།",
+    "རང་དོན་མོས་པ་སྒོམ་ལམ།དེའི་དང་པོ་རང་དོན་མོས་པ་སྒོམ་ལམ་སྟོན་པར།"
+   ],
+   "targets": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     0,
+     1,
+     2
+    ]
+   ],
+   "reason": "The TOC doc puts 8 heading label(s) (3.3.2.1.2.6.1, 3.3.2.1.2.6.2, 3.3.2.1.2.6.2.1, 3.3.2.1.2.6.2.1.1, 3.3.2.1.2.6.2.1.1.1, 3.3.2.1.2.6.2.1.1.2, 3.3.2.1.2.6.2.1.1.3, 3.3.2.1.2.6.2.1.1.4) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 74,
+   "at": [
+    "གཉིས་དོན་མོས་པ་སྒོམ་ལམ།གཉིས་པ་གཉིས་དོན་མོས་པ་སྒོམ་སྟོན་པར།"
+   ],
+   "targets": [
+    [],
+    [
+     0
+    ]
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.3.2.1.2.6.2.1.1.5) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 109,
+   "at": [
+    "སྤྱིར་བསྟན་པ།དང་པོ་སྤྱིར་བསྟན་པ་ནི།"
+   ],
+   "targets": [
+    [],
+    [
+     0
+    ]
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.3.2.1.2.11.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 111,
+   "at": [
+    "ཤེས་པས་སྲིད་ལ་མི་གནས་པའི་ལམ་ཤེས་དང་སྙིང་རྗེའི་ཞིལ་མི་གནས་པའི་ལམ་ཤེས།"
+   ],
+   "targets": [
+    [],
+    [
+     0
+    ]
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.3.2.1.3.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 112,
+   "at": [
+    "འབྲས་ཡུམ་ལ་ཉེ་བའི་གཞི་ཤེས།བཞི་པ་འབྲས་ཡུམ་ལ་ཉེ་བའི་གཞི་ཤེས་ནི།",
+    "མི་མཐུན་ཕྱོགས་ཀྱི་གཞི་ཤེས།ལྔ་བ་མི་མཐུན་ཕྱོགས་ཀྱི་གཞི་ཤེས་ནི།"
+   ],
+   "targets": [
+    [],
+    [],
+    [
+     0
+    ]
+   ],
+   "reason": "The TOC doc puts 2 heading label(s) (3.3.2.1.3.4, 3.3.2.1.3.5) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 114,
+   "at": [
+    "སྦྱོར་བ་དེའི་འཛིན་སྟངས་མཉམ་ཉིད།བརྒྱད་པ་སྦྱོར་བ་དེའི་འཛིན་སྟངས་མཉམ་ཉིད་སྟོན་པར།"
+   ],
+   "targets": [
+    [],
+    [
+     0
+    ]
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.3.2.1.3.8) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 116,
+   "at": [
+    "ཉམས་ལེན་སྦྱོར་བ་བཞི།",
+    "སྦྱོར་བ་ལ་དབང་དུ་བྱེད་པ་འབྲས།དང་པ་ོལ་དབང་དུ་བྱེད་པའི་རྒྱུ་རྣམ་རྫོགས་སྦྱོར་བ་དང་།",
+    "དབང་དུ་བྱེད་པའི་རྒྱུ་རྣམ་རྫོགས་སྦྱོར་བ།དང་པོ་སྟོན་པར།",
+    "རྣམ་པ།དང་པོ་སྟོན་པར།"
+   ],
+   "targets": [
+    [
+     0,
+     1,
+     2
+    ],
+    [],
+    [],
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 4 heading label(s) (3.3.2.2, 3.3.2.2.1, 3.3.2.2.1.1, 3.3.2.2.1.1.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 123,
+   "at": [
+    "བསལ་བྱའི་སྐྱོན།དང་པོ་ལ།",
+    "དྲི་བ།དང་པོ་དྲི་བ་ནི།",
+    "ལན། གཉིས་པ་ལན་ནི།"
+   ],
+   "targets": [
+    [
+     0
+    ],
+    [],
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 3 heading label(s) (3.3.2.2.1.1.4.1, 3.3.2.2.1.1.4.1.1, 3.3.2.2.1.1.4.1.2) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 134,
+   "at": [
+    "རྒྱས་པར་བཤད་པ།",
+    "མཚན་ཉིད།དང་པོ་ནི།",
+    "དབྱེ་བ།གཉིས་པ་དེ་ལ་དབྱེ་ན།"
+   ],
+   "targets": [
+    [],
+    [],
+    [],
+    [
+     0,
+     1
+    ]
+   ],
+   "reason": "The TOC doc puts 3 heading label(s) (3.3.2.2.1.1.5.2, 3.3.2.2.1.1.5.2.1, 3.3.2.2.1.1.5.2.2) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 155,
+   "at": [
+    "ཐར་པ་ཆ་མཐུན།"
+   ],
+   "targets": [
+    [],
+    [
+     0,
+     1
+    ]
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.3.2.2.1.1.6) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 176,
+   "at": [
+    "བདུད་བཞི་ལས་རྒྱལ་བའི་ཐབས་མཁས་སྦྱོར་བ།བདུད་བཞི་ལས་རྒྱལ་བའི་ཐབས་མཁས་སྦྱོར་བ་འཆད་པར།"
+   ],
+   "targets": [
+    [],
+    [
+     0,
+     1,
+     2
+    ]
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.3.2.2.1.1.11.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 179,
+   "at": [
+    "མ་ཆགས་པའི་ཐབས་མཁས་སྦྱོར་བ།"
+   ],
+   "targets": [
+    [
+     0
+    ],
+    []
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.3.2.2.1.1.11.5) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 190,
+   "at": [
+    "འབྲས་བུ་རྩེ་སྦྱོར། གཉིས་པ་དབང་དུ་བྱ་བའི་འབྲས་བུ་རྩེ་སྦྱོར་འཆད་པར།",
+    "དྲོད་རྩེ་སྦྱོར།དེ་རྣམས་ཀྱི་ནང་ནས་དང་པོ་དྲོད་རྩེ་སྦྱོར་འཆད་པ།",
+    "རྟགས་ཀྱི་རབ་ཏུ་དབྱེ་བ།"
+   ],
+   "targets": [
+    [],
+    [],
+    [],
+    [
+     0
+    ]
+   ],
+   "reason": "The TOC doc puts 3 heading label(s) (3.3.2.2.1.2, 3.3.2.2.1.2.1, 3.3.2.2.1.2.1.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 218,
+   "at": [
+    "ཆོས་མཆོག་གི་རྩེ་སྦྱོར།བཞི་པ་ཆོས་མཆོག་གི་རྩེ་སྦྱོར་ནི།"
+   ],
+   "targets": [
+    [
+     0
+    ],
+    []
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.3.2.2.1.2.4) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 220,
+   "at": [
+    "སྤངས་བྱ་རྟོག་པ་བཤད་པ།དང་པ་ོལ་དངོས་དང་།",
+    "དངོས།དང་པོ་ལ་ཡང་ཤེས་སྒྲིབ་གཟུང་རྟོག་པ་དང་།",
+    "ཤེས་སྒྲིབ་གཟུང་རྟོགདེའི་དང་པོ་ལ་ཡང་འཇུག་པ་གཟུང་རྟོག་དང་།",
+    "འཇུག་པ་གཟུང་རྟོག་དང་པོ་འཇུག་པ་གཟུང་རྟོག་སྟོན་པར།"
+   ],
+   "targets": [
+    [],
+    [],
+    [],
+    [],
+    [
+     0
+    ]
+   ],
+   "reason": "The TOC doc puts 4 heading label(s) (3.3.2.2.1.2.5.1, 3.3.2.2.1.2.5.1.1, 3.3.2.2.1.2.5.1.1.1, 3.3.2.2.1.2.5.1.1.1.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 243,
+   "at": [
+    "བརྟན་པ་རྒྱུ་འབྲས་བཤད་པ།ག",
+    "བརྟན་པའི་རྒྱུ་མཐར་གྱིས་སྦྱོར་བ།དང་པོ་ནི།"
+   ],
+   "targets": [
+    [],
+    [],
+    [
+     0
+    ]
+   ],
+   "reason": "The TOC doc puts 2 heading label(s) (3.3.2.2.2, 3.3.2.2.2.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 244,
+   "at": [
+    "འབྲས་བུ་སྐད་ཅིག་མའི་སྦྱོར་བ།གཉིས་པ་འབྲས་བུ་སྐད་ཅིག་མའི་སྦྱོར་བ།"
+   ],
+   "targets": [
+    [],
+    [
+     0,
+     1
+    ]
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (3.3.2.2.2.2) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  },
+  {
+   "row": 274,
+   "at": [
+    "གཞུང་ལྷག་པ་མ་ལུས་པར་རྫོགས་པར་སྟོན་པ།"
+   ],
+   "targets": [
+    [],
+    []
+   ],
+   "reason": "The TOC doc puts 1 heading label(s) (4.1) inside this alignment row; it is cut there so each heading stands where the doc has it. Each root segment the row transcludes is shown once, with the first part that quotes it (the first part if none does).",
+   "decided_by": "vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 \"split the rows\" applied to the TOC doc's label positions; applied by Claude",
+   "date": "2026-10-03"
+  }
+ ]
+}

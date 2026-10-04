@@ -2,22 +2,32 @@
 import hashlib
 import pathlib
 import re
+import unicodedata
 
 from project import is_letter
+
+# Digits of an alignment number: Arabic (ASCII or full-width), never Tibetan.
+# A paragraph opening with Tibetan numerals ("༥༽", "༡)") is an enumeration
+# in the text itself, not a reference the aligners typed.
+_D = r"[^\D\u0F20-\u0F29]"
 
 # A typed alignment reference at the start of a line, Pecha convention
 # (4-SYSTEM/Skills/aligned-corpus-intake/references/pecha-conventions.md):
 #   "12."  "12-15."  "1-3,5,6."  "17-19 "   — a single number needs its dot,
 # a range may omit it. An optional Tibetan tsheg may follow the dot.
+# Whitespace around a typed number, including the zero-width spaces Google
+# Docs leaves after a shad ("\u200b46 དང་པོ་ནི།").
+_S = r"[\s\u200b\ufeff]"
+
 REF_PREFIX = re.compile(
-    r"^(?P<all>\s*(?P<refs>\d+(?:\s*[-–~]\s*\d+)?(?:\s*[,，、]\s*\d+(?:\s*[-–~]\s*\d+)?)*)"
-    r"(?P<dot>\s*[\.．])?་?\s*)")
+    rf"^(?P<all>{_S}*(?P<refs>{_D}+(?:\s*[-–~]\s*{_D}+)?(?:\s*[,，、]\s*{_D}+(?:\s*[-–~]\s*{_D}+)?)*)"
+    rf"(?P<dot>\s*[\.．])?་?{_S}*)")
 
 
 # Bare style (Tibetan commentaries): "14 ", "1-3 ", "198,199,201 " — never
 # followed by a dot (a dotted number there is a heading's outline number).
 REF_PREFIX_BARE = re.compile(
-    r"^(?P<all>\s*(?P<refs>\d+(?:\s*[-–~]\s*\d+)?(?:\s*[,，、]\s*\d+(?:\s*[-–~]\s*\d+)?)*)(?![\d.．])\s*)")
+    rf"^(?P<all>{_S}*(?P<refs>{_D}+(?:\s*[-–~]\s*{_D}+)?(?:\s*[,，、]\s*{_D}+(?:\s*[-–~]\s*{_D}+)?)*)(?![\d.．]){_S}*)")
 
 
 def parse_ref_prefix(line, style="dotted"):
@@ -49,6 +59,31 @@ def parse_ref_prefix(line, style="dotted"):
 
 def letters_only(s):
     return "".join(ch for ch in s if is_letter(ch))
+
+
+def _norm_name(s):
+    return " ".join(unicodedata.normalize("NFC", s).replace("\u00a0", " ").split())
+
+
+def raw_path(root, rel):
+    """Resolve a manifest path under the raw root. Drive exports put
+    no-break spaces after IDs and may store names decomposed; a manifest
+    written with plain spaces still finds the file, component by component.
+    Ambiguous or missing components raise FileNotFoundError."""
+    root = pathlib.Path(root)
+    p = root / rel
+    if p.exists():
+        return p
+    cur = root
+    for part in pathlib.PurePosixPath(rel).parts:
+        nxt = cur / part
+        if not nxt.exists():
+            hits = [c for c in cur.iterdir() if _norm_name(c.name) == _norm_name(part)] if cur.is_dir() else []
+            if len(hits) != 1:
+                raise FileNotFoundError(root / rel)
+            nxt = hits[0]
+        cur = nxt
+    return cur
 
 
 def sha1(path):

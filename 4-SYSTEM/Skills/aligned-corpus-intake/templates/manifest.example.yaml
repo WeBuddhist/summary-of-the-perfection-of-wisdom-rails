@@ -79,3 +79,52 @@ works:
   extra_raw: ["<other raw files consulted, for provenance>"]
   notes: >-
     What a reviewer needs to know about how this file was assembled.
+
+# ── Route B: Google Docs exported as Markdown (row N of one doc ↔ row N of the other) ──
+# See references/md-export-format.md. Build order = dependency order.
+
+# The root: rows are its segmentation; its TOC is a commentary's outline projected
+# through that commentary's row alignment (or id_scheme: flat with no toc = row-number ids).
+- key: sa-root
+  path: 1-SOURCES/Text/sa-<slug>.md
+  adapter: md_rows
+  id_scheme: h2
+  toc: {kind: projected, source_work: bo-<commentary>}
+  text: <prefix>-root-sa(bo-sa).md
+  title: <title>
+  frontmatter: {title: …, language: Sanskrit, lang_tag: sa, file_type: root-text, verse_id_format: verse,
+                category_id: , license: , source: <URL>, source_description: "…"}
+
+# A translation of the root, aligned row for row; human fixes recorded, never silent.
+- key: bo-display
+  path: 1-SOURCES/Translations/bo-<slug>.md
+  adapter: md_rows
+  id_scheme: h2
+  toc: {kind: projected, source_work: bo-<commentary>}
+  text: <prefix>-root-bo(display).md          # the ONE stored segmentation of this text
+  pair: {own_side: <prefix>-root-bo(bo-sa).md, target_side: <prefix>-root-sa(bo-sa).md}
+  target: sa-root
+  pair_corrections:
+    - {row: 15, target_side_rows: [14], reason: "…", decided_by: "…", date: YYYY-MM-DD}
+  title: <title>
+  meta: <prefix>-root.csv
+  frontmatter: {…, file_type: translation, root_text: 1-SOURCES/Text/sa-<slug>.md}
+
+# A commentary aligned against its own cut of the root; headings first, then h2 ids.
+- key: bo-<commentary>
+  path: 1-SOURCES/Commentaries/bo-<commentary>.md
+  adapter: md_rows
+  id_scheme: h2
+  text: <prefix>-comm-N(root-com).md
+  pair: {own_side: <prefix>-comm-N(root-com).md, target_side: <prefix>-root-N(root-com).md}
+  target: bo-display
+  min_overlap: 3
+  text_corrections:
+    - {row: 83, find: "s", replace: "", reason: "…", decided_by: "…", date: YYYY-MM-DD}
+  toc: {kind: tree, id: <registered-id>, tree: 2-RAILS/Sections/Raw/toc-tree/<registered-id>.md}
+  # or: toc: {kind: labels, doc: <prefix>-comm-N(toc).md, labels: ["༥༽ …།", …]}
+  # or: toc: {kind: none, reason: "…"}
+  title: <title>
+  meta: <prefix>-comm-N.csv
+  frontmatter: {…, registered_id: <id>, file_type: commentary, root_text: 1-SOURCES/Translations/bo-<slug>.md,
+                verse_id_format: section-paragraph}
