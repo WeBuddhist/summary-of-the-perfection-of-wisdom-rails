@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Translations/bo-ratnagunasancayagatha.md",
+                "file": "1-SOURCES/Commentaries/bo-mipham-lekshe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bo-ratnagunasancayagatha"
+              "title": "bo-mipham-lekshe"
             }
           }
         ]
@@ -199,10 +199,21 @@
   },
   "active": "01af448d2c10df4b",
   "lastOpenFiles": [
+    "0-INBOX/temp/seg-senge/structural.md",
+    "0-INBOX/temp/seg-senge/structural.tsv",
+    "0-INBOX/temp/seg-senge/stage2.md",
+    "0-INBOX/temp/seg-senge/stage2.tsv",
+    "0-INBOX/temp/seg-senge/stage1.md",
+    "0-INBOX/temp/seg-senge/stage1.tsv",
+    "0-INBOX/temp/seg-senge/preseg.md",
+    "0-INBOX/temp/seg-senge",
+    "1-SOURCES/Commentaries/bo-khenrab-jamyang-norbu-dronme.md",
+    "1-SOURCES/Commentaries/bo-cone-drakpa-shedrup-gyalwe-gongsal.md",
+    "1-SOURCES/Translations/zh-ratnagunasancayagatha.md",
+    "1-SOURCES/Translations/bo-ratnagunasancayagatha.md",
     "1-SOURCES/Annotations/bo-senge-zangpo-kadrel.annotations.json",
     "1-SOURCES/Commentaries/bo-senge-zangpo-kadrel.md",
     "1-SOURCES/Annotations/bo-cone-drakpa-shedrup-gyalwe-gongsal.annotations.json",
-    "1-SOURCES/Commentaries/bo-cone-drakpa-shedrup-gyalwe-gongsal.md",
     "0-INBOX/temp/ws-only-manifest.yaml",
     "2-RAILS/Sections/Raw/toc-wikisource/senge-zangpo-kadrel.md",
     "2-RAILS/Sections/Raw/toc-wikisource/cone-drakpa-shedrup-gyalwe-gongsal.md",
@@ -213,11 +224,6 @@
     "0-INBOX/temp/wiki-toc-cone-drakpa-shedrup-gyalwe-gongsal",
     "0-INBOX/raw-data/wikisource-cone-drakpa-shedrup-gyalwe-gongsal/cone-drakpa-shedrup-gyalwe-gongsal.md",
     "0-INBOX/temp/wikisource_to_rows.py",
-    "0-INBOX/raw-data/wikisource-senge-zangpo-kadrel/pages.json",
-    "0-INBOX/raw-data/wikisource-senge-zangpo-kadrel",
-    "0-INBOX/raw-data/wikisource-cone-drakpa-shedrup-gyalwe-gongsal/pages.json",
-    "0-INBOX/raw-data/wikisource-cone-drakpa-shedrup-gyalwe-gongsal",
-    "0-INBOX/temp/fetch_wikisource_text.py",
     "1-SOURCES/Text/sa-ratnagunasancayagatha.md",
     "README.md",
     "4-SYSTEM/Skills/aligned-corpus-intake/references/pecha-conventions.md",
@@ -228,12 +234,6 @@
     "CLAUDE.md",
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
-    "4-SYSTEM/Skills/vault-audit/SKILL.md",
-    "4-SYSTEM/Skills/translation-frontmatter/SKILL.md",
-    "4-SYSTEM/Skills/source-property-extractor/SKILL.md",
-    "4-SYSTEM/Skills/structural-outline-ingest/SKILL.md",
-    "4-SYSTEM/Skills/section-summary-combined/SKILL.md",
-    "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
-    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md"
+    "4-SYSTEM/Skills/vault-audit/SKILL.md"
   ]
 }
