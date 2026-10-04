@@ -160,7 +160,10 @@ def brackets(text_rows, reason):
     for r, t in sorted(text_rows.items()):
         work = t
         for m in re.finditer(r"\[([^\[\]\n]*)\]", t):
-            out.append({"row": r, "find": m.group(0), "replace": m.group(1), "reason": reason,
+            glued = m.end() < len(t) and t[m.end()].isalpha()
+            out.append({"row": r, "find": m.group(0), "replace": m.group(1) + (" " if glued else ""),
+                        "reason": reason + (" The bracket was the only separator before the next word, "
+                                            "so a space takes its place." if glued else ""),
                         "decided_by": D10, "date": TODAY})
             work = work.replace(m.group(0), "", 1)
         for ch in "[]":
@@ -320,10 +323,39 @@ def main():
                  "editor's labels for the praśastis) are removed and the words kept, because Obsidian renders "
                  "bracketed text like link syntax. The bracketed form stays here and in the block's sidecar entry "
                  "(source.corrections).")
+    DEV = str.maketrans("०१२३४५६७८९", "0123456789")
+    num_re = re.compile(r"॥\s*(?:([०-९]+)[,.]\s*([०-९]+)|([हल])्प्र्\s*([०-९]+))\s*॥")
+    sa_numbers = []
+    for r, t in sorted(sa_rows.items()):
+        for m in num_re.finditer(t):
+            if m.group(1):
+                verse = f"{m.group(1).translate(DEV)}.{m.group(2).translate(DEV)}"
+                what = f"chapter {verse.split('.')[0]}, verse {verse.split('.')[1]}"
+            else:
+                verse = ("Haribhadra's praśasti " if m.group(3) == "ह" else "scribe's praśasti ") + m.group(4).translate(DEV)
+                what = verse
+            sa_numbers.append({"row": r, "find": m.group(0), "replace": "॥", "verse": verse,
+                               "reason": (f"The edition's verse number ({what}) is the modern editor's numbering of "
+                                          "Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added "
+                                          "in digitisation), not root text, and follows the edition's 32 chapters rather than "
+                                          "this file's TOC. Removed from the text; kept here and in the block's sidecar entry "
+                                          "(source.corrections[].verse)."),
+                               "decided_by": "the vault owner (\"Remove, keep as metadata\")", "date": "2026-10-04"})
+    pada = json.loads((TMP / "sa-pada-breaks.json").read_text(encoding="utf-8"))
     works.append({
         "key": "sa-root", "path": "1-SOURCES/Text/sa-ratnagunasancayagatha.md", "adapter": "md_rows",
         "id_scheme": "h2", "text": "phakpadoepa-root-sa(sa-bo).md",
-        "text_corrections": brackets(sa_rows, sa_reason),
+        "text_corrections": sa_numbers + brackets(sa_rows, sa_reason),
+        "line_breaks": {
+            "before": {int(k): v for k, v in pada.items()},
+            "source": ("Digital Sanskrit Buddhist Canon, Devanāgarī edition, book 402 "
+                       "(https://dsbcproject.org/canon-text/book/402), one pāda per line; copy in "
+                       "0-INBOX/raw-data/dsbc-ratnagunasancayagatha/; matched by letters "
+                       "(0-INBOX/temp/sa_pada_breaks.py), five rows read off the metre by Claude"),
+            "reason": ("One verse line (pāda) per line, four per verse, like the Tibetan. The edition marks only the "
+                       "half-verse (।), so the pāda boundaries are taken from the DSBC edition of the same text."),
+            "decided_by": "the vault owner (\"break each verse into four lines … also the Sanskrit\"; \"4 lines via DSBC\")",
+            "date": "2026-10-04"},
         "title": "रत्नगुणसंचयगाथा",
         "notes": ("The Sanskrit is the root of this vault (D1); the Tibetan is its translation. Rows are the Dzongsar "
                   "team's segmentation of the Sanskrit-Tibetan pair (373 rows; the Sanskrit's chapter titles and "
@@ -352,6 +384,12 @@ def main():
                                 "བྱང་ཆུབ་པ།) and the opening of section 8 (ཆོས་སྐུ།) of the Wikisource dkar chag; it is "
                                 "cut where the Index's page 37 opens <section> part9. The row's Sanskrit segment is "
                                 "shown with the part that translates it.")),
+        "line_breaks": {
+            "after": "། ?།",
+            "reason": ("One verse line per line (a line ends with its shad pair, ། །), so each block shows its verse "
+                       "as four lines; a topic marker (སྐབས་…བསྟན། །) stands on its own line. Letters unchanged."),
+            "decided_by": "the vault owner (\"break each segment into four lines … one block ID per verse\")",
+            "date": "2026-10-04"},
         "title": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྡུད་པ་ཚིགས་སུ་བཅད་པ།",
         "notes": ("The display segmentation: the one Tibetan text the library stores (D2). "
                   "phakpadoepa-root-bo(sa-bo).md and phakpadoepa-root-bo(bo-zh).md are byte-identical to it. Every "
@@ -394,6 +432,13 @@ def main():
         "target": "bo-display",
         "pair_corrections": [{"row": r, "target_side_rows": t, "reason": why, "decided_by": D12, "date": TODAY}
                              for r, t, why in zh_pairs],
+        "line_breaks": {
+            "phrases": 7,
+            "reason": ("One verse line per line: the Chinese verse lines are seven-character phrases, separated by a "
+                       "space in the doc (a run of 14, 21 or 28 characters without a space is cut every 7). Letters "
+                       "unchanged."),
+            "decided_by": "the vault owner (\"if that can be also replicated on the Chinese … then also do that\")",
+            "date": "2026-10-04"},
         "title": "佛母寶德藏般若波羅蜜經",
         "notes": ("Aligned row for row (373 rows) by the Dzongsar team with a Tibetan text byte-identical to the "
                   "display. Cut like the Tibetan (one row per verse), so no merge (D9) is needed. Read in full: seven "

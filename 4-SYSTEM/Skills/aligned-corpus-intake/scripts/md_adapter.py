@@ -33,6 +33,8 @@ Manifest entry (all paths under raw_root unless noted):
         - {row: 10, at: ["clause", …], targets: [[0], [1], []], reason: "…", decided_by: "…", date: "…"}
       merge_rows:                        # human-decided: one block per target segment
         {mode: by_target, joiner: " ", reason: "…", decided_by: "…", date: "…"}
+      line_breaks:                       # human-decided: one verse line per line (see _line_breaks)
+        {after: "regex" | phrases: 7 | before: {row: [clause, …]}, reason: "…", decided_by: "…", date: "…"}
       supplement_rows:                   # human-decided: text the corpus lacks, from another source
         - {row: 33, text: "…", source: "…", reason: "…", decided_by: "…", date: "…"}
 
@@ -96,6 +98,53 @@ def _rows(ctx, rel):
     return rows
 
 
+def _line_breaks(spec, row, text, runs):
+    """line_breaks (human-decided): break a block into lines (one verse line
+    each) without touching a letter. A break at a space turns the space into
+    the newline; elsewhere a newline is inserted.
+        line_breaks: {after: <regex>}                 break after each match
+        line_breaks: {phrases: 7}                     CJK verse: break at whitespace, and
+                                                      every 7 characters of a longer unspaced run
+        line_breaks: {before: {<row>: [clause, …]}}   break before each clause (verbatim,
+                                                      found once, in order) — e.g. from another edition
+    Returns (text, runs, number of breaks)."""
+    lb = spec.get("line_breaks")
+    if not lb:
+        return text, runs, 0
+    cuts = set()
+    if lb.get("after"):
+        for m in re.finditer(lb["after"], text):
+            cuts.add(m.end())
+    if lb.get("phrases"):
+        n = int(lb["phrases"])
+        for m in re.finditer(r"\S+", text):
+            cuts.add(m.start())
+            w = m.group(0)
+            if len(w) > n and len(w) % n == 0:
+                cuts.update(m.start() + k for k in range(n, len(w), n))
+    for clause in (lb.get("before") or {}).get(row) or (lb.get("before") or {}).get(str(row)) or []:
+        if text.count(clause) != 1:
+            raise ValueError(f"{spec['key']}: line break clause {clause[:30]!r} is not found exactly once in row {row}")
+        cuts.add(text.index(clause))
+    # a cut at either edge of the text, or inside leading/trailing space, is no break
+    lo = len(text) - len(text.lstrip())
+    hi = len(text.rstrip())
+    cuts = sorted(c for c in cuts if lo < c < hi)
+    n = 0
+    for c in reversed(cuts):
+        if text[c - 1] == "\n" or text[c] == "\n":
+            continue
+        if text[c - 1] in " \t":                     # the space before the cut becomes the newline
+            text = text[:c - 1] + "\n" + text[c:]
+        elif text[c] in " \t":
+            text = text[:c] + "\n" + text[c + 1:]
+        else:
+            text = text[:c] + "\n" + text[c:]
+            runs = _shift_runs(runs, c, 0, 1)
+        n += 1
+    return text, runs, n
+
+
 def _shift_runs(runs, pos, removed, added=0):
     out = []
     for r in runs:
@@ -131,8 +180,10 @@ def _blocks(ctx, spec, rep):
             pos = text.index(c["find"])
             text = text[:pos] + c["replace"] + text[pos + len(c["find"]):]
             runs = _shift_runs(runs, pos, len(c["find"]), len(c["replace"]))
-            src.setdefault("corrections", []).append(
-                {k: c.get(k) for k in ("find", "replace", "reason", "decided_by", "date") if c.get(k) is not None})
+            src.setdefault("corrections", []).append({k: v for k, v in c.items() if k != "row" and v is not None})
+        text, runs, n_breaks = _line_breaks(spec, r["row"], text, runs)
+        if n_breaks:
+            src["line_breaks"] = n_breaks
         if runs or "\\" in r["raw"]:
             src["raw"] = r["raw"]
         if not has_letters(text):

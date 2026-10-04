@@ -21,6 +21,2141 @@ works:
   id_scheme: h2
   text: phakpadoepa-root-sa(sa-bo).md
   text_corrections:
+  - row: 5
+    find: ॥ १,१ ॥
+    replace: ॥
+    verse: '1.1'
+    reason: The edition's verse number (chapter 1, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 6
+    find: ॥ १,२ ॥
+    replace: ॥
+    verse: '1.2'
+    reason: The edition's verse number (chapter 1, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 7
+    find: ॥ १,३ ॥
+    replace: ॥
+    verse: '1.3'
+    reason: The edition's verse number (chapter 1, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 8
+    find: ॥ १,४ ॥
+    replace: ॥
+    verse: '1.4'
+    reason: The edition's verse number (chapter 1, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 9
+    find: ॥ १,५ ॥
+    replace: ॥
+    verse: '1.5'
+    reason: The edition's verse number (chapter 1, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 10
+    find: ॥ १,६ ॥
+    replace: ॥
+    verse: '1.6'
+    reason: The edition's verse number (chapter 1, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 11
+    find: ॥ १,७ ॥
+    replace: ॥
+    verse: '1.7'
+    reason: The edition's verse number (chapter 1, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 12
+    find: ॥ १,८ ॥
+    replace: ॥
+    verse: '1.8'
+    reason: The edition's verse number (chapter 1, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 13
+    find: ॥ १,९ ॥
+    replace: ॥
+    verse: '1.9'
+    reason: The edition's verse number (chapter 1, verse 9) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 14
+    find: ॥ १,१० ॥
+    replace: ॥
+    verse: '1.10'
+    reason: The edition's verse number (chapter 1, verse 10) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 15
+    find: ॥ १,११ ॥
+    replace: ॥
+    verse: '1.11'
+    reason: The edition's verse number (chapter 1, verse 11) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 16
+    find: ॥ १,१२ ॥
+    replace: ॥
+    verse: '1.12'
+    reason: The edition's verse number (chapter 1, verse 12) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 17
+    find: ॥ १,१३ ॥
+    replace: ॥
+    verse: '1.13'
+    reason: The edition's verse number (chapter 1, verse 13) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 18
+    find: ॥ १,१४ ॥
+    replace: ॥
+    verse: '1.14'
+    reason: The edition's verse number (chapter 1, verse 14) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 19
+    find: ॥ १,१५ ॥
+    replace: ॥
+    verse: '1.15'
+    reason: The edition's verse number (chapter 1, verse 15) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 20
+    find: ॥ १,१६ ॥
+    replace: ॥
+    verse: '1.16'
+    reason: The edition's verse number (chapter 1, verse 16) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 21
+    find: ॥ १,१७ ॥
+    replace: ॥
+    verse: '1.17'
+    reason: The edition's verse number (chapter 1, verse 17) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 22
+    find: ॥ १,१८ ॥
+    replace: ॥
+    verse: '1.18'
+    reason: The edition's verse number (chapter 1, verse 18) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 23
+    find: ॥ १,१९ ॥
+    replace: ॥
+    verse: '1.19'
+    reason: The edition's verse number (chapter 1, verse 19) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 24
+    find: ॥ १,२० ॥
+    replace: ॥
+    verse: '1.20'
+    reason: The edition's verse number (chapter 1, verse 20) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 25
+    find: ॥ १,२१ ॥
+    replace: ॥
+    verse: '1.21'
+    reason: The edition's verse number (chapter 1, verse 21) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 26
+    find: ॥ १,२२ ॥
+    replace: ॥
+    verse: '1.22'
+    reason: The edition's verse number (chapter 1, verse 22) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 27
+    find: ॥ १,२३ ॥
+    replace: ॥
+    verse: '1.23'
+    reason: The edition's verse number (chapter 1, verse 23) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 28
+    find: ॥ १,२४ ॥
+    replace: ॥
+    verse: '1.24'
+    reason: The edition's verse number (chapter 1, verse 24) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 29
+    find: ॥ १,२५ ॥
+    replace: ॥
+    verse: '1.25'
+    reason: The edition's verse number (chapter 1, verse 25) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 30
+    find: ॥ १,२६ ॥
+    replace: ॥
+    verse: '1.26'
+    reason: The edition's verse number (chapter 1, verse 26) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 31
+    find: ॥ १,२७ ॥
+    replace: ॥
+    verse: '1.27'
+    reason: The edition's verse number (chapter 1, verse 27) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 32
+    find: ॥ १,२८ ॥
+    replace: ॥
+    verse: '1.28'
+    reason: The edition's verse number (chapter 1, verse 28) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 35
+    find: ॥ २,१ ॥
+    replace: ॥
+    verse: '2.1'
+    reason: The edition's verse number (chapter 2, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 36
+    find: ॥ २,२ ॥
+    replace: ॥
+    verse: '2.2'
+    reason: The edition's verse number (chapter 2, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 37
+    find: ॥ २,३ ॥
+    replace: ॥
+    verse: '2.3'
+    reason: The edition's verse number (chapter 2, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 38
+    find: ॥ २,४ ॥
+    replace: ॥
+    verse: '2.4'
+    reason: The edition's verse number (chapter 2, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 39
+    find: ॥ २,५ ॥
+    replace: ॥
+    verse: '2.5'
+    reason: The edition's verse number (chapter 2, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 40
+    find: ॥ २,६ ॥
+    replace: ॥
+    verse: '2.6'
+    reason: The edition's verse number (chapter 2, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 41
+    find: ॥ २,७ ॥
+    replace: ॥
+    verse: '2.7'
+    reason: The edition's verse number (chapter 2, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 42
+    find: ॥ २,८ ॥
+    replace: ॥
+    verse: '2.8'
+    reason: The edition's verse number (chapter 2, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 43
+    find: ॥ २,९ ॥
+    replace: ॥
+    verse: '2.9'
+    reason: The edition's verse number (chapter 2, verse 9) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 44
+    find: ॥ २,१० ॥
+    replace: ॥
+    verse: '2.10'
+    reason: The edition's verse number (chapter 2, verse 10) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 45
+    find: ॥ २,११ ॥
+    replace: ॥
+    verse: '2.11'
+    reason: The edition's verse number (chapter 2, verse 11) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 46
+    find: ॥ २,१२ ॥
+    replace: ॥
+    verse: '2.12'
+    reason: The edition's verse number (chapter 2, verse 12) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 47
+    find: ॥ २,१३ ॥
+    replace: ॥
+    verse: '2.13'
+    reason: The edition's verse number (chapter 2, verse 13) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 50
+    find: ॥ ३,१ ॥
+    replace: ॥
+    verse: '3.1'
+    reason: The edition's verse number (chapter 3, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 51
+    find: ॥ ३,२ ॥
+    replace: ॥
+    verse: '3.2'
+    reason: The edition's verse number (chapter 3, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 52
+    find: ॥ ३,३ ॥
+    replace: ॥
+    verse: '3.3'
+    reason: The edition's verse number (chapter 3, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 53
+    find: ॥ ३,४ ॥
+    replace: ॥
+    verse: '3.4'
+    reason: The edition's verse number (chapter 3, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 54
+    find: ॥ ३,५ ॥
+    replace: ॥
+    verse: '3.5'
+    reason: The edition's verse number (chapter 3, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 55
+    find: ॥ ३,६ ॥
+    replace: ॥
+    verse: '3.6'
+    reason: The edition's verse number (chapter 3, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 56
+    find: ॥ ३,७ ॥
+    replace: ॥
+    verse: '3.7'
+    reason: The edition's verse number (chapter 3, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 57
+    find: ॥ ३,८ ॥
+    replace: ॥
+    verse: '3.8'
+    reason: The edition's verse number (chapter 3, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 60
+    find: ॥ ४,१ ॥
+    replace: ॥
+    verse: '4.1'
+    reason: The edition's verse number (chapter 4, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 61
+    find: ॥ ४,२ ॥
+    replace: ॥
+    verse: '4.2'
+    reason: The edition's verse number (chapter 4, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 62
+    find: ॥ ४,३ ॥
+    replace: ॥
+    verse: '4.3'
+    reason: The edition's verse number (chapter 4, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 63
+    find: ॥ ४,४ ॥
+    replace: ॥
+    verse: '4.4'
+    reason: The edition's verse number (chapter 4, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 64
+    find: ॥ ४. ५ ॥
+    replace: ॥
+    verse: '4.5'
+    reason: The edition's verse number (chapter 4, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 65
+    find: ॥ ४,६ ॥
+    replace: ॥
+    verse: '4.6'
+    reason: The edition's verse number (chapter 4, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 66
+    find: ॥ ४,७ ॥
+    replace: ॥
+    verse: '4.7'
+    reason: The edition's verse number (chapter 4, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 69
+    find: ॥ ५,१ ॥
+    replace: ॥
+    verse: '5.1'
+    reason: The edition's verse number (chapter 5, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 70
+    find: ॥ ५,२ ॥
+    replace: ॥
+    verse: '5.2'
+    reason: The edition's verse number (chapter 5, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 71
+    find: ॥ ५,३ ॥
+    replace: ॥
+    verse: '5.3'
+    reason: The edition's verse number (chapter 5, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 72
+    find: ॥ ५,४ ॥
+    replace: ॥
+    verse: '5.4'
+    reason: The edition's verse number (chapter 5, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 73
+    find: ॥ ५,५ ॥
+    replace: ॥
+    verse: '5.5'
+    reason: The edition's verse number (chapter 5, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 74
+    find: ॥ ५,६ ॥
+    replace: ॥
+    verse: '5.6'
+    reason: The edition's verse number (chapter 5, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 75
+    find: ॥ ५,७ ॥
+    replace: ॥
+    verse: '5.7'
+    reason: The edition's verse number (chapter 5, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 76
+    find: ॥ ५,८ ॥
+    replace: ॥
+    verse: '5.8'
+    reason: The edition's verse number (chapter 5, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 77
+    find: ॥ ५,९ ॥
+    replace: ॥
+    verse: '5.9'
+    reason: The edition's verse number (chapter 5, verse 9) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 80
+    find: ॥ ६,१ ॥
+    replace: ॥
+    verse: '6.1'
+    reason: The edition's verse number (chapter 6, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 81
+    find: ॥ ६,२ ॥
+    replace: ॥
+    verse: '6.2'
+    reason: The edition's verse number (chapter 6, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 82
+    find: ॥ ६,३ ॥
+    replace: ॥
+    verse: '6.3'
+    reason: The edition's verse number (chapter 6, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 83
+    find: ॥ ६,४ ॥
+    replace: ॥
+    verse: '6.4'
+    reason: The edition's verse number (chapter 6, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 84
+    find: ॥ ६,५ ॥
+    replace: ॥
+    verse: '6.5'
+    reason: The edition's verse number (chapter 6, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 85
+    find: ॥ ६,६ ॥
+    replace: ॥
+    verse: '6.6'
+    reason: The edition's verse number (chapter 6, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 86
+    find: ॥ ६,७ ॥
+    replace: ॥
+    verse: '6.7'
+    reason: The edition's verse number (chapter 6, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 87
+    find: ॥ ६,८ ॥
+    replace: ॥
+    verse: '6.8'
+    reason: The edition's verse number (chapter 6, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 88
+    find: ॥ ६,९ ॥
+    replace: ॥
+    verse: '6.9'
+    reason: The edition's verse number (chapter 6, verse 9) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 91
+    find: ॥ ७,१ ॥
+    replace: ॥
+    verse: '7.1'
+    reason: The edition's verse number (chapter 7, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 92
+    find: ॥ ७,२ ॥
+    replace: ॥
+    verse: '7.2'
+    reason: The edition's verse number (chapter 7, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 93
+    find: ॥ ७,३ ॥
+    replace: ॥
+    verse: '7.3'
+    reason: The edition's verse number (chapter 7, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 94
+    find: ॥ ७,४ ॥
+    replace: ॥
+    verse: '7.4'
+    reason: The edition's verse number (chapter 7, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 95
+    find: ॥ ७,५ ॥
+    replace: ॥
+    verse: '7.5'
+    reason: The edition's verse number (chapter 7, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 96
+    find: ॥ ७,६ ॥
+    replace: ॥
+    verse: '7.6'
+    reason: The edition's verse number (chapter 7, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 97
+    find: ॥ ७,७ ॥
+    replace: ॥
+    verse: '7.7'
+    reason: The edition's verse number (chapter 7, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 100
+    find: ॥ ८,१ ॥
+    replace: ॥
+    verse: '8.1'
+    reason: The edition's verse number (chapter 8, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 101
+    find: ॥ ८,२ ॥
+    replace: ॥
+    verse: '8.2'
+    reason: The edition's verse number (chapter 8, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 102
+    find: ॥ ८,३ ॥
+    replace: ॥
+    verse: '8.3'
+    reason: The edition's verse number (chapter 8, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 103
+    find: ॥ ८,४ ॥
+    replace: ॥
+    verse: '8.4'
+    reason: The edition's verse number (chapter 8, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 106
+    find: ॥ ९,१ ॥
+    replace: ॥
+    verse: '9.1'
+    reason: The edition's verse number (chapter 9, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 107
+    find: ॥ ९,२ ॥
+    replace: ॥
+    verse: '9.2'
+    reason: The edition's verse number (chapter 9, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 110
+    find: ॥ १०,१ ॥
+    replace: ॥
+    verse: '10.1'
+    reason: The edition's verse number (chapter 10, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 111
+    find: ॥ १०,२ ॥
+    replace: ॥
+    verse: '10.2'
+    reason: The edition's verse number (chapter 10, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 112
+    find: ॥ १०,३ ॥
+    replace: ॥
+    verse: '10.3'
+    reason: The edition's verse number (chapter 10, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 113
+    find: ॥ १०,४ ॥
+    replace: ॥
+    verse: '10.4'
+    reason: The edition's verse number (chapter 10, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 114
+    find: ॥ १०,५ ॥
+    replace: ॥
+    verse: '10.5'
+    reason: The edition's verse number (chapter 10, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 115
+    find: ॥ १०,६ ॥
+    replace: ॥
+    verse: '10.6'
+    reason: The edition's verse number (chapter 10, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 116
+    find: ॥ १०,७ ॥
+    replace: ॥
+    verse: '10.7'
+    reason: The edition's verse number (chapter 10, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 117
+    find: ॥ १०,८ ॥
+    replace: ॥
+    verse: '10.8'
+    reason: The edition's verse number (chapter 10, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 118
+    find: ॥ १०,९ ॥
+    replace: ॥
+    verse: '10.9'
+    reason: The edition's verse number (chapter 10, verse 9) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 119
+    find: ॥ १०,१० ॥
+    replace: ॥
+    verse: '10.10'
+    reason: The edition's verse number (chapter 10, verse 10) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 122
+    find: ॥ ११,१ ॥
+    replace: ॥
+    verse: '11.1'
+    reason: The edition's verse number (chapter 11, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 123
+    find: ॥ ११,२ ॥
+    replace: ॥
+    verse: '11.2'
+    reason: The edition's verse number (chapter 11, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 124
+    find: ॥ ११,३ ॥
+    replace: ॥
+    verse: '11.3'
+    reason: The edition's verse number (chapter 11, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 125
+    find: ॥ ११,४ ॥
+    replace: ॥
+    verse: '11.4'
+    reason: The edition's verse number (chapter 11, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 126
+    find: ॥ ११,५ ॥
+    replace: ॥
+    verse: '11.5'
+    reason: The edition's verse number (chapter 11, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 127
+    find: ॥ ११,६ ॥
+    replace: ॥
+    verse: '11.6'
+    reason: The edition's verse number (chapter 11, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 128
+    find: ॥ ११,७ ॥
+    replace: ॥
+    verse: '11.7'
+    reason: The edition's verse number (chapter 11, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 129
+    find: ॥ ११,८ ॥
+    replace: ॥
+    verse: '11.8'
+    reason: The edition's verse number (chapter 11, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 130
+    find: ॥ ११,९ ॥
+    replace: ॥
+    verse: '11.9'
+    reason: The edition's verse number (chapter 11, verse 9) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 131
+    find: ॥ ११,१० ॥
+    replace: ॥
+    verse: '11.10'
+    reason: The edition's verse number (chapter 11, verse 10) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 134
+    find: ॥ १२,१ ॥
+    replace: ॥
+    verse: '12.1'
+    reason: The edition's verse number (chapter 12, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 135
+    find: ॥ १२,२ ॥
+    replace: ॥
+    verse: '12.2'
+    reason: The edition's verse number (chapter 12, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 136
+    find: ॥ १२,३ ॥
+    replace: ॥
+    verse: '12.3'
+    reason: The edition's verse number (chapter 12, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 137
+    find: ॥ १२,४ ॥
+    replace: ॥
+    verse: '12.4'
+    reason: The edition's verse number (chapter 12, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 138
+    find: ॥ १२,५ ॥
+    replace: ॥
+    verse: '12.5'
+    reason: The edition's verse number (chapter 12, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 139
+    find: ॥ १२,६ ॥
+    replace: ॥
+    verse: '12.6'
+    reason: The edition's verse number (chapter 12, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 140
+    find: ॥ १२,७ ॥
+    replace: ॥
+    verse: '12.7'
+    reason: The edition's verse number (chapter 12, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 141
+    find: ॥ १२,८ ॥
+    replace: ॥
+    verse: '12.8'
+    reason: The edition's verse number (chapter 12, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 142
+    find: ॥ १२,९ ॥
+    replace: ॥
+    verse: '12.9'
+    reason: The edition's verse number (chapter 12, verse 9) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 145
+    find: ॥ १३,१ ॥
+    replace: ॥
+    verse: '13.1'
+    reason: The edition's verse number (chapter 13, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 146
+    find: ॥ १३,२ ॥
+    replace: ॥
+    verse: '13.2'
+    reason: The edition's verse number (chapter 13, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 149
+    find: ॥ १४,१ ॥
+    replace: ॥
+    verse: '14.1'
+    reason: The edition's verse number (chapter 14, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 150
+    find: ॥ १४,२ ॥
+    replace: ॥
+    verse: '14.2'
+    reason: The edition's verse number (chapter 14, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 151
+    find: ॥ १४,३ ॥
+    replace: ॥
+    verse: '14.3'
+    reason: The edition's verse number (chapter 14, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 152
+    find: ॥ १४,४ ॥
+    replace: ॥
+    verse: '14.4'
+    reason: The edition's verse number (chapter 14, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 153
+    find: ॥ १४,५ ॥
+    replace: ॥
+    verse: '14.5'
+    reason: The edition's verse number (chapter 14, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 154
+    find: ॥ १४,६ ॥
+    replace: ॥
+    verse: '14.6'
+    reason: The edition's verse number (chapter 14, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 155
+    find: ॥ १४,७ ॥
+    replace: ॥
+    verse: '14.7'
+    reason: The edition's verse number (chapter 14, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 156
+    find: ॥ १४,८ ॥
+    replace: ॥
+    verse: '14.8'
+    reason: The edition's verse number (chapter 14, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 157
+    find: ॥ १४,९ ॥
+    replace: ॥
+    verse: '14.9'
+    reason: The edition's verse number (chapter 14, verse 9) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 158
+    find: ॥ १४,१० ॥
+    replace: ॥
+    verse: '14.10'
+    reason: The edition's verse number (chapter 14, verse 10) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 161
+    find: ॥ १५,१ ॥
+    replace: ॥
+    verse: '15.1'
+    reason: The edition's verse number (chapter 15, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 162
+    find: ॥ १५,२ ॥
+    replace: ॥
+    verse: '15.2'
+    reason: The edition's verse number (chapter 15, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 163
+    find: ॥ १५,३ ॥
+    replace: ॥
+    verse: '15.3'
+    reason: The edition's verse number (chapter 15, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 164
+    find: ॥ १५,४ ॥
+    replace: ॥
+    verse: '15.4'
+    reason: The edition's verse number (chapter 15, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 165
+    find: ॥ १५,५ ॥
+    replace: ॥
+    verse: '15.5'
+    reason: The edition's verse number (chapter 15, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 166
+    find: ॥ १५,६ ॥
+    replace: ॥
+    verse: '15.6'
+    reason: The edition's verse number (chapter 15, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 167
+    find: ॥ १५,७ ॥
+    replace: ॥
+    verse: '15.7'
+    reason: The edition's verse number (chapter 15, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 168
+    find: ॥ १५,८ ॥
+    replace: ॥
+    verse: '15.8'
+    reason: The edition's verse number (chapter 15, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 171
+    find: ॥ १६,१ ॥
+    replace: ॥
+    verse: '16.1'
+    reason: The edition's verse number (chapter 16, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 172
+    find: ॥ १६,२ ॥
+    replace: ॥
+    verse: '16.2'
+    reason: The edition's verse number (chapter 16, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 173
+    find: ॥ १६,३ ॥
+    replace: ॥
+    verse: '16.3'
+    reason: The edition's verse number (chapter 16, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 174
+    find: ॥ १६,४ ॥
+    replace: ॥
+    verse: '16.4'
+    reason: The edition's verse number (chapter 16, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 175
+    find: ॥ १६,५ ॥
+    replace: ॥
+    verse: '16.5'
+    reason: The edition's verse number (chapter 16, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 176
+    find: ॥ १६,६ ॥
+    replace: ॥
+    verse: '16.6'
+    reason: The edition's verse number (chapter 16, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 179
+    find: ॥ १७,१ ॥
+    replace: ॥
+    verse: '17.1'
+    reason: The edition's verse number (chapter 17, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 180
+    find: ॥ १७,२ ॥
+    replace: ॥
+    verse: '17.2'
+    reason: The edition's verse number (chapter 17, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 181
+    find: ॥ १७,३ ॥
+    replace: ॥
+    verse: '17.3'
+    reason: The edition's verse number (chapter 17, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 182
+    find: ॥ १७,४ ॥
+    replace: ॥
+    verse: '17.4'
+    reason: The edition's verse number (chapter 17, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 183
+    find: ॥ १७,५ ॥
+    replace: ॥
+    verse: '17.5'
+    reason: The edition's verse number (chapter 17, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 184
+    find: ॥ १७,६ ॥
+    replace: ॥
+    verse: '17.6'
+    reason: The edition's verse number (chapter 17, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 185
+    find: ॥ १७,७ ॥
+    replace: ॥
+    verse: '17.7'
+    reason: The edition's verse number (chapter 17, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 188
+    find: ॥ १८,१ ॥
+    replace: ॥
+    verse: '18.1'
+    reason: The edition's verse number (chapter 18, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 189
+    find: ॥ १८,२ ॥
+    replace: ॥
+    verse: '18.2'
+    reason: The edition's verse number (chapter 18, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 190
+    find: ॥ १८,३ ॥
+    replace: ॥
+    verse: '18.3'
+    reason: The edition's verse number (chapter 18, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 191
+    find: ॥ १८,४ ॥
+    replace: ॥
+    verse: '18.4'
+    reason: The edition's verse number (chapter 18, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 192
+    find: ॥ १८,५ ॥
+    replace: ॥
+    verse: '18.5'
+    reason: The edition's verse number (chapter 18, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 193
+    find: ॥ १८,६ ॥
+    replace: ॥
+    verse: '18.6'
+    reason: The edition's verse number (chapter 18, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 194
+    find: ॥ १८,७ ॥
+    replace: ॥
+    verse: '18.7'
+    reason: The edition's verse number (chapter 18, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 195
+    find: ॥ १८,८ ॥
+    replace: ॥
+    verse: '18.8'
+    reason: The edition's verse number (chapter 18, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 198
+    find: ॥ १९,१ ॥
+    replace: ॥
+    verse: '19.1'
+    reason: The edition's verse number (chapter 19, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 199
+    find: ॥ १९,२ ॥
+    replace: ॥
+    verse: '19.2'
+    reason: The edition's verse number (chapter 19, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 200
+    find: ॥ १९,३ ॥
+    replace: ॥
+    verse: '19.3'
+    reason: The edition's verse number (chapter 19, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 201
+    find: ॥ १९,४ ॥
+    replace: ॥
+    verse: '19.4'
+    reason: The edition's verse number (chapter 19, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 202
+    find: ॥ १९,५ ॥
+    replace: ॥
+    verse: '19.5'
+    reason: The edition's verse number (chapter 19, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 203
+    find: ॥ १९,६ ॥
+    replace: ॥
+    verse: '19.6'
+    reason: The edition's verse number (chapter 19, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 204
+    find: ॥ १९,७ ॥
+    replace: ॥
+    verse: '19.7'
+    reason: The edition's verse number (chapter 19, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 205
+    find: ॥ १९,८ ॥
+    replace: ॥
+    verse: '19.8'
+    reason: The edition's verse number (chapter 19, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 208
+    find: ॥ २०,१ ॥
+    replace: ॥
+    verse: '20.1'
+    reason: The edition's verse number (chapter 20, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 209
+    find: ॥ २०,२ ॥
+    replace: ॥
+    verse: '20.2'
+    reason: The edition's verse number (chapter 20, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 210
+    find: ॥ २०,३ ॥
+    replace: ॥
+    verse: '20.3'
+    reason: The edition's verse number (chapter 20, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 211
+    find: ॥ २०,४ ॥
+    replace: ॥
+    verse: '20.4'
+    reason: The edition's verse number (chapter 20, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 212
+    find: ॥ २०,५ ॥
+    replace: ॥
+    verse: '20.5'
+    reason: The edition's verse number (chapter 20, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 213
+    find: ॥ २०,६ ॥
+    replace: ॥
+    verse: '20.6'
+    reason: The edition's verse number (chapter 20, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 214
+    find: ॥ २०,७ ॥
+    replace: ॥
+    verse: '20.7'
+    reason: The edition's verse number (chapter 20, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 215
+    find: ॥ २०,८ ॥
+    replace: ॥
+    verse: '20.8'
+    reason: The edition's verse number (chapter 20, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 216
+    find: ॥ २०,९ ॥
+    replace: ॥
+    verse: '20.9'
+    reason: The edition's verse number (chapter 20, verse 9) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 217
+    find: ॥ २०,१० ॥
+    replace: ॥
+    verse: '20.10'
+    reason: The edition's verse number (chapter 20, verse 10) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 218
+    find: ॥ २०,११ ॥
+    replace: ॥
+    verse: '20.11'
+    reason: The edition's verse number (chapter 20, verse 11) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 219
+    find: ॥ २०,१२ ॥
+    replace: ॥
+    verse: '20.12'
+    reason: The edition's verse number (chapter 20, verse 12) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 220
+    find: ॥ २०,१३ ॥
+    replace: ॥
+    verse: '20.13'
+    reason: The edition's verse number (chapter 20, verse 13) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 221
+    find: ॥ २०,१४ ॥
+    replace: ॥
+    verse: '20.14'
+    reason: The edition's verse number (chapter 20, verse 14) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 222
+    find: ॥ २०,१५ ॥
+    replace: ॥
+    verse: '20.15'
+    reason: The edition's verse number (chapter 20, verse 15) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 223
+    find: ॥ २०,१६ ॥
+    replace: ॥
+    verse: '20.16'
+    reason: The edition's verse number (chapter 20, verse 16) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 224
+    find: ॥ २०,१७ ॥
+    replace: ॥
+    verse: '20.17'
+    reason: The edition's verse number (chapter 20, verse 17) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 225
+    find: ॥ २०,१८ ॥
+    replace: ॥
+    verse: '20.18'
+    reason: The edition's verse number (chapter 20, verse 18) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 226
+    find: ॥ २०,१९ ॥
+    replace: ॥
+    verse: '20.19'
+    reason: The edition's verse number (chapter 20, verse 19) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 227
+    find: ॥ २०,२० ॥
+    replace: ॥
+    verse: '20.20'
+    reason: The edition's verse number (chapter 20, verse 20) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 228
+    find: ॥ २०,२१ ॥
+    replace: ॥
+    verse: '20.21'
+    reason: The edition's verse number (chapter 20, verse 21) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 229
+    find: ॥ २०,२२ ॥
+    replace: ॥
+    verse: '20.22'
+    reason: The edition's verse number (chapter 20, verse 22) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 230
+    find: ॥ २०,२३ ॥
+    replace: ॥
+    verse: '20.23'
+    reason: The edition's verse number (chapter 20, verse 23) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 231
+    find: ॥ २०,२४ ॥
+    replace: ॥
+    verse: '20.24'
+    reason: The edition's verse number (chapter 20, verse 24) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 234
+    find: ॥ २१,१ ॥
+    replace: ॥
+    verse: '21.1'
+    reason: The edition's verse number (chapter 21, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 235
+    find: ॥ २१,२ ॥
+    replace: ॥
+    verse: '21.2'
+    reason: The edition's verse number (chapter 21, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 236
+    find: ॥ २१,३ ॥
+    replace: ॥
+    verse: '21.3'
+    reason: The edition's verse number (chapter 21, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 237
+    find: ॥ २१,४ ॥
+    replace: ॥
+    verse: '21.4'
+    reason: The edition's verse number (chapter 21, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 238
+    find: ॥ २१,५ ॥
+    replace: ॥
+    verse: '21.5'
+    reason: The edition's verse number (chapter 21, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 239
+    find: ॥ २१,६ ॥
+    replace: ॥
+    verse: '21.6'
+    reason: The edition's verse number (chapter 21, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 240
+    find: ॥ २१,७ ॥
+    replace: ॥
+    verse: '21.7'
+    reason: The edition's verse number (chapter 21, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 241
+    find: ॥ २१,८ ॥
+    replace: ॥
+    verse: '21.8'
+    reason: The edition's verse number (chapter 21, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 244
+    find: ॥ २२,१ ॥
+    replace: ॥
+    verse: '22.1'
+    reason: The edition's verse number (chapter 22, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 245
+    find: ॥ २२,२ ॥
+    replace: ॥
+    verse: '22.2'
+    reason: The edition's verse number (chapter 22, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 246
+    find: ॥ २२,३ ॥
+    replace: ॥
+    verse: '22.3'
+    reason: The edition's verse number (chapter 22, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 247
+    find: ॥ २२,४ ॥
+    replace: ॥
+    verse: '22.4'
+    reason: The edition's verse number (chapter 22, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 248
+    find: ॥ २२,५ ॥
+    replace: ॥
+    verse: '22.5'
+    reason: The edition's verse number (chapter 22, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 249
+    find: ॥ २२,६ ॥
+    replace: ॥
+    verse: '22.6'
+    reason: The edition's verse number (chapter 22, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 250
+    find: ॥ २२,७ ॥
+    replace: ॥
+    verse: '22.7'
+    reason: The edition's verse number (chapter 22, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 251
+    find: ॥ २२,८ ॥
+    replace: ॥
+    verse: '22.8'
+    reason: The edition's verse number (chapter 22, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 252
+    find: ॥ २२,९ ॥
+    replace: ॥
+    verse: '22.9'
+    reason: The edition's verse number (chapter 22, verse 9) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 253
+    find: ॥ २२,१० ॥
+    replace: ॥
+    verse: '22.10'
+    reason: The edition's verse number (chapter 22, verse 10) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 254
+    find: ॥ २२,११ ॥
+    replace: ॥
+    verse: '22.11'
+    reason: The edition's verse number (chapter 22, verse 11) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 255
+    find: ॥ २२,१२ ॥
+    replace: ॥
+    verse: '22.12'
+    reason: The edition's verse number (chapter 22, verse 12) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 256
+    find: ॥ २२,१३ ॥
+    replace: ॥
+    verse: '22.13'
+    reason: The edition's verse number (chapter 22, verse 13) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 259
+    find: ॥ २३,१ ॥
+    replace: ॥
+    verse: '23.1'
+    reason: The edition's verse number (chapter 23, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 260
+    find: ॥ २३,२ ॥
+    replace: ॥
+    verse: '23.2'
+    reason: The edition's verse number (chapter 23, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 261
+    find: ॥ २३,३ ॥
+    replace: ॥
+    verse: '23.3'
+    reason: The edition's verse number (chapter 23, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 262
+    find: ॥ २३,४ ॥
+    replace: ॥
+    verse: '23.4'
+    reason: The edition's verse number (chapter 23, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 265
+    find: ॥ २४,१ ॥
+    replace: ॥
+    verse: '24.1'
+    reason: The edition's verse number (chapter 24, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 266
+    find: ॥ २४,२ ॥
+    replace: ॥
+    verse: '24.2'
+    reason: The edition's verse number (chapter 24, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 267
+    find: ॥ २४,३ ॥
+    replace: ॥
+    verse: '24.3'
+    reason: The edition's verse number (chapter 24, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 268
+    find: ॥ २४,४ ॥
+    replace: ॥
+    verse: '24.4'
+    reason: The edition's verse number (chapter 24, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 269
+    find: ॥ २४,५ ॥
+    replace: ॥
+    verse: '24.5'
+    reason: The edition's verse number (chapter 24, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 270
+    find: ॥ २४,६ ॥
+    replace: ॥
+    verse: '24.6'
+    reason: The edition's verse number (chapter 24, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 273
+    find: ॥ २५,१ ॥
+    replace: ॥
+    verse: '25.1'
+    reason: The edition's verse number (chapter 25, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 274
+    find: ॥ २५,२ ॥
+    replace: ॥
+    verse: '25.2'
+    reason: The edition's verse number (chapter 25, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 275
+    find: ॥ २५,३ ॥
+    replace: ॥
+    verse: '25.3'
+    reason: The edition's verse number (chapter 25, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 276
+    find: ॥ २५,४ ॥
+    replace: ॥
+    verse: '25.4'
+    reason: The edition's verse number (chapter 25, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 277
+    find: ॥ २५,५ ॥
+    replace: ॥
+    verse: '25.5'
+    reason: The edition's verse number (chapter 25, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 278
+    find: ॥ २५,६ ॥
+    replace: ॥
+    verse: '25.6'
+    reason: The edition's verse number (chapter 25, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 281
+    find: ॥ २६,१ ॥
+    replace: ॥
+    verse: '26.1'
+    reason: The edition's verse number (chapter 26, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 282
+    find: ॥ २६,२ ॥
+    replace: ॥
+    verse: '26.2'
+    reason: The edition's verse number (chapter 26, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 283
+    find: ॥ २६,३ ॥
+    replace: ॥
+    verse: '26.3'
+    reason: The edition's verse number (chapter 26, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 284
+    find: ॥ २६,४ ॥
+    replace: ॥
+    verse: '26.4'
+    reason: The edition's verse number (chapter 26, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 285
+    find: ॥ २६,५ ॥
+    replace: ॥
+    verse: '26.5'
+    reason: The edition's verse number (chapter 26, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 286
+    find: ॥ २६,६ ॥
+    replace: ॥
+    verse: '26.6'
+    reason: The edition's verse number (chapter 26, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 287
+    find: ॥ २६,७ ॥
+    replace: ॥
+    verse: '26.7'
+    reason: The edition's verse number (chapter 26, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 288
+    find: ॥ २६,८ ॥
+    replace: ॥
+    verse: '26.8'
+    reason: The edition's verse number (chapter 26, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 291
+    find: ॥ २७,१ ॥
+    replace: ॥
+    verse: '27.1'
+    reason: The edition's verse number (chapter 27, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 292
+    find: ॥ २७,२ ॥
+    replace: ॥
+    verse: '27.2'
+    reason: The edition's verse number (chapter 27, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 293
+    find: ॥ २७,३ ॥
+    replace: ॥
+    verse: '27.3'
+    reason: The edition's verse number (chapter 27, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 294
+    find: ॥ २७,४ ॥
+    replace: ॥
+    verse: '27.4'
+    reason: The edition's verse number (chapter 27, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 295
+    find: ॥ २७,५ ॥
+    replace: ॥
+    verse: '27.5'
+    reason: The edition's verse number (chapter 27, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 296
+    find: ॥ २७,६ ॥
+    replace: ॥
+    verse: '27.6'
+    reason: The edition's verse number (chapter 27, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 297
+    find: ॥ २७,७ ॥
+    replace: ॥
+    verse: '27.7'
+    reason: The edition's verse number (chapter 27, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 298
+    find: ॥ २७,८ ॥
+    replace: ॥
+    verse: '27.8'
+    reason: The edition's verse number (chapter 27, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 299
+    find: ॥ २७,९ ॥
+    replace: ॥
+    verse: '27.9'
+    reason: The edition's verse number (chapter 27, verse 9) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 302
+    find: ॥ २८,१ ॥
+    replace: ॥
+    verse: '28.1'
+    reason: The edition's verse number (chapter 28, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 303
+    find: ॥ २८,२ ॥
+    replace: ॥
+    verse: '28.2'
+    reason: The edition's verse number (chapter 28, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 304
+    find: ॥ २८,३ ॥
+    replace: ॥
+    verse: '28.3'
+    reason: The edition's verse number (chapter 28, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 305
+    find: ॥ २८,४ ॥
+    replace: ॥
+    verse: '28.4'
+    reason: The edition's verse number (chapter 28, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 306
+    find: ॥ २८,५ ॥
+    replace: ॥
+    verse: '28.5'
+    reason: The edition's verse number (chapter 28, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 307
+    find: ॥ २८,६ ॥
+    replace: ॥
+    verse: '28.6'
+    reason: The edition's verse number (chapter 28, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 308
+    find: ॥ २८,७ ॥
+    replace: ॥
+    verse: '28.7'
+    reason: The edition's verse number (chapter 28, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 311
+    find: ॥ २९,१ ॥
+    replace: ॥
+    verse: '29.1'
+    reason: The edition's verse number (chapter 29, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 312
+    find: ॥ २९,२ ॥
+    replace: ॥
+    verse: '29.2'
+    reason: The edition's verse number (chapter 29, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 313
+    find: ॥ २९,३ ॥
+    replace: ॥
+    verse: '29.3'
+    reason: The edition's verse number (chapter 29, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 314
+    find: ॥ २९,४ ॥
+    replace: ॥
+    verse: '29.4'
+    reason: The edition's verse number (chapter 29, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 315
+    find: ॥ २९,५ ॥
+    replace: ॥
+    verse: '29.5'
+    reason: The edition's verse number (chapter 29, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 316
+    find: ॥ २९,६ ॥
+    replace: ॥
+    verse: '29.6'
+    reason: The edition's verse number (chapter 29, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 317
+    find: ॥ २९,७ ॥
+    replace: ॥
+    verse: '29.7'
+    reason: The edition's verse number (chapter 29, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 318
+    find: ॥ २९,८ ॥
+    replace: ॥
+    verse: '29.8'
+    reason: The edition's verse number (chapter 29, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 319
+    find: ॥ २९,९ ॥
+    replace: ॥
+    verse: '29.9'
+    reason: The edition's verse number (chapter 29, verse 9) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 320
+    find: ॥ २९,१० ॥
+    replace: ॥
+    verse: '29.10'
+    reason: The edition's verse number (chapter 29, verse 10) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 321
+    find: ॥ २९,११ ॥
+    replace: ॥
+    verse: '29.11'
+    reason: The edition's verse number (chapter 29, verse 11) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 322
+    find: ॥ २९,१२ ॥
+    replace: ॥
+    verse: '29.12'
+    reason: The edition's verse number (chapter 29, verse 12) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 323
+    find: ॥ २९,१३ ॥
+    replace: ॥
+    verse: '29.13'
+    reason: The edition's verse number (chapter 29, verse 13) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 324
+    find: ॥ २९,१४ ॥
+    replace: ॥
+    verse: '29.14'
+    reason: The edition's verse number (chapter 29, verse 14) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 327
+    find: ॥ ३०,१ ॥
+    replace: ॥
+    verse: '30.1'
+    reason: The edition's verse number (chapter 30, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 328
+    find: ॥ ३०,२ ॥
+    replace: ॥
+    verse: '30.2'
+    reason: The edition's verse number (chapter 30, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 329
+    find: ॥ ३०,३ ॥
+    replace: ॥
+    verse: '30.3'
+    reason: The edition's verse number (chapter 30, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 330
+    find: ॥ ३०,४ ॥
+    replace: ॥
+    verse: '30.4'
+    reason: The edition's verse number (chapter 30, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 331
+    find: ॥ ३०,५ ॥
+    replace: ॥
+    verse: '30.5'
+    reason: The edition's verse number (chapter 30, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 332
+    find: ॥ ३०,६ ॥
+    replace: ॥
+    verse: '30.6'
+    reason: The edition's verse number (chapter 30, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 333
+    find: ॥ ३०,७ ॥
+    replace: ॥
+    verse: '30.7'
+    reason: The edition's verse number (chapter 30, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 334
+    find: ॥ ३०,८ ॥
+    replace: ॥
+    verse: '30.8'
+    reason: The edition's verse number (chapter 30, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 335
+    find: ॥ ३०,९ ॥
+    replace: ॥
+    verse: '30.9'
+    reason: The edition's verse number (chapter 30, verse 9) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 336
+    find: ॥ ३०,१० ॥
+    replace: ॥
+    verse: '30.10'
+    reason: The edition's verse number (chapter 30, verse 10) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 337
+    find: ॥ ३०,११ ॥
+    replace: ॥
+    verse: '30.11'
+    reason: The edition's verse number (chapter 30, verse 11) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 338
+    find: ॥ ३०,१२ ॥
+    replace: ॥
+    verse: '30.12'
+    reason: The edition's verse number (chapter 30, verse 12) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 339
+    find: ॥ ३०,१३ ॥
+    replace: ॥
+    verse: '30.13'
+    reason: The edition's verse number (chapter 30, verse 13) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 340
+    find: ॥ ३०,१४ ॥
+    replace: ॥
+    verse: '30.14'
+    reason: The edition's verse number (chapter 30, verse 14) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 343
+    find: ॥ ३१,१ ॥
+    replace: ॥
+    verse: '31.1'
+    reason: The edition's verse number (chapter 31, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 344
+    find: ॥ ३१,२ ॥
+    replace: ॥
+    verse: '31.2'
+    reason: The edition's verse number (chapter 31, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 345
+    find: ॥ ३१,३ ॥
+    replace: ॥
+    verse: '31.3'
+    reason: The edition's verse number (chapter 31, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 346
+    find: ॥ ३१,४ ॥
+    replace: ॥
+    verse: '31.4'
+    reason: The edition's verse number (chapter 31, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 347
+    find: ॥ ३१,५ ॥
+    replace: ॥
+    verse: '31.5'
+    reason: The edition's verse number (chapter 31, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 348
+    find: ॥ ३१,६ ॥
+    replace: ॥
+    verse: '31.6'
+    reason: The edition's verse number (chapter 31, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 349
+    find: ॥ ३१,७ ॥
+    replace: ॥
+    verse: '31.7'
+    reason: The edition's verse number (chapter 31, verse 7) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 350
+    find: ॥ ३१,८ ॥
+    replace: ॥
+    verse: '31.8'
+    reason: The edition's verse number (chapter 31, verse 8) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 351
+    find: ॥ ३१,९ ॥
+    replace: ॥
+    verse: '31.9'
+    reason: The edition's verse number (chapter 31, verse 9) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 352
+    find: ॥ ३१,१० ॥
+    replace: ॥
+    verse: '31.10'
+    reason: The edition's verse number (chapter 31, verse 10) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 353
+    find: ॥ ३१,११ ॥
+    replace: ॥
+    verse: '31.11'
+    reason: The edition's verse number (chapter 31, verse 11) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 354
+    find: ॥ ३१,१२ ॥
+    replace: ॥
+    verse: '31.12'
+    reason: The edition's verse number (chapter 31, verse 12) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 355
+    find: ॥ ३१,१३ ॥
+    replace: ॥
+    verse: '31.13'
+    reason: The edition's verse number (chapter 31, verse 13) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 356
+    find: ॥ ३१,१४ ॥
+    replace: ॥
+    verse: '31.14'
+    reason: The edition's verse number (chapter 31, verse 14) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 357
+    find: ॥ ३१,१५ ॥
+    replace: ॥
+    verse: '31.15'
+    reason: The edition's verse number (chapter 31, verse 15) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 358
+    find: ॥ ३१,१६ ॥
+    replace: ॥
+    verse: '31.16'
+    reason: The edition's verse number (chapter 31, verse 16) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 359
+    find: ॥ ३१,१७ ॥
+    replace: ॥
+    verse: '31.17'
+    reason: The edition's verse number (chapter 31, verse 17) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 360
+    find: ॥ ३१,१८ ॥
+    replace: ॥
+    verse: '31.18'
+    reason: The edition's verse number (chapter 31, verse 18) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 363
+    find: ॥ ३२,१ ॥
+    replace: ॥
+    verse: '32.1'
+    reason: The edition's verse number (chapter 32, verse 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 364
+    find: ॥ ३२,२ ॥
+    replace: ॥
+    verse: '32.2'
+    reason: The edition's verse number (chapter 32, verse 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 365
+    find: ॥ ३२,३ ॥
+    replace: ॥
+    verse: '32.3'
+    reason: The edition's verse number (chapter 32, verse 3) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 366
+    find: ॥ ३२,४ ॥
+    replace: ॥
+    verse: '32.4'
+    reason: The edition's verse number (chapter 32, verse 4) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 367
+    find: ॥ ३२,५ ॥
+    replace: ॥
+    verse: '32.5'
+    reason: The edition's verse number (chapter 32, verse 5) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 368
+    find: ॥ ३२,६ ॥
+    replace: ॥
+    verse: '32.6'
+    reason: The edition's verse number (chapter 32, verse 6) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 370
+    find: ॥ ह्प्र् १ ॥
+    replace: ॥
+    verse: Haribhadra's praśasti 1
+    reason: The edition's verse number (Haribhadra's praśasti 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 371
+    find: ॥ ह्प्र् २ ॥
+    replace: ॥
+    verse: Haribhadra's praśasti 2
+    reason: The edition's verse number (Haribhadra's praśasti 2) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
+  - row: 373
+    find: ॥ ल्प्र् १ ॥
+    replace: ॥
+    verse: scribe's praśasti 1
+    reason: The edition's verse number (scribe's praśasti 1) is the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, Rgs_<chapter>.<verse>, as added in digitisation), not root text, and follows the edition's 32 chapters rather than this file's TOC. Removed from the text; kept here and in the block's sidecar entry (source.corrections[].verse).
+    decided_by: the vault owner ("Remove, keep as metadata")
+    date: '2026-10-04'
   - row: 4
     find: '[१. सर्वाकारज्ञताचर्यापरिवर्त]'
     replace: १. सर्वाकारज्ञताचर्यापरिवर्त
@@ -245,8 +2380,8 @@ works:
     date: '2026-10-03'
   - row: 344
     find: '[दुःशील भोति]'
-    replace: दुःशील भोति
-    reason: The Sanskrit edition's square brackets (editor-supplied chapter titles, restored words and the editor's labels for the praśastis) are removed and the words kept, because Obsidian renders bracketed text like link syntax. The bracketed form stays here and in the block's sidecar entry (source.corrections).
+    replace: 'दुःशील भोति '
+    reason: The Sanskrit edition's square brackets (editor-supplied chapter titles, restored words and the editor's labels for the praśastis) are removed and the words kept, because Obsidian renders bracketed text like link syntax. The bracketed form stays here and in the block's sidecar entry (source.corrections). The bracket was the only separator before the next word, so a space takes its place.
     decided_by: vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D10 "remove brackets, keep words"
     date: '2026-10-03'
   - row: 362
@@ -267,6 +2402,1241 @@ works:
     reason: The Sanskrit edition's square brackets (editor-supplied chapter titles, restored words and the editor's labels for the praśastis) are removed and the words kept, because Obsidian renders bracketed text like link syntax. The bracketed form stays here and in the block's sidecar entry (source.corrections).
     decided_by: vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D10 "remove brackets, keep words"
     date: '2026-10-03'
+  line_breaks:
+    before:
+      2:
+      - नमो भग
+      - नमो आर
+      5:
+      - प्रजहि
+      - शृणुता
+      - प्रज्ञ
+      6:
+      - फल पुष
+      - भूजत ग
+      - तस्यान
+      7:
+      - भाषन्त
+      - परमार्
+      - 'सर्वो '
+      8:
+      - तत्राभ
+      - साक्षा
+      - बुद्धा
+      9:
+      - न च बो
+      - एवं श्
+      - सो बोध
+      10:
+      - विज्ञा
+      - सो सर्
+      - अपरीरि
+      11:
+      - ज्ञानो
+      - यो बोध
+      - न च नि
+      12:
+      - कस्मात
+      - व्युपरीक्षमा
+      - आसन्नु
+      13:
+      - विज्ञा
+      - इमि स्
+      - चरती न
+      14:
+      - विज्ञा
+      - चरतीति
+      - अनुपाद
+      15:
+      - सो व्य
+      - न च मन
+      - कस्मार
+      16:
+      - नो चाप
+      - चरणं च सो
+      - 'एषा स '
+      17:
+      - तां बा
+      - विद्या अव
+      - निर्या
+      18:
+      - न च मा
+      - नानात्
+      - 'एषा स '
+      19:
+      - त्रासो
+      - यो पाप
+      - सो आमभ
+      20:
+      - सर्वत्
+      - 'बोधिं '
+      - तस्माद
+      21:
+      - 'महताय '
+      - दृष्टी
+      - महसत्त्व तेन
+      22:
+      - 'महयान '
+      - महता स
+      - महसत्त
+      23:
+      - महतो ज
+      - 'यथ ते '
+      - निर्मा
+      24:
+      - विज्ञा
+      - 'एवं च '
+      - संना ह
+      25:
+      - यत्रार
+      - आकाशतु
+      - सुखसौख
+      26:
+      - निर्वा
+      - यथ अग्
+      - सो तेन
+      27:
+      - अपरान्
+      - यो शुद
+      - 'एषा स '
+      28:
+      - एवं चर
+      - 'महतीं '
+      - 'एषा स '
+      29:
+      - हरिष्य
+      - सो आत्
+      - न च एष
+      30:
+      - यथ सर्
+      - अनुपाद
+      - 'एषा स '
+      31:
+      - सर्वेष
+      - 'अमृतं '
+      - एकार्थ
+      32:
+      - ज्ञातव
+      - प्रकृत
+      - 'एषा स '
+      35:
+      - संज्ञा
+      - विज्ञा
+      - 'एषा स '
+      36:
+      - आत्मन्
+      - फलप्रा
+      - प्रत्य
+      37:
+      - तथ संस
+      - 'एवं च '
+      - अस्थान
+      38:
+      - प्रत्य
+      - इमु क्
+      - यथ आरप
+      39:
+      - फलप्रा
+      - निर्वा
+      - 'सर्वे '
+      40:
+      - जिनपुत
+      - 'अर्हं '
+      - कल्याण
+      41:
+      - नार्हं
+      - सर्वज्
+      - शिक्षाअशि
+      42:
+      - न च शि
+      - सर्वज्
+      - निर्या
+      43:
+      - विज्ञा
+      - न च एत
+      - आकाशधा
+      44:
+      - सत्त्व
+      - आकाशधा
+      - प्रज्ञ
+      45:
+      - संज्ञा
+      - ये अत्
+      - ते पार
+      46:
+      - सत्त्वेति
+      - सत्त्वस्य
+      - 'एषा स '
+      47:
+      - यद् अह
+      - तद व्य
+      - बुद्धो
+      50:
+      - प्रज्ञ
+      - विष वह
+      - 'ओतारु '
+      51:
+      - 'पूजेय '
+      - तेहि प
+      - यथ गङ्
+      52:
+      - ते सर्
+      - दिव्ये
+      - कल्पां
+      53:
+      - यत उत्
+      - धारेयि
+      - कल पुण
+      54:
+      - दुखधर्
+      - येऽतीत
+      - इम विद
+      55:
+      - इह विद
+      - ये सौख
+      - 'सर्वे '
+      56:
+      - सामग्र
+      - यावन्त
+      - प्रज्ञ
+      57:
+      - तेनैव सप्
+      - येनैव प्र
+      - तेनैव सर्
+      60:
+      - सचि गङ
+      - जिनधात
+      - इमम् ए
+      61:
+      - अपि तू
+      - यथ राज
+      - तथ प्र
+      62:
+      - यस्मिं
+      - तस्याप
+      - तस्यैव
+      63:
+      - यन्निर
+      - 'तस्मा '
+      - सो प्र
+      64:
+      - शीले च
+      - परिग्र
+      - 'एका च '
+      65:
+      - नानाप्
+      - न वि छ
+      - अन्यत्
+      66:
+      - प्रज्ञ
+      - सर्वज्
+      - 'षडपीह '
+      69:
+      - चित्तं
+      - प्र(ति
+      - न हि ध
+      70:
+      - विज्ञा
+      - अनुपाद
+      - 'एषा स '
+      71:
+      - तावन्त
+      - यश् चै
+      - परसत्त
+      72:
+      - गमयन्त
+      - यां श्
+      - प्रत्य
+      73:
+      - कुत शा
+      - विन बो
+      - कुत शक
+      74:
+      - कर्मक्
+      - तथ बोध
+      - ज्ञाने
+      75:
+      - कुत नद
+      - असता न
+      - न च सा
+      76:
+      - कुत ज्
+      - ज्ञानस
+      - न च बो
+      77:
+      - ओभासना
+      - वरसूर्
+      - 'न कला '
+      80:
+      - दानं च
+      - स हि ब
+      - न च सर
+      81:
+      - 'ये वा '
+      - तिष्ठन
+      - देशन्त
+      82:
+      - 'यावत् '
+      - एकस्मि
+      - सह युक
+      83:
+      - शैक्ष अशै
+      - परिपिण
+      - 'सर्वं '
+      84:
+      - तथ बोध
+      - संज्ञाय द
+      - परिणामितं
+      85:
+      - तच्चैत
+      - न च धर
+      - परिणामितं
+      86:
+      - अथ आनि
+      - विषसृष
+      - तथ शुक
+      87:
+      - 'यथ ते '
+      - यज्जात
+      - अनुमोद
+      88:
+      - न च सो
+      - यावन्त
+      - अभिभोन
+      91:
+      - मार्गे
+      - विन प्
+      - अविनाय
+      92:
+      - ततु लब
+      - यथ चित
+      - न च ता
+      93:
+      - अणुमात
+      - यद प्र
+      - आकाश य
+      94:
+      - मोचिष्
+      - अयु सत
+      - न च एष
+      95:
+      - परिचार
+      - सह श्र
+      - 'सो वा '
+      96:
+      - न च प्
+      - श्रुत्
+      - स क्षि
+      97:
+      - यदि इच
+      - सो वाण
+      - मूलातु
+      100:
+      - फलरूपश
+      - सर्वज्ञता
+      - आकाशधा
+      101:
+      - क्लेशा
+      - जरव्या
+      - प्रज्ञ
+      102:
+      - संसारच
+      - जानित्
+      - आकाश प
+      103:
+      - विज्ञा
+      - एवं चर
+      - सङ्गाद
+      106:
+      - 'सङ्गा '
+      - सूर्यो
+      - अग्नीव
+      107:
+      - 'प्रज्ञाय '
+      - न च पश
+      - 'एषा स '
+      110:
+      - 'चरमाण '
+      - अणुमात
+      - 'यो एव '
+      111:
+      - बहुबुद
+      - यो श्र
+      - न च का
+      112:
+      - 'गोपाल '
+      - आश्वास
+      - अभ्याश
+      113:
+      - शृणु त
+      - आश्वास
+      - नार्हन
+      114:
+      - सचि पश
+      - अथवा न
+      - अ(भ्या
+      115:
+      - श्रुणम
+      - यद्याप
+      - तथपि स
+      116:
+      - नचिरेण पत
+      - प्रज्ञ
+      - नचिरेण बो
+      117:
+      - ज्ञातव
+      - तथ बोध
+      - रति छन
+      118:
+      - न च रू
+      - 'धर्मा '
+      - न च नि
+      119:
+      - बल ऋद्
+      - अविकल्
+      - 'एषा स '
+      122:
+      - क्यन्त
+      - बहु अन
+      - ततु अल
+      123:
+      - लिखमान
+      - युत शी
+      - अकरित्
+      124:
+      - न ममात
+      - न च जा
+      - न च सो
+      125:
+      - शाखापल
+      - हस्तिं
+      - तथ प्र
+      126:
+      - मार्गे
+      - तथ बोध
+      - अर्हन्
+      127:
+      - सापेक्
+      - छोरित्
+      - पथ हित
+      128:
+      - श्रुणन
+      - ते धर्
+      - प्रेमा
+      129:
+      - 'अन्ये '
+      - येही स
+      - प्रज्ञ
+      130:
+      - ते दुर
+      - एमेव प
+      - दुर्ला
+      131:
+      - 'य इमं '
+      - मारोऽत
+      - बुद्धा
+      134:
+      - ते सर्
+      - एमेव ब
+      - इम प्र
+      135:
+      - इतु ते
+      - लोकस्य
+      - परसत्त
+      136:
+      - प्रत्य
+      - एकैव भ
+      - प्रज्ञ
+      137:
+      - 'स्थित '
+      - तां बो
+      - 'तस्मा '
+      138:
+      - प्रज्ञ
+      - दुखिता
+      - न पि स
+      139:
+      - नदते अछम्भि मृग
+      - तथ प्र
+      - नदते अछम्भि पृथ
+      140:
+      - तापेतिमां
+      - तथ प्र
+      - तापेति तृ
+      141:
+      - संज्ञा
+      - विज्ञा
+      - अय धर्
+      142:
+      - नभदर्श
+      - तथ धर्
+      - न हि द
+      145:
+      - सर्वान् अमात्य
+      - यावन्ति बुद्धक्रिय
+      - प्रज्ञाय पारमित सर्व
+      146:
+      - सर्वं च आददति
+      - न च बोधिसत्त्व चलते
+      - सर्वांश्च आददति
+      149:
+      - वरप्रज
+      - अतिक्र
+      - लघु प्
+      150:
+      - 'भृतकं '
+      - 'विलयं '
+      - यो गृह
+      151:
+      - प्रज्ञ
+      - संसारस
+      - जातीजर
+      152:
+      - भावस्व
+      - ते पुण
+      - परमाद्
+      153:
+      - ज्ञातव
+      - परिपक्
+      - न च भे
+      154:
+      - प्रज्ञावि
+      - तं चैव
+      - अतिक्र
+      155:
+      - विलयमु
+      - सा चैव
+      - न च भि
+      156:
+      - प्रज्ञावि
+      - सो चैव
+      157:
+      - किंचाप
+      - सो वाम
+      - पतनाद्
+      158:
+      - किंचाप
+      - 'सो वा '
+      - न च भज
+      161:
+      - अध्याश
+      - तेही स
+      - कल्याण
+      162:
+      - प्रज्ञ
+      - एवं जि
+      - कल्याण
+      163:
+      - ध्याना
+      - न च बो
+      - ये आदि
+      164:
+      - त्राणा
+      - गति बु
+      - प्रद्य
+      165:
+      - न च स्
+      - त्रिभि
+      - अविवर्
+      166:
+      - काङ्क्
+      - प्रज्ञ
+      - अपरप्र
+      167:
+      - न च के
+      - एतार्थ
+      - अल्पोत
+      168:
+      - 'स्थित '
+      - 'धर्मो '
+      - 'लोकेन '
+      171:
+      - तथ पश्
+      - उपराधर
+      - नानात्
+      172:
+      - प्रत्य
+      - या सर्
+      - सर्वेष
+      173:
+      - नानात्
+      - 'प्रज्ञाय '
+      - विन प्
+      174:
+      - पञ्चाश
+      - सो त्र
+      - आत्मान
+      175:
+      - बहुकल्
+      - प्रणिध
+      - अनुपाय
+      176:
+      - समचित्
+      - हितचित
+      - अखिलार
+      179:
+      - 'अरणाय '
+      - अविवर्
+      - तां व्
+      180:
+      - न च अन
+      - त्रियप
+      - दशभिश्
+      181:
+      - एकान्त
+      - स्थिति
+      - युगमात
+      182:
+      - न च ला
+      - मारस्य
+      - चतुध्य
+      183:
+      - गृहिभू
+      - न च जी
+      - अभिचार
+      184:
+      - प्रविव
+      - कलहावि
+      - सर्वज्
+      185:
+      - स्वकभू
+      - धर्मार
+      - अविवर्
+      188:
+      - विज्ञा
+      - काण्डे
+      - प्रज्ञ
+      189:
+      - गम्भीर
+      - यस्मिन
+      - किं वा
+      190:
+      - 'संकेत '
+      - यावन्त
+      - तावन्त
+      191:
+      - दानं द
+      - यश् चै
+      - 'धर्मं '
+      192:
+      - तत उत्
+      - तं चाप
+      - नास्ति
+      193:
+      - तथ शून
+      - एवं चर
+      - चरमाणु
+      194:
+      - बुद्धे
+      - कल्पान
+      - न च क्
+      195:
+      - एतेऽपि
+      - परिणाम
+      - न च ही
+      198:
+      - न च दग
+      - न हि अ
+      - असता प
+      199:
+      - असता न तस्य स्प
+      - न च चि
+      - असता न तस्य पुन
+      200:
+      - सो वान
+      - एमेव च
+      - 'सो वा '
+      201:
+      - तत्तत्
+      - उत्पत्
+      - भावस्व
+      202:
+      - प्रथमे
+      - एमेव च
+      - अनुपूर्व शुक
+      203:
+      - न च नि
+      - यथ नाव
+      - उभयान्
+      204:
+      - अहु व्
+      - न च त्
+      - एवं चरन्तु च
+      205:
+      - पश्यित
+      - अपरान्
+      - अणुमात
+      208:
+      - अनुपाद
+      - असमाहि
+      - अत्रान
+      209:
+      - बलवान्
+      - इष्वस्
+      - मायावि
+      210:
+      - कान्ता
+      - सो निर
+      - क्षेमे
+      211:
+      - महमैत्
+      - 'चतुरो '
+      - अस्मिन
+      212:
+      - त हि न
+      - सत्त्व
+      - आकाशस्
+      213:
+      - जगति क
+      - 'सत्त्वान '
+      - न च नि
+      214:
+      - चरती इ
+      - अत्रान
+      - न च आन
+      215:
+      - नो चाप
+      - तथ बोध
+      - न च नि
+      216:
+      - क्षेपि
+      - 'पतनाय '
+      - आकाङ्क
+      217:
+      - प्रज्ञा उ
+      - 'तावन् '
+      - 'यावन् '
+      218:
+      - गगने स
+      - गतिचंक
+      - न निवर
+      219:
+      - ज्ञानर
+      - विविधा
+      - न च भज
+      220:
+      - उभि पा
+      - 'आकालि '
+      - नो च प
+      221:
+      - प्रज्ञ
+      - शून्या
+      - न च नि
+      222:
+      - लब्ध्व
+      - किंचाप
+      - अपि दु
+      223:
+      - लब्ध्व
+      - किंचाप
+      - अपि सर
+      224:
+      - कामार्
+      - नो चाप
+      - न च गे
+      225:
+      - सर्वत्
+      - नो चाप
+      - न च सं
+      226:
+      - शून्या
+      - अस्थान
+      - अथवापि
+      227:
+      - नामेन वा पुन स प्रज्ञपनाय शक्यः ।
+      - तथ बोध
+      - नामेन वा पुन स प्रज्ञपनाय शक्यः ॥
+      228:
+      - गम्भीर
+      - शून्या
+      - न च शो
+      229:
+      - त्रैधा
+      - बुद्धा
+      - अविवर्
+      230:
+      - प्रणिध
+      - सत्याध
+      - अविवर्
+      231:
+      - सत्याध
+      - न च ते
+      - अविवर्
+      234:
+      - सत्याध
+      - यदि अन
+      - ज्ञातव
+      235:
+      - एवं वद
+      - मातापि
+      - बुद्धो
+      236:
+      - पूर्वं
+      - 'यो एव '
+      - ज्ञातव
+      237:
+      - 'रण्या '
+      - आत्मान
+      - ज्ञातव
+      238:
+      - रहप्रत
+      - अन्यत्
+      - एषो वि
+      239:
+      - व्याला
+      - 'नो चा '
+      - संकीर्
+      240:
+      - बलध्या
+      - अभिमन्
+      - न विवे
+      241:
+      - द्वयया
+      - एषो वि
+      - 'आत्मा '
+      244:
+      - गुरुआश
+      - वैद्यो
+      - कल्याण
+      245:
+      - कल्याण
+      - ते चान
+      - दुवि क
+      246:
+      - सर्वेष
+      - ओभास उ
+      - आलोक श
+      247:
+      - तथलक्ष
+      - शून्या
+      - एवं चर
+      248:
+      - संसारि
+      - अहु मह
+      - आकाशगण
+      249:
+      - नो चास
+      - एमेव ब
+      - अहसंज्
+      250:
+      - व्योदा
+      - न हि अ
+      - प्रज्ञ
+      251:
+      - ते सर्
+      - दानं द
+      - 'सर्वं '
+      252:
+      - 'दिवसं '
+      - कलपुण्
+      - तदतन्द
+      253:
+      - 'महतीं '
+      - तद भोन
+      - सततं अ
+      254:
+      - परिमोच
+      - पृथुमा
+      - प्रज्ञ
+      255:
+      - अपरस्म
+      - स ह लब
+      - नाशित्
+      256:
+      - प्रज्ञ
+      - रतनं व
+      - अनुबुद
+      259:
+      - विधमित
+      - अविभोन
+      - सर्वां
+      260:
+      - विधमित
+      - अभिभोन
+      - शून्या
+      261:
+      - सर्वेष
+      - स ह्ये
+      - प्रागे
+      262:
+      - अमृतस्
+      - अयु एष
+      - प्रागे
+      265:
+      - शोकातु
+      - दिशदाह
+      - कथम् ए
+      266:
+      - दिवरात
+      - तद काय
+      - अवतारु
+      267:
+      - भोन्ति
+      - तद मार
+      - उभि एत
+      268:
+      - उभि एति आ
+      - दुष्टा
+      - तद मार
+      269:
+      - चित्तं
+      - यावन्त
+      - तावन्त
+      270:
+      - क्षान्
+      - प्रतिद
+      - अपयाति
+      273:
+      - न च शि
+      - शिक्षा अश
+      - यो शिक्षत
+      274:
+      - न स जा
+      - आराधित
+      - शिक्षातिश
+      275:
+      - नोत्पद
+      - सूर्ये
+      - रश्मीग
+      276:
+      - सर्वेष
+      - सत्काय
+      - अन्तर्
+      277:
+      - भोन्ती
+      - एमेव प
+      - सर्वेत
+      278:
+      - सर्वेष
+      - नो चाप
+      - अयु शि
+      281:
+      - यो चित
+      - त्रिसह
+      - न त्वे
+      282:
+      - सर्वेष
+      - सत्त्वर्थ
+      - दास्यन
+      283:
+      - शून्या
+      - न च प्
+      - सो युक
+      284:
+      - न हि त
+      - एमेव प
+      - अभ्योव
+      285:
+      - ते शिष
+      - पश्यन्
+      - न च तस
+      286:
+      - बुद्धि
+      - आत्मोप
+      - दर्शेत
+      287:
+      - न च तस
+      - एमेव प
+      - दर्शेत
+      288:
+      - पुरुषे
+      - एमेव प
+      - ज्ञाने
+      291:
+      - कृतअञ्
+      - बुद्धा
+      - गुणवर्
+      292:
+      - सत्त्व
+      - एकैक र
+      - 'सर्वे '
+      293:
+      - भवते द
+      - शून्या
+      - यथवादि
+      294:
+      - इम प्र
+      - प्रतिप
+      - सर्वज्
+      295:
+      - भवती अ
+      - विद्या
+      - खगु का
+      296:
+      - न च बु
+      - न च दे
+      - शान्तै
+      297:
+      - शान्ता
+      - अर्हन्
+      - सर्वेष
+      298:
+      - दकमध्य
+      - एमेव ध
+      - शून्या
+      299:
+      - अग्रं स्प
+      - अग्रं ददे
+      - इमु अग
+      302:
+      - सर्वेष
+      - यः सर्
+      - इमु प्
+      303:
+      - बुद्धा
+      - अतिक्र
+      - इतु ते
+      304:
+      - 'सर्वे '
+      - न च मे
+      - न च खि
+      305:
+      - मरुतश्
+      - 'सर्वे '
+      - न च क्
+      306:
+      - 'सर्वे '
+      - सामग्र
+      - न च यन
+      307:
+      - 'सर्वे '
+      - सामग्र
+      - न च प्
+      308:
+      - इमु प्
+      - सो सूर
+      - विधमित
+      311:
+      - न च आल
+      - अपि खो
+      - भेष्यन
+      312:
+      - आरूप्य
+      - उपकारि
+      - न पुना
+      313:
+      - ध्याने
+      - तत्र स
+      - पुन का
+      314:
+      - दिवि द
+      - पश्यित
+      - पुनराग
+      315:
+      - ध्याने
+      - पुन का
+      - पद्मेव
+      316:
+      - परिपूर
+      - आरूप्य
+      - यत्रेह
+      317:
+      - लब्ध्व
+      - 'एकाकि '
+      - गृह्णि
+      318:
+      - लब्ध्व
+      - अवसृज्
+      - पुन का
+      319:
+      - रहप्रत
+      - असमाहि
+      - परिहीन
+      320:
+      - रस स्प
+      - रहप्रत
+      - सततं स
+      321:
+      - विचरन्
+      - यथ कुम
+      - तथ सर्
+      322:
+      - आक्रुष
+      - एकान्त
+      - माम् ए
+      323:
+      - तिष्ठे
+      - अनु बो
+      - तृण अग
+      324:
+      - अभियुक
+      - 'मातेव '
+      - अध्याश
+      327:
+      - सत्त्वार्
+      - न च खे
+      - सो वीर
+      328:
+      - चिरसंज
+      - चिरदुः
+      - ततु वी
+      329:
+      - 'सो वा '
+      - रात्रि
+      - आरम्भव
+      330:
+      - भिन्दि
+      - सचि खे
+      - कौसीद्
+      331:
+      - क्षणमा
+      - आरम्भव
+      - नचिरेण
+      332:
+      - परिपाच
+      - कौसीद्
+      - नैरात्
+      333:
+      - संज्ञाविव
+      - अयु वी
+      - आकाङ्क
+      334:
+      - परितोष
+      - को भाष
+      - सो युक
+      335:
+      - यश् चै
+      - बुद्धा
+      - कलपुण्
+      336:
+      - द्वात्
+      - सत्त्व
+      - सत्त्वान शून्यवरधर्म
+      - प्रियु
+      337:
+      - अभ्योक
+      - द्विती
+      - उभयत्र
+      338:
+      - तं चित
+      - यावन्त
+      - अभिभोत
+      339:
+      - नरकेषु
+      - अनुभूय
+      - 'कस्मा '
+      340:
+      - शिरछेद
+      - यावन्त
+      - क्षान्
+      343:
+      - 'स्थित '
+      - यावन्त
+      - तां सर
+      344:
+      - दुःशील
+      - दुःशील भोति
+      - अथ बोध
+      - स्थितु
+      345:
+      - सो शील
+      - यो धर्म बोधिगुणहान
+      - दुःशील
+      346:
+      - बुद्धं
+      - सर्वज्
+      - स्थितु
+      347:
+      - चरमाणु
+      - तद खण्
+      - पाराजि
+      348:
+      - न च ते
+      - अहुसंज
+      - स्थितु
+      349:
+      - इमि शी
+      - नानात्
+      - अपि छि
+      350:
+      - संज्ञाविर
+      - यस्यो न स
+      - अयु शी
+      351:
+      - अनपेक्
+      - शिरहस्
+      - सर्वास
+      352:
+      - आत्मान
+      - प्रागे
+      - अस्थान
+      353:
+      - कुतु त
+      - मात्सर
+      - अथवा म
+      354:
+      - दानाधि
+      - चत्वार
+      - दत्त्व
+      355:
+      - यावन्त
+      - सर्वेष
+      - तं चाग
+      356:
+      - विदु प
+      - एवं त्
+      - 'अल्पं '
+      357:
+      - ते सर्
+      - बुद्धा
+      - यावन्ति श
+      358:
+      - 'तेषां '
+      - सत्त्वार्
+      - अभिभोत
+      359:
+      - वैडूर्
+      - एमेव स
+      - अभिभोति सर्व
+      360:
+      - 'ममतां '
+      - ततु वर
+      - चन्द्र
+      363:
+      - दारिद्
+      - भोगांश
+      - दानेन सत्
+      364:
+      - 'अष्टौ '
+      - क्षान्
+      - सुवर्ण
+      365:
+      - ज्ञानं
+      - ध्याने
+      - विद्या
+      366:
+      - त्रैधा
+      - वर्तित
+      - देशेति
+      367:
+      - अपि क्
+      - अपि बु
+      - तथ संघ
+      368:
+      - प्रज्ञ
+      - 'नामेन '
+      - तं सर्
+      370:
+      - लोकं प
+      - कारुण्
+      - श्रुत्
+      - 'गत्वा '
+      371:
+      - गाथाभे
+      - कूपं व
+      - लोकार्
+      373:
+      - तेषां च य
+      - लेखकप्रशस्तिः
+      - 'योऽसौ '
+      - मात्रा
+      - जिह्वा
+      - यूयं ब
+      - समाप्तम्
+    source: Digital Sanskrit Buddhist Canon, Devanāgarī edition, book 402 (https://dsbcproject.org/canon-text/book/402), one pāda per line; copy in 0-INBOX/raw-data/dsbc-ratnagunasancayagatha/; matched by letters (0-INBOX/temp/sa_pada_breaks.py), five rows read off the metre by Claude
+    reason: One verse line (pāda) per line, four per verse, like the Tibetan. The edition marks only the half-verse (।), so the pāda boundaries are taken from the DSBC edition of the same text.
+    decided_by: the vault owner ("break each verse into four lines … also the Sanskrit"; "4 lines via DSBC")
+    date: '2026-10-04'
   title: रत्नगुणसंचयगाथा
   notes: 'The Sanskrit is the root of this vault (D1); the Tibetan is its translation. Rows are the Dzongsar team''s segmentation of the Sanskrit-Tibetan pair (373 rows; the Sanskrit''s chapter titles and chapter colophons have empty Tibetan rows). Read in full against the Tibetan: no pairing errors.'
   frontmatter:
@@ -307,6 +3677,11 @@ works:
     reason: Row 367 holds the last verse-opening of section 7 (སྐད་ཅིག་མ་གཅིག་ལ་མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་པ།) and the opening of section 8 (ཆོས་སྐུ།) of the Wikisource dkar chag; it is cut where the Index's page 37 opens <section> part9. The row's Sanskrit segment is shown with the part that translates it.
     decided_by: vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D7 "split the rows"; positions from Wikisource; applied by Claude
     date: '2026-10-03'
+  line_breaks:
+    after: ། ?།
+    reason: One verse line per line (a line ends with its shad pair, ། །), so each block shows its verse as four lines; a topic marker (སྐབས་…བསྟན། །) stands on its own line. Letters unchanged.
+    decided_by: the vault owner ("break each segment into four lines … one block ID per verse")
+    date: '2026-10-04'
   title: ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྡུད་པ་ཚིགས་སུ་བཅད་པ།
   notes: 'The display segmentation: the one Tibetan text the library stores (D2). phakpadoepa-root-bo(sa-bo).md and phakpadoepa-root-bo(bo-zh).md are byte-identical to it. Every commentary''s own cut of the root is carried onto these blocks by letters.'
   meta: phakpadoepa-root-bo.csv
@@ -398,6 +3773,11 @@ works:
     reason: ZH 210 renders both Tibetan row 209 (如人有德力最勝 善解一切幻化法 — སྐྱེས་བུ་མཁས་པ་ཡོན་ཏན་ཀུན་ལྡན་… སྒྱུ་མ་སྒྲུབ་ཤེས་) and row 210 (彼人父母妻及子 遊行遠路多冤中 — ཕ་དང་མ་དང་ཆུང་མ་… དགྲ་བྱེད་མང་བ་དགོན་པའི་ལམ་); ZH 209 is empty.
     decided_by: Claude (standing instruction "read it and fix if it really makes sense", carried over from heart-sutra-rails 2026-10-03) — for the text expert to check
     date: '2026-10-03'
+  line_breaks:
+    phrases: 7
+    reason: 'One verse line per line: the Chinese verse lines are seven-character phrases, separated by a space in the doc (a run of 14, 21 or 28 characters without a space is cut every 7). Letters unchanged.'
+    decided_by: the vault owner ("if that can be also replicated on the Chinese … then also do that")
+    date: '2026-10-04'
   title: 佛母寶德藏般若波羅蜜經
   notes: 'Aligned row for row (373 rows) by the Dzongsar team with a Tibetan text byte-identical to the display. Cut like the Tibetan (one row per verse), so no merge (D9) is needed. Read in full: seven local pairing slips corrected (pair_corrections), the rest sound. Chinese-only material (fascicle markers 卷上/卷中/卷下, editorial notes, extra verses in rows 105, 122, 133, 138, 201, 257–258) stays unaligned, as made.'
   frontmatter:
@@ -431,8 +3811,8 @@ works:
   text_corrections:
   - row: 8
     find: '[དྷྱཱན་པཱའ་ར་མི་ཏཱ་]'
-    replace: དྷྱཱན་པཱའ་ར་མི་ཏཱ་
-    reason: A square-bracketed Sanskrit word in the text is unbracketed and kept, because Obsidian renders bracketed text like link syntax. The bracketed form stays here and in the block's sidecar entry (source.corrections).
+    replace: 'དྷྱཱན་པཱའ་ར་མི་ཏཱ་ '
+    reason: A square-bracketed Sanskrit word in the text is unbracketed and kept, because Obsidian renders bracketed text like link syntax. The bracketed form stays here and in the block's sidecar entry (source.corrections). The bracket was the only separator before the next word, so a space takes its place.
     decided_by: vault owner — standing decision carried over from heart-sutra-rails (2026-10-03), D10 "remove brackets, keep words"
     date: '2026-10-03'
   toc:
