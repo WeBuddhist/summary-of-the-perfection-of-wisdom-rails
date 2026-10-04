@@ -199,6 +199,10 @@
   },
   "active": "15014ceefa497d3c",
   "lastOpenFiles": [
+    "3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/work/bo-mipham-lekshe-zh.jsonl",
+    "3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/style.md",
+    "3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/about.md",
+    "3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/work",
     "3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-mipham-lekshe-en.md",
     "3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/work/bo-mipham-lekshe-en.jsonl",
     "3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/style.md",
@@ -211,7 +215,6 @@
     "4-SYSTEM/scripts/parser-commentary/output/bo-rangjung-dorje-tika",
     "4-SYSTEM/scripts/linter-commentary/output/bo-rangjung-dorje-tika.lint.json",
     "4-SYSTEM/scripts/parser-commentary/output/bo-mipham-lekshe/bo-mipham-lekshe.alignment.json",
-    "4-SYSTEM/scripts/parser-commentary/output/bo-mipham-lekshe/bo-mipham-lekshe.toc.json",
     "4-SYSTEM/scripts/parser-commentary/README.md",
     "4-SYSTEM/scripts/linter-commentary/README.md",
     "4-SYSTEM/Skills/commentary-upload/SKILL.md",
@@ -231,9 +234,6 @@
     "3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/style-bo-rangjung-dorje-tika.md",
     "3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/style-bo-mipham-lekshe.md",
     "3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/style-bo-khenrab-jamyang-norbu-dronme.md",
-    "3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/heading-style.md",
-    "3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/context-header.md",
-    "3-TRANSFORMATIONS/Translations/Dharmamitra/en/style.md",
-    "3-TRANSFORMATIONS/Translations/Dharmamitra/en/heading-style.md"
+    "3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/heading-style.md"
   ]
 }
