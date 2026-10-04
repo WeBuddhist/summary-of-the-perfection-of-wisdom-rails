@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 412.8203125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +197,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "01af448d2c10df4b",
+  "active": "15014ceefa497d3c",
   "lastOpenFiles": [
     "0-INBOX/temp/seg-senge/structural.md",
     "0-INBOX/temp/seg-senge/structural.tsv",
