@@ -199,6 +199,10 @@
   },
   "active": "15014ceefa497d3c",
   "lastOpenFiles": [
+    "3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/work/bo-mipham-lekshe-en.jsonl",
+    "3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/style.md",
+    "3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/about.md",
+    "3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/work",
     "4-SYSTEM/scripts/parser-commentary/output/bo-rangjung-dorje-tika/bo-rangjung-dorje-tika.toc.json",
     "4-SYSTEM/scripts/parser-commentary/output/bo-rangjung-dorje-tika/bo-rangjung-dorje-tika.text.json",
     "4-SYSTEM/scripts/parser-commentary/output/bo-rangjung-dorje-tika/bo-rangjung-dorje-tika.edition.json",
@@ -208,8 +212,6 @@
     "4-SYSTEM/scripts/parser-commentary/output/bo-mipham-lekshe/bo-mipham-lekshe.alignment.json",
     "4-SYSTEM/scripts/parser-commentary/output/bo-mipham-lekshe/bo-mipham-lekshe.toc.json",
     "4-SYSTEM/scripts/parser-commentary/output/bo-mipham-lekshe/bo-mipham-lekshe.edition.json",
-    "4-SYSTEM/scripts/parser-commentary/output/bo-mipham-lekshe/bo-mipham-lekshe.text.json",
-    "4-SYSTEM/scripts/parser-commentary/output/bo-mipham-lekshe",
     "4-SYSTEM/scripts/parser-commentary/README.md",
     "4-SYSTEM/scripts/linter-commentary/README.md",
     "4-SYSTEM/Skills/commentary-upload/SKILL.md",
@@ -232,8 +234,6 @@
     "3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/heading-style.md",
     "3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/context-header.md",
     "3-TRANSFORMATIONS/Translations/Dharmamitra/en/style.md",
-    "3-TRANSFORMATIONS/Translations/Dharmamitra/en/heading-style.md",
-    "3-TRANSFORMATIONS/Translations/Dharmamitra/en/context-header.md",
-    "0-INBOX/temp/seg-senge/structural.md"
+    "3-TRANSFORMATIONS/Translations/Dharmamitra/en/heading-style.md"
   ]
 }
