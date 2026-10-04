@@ -9,7 +9,7 @@
   "blocks": 373,
   "headings": 10,
   "transclusions": 0,
-  "letters": 39584,
+  "letters": 38680,
   "missing": 0,
   "extra": 0,
   "problems": [],
@@ -193,5 +193,37 @@
   "extra": 0,
   "problems": [],
   "target": "bo-display"
+ },
+ {
+  "key": "bo-cone-drakpa-shedrup-gyalwe-gongsal",
+  "md": {
+   "rows": 73
+  },
+  "numbered": 0,
+  "matching": 0,
+  "blocks": 73,
+  "headings": 73,
+  "transclusions": 0,
+  "letters": 93619,
+  "missing": 0,
+  "extra": 0,
+  "problems": [],
+  "target": null
+ },
+ {
+  "key": "bo-senge-zangpo-kadrel",
+  "md": {
+   "rows": 33
+  },
+  "numbered": 0,
+  "matching": 0,
+  "blocks": 33,
+  "headings": 33,
+  "transclusions": 0,
+  "letters": 175719,
+  "missing": 0,
+  "extra": 0,
+  "problems": [],
+  "target": null
  }
 ]

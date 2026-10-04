@@ -13,6 +13,8 @@ For the text expert. The Sanskrit root, its Tibetan translation, a Chinese trans
 | `Commentaries/bo-mipham-lekshe.md` | Commentary, Ju Mipham | 487 | 453 — its Wikisource Index (dbu can MS), up to 24 levels | 324 |
 | `Commentaries/bo-shasana-dibam-bedon-dronme.md` | Commentary, Shāsana Dhīpaṃ | 297 | 140 — Dzongsar TOC doc's numbered labels, up to 13 levels | 340 |
 | `Commentaries/bo-khenrab-jamyang-norbu-dronme.md` | Commentary, Khenrab Jamyang | 349 | 143 — Dzongsar TOC doc's numbered labels, up to 11 levels | 345 |
+| `Commentaries/bo-cone-drakpa-shedrup-gyalwe-gongsal.md` | Commentary, Cone Drakpa Shedrup (Wikisource only) | 73 | 72 — its Wikisource Index, up to 6 levels | none |
+| `Commentaries/bo-senge-zangpo-kadrel.md` | Commentary, Sengge Zangpo (Wikisource only, Derge) | 33 | 32 chapters — its Wikisource Index | none |
 
 ## Checked automatically
 
@@ -35,6 +37,10 @@ Most important first.
 - [ ] **Mipham: a heading level missing on Wikisource** — `1.3.2.2.1.2.1.1.1 བསམ་གཏན་བཞི་ལ་བསླབ་པ།` and `…1.1.2 གཟུགས་མེད་…` stand under a `1.3.2.2.1.2.1.1` that the Index never gives; kept as numbered (their parent heading is absent).
 - [ ] **Rangjung Dorje's Wikisource edition** interpolates the *sa bcad* enumeration sentences (e.g. བཞི་པ་ཆོས་ཀྱི་རང་བཞིན་ལ་གཉིས་ཏེ།…) that the Dzongsar text lacks; 122 headings therefore stand where the shared text resumes, and chains of headings with no shared text between them stand together. Spot-check a few.
 - [ ] **Deep machine-placed TOCs** — 317 + 453 Wikisource headings placed by letter matching (not by hand). Spot-check headings in both commentaries, especially Mipham, where each heading stands before its own ༈ label in the text.
+
+### Added 2026-10-04
+- [ ] **Two commentaries from Wikisource, not aligned** — `bo-cone-drakpa-shedrup-gyalwe-gongsal.md` (72 headings; Wikisource pages not yet validated, so OCR-level errors are possible) and `bo-senge-zangpo-kadrel.md` (Derge). No transclusions: no human alignment exists. Sengge Zangpo's TOC is its 32 chapters, so each block is a whole chapter (median ~3,800 letters, longest ~42,000) — finer segmentation can follow.
+- [ ] **Sanskrit verse numbers removed** (305), kept as metadata per block; **verse lines** added in the Sanskrit (pāda breaks from DSBC; rows 145, 146, 336, 344 and 373 by Claude from the metre), Tibetan and Chinese. Row 344: removing `[दुःशील भोति]` left the next word glued, so a space stands where the bracket was.
 
 ### Text added or changed
 - [ ] **Mipham row 209 — passage added from Wikisource (D8).** The Dzongsar text jumps from …ཕམ་པར་བྱེད་ནུས་སོ། to མེད་པ་ཡིན་པའི་ཕྱིར་རོ། ། and lacks the opening of 1.3.2.2.1.1.3.5 (དེས་བསླབ་བྱ་ཆོས་ཀྱི་ཆེ་བ།) and the body of 1.3.2.2.1.1.3.5.1 (from རྩ་བའི་ས་བཅད་ལྔ་པ་… to …གཉིས་སུ་); added verbatim from Page …ལག་བྲིས་དབུ་ཅན།.pdf/182, revision 1247289. File `bo-mipham-lekshe.md`, section 1 (blocks around the 1.3.2.2.1.1.3.5 headings).

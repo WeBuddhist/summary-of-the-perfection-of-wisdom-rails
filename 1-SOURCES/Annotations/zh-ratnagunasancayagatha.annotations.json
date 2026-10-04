@@ -186,7 +186,8 @@
   "0-4": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 5
+    "row": 5,
+    "line_breaks": 3
    },
    "targets": [
     "0-4"
@@ -200,18 +201,19 @@
       "of": 121,
       "span": [
        0,
-       170
+       173
       ],
       "whole": true
      }
     }
    },
-   "text": "所有菩薩為世間 滅除蓋障煩惱垢發淨信心住寂靜 當行智度彼岸行"
+   "text": "所有菩薩為世間滅除蓋障煩惱垢發淨信心住寂靜當行智度彼岸行"
   },
   "1-1": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 6
+    "row": 6,
+    "line_breaks": 3
    },
    "targets": [
     "1-1"
@@ -225,18 +227,19 @@
       "of": 158,
       "span": [
        0,
-       221
+       225
       ],
       "whole": true
      }
     }
    },
-   "text": "諸江河流閻浮提 華果藥草皆得潤 龍王主住無熱池 彼龍威力流江河"
+   "text": "諸江河流閻浮提華果藥草皆得潤龍王主住無熱池彼龍威力流江河"
   },
   "1-2": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 7
+    "row": 7,
+    "line_breaks": 3
    },
    "targets": [
     "1-2"
@@ -250,18 +253,19 @@
       "of": 123,
       "span": [
        0,
-       174
+       177
       ],
       "whole": true
      }
     }
    },
-   "text": "亦如佛子聲聞等 說法教他方便說 樂最聖行求果報 此諸如來勝威德"
+   "text": "亦如佛子聲聞等說法教他方便說樂最聖行求果報此諸如來勝威德"
   },
   "1-3": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 8
+    "row": 8,
+    "line_breaks": 3
    },
    "targets": [
     "1-3"
@@ -275,18 +279,19 @@
       "of": 130,
       "span": [
        0,
-       180
+       183
       ],
       "whole": true
      }
     }
    },
-   "text": "云何佛說此法眼 令諸弟子如佛學自證教他及方便 此亦佛力非自力"
+   "text": "云何佛說此法眼令諸弟子如佛學自證教他及方便此亦佛力非自力"
   },
   "1-4": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 9
+    "row": 9,
+    "line_breaks": 3
    },
    "targets": [
     "1-4"
@@ -300,18 +305,19 @@
       "of": 132,
       "span": [
        0,
-       182
+       185
       ],
       "whole": true
      }
     }
    },
-   "text": "最上般若不可知 非心可知非菩提 如是聞已不驚怖 彼菩薩行知佛智"
+   "text": "最上般若不可知非心可知非菩提如是聞已不驚怖彼菩薩行知佛智"
   },
   "1-5": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 10
+    "row": 10,
+    "line_breaks": 3
    },
    "targets": [
     "1-5"
@@ -325,18 +331,19 @@
       "of": 125,
       "span": [
        0,
-       174
+       177
       ],
       "whole": true
      }
     }
    },
-   "text": "色受想行識皆無 不著纖塵無處所 彼若不住一切法 行無受想得菩提"
+   "text": "色受想行識皆無不著纖塵無處所彼若不住一切法行無受想得菩提"
   },
   "1-6": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 11
+    "row": 11,
+    "line_breaks": 3
    },
    "targets": [
     "1-6"
@@ -350,18 +357,19 @@
       "of": 117,
       "span": [
        0,
-       166
+       169
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩若求出家智 照見五蘊無實相知此不求於寂靜 彼是菩薩之行智"
+   "text": "菩薩若求出家智照見五蘊無實相知此不求於寂靜彼是菩薩之行智"
   },
   "1-7": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 12
+    "row": 12,
+    "line_breaks": 3
    },
    "targets": [
     "1-7"
@@ -375,18 +383,19 @@
       "of": 116,
       "span": [
        0,
-       165
+       168
       ],
       "whole": true
      }
     }
    },
-   "text": "復次云何智所得 照見一切法皆空 不著不驚照見時 自覺覺他諸菩薩"
+   "text": "復次云何智所得照見一切法皆空不著不驚照見時自覺覺他諸菩薩"
   },
   "1-8": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 13
+    "row": 13,
+    "line_breaks": 3
    },
    "targets": [
     "1-8"
@@ -400,18 +409,19 @@
       "of": 126,
       "span": [
        0,
-       177
+       180
       ],
       "whole": true
      }
     }
    },
-   "text": "色受想行及識蘊 是蘊見行而不知 菩薩照見蘊皆空 行無相化不著句"
+   "text": "色受想行及識蘊是蘊見行而不知菩薩照見蘊皆空行無相化不著句"
   },
   "1-9": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 14
+    "row": 14,
+    "line_breaks": 3
    },
    "targets": [
     "1-9"
@@ -425,18 +435,19 @@
       "of": 127,
       "span": [
        0,
-       176
+       179
       ],
       "whole": true
      }
     }
    },
-   "text": "無色受想行識等 不行是名無相行 若行不得最上智 無相寂靜三摩地"
+   "text": "無色受想行識等不行是名無相行若行不得最上智無相寂靜三摩地"
   },
   "1-10": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 15
+    "row": 15,
+    "line_breaks": 3
    },
    "targets": [
     "1-10"
@@ -450,18 +461,19 @@
       "of": 131,
       "span": [
        0,
-       180
+       183
       ],
       "whole": true
      }
     }
    },
-   "text": "若菩薩行自寂靜 過去諸佛咸授記 身苦樂等皆不及 由知因果法本性"
+   "text": "若菩薩行自寂靜過去諸佛咸授記身苦樂等皆不及由知因果法本性"
   },
   "1-11": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 16
+    "row": 16,
+    "line_breaks": 3
    },
    "targets": [
     "1-11"
@@ -475,18 +487,19 @@
       "of": 131,
       "span": [
        0,
-       180
+       183
       ],
       "whole": true
      }
     }
    },
-   "text": "若行於法不可得 行如是行乃佛智 行無所行了知已 是行最上般若行"
+   "text": "若行於法不可得行如是行乃佛智行無所行了知已是行最上般若行"
   },
   "1-12": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 17
+    "row": 17,
+    "line_breaks": 3
    },
    "targets": [
     "1-12"
@@ -500,18 +513,19 @@
       "of": 122,
       "span": [
        0,
-       171
+       174
       ],
       "whole": true
      }
     }
    },
-   "text": "彼無所有不可得 愚癡著相謂有無 有無二法皆非實 出此了知乃菩薩"
+   "text": "彼無所有不可得愚癡著相謂有無有無二法皆非實出此了知乃菩薩"
   },
   "1-13": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 18
+    "row": 18,
+    "line_breaks": 3
    },
    "targets": [
     "1-13"
@@ -525,18 +539,19 @@
       "of": 118,
       "span": [
        0,
-       168
+       171
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩若知諸幻化 色受想行識亦然 寂靜行離種種相 此名最上般若行"
+   "text": "菩薩若知諸幻化色受想行識亦然寂靜行離種種相此名最上般若行"
   },
   "1-14": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 19
+    "row": 19,
+    "line_breaks": 3
    },
    "targets": [
     "1-14"
@@ -550,18 +565,19 @@
       "of": 130,
       "span": [
        0,
-       179
+       182
       ],
       "whole": true
      }
     }
    },
-   "text": "善友方便令知覺 使聞佛母不驚怖 惡友同行及化他 坏器盛水非堅牢"
+   "text": "善友方便令知覺使聞佛母不驚怖惡友同行及化他坏器盛水非堅牢"
   },
   "1-15": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 20
+    "row": 20,
+    "line_breaks": 3
    },
    "targets": [
     "1-15"
@@ -575,18 +591,19 @@
       "of": 120,
       "span": [
        0,
-       169
+       172
       ],
       "whole": true
      }
     }
    },
-   "text": "云何得名為菩薩 一切樂行皆無著 求佛菩提無所著 是故得名為菩薩"
+   "text": "云何得名為菩薩一切樂行皆無著求佛菩提無所著是故得名為菩薩"
   },
   "1-16": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 21
+    "row": 21,
+    "line_breaks": 3
    },
    "targets": [
     "1-16"
@@ -600,18 +617,19 @@
       "of": 124,
       "span": [
        0,
-       172
+       174
       ],
       "whole": true
      }
     }
    },
-   "text": "云何得名摩訶薩 得第一義眾生中 斷眾生界諸邪見 是故得名摩訶薩"
+   "text": "云何得名摩訶薩得第一義眾生中斷眾生界諸邪見是故得名摩訶薩"
   },
   "1-17": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 22
+    "row": 22,
+    "line_breaks": 3
    },
    "targets": [
     "1-17"
@@ -625,18 +643,19 @@
       "of": 115,
       "span": [
        0,
-       166
+       169
       ],
       "whole": true
      }
     }
    },
-   "text": "大施大慧大威德 佛乘最上而得乘 發菩提心度眾生 是故得名摩訶薩"
+   "text": "大施大慧大威德佛乘最上而得乘發菩提心度眾生是故得名摩訶薩"
   },
   "1-18": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 23
+    "row": 23,
+    "line_breaks": 3
    },
    "targets": [
     "1-18"
@@ -650,18 +669,19 @@
       "of": 126,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "幻化四足俱胝數 多人眾前悉截首 一切世界皆幻化 菩薩知已得無怖"
+   "text": "幻化四足俱胝數多人眾前悉截首一切世界皆幻化菩薩知已得無怖"
   },
   "1-19": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 24
+    "row": 24,
+    "line_breaks": 3
    },
    "targets": [
     "1-19"
@@ -675,18 +695,19 @@
       "of": 111,
       "span": [
        0,
-       161
+       164
       ],
       "whole": true
      }
     }
    },
-   "text": "色受想行識纏縛 知不實已不求解 行菩提心無所著 此名最上諸菩薩"
+   "text": "色受想行識纏縛知不實已不求解行菩提心無所著此名最上諸菩薩"
   },
   "1-20": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 25
+    "row": 25,
+    "line_breaks": 3
    },
    "targets": [
     "1-20"
@@ -700,18 +721,19 @@
       "of": 119,
       "span": [
        0,
-       168
+       171
       ],
       "whole": true
      }
     }
    },
-   "text": "云何得名為菩薩 乘大乘行度眾生 大乘體相如虛空 菩薩由得安隱樂"
+   "text": "云何得名為菩薩乘大乘行度眾生大乘體相如虛空菩薩由得安隱樂"
   },
   "1-21": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 26
+    "row": 26,
+    "line_breaks": 3
    },
    "targets": [
     "1-21"
@@ -725,18 +747,19 @@
       "of": 124,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "大乘之乘不可得 乘涅盤往諸方所 行已不見如火滅 是故名為入涅盤"
+   "text": "大乘之乘不可得乘涅盤往諸方所行已不見如火滅是故名為入涅盤"
   },
   "1-22": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 27
+    "row": 27,
+    "line_breaks": 3
    },
    "targets": [
     "1-21",
@@ -766,7 +789,7 @@
       "of": 124,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      },
@@ -775,18 +798,19 @@
       "of": 123,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "行已不見如火滅 是故名為入涅盤 菩薩所行不可得 初後現在三清淨"
+   "text": "行已不見如火滅是故名為入涅盤菩薩所行不可得初後現在三清淨"
   },
   "1-23": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 28
+    "row": 28,
+    "line_breaks": 3
    },
    "targets": [
     "1-22",
@@ -816,7 +840,7 @@
       "of": 123,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      },
@@ -825,18 +849,19 @@
       "of": 134,
       "span": [
        0,
-       184
+       187
       ],
       "whole": true
      }
     }
    },
-   "text": "清淨無畏無戲論 是行最上般若行 大智菩薩行行時 發大慈悲為眾生"
+   "text": "清淨無畏無戲論是行最上般若行大智菩薩行行時發大慈悲為眾生"
   },
   "1-24": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 29
+    "row": 29,
+    "line_breaks": 5
    },
    "targets": [
     "1-23",
@@ -866,7 +891,7 @@
       "of": 134,
       "span": [
        0,
-       184
+       187
       ],
       "whole": true
      },
@@ -875,18 +900,19 @@
       "of": 135,
       "span": [
        0,
-       184
+       187
       ],
       "whole": true
      }
     }
    },
-   "text": "為已不起眾生相 是行最上般若行菩薩起念為眾生 修諸苦行有苦相是有我相眾生相 此非最上般若行"
+   "text": "為已不起眾生相是行最上般若行菩薩起念為眾生修諸苦行有苦相是有我相眾生相此非最上般若行"
   },
   "1-25": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 30
+    "row": 30,
+    "line_breaks": 3
    },
    "targets": [
     "1-25"
@@ -900,18 +926,19 @@
       "of": 119,
       "span": [
        0,
-       168
+       171
       ],
       "whole": true
      }
     }
    },
-   "text": "知自及諸眾生等 乃至諸法亦復然 生滅無二無分別 是行最上般若行"
+   "text": "知自及諸眾生等乃至諸法亦復然生滅無二無分別是行最上般若行"
   },
   "1-26": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 31
+    "row": 31,
+    "line_breaks": 3
    },
    "targets": [
     "1-26"
@@ -925,18 +952,19 @@
       "of": 116,
       "span": [
        0,
-       165
+       168
       ],
       "whole": true
      }
     }
    },
-   "text": "乃至所說世界等 名離一切生滅法 最上無比甘露智 是故得名為般若"
+   "text": "乃至所說世界等名離一切生滅法最上無比甘露智是故得名為般若"
   },
   "1-27": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 32
+    "row": 32,
+    "line_breaks": 3
    },
    "targets": [
     "1-27"
@@ -950,13 +978,13 @@
       "of": 126,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩如是所行行 了知方便無所求 知此法本性非實 是行最上般若行"
+   "text": "菩薩如是所行行了知方便無所求知此法本性非實是行最上般若行"
   },
   "1-28": {
    "source": {
@@ -986,7 +1014,8 @@
   "2-1": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 35
+    "row": 35,
+    "line_breaks": 3
    },
    "targets": [
     "2-1"
@@ -1000,18 +1029,19 @@
       "of": 114,
       "span": [
        0,
-       164
+       167
       ],
       "whole": true
      }
     }
    },
-   "text": "若不住色亦無受 亦不住想亦無行 復不住識住正法 是名最上般若行"
+   "text": "若不住色亦無受亦不住想亦無行復不住識住正法是名最上般若行"
   },
   "2-2": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 36
+    "row": 36,
+    "line_breaks": 5
    },
    "targets": [
     "2-2",
@@ -1041,7 +1071,7 @@
       "of": 122,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      },
@@ -1050,18 +1080,19 @@
       "of": 126,
       "span": [
        0,
-       176
+       179
       ],
       "whole": true
      }
     }
    },
-   "text": "常與無常苦樂等 我及無我悉皆空 不住有為及無為 住無相行佛亦然 若求聲聞緣覺等 乃至佛果亦復然"
+   "text": "常與無常苦樂等我及無我悉皆空不住有為及無為住無相行佛亦然若求聲聞緣覺等乃至佛果亦復然"
   },
   "2-3": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 37
+    "row": 37,
+    "line_breaks": 5
    },
    "targets": [
     "2-4",
@@ -1091,7 +1122,7 @@
       "of": 124,
       "span": [
        0,
-       174
+       177
       ],
       "whole": true
      },
@@ -1100,18 +1131,19 @@
       "of": 122,
       "span": [
        0,
-       172
+       175
       ],
       "whole": true
      }
     }
    },
-   "text": "不住此忍不可得 如渡大河不見岸 若聞此法彼定得 成等正覺證涅盤 見於一切如自身 是大智者如來說"
+   "text": "不住此忍不可得如渡大河不見岸若聞此法彼定得成等正覺證涅盤見於一切如自身是大智者如來說"
   },
   "2-4": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 40
+    "row": 40,
+    "line_breaks": 8
    },
    "targets": [
     "2-6"
@@ -1125,18 +1157,19 @@
       "of": 115,
       "span": [
        0,
-       165
+       168
       ],
       "whole": true
      }
     }
    },
-   "text": "佛子當住四補特伽羅是行大智行 一真實善法 二不退心 三應供 離垢 無煩惱 無求 四善友同等"
+   "text": "佛子當住四補特伽羅是行大智行一真實善法二不退心三應供離垢無煩惱無求四善友同等"
   },
   "2-5": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 41
+    "row": 41,
+    "line_breaks": 3
    },
    "targets": [
     "2-7"
@@ -1150,18 +1183,19 @@
       "of": 131,
       "span": [
        0,
-       181
+       184
       ],
       "whole": true
      }
     }
    },
-   "text": "大智菩薩如是行 不學聲聞及緣覺樂學如來一切智 是學非學名為學"
+   "text": "大智菩薩如是行不學聲聞及緣覺樂學如來一切智是學非學名為學"
   },
   "2-6": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 42
+    "row": 42,
+    "line_breaks": 3
    },
    "targets": [
     "2-8"
@@ -1175,18 +1209,19 @@
       "of": 138,
       "span": [
        0,
-       187
+       190
       ],
       "whole": true
      }
     }
    },
-   "text": "學不受色不增減 亦復不學種種法 攝受樂學一切智 若此功德出離者"
+   "text": "學不受色不增減亦復不學種種法攝受樂學一切智若此功德出離者"
   },
   "2-7": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 43
+    "row": 43,
+    "line_breaks": 3
    },
    "targets": [
     "2-9"
@@ -1200,18 +1235,19 @@
       "of": 113,
       "span": [
        0,
-       162
+       165
       ],
       "whole": true
      }
     }
    },
-   "text": "色非有智非無智 受想行識亦復爾 色性自性如虛空 平等無二無分別"
+   "text": "色非有智非無智受想行識亦復爾色性自性如虛空平等無二無分別"
   },
   "2-8": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 44
+    "row": 44,
+    "line_breaks": 3
    },
    "targets": [
     "2-10"
@@ -1225,18 +1261,19 @@
       "of": 119,
       "span": [
        0,
-       168
+       171
       ],
       "whole": true
      }
     }
    },
-   "text": "妄想本性無彼岸 眾生之界亦復然 虛空自性亦同然 智慧世間解亦爾"
+   "text": "妄想本性無彼岸眾生之界亦復然虛空自性亦同然智慧世間解亦爾"
   },
   "2-9": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 45
+    "row": 45,
+    "line_breaks": 3
    },
    "targets": [
     "2-11"
@@ -1250,18 +1287,19 @@
       "of": 121,
       "span": [
        0,
-       170
+       173
       ],
       "whole": true
      }
     }
    },
-   "text": "智慧無色佛所說 離一切想到彼岸 若人得離諸想已 是人語意住真如"
+   "text": "智慧無色佛所說離一切想到彼岸若人得離諸想已是人語意住真如"
   },
   "2-10": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 46
+    "row": 46,
+    "line_breaks": 3
    },
    "targets": [
     "2-12"
@@ -1275,18 +1313,19 @@
       "of": 123,
       "span": [
        0,
-       171
+       174
       ],
       "whole": true
      }
     }
    },
-   "text": "彼人住世恒沙劫 不聞佛說眾生聲 眾生不生本清淨 是行最上般若行"
+   "text": "彼人住世恒沙劫不聞佛說眾生聲眾生不生本清淨是行最上般若行"
   },
   "2-11": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 47
+    "row": 47,
+    "line_breaks": 3
    },
    "targets": [
     "2-13"
@@ -1300,13 +1339,13 @@
       "of": 121,
       "span": [
        0,
-       171
+       174
       ],
       "whole": true
      }
     }
    },
-   "text": "佛說種種之語言 皆具最上般若義 過去佛為我受記 於未來世證菩提"
+   "text": "佛說種種之語言皆具最上般若義過去佛為我受記於未來世證菩提"
   },
   "2-12": {
    "source": {
@@ -1322,7 +1361,8 @@
   "2-13": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 50
+    "row": 50,
+    "line_breaks": 3
    },
    "targets": [
     "2-14"
@@ -1336,18 +1376,19 @@
       "of": 124,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "若人常受持般若 所作上應諸佛行 刀劍毒藥水火等 乃至諸魔不能為"
+   "text": "若人常受持般若所作上應諸佛行刀劍毒藥水火等乃至諸魔不能為"
   },
   "2-14": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 51
+    "row": 51,
+    "line_breaks": 3
    },
    "targets": [
     "2-15"
@@ -1361,18 +1402,19 @@
       "of": 125,
       "span": [
        0,
-       170
+       172
       ],
       "whole": true
      }
     }
    },
-   "text": "若人於佛滅度後 建七寶塔以供養 如是圓滿千俱胝 佛剎恒沙等佛塔"
+   "text": "若人於佛滅度後建七寶塔以供養如是圓滿千俱胝佛剎恒沙等佛塔"
   },
   "2-15": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 52
+    "row": 52,
+    "line_breaks": 3
    },
    "targets": [
     "2-16"
@@ -1386,18 +1428,19 @@
       "of": 121,
       "span": [
        0,
-       171
+       174
       ],
       "whole": true
      }
     }
    },
-   "text": "眾生無邊千俱胝 以妙香華塗香等供養三世無邊劫 所有功德之數量"
+   "text": "眾生無邊千俱胝以妙香華塗香等供養三世無邊劫所有功德之數量"
   },
   "2-16": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 53
+    "row": 53,
+    "line_breaks": 3
    },
    "targets": [
     "2-17"
@@ -1411,18 +1454,19 @@
       "of": 136,
       "span": [
        0,
-       185
+       188
       ],
       "whole": true
      }
     }
    },
-   "text": "不及書寫於佛母 諸佛由此而得生若受持讀誦供養 功德倍勝於佛塔"
+   "text": "不及書寫於佛母諸佛由此而得生若受持讀誦供養功德倍勝於佛塔"
   },
   "2-17": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 54
+    "row": 54,
+    "line_breaks": 3
    },
    "targets": [
     "2-18"
@@ -1436,18 +1480,19 @@
       "of": 135,
       "span": [
        0,
-       184
+       187
       ],
       "whole": true
      }
     }
    },
-   "text": "大明般若諸佛母 能除苦惱徧世界 所有三世十方佛 學此明得無上師"
+   "text": "大明般若諸佛母能除苦惱徧世界所有三世十方佛學此明得無上師"
   },
   "2-18": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 55
+    "row": 55,
+    "line_breaks": 3
    },
    "targets": [
     "2-19"
@@ -1461,18 +1506,19 @@
       "of": 118,
       "span": [
        0,
-       167
+       170
       ],
       "whole": true
      }
     }
    },
-   "text": "行般若行利有情 使學大智證菩提 有為無為諸快樂 一切樂從般若生"
+   "text": "行般若行利有情使學大智證菩提有為無為諸快樂一切樂從般若生"
   },
   "2-19": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 56
+    "row": 56,
+    "line_breaks": 3
    },
    "targets": [
     "2-20"
@@ -1486,18 +1532,19 @@
       "of": 116,
       "span": [
        0,
-       165
+       168
       ],
       "whole": true
      }
     }
    },
-   "text": "譬如大地植諸種 得和合生種種色 五波羅蜜及菩提 皆從般若所生出"
+   "text": "譬如大地植諸種得和合生種種色五波羅蜜及菩提皆從般若所生出"
   },
   "2-20": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 57
+    "row": 57,
+    "line_breaks": 3
    },
    "targets": [
     "2-21"
@@ -1511,13 +1558,13 @@
       "of": 126,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "又如輪王出行時 七寶四兵為導從 若依佛母最上行 一切功德法集聚"
+   "text": "又如輪王出行時七寶四兵為導從若依佛母最上行一切功德法集聚"
   },
   "2-21": {
    "source": {
@@ -1533,7 +1580,8 @@
   "2-22": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 60
+    "row": 60,
+    "line_breaks": 3
    },
    "targets": [
     "2-22"
@@ -1547,18 +1595,19 @@
       "of": 132,
       "span": [
        0,
-       182
+       185
       ],
       "whole": true
      }
     }
    },
-   "text": "帝釋有疑問佛曰 恒河沙數等佛剎 佛界圓滿如芥子 能受佛剎般若力"
+   "text": "帝釋有疑問佛曰恒河沙數等佛剎佛界圓滿如芥子能受佛剎般若力"
   },
   "2-23": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 61
+    "row": 61,
+    "line_breaks": 3
    },
    "targets": [
     "2-23"
@@ -1572,18 +1621,19 @@
       "of": 126,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "如是了知般若已 此界云何不供養 譬如人王人所重 住般若者合亦爾"
+   "text": "如是了知般若已此界云何不供養譬如人王人所重住般若者合亦爾"
   },
   "2-24": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 62
+    "row": 62,
+    "line_breaks": 3
    },
    "targets": [
     "2-24"
@@ -1597,18 +1647,19 @@
       "of": 113,
       "span": [
        0,
-       162
+       165
       ],
       "whole": true
      }
     }
    },
-   "text": "佛界般若摩尼寶 具一切德價無比 經函安處經有無 供養悉獲寶功德"
+   "text": "佛界般若摩尼寶具一切德價無比經函安處經有無供養悉獲寶功德"
   },
   "2-25": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 63
+    "row": 63,
+    "line_breaks": 3
    },
    "targets": [
     "2-25"
@@ -1622,18 +1673,19 @@
       "of": 124,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "佛滅供養於舍利 不及供養於般若 若樂受持供養者 是人速得證解脫"
+   "text": "佛滅供養於舍利不及供養於般若若樂受持供養者是人速得證解脫"
   },
   "2-26": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 64
+    "row": 64,
+    "line_breaks": 3
    },
    "targets": [
     "2-26"
@@ -1647,18 +1699,19 @@
       "of": 136,
       "span": [
        0,
-       185
+       188
       ],
       "whole": true
      }
     }
    },
-   "text": "首行布施波羅蜜 次戒忍進及禪定 受持善法不可壞 彼一一生一切法"
+   "text": "首行布施波羅蜜次戒忍進及禪定受持善法不可壞彼一一生一切法"
   },
   "2-27": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 65
+    "row": 65,
+    "line_breaks": 3
    },
    "targets": [
     "2-27"
@@ -1672,18 +1725,19 @@
       "of": 120,
       "span": [
        0,
-       170
+       173
       ],
       "whole": true
      }
     }
    },
-   "text": "如閻浮提種種樹 百千俱胝無數色 雖一一樹影皆別 無量影同一名攝"
+   "text": "如閻浮提種種樹百千俱胝無數色雖一一樹影皆別無量影同一名攝"
   },
   "2-28": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 66
+    "row": 66,
+    "line_breaks": 3
    },
    "targets": [
     "2-28"
@@ -1697,13 +1751,13 @@
       "of": 131,
       "span": [
        0,
-       181
+       184
       ],
       "whole": true
      }
     }
    },
-   "text": "五波羅蜜五名異 般若波羅復一名 一切迴施為菩提 一味同歸菩提名"
+   "text": "五波羅蜜五名異般若波羅復一名一切迴施為菩提一味同歸菩提名"
   },
   "2-29": {
    "source": {
@@ -1719,7 +1773,8 @@
   "2-30": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 69
+    "row": 69,
+    "line_breaks": 3
    },
    "targets": [
     "2-29"
@@ -1733,18 +1788,19 @@
       "of": 120,
       "span": [
        0,
-       169
+       172
       ],
       "whole": true
      }
     }
    },
-   "text": "彼色受想行識等 菩薩觀照悉無常 各各現行而不知 非法非生智者見"
+   "text": "彼色受想行識等菩薩觀照悉無常各各現行而不知非法非生智者見"
   },
   "2-31": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 70
+    "row": 70,
+    "line_breaks": 3
    },
    "targets": [
     "2-30"
@@ -1758,18 +1814,19 @@
       "of": 121,
       "span": [
        0,
-       171
+       174
       ],
       "whole": true
      }
     }
    },
-   "text": "無色無受想行識 是法無得復無生 了知一切法皆空 是名最上般若行"
+   "text": "無色無受想行識是法無得復無生了知一切法皆空是名最上般若行"
   },
   "2-32": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 71
+    "row": 71,
+    "line_breaks": 3
    },
    "targets": [
     "2-31"
@@ -1783,18 +1840,19 @@
       "of": 131,
       "span": [
        0,
-       180
+       183
       ],
       "whole": true
      }
     }
    },
-   "text": "如化恒沙等佛剎 諸眾生證羅漢果 若能書寫此般若 令他受持功德勝"
+   "text": "如化恒沙等佛剎諸眾生證羅漢果若能書寫此般若令他受持功德勝"
   },
   "2-33": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 72
+    "row": 72,
+    "line_breaks": 3
    },
    "targets": [
     "2-32"
@@ -1808,18 +1866,19 @@
       "of": 126,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "如佛修行云何學 信重般若諸法空 速證聲聞及緣覺 乃至無上正覺尊"
+   "text": "如佛修行云何學信重般若諸法空速證聲聞及緣覺乃至無上正覺尊"
   },
   "2-34": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 73
+    "row": 73,
+    "line_breaks": 3
    },
    "targets": [
     "2-33"
@@ -1833,18 +1892,19 @@
       "of": 127,
       "span": [
        0,
-       177
+       180
       ],
       "whole": true
      }
     }
    },
-   "text": "世間無種不生樹 枝葉華果悉無有 無佛誰指菩提心 亦無釋梵聲聞果"
+   "text": "世間無種不生樹枝葉華果悉無有無佛誰指菩提心亦無釋梵聲聞果"
   },
   "2-35": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 74
+    "row": 74,
+    "line_breaks": 3
    },
    "targets": [
     "2-34"
@@ -1858,18 +1918,19 @@
       "of": 126,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "如日舒光照諸天 普使成就種種業 佛智菩提心亦然 從智生諸功德法"
+   "text": "如日舒光照諸天普使成就種種業佛智菩提心亦然從智生諸功德法"
   },
   "2-36": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 75
+    "row": 75,
+    "line_breaks": 3
    },
    "targets": [
     "2-35"
@@ -1883,18 +1944,19 @@
       "of": 126,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "如無熱池無龍主 即無河流閻浮提無河華果悉不生 亦無大海種種寶"
+   "text": "如無熱池無龍主即無河流閻浮提無河華果悉不生亦無大海種種寶"
   },
   "2-37": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 76
+    "row": 76,
+    "line_breaks": 3
    },
    "targets": [
     "2-36"
@@ -1908,18 +1970,19 @@
       "of": 131,
       "span": [
        0,
-       181
+       184
       ],
       "whole": true
      }
     }
    },
-   "text": "世間無佛無大智 無智功德不增長 亦無佛法諸莊嚴 無菩提海等等寶"
+   "text": "世間無佛無大智無智功德不增長亦無佛法諸莊嚴無菩提海等等寶"
   },
   "2-38": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 77
+    "row": 77,
+    "line_breaks": 3
    },
    "targets": [
     "2-37"
@@ -1933,13 +1996,13 @@
       "of": 138,
       "span": [
        0,
-       187
+       190
       ],
       "whole": true
      }
     }
    },
-   "text": "譬如世間螢有光 一切螢光集一處 比日一光照世間 微塵數分不及一"
+   "text": "譬如世間螢有光一切螢光集一處比日一光照世間微塵數分不及一"
   },
   "2-39": {
    "source": {
@@ -1955,7 +2018,8 @@
   "2-40": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 80
+    "row": 80,
+    "line_breaks": 3
    },
    "targets": [
     "2-38"
@@ -1969,18 +2033,19 @@
       "of": 138,
       "span": [
        0,
-       189
+       192
       ],
       "whole": true
      }
     }
    },
-   "text": "所有聲聞眾功德 布施持戒觀照行 不及菩薩發一心 隨喜福蘊之少分"
+   "text": "所有聲聞眾功德布施持戒觀照行不及菩薩發一心隨喜福蘊之少分"
   },
   "2-41": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 81
+    "row": 81,
+    "line_breaks": 3
    },
    "targets": [
     "2-39"
@@ -1994,18 +2059,19 @@
       "of": 125,
       "span": [
        0,
-       176
+       179
       ],
       "whole": true
      }
     }
    },
-   "text": "所有俱胝那由他 無邊佛剎千俱胝 過去現在佛說此 法寶為斷一切苦"
+   "text": "所有俱胝那由他無邊佛剎千俱胝過去現在佛說此法寶為斷一切苦"
   },
   "2-42": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 82
+    "row": 82,
+    "line_breaks": 3
    },
    "targets": [
     "2-40"
@@ -2019,18 +2085,19 @@
       "of": 121,
       "span": [
        0,
-       170
+       173
       ],
       "whole": true
      }
     }
    },
-   "text": "以功德施佛菩提 菩薩之施皆無相 先發最上菩提心 至成正覺及入滅"
+   "text": "以功德施佛菩提菩薩之施皆無相先發最上菩提心至成正覺及入滅"
   },
   "2-43": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 83
+    "row": 83,
+    "line_breaks": 5
    },
    "targets": [
     "2-41"
@@ -2044,18 +2111,19 @@
       "of": 124,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "彼量所有佛功德 咸成方便波羅蜜 及彼聲聞學無學 有漏無漏諸善法 菩薩等一普迴施 當為世間證菩提"
+   "text": "彼量所有佛功德咸成方便波羅蜜及彼聲聞學無學有漏無漏諸善法菩薩等一普迴施當為世間證菩提"
   },
   "2-44": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 84
+    "row": 84,
+    "line_breaks": 3
    },
    "targets": [
     "2-42"
@@ -2069,18 +2137,19 @@
       "of": 130,
       "span": [
        0,
-       180
+       183
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩施已不住心 住心即名眾生相 有見有念名著相 非是菩薩之迴施"
+   "text": "菩薩施已不住心住心即名眾生相有見有念名著相非是菩薩之迴施"
   },
   "2-45": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 85
+    "row": 85,
+    "line_breaks": 3
    },
    "targets": [
     "2-43"
@@ -2094,18 +2163,19 @@
       "of": 110,
       "span": [
        0,
-       161
+       164
       ],
       "whole": true
      }
     }
    },
-   "text": "如是施非無相施 是法當知有滅盡 若作非法非施心 乃可得名為迴施"
+   "text": "如是施非無相施是法當知有滅盡若作非法非施心乃可得名為迴施"
   },
   "2-46": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 86
+    "row": 86,
+    "line_breaks": 3
    },
    "targets": [
     "2-44"
@@ -2119,18 +2189,19 @@
       "of": 115,
       "span": [
        0,
-       164
+       167
       ],
       "whole": true
      }
     }
    },
-   "text": "作有相施非真施 無相迴施證菩提 如上妙食雜毒藥 自法著相亦如是"
+   "text": "作有相施非真施無相迴施證菩提如上妙食雜毒藥自法著相亦如是"
   },
   "2-47": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 87
+    "row": 87,
+    "line_breaks": 3
    },
    "targets": [
     "2-45"
@@ -2144,18 +2215,19 @@
       "of": 116,
       "span": [
        0,
-       165
+       168
       ],
       "whole": true
      }
     }
    },
-   "text": "是故迴施應當學 如佛眾善悉當知 若生若相若威力 悉皆隨喜而迴施"
+   "text": "是故迴施應當學如佛眾善悉當知若生若相若威力悉皆隨喜而迴施"
   },
   "2-48": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 88
+    "row": 88,
+    "line_breaks": 1
    },
    "targets": [
     "2-46"
@@ -2169,13 +2241,13 @@
       "of": 138,
       "span": [
        0,
-       187
+       190
       ],
       "whole": true
      }
     }
    },
-   "text": "此施佛許而印可 如是得名勇猛施"
+   "text": "此施佛許而印可如是得名勇猛施"
   },
   "2-49": {
    "source": {
@@ -2191,7 +2263,8 @@
   "2-50": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 91
+    "row": 91,
+    "line_breaks": 3
    },
    "targets": [
     "2-47"
@@ -2205,18 +2278,19 @@
       "of": 121,
       "span": [
        0,
-       170
+       173
       ],
       "whole": true
      }
     }
    },
-   "text": "無量盲人不見道 無一得入於城郭 修六度行闕般若 無力不能成菩提"
+   "text": "無量盲人不見道無一得入於城郭修六度行闕般若無力不能成菩提"
   },
   "2-51": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 92
+    "row": 92,
+    "line_breaks": 3
    },
    "targets": [
     "2-48"
@@ -2230,18 +2304,19 @@
       "of": 116,
       "span": [
        0,
-       165
+       168
       ],
       "whole": true
      }
     }
    },
-   "text": "譬如畫像不畫眼 因無眼界無功德 若有受行於智慧 得名有眼及有力"
+   "text": "譬如畫像不畫眼因無眼界無功德若有受行於智慧得名有眼及有力"
   },
   "2-52": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 93
+    "row": 93,
+    "line_breaks": 3
    },
    "targets": [
     "2-49"
@@ -2255,18 +2330,19 @@
       "of": 119,
       "span": [
        0,
-       168
+       171
       ],
       "whole": true
      }
     }
    },
-   "text": "有為無為黑白法 如微塵等不可得 智慧觀照如虛空 故名般若出世間"
+   "text": "有為無為黑白法如微塵等不可得智慧觀照如虛空故名般若出世間"
   },
   "2-53": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 94
+    "row": 94,
+    "line_breaks": 3
    },
    "targets": [
     "2-50"
@@ -2280,18 +2356,19 @@
       "of": 133,
       "span": [
        0,
-       183
+       186
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩諦信行佛行 度那由他苦眾生 如是若著眾生相 此非般若最上行"
+   "text": "菩薩諦信行佛行度那由他苦眾生如是若著眾生相此非般若最上行"
   },
   "2-54": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 95
+    "row": 95,
+    "line_breaks": 3
    },
    "targets": [
     "2-51"
@@ -2305,18 +2382,19 @@
       "of": 127,
       "span": [
        0,
-       176
+       179
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩若行最上行 過去未曾求大智 今聞般若如佛想 速證寂靜佛菩提"
+   "text": "菩薩若行最上行過去未曾求大智今聞般若如佛想速證寂靜佛菩提"
   },
   "2-55": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 96
+    "row": 96,
+    "line_breaks": 3
    },
    "targets": [
     "2-52"
@@ -2330,18 +2408,19 @@
       "of": 124,
       "span": [
        0,
-       174
+       177
       ],
       "whole": true
      }
     }
    },
-   "text": "過去信佛那由他 不信般若波羅蜜 或生瞋恨或誹謗 是人少智墮阿鼻"
+   "text": "過去信佛那由他不信般若波羅蜜或生瞋恨或誹謗是人少智墮阿鼻"
   },
   "2-56": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 97
+    "row": 97,
+    "line_breaks": 3
    },
    "targets": [
     "2-53"
@@ -2355,29 +2434,31 @@
       "of": 115,
       "span": [
        0,
-       164
+       167
       ],
       "whole": true
      }
     }
    },
-   "text": "若人樂證諸佛智 不能信重諸佛母 如商入海欲求寶 返失於本而復還"
+   "text": "若人樂證諸佛智不能信重諸佛母如商入海欲求寶返失於本而復還"
   },
   "2-57": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 99
+    "row": 99,
+    "line_breaks": 1
    },
    "alignment": {
     "pair_row": 99,
     "unaligned": true
    },
-   "text": "佛母寶德藏般若伽陀清淨品第八(此品攝第九歎品) 遠行地攝方便波羅蜜伽陀"
+   "text": "佛母寶德藏般若伽陀清淨品第八(此品攝第九歎品)遠行地攝方便波羅蜜伽陀"
   },
   "2-58": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 100
+    "row": 100,
+    "line_breaks": 3
    },
    "targets": [
     "2-54"
@@ -2391,18 +2472,19 @@
       "of": 128,
       "span": [
        0,
-       177
+       180
       ],
       "whole": true
      }
     }
    },
-   "text": "色清淨故果清淨 果色二同一切智 若一切智清淨時 如虛空界不斷壞"
+   "text": "色清淨故果清淨果色二同一切智若一切智清淨時如虛空界不斷壞"
   },
   "3-1": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 101
+    "row": 101,
+    "line_breaks": 3
    },
    "targets": [
     "3-1"
@@ -2416,18 +2498,19 @@
       "of": 145,
       "span": [
        0,
-       205
+       209
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩出過於三界 斷盡煩惱而現生 無老病死現滅度 斯即是行般若行"
+   "text": "菩薩出過於三界斷盡煩惱而現生無老病死現滅度斯即是行般若行"
   },
   "3-2": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 102
+    "row": 102,
+    "line_breaks": 3
    },
    "targets": [
     "3-2"
@@ -2441,18 +2524,19 @@
       "of": 126,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "世間欲色之淤泥 愚人處中如風旋 亦如鹿在屋中轉 智者如禽飛虛空"
+   "text": "世間欲色之淤泥愚人處中如風旋亦如鹿在屋中轉智者如禽飛虛空"
   },
   "3-3": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 103
+    "row": 103,
+    "line_breaks": 3
    },
    "targets": [
     "3-3"
@@ -2466,13 +2550,13 @@
       "of": 131,
       "span": [
        0,
-       182
+       185
       ],
       "whole": true
      }
     }
    },
-   "text": "若不著色無受想 亦無行識乃清淨 如是離諸煩惱垢 解脫名佛大智行"
+   "text": "若不著色無受想亦無行識乃清淨如是離諸煩惱垢解脫名佛大智行"
   },
   "3-4": {
    "source": {
@@ -2488,7 +2572,8 @@
   "3-5": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 106
+    "row": 106,
+    "line_breaks": 4
    },
    "targets": [
     "3-4"
@@ -2502,18 +2587,19 @@
       "of": 117,
       "span": [
        0,
-       167
+       170
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩如是行大智 得離諸相脫輪迴 如日解脫羅睺障 光明普徧照世間火燒草木及樹林"
+   "text": "菩薩如是行大智得離諸相脫輪迴如日解脫羅睺障光明普徧照世間火燒草木及樹林"
   },
   "3-6": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 107
+    "row": 107,
+    "line_breaks": 2
    },
    "targets": [
     "3-5"
@@ -2527,18 +2613,19 @@
       "of": 122,
       "span": [
        0,
-       171
+       174
       ],
       "whole": true
      }
     }
    },
-   "text": "如一切法性清淨作如是觀亦非觀 如是最上般若行"
+   "text": "如一切法性清淨作如是觀亦非觀如是最上般若行"
   },
   "3-7": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 109
+    "row": 109,
+    "line_breaks": 4
    },
    "alignment": {
     "pair_row": 109,
@@ -2549,7 +2636,8 @@
   "4-1": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 110
+    "row": 110,
+    "line_breaks": 3
    },
    "targets": [
     "4-1"
@@ -2563,18 +2651,19 @@
       "of": 168,
       "span": [
        0,
-       233
+       237
       ],
       "whole": true
      }
     }
    },
-   "text": "帝釋天主問佛言 云何菩薩行智慧 佛答微塵數蘊界 無此蘊界之菩薩"
+   "text": "帝釋天主問佛言云何菩薩行智慧佛答微塵數蘊界無此蘊界之菩薩"
   },
   "4-2": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 111
+    "row": 111,
+    "line_breaks": 3
    },
    "targets": [
     "4-2"
@@ -2588,18 +2677,19 @@
       "of": 124,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩久行應可知 於俱胝佛作勝緣 新學聞此生邪疑 或不樂求而不學"
+   "text": "菩薩久行應可知於俱胝佛作勝緣新學聞此生邪疑或不樂求而不學"
   },
   "4-3": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 112
+    "row": 112,
+    "line_breaks": 3
    },
    "targets": [
     "4-3"
@@ -2613,18 +2703,19 @@
       "of": 138,
       "span": [
        0,
-       187
+       190
       ],
       "whole": true
      }
     }
    },
-   "text": "又如人行深惡道 忽見邊界牧牛人 心得安隱無賊怖 知去城郭而非遙"
+   "text": "又如人行深惡道忽見邊界牧牛人心得安隱無賊怖知去城郭而非遙"
   },
   "4-4": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 113
+    "row": 113,
+    "line_breaks": 3
    },
    "targets": [
     "4-4"
@@ -2638,18 +2729,19 @@
       "of": 123,
       "span": [
        0,
-       172
+       175
       ],
       "whole": true
      }
     }
    },
-   "text": "若聞最上般若已 復得樂求佛菩提 如獲安隱得無怖 心超羅漢緣覺地"
+   "text": "若聞最上般若已復得樂求佛菩提如獲安隱得無怖心超羅漢緣覺地"
   },
   "4-5": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 114
+    "row": 114,
+    "line_breaks": 3
    },
    "targets": [
     "4-5"
@@ -2663,18 +2755,19 @@
       "of": 114,
       "span": [
        0,
-       164
+       167
       ],
       "whole": true
      }
     }
    },
-   "text": "譬如人住觀大海 先見大山大樹林 見此所愛祥瑞境 必達大海知非遠"
+   "text": "譬如人住觀大海先見大山大樹林見此所愛祥瑞境必達大海知非遠"
   },
   "4-6": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 115
+    "row": 115,
+    "line_breaks": 3
    },
    "targets": [
     "4-6"
@@ -2688,18 +2781,19 @@
       "of": 125,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩若發最上心 聞此般若波羅蜜 雖未授記於佛前 此證菩提亦非遠"
+   "text": "菩薩若發最上心聞此般若波羅蜜雖未授記於佛前此證菩提亦非遠"
   },
   "4-7": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 116
+    "row": 116,
+    "line_breaks": 3
    },
    "targets": [
     "4-7"
@@ -2713,18 +2807,19 @@
       "of": 122,
       "span": [
        0,
-       171
+       174
       ],
       "whole": true
      }
     }
    },
-   "text": "如見春生諸草木 知有華實而非遙 若人手得此般若 得證菩提亦非遠"
+   "text": "如見春生諸草木知有華實而非遙若人手得此般若得證菩提亦非遠"
   },
   "4-8": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 117
+    "row": 117,
+    "line_breaks": 3
    },
    "targets": [
     "4-8"
@@ -2738,18 +2833,19 @@
       "of": 123,
       "span": [
        0,
-       172
+       175
       ],
       "whole": true
      }
     }
    },
-   "text": "亦如女人懷其妊 十月滿足必誕生 菩薩若聞寶德藏 速成正覺之祥瑞"
+   "text": "亦如女人懷其妊十月滿足必誕生菩薩若聞寶德藏速成正覺之祥瑞"
   },
   "4-9": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 118
+    "row": 118,
+    "line_breaks": 3
    },
    "targets": [
     "4-9"
@@ -2763,18 +2859,19 @@
       "of": 126,
       "span": [
        0,
-       177
+       180
       ],
       "whole": true
      }
     }
    },
-   "text": "若行般若波羅蜜 見色非增亦非減 見法非法如法界 不求寂靜即般若"
+   "text": "若行般若波羅蜜見色非增亦非減見法非法如法界不求寂靜即般若"
   },
   "4-10": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 119
+    "row": 119,
+    "line_breaks": 3
    },
    "targets": [
     "4-10"
@@ -2788,13 +2885,13 @@
       "of": 139,
       "span": [
        0,
-       188
+       191
       ],
       "whole": true
      }
     }
    },
-   "text": "行者若不思佛法 不思力足及寂靜 離思非思無相行 是行最上般若行"
+   "text": "行者若不思佛法不思力足及寂靜離思非思無相行是行最上般若行"
   },
   "4-11": {
    "source": {
@@ -2810,7 +2907,8 @@
   "4-12": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 122
+    "row": 122,
+    "line_breaks": 13
    },
    "targets": [
     "4-11"
@@ -2824,18 +2922,19 @@
       "of": 120,
       "span": [
        0,
-       169
+       172
       ],
       "whole": true
      }
     }
    },
-   "text": "佛告善現汝諦聽 凡夫聲聞緣覺地 斯即名為如來地 一切如一彼無疑 所有稱讚離言說 從彼徧照如來時 乃至成所之作智 住持大金剛佛地 觀察無相住虛空 應知不斷佛種故 ｛此十偈僅存於漢譯｝善現白佛言世尊 云何菩薩之魔事 佛言菩薩魔事多 我今為汝略宣說"
+   "text": "佛告善現汝諦聽凡夫聲聞緣覺地斯即名為如來地一切如一彼無疑所有稱讚離言說從彼徧照如來時乃至成所之作智住持大金剛佛地觀察無相住虛空應知不斷佛種故｛此十偈僅存於漢譯｝善現白佛言世尊云何菩薩之魔事佛言菩薩魔事多我今為汝略宣說"
   },
   "4-13": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 123
+    "row": 123,
+    "line_breaks": 3
    },
    "targets": [
     "4-12"
@@ -2849,18 +2948,19 @@
       "of": 124,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "有無數魔種種變 當書最上般若時 速離天宮如電滅 來於世間作魔事"
+   "text": "有無數魔種種變當書最上般若時速離天宮如電滅來於世間作魔事"
   },
   "4-14": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 124
+    "row": 124,
+    "line_breaks": 3
    },
    "targets": [
     "4-13"
@@ -2874,18 +2974,19 @@
       "of": 123,
       "span": [
        0,
-       172
+       175
       ],
       "whole": true
      }
     }
    },
-   "text": "或有示現樂欲說 或不聽受返瞋恨 不說名姓及氏族 如是魔事咸應知"
+   "text": "或有示現樂欲說或不聽受返瞋恨不說名姓及氏族如是魔事咸應知"
   },
   "4-15": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 125
+    "row": 125,
+    "line_breaks": 3
    },
    "targets": [
     "4-14"
@@ -2899,18 +3000,19 @@
       "of": 113,
       "span": [
        0,
-       162
+       165
       ],
       "whole": true
      }
     }
    },
-   "text": "愚癡無智無方便 無根寧有枝葉等 聞般若已別求經 如棄全象返求足"
+   "text": "愚癡無智無方便無根寧有枝葉等聞般若已別求經如棄全象返求足"
   },
   "4-16": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 126
+    "row": 126,
+    "line_breaks": 3
    },
    "targets": [
     "4-15"
@@ -2924,18 +3026,19 @@
       "of": 119,
       "span": [
        0,
-       168
+       171
       ],
       "whole": true
      }
     }
    },
-   "text": "如人先得百味食 或得稻飯為上味 菩薩先得般若已 棄捨樂求羅漢果"
+   "text": "如人先得百味食或得稻飯為上味菩薩先得般若已棄捨樂求羅漢果"
   },
   "4-17": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 127
+    "row": 127,
+    "line_breaks": 3
    },
    "targets": [
     "4-16"
@@ -2949,18 +3052,19 @@
       "of": 133,
       "span": [
        0,
-       184
+       187
       ],
       "whole": true
      }
     }
    },
-   "text": "或為樂求於利養 心著族姓留種跡 捨彼正法行非法 是魔引入於邪道"
+   "text": "或為樂求於利養心著族姓留種跡捨彼正法行非法是魔引入於邪道"
   },
   "4-18": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 128
+    "row": 128,
+    "line_breaks": 3
    },
    "targets": [
     "4-17"
@@ -2974,18 +3078,19 @@
       "of": 106,
       "span": [
        0,
-       155
+       158
       ],
       "whole": true
      }
     }
    },
-   "text": "若人聞此最上法 當於法師深信重 法師知魔不應著 身適悅及不適悅"
+   "text": "若人聞此最上法當於法師深信重法師知魔不應著身適悅及不適悅"
   },
   "4-19": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 129
+    "row": 129,
+    "line_breaks": 2
    },
    "targets": [
     "4-18"
@@ -2999,18 +3104,19 @@
       "of": 124,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "復有無數種種魔 嬈亂無數苾芻眾 欲求持誦此般若"
+   "text": "復有無數種種魔嬈亂無數苾芻眾欲求持誦此般若"
   },
   "4-20": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 130
+    "row": 130,
+    "line_breaks": 1
    },
    "targets": [
     "4-19"
@@ -3024,18 +3130,19 @@
       "of": 121,
       "span": [
        0,
-       171
+       174
       ],
       "whole": true
      }
     }
    },
-   "text": "不能獲得無價寶 佛母般若實難得"
+   "text": "不能獲得無價寶佛母般若實難得"
   },
   "4-21": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 131
+    "row": 131,
+    "line_breaks": 2
    },
    "targets": [
     "4-20"
@@ -3049,29 +3156,31 @@
       "of": 125,
       "span": [
        0,
-       174
+       177
       ],
       "whole": true
      }
     }
    },
-   "text": "初心菩薩欲樂求 若十方佛而攝受 一切惡魔不能為"
+   "text": "初心菩薩欲樂求若十方佛而攝受一切惡魔不能為"
   },
   "4-22": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 133
+    "row": 133,
+    "line_breaks": 1
    },
    "alignment": {
     "pair_row": 133,
     "unaligned": true
    },
-   "text": "佛母寶德藏般若波羅蜜經卷中 ｛此行僅現於漢譯｝◎般若伽陀現世品第十二"
+   "text": "佛母寶德藏般若波羅蜜經卷中｛此行僅現於漢譯｝◎般若伽陀現世品第十二"
   },
   "4-23": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 134
+    "row": 134,
+    "line_breaks": 3
    },
    "targets": [
     "4-21"
@@ -3085,18 +3194,19 @@
       "of": 119,
       "span": [
        0,
-       169
+       172
       ],
       "whole": true
      }
     }
    },
-   "text": "如母愛子子疾病 當令父母心憂惱十方諸佛般若生 般若攝受亦復爾"
+   "text": "如母愛子子疾病當令父母心憂惱十方諸佛般若生般若攝受亦復爾"
   },
   "4-24": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 135
+    "row": 135,
+    "line_breaks": 3
    },
    "targets": [
     "4-23"
@@ -3124,18 +3234,19 @@
       "of": 132,
       "span": [
        0,
-       181
+       184
       ],
       "whole": true
      }
     }
    },
-   "text": "如是世間諸如來 乃至緣覺及羅漢 迨及般若波羅蜜 皆一味法離分別"
+   "text": "如是世間諸如來乃至緣覺及羅漢迨及般若波羅蜜皆一味法離分別"
   },
   "4-25": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 136
+    "row": 136,
+    "line_breaks": 3
    },
    "targets": [
     "4-23"
@@ -3149,18 +3260,19 @@
       "of": 132,
       "span": [
        0,
-       181
+       184
       ],
       "whole": true
      }
     }
    },
-   "text": "如是世間諸如來 乃至緣覺及羅漢 迨及般若波羅蜜 皆一味法離分別"
+   "text": "如是世間諸如來乃至緣覺及羅漢迨及般若波羅蜜皆一味法離分別"
   },
   "4-26": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 137
+    "row": 137,
+    "line_breaks": 3
    },
    "targets": [
     "4-24"
@@ -3174,18 +3286,19 @@
       "of": 136,
       "span": [
        0,
-       186
+       189
       ],
       "whole": true
      }
     }
    },
-   "text": "過現大智諸菩薩 各各住此法空行 彼諸菩薩如實已 是故如來名作佛"
+   "text": "過現大智諸菩薩各各住此法空行彼諸菩薩如實已是故如來名作佛"
   },
   "4-27": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 138
+    "row": 138,
+    "line_breaks": 7
    },
    "targets": [
     "4-25"
@@ -3199,18 +3312,19 @@
       "of": 129,
       "span": [
        0,
-       179
+       182
       ],
       "whole": true
      }
     }
    },
-   "text": "般若園林華菓盛 佛依止故甚適悅 十力諸根等淨眾 乃至聲聞眾圍繞 ｛此行僅現於漢譯｝般若波羅蜜高山 十力諸佛而依止 ｛此行僅現於漢譯｝三塗眾生悉救度 度已不起眾生相"
+   "text": "般若園林華菓盛佛依止故甚適悅十力諸根等淨眾乃至聲聞眾圍繞｛此行僅現於漢譯｝般若波羅蜜高山十力諸佛而依止｛此行僅現於漢譯｝三塗眾生悉救度度已不起眾生相"
   },
   "4-28": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 139
+    "row": 139,
+    "line_breaks": 3
    },
    "targets": [
     "4-26"
@@ -3224,18 +3338,19 @@
       "of": 133,
       "span": [
        0,
-       182
+       185
       ],
       "whole": true
      }
     }
    },
-   "text": "師子依山而大吼 諸獸聞已皆恐懼 人師子依般若吼 外道邪魔悉驚怖"
+   "text": "師子依山而大吼諸獸聞已皆恐懼人師子依般若吼外道邪魔悉驚怖"
   },
   "4-29": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 140
+    "row": 140,
+    "line_breaks": 3
    },
    "targets": [
     "4-27"
@@ -3249,18 +3364,19 @@
       "of": 129,
       "span": [
        0,
-       178
+       181
       ],
       "whole": true
      }
     }
    },
-   "text": "如日千光住虛空 普照大地諸相現 法王住般若亦然 說度愛河之妙法"
+   "text": "如日千光住虛空普照大地諸相現法王住般若亦然說度愛河之妙法"
   },
   "4-30": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 141
+    "row": 141,
+    "line_breaks": 3
    },
    "targets": [
     "4-28"
@@ -3274,18 +3390,19 @@
       "of": 125,
       "span": [
        0,
-       176
+       179
       ],
       "whole": true
      }
     }
    },
-   "text": "色無相以受無相 乃至想行亦復然 識亦如是五法同 是法無相佛佛說"
+   "text": "色無相以受無相乃至想行亦復然識亦如是五法同是法無相佛佛說"
   },
   "4-31": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 142
+    "row": 142,
+    "line_breaks": 3
    },
    "targets": [
     "4-29"
@@ -3299,13 +3416,13 @@
       "of": 126,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "起虛空見眾生相 虛空無相不可得 佛說法法非相應 不說非有非無相"
+   "text": "起虛空見眾生相虛空無相不可得佛說法法非相應不說非有非無相"
   },
   "4-32": {
    "source": {
@@ -3321,7 +3438,8 @@
   "4-33": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 145
+    "row": 145,
+    "line_breaks": 3
    },
    "targets": [
     "4-30"
@@ -3335,18 +3453,19 @@
       "of": 125,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "若如是見一切法 一切我見悉皆捨 佛行法及聲聞等 皆從般若而成就"
+   "text": "若如是見一切法一切我見悉皆捨佛行法及聲聞等皆從般若而成就"
   },
   "4-34": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 146
+    "row": 146,
+    "line_breaks": 3
    },
    "targets": [
     "4-31"
@@ -3360,18 +3479,19 @@
       "of": 120,
       "span": [
        0,
-       169
+       172
       ],
       "whole": true
      }
     }
    },
-   "text": "如王不行於國邑 所有王務而自辦 菩薩離相依般若 自然獲佛功德法"
+   "text": "如王不行於國邑所有王務而自辦菩薩離相依般若自然獲佛功德法"
   },
   "4-35": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 149
+    "row": 149,
+    "line_breaks": 3
    },
    "targets": [
     "4-32"
@@ -3385,18 +3505,19 @@
       "of": 124,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "若菩薩發堅固心 修行最上般若行 超過聲聞緣覺地 速能證得佛菩提"
+   "text": "若菩薩發堅固心修行最上般若行超過聲聞緣覺地速能證得佛菩提"
   },
   "4-36": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 150
+    "row": 150,
+    "line_breaks": 3
    },
    "targets": [
     "4-33"
@@ -3410,18 +3531,19 @@
       "of": 125,
       "span": [
        0,
-       174
+       177
       ],
       "whole": true
      }
     }
    },
-   "text": "如人欲渡於大海 所乘船舫忽破壞 不依草木命不全 若得依附達彼岸"
+   "text": "如人欲渡於大海所乘船舫忽破壞不依草木命不全若得依附達彼岸"
   },
   "4-37": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 151
+    "row": 151,
+    "line_breaks": 3
    },
    "targets": [
     "4-34"
@@ -3435,18 +3557,19 @@
       "of": 55,
       "span": [
        0,
-       78
+       79
       ],
       "whole": true
      }
     }
    },
-   "text": "若人不發堅信心 依於般若求解脫溺輪迴海無出期 處生老死常苦惱"
+   "text": "若人不發堅信心依於般若求解脫溺輪迴海無出期處生老死常苦惱"
   },
   "4-38": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 152
+    "row": 152,
+    "line_breaks": 3
    },
    "targets": [
     "4-35"
@@ -3460,18 +3583,19 @@
       "of": 64,
       "span": [
        0,
-       87
+       88
       ],
       "whole": true
      }
     }
    },
-   "text": "若有信心持般若 解有無性見真如 是人獲福智有財 速證最上佛菩提"
+   "text": "若有信心持般若解有無性見真如是人獲福智有財速證最上佛菩提"
   },
   "4-39": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 153
+    "row": 153,
+    "line_breaks": 5
    },
    "targets": [
     "4-36"
@@ -3485,18 +3609,19 @@
       "of": 112,
       "span": [
        0,
-       161
+       164
       ],
       "whole": true
      }
     }
    },
-   "text": "如人擔水用坏器 知不堅牢速破壞 若用堅牢器盛水 而無破壞無憂怖 不見具信諸菩薩 遠般若行求退墮"
+   "text": "如人擔水用坏器知不堅牢速破壞若用堅牢器盛水而無破壞無憂怖不見具信諸菩薩遠般若行求退墮"
   },
   "4-40": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 154
+    "row": 154,
+    "line_breaks": 1
    },
    "targets": [
     "4-37"
@@ -3510,18 +3635,19 @@
       "of": 122,
       "span": [
        0,
-       172
+       175
       ],
       "whole": true
      }
     }
    },
-   "text": "能發信心持般若 證大菩提超二地"
+   "text": "能發信心持般若證大菩提超二地"
   },
   "4-41": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 155
+    "row": 155,
+    "line_breaks": 3
    },
    "targets": [
     "4-38"
@@ -3535,18 +3661,19 @@
       "of": 129,
       "span": [
        0,
-       179
+       182
       ],
       "whole": true
      }
     }
    },
-   "text": "未有商人欲入海 不造堅固大船舫 依堅固船無怖畏 獲多珍寶到彼岸"
+   "text": "未有商人欲入海不造堅固大船舫依堅固船無怖畏獲多珍寶到彼岸"
   },
   "4-42": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 156
+    "row": 156,
+    "line_breaks": 3
    },
    "targets": [
     "4-39"
@@ -3560,18 +3687,19 @@
       "of": 123,
       "span": [
        0,
-       172
+       175
       ],
       "whole": true
      }
     }
    },
-   "text": "信心菩薩亦如是 離般若行遠菩提 若修最上大智行 當得無上菩提果"
+   "text": "信心菩薩亦如是離般若行遠菩提若修最上大智行當得無上菩提果"
   },
   "4-43": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 157
+    "row": 157,
+    "line_breaks": 3
    },
    "targets": [
     "4-40"
@@ -3585,18 +3713,19 @@
       "of": 126,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "如百歲人復病患 是人不能自行立 若得左右扶侍者 隨意行往無所怖"
+   "text": "如百歲人復病患是人不能自行立若得左右扶侍者隨意行往無所怖"
   },
   "4-44": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 158
+    "row": 158,
+    "line_breaks": 3
    },
    "targets": [
     "4-41"
@@ -3610,18 +3739,19 @@
       "of": 129,
       "span": [
        0,
-       178
+       181
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩般若力微劣 往菩提岸不能到 兼行最上方便行 得佛菩提無罣礙"
+   "text": "菩薩般若力微劣往菩提岸不能到兼行最上方便行得佛菩提無罣礙"
   },
   "4-45": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 160
+    "row": 160,
+    "line_breaks": 1
    },
    "alignment": {
     "pair_row": 160,
@@ -3632,7 +3762,8 @@
   "4-46": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 161
+    "row": 161,
+    "line_breaks": 3
    },
    "targets": [
     "4-42"
@@ -3646,18 +3777,19 @@
       "of": 116,
       "span": [
        0,
-       166
+       169
       ],
       "whole": true
      }
     }
    },
-   "text": "所有菩薩住初地 發信心行般若行 為求無上菩提故 親近善友及智者"
+   "text": "所有菩薩住初地發信心行般若行為求無上菩提故親近善友及智者"
   },
   "4-47": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 162
+    "row": 162,
+    "line_breaks": 3
    },
    "targets": [
     "4-43"
@@ -3671,18 +3803,19 @@
       "of": 123,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "大智功德云何獲 當從般若波羅蜜 如是一切諸佛法 功德皆從善友得"
+   "text": "大智功德云何獲當從般若波羅蜜如是一切諸佛法功德皆從善友得"
   },
   "4-48": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 163
+    "row": 163,
+    "line_breaks": 3
    },
    "targets": [
     "4-44"
@@ -3696,18 +3829,19 @@
       "of": 131,
       "span": [
        0,
-       181
+       184
       ],
       "whole": true
      }
     }
    },
-   "text": "修行六度般若行 一一迴施於菩提 佛蘊非有不可求 勿為初地如是說"
+   "text": "修行六度般若行一一迴施於菩提佛蘊非有不可求勿為初地如是說"
   },
   "4-49": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 164
+    "row": 164,
+    "line_breaks": 3
    },
    "targets": [
     "4-45"
@@ -3721,18 +3855,19 @@
       "of": 134,
       "span": [
        0,
-       183
+       186
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩修行功德海 救度世間無度者 求菩提意離顛倒 說最上法如電光"
+   "text": "菩薩修行功德海救度世間無度者求菩提意離顛倒說最上法如電光"
   },
   "4-50": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 165
+    "row": 165,
+    "line_breaks": 3
    },
    "targets": [
     "4-46"
@@ -3746,18 +3881,19 @@
       "of": 128,
       "span": [
        0,
-       177
+       180
       ],
       "whole": true
      }
     }
    },
-   "text": "發於最上菩提心 不求名稱不瞋恚 離蘊識界及三乘 不退不動不可取"
+   "text": "發於最上菩提心不求名稱不瞋恚離蘊識界及三乘不退不動不可取"
   },
   "4-51": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 166
+    "row": 166,
+    "line_breaks": 3
    },
    "targets": [
     "4-47"
@@ -3771,18 +3907,19 @@
       "of": 120,
       "span": [
        0,
-       169
+       172
       ],
       "whole": true
      }
     }
    },
-   "text": "於如是法得無礙 達甚深理離妄想 聞般若信及化他 知此菩薩住不退"
+   "text": "於如是法得無礙達甚深理離妄想聞般若信及化他知此菩薩住不退"
   },
   "4-52": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 167
+    "row": 167,
+    "line_breaks": 3
    },
    "targets": [
     "4-48"
@@ -3796,18 +3933,19 @@
       "of": 133,
       "span": [
        0,
-       182
+       185
       ],
       "whole": true
      }
     }
    },
-   "text": "彼甚深法佛難知 無有人得不可得 為利益故證菩提 此非初心眾生知"
+   "text": "彼甚深法佛難知無有人得不可得為利益故證菩提此非初心眾生知"
   },
   "4-53": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 168
+    "row": 168,
+    "line_breaks": 3
    },
    "targets": [
     "4-49"
@@ -3821,13 +3959,13 @@
       "of": 125,
       "span": [
        0,
-       174
+       177
       ],
       "whole": true
      }
     }
    },
-   "text": "眾生愚癡復盲冥 樂住世間求境界 法無所住無取得 從無所住生世間"
+   "text": "眾生愚癡復盲冥樂住世間求境界法無所住無取得從無所住生世間"
   },
   "4-54": {
    "source": {
@@ -3843,7 +3981,8 @@
   "4-55": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 171
+    "row": 171,
+    "line_breaks": 3
    },
    "targets": [
     "4-50"
@@ -3857,18 +3996,19 @@
       "of": 131,
       "span": [
        0,
-       181
+       184
       ],
       "whole": true
      }
     }
    },
-   "text": "東方虛空界無邊 南西北方亦如是 乃至上下及四維 無種種相無分別"
+   "text": "東方虛空界無邊南西北方亦如是乃至上下及四維無種種相無分別"
   },
   "4-56": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 172
+    "row": 172,
+    "line_breaks": 3
    },
    "targets": [
     "4-51"
@@ -3882,18 +4022,19 @@
       "of": 127,
       "span": [
        0,
-       176
+       179
       ],
       "whole": true
      }
     }
    },
-   "text": "過去未來及現在 一切佛法及聲聞 一切如實不可得 不可得故無分別"
+   "text": "過去未來及現在一切佛法及聲聞一切如實不可得不可得故無分別"
   },
   "4-57": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 173
+    "row": 173,
+    "line_breaks": 3
    },
    "targets": [
     "4-52"
@@ -3907,18 +4048,19 @@
       "of": 108,
       "span": [
        0,
-       151
+       153
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩樂求如是法 應行方便般若行 離種種相即菩提 菩薩離此無由證"
+   "text": "菩薩樂求如是法應行方便般若行離種種相即菩提菩薩離此無由證"
   },
   "4-58": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 174
+    "row": 174,
+    "line_breaks": 3
    },
    "targets": [
     "4-53"
@@ -3932,18 +4074,19 @@
       "of": 118,
       "span": [
        0,
-       167
+       170
       ],
       "whole": true
      }
     }
    },
-   "text": "如鳥能飛百由旬 折翅翼故飛無半 忉利天及閻浮人 忘失般若故自墜"
+   "text": "如鳥能飛百由旬折翅翼故飛無半忉利天及閻浮人忘失般若故自墜"
   },
   "4-59": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 175
+    "row": 175,
+    "line_breaks": 3
    },
    "targets": [
     "4-54"
@@ -3957,18 +4100,19 @@
       "of": 126,
       "span": [
        0,
-       178
+       181
       ],
       "whole": true
      }
     }
    },
-   "text": "難修前五波羅蜜 經多俱胝那由劫 復以廣大願資持 離方便墜聲聞位"
+   "text": "難修前五波羅蜜經多俱胝那由劫復以廣大願資持離方便墜聲聞位"
   },
   "4-60": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 176
+    "row": 176,
+    "line_breaks": 3
    },
    "targets": [
     "4-55"
@@ -3982,18 +4126,19 @@
       "of": 121,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "樂行佛智心平等 猶如父母觀一切 當行利益及慈悲 常宣善軟妙言教◎"
+   "text": "樂行佛智心平等猶如父母觀一切當行利益及慈悲常宣善軟妙言教◎"
   },
   "4-61": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 178
+    "row": 178,
+    "line_breaks": 3
    },
    "alignment": {
     "pair_row": 178,
@@ -4004,7 +4149,8 @@
   "4-62": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 179
+    "row": 179,
+    "line_breaks": 3
    },
    "targets": [
     "4-56"
@@ -4018,18 +4164,19 @@
       "of": 132,
       "span": [
        0,
-       181
+       184
       ],
       "whole": true
      }
     }
    },
-   "text": "時須菩提瞻仰問 不退菩薩何殊勝 離言聲相云何說 願佛說彼功德藏"
+   "text": "時須菩提瞻仰問不退菩薩何殊勝離言聲相云何說願佛說彼功德藏"
   },
   "4-63": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 180
+    "row": 180,
+    "line_breaks": 3
    },
    "targets": [
     "4-57"
@@ -4043,18 +4190,19 @@
       "of": 122,
       "span": [
        0,
-       171
+       174
       ],
       "whole": true
      }
     }
    },
-   "text": "不住沙門婆羅門 及行十善離三塗 大智離於種種相 如山谷響聲相應"
+   "text": "不住沙門婆羅門及行十善離三塗大智離於種種相如山谷響聲相應"
   },
   "4-64": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 181
+    "row": 181,
+    "line_breaks": 3
    },
    "targets": [
     "4-58"
@@ -4068,18 +4216,19 @@
       "of": 123,
       "span": [
        0,
-       172
+       175
       ],
       "whole": true
      }
     }
    },
-   "text": "若欲法無礙行化 一向善說諸言教 行住坐臥四威儀 一念觀心悉通達"
+   "text": "若欲法無礙行化一向善說諸言教行住坐臥四威儀一念觀心悉通達"
   },
   "4-65": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 182
+    "row": 182,
+    "line_breaks": 3
    },
    "targets": [
     "4-59"
@@ -4093,18 +4242,19 @@
       "of": 129,
       "span": [
        0,
-       178
+       181
       ],
       "whole": true
      }
     }
    },
-   "text": "三業清淨如白衣 不為利養故樂法 降魔境界及化他 觀四禪定而不住"
+   "text": "三業清淨如白衣不為利養故樂法降魔境界及化他觀四禪定而不住"
   },
   "4-66": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 183
+    "row": 183,
+    "line_breaks": 3
    },
    "targets": [
     "4-60"
@@ -4118,18 +4268,19 @@
       "of": 133,
       "span": [
        0,
-       182
+       185
       ],
       "whole": true
      }
     }
    },
-   "text": "不求名譽無瞋恚 乃至在家塵不染 或為富貴及脫命 不染纖毫之欲塵"
+   "text": "不求名譽無瞋恚乃至在家塵不染或為富貴及脫命不染纖毫之欲塵"
   },
   "4-67": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 184
+    "row": 184,
+    "line_breaks": 3
    },
    "targets": [
     "4-61"
@@ -4143,18 +4294,19 @@
       "of": 129,
       "span": [
        0,
-       174
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "本來寂靜無所有 更互相相業所緣若求清淨不退時 當行最上般若行"
+   "text": "本來寂靜無所有更互相相業所緣若求清淨不退時當行最上般若行"
   },
   "4-68": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 185
+    "row": 185,
+    "line_breaks": 3
    },
    "targets": [
     "4-62"
@@ -4168,18 +4320,19 @@
       "of": 129,
       "span": [
        0,
-       177
+       180
       ],
       "whole": true
      }
     }
    },
-   "text": "求正遍知心柔順 不求二地離邊地 為法捨命如須彌 是名不退之菩薩"
+   "text": "求正遍知心柔順不求二地離邊地為法捨命如須彌是名不退之菩薩"
   },
   "4-69": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 187
+    "row": 187,
+    "line_breaks": 1
    },
    "alignment": {
     "pair_row": 187,
@@ -4190,7 +4343,8 @@
   "4-70": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 188
+    "row": 188,
+    "line_breaks": 3
    },
    "targets": [
     "4-63"
@@ -4204,18 +4358,19 @@
       "of": 126,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "色受想行識甚深 本來寂靜而無相 如海之深杖莫測 得般若蘊亦如是"
+   "text": "色受想行識甚深本來寂靜而無相如海之深杖莫測得般若蘊亦如是"
   },
   "4-71": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 189
+    "row": 189,
+    "line_breaks": 3
    },
    "targets": [
     "4-64"
@@ -4229,18 +4384,19 @@
       "of": 120,
       "span": [
        0,
-       171
+       174
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩知此甚深法 住真如乘不可染 六塵十二界體空 無蘊寧有所得福"
+   "text": "菩薩知此甚深法住真如乘不可染六塵十二界體空無蘊寧有所得福"
   },
   "4-72": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 190
+    "row": 190,
+    "line_breaks": 3
    },
    "targets": [
     "4-65"
@@ -4254,18 +4410,19 @@
       "of": 129,
       "span": [
        0,
-       178
+       181
       ],
       "whole": true
      }
     }
    },
-   "text": "如人思彼染欲境 心著女色如目見 乃至日日心所行 菩薩思覺亦如是"
+   "text": "如人思彼染欲境心著女色如目見乃至日日心所行菩薩思覺亦如是"
   },
   "4-73": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 191
+    "row": 191,
+    "line_breaks": 3
    },
    "targets": [
     "4-66"
@@ -4279,18 +4436,19 @@
       "of": 141,
       "span": [
        0,
-       191
+       194
       ],
       "whole": true
      }
     }
    },
-   "text": "若多俱胝劫布施 羅漢緣覺持戒者 不如說行般若法 百千萬分不及一"
+   "text": "若多俱胝劫布施羅漢緣覺持戒者不如說行般若法百千萬分不及一"
   },
   "4-74": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 192
+    "row": 192,
+    "line_breaks": 3
    },
    "targets": [
     "4-67"
@@ -4304,18 +4462,19 @@
       "of": 127,
       "span": [
        0,
-       177
+       180
       ],
       "whole": true
      }
     }
    },
-   "text": "若菩薩觀般若理 安住說法而無相 迴施一切證菩提 彼三界師無有等"
+   "text": "若菩薩觀般若理安住說法而無相迴施一切證菩提彼三界師無有等"
   },
   "4-75": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 193
+    "row": 193,
+    "line_breaks": 3
    },
    "targets": [
     "4-68"
@@ -4329,18 +4488,19 @@
       "of": 125,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "所說成就而無相 非空非實不可得 若如是行名覺智 得受成就義無邊"
+   "text": "所說成就而無相非空非實不可得若如是行名覺智得受成就義無邊"
   },
   "4-76": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 194
+    "row": 194,
+    "line_breaks": 3
    },
    "targets": [
     "4-69"
@@ -4354,18 +4514,19 @@
       "of": 125,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "於一念知一切法 信佛所說及他說 演說俱胝那由劫 法界不增亦不減"
+   "text": "於一念知一切法信佛所說及他說演說俱胝那由劫法界不增亦不減"
   },
   "4-77": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 195
+    "row": 195,
+    "line_breaks": 3
    },
    "targets": [
     "4-70"
@@ -4379,13 +4540,13 @@
       "of": 133,
       "span": [
        0,
-       183
+       186
       ],
       "whole": true
      }
     }
    },
-   "text": "此得名佛波羅蜜 菩薩於中而說法 如名施已心不著 亦不言證無上覺"
+   "text": "此得名佛波羅蜜菩薩於中而說法如名施已心不著亦不言證無上覺"
   },
   "4-78": {
    "source": {
@@ -4401,7 +4562,8 @@
   "4-79": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 198
+    "row": 198,
+    "line_breaks": 3
    },
    "targets": [
     "4-71"
@@ -4415,18 +4577,19 @@
       "of": 107,
       "span": [
        0,
-       155
+       158
       ],
       "whole": true
      }
     }
    },
-   "text": "譬如燈光從眾緣 假以膏油芯火等 光非芯火及膏油 非火非芯光不有"
+   "text": "譬如燈光從眾緣假以膏油芯火等光非芯火及膏油非火非芯光不有"
   },
   "4-80": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 199
+    "row": 199,
+    "line_breaks": 3
    },
    "targets": [
     "4-72"
@@ -4440,18 +4603,19 @@
       "of": 108,
       "span": [
        0,
-       157
+       160
       ],
       "whole": true
      }
     }
    },
-   "text": "或有菩薩初發心 不求無上菩提果 豈唯不得證菩提 亦復不得寂靜故"
+   "text": "或有菩薩初發心不求無上菩提果豈唯不得證菩提亦復不得寂靜故"
   },
   "4-81": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 200
+    "row": 200,
+    "line_breaks": 3
    },
    "targets": [
     "4-73"
@@ -4465,29 +4629,31 @@
       "of": 115,
       "span": [
        0,
-       165
+       168
       ],
       "whole": true
      }
     }
    },
-   "text": "從種生樹及華菓 無種華菓悉皆無 發心不為佛菩提 修行終遠菩提果"
+   "text": "從種生樹及華菓無種華菓悉皆無發心不為佛菩提修行終遠菩提果"
   },
   "4-82": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 201
+    "row": 201,
+    "line_breaks": 3
    },
    "alignment": {
     "pair_row": 201,
     "unaligned": true
    },
-   "text": "從種子生麥穀等 彼果非有亦非無 佛菩提果亦如幻 離彼有性及無性"
+   "text": "從種子生麥穀等彼果非有亦非無佛菩提果亦如幻離彼有性及無性"
   },
   "4-83": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 202
+    "row": 202,
+    "line_breaks": 3
    },
    "targets": [
     "4-74"
@@ -4501,18 +4667,19 @@
       "of": 132,
       "span": [
        0,
-       181
+       184
       ],
       "whole": true
      }
     }
    },
-   "text": "譬如涓滴水細微 漸次必能盈大器 初心為求無上果 久修白法終能證"
+   "text": "譬如涓滴水細微漸次必能盈大器初心為求無上果久修白法終能證"
   },
   "4-84": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 203
+    "row": 203,
+    "line_breaks": 3
    },
    "targets": [
     "4-75"
@@ -4526,18 +4693,19 @@
       "of": 118,
       "span": [
        0,
-       169
+       172
       ],
       "whole": true
      }
     }
    },
-   "text": "行空無相無願行 不求寂靜無行相 亦如船師善濟渡 不著兩岸非中流"
+   "text": "行空無相無願行不求寂靜無行相亦如船師善濟渡不著兩岸非中流"
   },
   "4-85": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 204
+    "row": 204,
+    "line_breaks": 3
    },
    "targets": [
     "4-76"
@@ -4551,18 +4719,19 @@
       "of": 137,
       "span": [
        0,
-       186
+       189
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩修行無所著 乃得受佛菩提記 若了菩提非所有 此即是行佛般若"
+   "text": "菩薩修行無所著乃得受佛菩提記若了菩提非所有此即是行佛般若"
   },
   "4-86": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 205
+    "row": 205,
+    "line_breaks": 3
    },
    "targets": [
     "4-77"
@@ -4576,13 +4745,13 @@
       "of": 125,
       "span": [
        0,
-       174
+       177
       ],
       "whole": true
      }
     }
    },
-   "text": "譬如疾疫飢饉道 菩薩中行無怖畏 小人知已悉往來 得無苦惱如微塵"
+   "text": "譬如疾疫飢饉道菩薩中行無怖畏小人知已悉往來得無苦惱如微塵"
   },
   "4-87": {
    "source": {
@@ -4598,7 +4767,8 @@
   "4-88": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 208
+    "row": 208,
+    "line_breaks": 3
    },
    "targets": [
     "4-78"
@@ -4612,18 +4782,19 @@
       "of": 132,
       "span": [
        0,
-       182
+       185
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩奉行佛般若 了知本來蘊不生 佛法眾生界悉空 以空三昧起悲智"
+   "text": "菩薩奉行佛般若了知本來蘊不生佛法眾生界悉空以空三昧起悲智"
   },
   "4-89": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 210
+    "row": 210,
+    "line_breaks": 7
    },
    "targets": [
     "4-79",
@@ -4653,7 +4824,7 @@
       "of": 129,
       "span": [
        0,
-       180
+       183
       ],
       "whole": true
      },
@@ -4662,18 +4833,19 @@
       "of": 119,
       "span": [
        0,
-       169
+       172
       ],
       "whole": true
      }
     }
    },
-   "text": "如人有德力最勝 善解一切幻化法 乃至器仗及工巧 而能一向為世間彼人父母妻及子 遊行遠路多冤中 是人勇猛眾所知 安樂還家無怖畏"
+   "text": "如人有德力最勝善解一切幻化法乃至器仗及工巧而能一向為世間彼人父母妻及子遊行遠路多冤中是人勇猛眾所知安樂還家無怖畏"
   },
   "4-90": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 211
+    "row": 211,
+    "line_breaks": 3
    },
    "targets": [
     "4-81"
@@ -4687,18 +4859,19 @@
       "of": 127,
       "span": [
        0,
-       177
+       180
       ],
       "whole": true
      }
     }
    },
-   "text": "大智菩薩為眾生 安住第一三摩地 降伏四魔離二乘 亦復不求佛菩提"
+   "text": "大智菩薩為眾生安住第一三摩地降伏四魔離二乘亦復不求佛菩提"
   },
   "4-91": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 212
+    "row": 212,
+    "line_breaks": 3
    },
    "targets": [
     "4-82"
@@ -4712,18 +4885,19 @@
       "of": 118,
       "span": [
        0,
-       166
+       169
       ],
       "whole": true
      }
     }
    },
-   "text": "譬如虛空無所有 風水火地皆依住 世間眾生得快樂 虛空無意住非住"
+   "text": "譬如虛空無所有風水火地皆依住世間眾生得快樂虛空無意住非住"
   },
   "4-92": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 213
+    "row": 213,
+    "line_breaks": 3
    },
    "targets": [
     "4-83"
@@ -4737,18 +4911,19 @@
       "of": 117,
       "span": [
        0,
-       167
+       170
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩住空亦如是 現於世間種種相 以眾生智及願力 非彼寂靜非空故"
+   "text": "菩薩住空亦如是現於世間種種相以眾生智及願力非彼寂靜非空故"
   },
   "4-93": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 214
+    "row": 214,
+    "line_breaks": 3
    },
    "targets": [
     "4-84"
@@ -4762,18 +4937,19 @@
       "of": 112,
       "span": [
        0,
-       161
+       164
       ],
       "whole": true
      }
     }
    },
-   "text": "若菩薩行大智時 住空寂靜三摩地 此中不見一切相 亦復不見彼非相"
+   "text": "若菩薩行大智時住空寂靜三摩地此中不見一切相亦復不見彼非相"
   },
   "4-94": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 215
+    "row": 215,
+    "line_breaks": 3
    },
    "targets": [
     "4-85"
@@ -4787,18 +4963,19 @@
       "of": 111,
       "span": [
        0,
-       158
+       161
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩行此解脫門 非求寂靜非行相 如鳥飛空而往來 非住虛空非住地"
+   "text": "菩薩行此解脫門非求寂靜非行相如鳥飛空而往來非住虛空非住地"
   },
   "4-95": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 216
+    "row": 216,
+    "line_breaks": 3
    },
    "targets": [
     "4-86"
@@ -4812,18 +4989,19 @@
       "of": 127,
       "span": [
        0,
-       176
+       179
       ],
       "whole": true
      }
     }
    },
-   "text": "亦如有人習射法 習之不住經多歲 射法久習得盡妙 一一箭發無不中"
+   "text": "亦如有人習射法習之不住經多歲射法久習得盡妙一一箭發無不中"
   },
   "4-96": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 217
+    "row": 217,
+    "line_breaks": 3
    },
    "targets": [
     "4-87"
@@ -4837,18 +5015,19 @@
       "of": 120,
       "span": [
        0,
-       169
+       172
       ],
       "whole": true
      }
     }
    },
-   "text": "最上般若行亦爾 修習智慧及方便 直至眾善悉圓滿 方獲最上神通力"
+   "text": "最上般若行亦爾修習智慧及方便直至眾善悉圓滿方獲最上神通力"
   },
   "4-97": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 218
+    "row": 218,
+    "line_breaks": 3
    },
    "targets": [
     "4-88"
@@ -4862,18 +5041,19 @@
       "of": 120,
       "span": [
        0,
-       169
+       172
       ],
       "whole": true
      }
     }
    },
-   "text": "若苾芻證神通力 現神變化住虛空 行住坐臥四威儀 經俱胝劫不退倦"
+   "text": "若苾芻證神通力現神變化住虛空行住坐臥四威儀經俱胝劫不退倦"
   },
   "4-98": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 219
+    "row": 219,
+    "line_breaks": 3
    },
    "targets": [
     "4-89"
@@ -4887,18 +5067,19 @@
       "of": 113,
       "span": [
        0,
-       163
+       166
       ],
       "whole": true
      }
     }
    },
-   "text": "住空菩薩亦如是 修無相行到彼岸 行種種行現世間 經俱胝劫不退倦"
+   "text": "住空菩薩亦如是修無相行到彼岸行種種行現世間經俱胝劫不退倦"
   },
   "4-99": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 220
+    "row": 220,
+    "line_breaks": 3
    },
    "targets": [
     "4-90"
@@ -4912,18 +5093,19 @@
       "of": 127,
       "span": [
        0,
-       177
+       180
       ],
       "whole": true
      }
     }
    },
-   "text": "如人經險遇大風 二手持蓋心專注 是人怖險不能行 直至無風乃前進"
+   "text": "如人經險遇大風二手持蓋心專注是人怖險不能行直至無風乃前進"
   },
   "4-100": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 221
+    "row": 221,
+    "line_breaks": 3
    },
    "targets": [
     "4-91"
@@ -4937,18 +5119,19 @@
       "of": 128,
       "span": [
        0,
-       178
+       181
       ],
       "whole": true
      }
     }
    },
-   "text": "大智菩薩住大悲 智慧方便為二手 執空無相願法蓋 見法不住於寂靜"
+   "text": "大智菩薩住大悲智慧方便為二手執空無相願法蓋見法不住於寂靜"
   },
   "4-101": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 222
+    "row": 222,
+    "line_breaks": 3
    },
    "targets": [
     "4-92"
@@ -4962,18 +5145,19 @@
       "of": 131,
       "span": [
        0,
-       181
+       184
       ],
       "whole": true
      }
     }
    },
-   "text": "如人求寶往寶洲 獲寶安隱而還家 是人心足而快樂 豈有眷屬心苦惱"
+   "text": "如人求寶往寶洲獲寶安隱而還家是人心足而快樂豈有眷屬心苦惱"
   },
   "4-102": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 223
+    "row": 223,
+    "line_breaks": 3
    },
    "targets": [
     "4-93"
@@ -4987,18 +5171,19 @@
       "of": 129,
       "span": [
        0,
-       179
+       182
       ],
       "whole": true
      }
     }
    },
-   "text": "詣空寶洲亦如是 獲得根力禪定寶 菩薩不住歡喜心 令諸眾生離苦惱"
+   "text": "詣空寶洲亦如是獲得根力禪定寶菩薩不住歡喜心令諸眾生離苦惱"
   },
   "4-103": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 224
+    "row": 224,
+    "line_breaks": 3
    },
    "targets": [
     "4-94"
@@ -5012,18 +5197,19 @@
       "of": 126,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "商人為利悉所經 聚落國城諸里巷 雖達寶所亦非住 大智善道而復還"
+   "text": "商人為利悉所經聚落國城諸里巷雖達寶所亦非住大智善道而復還"
   },
   "4-104": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 225
+    "row": 225,
+    "line_breaks": 3
    },
    "targets": [
     "4-95"
@@ -5037,18 +5223,19 @@
       "of": 117,
       "span": [
        0,
-       167
+       170
       ],
       "whole": true
      }
     }
    },
-   "text": "大智菩薩悉了知 聲聞緣覺解脫智 乃至佛智亦非住 何況行彼有為道"
+   "text": "大智菩薩悉了知聲聞緣覺解脫智乃至佛智亦非住何況行彼有為道"
   },
   "4-105": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 226
+    "row": 226,
+    "line_breaks": 3
    },
    "targets": [
     "4-96"
@@ -5062,18 +5249,19 @@
       "of": 120,
       "span": [
        0,
-       168
+       171
       ],
       "whole": true
      }
     }
    },
-   "text": "大智菩薩為世間 住空無相願三昧 若得寂靜無所著 乃可得知於無為"
+   "text": "大智菩薩為世間住空無相願三昧若得寂靜無所著乃可得知於無為"
   },
   "4-106": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 227
+    "row": 227,
+    "line_breaks": 3
    },
    "targets": [
     "4-97"
@@ -5087,18 +5275,19 @@
       "of": 120,
       "span": [
        0,
-       172
+       174
       ],
       "whole": true
      }
     }
    },
-   "text": "譬如人生人未識 稱其名故眾乃知 菩薩若行解脫門 於解脫門眾知識"
+   "text": "譬如人生人未識稱其名故眾乃知菩薩若行解脫門於解脫門眾知識"
   },
   "4-107": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 228
+    "row": 228,
+    "line_breaks": 3
    },
    "targets": [
     "4-98"
@@ -5112,18 +5301,19 @@
       "of": 116,
       "span": [
        0,
-       165
+       168
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩聞彼甚深法 而於諸根悉照明 住空無相無願法 無退無思無授記"
+   "text": "菩薩聞彼甚深法而於諸根悉照明住空無相無願法無退無思無授記"
   },
   "5-1": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 229
+    "row": 229,
+    "line_breaks": 3
    },
    "targets": [
     "5-1"
@@ -5137,18 +5327,19 @@
       "of": 158,
       "span": [
        0,
-       223
+       227
       ],
       "whole": true
      }
     }
    },
-   "text": "觀於三界如夢幻 不求聲聞緣覺地 如佛說法為世間 名不退地應授記"
+   "text": "觀於三界如夢幻不求聲聞緣覺地如佛說法為世間名不退地應授記"
   },
   "5-2": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 230
+    "row": 230,
+    "line_breaks": 3
    },
    "targets": [
     "5-2"
@@ -5162,18 +5353,19 @@
       "of": 127,
       "span": [
        0,
-       177
+       180
       ],
       "whole": true
      }
     }
    },
-   "text": "知諸眾生墮三塗 發願剎那滅惡道 以真實力滅火蘊 名不退地應授記"
+   "text": "知諸眾生墮三塗發願剎那滅惡道以真實力滅火蘊名不退地應授記"
   },
   "5-3": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 231
+    "row": 231,
+    "line_breaks": 3
    },
    "targets": [
     "5-3"
@@ -5187,13 +5379,13 @@
       "of": 131,
       "span": [
        0,
-       180
+       183
       ],
       "whole": true
      }
     }
    },
-   "text": "諸惡宿曜及鬼神 作種種疫惱世間 真實願力悉滅除 無我能作應授記"
+   "text": "諸惡宿曜及鬼神作種種疫惱世間真實願力悉滅除無我能作應授記"
   },
   "5-4": {
    "source": {
@@ -5209,7 +5401,8 @@
   "5-5": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 234
+    "row": 234,
+    "line_breaks": 3
    },
    "targets": [
     "5-4"
@@ -5223,18 +5416,19 @@
       "of": 132,
       "span": [
        0,
-       180
+       183
       ],
       "whole": true
      }
     }
    },
-   "text": "我得授記非能所 是實願力得增長 若見授記及能所 是名執著及少智"
+   "text": "我得授記非能所是實願力得增長若見授記及能所是名執著及少智"
   },
   "5-6": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 235
+    "row": 235,
+    "line_breaks": 3
    },
    "targets": [
     "5-5"
@@ -5248,18 +5442,19 @@
       "of": 127,
       "span": [
        0,
-       178
+       181
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩有執魔即知 現親友相來嬈惱 或作父母七代人 言汝名此佛可證"
+   "text": "菩薩有執魔即知現親友相來嬈惱或作父母七代人言汝名此佛可證"
   },
   "5-7": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 236
+    "row": 236,
+    "line_breaks": 3
    },
    "targets": [
     "5-6"
@@ -5273,18 +5468,19 @@
       "of": 140,
       "span": [
        0,
-       189
+       192
       ],
       "whole": true
      }
     }
    },
-   "text": "魔所現作無數相 皆云愍汝作利樂 菩薩聞已有所忻 是名少智魔所著"
+   "text": "魔所現作無數相皆云愍汝作利樂菩薩聞已有所忻是名少智魔所著"
   },
   "5-8": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 237
+    "row": 237,
+    "line_breaks": 3
    },
    "targets": [
     "5-7"
@@ -5298,18 +5494,19 @@
       "of": 131,
       "span": [
        0,
-       182
+       185
       ],
       "whole": true
      }
     }
    },
-   "text": "或住城隍及聚落 山林曠野寂靜處 自稱己德毀他人 應知少智為魔作"
+   "text": "或住城隍及聚落山林曠野寂靜處自稱己德毀他人應知少智為魔作"
   },
   "5-9": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 238
+    "row": 238,
+    "line_breaks": 3
    },
    "targets": [
     "5-8"
@@ -5323,18 +5520,19 @@
       "of": 136,
       "span": [
        0,
-       186
+       189
       ],
       "whole": true
      }
     }
    },
-   "text": "雖住城隍聚落中 不求聲聞緣覺證 此心為度眾生故 我說是名為菩薩"
+   "text": "雖住城隍聚落中不求聲聞緣覺證此心為度眾生故我說是名為菩薩"
   },
   "5-10": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 239
+    "row": 239,
+    "line_breaks": 3
    },
    "targets": [
     "5-9"
@@ -5348,18 +5546,19 @@
       "of": 122,
       "span": [
        0,
-       172
+       175
       ],
       "whole": true
      }
     }
    },
-   "text": "五百由旬山險深 共諸惡獸多年住 若見逼迫著我慢 若無分別知菩薩"
+   "text": "五百由旬山險深共諸惡獸多年住若見逼迫著我慢若無分別知菩薩"
   },
   "5-11": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 240
+    "row": 240,
+    "line_breaks": 3
    },
    "targets": [
     "5-10"
@@ -5373,18 +5572,19 @@
       "of": 136,
       "span": [
        0,
-       186
+       189
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩住彼為世間 得力解脫三摩地 彼著山野寂靜行 此亦知彼魔所作"
+   "text": "菩薩住彼為世間得力解脫三摩地彼著山野寂靜行此亦知彼魔所作"
   },
   "5-12": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 241
+    "row": 241,
+    "line_breaks": 3
    },
    "targets": [
     "5-11"
@@ -5398,13 +5598,13 @@
       "of": 129,
       "span": [
        0,
-       179
+       182
       ],
       "whole": true
      }
     }
    },
-   "text": "雖住城隍及山野 樂佛菩提離二乘 修如是行利世間 一念如秤名菩薩"
+   "text": "雖住城隍及山野樂佛菩提離二乘修如是行利世間一念如秤名菩薩"
   },
   "5-13": {
    "source": {
@@ -5420,7 +5620,8 @@
   "5-14": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 244
+    "row": 244,
+    "line_breaks": 3
    },
    "targets": [
     "5-12"
@@ -5434,18 +5635,19 @@
       "of": 118,
       "span": [
        0,
-       167
+       170
       ],
       "whole": true
      }
     }
    },
-   "text": "有大智者依師學 速疾得證無上覺 亦如良醫除眾患 學從善友心無疑"
+   "text": "有大智者依師學速疾得證無上覺亦如良醫除眾患學從善友心無疑"
   },
   "5-15": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 245
+    "row": 245,
+    "line_breaks": 3
    },
    "targets": [
     "5-13"
@@ -5459,18 +5661,19 @@
       "of": 140,
       "span": [
        0,
-       189
+       192
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩行佛菩提行 依彼善友波羅蜜 此最上地能調伏 為二種事證菩提"
+   "text": "菩薩行佛菩提行依彼善友波羅蜜此最上地能調伏為二種事證菩提"
   },
   "5-16": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 246
+    "row": 246,
+    "line_breaks": 3
    },
    "targets": [
     "5-14"
@@ -5484,18 +5687,19 @@
       "of": 126,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "過去未來十方佛 行此正道無異路 行佛菩提最上行 說波羅蜜如電光"
+   "text": "過去未來十方佛行此正道無異路行佛菩提最上行說波羅蜜如電光"
   },
   "5-17": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 247
+    "row": 247,
+    "line_breaks": 3
    },
    "targets": [
     "5-15"
@@ -5509,18 +5713,19 @@
       "of": 122,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "如彼般若空無相 知諸法相亦如是 了知一切法皆空 此即名行佛般若"
+   "text": "如彼般若空無相知諸法相亦如是了知一切法皆空此即名行佛般若"
   },
   "5-18": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 248
+    "row": 248,
+    "line_breaks": 3
    },
    "targets": [
     "5-16"
@@ -5534,18 +5739,19 @@
       "of": 125,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "繫著色欲及飲食 常在輪迴不休息 此愚迷人所見倒 於不實法生實想"
+   "text": "繫著色欲及飲食常在輪迴不休息此愚迷人所見倒於不實法生實想"
   },
   "5-19": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 249
+    "row": 249,
+    "line_breaks": 3
    },
    "targets": [
     "5-17"
@@ -5559,18 +5765,19 @@
       "of": 123,
       "span": [
        0,
-       172
+       175
       ],
       "whole": true
      }
     }
    },
-   "text": "譬如得食疑有毒 以虛妄見而不食 愚人妄心生我想 以我想故有生死"
+   "text": "譬如得食疑有毒以虛妄見而不食愚人妄心生我想以我想故有生死"
   },
   "5-20": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 250
+    "row": 250,
+    "line_breaks": 3
    },
    "targets": [
     "5-18"
@@ -5584,18 +5791,19 @@
       "of": 126,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "亦如恒說諸煩惱 於諸煩惱不著相 煩惱清淨俱無有 如是菩薩知般若"
+   "text": "亦如恒說諸煩惱於諸煩惱不著相煩惱清淨俱無有如是菩薩知般若"
   },
   "5-21": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 251
+    "row": 251,
+    "line_breaks": 3
    },
    "targets": [
     "5-19"
@@ -5609,18 +5817,19 @@
       "of": 126,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "如閻浮提諸眾生 皆發無上菩提心 多千俱胝劫布施 迴施一切證菩提"
+   "text": "如閻浮提諸眾生皆發無上菩提心多千俱胝劫布施迴施一切證菩提"
   },
   "5-22": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 252
+    "row": 252,
+    "line_breaks": 3
    },
    "targets": [
     "5-20"
@@ -5634,18 +5843,19 @@
       "of": 121,
       "span": [
        0,
-       170
+       173
       ],
       "whole": true
      }
     }
    },
-   "text": "若復有人於一日 奉行最上般若行 千俱胝施不及一 行般若功無為故"
+   "text": "若復有人於一日奉行最上般若行千俱胝施不及一行般若功無為故"
   },
   "5-23": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 253
+    "row": 253,
+    "line_breaks": 3
    },
    "targets": [
     "5-21"
@@ -5659,18 +5869,19 @@
       "of": 140,
       "span": [
        0,
-       189
+       192
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩大悲行般若 度眾生故不起想 恒行乞食於國城 是得一切名大智"
+   "text": "菩薩大悲行般若度眾生故不起想恒行乞食於國城是得一切名大智"
   },
   "5-24": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 254
+    "row": 254,
+    "line_breaks": 3
    },
    "targets": [
     "5-22"
@@ -5684,18 +5895,19 @@
       "of": 125,
       "span": [
        0,
-       174
+       177
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩欲度於人天 乃至三塗極苦眾 皆令速到於彼岸 晝夜勤行於般若"
+   "text": "菩薩欲度於人天乃至三塗極苦眾皆令速到於彼岸晝夜勤行於般若"
   },
   "5-25": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 255
+    "row": 255,
+    "line_breaks": 3
    },
    "targets": [
     "5-23"
@@ -5709,18 +5921,19 @@
       "of": 119,
       "span": [
        0,
-       168
+       171
       ],
       "whole": true
      }
     }
    },
-   "text": "如人欲求無價寶 必過大海諸險難 無心忽爾而獲得 憂惱皆除喜無量"
+   "text": "如人欲求無價寶必過大海諸險難無心忽爾而獲得憂惱皆除喜無量"
   },
   "5-26": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 256
+    "row": 256,
+    "line_breaks": 3
    },
    "targets": [
     "5-24"
@@ -5734,13 +5947,13 @@
       "of": 125,
       "span": [
        0,
-       174
+       177
       ],
       "whole": true
      }
     }
    },
-   "text": "求菩提寶亦如是 勤行般若諸功德 得無取捨無上寶 菩薩速證於菩提◎"
+   "text": "求菩提寶亦如是勤行般若諸功德得無取捨無上寶菩薩速證於菩提◎"
   },
   "5-27": {
    "source": {
@@ -5756,7 +5969,8 @@
   "5-28": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 258
+    "row": 258,
+    "line_breaks": 2
    },
    "alignment": {
     "pair_row": 258,
@@ -5767,7 +5981,8 @@
   "5-29": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 259
+    "row": 259,
+    "line_breaks": 3
    },
    "targets": [
     "5-25"
@@ -5781,18 +5996,19 @@
       "of": 123,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "日出光明照世間 雲幻焰散黑闇滅 所有螢光及眾星 乃至滿月皆映蔽"
+   "text": "日出光明照世間雲幻焰散黑闇滅所有螢光及眾星乃至滿月皆映蔽"
   },
   "5-30": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 260
+    "row": 260,
+    "line_breaks": 3
    },
    "targets": [
     "5-26"
@@ -5806,18 +6022,19 @@
       "of": 130,
       "span": [
        0,
-       180
+       183
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩住空無相願 行於最上大智行 羅漢緣覺證皆超 一切邪見俱能破"
+   "text": "菩薩住空無相願行於最上大智行羅漢緣覺證皆超一切邪見俱能破"
   },
   "5-31": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 261
+    "row": 261,
+    "line_breaks": 3
    },
    "targets": [
     "5-27"
@@ -5831,18 +6048,19 @@
       "of": 128,
       "span": [
        0,
-       179
+       181
       ],
       "whole": true
      }
     }
    },
-   "text": "譬如王子施財寶 自在能利諸眾生 眾生歡喜悉隨順 無疑當得嗣王位"
+   "text": "譬如王子施財寶自在能利諸眾生眾生歡喜悉隨順無疑當得嗣王位"
   },
   "5-32": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 262
+    "row": 262,
+    "line_breaks": 3
    },
    "targets": [
     "5-28"
@@ -5856,13 +6074,13 @@
       "of": 128,
       "span": [
        0,
-       178
+       181
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩勤行大智行 施甘露法利群生 一切人天悉愛樂 決定當證法王位"
+   "text": "菩薩勤行大智行施甘露法利群生一切人天悉愛樂決定當證法王位"
   },
   "5-33": {
    "source": {
@@ -5878,7 +6096,8 @@
   "5-34": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 265
+    "row": 265,
+    "line_breaks": 3
    },
    "targets": [
     "5-29"
@@ -5892,18 +6111,19 @@
       "of": 132,
       "span": [
        0,
-       182
+       185
       ],
       "whole": true
      }
     }
    },
-   "text": "魔恐菩薩證法王 雖處天宮常憂惱 放火掣電現諸相 欲令菩薩生退懼"
+   "text": "魔恐菩薩證法王雖處天宮常憂惱放火掣電現諸相欲令菩薩生退懼"
   },
   "5-35": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 266
+    "row": 266,
+    "line_breaks": 3
    },
    "targets": [
     "5-30"
@@ -5917,18 +6137,19 @@
       "of": 120,
       "span": [
        0,
-       170
+       173
       ],
       "whole": true
      }
     }
    },
-   "text": "大智菩薩心不動 晝夜常觀般若義 如鳥飛空心泰然 一切魔事無能為"
+   "text": "大智菩薩心不動晝夜常觀般若義如鳥飛空心泰然一切魔事無能為"
   },
   "5-36": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 267
+    "row": 267,
+    "line_breaks": 3
    },
    "targets": [
     "5-31"
@@ -5942,18 +6163,19 @@
       "of": 132,
       "span": [
        0,
-       182
+       185
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩若起瞋怒心 於晝夜分或鬪諍 時魔歡喜而精勤 菩薩是遠於佛智"
+   "text": "菩薩若起瞋怒心於晝夜分或鬪諍時魔歡喜而精勤菩薩是遠於佛智"
   },
   "5-37": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 268
+    "row": 268,
+    "line_breaks": 3
    },
    "targets": [
     "5-32"
@@ -5967,18 +6189,19 @@
       "of": 121,
       "span": [
        0,
-       170
+       173
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩或諍或瞋怒 毘舍左鬼得其便 入彼菩薩身心中 令退菩提魔所作"
+   "text": "菩薩或諍或瞋怒毘舍左鬼得其便入彼菩薩身心中令退菩提魔所作"
   },
   "5-38": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 269
+    "row": 269,
+    "line_breaks": 3
    },
    "targets": [
     "5-33"
@@ -5992,18 +6215,19 @@
       "of": 124,
       "span": [
        0,
-       172
+       175
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩授記未授記 或起瞋怒或鬪諍 乃至心念皆過失 知已倍更勤修行"
+   "text": "菩薩授記未授記或起瞋怒或鬪諍乃至心念皆過失知已倍更勤修行"
   },
   "5-39": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 270
+    "row": 270,
+    "line_breaks": 3
    },
    "targets": [
     "5-34"
@@ -6017,13 +6241,13 @@
       "of": 133,
       "span": [
        0,
-       183
+       186
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩思念於諸佛 皆從忍辱證菩提 懺悔如說持正行 是如佛法而修學"
+   "text": "菩薩思念於諸佛皆從忍辱證菩提懺悔如說持正行是如佛法而修學"
   },
   "5-40": {
    "source": {
@@ -6039,7 +6263,8 @@
   "5-41": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 273
+    "row": 273,
+    "line_breaks": 3
    },
    "targets": [
     "5-35"
@@ -6053,18 +6278,19 @@
       "of": 123,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "若學戒法有作相 而於戒法不善學 知戒非戒無二相 如是乃名學佛法"
+   "text": "若學戒法有作相而於戒法不善學知戒非戒無二相如是乃名學佛法"
   },
   "5-42": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 274
+    "row": 274,
+    "line_breaks": 3
    },
    "targets": [
     "5-36"
@@ -6078,18 +6304,19 @@
       "of": 130,
       "span": [
        0,
-       179
+       182
       ],
       "whole": true
      }
     }
    },
-   "text": "若有菩薩住無相 受持不離名持戒 於佛法學樂承事 是名善學而無著"
+   "text": "若有菩薩住無相受持不離名持戒於佛法學樂承事是名善學而無著"
   },
   "5-43": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 275
+    "row": 275,
+    "line_breaks": 3
    },
    "targets": [
     "5-37"
@@ -6103,18 +6330,19 @@
       "of": 122,
       "span": [
        0,
-       171
+       174
       ],
       "whole": true
      }
     }
    },
-   "text": "是大智者如是學 心永不生不善法 如日虛空而往來 放百千光破黑闇"
+   "text": "是大智者如是學心永不生不善法如日虛空而往來放百千光破黑闇"
   },
   "5-44": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 276
+    "row": 276,
+    "line_breaks": 3
    },
    "targets": [
     "5-38"
@@ -6128,18 +6356,19 @@
       "of": 124,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "若學般若住無為 能攝一切波羅蜜 六十二見身見攝 般若攝受亦復爾"
+   "text": "若學般若住無為能攝一切波羅蜜六十二見身見攝般若攝受亦復爾"
   },
   "5-45": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 277
+    "row": 277,
+    "line_breaks": 3
    },
    "targets": [
     "5-39"
@@ -6153,18 +6382,19 @@
       "of": 120,
       "span": [
        0,
-       169
+       172
       ],
       "whole": true
      }
     }
    },
-   "text": "譬如有人具諸根 命根滅故諸根滅 若諸菩薩行大智 亦行一切波羅蜜"
+   "text": "譬如有人具諸根命根滅故諸根滅若諸菩薩行大智亦行一切波羅蜜"
   },
   "5-46": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 278
+    "row": 278,
+    "line_breaks": 3
    },
    "targets": [
     "5-40"
@@ -6178,13 +6408,13 @@
       "of": 120,
       "span": [
        0,
-       171
+       174
       ],
       "whole": true
      }
     }
    },
-   "text": "聲聞緣覺諸功德 大智菩薩悉皆學 雖學非住亦非求 所學之學此為義"
+   "text": "聲聞緣覺諸功德大智菩薩悉皆學雖學非住亦非求所學之學此為義"
   },
   "5-47": {
    "source": {
@@ -6200,7 +6430,8 @@
   "5-48": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 281
+    "row": 281,
+    "line_breaks": 3
    },
    "targets": [
     "5-41"
@@ -6214,18 +6445,19 @@
       "of": 108,
       "span": [
        0,
-       158
+       161
       ],
       "whole": true
      }
     }
    },
-   "text": "若發志心而隨喜 最上菩提不退行 三千須彌重無量 隨喜善法重過彼"
+   "text": "若發志心而隨喜最上菩提不退行三千須彌重無量隨喜善法重過彼"
   },
   "5-49": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 282
+    "row": 282,
+    "line_breaks": 3
    },
    "targets": [
     "5-42"
@@ -6239,18 +6471,19 @@
       "of": 128,
       "span": [
        0,
-       177
+       180
       ],
       "whole": true
      }
     }
    },
-   "text": "眾生為求解脫法 一切隨喜作福蘊 作佛功德法迴施 當為世間盡諸苦"
+   "text": "眾生為求解脫法一切隨喜作福蘊作佛功德法迴施當為世間盡諸苦"
   },
   "5-50": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 283
+    "row": 283,
+    "line_breaks": 3
    },
    "targets": [
     "5-43"
@@ -6264,18 +6497,19 @@
       "of": 130,
       "span": [
        0,
-       179
+       182
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩不著諸法空 了知無相無罣礙內心亦不求覺智 是行最上波羅蜜"
+   "text": "菩薩不著諸法空了知無相無罣礙內心亦不求覺智是行最上波羅蜜"
   },
   "5-51": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 284
+    "row": 284,
+    "line_breaks": 3
    },
    "targets": [
     "5-44"
@@ -6289,18 +6523,19 @@
       "of": 111,
       "span": [
        0,
-       161
+       164
       ],
       "whole": true
      }
     }
    },
-   "text": "如虛空界無障礙 無所得故亦不有 大智菩薩亦復然 住寂靜行如虛空"
+   "text": "如虛空界無障礙無所得故亦不有大智菩薩亦復然住寂靜行如虛空"
   },
   "5-52": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 285
+    "row": 285,
+    "line_breaks": 3
    },
    "targets": [
     "5-45"
@@ -6314,18 +6549,19 @@
       "of": 128,
       "span": [
        0,
-       178
+       181
       ],
       "whole": true
      }
     }
    },
-   "text": "如有幻師作幻人 眾人見幻而皆喜 幻人雖現種種相 名字身心俱不實"
+   "text": "如有幻師作幻人眾人見幻而皆喜幻人雖現種種相名字身心俱不實"
   },
   "5-53": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 286
+    "row": 286,
+    "line_breaks": 3
    },
    "targets": [
     "5-46"
@@ -6339,18 +6575,19 @@
       "of": 121,
       "span": [
        0,
-       170
+       173
       ],
       "whole": true
      }
     }
    },
-   "text": "行般若行亦復然 為世間說證菩提 乃至種種所作事 如幻師現悉無著"
+   "text": "行般若行亦復然為世間說證菩提乃至種種所作事如幻師現悉無著"
   },
   "5-54": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 287
+    "row": 287,
+    "line_breaks": 3
    },
    "targets": [
     "5-47"
@@ -6364,18 +6601,19 @@
       "of": 126,
       "span": [
        0,
-       176
+       179
       ],
       "whole": true
      }
     }
    },
-   "text": "佛佛化現諸佛事 所作皆無彼我相 菩薩大智行亦然 一切現行如幻化"
+   "text": "佛佛化現諸佛事所作皆無彼我相菩薩大智行亦然一切現行如幻化"
   },
   "5-55": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 288
+    "row": 288,
+    "line_breaks": 3
    },
    "targets": [
     "5-48"
@@ -6389,13 +6627,13 @@
       "of": 120,
       "span": [
        0,
-       171
+       174
       ],
       "whole": true
      }
     }
    },
-   "text": "如木匠人心善巧 一木造作種種相 菩薩大智亦復然 無著智行一切行"
+   "text": "如木匠人心善巧一木造作種種相菩薩大智亦復然無著智行一切行"
   },
   "5-56": {
    "source": {
@@ -6411,7 +6649,8 @@
   "5-57": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 291
+    "row": 291,
+    "line_breaks": 3
    },
    "targets": [
     "5-49"
@@ -6425,18 +6664,19 @@
       "of": 134,
       "span": [
        0,
-       184
+       187
       ],
       "whole": true
      }
     }
    },
-   "text": "大智菩薩行如是 天人合掌恭敬禮 乃至十方佛剎中 亦得功德鬘供養"
+   "text": "大智菩薩行如是天人合掌恭敬禮乃至十方佛剎中亦得功德鬘供養"
   },
   "5-58": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 292
+    "row": 292,
+    "line_breaks": 3
    },
    "targets": [
     "5-50"
@@ -6450,18 +6690,19 @@
       "of": 118,
       "span": [
        0,
-       168
+       171
       ],
       "whole": true
      }
     }
    },
-   "text": "假使恒河沙佛剎 所有眾生皆作魔 一一毛變無邊相 不能嬈動於菩薩"
+   "text": "假使恒河沙佛剎所有眾生皆作魔一一毛變無邊相不能嬈動於菩薩"
   },
   "5-59": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 293
+    "row": 293,
+    "line_breaks": 3
    },
    "targets": [
     "5-51"
@@ -6475,18 +6716,19 @@
       "of": 140,
       "span": [
        0,
-       190
+       193
       ],
       "whole": true
      }
     }
    },
-   "text": "大智菩薩有四力 而彼四魔不能動 空行亦不捨眾生 菩薩慈悲處利樂"
+   "text": "大智菩薩有四力而彼四魔不能動空行亦不捨眾生菩薩慈悲處利樂"
   },
   "5-60": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 294
+    "row": 294,
+    "line_breaks": 3
    },
    "targets": [
     "5-52"
@@ -6500,18 +6742,19 @@
       "of": 124,
       "span": [
        0,
-       174
+       177
       ],
       "whole": true
      }
     }
    },
-   "text": "佛母般若波羅蜜 菩薩了知深信重 內心真實而奉行 應知是行一切智"
+   "text": "佛母般若波羅蜜菩薩了知深信重內心真實而奉行應知是行一切智"
   },
   "5-61": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 295
+    "row": 295,
+    "line_breaks": 3
    },
    "targets": [
     "5-53"
@@ -6525,18 +6768,19 @@
       "of": 134,
       "span": [
        0,
-       184
+       187
       ],
       "whole": true
      }
     }
    },
-   "text": "法界如實不可得 由如虛空無處所 如天宮殿應念生 亦如飛禽思菓樹"
+   "text": "法界如實不可得由如虛空無處所如天宮殿應念生亦如飛禽思菓樹"
   },
   "5-62": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 296
+    "row": 296,
+    "line_breaks": 3
    },
    "targets": [
     "5-54"
@@ -6550,18 +6794,19 @@
       "of": 131,
       "span": [
        0,
-       180
+       183
       ],
       "whole": true
      }
     }
    },
-   "text": "大智菩薩如是行 住彼寂靜之功德 法不可見亦無說 菩提非得非不得"
+   "text": "大智菩薩如是行住彼寂靜之功德法不可見亦無說菩提非得非不得"
   },
   "5-63": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 297
+    "row": 297,
+    "line_breaks": 3
    },
    "targets": [
     "5-55"
@@ -6575,18 +6820,19 @@
       "of": 116,
       "span": [
        0,
-       165
+       168
       ],
       "whole": true
      }
     }
    },
-   "text": "所有聲聞及緣覺 修行寂靜三摩地 愛樂寂靜得解脫 唯佛超出於一切"
+   "text": "所有聲聞及緣覺修行寂靜三摩地愛樂寂靜得解脫唯佛超出於一切"
   },
   "5-64": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 298
+    "row": 298,
+    "line_breaks": 3
    },
    "targets": [
     "5-56"
@@ -6600,18 +6846,19 @@
       "of": 120,
       "span": [
        0,
-       169
+       172
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩依禪到彼岸 不住寂靜行如空 如禽飛翔不墮地 如魚水中行自在"
+   "text": "菩薩依禪到彼岸不住寂靜行如空如禽飛翔不墮地如魚水中行自在"
   },
   "5-65": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 299
+    "row": 299,
+    "line_breaks": 3
    },
    "targets": [
     "5-57"
@@ -6625,13 +6872,13 @@
       "of": 130,
       "span": [
        0,
-       182
+       185
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩若為諸眾生 當求未曾有佛智 施與最上第一法 此名最上行行者"
+   "text": "菩薩若為諸眾生當求未曾有佛智施與最上第一法此名最上行行者"
   },
   "5-66": {
    "source": {
@@ -6647,7 +6894,8 @@
   "5-67": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 302
+    "row": 302,
+    "line_breaks": 3
    },
    "targets": [
     "5-58"
@@ -6661,18 +6909,19 @@
       "of": 127,
       "span": [
        0,
-       178
+       181
       ],
       "whole": true
      }
     }
    },
-   "text": "如來說戒波羅蜜 一切戒中為第一 智者欲奉一切戒 當學佛戒波羅蜜"
+   "text": "如來說戒波羅蜜一切戒中為第一智者欲奉一切戒當學佛戒波羅蜜"
   },
   "5-68": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 303
+    "row": 303,
+    "line_breaks": 3
    },
    "targets": [
     "5-59"
@@ -6686,18 +6935,19 @@
       "of": 141,
       "span": [
        0,
-       190
+       193
       ],
       "whole": true
      }
     }
    },
-   "text": "今此法藏諸佛母 為最第一快樂所 過現未來十方佛 生此法界而無盡"
+   "text": "今此法藏諸佛母為最第一快樂所過現未來十方佛生此法界而無盡"
   },
   "5-69": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 304
+    "row": 304,
+    "line_breaks": 3
    },
    "targets": [
     "5-60"
@@ -6711,18 +6961,19 @@
       "of": 111,
       "span": [
        0,
-       160
+       163
       ],
       "whole": true
      }
     }
    },
-   "text": "一切樹林華菓等 皆從大地而生長 大地不厭亦不著 不減不增復不倦"
+   "text": "一切樹林華菓等皆從大地而生長大地不厭亦不著不減不增復不倦"
   },
   "5-70": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 305
+    "row": 305,
+    "line_breaks": 3
    },
    "targets": [
     "5-61"
@@ -6736,18 +6987,19 @@
       "of": 122,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "佛及聲聞緣覺等 天及世間安隱法 皆從般若之所生 般若無增亦無減"
+   "text": "佛及聲聞緣覺等天及世間安隱法皆從般若之所生般若無增亦無減"
   },
   "5-71": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 306
+    "row": 306,
+    "line_breaks": 3
    },
    "targets": [
     "5-62"
@@ -6761,18 +7013,19 @@
       "of": 133,
       "span": [
        0,
-       183
+       186
       ],
       "whole": true
      }
     }
    },
-   "text": "世間上中下眾生 一切皆從無明生 因緣和合轉苦身 無明無增亦無減"
+   "text": "世間上中下眾生一切皆從無明生因緣和合轉苦身無明無增亦無減"
   },
   "5-72": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 307
+    "row": 307,
+    "line_breaks": 3
    },
    "targets": [
     "5-63"
@@ -6786,18 +7039,19 @@
       "of": 120,
       "span": [
        0,
-       171
+       174
       ],
       "whole": true
      }
     }
    },
-   "text": "乃至方便諸法門 皆從般若所生出 彼方便法隨緣轉 般若無增亦無減"
+   "text": "乃至方便諸法門皆從般若所生出彼方便法隨緣轉般若無增亦無減"
   },
   "5-73": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 308
+    "row": 308,
+    "line_breaks": 3
    },
    "targets": [
     "5-64"
@@ -6811,13 +7065,13 @@
       "of": 128,
       "span": [
        0,
-       177
+       180
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩了知十二緣 乃至般若無增減 如日雲中放光明 破無明障證菩提"
+   "text": "菩薩了知十二緣乃至般若無增減如日雲中放光明破無明障證菩提"
   },
   "5-74": {
    "source": {
@@ -6833,7 +7087,8 @@
   "5-75": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 311
+    "row": 311,
+    "line_breaks": 3
    },
    "targets": [
     "5-65"
@@ -6847,18 +7102,19 @@
       "of": 117,
       "span": [
        0,
-       166
+       169
       ],
       "whole": true
      }
     }
    },
-   "text": "大菩薩修四禪定 如所愛樂而無住 或復不住於四禪 當得最上之菩提"
+   "text": "大菩薩修四禪定如所愛樂而無住或復不住於四禪當得最上之菩提"
   },
   "5-76": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 312
+    "row": 312,
+    "line_breaks": 3
    },
    "targets": [
     "5-66"
@@ -6872,18 +7128,19 @@
       "of": 116,
       "span": [
        0,
-       166
+       169
       ],
       "whole": true
      }
     }
    },
-   "text": "得最般若住禪定 四無色等三摩地 為得最上大禪定 而復不學諸漏盡"
+   "text": "得最般若住禪定四無色等三摩地為得最上大禪定而復不學諸漏盡"
   },
   "5-77": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 313
+    "row": 313,
+    "line_breaks": 3
    },
    "targets": [
     "5-67"
@@ -6897,18 +7154,19 @@
       "of": 118,
       "span": [
        0,
-       166
+       169
       ],
       "whole": true
      }
     }
    },
-   "text": "此功德藏未曾有 行三摩地而無相 住彼不破於我見 有心所思生欲界"
+   "text": "此功德藏未曾有行三摩地而無相住彼不破於我見有心所思生欲界"
   },
   "5-78": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 314
+    "row": 314,
+    "line_breaks": 3
    },
    "targets": [
     "5-68"
@@ -6922,18 +7180,19 @@
       "of": 128,
       "span": [
        0,
-       177
+       180
       ],
       "whole": true
      }
     }
    },
-   "text": "譬如南閻浮提人 未生諸天生北洲 見彼境界而求生 作彼住已而復還"
+   "text": "譬如南閻浮提人未生諸天生北洲見彼境界而求生作彼住已而復還"
   },
   "5-79": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 315
+    "row": 315,
+    "line_breaks": 3
    },
    "targets": [
     "5-69"
@@ -6947,18 +7206,19 @@
       "of": 125,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩所修之功德 三摩地行而相應 雖同凡夫住欲界 由如蓮華不著水"
+   "text": "菩薩所修之功德三摩地行而相應雖同凡夫住欲界由如蓮華不著水"
   },
   "5-80": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 316
+    "row": 316,
+    "line_breaks": 3
    },
    "targets": [
     "5-70"
@@ -6972,18 +7232,19 @@
       "of": 131,
       "span": [
        0,
-       181
+       184
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩度脫於眾生 圓滿淨土波羅蜜 不求生於無色界 而求菩提波羅蜜"
+   "text": "菩薩度脫於眾生圓滿淨土波羅蜜不求生於無色界而求菩提波羅蜜"
   },
   "5-81": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 317
+    "row": 317,
+    "line_breaks": 3
    },
    "targets": [
     "5-71"
@@ -6997,18 +7258,19 @@
       "of": 125,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "譬如天人獲寶藏 雖得不生愛樂心 或言天人而起心 欲收彼寶不可得"
+   "text": "譬如天人獲寶藏雖得不生愛樂心或言天人而起心欲收彼寶不可得"
   },
   "5-82": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 318
+    "row": 318,
+    "line_breaks": 3
    },
    "targets": [
     "5-72"
@@ -7022,18 +7284,19 @@
       "of": 130,
       "span": [
        0,
-       180
+       183
       ],
       "whole": true
      }
     }
    },
-   "text": "大智菩薩不樂住 四禪寂靜三摩地 出彼寂靜三摩地 而入欲界為世間"
+   "text": "大智菩薩不樂住四禪寂靜三摩地出彼寂靜三摩地而入欲界為世間"
   },
   "5-83": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 319
+    "row": 319,
+    "line_breaks": 3
    },
    "targets": [
     "5-73"
@@ -7047,18 +7310,19 @@
       "of": 133,
       "span": [
        0,
-       182
+       185
       ],
       "whole": true
      }
     }
    },
-   "text": "若菩薩行三摩地 不樂羅漢及緣覺 乃至散亂兇惡心 無知迷亂無功德"
+   "text": "若菩薩行三摩地不樂羅漢及緣覺乃至散亂兇惡心無知迷亂無功德"
   },
   "5-84": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 320
+    "row": 320,
+    "line_breaks": 3
    },
    "targets": [
     "5-74"
@@ -7072,18 +7336,19 @@
       "of": 124,
       "span": [
        0,
-       174
+       177
       ],
       "whole": true
      }
     }
    },
-   "text": "色聲香味觸五欲 及彼緣覺聲聞等 如是之法悉遠離 等引不離菩提心"
+   "text": "色聲香味觸五欲及彼緣覺聲聞等如是之法悉遠離等引不離菩提心"
   },
   "5-85": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 321
+    "row": 321,
+    "line_breaks": 3
    },
    "targets": [
     "5-75"
@@ -7097,18 +7362,19 @@
       "of": 134,
       "span": [
        0,
-       184
+       187
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩一向為眾生 修行精進波羅蜜 如僕事主心專注 雖被瞋辱而無對"
+   "text": "菩薩一向為眾生修行精進波羅蜜如僕事主心專注雖被瞋辱而無對"
   },
   "5-86": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 322
+    "row": 322,
+    "line_breaks": 1
    },
    "targets": [
     "5-76"
@@ -7122,18 +7388,19 @@
       "of": 128,
       "span": [
        0,
-       178
+       181
       ],
       "whole": true
      }
     }
    },
-   "text": "凡所動止常在心 唯恐彼主責其過"
+   "text": "凡所動止常在心唯恐彼主責其過"
   },
   "5-87": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 323
+    "row": 323,
+    "line_breaks": 3
    },
    "targets": [
     "5-77"
@@ -7147,18 +7414,19 @@
       "of": 124,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩為求佛菩提 如奴事主利眾生證得無上菩提已 利生如火燒草木"
+   "text": "菩薩為求佛菩提如奴事主利眾生證得無上菩提已利生如火燒草木"
   },
   "5-88": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 324
+    "row": 324,
+    "line_breaks": 3
    },
    "targets": [
     "5-78"
@@ -7172,13 +7440,13 @@
       "of": 116,
       "span": [
        0,
-       165
+       168
       ],
       "whole": true
      }
     }
    },
-   "text": "晝夜勤行利他行 利已內心無我相 如母愛子常衛護 寒暑雖苦心無倦"
+   "text": "晝夜勤行利他行利已內心無我相如母愛子常衛護寒暑雖苦心無倦"
   },
   "5-89": {
    "source": {
@@ -7194,7 +7462,8 @@
   "5-90": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 327
+    "row": 327,
+    "line_breaks": 3
    },
    "targets": [
     "5-79"
@@ -7208,18 +7477,19 @@
       "of": 136,
       "span": [
        0,
-       186
+       189
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩愛樂為眾生 修治佛剎清淨行 恒行精進波羅蜜 無如微塵心退倦"
+   "text": "菩薩愛樂為眾生修治佛剎清淨行恒行精進波羅蜜無如微塵心退倦"
   },
   "5-91": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 328
+    "row": 328,
+    "line_breaks": 3
    },
    "targets": [
     "5-80"
@@ -7233,18 +7503,19 @@
       "of": 134,
       "span": [
        0,
-       184
+       187
       ],
       "whole": true
      }
     }
    },
-   "text": "大智菩薩俱胝劫 久修苦行為菩提 不離精進波羅蜜 無懈怠心終得證"
+   "text": "大智菩薩俱胝劫久修苦行為菩提不離精進波羅蜜無懈怠心終得證"
   },
   "5-92": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 329
+    "row": 329,
+    "line_breaks": 3
    },
    "targets": [
     "5-81"
@@ -7258,18 +7529,19 @@
       "of": 125,
       "span": [
        0,
-       174
+       177
       ],
       "whole": true
      }
     }
    },
-   "text": "從初發心為菩提 乃至得獲寂靜證 恒於晝夜行精進 大智菩薩應如是"
+   "text": "從初發心為菩提乃至得獲寂靜證恒於晝夜行精進大智菩薩應如是"
   },
   "5-93": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 330
+    "row": 330,
+    "line_breaks": 3
    },
    "targets": [
     "5-82"
@@ -7283,18 +7555,19 @@
       "of": 125,
       "span": [
        0,
-       174
+       177
       ],
       "whole": true
      }
     }
    },
-   "text": "有言能破於須彌 方證無上菩提果 聞已懈怠而退心 是彼菩薩之過失"
+   "text": "有言能破於須彌方證無上菩提果聞已懈怠而退心是彼菩薩之過失"
   },
   "5-94": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 331
+    "row": 331,
+    "line_breaks": 3
    },
    "targets": [
     "5-83"
@@ -7308,18 +7581,19 @@
       "of": 131,
       "span": [
        0,
-       180
+       183
       ],
       "whole": true
      }
     }
    },
-   "text": "大智菩薩聞是言 謂須彌盧甚微小 於一念間可破壞 亦不住證佛菩提"
+   "text": "大智菩薩聞是言謂須彌盧甚微小於一念間可破壞亦不住證佛菩提"
   },
   "5-95": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 332
+    "row": 332,
+    "line_breaks": 3
    },
    "targets": [
     "5-84"
@@ -7333,18 +7607,19 @@
       "of": 121,
       "span": [
        0,
-       170
+       173
       ],
       "whole": true
      }
     }
    },
-   "text": "於身心語行精進 度脫世間作大利 或著我相起懈怠 而不能證佛菩提"
+   "text": "於身心語行精進度脫世間作大利或著我相起懈怠而不能證佛菩提"
   },
   "5-96": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 333
+    "row": 333,
+    "line_breaks": 3
    },
    "targets": [
     "5-85"
@@ -7358,18 +7633,19 @@
       "of": 127,
       "span": [
        0,
-       176
+       179
       ],
       "whole": true
      }
     }
    },
-   "text": "無身心相無眾生 離諸相住不二法 為求無上佛菩提 是行精進波羅蜜"
+   "text": "無身心相無眾生離諸相住不二法為求無上佛菩提是行精進波羅蜜"
   },
   "5-97": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 334
+    "row": 334,
+    "line_breaks": 3
    },
    "targets": [
     "5-86"
@@ -7383,18 +7659,19 @@
       "of": 123,
       "span": [
        0,
-       172
+       175
       ],
       "whole": true
      }
     }
    },
-   "text": "大智菩薩行利樂 令人聞言悉歡喜 說法無說無聽人 名最上忍波羅蜜"
+   "text": "大智菩薩行利樂令人聞言悉歡喜說法無說無聽人名最上忍波羅蜜"
   },
   "5-98": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 335
+    "row": 335,
+    "line_breaks": 3
    },
    "targets": [
     "5-87"
@@ -7408,18 +7685,19 @@
       "of": 139,
       "span": [
        0,
-       188
+       191
       ],
       "whole": true
      }
     }
    },
-   "text": "譬如寶滿三千界 施佛緣覺及羅漢 不如知法忍功德 百千萬分不及一"
+   "text": "譬如寶滿三千界施佛緣覺及羅漢不如知法忍功德百千萬分不及一"
   },
   "5-99": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 336
+    "row": 336,
+    "line_breaks": 3
    },
    "targets": [
     "5-88"
@@ -7433,18 +7711,19 @@
       "of": 125,
       "span": [
        0,
-       174
+       177
       ],
       "whole": true
      }
     }
    },
-   "text": "持忍菩薩得清淨 三十二相到彼岸 一切眾生悉愛樂 聞法信受而調伏"
+   "text": "持忍菩薩得清淨三十二相到彼岸一切眾生悉愛樂聞法信受而調伏"
   },
   "5-100": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 337
+    "row": 337,
+    "line_breaks": 3
    },
    "targets": [
     "5-89"
@@ -7458,18 +7737,19 @@
       "of": 116,
       "span": [
        0,
-       165
+       168
       ],
       "whole": true
      }
     }
    },
-   "text": "或有眾生以栴檀 塗菩薩身為供養 或有持火遍燒然 行平等心無瞋喜"
+   "text": "或有眾生以栴檀塗菩薩身為供養或有持火遍燒然行平等心無瞋喜"
   },
   "5-101": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 338
+    "row": 338,
+    "line_breaks": 3
    },
    "targets": [
     "5-90"
@@ -7483,18 +7763,19 @@
       "of": 134,
       "span": [
        0,
-       184
+       187
       ],
       "whole": true
      }
     }
    },
-   "text": "大智菩薩持是忍 或為緣覺及聲聞 乃至世間諸眾生 悉皆迴向佛菩提"
+   "text": "大智菩薩持是忍或為緣覺及聲聞乃至世間諸眾生悉皆迴向佛菩提"
   },
   "5-102": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 339
+    "row": 339,
+    "line_breaks": 3
    },
    "targets": [
     "5-91"
@@ -7508,18 +7789,19 @@
       "of": 140,
       "span": [
        0,
-       190
+       193
       ],
       "whole": true
      }
     }
    },
-   "text": "譬如世間貪五欲 甘忍三塗無邊苦 菩薩為求佛菩提 今何不勤持忍辱"
+   "text": "譬如世間貪五欲甘忍三塗無邊苦菩薩為求佛菩提今何不勤持忍辱"
   },
   "5-103": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 340
+    "row": 340,
+    "line_breaks": 3
    },
    "targets": [
     "5-92"
@@ -7533,13 +7815,13 @@
       "of": 127,
       "span": [
        0,
-       178
+       181
       ],
       "whole": true
      }
     }
    },
-   "text": "割截首足劓耳鼻 禁縛捶拷諸楚毒 ‘如是苦惱悉能忍 是住忍辱波羅蜜"
+   "text": "割截首足劓耳鼻禁縛捶拷諸楚毒‘如是苦惱悉能忍是住忍辱波羅蜜"
   },
   "5-104": {
    "source": {
@@ -7555,7 +7837,8 @@
   "5-105": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 343
+    "row": 343,
+    "line_breaks": 3
    },
    "targets": [
     "5-93"
@@ -7569,18 +7852,19 @@
       "of": 137,
       "span": [
        0,
-       186
+       189
       ],
       "whole": true
      }
     }
    },
-   "text": "持戒當得高名稱 亦復證得三摩地 持戒為利諸眾生 後當證於佛菩提"
+   "text": "持戒當得高名稱亦復證得三摩地持戒為利諸眾生後當證於佛菩提"
   },
   "5-106": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 344
+    "row": 344,
+    "line_breaks": 3
    },
    "targets": [
     "5-94"
@@ -7594,18 +7878,19 @@
       "of": 128,
       "span": [
        0,
-       177
+       180
       ],
       "whole": true
      }
     }
    },
-   "text": "心重緣覺及聲聞 及見破戒說他過 雖實持戒為菩提 是名持戒行五欲"
+   "text": "心重緣覺及聲聞及見破戒說他過雖實持戒為菩提是名持戒行五欲"
   },
   "5-107": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 345
+    "row": 345,
+    "line_breaks": 3
    },
    "targets": [
     "5-95"
@@ -7619,18 +7904,19 @@
       "of": 135,
       "span": [
        0,
-       184
+       187
       ],
       "whole": true
      }
     }
    },
-   "text": "欲證菩提功德法 持戒具足行利樂 若行毀破於尸羅 是則滅壞於菩提"
+   "text": "欲證菩提功德法持戒具足行利樂若行毀破於尸羅是則滅壞於菩提"
   },
   "5-108": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 346
+    "row": 346,
+    "line_breaks": 3
    },
    "targets": [
     "5-96"
@@ -7644,18 +7930,19 @@
       "of": 136,
       "span": [
        0,
-       186
+       189
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩雖樂受五欲 歸命佛法及聖眾 念我當證一切智 是住尸羅波羅蜜"
+   "text": "菩薩雖樂受五欲歸命佛法及聖眾念我當證一切智是住尸羅波羅蜜"
   },
   "5-109": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 347
+    "row": 347,
+    "line_breaks": 3
    },
    "targets": [
     "5-97"
@@ -7669,18 +7956,19 @@
       "of": 129,
       "span": [
        0,
-       178
+       181
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩經歷俱胝劫 奉行十善無間斷 心樂緣覺及羅漢 是犯波羅夷重罪"
+   "text": "菩薩經歷俱胝劫奉行十善無間斷心樂緣覺及羅漢是犯波羅夷重罪"
   },
   "5-110": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 348
+    "row": 348,
+    "line_breaks": 3
    },
    "targets": [
     "5-98"
@@ -7694,18 +7982,19 @@
       "of": 138,
       "span": [
        0,
-       187
+       190
       ],
       "whole": true
      }
     }
    },
-   "text": "持戒迴向佛菩提 而不作念求自益 但念利他諸眾生 是則持戒波羅蜜"
+   "text": "持戒迴向佛菩提而不作念求自益但念利他諸眾生是則持戒波羅蜜"
   },
   "5-111": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 349
+    "row": 349,
+    "line_breaks": 3
    },
    "targets": [
     "5-99"
@@ -7719,18 +8008,19 @@
       "of": 134,
       "span": [
        0,
-       183
+       186
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩若行諸佛道 於眾生離種種相 不見破戒諸過患 此為最上善持戒"
+   "text": "菩薩若行諸佛道於眾生離種種相不見破戒諸過患此為最上善持戒"
   },
   "5-112": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 350
+    "row": 350,
+    "line_breaks": 3
    },
    "targets": [
     "5-100"
@@ -7744,18 +8034,19 @@
       "of": 123,
       "span": [
        0,
-       172
+       175
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩要離於諸相 無我無人及壽者 不著戒相及行相 是則持戒之殊勝"
+   "text": "菩薩要離於諸相無我無人及壽者不著戒相及行相是則持戒之殊勝"
   },
   "5-113": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 351
+    "row": 351,
+    "line_breaks": 3
    },
    "targets": [
     "5-101"
@@ -7769,18 +8060,19 @@
       "of": 116,
       "span": [
        0,
-       165
+       168
       ],
       "whole": true
      }
     }
    },
-   "text": "如是具足而持戒 一切無礙無分別 頭目手足施無悋 一切所愛皆無著"
+   "text": "如是具足而持戒一切無礙無分別頭目手足施無悋一切所愛皆無著"
   },
   "5-114": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 352
+    "row": 352,
+    "line_breaks": 3
    },
    "targets": [
     "5-102"
@@ -7794,18 +8086,19 @@
       "of": 116,
       "span": [
        0,
-       165
+       168
       ],
       "whole": true
      }
     }
    },
-   "text": "了知法本空無我 乃於此身無戀著 況外財物而不捨 及彼非處而嫉妬"
+   "text": "了知法本空無我乃於此身無戀著況外財物而不捨及彼非處而嫉妬"
   },
   "5-115": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 353
+    "row": 353,
+    "line_breaks": 3
    },
    "targets": [
     "5-103"
@@ -7819,18 +8112,19 @@
       "of": 120,
       "span": [
        0,
-       169
+       172
       ],
       "whole": true
      }
     }
    },
-   "text": "於內外施生我慢 是菩薩病非為施 或起嫉妬生鬼趣 或得為人處貧賤"
+   "text": "於內外施生我慢是菩薩病非為施或起嫉妬生鬼趣或得為人處貧賤"
   },
   "5-116": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 354
+    "row": 354,
+    "line_breaks": 3
    },
    "targets": [
     "5-104"
@@ -7844,18 +8138,19 @@
       "of": 130,
       "span": [
        0,
-       180
+       183
       ],
       "whole": true
      }
     }
    },
-   "text": "知彼眾生貧賤因 菩薩發心恒布施 施如四洲草木數 如是廣大亦無相"
+   "text": "知彼眾生貧賤因菩薩發心恒布施施如四洲草木數如是廣大亦無相"
   },
   "5-117": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 355
+    "row": 355,
+    "line_breaks": 3
    },
    "targets": [
     "5-105"
@@ -7869,18 +8164,19 @@
       "of": 129,
       "span": [
        0,
-       178
+       181
       ],
       "whole": true
      }
     }
    },
-   "text": "大智菩薩行施已 復念三有諸眾生菩薩亦為彼眾生 悉皆迴向於菩提"
+   "text": "大智菩薩行施已復念三有諸眾生菩薩亦為彼眾生悉皆迴向於菩提"
   },
   "5-118": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 356
+    "row": 356,
+    "line_breaks": 3
    },
    "targets": [
     "5-106"
@@ -7894,18 +8190,19 @@
       "of": 111,
       "span": [
        0,
-       160
+       163
       ],
       "whole": true
      }
     }
    },
-   "text": "如是行施無所著 亦復不求於果報 名大智者為一切 施因雖少果無量"
+   "text": "如是行施無所著亦復不求於果報名大智者為一切施因雖少果無量"
   },
   "5-119": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 357
+    "row": 357,
+    "line_breaks": 3
    },
    "targets": [
     "5-107"
@@ -7919,18 +8216,19 @@
       "of": 125,
       "span": [
        0,
-       174
+       177
       ],
       "whole": true
      }
     }
    },
-   "text": "乃至三有諸眾生 一切皆以尊重施 如供養佛及菩薩 緣覺聲聞之功德"
+   "text": "乃至三有諸眾生一切皆以尊重施如供養佛及菩薩緣覺聲聞之功德"
   },
   "5-120": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 358
+    "row": 358,
+    "line_breaks": 3
    },
    "targets": [
     "5-108"
@@ -7944,18 +8242,19 @@
       "of": 124,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "大智菩薩以方便 用彼施福行迴向 當令一切眾生類 皆悉證得無上覺"
+   "text": "大智菩薩以方便用彼施福行迴向當令一切眾生類皆悉證得無上覺"
   },
   "5-121": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 359
+    "row": 359,
+    "line_breaks": 3
    },
    "targets": [
     "5-109"
@@ -7969,18 +8268,19 @@
       "of": 132,
       "span": [
        0,
-       180
+       183
       ],
       "whole": true
      }
     }
    },
-   "text": "如假琉璃寶大聚 不及一真琉璃寶 迴施世間一切眾 不及迴施無上覺"
+   "text": "如假琉璃寶大聚不及一真琉璃寶迴施世間一切眾不及迴施無上覺"
   },
   "5-122": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 360
+    "row": 360,
+    "line_breaks": 3
    },
    "targets": [
     "5-110"
@@ -7994,13 +8294,13 @@
       "of": 125,
       "span": [
        0,
-       174
+       177
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩行施於世間 不作我慢無所愛 I修行而得大增長 如月離障出雲中"
+   "text": "菩薩行施於世間不作我慢無所愛I修行而得大增長如月離障出雲中"
   },
   "5-123": {
    "source": {
@@ -8016,7 +8316,8 @@
   "6-1": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 363
+    "row": 363,
+    "line_breaks": 3
    },
    "targets": [
     "6-1"
@@ -8030,18 +8331,19 @@
       "of": 163,
       "span": [
        0,
-       221
+       225
       ],
       "whole": true
      }
     }
    },
-   "text": "菩薩布施濟貧乏 令得富盛度苦惱 果報永滅餓鬼趣 及得斷除諸煩惱"
+   "text": "菩薩布施濟貧乏令得富盛度苦惱果報永滅餓鬼趣及得斷除諸煩惱"
   },
   "6-2": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 364
+    "row": 364,
+    "line_breaks": 3
    },
    "targets": [
     "6-2"
@@ -8055,18 +8357,19 @@
       "of": 134,
       "span": [
        0,
-       184
+       187
       ],
       "whole": true
      }
     }
    },
-   "text": "持戒遠離畜生趣 捨八非念得正念 忍辱當得最上色 如金世間悉愛樂"
+   "text": "持戒遠離畜生趣捨八非念得正念忍辱當得最上色如金世間悉愛樂"
   },
   "6-3": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 365
+    "row": 365,
+    "line_breaks": 3
    },
    "targets": [
     "6-3"
@@ -8080,18 +8383,19 @@
       "of": 140,
       "span": [
        0,
-       190
+       193
       ],
       "whole": true
      }
     }
    },
-   "text": "精進善法獲無邊 所有功德不可盡 修行禪定離五欲 從等持得神通明"
+   "text": "精進善法獲無邊所有功德不可盡修行禪定離五欲從等持得神通明"
   },
   "6-4": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 366
+    "row": 366,
+    "line_breaks": 3
    },
    "targets": [
     "6-4"
@@ -8105,18 +8409,19 @@
       "of": 126,
       "span": [
        0,
-       175
+       178
       ],
       "whole": true
      }
     }
    },
-   "text": "智獲無邊佛法藏 慧了諸法本來因 佛知三界諸過咎 為轉法輪滅諸苦"
+   "text": "智獲無邊佛法藏慧了諸法本來因佛知三界諸過咎為轉法輪滅諸苦"
   },
   "7-1": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 367
+    "row": 367,
+    "line_breaks": 3
    },
    "targets": [
     "7-1",
@@ -8131,7 +8436,7 @@
       "of": 81,
       "span": [
        0,
-       109
+       110
       ],
       "whole": true
      },
@@ -8140,7 +8445,7 @@
       "of": 127,
       "span": [
        0,
-       172
+       175
       ],
       "whole": true
      }
@@ -8149,12 +8454,13 @@
      "spans_several_target_segments"
     ]
    },
-   "text": "菩薩此法得圓滿 佛剎清淨眾生淨 受持佛種并法種 聖眾種及一切法"
+   "text": "菩薩此法得圓滿佛剎清淨眾生淨受持佛種并法種聖眾種及一切法"
   },
   "8-1": {
    "source": {
     "file": "phakpadoepa-root-zh(bo-zh).md",
-    "row": 368
+    "row": 368,
+    "line_breaks": 3
    },
    "targets": [
     "8-2"
@@ -8168,13 +8474,13 @@
       "of": 124,
       "span": [
        0,
-       173
+       176
       ],
       "whole": true
      }
     }
    },
-   "text": "醫世間病最上師 以智慧說菩提方 寶德藏有種種藥 令眾生服悉證道"
+   "text": "醫世間病最上師以智慧說菩提方寶德藏有種種藥令眾生服悉證道"
   }
  },
  "legend": null,

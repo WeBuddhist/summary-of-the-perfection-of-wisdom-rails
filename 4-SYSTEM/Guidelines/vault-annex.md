@@ -10,7 +10,7 @@ Sections 1–3 and 7 were filled at the first intake of the corpus (2026-10-03, 
 
 ## 1. The text
 
-This vault serves **the Ratnaguṇasañcayagāthā** — the verse summary of the Perfection of Wisdom in Eight Thousand Lines — in its Sanskrit text, its Tibetan translation, a Chinese translation aligned to the Tibetan, and four Tibetan commentaries, all segmented and aligned by hand by the Dzongsar team.
+This vault serves **the Ratnaguṇasañcayagāthā** — the verse summary of the Perfection of Wisdom in Eight Thousand Lines — in its Sanskrit text, its Tibetan translation, a Chinese translation aligned to the Tibetan, and six Tibetan commentaries — four segmented and aligned by hand by the Dzongsar team, two taken from Wikisource without alignment (§3).
 
 | Order | Text | Role | File |
 | ----- | ---- | ---- | ---- |
@@ -75,7 +75,17 @@ Files: `1-SOURCES/Commentaries/*.md`. A commentary's title line and opening vers
 
 Files: `sa-ratnagunasancayagatha.md` (the Sanskrit edition's bracketed chapter titles, restorations and praśasti labels — 41 brackets) and `bo-rangjung-dorje-tika.md` (one bracketed Sanskrit word, row 8). The words are kept, the brackets removed, because Obsidian renders bracketed text like link syntax (D10, `text_corrections`; originals in the sidecar).
 
+#### ⚑ Sanskrit verse numbers removed from the text — overrides `About Sources.md` (verbatim text) (registered 2026-10-04)
+
+File: `1-SOURCES/Text/sa-ratnagunasancayagatha.md`. The edition's `॥ १,१ ॥` numbers (chapter, verse of the edition's 32 chapters; 301 of them, plus `॥ ४. ५ ॥` and the praśasti numbers `ह्प्र्`/`ल्प्र्`) are the modern editor's numbering of Vaidya's edition (GRETIL marks the same numbering, `Rgs_1.1`, as added in digitisation), not root text, and follow a different division from this file's TOC. Each is replaced by the verse-end `॥` and kept as metadata: the manifest's `text_corrections` and the block's sidecar entry (`source.corrections[].verse`, e.g. `12.4`). **Why:** the vault owner's decision of 2026-10-04 ("Remove, keep as metadata").
+
+#### ⚑ One verse line per line in the root and translations (registered 2026-10-04)
+
+Files: the three files in §1. Each block is one alignment row (in the verses, one verse) shown as its verse lines, under one block id: the Tibetan breaks after each line's shad pair (། །); the Sanskrit at the pāda boundaries of the DSBC Devanāgarī edition (book 402, copy in `0-INBOX/raw-data/dsbc-ratnagunasancayagatha/`), the edition itself marking only the half-verse; the Chinese at its seven-character phrases. Letters are unchanged; ids are unchanged. **Why:** the vault owner's instruction of 2026-10-04 (manifest `line_breaks`).
+
 ### Re-segmentation and ID-migration log
+
+**2026-10-04 — formatting and two commentaries added; no id changed.** The Sanskrit verse numbers were removed and verse line breaks added to the root and translations (see the deviations above); every block keeps its id. Two commentaries were added from Wikisource (§3). Earlier the same intake (2026-10-03 → 04) corrected 17 Wikisource heading numbers in the Rangjung Dorje and Mipham outlines before anything cited them.
 
 **2026-10-03 — first intake.** No migration: `1-SOURCES/` was empty and nothing in `2-RAILS/` or `3-TRANSFORMATIONS/` cited a source id. An earlier docx/OpenPecha-based raw-data set was removed from `0-INBOX/raw-data/` by the vault owner before this intake (it remains in git history).
 
@@ -97,10 +107,12 @@ Every commentary file in `1-SOURCES/Commentaries/` declares a `registered_id` in
 | `mipham-lekshe` | འཇུ་མི་ཕམ། — ཡོན་ཏན་རིན་ཆེན་སྡུད་པའི་འགྲེལ་པ་རྒྱལ་བའི་ཡུམ་གྱི་དགོངས་དོན་ལ་ཕྱིན་ཅི་མ་ལོག་པར་འཇུག་པའི་ལེགས་བཤད། | — | Tibetan | Wikisource Index TOC (dbu can manuscript; revision 1132490) — 453 nodes | `1-SOURCES/Commentaries/bo-mipham-lekshe.md` |
 | `shasana-dibam-bedon-dronme` | ཤཱ་ས་ན་དཱི་བཾ། — འཕགས་པ་མདོ་སྡུད་པའི་འགྲེལ་པ་རྒྱས་པ་སྦས་དོན་གསལ་བའི་སྒྲོན་མེ། | — | Tibetan | Dzongsar TOC doc labels, numbered (140) | `1-SOURCES/Commentaries/bo-shasana-dibam-bedon-dronme.md` |
 | `khenrab-jamyang-norbu-dronme` | མཁྱེན་རབ་འཇམ་དབྱངས་བློ་བཟང་འཕྲིན་ལས། — ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པ་ཚིགས་སུ་བཅད་པའི་འགྲེལ་པ་ཟབ་མོ་རྟེན་འབྱུང་གི་དེ་ཁོ་ན་ཉིད་གསལ་བར་བྱེད་པའི་ནོར་བུའི་སྒྲོན་མེ་སྐལ་བཟང་རེ་སྐོང་། | — | Tibetan | Dzongsar TOC doc labels, numbered (143) | `1-SOURCES/Commentaries/bo-khenrab-jamyang-norbu-dronme.md` |
+| `cone-drakpa-shedrup-gyalwe-gongsal` | ཅོ་ནེ་གྲགས་པ་བཤད་སྒྲུབ། — སྡུད་པའི་འགྲེལ་པ་རྒྱལ་བའི་དགོངས་གསལ། | — | Tibetan | Wikisource Index TOC (ཤིང་པར།; revision 1177625) — 72 nodes | `1-SOURCES/Commentaries/bo-cone-drakpa-shedrup-gyalwe-gongsal.md` |
+| `senge-zangpo-kadrel` | སློབ་དཔོན་སེངྒེ་བཟང་པོ། — བཅོམ་ལྡན་འདས་ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པའི་ཚིགས་སུ་བཅད་པའི་དཀའ་འགྲེལ། | — | Tibetan | Wikisource Index TOC (Derge Tengyur; revision 1132976) — its 32 chapters | `1-SOURCES/Commentaries/bo-senge-zangpo-kadrel.md` |
 
-`rangjung-dorje-tika` is named from the text's self-attribution (བདག་འདྲའི་སེམས་དཔའ་རང་བྱུང་རྡོ་རྗེ་ཡིས།) and the text sheet; its frontmatter `author` is left empty on the vault owner's instruction (2026-10-03) because the metadata sheet names Karmapa Mikyo Dorje instead — for the text expert to settle. `shasana-dibam-bedon-dronme` and `khenrab-jamyang-norbu-dronme` are not in the vault owner's text sheet; they were ingested on the vault owner's instruction (2026-10-03). School is left blank where the raw data does not record it.
+`rangjung-dorje-tika` is named from the text's self-attribution (བདག་འདྲའི་སེམས་དཔའ་རང་བྱུང་རྡོ་རྗེ་ཡིས།) and the text sheet; its frontmatter `author` is left empty on the vault owner's instruction (2026-10-03) because the metadata sheet names Karmapa Mikyo Dorje instead — for the text expert to settle. `shasana-dibam-bedon-dronme` and `khenrab-jamyang-norbu-dronme` are not in the vault owner's text sheet; they were ingested on the vault owner's instruction (2026-10-03). `cone-drakpa-shedrup-gyalwe-gongsal` and `senge-zangpo-kadrel` (sheet rows 3 and 4) have no Dzongsar export: their text was taken from their Wikisource Index pages on the vault owner's instruction (2026-10-04), one block per TOC section, with **no transclusions** (no human alignment exists; `alignment_status: none`). School is left blank where the raw data does not record it.
 
-**Tier ordering.** These are independent works, not a root commentary with sub-commentaries. Present them in the order of this roster (the order of the Dzongsar files, comm-1 … comm-4). Do not invent a hierarchy.
+**Tier ordering.** These are independent works, not a root commentary with sub-commentaries. Present them in the order of this roster (the Dzongsar files comm-1 … comm-4, then the two Wikisource-only texts). Do not invent a hierarchy.
 
 ### Typed folder — `1-SOURCES/Annotations/`
 

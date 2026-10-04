@@ -17,12 +17,12 @@
   "rows": 307,
   "concordance": {
    "copy_letters": 39584,
-   "target_letters": 39584,
-   "matched": 39584,
+   "target_letters": 38680,
+   "matched": 38680,
    "replaced": 0,
-   "copy_only": 0,
+   "copy_only": 904,
    "target_only": 0,
-   "ratio": 1.0
+   "ratio": 0.9884
   },
   "aligned_blocks": 307,
   "unaligned_blocks": [],
@@ -2963,5 +2963,27 @@
   "blocks": 349,
   "ids": "0-1..4-5",
   "transclusions": 345
+ },
+ {
+  "key": "bo-cone-drakpa-shedrup-gyalwe-gongsal",
+  "path": "1-SOURCES/Commentaries/bo-cone-drakpa-shedrup-gyalwe-gongsal.md",
+  "adapter": "md_rows",
+  "rows": 73,
+  "headings": 72,
+  "toc_nodes_without_rows": [],
+  "blocks": 73,
+  "ids": "0-1..3-1",
+  "transclusions": 0
+ },
+ {
+  "key": "bo-senge-zangpo-kadrel",
+  "path": "1-SOURCES/Commentaries/bo-senge-zangpo-kadrel.md",
+  "adapter": "md_rows",
+  "rows": 33,
+  "headings": 32,
+  "toc_nodes_without_rows": [],
+  "blocks": 33,
+  "ids": "0-1..32-1",
+  "transclusions": 0
  }
 ]

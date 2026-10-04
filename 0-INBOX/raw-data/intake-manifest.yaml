@@ -7680,3 +7680,62 @@ works:
     text_id: null
     edition_id: null
     toc_id: null
+- key: bo-cone-drakpa-shedrup-gyalwe-gongsal
+  path: 1-SOURCES/Commentaries/bo-cone-drakpa-shedrup-gyalwe-gongsal.md
+  adapter: md_rows
+  id_scheme: h2
+  text: wikisource-cone-drakpa-shedrup-gyalwe-gongsal/cone-drakpa-shedrup-gyalwe-gongsal.md
+  title: སྡུད་པའི་འགྲེལ་པ་རྒྱལ་བའི་དགོངས་གསལ།
+  toc:
+    kind: outline
+    file: 2-RAILS/Sections/Raw/toc-wikisource/cone-drakpa-shedrup-gyalwe-gongsal.md
+    note: The commentary's own table of contents on its Wikisource Index page (Index:སྡུད་པའི་འགྲེལ་པ་རྒྱལ་བའི་དགོངས་གསལ། ཤིང་པར།.pdf, revision 1177625). Added on the vault owner's instruction of 2026-10-04 ("get those commentaries … otherwise add the commentary itself in the repo").
+  notes: 'Text from Wikisource only: every Page: page of the Index (revisions pinned in 0-INBOX/raw-data/wikisource-cone-drakpa-shedrup-gyalwe-gongsal/pages.json), page markup and pecha line breaks removed, one row per TOC section (the vault owner''s choice: one block per TOC section). No human alignment to the root exists, so no transclusions (the vault owner''s choice: text + TOC, no links). Wikisource pages not yet proofread to validation (quality 3, Index progress C).'
+  frontmatter:
+    title: སྡུད་པའི་འགྲེལ་པ་རྒྱལ་བའི་དགོངས་གསལ།
+    alt_titles:
+    - མདོ་སྡུད་པའི་འགྲེལ་པ་རྒྱལ་བའི་དགོངས་གསལ་བཞུགས་སོ།།
+    author: ཅོ་ནེ་གྲགས་པ་བཤད་སྒྲུབ།
+    registered_id: cone-drakpa-shedrup-gyalwe-gongsal
+    language: Tibetan
+    lang_tag: bo
+    file_type: commentary
+    root_text: 1-SOURCES/Translations/bo-ratnagunasancayagatha.md
+    verse_id_format: section-paragraph
+    category_id: null
+    license: unknown
+    source: https://wikisource.org/wiki/Index%3A%E0%BD%A6%E0%BE%A1%E0%BD%B4%E0%BD%91%E0%BC%8B%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%A0%E0%BD%82%E0%BE%B2%E0%BD%BA%E0%BD%A3%E0%BC%8B%E0%BD%94%E0%BC%8B%E0%BD%A2%E0%BE%92%E0%BE%B1%E0%BD%A3%E0%BC%8B%E0%BD%96%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%91%E0%BD%82%E0%BD%BC%E0%BD%84%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A6%E0%BD%A3%E0%BC%8D_%E0%BD%A4%E0%BD%B2%E0%BD%84%E0%BC%8B%E0%BD%94%E0%BD%A2%E0%BC%8D.pdf
+    alignment_status: none
+    source_description: Wikisource, Index:སྡུད་པའི་འགྲེལ་པ་རྒྱལ་བའི་དགོངས་གསལ། ཤིང་པར།.pdf (revision 1177625), ཤིང་པར། (a woodblock print, one volume; Index gives no year or publisher); text of every proofread page retrieved 2026-10-04. Title and author from the text sheet phakpadoepa.csv, row 3. Not aligned to the root (no transclusions).
+    text_id: null
+    edition_id: null
+    toc_id: null
+- key: bo-senge-zangpo-kadrel
+  path: 1-SOURCES/Commentaries/bo-senge-zangpo-kadrel.md
+  adapter: md_rows
+  id_scheme: h2
+  text: wikisource-senge-zangpo-kadrel/senge-zangpo-kadrel.md
+  title: བཅོམ་ལྡན་འདས་ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པའི་ཚིགས་སུ་བཅད་པའི་དཀའ་འགྲེལ།
+  toc:
+    kind: outline
+    file: 2-RAILS/Sections/Raw/toc-wikisource/senge-zangpo-kadrel.md
+    note: 'The commentary''s own table of contents on its Wikisource Index page (Index:བཅོམ་ལྡན་འདས་ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པའི་ཚིགས་སུ་བཅད་པའི་དཀའ་འགྲེལ། སྡེ་དགེ་དཔར་མ.pdf, revision 1132976): its 32 chapter headings, numbered in order. Added on the vault owner''s instruction of 2026-10-04 ("get those commentaries … otherwise add the commentary itself in the repo").'
+  notes: 'Text from Wikisource only: every Page: page of the Index (revisions pinned in 0-INBOX/raw-data/wikisource-senge-zangpo-kadrel/pages.json), page markup and pecha line breaks removed, one row per TOC section (the vault owner''s choice: one block per TOC section). No human alignment to the root exists, so no transclusions (the vault owner''s choice: text + TOC, no links). Wikisource Index progress V (proofread).'
+  frontmatter:
+    title: བཅོམ་ལྡན་འདས་ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པའི་ཚིགས་སུ་བཅད་པའི་དཀའ་འགྲེལ།
+    alt_titles: []
+    author: སློབ་དཔོན་སེངྒེ་བཟང་པོ།
+    registered_id: senge-zangpo-kadrel
+    language: Tibetan
+    lang_tag: bo
+    file_type: commentary
+    root_text: 1-SOURCES/Translations/bo-ratnagunasancayagatha.md
+    verse_id_format: section-paragraph
+    category_id: null
+    license: unknown
+    source: https://wikisource.org/wiki/Index%3A%E0%BD%96%E0%BD%85%E0%BD%BC%E0%BD%98%E0%BC%8B%E0%BD%A3%E0%BE%A1%E0%BD%93%E0%BC%8B%E0%BD%A0%E0%BD%91%E0%BD%A6%E0%BC%8B%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BC%8B%E0%BD%8F%E0%BD%93%E0%BC%8B%E0%BD%A2%E0%BD%B2%E0%BD%93%E0%BC%8B%E0%BD%94%E0%BD%BC%E0%BC%8B%E0%BD%86%E0%BD%BA%E0%BC%8B%E0%BD%A6%E0%BE%A1%E0%BD%B4%E0%BD%91%E0%BC%8B%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%9A%E0%BD%B2%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%A6%E0%BD%B4%E0%BC%8B%E0%BD%96%E0%BD%85%E0%BD%91%E0%BC%8B%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%91%E0%BD%80%E0%BD%A0%E0%BC%8B%E0%BD%A0%E0%BD%82%E0%BE%B2%E0%BD%BA%E0%BD%A3%E0%BC%8D_%E0%BD%A6%E0%BE%A1%E0%BD%BA%E0%BC%8B%E0%BD%91%E0%BD%82%E0%BD%BA%E0%BC%8B%E0%BD%91%E0%BD%94%E0%BD%A2%E0%BC%8B%E0%BD%98.pdf
+    alignment_status: none
+    source_description: 'Wikisource, Index:བཅོམ་ལྡན་འདས་ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པའི་ཚིགས་སུ་བཅད་པའི་དཀའ་འགྲེལ། སྡེ་དགེ་དཔར་མ.pdf (revision 1132976), Derge Tengyur, སྡེ་དགེ་དཔར་ཁང་། 1737 (Index: པོད། ༨༦ པ།); text of every proofread page retrieved 2026-10-04. Title and author from the text sheet phakpadoepa.csv, row 4. Not aligned to the root (no transclusions).'
+    text_id: null
+    edition_id: null
+    toc_id: null

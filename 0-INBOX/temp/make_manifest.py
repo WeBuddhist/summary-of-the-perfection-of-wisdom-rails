@@ -667,6 +667,57 @@ def main():
             "text_id": None, "edition_id": None, "toc_id": None}
         works.append(w)
 
+    # ---------------------------------------------------------------- Wikisource-only commentaries (sheet rows 3, 4)
+    import csv
+    sheet = list(csv.reader(open(RAW / "phakpadoepa.csv", encoding="utf-8")))
+    for rid, sheet_no, edition, roster_note in (
+        ("cone-drakpa-shedrup-gyalwe-gongsal", "3",
+         "ཤིང་པར། (a woodblock print, one volume; Index gives no year or publisher)",
+         "Wikisource pages not yet proofread to validation (quality 3, Index progress C)."),
+        ("senge-zangpo-kadrel", "4",
+         "Derge Tengyur, སྡེ་དགེ་དཔར་ཁང་། 1737 (Index: པོད། ༨༦ པ།)",
+         "Wikisource Index progress V (proofread)."),
+    ):
+        row = next(r for r in sheet if r and r[0].strip() == sheet_no)
+        ws = json.loads((RAW / f"wikisource-{rid}/pages.json").read_text(encoding="utf-8"))
+        fm_o, n_o, _ = placed(rid)
+        seq = rid == "senge-zangpo-kadrel"
+        o = outline_file(
+            rid, fm_o, n_o, {}, [f"bo-{rid}"],
+            {"registered_id": rid, "edition": edition,
+             "labels": {"bo": "verbatim from the inline headings of the Index's proofread pages"
+                              + (" (the 32 chapter headings; unnumbered there, numbered here in order)" if seq
+                                 else " (section numbers dropped)")},
+             "placement": fm_o["placement"],
+             "body": (f"# {row[1].strip()} — outline from the Wikisource Index\n\n"
+                      f"{len(n_o)} headings. The text exists in this vault only from Wikisource "
+                      "(no Dzongsar export), so its rows are the Index's own sections: each heading opens a row.")})
+        works.append({
+            "key": f"bo-{rid}", "path": f"1-SOURCES/Commentaries/bo-{rid}.md", "adapter": "md_rows",
+            "id_scheme": "h2", "text": f"wikisource-{rid}/{rid}.md", "title": row[1].strip(),
+            "toc": {"kind": "outline", "file": o,
+                    "note": (f"The commentary's own table of contents on its Wikisource Index page "
+                             f"({ws['index_page']}, revision {ws['index_revid']})"
+                             + (": its 32 chapter headings, numbered in order." if seq else ".")
+                             + " Added on the vault owner's instruction of 2026-10-04 (\"get those commentaries … "
+                               "otherwise add the commentary itself in the repo\").")},
+            "notes": ("Text from Wikisource only: every Page: page of the Index (revisions pinned in "
+                      f"0-INBOX/raw-data/wikisource-{rid}/pages.json), page markup and pecha line breaks removed, "
+                      "one row per TOC section (the vault owner's choice: one block per TOC section). No human "
+                      "alignment to the root exists, so no transclusions (the vault owner's choice: text + TOC, no "
+                      "links). " + roster_note),
+            "frontmatter": {
+                "title": row[1].strip(), "alt_titles": [x for x in [row[3].strip()] if x and x.strip() != row[1].strip()],
+                "author": row[2].strip(), "registered_id": rid, "language": "Tibetan", "lang_tag": "bo",
+                "file_type": "commentary", "root_text": ROOT_FILE, "verse_id_format": "section-paragraph",
+                "category_id": None, "license": "unknown", "source": fm_o["index_url"],
+                "alignment_status": "none",
+                "source_description": (f"Wikisource, {ws['index_page']} (revision {ws['index_revid']}), {edition}; "
+                                       f"text of every proofread page retrieved {ws['retrieved']}. Title and author "
+                                       f"from the text sheet phakpadoepa.csv, row {sheet_no}. Not aligned to the root "
+                                       "(no transclusions)."),
+                "text_id": None, "edition_id": None, "toc_id": None}})
+
     man = {"raw_root": "0-INBOX/raw-data", "sidecar_dir": "1-SOURCES/Annotations", "works": works}
     head = ("# Intake manifest — Ratnaguṇasañcayagāthā / ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྡུད་པ་ཚིགས་སུ་བཅད་པ། (Phakpa Düpa)\n"
             "#\n# Read by 4-SYSTEM/Skills/aligned-corpus-intake/scripts/build_sources.py and verify.py.\n"

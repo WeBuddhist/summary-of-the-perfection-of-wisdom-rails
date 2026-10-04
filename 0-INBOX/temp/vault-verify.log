@@ -1,7 +1,9 @@
-OK  sa-root                         blocks=  373 headings= 10 transclusions=    0 letters=  39584 missing=0 extra=0 rows=373
-OK  bo-display                      blocks=  308 headings= 10 transclusions=  307 letters=  38209 missing=0 extra=0 rows=307 aligned_ok=308/308 content_ok=307/307
-OK  zh-translation                  blocks=  333 headings= 10 transclusions=  308 letters=   9188 missing=0 extra=0 rows=333 aligned_ok=333/333 content_ok=301/301
-OK  bo-rangjung-dorje-tika          blocks=  323 headings=318 transclusions=  331 letters=  96519 missing=0 extra=0 rows=229 aligned_ok=323/323 content_ok=142/142 edition_variant_rows=1
-OK  bo-mipham-lekshe                blocks=  487 headings=454 transclusions=  324 letters= 179176 missing=0 extra=0 rows=270 aligned_ok=487/487 content_ok=134/134
-OK  bo-shasana-dibam-bedon-dronme   blocks=  297 headings=141 transclusions=  340 letters= 126682 missing=0 extra=0 rows=256 aligned_ok=297/297 content_ok=191/191 edition_variant_rows=4
-OK  bo-khenrab-jamyang-norbu-dronme blocks=  349 headings=144 transclusions=  345 letters= 232315 missing=0 extra=0 rows=276 aligned_ok=349/349 content_ok=230/230 edition_variant_rows=2
+OK  sa-root                               blocks=  373 headings= 10 transclusions=    0 letters=  38680 missing=0 extra=0 rows=373
+OK  bo-display                            blocks=  308 headings= 10 transclusions=  307 letters=  38209 missing=0 extra=0 rows=307 aligned_ok=308/308 content_ok=307/307
+OK  zh-translation                        blocks=  333 headings= 10 transclusions=  308 letters=   9188 missing=0 extra=0 rows=333 aligned_ok=333/333 content_ok=301/301
+OK  bo-rangjung-dorje-tika                blocks=  323 headings=318 transclusions=  331 letters=  96519 missing=0 extra=0 rows=229 aligned_ok=323/323 content_ok=142/142 edition_variant_rows=1
+OK  bo-mipham-lekshe                      blocks=  487 headings=454 transclusions=  324 letters= 179176 missing=0 extra=0 rows=270 aligned_ok=487/487 content_ok=134/134
+OK  bo-shasana-dibam-bedon-dronme         blocks=  297 headings=141 transclusions=  340 letters= 126682 missing=0 extra=0 rows=256 aligned_ok=297/297 content_ok=191/191 edition_variant_rows=4
+OK  bo-khenrab-jamyang-norbu-dronme       blocks=  349 headings=144 transclusions=  345 letters= 232315 missing=0 extra=0 rows=276 aligned_ok=349/349 content_ok=230/230 edition_variant_rows=2
+OK  bo-cone-drakpa-shedrup-gyalwe-gongsal blocks=   73 headings= 73 transclusions=    0 letters=  93619 missing=0 extra=0 rows=73
+OK  bo-senge-zangpo-kadrel                blocks=   33 headings= 33 transclusions=    0 letters= 175719 missing=0 extra=0 rows=33
