@@ -463,6 +463,7 @@ Skills are reusable, step-by-step procedures stored in `4-SYSTEM/Skills/`. Each 
 | Audience-graded, termbase-locked translation | `graded-translate` |
 | Verse-form (metrical) translation | `verse-translate` |
 | Translate a commentary | `translate-commentary` |
+| Build or revise a Chinese track's prompt (requirements.md) | `zh-track-prompt` |
 | Audience-targeted summary | `multilevel-summary` |
 | Build a study/practice plan | `plan-scaffold` · `plan-schedule` · `plan-day-generate` · `plan-day-translate` |
 | **Checking** | |
