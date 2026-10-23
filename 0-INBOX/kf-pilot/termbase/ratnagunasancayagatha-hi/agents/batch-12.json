@@ -1,0 +1,732 @@
+{
+ "batch": "batch-12",
+ "terms": [
+  {
+   "term_id": "T012",
+   "bo": "དགྲ་བཅོམ",
+   "sanskrit": "arhat",
+   "senses": [
+    {
+     "sense": "arhat",
+     "occurrences": "all",
+     "academic": "अर्हत्",
+     "children": "पूज्य साधक",
+     "basis": "style-sheet",
+     "reason": "Style-sheet core term arhat."
+    }
+   ]
+  },
+  {
+   "term_id": "T025",
+   "bo": "སྟོང་པ",
+   "sanskrit": "śūnya",
+   "senses": [
+    {
+     "sense": "empty (adjective or predicate)",
+     "occurrences": [
+      "1-7",
+      "2-30",
+      "4-68",
+      "4-91"
+     ],
+     "academic": "शून्य",
+     "children": "खाली",
+     "basis": "style-sheet",
+     "reason": "Style sheet: adjective/predicate शून्य; kids खाली."
+    },
+    {
+     "sense": "emptiness (noun)",
+     "occurrences": [
+      "4-24",
+      "4-75",
+      "4-84",
+      "4-96",
+      "4-98",
+      "5-26",
+      "5-51",
+      "5-88"
+     ],
+     "academic": "शून्यता",
+     "children": "खालीपन",
+     "basis": "style-sheet",
+     "reason": "Style sheet: noun शून्यता; kids खालीपन."
+    }
+   ]
+  },
+  {
+   "term_id": "T038",
+   "bo": "ཐབས",
+   "sanskrit": "upāya",
+   "senses": [
+    {
+     "sense": "skillful means",
+     "occurrences": "all",
+     "academic": "उपाय",
+     "children": "चतुर तरीके",
+     "basis": "english-pivot",
+     "reason": "Gemini उपाय is established; kids from \"clever ways\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T051",
+   "bo": "ཚོར",
+   "sanskrit": "vedanā",
+   "senses": [
+    {
+     "sense": "feeling",
+     "occurrences": "all",
+     "academic": "वेदना",
+     "children": "अनुभूति",
+     "basis": "style-sheet",
+     "reason": "Academic from registers/Gemini; kids अनुभूति per policy 16."
+    }
+   ]
+  },
+  {
+   "term_id": "T064",
+   "bo": "ས",
+   "sanskrit": "bhūmi",
+   "senses": [
+    {
+     "sense": "stage",
+     "occurrences": [
+      "2-2",
+      "2-7",
+      "4-4",
+      "4-15"
+     ],
+     "academic": "भूमि",
+     "children": "स्तर",
+     "basis": "style-sheet",
+     "reason": "Style sheet stage: भूमि; kids स्तर."
+    },
+    {
+     "sense": "birthplace",
+     "occurrences": [
+      "4-13"
+     ],
+     "academic": "जन्मस्थान",
+     "children": "जन्म की जगह",
+     "basis": "english-pivot",
+     "reason": "Translated English \"birthplace\"; भूमि avoided to keep stage apart."
+    }
+   ]
+  },
+  {
+   "term_id": "T077",
+   "bo": "དགེ་བའི་བཤེས",
+   "sanskrit": "kalyāṇamitra",
+   "senses": [
+    {
+     "sense": "spiritual friend",
+     "occurrences": "all",
+     "academic": "कल्याणमित्र",
+     "children": "समझदार दोस्त",
+     "basis": "zero-shot",
+     "reason": "Gemini term kept; kids from \"wise friend\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T090",
+   "bo": "རྣལ་འབྱོར་པ",
+   "sanskrit": "yogin",
+   "senses": [
+    {
+     "sense": "yogin",
+     "occurrences": "all",
+     "academic": "योगी",
+     "children": "ध्यान करने वाला",
+     "basis": "zero-shot",
+     "reason": "Gemini योगी is established; kids from \"meditator\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T103",
+   "bo": "ཆགས་པ",
+   "sanskrit": "saṅga",
+   "senses": [
+    {
+     "sense": "attachment",
+     "occurrences": "all",
+     "academic": "आसक्ति",
+     "children": "चिपके रहना",
+     "basis": "zero-shot",
+     "reason": "Gemini आसक्ति kept; kids from \"clinging\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T116",
+   "bo": "ཡོངས་སུ་བསྔོ་བ",
+   "sanskrit": "pariṇāma",
+   "senses": [
+    {
+     "sense": "dedicate",
+     "occurrences": "all",
+     "academic": "परिणामना",
+     "children": "समर्पित करना",
+     "basis": "style-sheet",
+     "reason": "Policy 15: परिणामना; kids समर्पित करना."
+    }
+   ]
+  },
+  {
+   "term_id": "T129",
+   "bo": "དབང་པོ",
+   "sanskrit": "indriya",
+   "senses": [
+    {
+     "sense": "faculty",
+     "occurrences": "all",
+     "academic": "इन्द्रिय",
+     "children": "क्षमता",
+     "basis": "zero-shot",
+     "reason": "Gemini इन्द्रिय kept; kids from \"ability\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T142",
+   "bo": "ཆོས་ཀྱི་རང་བཞིན",
+   "sanskrit": "dharmaprakṛti",
+   "senses": [
+    {
+     "sense": "nature of phenomena",
+     "occurrences": "all",
+     "academic": "धर्मों का स्वभाव",
+     "children": "चीज़ों का स्वभाव",
+     "basis": "style-sheet",
+     "reason": "Phenomena plural per Policy 4; kids चीज़ें; distinct from धर्मता."
+    }
+   ]
+  },
+  {
+   "term_id": "T155",
+   "bo": "རྐྱེན་རྟོགས",
+   "sanskrit": "pratyekabuddha",
+   "senses": [
+    {
+     "sense": "pratyekabuddha",
+     "occurrences": "all",
+     "academic": "प्रत्येकबुद्ध",
+     "children": "अकेला बुद्ध",
+     "basis": "style-sheet",
+     "reason": "Style-sheet core term."
+    }
+   ]
+  },
+  {
+   "term_id": "T168",
+   "bo": "སྟོང་པ་ཉིད",
+   "sanskrit": "śūnyatā",
+   "senses": [
+    {
+     "sense": "emptiness",
+     "occurrences": "all",
+     "academic": "शून्यता",
+     "children": "खालीपन",
+     "basis": "style-sheet",
+     "reason": "Style sheet noun emptiness: शून्यता; kids खालीपन."
+    }
+   ]
+  },
+  {
+   "term_id": "T181",
+   "bo": "རབ་འབྱོར",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "Subhūti",
+     "occurrences": "all",
+     "academic": "सुभूति",
+     "children": "सुभूति",
+     "basis": "style-sheet",
+     "reason": "Policy 9: Sanskrit name kept in both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T194",
+   "bo": "དཀར་པོའི་ཡོན་ཏན",
+   "sanskrit": "śuklaguṇa",
+   "senses": [
+    {
+     "sense": "virtuous quality",
+     "occurrences": "all",
+     "academic": "शुभ गुण",
+     "children": "अच्छाई के गुण",
+     "basis": "english-pivot",
+     "reason": "\"Virtuous quality\": गुण plus शुभ; कुशल avoided to keep virtue terms apart."
+    }
+   ]
+  },
+  {
+   "term_id": "T207",
+   "bo": "རྣམ་ཐར",
+   "sanskrit": "vimokṣa",
+   "senses": [
+    {
+     "sense": "liberation",
+     "occurrences": "all",
+     "academic": "विमोक्ष",
+     "children": "आज़ादी",
+     "basis": "zero-shot",
+     "reason": "Gemini विमोक्ष is an established Buddhist term; kids from \"freedom\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T220",
+   "bo": "སེམས་བསྐྱེད",
+   "sanskrit": "cittotpāda",
+   "senses": [
+    {
+     "sense": "generation of the mind",
+     "occurrences": "all",
+     "academic": "चित्तोत्पाद",
+     "children": "बोधि पाने की इच्छा जगाना",
+     "basis": "zero-shot",
+     "reason": "Gemini चित्तोत्पाद kept; kids from \"making the wish to awaken\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T233",
+   "bo": "བཅོམ་ལྡན་འདས",
+   "sanskrit": "bhagavat",
+   "senses": [
+    {
+     "sense": "Blessed One",
+     "occurrences": "all",
+     "academic": "भगवान्",
+     "children": "भगवान",
+     "basis": "style-sheet",
+     "reason": "Style-sheet core term Blessed One."
+    }
+   ]
+  },
+  {
+   "term_id": "T246",
+   "bo": "སྣ་ཚོགས་འདུ་ཤེས",
+   "sanskrit": "nānātvasaṃjñā",
+   "senses": [
+    {
+     "sense": "diverse perception",
+     "occurrences": "all",
+     "academic": "नानात्व की संज्ञा",
+     "children": "अलग-अलग धारणा",
+     "basis": "english-pivot",
+     "reason": "संज्ञा per style sheet plus नानात्व; kids धारणा from \"different idea\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T259",
+   "bo": "ཕྱི་མཐའ",
+   "sanskrit": "aparānta",
+   "senses": [
+    {
+     "sense": "later limit",
+     "occurrences": "all",
+     "academic": "अपरान्त",
+     "children": "बाद का छोर",
+     "basis": "zero-shot",
+     "reason": "Gemini अपरान्त kept; kids from \"later end\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T272",
+   "bo": "སློབ་མི་སློབ",
+   "sanskrit": "śikṣā-aśikṣā",
+   "senses": [
+    {
+     "sense": "training and non-training",
+     "occurrences": "all",
+     "academic": "शिक्षा और अशिक्षा",
+     "children": "सीखना और न सीखना",
+     "basis": "english-pivot",
+     "reason": "Built from \"training and non-training\"; kids from \"learning and not learning\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T285",
+   "bo": "སྨན་པའི་རྒྱལ་པོ",
+   "sanskrit": "vaidyarāja",
+   "senses": [
+    {
+     "sense": "king of physicians",
+     "occurrences": "all",
+     "academic": "वैद्यराज",
+     "children": "इलाज करने वालों का राजा",
+     "basis": "zero-shot",
+     "reason": "Gemini वैद्यराज kept; kids from \"king of healers\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T298",
+   "bo": "རོ་གཅིག",
+   "sanskrit": "ekarasa",
+   "senses": [
+    {
+     "sense": "one taste",
+     "occurrences": "all",
+     "academic": "एकरस",
+     "children": "एक ही स्वाद",
+     "basis": "zero-shot",
+     "reason": "Gemini एकरस kept; kids from \"one taste\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T311",
+   "bo": "སློབ",
+   "sanskrit": "śaikṣa",
+   "senses": [
+    {
+     "sense": "one in training",
+     "occurrences": "all",
+     "academic": "शैक्ष",
+     "children": "सीखने वाला",
+     "basis": "zero-shot",
+     "reason": "Gemini शैक्ष kept; kids from \"learner\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T324",
+   "bo": "རྒྱལ་བའི་ཡུམ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "Mother of the Victors",
+     "occurrences": "all",
+     "academic": "जिनमाता",
+     "children": "विजेताओं की माता",
+     "basis": "style-sheet",
+     "reason": "Compound of जिन and माता (Policy 13); kids from \"Mother of the Victorious Ones\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T337",
+   "bo": "རྫུ་འཕྲུལ་རྐང་པ",
+   "sanskrit": "ṛddhipāda",
+   "senses": [
+    {
+     "sense": "base of miraculous power",
+     "occurrences": "all",
+     "academic": "ऋद्धिपाद",
+     "children": "जादुई शक्ति का आधार",
+     "basis": "zero-shot",
+     "reason": "Gemini ऋद्धिपाद kept; kids from \"base of magical power\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T350",
+   "bo": "བར་དུ་གཅོད་པ",
+   "sanskrit": "antarāya",
+   "senses": [
+    {
+     "sense": "obstacle",
+     "occurrences": "all",
+     "academic": "अन्तराय",
+     "children": "रुकावट",
+     "basis": "zero-shot",
+     "reason": "Gemini अन्तराय kept; kids plain word for obstacle."
+    }
+   ]
+  },
+  {
+   "term_id": "T363",
+   "bo": "སྲེད་པ",
+   "sanskrit": "tṛṣṇā",
+   "senses": [
+    {
+     "sense": "craving",
+     "occurrences": "all",
+     "academic": "तृष्णा",
+     "children": "तेज़ चाह",
+     "basis": "zero-shot",
+     "reason": "Gemini तृष्णा kept; kids from \"strong wanting\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T376",
+   "bo": "དང་པོའི་ལས་ཅན",
+   "sanskrit": "ādikarmika",
+   "senses": [
+    {
+     "sense": "beginner",
+     "occurrences": "all",
+     "academic": "आदिकर्मिक",
+     "children": "शुरुआत करने वाला",
+     "basis": "zero-shot",
+     "reason": "Gemini आदिकर्मिक kept; kids from \"beginner\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T389",
+   "bo": "ཡུལ",
+   "sanskrit": "viṣaya",
+   "senses": [
+    {
+     "sense": "sense object",
+     "occurrences": "all",
+     "academic": "विषय",
+     "children": "इन्द्रियों से महसूस की जाने वाली चीज़",
+     "basis": "zero-shot",
+     "reason": "Gemini विषय kept; kids from \"thing we sense\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T402",
+   "bo": "ཤེས་བཞིན",
+   "sanskrit": "saṃprajanya",
+   "senses": [
+    {
+     "sense": "alertness",
+     "occurrences": "all",
+     "academic": "सम्प्रजन्य",
+     "children": "सजग रहना",
+     "basis": "zero-shot",
+     "reason": "Gemini सम्प्रजन्य kept; kids from \"staying alert\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T415",
+   "bo": "རྫུ་འཕྲུལ་སྟོབས",
+   "sanskrit": "ṛddhibala",
+   "senses": [
+    {
+     "sense": "power of miracles",
+     "occurrences": "all",
+     "academic": "ऋद्धिबल",
+     "children": "जादू की शक्ति",
+     "basis": "english-pivot",
+     "reason": "Sanskrit compound ऋद्धि plus बल; kids from \"power of magic\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T428",
+   "bo": "སེམས་ཅན་སྨིན",
+   "sanskrit": "sattvaparipācana",
+   "senses": [
+    {
+     "sense": "ripening of sentient beings",
+     "occurrences": "all",
+     "academic": "सत्त्वों को परिपक्व करना",
+     "children": "जीवों को बढ़ने में मदद करना",
+     "basis": "english-pivot",
+     "reason": "सत्त्व and जीव per style sheet core term; परिपक्व from Gemini."
+    }
+   ]
+  },
+  {
+   "term_id": "T441",
+   "bo": "བདག་གི་ཆོས",
+   "sanskrit": "dharma",
+   "senses": [
+    {
+     "sense": "phenomena of self",
+     "occurrences": "all",
+     "academic": "आत्म के धर्म",
+     "children": "\"मैं\" की चीज़ें",
+     "basis": "english-pivot",
+     "reason": "Phenomena plural per Policy 4; आत्मा avoided per Policy 3; kids चीज़ें."
+    }
+   ]
+  },
+  {
+   "term_id": "T454",
+   "bo": "བག་མེད",
+   "sanskrit": "pramāda",
+   "senses": [
+    {
+     "sense": "careless",
+     "occurrences": "all",
+     "academic": "प्रमाद",
+     "children": "लापरवाह",
+     "basis": "zero-shot",
+     "reason": "Gemini प्रमाद kept; kids from \"careless\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T467",
+   "bo": "བསླབ",
+   "sanskrit": "śikṣā",
+   "senses": [
+    {
+     "sense": "training",
+     "occurrences": "all",
+     "academic": "शिक्षा",
+     "children": "अभ्यास",
+     "basis": "english-pivot",
+     "reason": "Academic from Gemini; kids अभ्यास since शिक्षा means teaching for kids."
+    }
+   ]
+  },
+  {
+   "term_id": "T480",
+   "bo": "རྒྱལ་བའི་ཡོན་ཏན",
+   "sanskrit": "jinaguṇa",
+   "senses": [
+    {
+     "sense": "quality of the Victors",
+     "occurrences": "all",
+     "academic": "जिनगुण",
+     "children": "विजेताओं के अच्छे गुण",
+     "basis": "style-sheet",
+     "reason": "Compound of जिन and गुण (Policy 13); kids from \"good quality of the Victorious Ones\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T493",
+   "bo": "རྒྱུ་རྣམ་བཞི",
+   "sanskrit": "catuḥkāraṇa",
+   "senses": [
+    {
+     "sense": "four causes",
+     "occurrences": "all",
+     "academic": "चार कारण",
+     "children": "चार कारण",
+     "basis": "english-pivot",
+     "reason": "Translated \"four causes\"; plain Hindi works in both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T506",
+   "bo": "རྟེན་ཅིང་འབྲེལ་འབྱུང",
+   "sanskrit": "pratītyasamutpāda",
+   "senses": [
+    {
+     "sense": "dependent origination",
+     "occurrences": "all",
+     "academic": "प्रतीत्यसमुत्पाद",
+     "children": "कारणों से मिलकर उत्पन्न होना",
+     "basis": "zero-shot",
+     "reason": "Gemini प्रतीत्यसमुत्पाद is established; kids from \"arising from causes together\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T519",
+   "bo": "དགའ་བ",
+   "sanskrit": "prīti",
+   "senses": [
+    {
+     "sense": "joy",
+     "occurrences": "all",
+     "academic": "प्रीति",
+     "children": "खुशी",
+     "basis": "zero-shot",
+     "reason": "Gemini प्रीति kept; kids plain word for joy."
+    }
+   ]
+  },
+  {
+   "term_id": "T532",
+   "bo": "འཁོར",
+   "sanskrit": "saṃsāra",
+   "senses": [
+    {
+     "sense": "saṃsāra",
+     "occurrences": "all",
+     "academic": "संसार",
+     "children": "जन्म-मरण का चक्र",
+     "basis": "zero-shot",
+     "reason": "Gemini संसार kept; kids from \"cycle of rebirth\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T545",
+   "bo": "མཐུ་སྟོབས",
+   "sanskrit": "prabhāva",
+   "senses": [
+    {
+     "sense": "power and strength",
+     "occurrences": "all",
+     "academic": "बल-सामर्थ्य",
+     "children": "बड़ी ताक़त",
+     "basis": "zero-shot",
+     "reason": "Gemini बल-सामर्थ्य kept; kids from \"great strength\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T558",
+   "bo": "སྡོམ་མིན",
+   "sanskrit": "asaṃvara",
+   "senses": [
+    {
+     "sense": "non-restraint",
+     "occurrences": "all",
+     "academic": "असंवर",
+     "children": "खुद को न रोकना",
+     "basis": "zero-shot",
+     "reason": "Gemini असंवर kept; kids from \"not holding back\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T571",
+   "bo": "རྣམ་པར་སྨིན",
+   "sanskrit": "vipāka",
+   "senses": [
+    {
+     "sense": "ripening result",
+     "occurrences": "all",
+     "academic": "विपाक",
+     "children": "पकने वाला फल",
+     "basis": "zero-shot",
+     "reason": "Gemini विपाक kept; kids from \"result that ripens\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T584",
+   "bo": "དལ་བ",
+   "sanskrit": "kṣaṇa",
+   "senses": [
+    {
+     "sense": "leisure",
+     "occurrences": "all",
+     "academic": "अवकाश",
+     "children": "अभ्यास करने की आज़ादी",
+     "basis": "english-pivot",
+     "reason": "Academic from \"leisure\" (क्षण means moment); kids from \"freedom to practice\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T597",
+   "bo": "བྱང་ཆུབ་ལམ",
+   "sanskrit": "bodhimārga",
+   "senses": [
+    {
+     "sense": "path to awakening",
+     "occurrences": "all",
+     "academic": "बोधिमार्ग",
+     "children": "बोधि का रास्ता",
+     "basis": "style-sheet",
+     "reason": "Compound of बोधि and मार्ग (Policy 13); kids from \"path to awakening\"."
+    }
+   ]
+  }
+ ]
+}

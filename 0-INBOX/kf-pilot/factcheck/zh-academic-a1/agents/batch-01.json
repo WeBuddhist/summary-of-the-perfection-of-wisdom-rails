@@ -1,0 +1,128 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "0-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "產生殊勝聖者的安樂",
+     "evidence": "Tibetan 'མཆོག་འཕགས་བདེ་བ་བྱེད' = producing bliss that is itself supreme/exalted; bo-mipham 1-2 glosses 'མཆོག་ཏུ་འཕགས་པའི་བདེ་བ་མི་གནས་པའི་མྱ་ངན་ལས་འདས་པ' (supremely exalted bliss = non-abiding nirvana), and bo-khenrab 1-2 'སངས་རྒྱས་ཀྱི་བདེ་བ'. The Chinese 殊勝聖者的安樂 parses as 'bliss of supreme noble persons', adding a possessor the Tibetan lacks.",
+     "fix": "產生至高殊勝的安樂"
+    }
+   ]
+  },
+  {
+   "id": "1-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "將不會心生恐懼",
+     "evidence": "Tibetan 'སྐྲག་པར་ཡོང་མི་འགྱུར' uses the intensifier 'ཡོང' (never at all); bo-mipham 1-14 and bo-khenrab 1-14 gloss it 'ཡོངས་ཡེ་མི་འགྱུར' / 'ཡོང་ཡེ་མི་འགྱུར' (absolutely never). 將不會 renders only a plain future negative; english_academic has 'never'.",
+     "fix": "絕不會心生恐懼"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "未燒透的瓦器",
+     "evidence": "Tibetan 'སྣོད་སོ་མ་བཏང' = a vessel not fired at all (unfired); bo-khenrab 1-14 explains 'རྫ་མེར་མ་སྲེག་པ' (not burnt in the kiln). 未燒透 means 'not fired thoroughly', implying partial firing.",
+     "fix": "未經燒製的瓦器"
+    }
+   ]
+  },
+  {
+   "id": "1-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-16",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

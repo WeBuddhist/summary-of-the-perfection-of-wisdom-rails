@@ -1,0 +1,25 @@
+[
+ {
+  "id": "4-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-1",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "完全守護",
+    "evidence": "Tibetan yongs su 'dzin / academic 完全攝受 means fully taking up, embracing or holding; 'guarding' narrows it to protection only.",
+    "fix": "完全擁有並護持"
+   }
+  ]
+ }
+]

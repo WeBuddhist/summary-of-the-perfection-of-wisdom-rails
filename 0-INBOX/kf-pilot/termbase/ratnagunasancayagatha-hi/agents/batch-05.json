@@ -1,0 +1,695 @@
+{
+ "batch": "batch-05",
+ "terms": [
+  {
+   "term_id": "T005",
+   "bo": "སེམས་ཅན",
+   "sanskrit": "sattva",
+   "senses": [
+    {
+     "sense": "beings in saṃsāra",
+     "occurrences": "all",
+     "academic": "सत्त्व",
+     "children": "जीव",
+     "basis": "style-sheet",
+     "reason": "Core term: सत्त्व academic, जीव children; Gemini mixes प्राणी, so locked."
+    }
+   ]
+  },
+  {
+   "term_id": "T018",
+   "bo": "བདུད",
+   "sanskrit": "māra",
+   "senses": [
+    {
+     "sense": "the Māra",
+     "occurrences": "all",
+     "academic": "मार",
+     "children": "मार",
+     "basis": "style-sheet",
+     "reason": "Core term; name kept in both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T031",
+   "bo": "ལུང་བསྟན",
+   "sanskrit": "vyākaraṇa",
+   "senses": [
+    {
+     "sense": "prophecy",
+     "occurrences": "all",
+     "academic": "भविष्यवाणी",
+     "children": "भविष्यवाणी",
+     "basis": "english-pivot",
+     "reason": "Prophecy/prediction; व्याकरण would read as grammar in Hindi, so the plain word is used."
+    }
+   ]
+  },
+  {
+   "term_id": "T044",
+   "bo": "བརྩོན་འགྲུས",
+   "sanskrit": "vīrya",
+   "senses": [
+    {
+     "sense": "the perfection of effort",
+     "occurrences": "all",
+     "academic": "वीर्य",
+     "children": "लगातार मेहनत",
+     "basis": "style-sheet",
+     "reason": "Core term for the perfection of effort."
+    }
+   ]
+  },
+  {
+   "term_id": "T057",
+   "bo": "ཚོར་བ",
+   "sanskrit": "vedanā",
+   "senses": [
+    {
+     "sense": "second aggregate",
+     "occurrences": "all",
+     "academic": "वेदना",
+     "children": "अनुभूति",
+     "basis": "style-sheet",
+     "reason": "Aggregate of feeling; Policy 16: children avoid वेदना (pain), use अनुभूति."
+    }
+   ]
+  },
+  {
+   "term_id": "T070",
+   "bo": "རྗེས་སུ་ཡི་རང",
+   "sanskrit": "anumodana",
+   "senses": [
+    {
+     "sense": "rejoicing",
+     "occurrences": "all",
+     "academic": "अनुमोदना",
+     "children": "खुश होना",
+     "basis": "style-sheet",
+     "reason": "Policy 15: rejoice is अनुमोदना / खुश होना."
+    }
+   ]
+  },
+  {
+   "term_id": "T083",
+   "bo": "ཐམས་ཅད་མཁྱེན་པ་ཉིད",
+   "sanskrit": "sarvajñatā",
+   "senses": [
+    {
+     "sense": "omniscience",
+     "occurrences": "all",
+     "academic": "सर्वज्ञता",
+     "children": "सब कुछ जानना",
+     "basis": "style-sheet",
+     "reason": "Core term: plain omniscience."
+    }
+   ]
+  },
+  {
+   "term_id": "T096",
+   "bo": "རྣལ་འབྱོར",
+   "sanskrit": "yoga",
+   "senses": [
+    {
+     "sense": "yoga practice",
+     "occurrences": "all",
+     "academic": "योग",
+     "children": "अभ्यास",
+     "basis": "english-pivot",
+     "reason": "Yoga practice; children use अभ्यास for the English gloss \"training\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T109",
+   "bo": "དམིགས་པ",
+   "sanskrit": "ālambana",
+   "senses": [
+    {
+     "sense": "object of apprehension",
+     "occurrences": "all",
+     "academic": "आलम्बन",
+     "children": "पकड़ने का सहारा",
+     "basis": "zero-shot",
+     "reason": "Gemini आलम्बन matches the Sanskrit ālambana; children follow \"something to hold onto\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T122",
+   "bo": "རྣམ་པར་མི་རྟོག",
+   "sanskrit": "avikalpa",
+   "senses": [
+    {
+     "sense": "non-conceptual",
+     "occurrences": "all",
+     "academic": "निर्विकल्प",
+     "children": "पक्के विचारों से मुक्त",
+     "basis": "english-pivot",
+     "reason": "Non-conceptual; Gemini निर्विकल्प kept; children render \"without fixed ideas\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T135",
+   "bo": "ལེ་ལོ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "lazy",
+     "occurrences": "all",
+     "academic": "आलसी",
+     "children": "आलसी",
+     "basis": "english-pivot",
+     "reason": "Lazy; plain everyday word for both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T148",
+   "bo": "ལམ་ཐམས་ཅད་ཤེས་པ་ཉིད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "knowledge of all paths (title)",
+     "occurrences": "all",
+     "academic": "मार्गज्ञता",
+     "children": "सभी रास्तों को जानना",
+     "basis": "style-sheet",
+     "reason": "Core term: second of the three knowledges."
+    }
+   ]
+  },
+  {
+   "term_id": "T161",
+   "bo": "མཆོད་རྟེན",
+   "sanskrit": "stūpa",
+   "senses": [
+    {
+     "sense": "stūpa",
+     "occurrences": "all",
+     "academic": "स्तूप",
+     "children": "पवित्र स्मारक",
+     "basis": "english-pivot",
+     "reason": "Stūpa is the established term; children follow \"shrine\" as a sacred monument."
+    }
+   ]
+  },
+  {
+   "term_id": "T174",
+   "bo": "བྱང་ཆུབ་ཞི་བ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "peaceful awakening",
+     "occurrences": "all",
+     "academic": "शान्त बोधि",
+     "children": "शान्त बोधि",
+     "basis": "style-sheet",
+     "reason": "Compound of core बोधि plus शान्त (peaceful)."
+    }
+   ]
+  },
+  {
+   "term_id": "T187",
+   "bo": "གནས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "place of dwelling",
+     "occurrences": "all",
+     "academic": "निवासस्थान",
+     "children": "रहने की जगह",
+     "basis": "english-pivot",
+     "reason": "Place of dwelling; plain compound for academic, everyday phrase for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T200",
+   "bo": "སྟོང་ཉིད",
+   "sanskrit": "śūnyatā",
+   "senses": [
+    {
+     "sense": "emptiness",
+     "occurrences": "all",
+     "academic": "शून्यता",
+     "children": "खालीपन",
+     "basis": "style-sheet",
+     "reason": "Core term: emptiness (noun)."
+    }
+   ]
+  },
+  {
+   "term_id": "T213",
+   "bo": "མ་རིག",
+   "sanskrit": "avidyā",
+   "senses": [
+    {
+     "sense": "ignorance",
+     "occurrences": "all",
+     "academic": "अविद्या",
+     "children": "अज्ञान",
+     "basis": "english-pivot",
+     "reason": "Established term for ignorance; children use the simple word अज्ञान."
+    }
+   ]
+  },
+  {
+   "term_id": "T226",
+   "bo": "ཁྲིམས",
+   "sanskrit": "śīla",
+   "senses": [
+    {
+     "sense": "ethical discipline",
+     "occurrences": "all",
+     "academic": "शील",
+     "children": "अच्छा आचरण",
+     "basis": "style-sheet",
+     "reason": "Part of ཚུལ་ཁྲིམས; same renderings as the core term."
+    }
+   ]
+  },
+  {
+   "term_id": "T239",
+   "bo": "སྤྱོད་པ",
+   "sanskrit": "caryā",
+   "senses": [
+    {
+     "sense": "conduct",
+     "occurrences": "all",
+     "academic": "चर्या",
+     "children": "जीने का तरीका",
+     "basis": "style-sheet",
+     "reason": "Policy 15: conduct is चर्या / जीने का तरीका."
+    }
+   ]
+  },
+  {
+   "term_id": "T252",
+   "bo": "སེམས་ཅན་ཚོགས",
+   "sanskrit": "sattvarāśi",
+   "senses": [
+    {
+     "sense": "multitude of sentient beings",
+     "occurrences": "all",
+     "academic": "सत्त्वसमूह",
+     "children": "जीवों का समूह",
+     "basis": "style-sheet",
+     "reason": "Built on core सत्त्व / जीव plus समूह (multitude)."
+    }
+   ]
+  },
+  {
+   "term_id": "T265",
+   "bo": "རང་རྒྱལ་ས",
+   "sanskrit": "pratyekabuddhabhūmi",
+   "senses": [
+    {
+     "sense": "stage of a pratyekabuddha",
+     "occurrences": "all",
+     "academic": "प्रत्येकबुद्ध-भूमि",
+     "children": "अकेले बुद्ध का स्तर",
+     "basis": "style-sheet",
+     "reason": "Compound of core प्रत्येकबुद्ध / अकेला बुद्ध plus भूमि / स्तर (stage)."
+    }
+   ]
+  },
+  {
+   "term_id": "T278",
+   "bo": "སྐྱེས་མཆོག",
+   "sanskrit": "puruṣottama",
+   "senses": [
+    {
+     "sense": "supreme being (past Buddha)",
+     "occurrences": "all",
+     "academic": "श्रेष्ठ पुरुष",
+     "children": "सबसे श्रेष्ठ प्राणी",
+     "basis": "english-pivot",
+     "reason": "Supreme being (past Buddha); पुरुषोत्तम avoided as Hindu-devotional; children follow \"highest being\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T291",
+   "bo": "གང་གā",
+   "sanskrit": "gaṅgā",
+   "senses": [
+    {
+     "sense": "the river Ganges",
+     "occurrences": "all",
+     "academic": "गङ्गा",
+     "children": "गङ्गा",
+     "basis": "style-sheet",
+     "reason": "Policy 9: standard Hindi place name, full-nasal spelling."
+    }
+   ]
+  },
+  {
+   "term_id": "T304",
+   "bo": "ཀླུ",
+   "sanskrit": "nāga",
+   "senses": [
+    {
+     "sense": "nāga",
+     "occurrences": "all",
+     "academic": "नाग",
+     "children": "साँप जैसा जीव",
+     "basis": "english-pivot",
+     "reason": "Nāga kept for academic; children follow \"serpent spirit\" as a snake-like being."
+    }
+   ]
+  },
+  {
+   "term_id": "T317",
+   "bo": "དཀར་པོའི་ཆོས",
+   "sanskrit": "śukladharma",
+   "senses": [
+    {
+     "sense": "virtuous qualities",
+     "occurrences": "all",
+     "academic": "कुशल गुण",
+     "children": "अच्छी बातें",
+     "basis": "english-pivot",
+     "reason": "Policy 4: quality sense is गुण; virtuous = कुशल; children follow \"good things\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T330",
+   "bo": "མིང་དང་གཟུགས",
+   "sanskrit": "nāmarūpa",
+   "senses": [
+    {
+     "sense": "name and form",
+     "occurrences": "all",
+     "academic": "नामरूप",
+     "children": "नाम और रूप",
+     "basis": "english-pivot",
+     "reason": "Established compound for academic; children spell it out."
+    }
+   ]
+  },
+  {
+   "term_id": "T343",
+   "bo": "རིགས",
+   "sanskrit": "jāti",
+   "senses": [
+    {
+     "sense": "family, caste",
+     "occurrences": "all",
+     "academic": "कुल",
+     "children": "परिवार",
+     "basis": "english-pivot",
+     "reason": "Family or caste; कुल is the established Hindi word, परिवार for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T356",
+   "bo": "དངོས་བྲལ",
+   "sanskrit": "bhāvavigata",
+   "senses": [
+    {
+     "sense": "devoid of entities",
+     "occurrences": "all",
+     "academic": "भावरहित",
+     "children": "बिना असली चीज़ों के",
+     "basis": "english-pivot",
+     "reason": "Devoid of entities; भाव = entity; children follow \"free of real things\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T369",
+   "bo": "རྒྱལ་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "the Victors",
+     "occurrences": "all",
+     "academic": "जिन",
+     "children": "विजेता",
+     "basis": "style-sheet",
+     "reason": "Same Victor epithet as core རྒྱལ་བ; Policy 7."
+    }
+   ]
+  },
+  {
+   "term_id": "T382",
+   "bo": "ཆོས་མཆོག",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "supreme Dharma",
+     "occurrences": "all",
+     "academic": "परम धर्म",
+     "children": "सबसे ऊँची शिक्षा",
+     "basis": "style-sheet",
+     "reason": "Teaching sense: धर्म singular, with परम pattern; children शिक्षा plus \"highest\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T395",
+   "bo": "གནས་བརྟན",
+   "sanskrit": "sthavira",
+   "senses": [
+    {
+     "sense": "elder",
+     "occurrences": "all",
+     "academic": "स्थविर",
+     "children": "बड़े भिक्षु",
+     "basis": "style-sheet",
+     "reason": "Policy 8: स्थविर for the elder; children use a short phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T408",
+   "bo": "དོན་དམ",
+   "sanskrit": "paramārtha",
+   "senses": [
+    {
+     "sense": "ultimate",
+     "occurrences": "all",
+     "academic": "परमार्थ",
+     "children": "सबसे गहरा सत्य",
+     "basis": "english-pivot",
+     "reason": "Established term for ultimate; children follow \"deepest truth\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T421",
+   "bo": "ངན་སོང",
+   "sanskrit": "apāya",
+   "senses": [
+    {
+     "sense": "lower realms",
+     "occurrences": "all",
+     "academic": "दुर्गति",
+     "children": "निचले लोक",
+     "basis": "zero-shot",
+     "reason": "Gemini दुर्गति is the established Hindi word for lower realms; children plain \"lower worlds\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T434",
+   "bo": "དགེ་བའི་བཤེས་གཉེན",
+   "sanskrit": "kalyāṇamitra",
+   "senses": [
+    {
+     "sense": "spiritual friend",
+     "occurrences": "all",
+     "academic": "कल्याणमित्र",
+     "children": "समझदार मित्र",
+     "basis": "english-pivot",
+     "reason": "Established term for spiritual friend; children follow \"wise friend\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T447",
+   "bo": "བྱང་ཆུབ་རྒྱུ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "cause of awakening",
+     "occurrences": "all",
+     "academic": "बोधि का हेतु",
+     "children": "बोधि का कारण",
+     "basis": "style-sheet",
+     "reason": "Built on core बोधि plus cause (हेतु / कारण)."
+    }
+   ]
+  },
+  {
+   "term_id": "T460",
+   "bo": "ཤ་ཟ",
+   "sanskrit": "piśāca",
+   "senses": [
+    {
+     "sense": "flesh-eating demon",
+     "occurrences": "all",
+     "academic": "पिशाच",
+     "children": "माँस खाने वाला राक्षस",
+     "basis": "english-pivot",
+     "reason": "Established term for flesh-eating demon; children spell out \"flesh-eating monster\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T473",
+   "bo": "འཇིག་ཚོགས་ལྟ་བ",
+   "sanskrit": "satkāyadṛṣṭi",
+   "senses": [
+    {
+     "sense": "view of a self in the aggregates",
+     "occurrences": "all",
+     "academic": "सत्कायदृष्टि",
+     "children": "\"मैं\" होने की गलत सोच",
+     "basis": "english-pivot",
+     "reason": "Established term for the view of a self in the aggregates; children follow \"mistaken view of a self\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T486",
+   "bo": "སངས་རྒྱས་སྤྲུལ་པ",
+   "sanskrit": "nirmita",
+   "senses": [
+    {
+     "sense": "emanated Buddha",
+     "occurrences": "all",
+     "academic": "निर्मित बुद्ध",
+     "children": "बुद्ध की जादुई प्रतिकृति",
+     "basis": "english-pivot",
+     "reason": "Emanated Buddha: निर्मित; children follow \"magic copy of a Buddha\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T499",
+   "bo": "ཆོས་ཀྱི་སྦྱིན་པ",
+   "sanskrit": "dharmadāna",
+   "senses": [
+    {
+     "sense": "gift of Dharma",
+     "occurrences": "all",
+     "academic": "धर्मदान",
+     "children": "शिक्षा का उपहार",
+     "basis": "style-sheet",
+     "reason": "Teaching sense (singular धर्म) plus दान; children शिक्षा plus gift."
+    }
+   ]
+  },
+  {
+   "term_id": "T512",
+   "bo": "ལྷ་ཡི་གྲོང་ཁྱེར",
+   "sanskrit": "devapura",
+   "senses": [
+    {
+     "sense": "city of the gods",
+     "occurrences": "all",
+     "academic": "देवनगर",
+     "children": "देवताओं का शहर",
+     "basis": "english-pivot",
+     "reason": "City of the gods; plain compound for academic, everyday phrase for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T525",
+   "bo": "དྲི",
+   "sanskrit": "gandha",
+   "senses": [
+    {
+     "sense": "smell, object of the nose",
+     "occurrences": "all",
+     "academic": "गन्ध",
+     "children": "गन्ध",
+     "basis": "zero-shot",
+     "reason": "Gemini गन्ध is the established term for the nose object; everyday enough for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T538",
+   "bo": "བརྩོན་འགྲུས་ཕ་རོལ་ཕྱེན",
+   "sanskrit": "vīryapāramitā",
+   "senses": [
+    {
+     "sense": "perfection of diligence",
+     "occurrences": "all",
+     "academic": "वीर्यपारमिता",
+     "children": "लगातार मेहनत की पूर्णता",
+     "basis": "style-sheet",
+     "reason": "Compound: वीर्य / लगातार मेहनत plus पारमिता / पूर्णता."
+    }
+   ]
+  },
+  {
+   "term_id": "T551",
+   "bo": "འཕགས་པའི་དགེ་འདུན",
+   "sanskrit": "āryasaṃgha",
+   "senses": [
+    {
+     "sense": "noble community",
+     "occurrences": "all",
+     "academic": "आर्यसङ्घ",
+     "children": "आर्य समुदाय",
+     "basis": "style-sheet",
+     "reason": "Policy 8: आर्य; सङ्घ established; children use समुदाय for \"community\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T564",
+   "bo": "ཡི་དགས",
+   "sanskrit": "preta",
+   "senses": [
+    {
+     "sense": "hungry ghost",
+     "occurrences": "all",
+     "academic": "प्रेत",
+     "children": "भूखा भूत",
+     "basis": "english-pivot",
+     "reason": "Hungry ghost: प्रेत established; children use plain \"hungry ghost\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T577",
+   "bo": "སྦྱིན་པའི་ཕུང་པོ",
+   "sanskrit": "dānaskandha",
+   "senses": [
+    {
+     "sense": "mass of generosity",
+     "occurrences": "all",
+     "academic": "दानस्कन्ध",
+     "children": "उदारता का ढेर",
+     "basis": "style-sheet",
+     "reason": "Built on दान / उदारता from the core term plus स्कन्ध / ढेर."
+    }
+   ]
+  },
+  {
+   "term_id": "T590",
+   "bo": "ཆོས་སྐུ",
+   "sanskrit": "dharmakāya",
+   "senses": [
+    {
+     "sense": "Dharmakāya",
+     "occurrences": "all",
+     "academic": "धर्मकाय",
+     "children": "शिक्षा का शरीर",
+     "basis": "style-sheet",
+     "reason": "Core term: Dharmakāya; children follow \"teaching body\"."
+    }
+   ]
+  }
+ ]
+}

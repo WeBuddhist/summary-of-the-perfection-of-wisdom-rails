@@ -1,0 +1,177 @@
+{
+ "batch": "batch-10",
+ "segments": [
+  {
+   "id": "5-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-73",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "想要追求值得敬重的人，或是獨自覺悟的人的乘",
+     "evidence": "Source: aspiring to the Arhat and Pratyekabuddha vehicle; the children's phrase can be misread as pursuing people.",
+     "fix": "想要走「值得敬重的人」或「獨自覺悟的人」所走的乘"
+    }
+   ]
+  },
+  {
+   "id": "5-74",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "只要他們遠離值得敬重的人，以及獨自覺悟的人的乘",
+     "evidence": "Source: being free of (turning away from) the Arhat and Pratyekabuddha vehicles; 'stay away from the worthy people' misreads it, and the sentences are fragments.",
+     "fix": "只要他們不去走值得敬重的人和獨自覺悟的人的乘，並且為想要覺悟的心願感到歡喜，"
+    }
+   ]
+  },
+  {
+   "id": "5-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-80",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "去計算經過了多少個漫長的時代",
+     "evidence": "Academic translation: the unskilled bodhisattva counts tens of millions of kalpas (number 'ten million' lost).",
+     "fix": "會去計算要經過千萬個漫長的時代"
+    }
+   ]
+  },
+  {
+   "id": "5-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-85",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "都沒有任何固定的想法",
+     "evidence": "Academic translation: no notion (perception) of body, mind and beings; 'fixed' is not in the text.",
+     "fix": "都不再有「這是身體、這是心、這是眾生」的想法"
+    }
+   ]
+  },
+  {
+   "id": "5-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-91",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

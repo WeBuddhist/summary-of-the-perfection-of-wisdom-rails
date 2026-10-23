@@ -1,0 +1,146 @@
+{
+ "1-11": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "are also not apprehended",
+  "new": "are also apprehended"
+ },
+ "1-14": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "Will never become afraid",
+  "new": "Will become afraid"
+ },
+ "1-16": {
+  "planted": false
+ },
+ "1-19": {
+  "planted": true,
+  "kind": "terminology",
+  "severity": "major",
+  "old": "supreme armor of holy beings",
+  "new": "supreme armor of noble beings"
+ },
+ "1-23": {
+  "planted": true,
+  "kind": "addition",
+  "severity": "major",
+  "old": "practices in this way,",
+  "new": "practices in this way for countless eons,"
+ },
+ "1-24": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "This is not the practice",
+  "new": "This is the practice"
+ },
+ "2-1": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "does not abide in consciousness",
+  "new": "abides in consciousness"
+ },
+ "2-6": {
+  "planted": false
+ },
+ "2-7": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "does not train in training",
+  "new": "trains in training"
+ },
+ "2-25": {
+  "planted": true,
+  "kind": "terminology",
+  "severity": "major",
+  "old": "supreme perfection of wisdom",
+  "new": "supreme transcendent insight"
+ },
+ "2-51": {
+  "planted": true,
+  "kind": "omission",
+  "severity": "major",
+  "old": " and was without doubt",
+  "new": ""
+ },
+ "4-1": {
+  "planted": true,
+  "kind": "name",
+  "severity": "major",
+  "old": "Śakra, king of the gods, asked",
+  "new": "Brahmā, king of the gods, asked"
+ },
+ "4-31": {
+  "planted": false
+ },
+ "4-46": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "It is not the armor",
+  "new": "It is the armor"
+ },
+ "4-57": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "do not rely on other",
+  "new": "rely on other"
+ },
+ "4-66": {
+  "planted": true,
+  "kind": "number",
+  "severity": "major",
+  "old": "many billions of eons",
+  "new": "many millions of eons"
+ },
+ "4-67": {
+  "planted": false
+ },
+ "4-71": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "with the flame, the wick is not consumed",
+  "new": "with the flame, the wick is consumed"
+ },
+ "4-92": {
+  "planted": true,
+  "kind": "mistranslation",
+  "severity": "major",
+  "old": "host of family and friends",
+  "new": "host of servants and friends"
+ },
+ "5-4": {
+  "planted": true,
+  "kind": "mistranslation",
+  "severity": "major",
+  "old": "\"I have a prophecy,\"",
+  "new": "\"I have a vision,\""
+ },
+ "5-9": {
+  "planted": true,
+  "kind": "number",
+  "severity": "major",
+  "old": "five hundred yojanas",
+  "new": "fifty yojanas"
+ },
+ "5-13": {
+  "planted": false
+ },
+ "5-24": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "should not abandon the yoga",
+  "new": "should abandon the yoga"
+ },
+ "5-47": {
+  "planted": false
+ }
+}

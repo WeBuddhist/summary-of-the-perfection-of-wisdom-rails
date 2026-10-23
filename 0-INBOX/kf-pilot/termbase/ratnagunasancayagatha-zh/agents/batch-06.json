@@ -1,0 +1,695 @@
+{
+ "batch": "batch-06",
+ "terms": [
+  {
+   "term_id": "T006",
+   "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+   "sanskrit": "prajñāpāramitā",
+   "senses": [
+    {
+     "sense": "the perfection of wisdom",
+     "occurrences": "all",
+     "academic": "般若波羅蜜多",
+     "children": "圓滿的智慧",
+     "basis": "style-sheet",
+     "reason": "Core term fixed in the style sheet."
+    }
+   ]
+  },
+  {
+   "term_id": "T019",
+   "bo": "སྡུག་བསྔལ",
+   "sanskrit": "duḥkha",
+   "senses": [
+    {
+     "sense": "suffering",
+     "occurrences": "all",
+     "academic": "苦",
+     "children": "痛苦",
+     "basis": "style-sheet",
+     "reason": "Core term duḥkha; plain 痛苦 for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T032",
+   "bo": "སངས་རྒྱས་ཆོས",
+   "sanskrit": "buddhadharma",
+   "senses": [
+    {
+     "sense": "qualities of a Buddha",
+     "occurrences": "all",
+     "academic": "佛功德",
+     "children": "佛陀的特質",
+     "basis": "style-sheet",
+     "reason": "Policy 6: quality is 功德/特質; 佛法 refused (Gemini's) to keep it the teaching."
+    }
+   ]
+  },
+  {
+   "term_id": "T045",
+   "bo": "བསྔོ",
+   "sanskrit": "pariṇāmayati",
+   "senses": [
+    {
+     "sense": "dedicate",
+     "occurrences": "all",
+     "academic": "迴向",
+     "children": "奉獻",
+     "basis": "style-sheet",
+     "reason": "Core term; one term for all forms of བསྔོ."
+    }
+   ]
+  },
+  {
+   "term_id": "T058",
+   "bo": "མཚན་མ",
+   "sanskrit": "nimitta",
+   "senses": [
+    {
+     "sense": "sign",
+     "occurrences": "all",
+     "academic": "相",
+     "children": "記號",
+     "basis": "style-sheet",
+     "reason": "Core term མཚན་མ; Registers 相."
+    }
+   ]
+  },
+  {
+   "term_id": "T071",
+   "bo": "དགེ་བ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "virtue",
+     "occurrences": "all",
+     "academic": "善",
+     "children": "善良",
+     "basis": "english-pivot",
+     "reason": "Bare 'virtue' from the English; 善法 only when དགེ་ precedes ཆོས."
+    }
+   ]
+  },
+  {
+   "term_id": "T084",
+   "bo": "སྟོབས་བཅུ",
+   "sanskrit": "daśabala",
+   "senses": [
+    {
+     "sense": "ten powers",
+     "occurrences": "all",
+     "academic": "十力",
+     "children": "十種力量",
+     "basis": "zero-shot",
+     "reason": "Established compound 十力; Gemini agrees; parts consistent."
+    }
+   ]
+  },
+  {
+   "term_id": "T097",
+   "bo": "བྱང་ཆུབ་སེམས་དཔ",
+   "sanskrit": "bodhisattva",
+   "senses": [
+    {
+     "sense": "bodhisattva (truncated spelling)",
+     "occurrences": "all",
+     "academic": "菩薩",
+     "children": "菩薩",
+     "basis": "style-sheet",
+     "reason": "Truncated spelling of the same term (policy 15); 菩薩 for both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T110",
+   "bo": "ཕ་རོལ་ཕྱིན་ལྔ",
+   "sanskrit": "pañcapāramitā",
+   "senses": [
+    {
+     "sense": "five perfections",
+     "occurrences": "all",
+     "academic": "五波羅蜜多",
+     "children": "五種圓滿",
+     "basis": "style-sheet",
+     "reason": "Policy 15: number plus 波羅蜜多; children 圓滿."
+    }
+   ]
+  },
+  {
+   "term_id": "T123",
+   "bo": "སྨོན་ལམ",
+   "sanskrit": "praṇidhāna",
+   "senses": [
+    {
+     "sense": "aspiration",
+     "occurrences": "all",
+     "academic": "願",
+     "children": "願望",
+     "basis": "english-pivot",
+     "reason": "Established 願 (praṇidhāna), consistent with 無願; 願望 for 'wish'."
+    }
+   ]
+  },
+  {
+   "term_id": "T136",
+   "bo": "ཚུལ་ཁྲིམས་འཆལ",
+   "sanskrit": "duḥśīla",
+   "senses": [
+    {
+     "sense": "lacking ethical discipline",
+     "occurrences": "all",
+     "academic": "破戒",
+     "children": "缺乏良好品行",
+     "basis": "new",
+     "reason": "Built on 戒 of 持戒; established 破戒; children negates 良好品行."
+    }
+   ]
+  },
+  {
+   "term_id": "T149",
+   "bo": "བདེ",
+   "sanskrit": "sukha",
+   "senses": [
+    {
+     "sense": "happiness",
+     "occurrences": "all",
+     "academic": "樂",
+     "children": "快樂",
+     "basis": "english-pivot",
+     "reason": "Established sukha in 常無常樂苦 lists; 快樂 is the plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T162",
+   "bo": "རིན་ཆེན་བདུན",
+   "sanskrit": "saptaratna",
+   "senses": [
+    {
+     "sense": "seven precious things",
+     "occurrences": "all",
+     "academic": "七寶",
+     "children": "七種珍寶",
+     "basis": "english-pivot",
+     "reason": "Established 七寶; children spells out the number and 珍寶."
+    }
+   ]
+  },
+  {
+   "term_id": "T175",
+   "bo": "གཞི་ཐམས་ཅད་ཤེས་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "knowledge of all bases",
+     "occurrences": "all",
+     "academic": "基智",
+     "children": "明白一切的根基",
+     "basis": "style-sheet",
+     "reason": "Style sheet: title of the third topic; refuses Gemini 一切智."
+    }
+   ]
+  },
+  {
+   "term_id": "T188",
+   "bo": "སྐྱེ་མཆེད",
+   "sanskrit": "āyatana",
+   "senses": [
+    {
+     "sense": "sense base",
+     "occurrences": "all",
+     "academic": "處",
+     "children": "感官之門",
+     "basis": "english-pivot",
+     "reason": "Established āyatana 處 (蘊界處); children follows 'sense door'."
+    }
+   ]
+  },
+  {
+   "term_id": "T201",
+   "bo": "རིན་ཆེན་གླིང",
+   "sanskrit": "ratnadvīpa",
+   "senses": [
+    {
+     "sense": "jewel island",
+     "occurrences": "all",
+     "academic": "寶洲",
+     "children": "寶島",
+     "basis": "new",
+     "reason": "Ratnadvīpa; 洲 as in 南贍部洲 for གླིང; 寶島 plain for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T214",
+   "bo": "རྐྱེན",
+   "sanskrit": "pratyaya",
+   "senses": [
+    {
+     "sense": "condition",
+     "occurrences": "all",
+     "academic": "緣",
+     "children": "幫助的原因",
+     "basis": "english-pivot",
+     "reason": "Established pratyaya 緣; children follows 'helping cause'."
+    }
+   ]
+  },
+  {
+   "term_id": "T227",
+   "bo": "མཐར་གྱིས་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "gradual path",
+     "occurrences": "all",
+     "academic": "漸次",
+     "children": "一步一步的道路",
+     "basis": "style-sheet",
+     "reason": "Policy 13 title word 漸次; children follows 'step-by-step path'."
+    }
+   ]
+  },
+  {
+   "term_id": "T240",
+   "bo": "ཀླུ་དབང",
+   "sanskrit": "nāgapati",
+   "senses": [
+    {
+     "sense": "nāga king",
+     "occurrences": "all",
+     "academic": "龍王",
+     "children": "龍王",
+     "basis": "new",
+     "reason": "Established nāgarāja; Gemini's 龍主龍王 doubles; transparent for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T253",
+   "bo": "གཏོང་བ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "giving",
+     "occurrences": "all",
+     "academic": "布施",
+     "children": "慷慨",
+     "basis": "style-sheet",
+     "reason": "English 'giving'; core term 布施 (大布施); Gemini's 佈施 uses a non-CBETA form."
+    }
+   ]
+  },
+  {
+   "term_id": "T266",
+   "bo": "འདུས་མ་བྱས་ཁམས",
+   "sanskrit": "asaṃskṛtadhātu",
+   "senses": [
+    {
+     "sense": "unconditioned realm",
+     "occurrences": "all",
+     "academic": "無為界",
+     "children": "不是由原因造成的領域",
+     "basis": "style-sheet",
+     "reason": "Policy 16: 無為; policy 7: 界 for ཁམས; children follows 'not made by causes'."
+    }
+   ]
+  },
+  {
+   "term_id": "T279",
+   "bo": "བདུད་ཀྱི་ཕྱོགས",
+   "sanskrit": "mārapakṣa",
+   "senses": [
+    {
+     "sense": "factions of Māra",
+     "occurrences": "all",
+     "academic": "魔黨",
+     "children": "魔王一方",
+     "basis": "english-pivot",
+     "reason": "魔 plus 黨 (faction); children follows 'Mara's side' with 魔王."
+    }
+   ]
+  },
+  {
+   "term_id": "T292",
+   "bo": "སྐུ་གདུང",
+   "sanskrit": "śarīra",
+   "senses": [
+    {
+     "sense": "bodily relic",
+     "occurrences": "all",
+     "academic": "舍利",
+     "children": "佛的遺骨",
+     "basis": "english-pivot",
+     "reason": "Established 舍利 for relic; 遺骨 plain for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T305",
+   "bo": "སྲོག་ཆགས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "creature",
+     "occurrences": "all",
+     "academic": "生類",
+     "children": "生物",
+     "basis": "english-pivot",
+     "reason": "Gemini's 有情 would blur སེམས་ཅན; 生類 is the plain 'creature'."
+    }
+   ]
+  },
+  {
+   "term_id": "T318",
+   "bo": "རྣམ་པ",
+   "sanskrit": "ākāra",
+   "senses": [
+    {
+     "sense": "aspect",
+     "occurrences": "all",
+     "academic": "行相",
+     "children": "方式",
+     "basis": "new",
+     "reason": "Established ākāra; bare 相 avoided as it collides with མཚན་མ 相; 一切相智 unaffected."
+    }
+   ]
+  },
+  {
+   "term_id": "T331",
+   "bo": "སྒྲ་གཅན",
+   "sanskrit": "rāhu",
+   "senses": [
+    {
+     "sense": "Rāhu",
+     "occurrences": "all",
+     "academic": "羅睺",
+     "children": "羅睺",
+     "basis": "new",
+     "reason": "Established Chinese name of Rāhu; policy 11 on names."
+    }
+   ]
+  },
+  {
+   "term_id": "T344",
+   "bo": "མདོ",
+   "sanskrit": "sūtra",
+   "senses": [
+    {
+     "sense": "sūtra",
+     "occurrences": "all",
+     "academic": "經",
+     "children": "經書",
+     "basis": "english-pivot",
+     "reason": "Established sūtra 經; 經書 plain for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T357",
+   "bo": "དགྲ་བཅོམ་དེ་བཞིན་ཉིད",
+   "sanskrit": "arhattathatā",
+   "senses": [
+    {
+     "sense": "suchness of the arhats",
+     "occurrences": "all",
+     "academic": "阿羅漢真如",
+     "children": "值得敬重的人眼中事物的真正樣貌",
+     "basis": "style-sheet",
+     "reason": "Built from 阿羅漢 and 真如; children from the two core child phrases."
+    }
+   ]
+  },
+  {
+   "term_id": "T370",
+   "bo": "དད་ལྡན",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "endowed with faith",
+     "occurrences": "all",
+     "academic": "具信",
+     "children": "充滿信任",
+     "basis": "english-pivot",
+     "reason": "Established 具信 (śraddhā-sampanna); children follows 'full of trust'."
+    }
+   ]
+  },
+  {
+   "term_id": "T383",
+   "bo": "གོ་ཆ་གྱོན",
+   "sanskrit": "saṃnāha",
+   "senses": [
+    {
+     "sense": "don armor",
+     "occurrences": "all",
+     "academic": "披甲",
+     "children": "穿上盔甲",
+     "basis": "english-pivot",
+     "reason": "Established 披甲; children 'put on armor'."
+    }
+   ]
+  },
+  {
+   "term_id": "T396",
+   "bo": "ཡོན་ཏན་རྒྱ་མཚོ",
+   "sanskrit": "guṇasāgara",
+   "senses": [
+    {
+     "sense": "ocean of qualities",
+     "occurrences": "all",
+     "academic": "功德海",
+     "children": "美好品質的海洋",
+     "basis": "style-sheet",
+     "reason": "Compound of 功德 + 海; children builds on 美好的品質."
+    }
+   ]
+  },
+  {
+   "term_id": "T409",
+   "bo": "རྣམ་རྟོག",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "conceptual thought",
+     "occurrences": "all",
+     "academic": "分別",
+     "children": "紛亂的念頭",
+     "basis": "english-pivot",
+     "reason": "Established vikalpa 分別; children follows 'busy thought'."
+    }
+   ]
+  },
+  {
+   "term_id": "T422",
+   "bo": "བདེན་པའི་བྱིན་གྱིས་བརླབས",
+   "sanskrit": "satyādhiṣṭhāna",
+   "senses": [
+    {
+     "sense": "blessing of truth",
+     "occurrences": "all",
+     "academic": "真實加持",
+     "children": "真實的祝福",
+     "basis": "english-pivot",
+     "reason": "Translated from 'blessing of truth'; 加持 for byin gyis brlabs."
+    }
+   ]
+  },
+  {
+   "term_id": "T435",
+   "bo": "བསྒྲུབ་པའི་ས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "stage of accomplishment",
+     "occurrences": "all",
+     "academic": "成就地",
+     "children": "成就的階段",
+     "basis": "english-pivot",
+     "reason": "Translated from 'stage of accomplishment'; 地 as in bhūmi."
+    }
+   ]
+  },
+  {
+   "term_id": "T448",
+   "bo": "སྦྱིན་གནས",
+   "sanskrit": "dakṣiṇīya",
+   "senses": [
+    {
+     "sense": "worthy recipient",
+     "occurrences": "all",
+     "academic": "應受布施者",
+     "children": "值得接受布施的人",
+     "basis": "english-pivot",
+     "reason": "Translated from 'worthy recipient'; avoids 應供 which is the arhat."
+    }
+   ]
+  },
+  {
+   "term_id": "T461",
+   "bo": "དམ་བཅས",
+   "sanskrit": "pratijñā",
+   "senses": [
+    {
+     "sense": "commitment",
+     "occurrences": "all",
+     "academic": "誓言",
+     "children": "承諾",
+     "basis": "zero-shot",
+     "reason": "Gemini's 誓言 agrees with 'commitment'; 承諾 for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T474",
+   "bo": "ལྟ་བ་དྲུག་ཅུ་གཉིས",
+   "sanskrit": "dvāṣaṣṭidṛṣṭi",
+   "senses": [
+    {
+     "sense": "sixty-two views",
+     "occurrences": "all",
+     "academic": "六十二見",
+     "children": "六十二種見解",
+     "basis": "english-pivot",
+     "reason": "Established 六十二見; Chinese numerals inside terms."
+    }
+   ]
+  },
+  {
+   "term_id": "T487",
+   "bo": "སངས་རྒྱས་མཛད་པ",
+   "sanskrit": "buddhakārya",
+   "senses": [
+    {
+     "sense": "deed of a Buddha",
+     "occurrences": "all",
+     "academic": "佛事",
+     "children": "佛陀的作為",
+     "basis": "english-pivot",
+     "reason": "Established buddhakārya 佛事; children 'Buddha's deed'."
+    }
+   ]
+  },
+  {
+   "term_id": "T500",
+   "bo": "ཕན་མཛད",
+   "sanskrit": "hitaṃkara",
+   "senses": [
+    {
+     "sense": "benefactor",
+     "occurrences": "all",
+     "academic": "饒益者",
+     "children": "幫助者",
+     "basis": "english-pivot",
+     "reason": "Hitaṃkara; 饒益 'benefit'; same rendering as T539."
+    }
+   ]
+  },
+  {
+   "term_id": "T513",
+   "bo": "བྱིས་པའི་ཆོས",
+   "sanskrit": "bāladharma",
+   "senses": [
+    {
+     "sense": "qualities of the foolish",
+     "occurrences": "all",
+     "academic": "愚夫法",
+     "children": "不明智的人的特質",
+     "basis": "new",
+     "reason": "⚑ policy 6 would give 功德, which is positive; established 愚夫法 used instead."
+    }
+   ]
+  },
+  {
+   "term_id": "T526",
+   "bo": "རོ",
+   "sanskrit": "rasa",
+   "senses": [
+    {
+     "sense": "taste",
+     "occurrences": "all",
+     "academic": "味",
+     "children": "味道",
+     "basis": "english-pivot",
+     "reason": "Established rasa 味; 味道 plain."
+    }
+   ]
+  },
+  {
+   "term_id": "T539",
+   "bo": "ཕན་པ་མཛད་པ",
+   "sanskrit": "hitaṃkara",
+   "senses": [
+    {
+     "sense": "Benefactor",
+     "occurrences": "all",
+     "academic": "饒益者",
+     "children": "幫助者",
+     "basis": "english-pivot",
+     "reason": "Same Sanskrit hitaṃkara as T500, so the same rendering."
+    }
+   ]
+  },
+  {
+   "term_id": "T552",
+   "bo": "དགེ་བའི་ལས་ལམ་བཅུ",
+   "sanskrit": "kuśalakarmapatha",
+   "senses": [
+    {
+     "sense": "ten paths of virtuous action",
+     "occurrences": "all",
+     "academic": "十善業道",
+     "children": "十條善行之路",
+     "basis": "new",
+     "reason": "Established kuśalakarmapatha; children follows 'ten paths of good action'."
+    }
+   ]
+  },
+  {
+   "term_id": "T565",
+   "bo": "ཡི་དགས་གནས",
+   "sanskrit": "pretabhava",
+   "senses": [
+    {
+     "sense": "realm of hungry ghosts",
+     "occurrences": "all",
+     "academic": "餓鬼道",
+     "children": "餓鬼的地方",
+     "basis": "english-pivot",
+     "reason": "Established pretagati; children 'realm of hungry ghosts'; 界 and 世界 reserved."
+    }
+   ]
+  },
+  {
+   "term_id": "T578",
+   "bo": "བཻḍūརྱ",
+   "sanskrit": "vaiḍūrya",
+   "senses": [
+    {
+     "sense": "lapis lazuli",
+     "occurrences": "all",
+     "academic": "琉璃",
+     "children": "青金石",
+     "basis": "zero-shot",
+     "reason": "Gemini's 琉璃 for vaiḍūrya; children names the stone, lapis lazuli."
+    }
+   ]
+  },
+  {
+   "term_id": "T591",
+   "bo": "ཆོས་ཀྱི་སྐུ",
+   "sanskrit": "dharmakāya",
+   "senses": [
+    {
+     "sense": "Dharmakāya",
+     "occurrences": "all",
+     "academic": "法身",
+     "children": "法身",
+     "basis": "style-sheet",
+     "reason": "Policy 13 fixed title word 法身; transparent in the section titles."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,275 @@
+{
+ "batch": "calibration",
+ "segments": [
+  {
+   "id": "1-11",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "are also apprehended",
+     "evidence": "The Tibetan \"ཆོས་གང་སྤྱོད་པ་དེ་ཡང་དམིགས་པར་མི་འགྱུར་ཏེ\" says the phenomena practiced do not become objects of apprehension (negation \"མི་འགྱུར\"). Khenrab (bo-khenrab 1-11): \"འཁོར་གསུམ་མི་དམིགས་པ་སྤྱད་པ\" (practice of non-apprehension of the three spheres). The English drops the negation and says the opposite.",
+     "fix": "Whatever phenomena they practice are also not apprehended"
+    }
+   ]
+  },
+  {
+   "id": "1-14",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "Will become afraid upon hearing the Mother of the Victors.",
+     "evidence": "The Tibetan \"ཐོས་སྐྲག་པར་ཡོང་མི་འགྱུར\" means they will never become afraid. Mipham (bo-mipham 1-14): \"སྐྲག་པར་ཡོངས་ཡེ་མི་འགྱུར་པར\"; Rangjung (bo-rangjung 1-14): \"སྐྲག་པ་ཡོངས་སུ་མེད་པར་གྱུར་ཏེ\". Sanskrit \"trāso na bheṣyati\". The English reverses the sense.",
+     "fix": "Will never become afraid upon hearing the Mother of the Victors."
+    }
+   ]
+  },
+  {
+   "id": "1-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "noble beings",
+     "evidence": "Locked term \"གང་ཟག་དམ་པ\" = \"holy being\"; the English uses \"noble beings\", which is not the locked rendering and suggests \"ārya\".",
+     "fix": "This is the supreme armor of holy beings."
+    }
+   ]
+  },
+  {
+   "id": "1-23",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "for countless eons",
+     "evidence": "The Tibetan \"བྱང་ཆུབ་སེམས་དཔའ་མཁས་རིག་གང་གི་དུས་ཀྱི་ཚེ ... སྐྱེ་མེད་རྣམ་པར་བསམས་ཏེ་འདི་ལྟར་སྤྱོད་བྱེད་ཅིང\" says only \"whenever/at the time when\" the bodhisattva contemplates the unborn and practices thus. Nothing in the Tibetan, Sanskrit (\"yasmiṃś ca kāli samaye\") or the commentaries (bo-mipham 1-23, bo-rangjung 1-23) speaks of countless eons.",
+     "fix": "Contemplates the unborn and practices in this way,"
+    }
+   ]
+  },
+  {
+   "id": "1-24",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "This is the practice of the supreme perfection of wisdom.",
+     "evidence": "The final line \"འདི་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་མ་ཡིན\" ends in \"མ་ཡིན\" (is not). Sanskrit \"na ca eṣā ... caryā\"; Mipham (bo-mipham 1-24): \"སྤྱོད་པ་མ་ཡིན\"; Rangjung (bo-rangjung 1-24): \"སྤྱོད་པ་མ་ཡིན་ནོ\". The English asserts the opposite.",
+     "fix": "This is not the practice of the supreme perfection of wisdom."
+    }
+   ]
+  },
+  {
+   "id": "2-1",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "And whoever abides in consciousness, abides in the true nature of phenomena;",
+     "evidence": "The Tibetan \"རྣམ་ཤེས་གང་མི་གནས་པ་ཆོས་ཉིད་གནས་པ་སྟེ\" has \"མི་གནས\" (does not abide): whoever does not abide in consciousness abides in the true nature. Mipham (bo-mipham 2-1): \"རྣམ་ཤེས་གང་ལ་མི་གནས་པ། དེ་ནི ... ཆོས་ཉིད ... ལ་གནས་པ\". The English drops the negation.",
+     "fix": "And whoever does not abide in consciousness abides in the true nature of phenomena;"
+    }
+   ]
+  },
+  {
+   "id": "2-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-7",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "Whoever trains in training and non-training, that is training.",
+     "evidence": "The Tibetan \"གང་ཞིག་སློབ་མི་སློབ་ལ་མི་སློབ་དེ་སློབ་ཡིན\" has \"མི་སློབ\" after \"ལ\": whoever does not train in training and non-training, that is (true) training. Mipham (bo-mipham 2-7): \"སློབ་པ ... མི་སློབ་པ ... ཆོས་གང་ལའང་མི་སློབ་པ་དེ་ནི་ཡང་དག་པའི་ལམ་ལ་སློབ་པ་ཡིན\"; Rangjung (bo-rangjung 2-7): \"སློབ་པ་དང་མི་སློབ་པའི་ས་ལ་མི་སློབ་པ་དེ་ནི ... སློབ་པ་ཡིན\". The English drops the negation.",
+     "fix": "Whoever does not train in training and non-training, that is training."
+    }
+   ]
+  },
+  {
+   "id": "2-25",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "supreme transcendent insight",
+     "evidence": "Locked term \"ཤེས་རབ་ཕ་རོལ་ཕྱིན\" = \"perfection of wisdom\"; line 1 \"ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག\" is rendered \"supreme transcendent insight\" though line 4 uses the locked rendering.",
+     "fix": "Likewise, through the qualities of the supreme perfection of wisdom,"
+    }
+   ]
+  },
+  {
+   "id": "2-51",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "—",
+     "evidence": "Line 2 \"ཕ་རོལ་ཕྱིན་འདིར་སྤྱོད་པ་མཁས་པ་སོམ་ཉི་མེད\" says the bodhisattva is skilled in practicing this perfection and has no doubt (\"སོམ་ཉི་མེད\"). Sanskrit \"na ca kāṅkṣati\"; Mipham (bo-mipham 2-51): \"སོམས་ཉི་མེད་པར་གྱུར་ནས\"; Rangjung (bo-rangjung 2-51): \"རྟོགས་པ་ལ་སོམ་ཉི་མེད\". The English omits \"without doubt\".",
+     "fix": "Skillfully practiced this perfection, without doubt,"
+    }
+   ]
+  },
+  {
+   "id": "4-1",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "major",
+     "span": "Brahmā, king of the gods",
+     "evidence": "Tibetan \"ལྷ་རྒྱལ་བརྒྱ་བྱིན\" is Śakra (locked: \"Śakra, king of the gods\"); Sanskrit \"śakro ... devarājo\"; Rangjung (bo-rangjung 4-1): \"ལྷའི་དབང་པོ་བརྒྱ་བྱིན\". The English names a different deity, Brahmā.",
+     "fix": "Śakra, king of the gods"
+    }
+   ]
+  },
+  {
+   "id": "4-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-46",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "It is the armor of the aggregates, elements, and sense bases;",
+     "evidence": "The Tibetan \"ཕུང་པོ་ཁམས་དང་སྐྱེ་མཆེད་རྣམས་ཀྱི་གོ་ཆ་མིན\" ends in \"མིན\" (is not). Sanskrit \"na ca skandhadhātu na ca āyatanaiḥ sanaddhāḥ\"; Mipham (bo-mipham 4-46): \"གོ་ཆ་བགོ་བ་མིན\"; Khenrab (bo-khenrab 4-46): \"གོ་ཆ་དགོ་བ་མིན\". The English drops the negation.",
+     "fix": "It is not the armor of the aggregates, elements, and sense bases;"
+    }
+   ]
+  },
+  {
+   "id": "4-57",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "And rely on other śramaṇas and brahmins;",
+     "evidence": "The Tibetan \"དགེ་སྦྱོང་དག་དང་བྲམ་ཟེ་གཞན་ལ་རྟེན་མི་བྱེད\" has \"མི་བྱེད\" (do not rely). Sanskrit \"na ca anya te śramaṇa brāhmaṇa āśrayanti\"; Mipham (bo-mipham 4-57): \"རྟེན་པར་མི་བྱེད\"; Rangjung (bo-rangjung 4-57): \"བརྟེན་པ་མི་བྱེད\". The English asserts the opposite.",
+     "fix": "And do not rely on other śramaṇas and brahmins;"
+    }
+   ]
+  },
+  {
+   "id": "4-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-71",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "And by the final contact with the flame, the wick is consumed,",
+     "evidence": "The Tibetan \"མེ་ལྕེ་ཕྲད་པ་ཐམས་སྙིང་པོ་ཚིག་མིན་ལ\" says the (last) contact does not consume it (\"ཚིག་མིན\"). Mipham (bo-mipham 4-71): \"མེ་ལྕེ་ཕྲད་པ་ཐ་མ་ཁོ་ནས་ཀྱང་མར་གྱི་སྙིང་པོ་དེ་ཚིག་པ་མིན\"; Khenrab (bo-khenrab 4-71) the same; Sanskrit \"na hi arci paścimanipāta ... dagdhā\". The English reverses it, contradicting the next line.",
+     "fix": "And by the final contact with the flame, the wick is not consumed,"
+    }
+   ]
+  },
+  {
+   "id": "4-92",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "their host of servants and friends",
+     "evidence": "Tibetan \"གཉེན་བཤེས་ཚོགས\" means kin and friends; Sanskrit \"jātisaṅgho\" (kin group); Khenrab (bo-khenrab 4-92) \"རང་གི་གཉེན་རྣམས ... གཉེན་བཤེས་ཀྱི་ཚོགས\". Nothing in the Tibetan mentions servants.",
+     "fix": "their host of kin and friends"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "does not live happily all alone\nWhile leaving",
+     "evidence": "The Tibetan says the caravan leader alone lives happily and does not leave his kin and friends unhappy (Mipham, bo-mipham 4-92: \"རང་ཉིད་འབའ་ཞིག ... བདེ་བར་འཚོ་བར་བྱེད་ཅིང ... ཡིད་མི་བདེ་བར་འཇོག་པར་བྱེད་པ་མིན\"). The English negation can be read as denying that he lives happily.",
+     "fix": "The merchant alone lives happily, yet does not leave his host of kin and friends unhappy."
+    }
+   ]
+  },
+  {
+   "id": "5-4",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "\"I have a vision,\"",
+     "evidence": "The Tibetan \"བདག་ལུང་བསྟན་སྙམ་རློམ་སེམས\" is the thought \"I have been prophesied\" (locked: \"ལུང་བསྟན\"=prophecy). Mipham (bo-mipham 5-4): \"བདག་ལུང་བསྟན་པ་ཉིད་དུ་གྱུར་པའོ་སྙམ\"; Sanskrit \"vyākṛto 'smi\". \"Vision\" has no basis.",
+     "fix": "\"I have been prophesied,\""
+    }
+   ]
+  },
+  {
+   "id": "5-9",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "fifty yojanas",
+     "evidence": "The Tibetan \"དཔག་ཚད་ལྔ་བརྒྱ\" is five hundred yojanas. Sanskrit \"pañcayojanaśate\"; Mipham (bo-mipham 5-9): \"དཔག་ཚད་ལྔ་བརྒྱ\"; Rangjung (bo-rangjung 5-9): \"དཔག་ཚད་ལྔ་བརྒྱ་ཡོད་པའི་རི་སུལ\".",
+     "fix": "five hundred yojanas"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Whoever, in a mountain cleft of fifty yojanas,\nFilled with snakes, abides for many tens of millions of years,\nThat bodhisattva",
+     "evidence": "The Tibetan \"གནས་བྱེད་ཀྱང་\" is concessive (even though one abides there ...), then \"that bodhisattva who does not know this solitude\". The English leaves \"Whoever ... abides\" without a main clause and loses \"even though\".",
+     "fix": "Even if one abides for many tens of millions of years in a mountain cleft of five hundred yojanas filled with snakes, that bodhisattva who does not know this solitude"
+    }
+   ]
+  },
+  {
+   "id": "5-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-24",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "should abandon the yoga",
+     "evidence": "The Tibetan \"རྣལ་འབྱོར་དོར་མི་བྱ\" means one should not abandon the yoga. Sanskrit \"yogu na riñcitavyo\"; Rangjung (bo-rangjung 5-23, same passage) and Mipham support persevering. The English drops the negation.",
+     "fix": "should not abandon the yoga"
+    }
+   ]
+  },
+  {
+   "id": "5-47",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

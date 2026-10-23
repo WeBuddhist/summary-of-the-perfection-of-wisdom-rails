@@ -1,0 +1,2198 @@
+[
+ {
+  "id": "0-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-2",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Their words bring great joy and good results.",
+    "evidence": "Dharma 'producing supreme noble bliss and attaining its fruit' (the practice yields noble bliss and its fruit); not that the words bring joy",
+    "fix": "Following it brings noble joy and its good results."
+   }
+  ]
+ },
+ {
+  "id": "1-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-7",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "without feeling sad or afraid",
+    "evidence": "'without discouragement or fear' (not losing heart)",
+    "fix": "without losing heart or being afraid"
+   }
+  ]
+ },
+ {
+  "id": "1-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-9",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Others do not practice in form",
+    "evidence": "'Whoever does not practice in form...' refers to the same bodhisattva type described; 'Others' wrongly suggests a different group",
+    "fix": "Whoever does not practice in form, feeling, idea, or intention"
+   }
+  ]
+ },
+ {
+  "id": "1-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-11",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "They truly understand that not practicing is the real practice.",
+    "evidence": "'Because they thoroughly understand that non-practice is the practice': the understanding is the reason they practice the wisdom of the Sugatas; 'real' is added",
+    "fix": "They practice the wisdom of the Well-Gone Ones because they fully understand that not practicing is the practice."
+   }
+  ]
+ },
+ {
+  "id": "1-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-15",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "the awakening of a Victorious One",
+    "evidence": "'the unattached awakening of the Victors' (plural)",
+    "fix": "the awakening of the Victorious Ones, which is free of clinging"
+   }
+  ]
+ },
+ {
+  "id": "1-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-18",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "cuts off all their heads",
+    "evidence": "'tens of millions of heads of a large crowd of people'",
+    "fix": "cuts off millions of heads from a huge crowd"
+   },
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "just like those illusions",
+    "evidence": "beings are known 'to be like emanations' (conjured appearances), not 'illusion' (sgyu ma)",
+    "fix": "just like those conjured people"
+   }
+  ]
+ },
+ {
+  "id": "1-19",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "You must enter into awakening this way",
+    "evidence": "'Entering into awakening in this way without a discouraged mind, this is the supreme armor' (a description, not a command)",
+    "fix": "Entering into awakening this way without losing heart is the best armor for holy persons."
+   }
+  ]
+ },
+ {
+  "id": "1-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-24",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "doctrinal",
+    "severity": "minor",
+    "span": "only imagines a self and living beings",
+    "evidence": "'a bodhisattva who conceptualizes self and sentient beings' (clings to them as real); 'only imagines' may suggest beings do not exist at all",
+    "fix": "who holds on to the idea of a self and of living beings"
+   }
+  ]
+ },
+ {
+  "id": "1-25",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Do not think about arising or no arising.",
+    "evidence": "Academic: 'Not conceptualizing either non-arising or arising' - the point is not holding a fixed idea, not refusing to think.",
+    "fix": "Do not hold on to any fixed idea about arising or no arising."
+   }
+  ]
+ },
+ {
+  "id": "1-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-27",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "all things are with no nature of their own",
+    "evidence": "Locked term 'with no nature of its own' is forced into an ungrammatical clause; academic: 'phenomena are devoid of intrinsic nature'.",
+    "fix": "They completely understand that all things have no nature of their own."
+   }
+  ]
+ },
+ {
+  "id": "1-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "rests on a base through a stay without staying",
+    "evidence": "Academic: 'abides in a basis by abiding without abiding'; the children's phrase is tangled and 'the true way to stay' adds 'true'.",
+    "fix": "In the same way, an awakening hero rests on a base by a stay without staying. The Victorious One taught that this stay without staying is how to stay."
+   }
+  ]
+ },
+ {
+  "id": "2-4",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "trying to cross a river",
+    "evidence": "Academic: 'one sees no crossing to go from this shore to the other' - no river is mentioned.",
+    "fix": "It is like not seeing any way to cross from this shore to the other shore."
+   }
+  ]
+ },
+ {
+  "id": "2-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-13",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "When I spoke the truth of this highest perfection",
+    "evidence": "Academic: 'When I spoke in conformity with this supreme perfection' (Tib. mthun par smra) - speaking in accord with it, not 'the truth of' it.",
+    "fix": "When I spoke in line with this highest perfection"
+   }
+  ]
+ },
+ {
+  "id": "2-14",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "This perfection keeps people safe.",
+    "evidence": "Not in the text; protection is stated only for whoever respects, retains and understands it, in the next clause.",
+    "fix": "The Protectors practice this perfect wisdom. Anyone who respects, remembers, and truly understands it will not be hurt by poison, weapons, fire, or water."
+   }
+  ]
+ },
+ {
+  "id": "2-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-16",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "in the past, present and future",
+    "evidence": "Academic: offerings 'at the three times of each day' (three times a day); the locked term 'past, present and future' conflicts with the context. Also 'sweet incense' for 'supreme incense'.",
+    "fix": "They offer heavenly flowers, the best incense, and oils three times every day."
+   }
+  ]
+ },
+ {
+  "id": "2-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-18",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "in every realm of living beings",
+    "evidence": "Academic: 'the many realms of sentient beings', not every realm.",
+    "fix": "in the many realms of living beings"
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "each became a perfect doctor and an unsurpassed king of healers",
+    "evidence": "Academic: only 'unsurpassed kings of physicians'; 'perfect doctor' is an added second title.",
+    "fix": "each became an unsurpassed king of healers."
+   }
+  ]
+ },
+ {
+  "id": "2-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-27",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "But the shadows themselves are not really different from one another.",
+    "evidence": "Says there are no diverse shadows, nor any differences, except as a spoken number of shadows; the children's text drops the claim that varied shadows do not exist.",
+    "fix": "The trees have many kinds and shapes. But the shadows are not many different kinds. They are only counted and named as many."
+   }
+  ]
+ },
+ {
+  "id": "2-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-31",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "Sharing this perfection of wisdom is much better.",
+    "evidence": "The verse only says that the one who writes the text and gives it to a supreme being has far more merit; it does not generalize to 'sharing' as such.",
+    "fix": "The person who writes it down and gives it to a great person earns much more stored-up goodness."
+   }
+  ]
+ },
+ {
+  "id": "2-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-33",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "Without a tree, how could branches, leaves, flowers, and fruit ever appear?",
+    "evidence": "The question is: without a sprout, a tree never emerges, so how could branches, leaves, flowers and fruits emerge on it? The children's text replaces the sprout with the tree, losing the sprout-to-tree analogy for the wish to awaken.",
+    "fix": "If a tree has no sprout, it never grows in the world. Then how could branches, leaves, flowers, and fruit ever appear on it?"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "And without their awakening, how could the good fruits, like Shakra, Brahma, and the listeners, ever appear?",
+    "evidence": "The analogy is: without the mind of awakening (wish to awaken), a Victor does not emerge, so how could the fruits (Shakra, Brahma, listeners) emerge. The children's text swaps the wish to awaken for 'their awakening' and adds 'good'.",
+    "fix": "And without the wish to awaken, a Victorious One does not appear, so how could the fruits, like Shakra, Brahma, and the listeners, ever appear?"
+   }
+  ]
+ },
+ {
+  "id": "2-34",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "They do this to know true awakening.",
+    "evidence": "The text says only 'in order to know' (ཤེས་ཕྱིར); it names no object such as 'true awakening'.",
+    "fix": "They do this in order to know."
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "living beings gain every good quality and wonderful quality",
+    "evidence": "Sentient beings become endowed with qualities; 'every' overstates it and 'good quality and wonderful quality' doubles the one compound ཡོན་ཏན་ཆོས.",
+    "fix": "living beings come to have good qualities."
+   }
+  ]
+ },
+ {
+  "id": "2-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-38",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "But an awakening hero only needs a single thought to rejoice.",
+    "evidence": "The comparison is of merit: the shravakas' heap of merit cannot match a fraction of a bodhisattva's single mind of rejoicing. 'Only needs' turns the comparison into a claim about what the hero needs.",
+    "fix": "But compare this with the single thought of rejoicing of an awakening hero."
+   }
+  ]
+ },
+ {
+  "id": "2-39",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "billions of Buddhas from the past",
+    "evidence": "The Tibetan gives a vast number, tens of millions of hundreds of billions, so 'billions' understates it.",
+    "fix": "countless Buddhas from the past"
+   }
+  ]
+ },
+ {
+  "id": "2-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-44",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "seeing good things or any quality as something to hold onto",
+    "evidence": "Only the apprehension of virtuous (white) qualities (དཀར་པོའི་ཆོས) is likened to poisoned food; 'or any quality' widens it.",
+    "fix": "holding onto good things as something real to hold onto"
+   }
+  ]
+ },
+ {
+  "id": "2-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-46",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "You stay close to the Buddha.",
+    "evidence": "The text says one does not abandon the Buddha (སངས་རྒྱས་མི་སྤོང).",
+    "fix": "You do not abandon the Buddha."
+   }
+  ]
+ },
+ {
+  "id": "2-47",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "millions of blind people",
+    "evidence": "The Tibetan gives tens of millions of hundreds of billions of blind people; the number is understated.",
+    "fix": "countless blind people"
+   }
+  ]
+ },
+ {
+  "id": "2-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-50",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "An awakening hero seeking awakening who holds onto the idea of living beings is not practicing",
+    "evidence": "The bodhisattva who thinks 'I shall liberate many beings' is the one who conceptually constructs the perception of sentient beings; the children's text separates the thought from the fault and says 'Victorious One' for 'Victors'.",
+    "fix": "An awakening hero who thinks like this is building up an idea of living beings in their mind. This is not practicing the highest perfection, perfect wisdom."
+   }
+  ]
+ },
+ {
+  "id": "2-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-2",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "But those with wisdom fly freely like birds in the sky.",
+    "evidence": "The wise roam freely because they know beings are like deer caught in a snare; the 'knowing' is dropped.",
+    "fix": "Knowing that confused beings are like deer caught in a trap, those with wisdom fly freely like birds in the sky."
+   }
+  ]
+ },
+ {
+  "id": "3-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-5",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "They also do not find things.",
+    "evidence": "Text says they do not apprehend all phenomena (ཆོས་ཀུན་, 'all things'); 'all' is lost.",
+    "fix": "They do not find any of the things either."
+   }
+  ]
+ },
+ {
+  "id": "4-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-2",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "They have already served billions of Buddhas.",
+    "evidence": "'Many tens of billions' of Buddhas (བྱེ་བ་ཁྲག་ཁྲིག་མང་), not simply billions.",
+    "fix": "They have served many, many billions of Buddhas."
+   }
+  ]
+ },
+ {
+  "id": "4-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "beautiful forests where the cowherds work",
+    "evidence": "Excellent forests at the cowherds' boundary (མཚམས), i.e. the edge of their land, not where they work.",
+    "fix": "beautiful forests at the edge of the cowherds' land"
+   }
+  ]
+ },
+ {
+  "id": "4-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-6",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "those who fully enter the highest awakening hear this perfect wisdom",
+    "evidence": "Such people 'should be known as hearing' this perfect wisdom (རིག་པར་བྱ); the 'should be known' is lost.",
+    "fix": "You should know that those who fully enter the highest awakening are hearing this perfect wisdom of the Victorious Ones."
+   }
+  ]
+ },
+ {
+  "id": "4-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-14",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "searching for other scriptures",
+    "evidence": "Text says searching for sutras (མདོ་ཚོལ); 'other' is not there.",
+    "fix": "searching for scriptures"
+   }
+  ]
+ },
+ {
+  "id": "4-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-19",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "always in danger",
+    "evidence": "Text says 'always subject to much harm' (འཚེ་བ), i.e. often harmed, not merely in danger.",
+    "fix": "often harmed"
+   }
+  ]
+ },
+ {
+  "id": "4-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-21",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "She is their Mother in every world system.",
+    "evidence": "Wisdom 'who has become their Mother' (ཡུམ་གྱུར); 'in every world system' is not said of the Mother.",
+    "fix": "She has become their Mother."
+   }
+  ]
+ },
+ {
+  "id": "4-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-25",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "This is their home.",
+    "evidence": "The Guides have the perfection of wisdom as their domain (their range of activity), not a home.",
+    "fix": "Perfect wisdom is the place where they move and work, like a beautiful garden."
+   }
+  ]
+ },
+ {
+  "id": "4-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-27",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "the river of craving and strong wanting",
+    "evidence": "The text has only the river of craving (srid pa'i chu klung); 'strong wanting' is a gloss of the same word, not a second thing.",
+    "fix": "He dries up the river of craving, which is strong wanting."
+   }
+  ]
+ },
+ {
+  "id": "4-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-31",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "A king might not visit the towns and lands of his kingdom.",
+    "evidence": "The king does not go to the villages or provinces; it is a fact, not a possibility.",
+    "fix": "A king does not go to the towns and lands of his kingdom."
+   }
+  ]
+ },
+ {
+  "id": "4-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-44",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Do not hold on to the heaps of awakening. Do not have any clinging to the supreme!",
+    "evidence": "One single instruction: do not cling to the supreme by being attached to the aggregates of awakening. Splitting it into two commands loses the 'by' link.",
+    "fix": "Do not cling to the supreme by holding on to the heaps of awakening!"
+   }
+  ]
+ },
+ {
+  "id": "4-45",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "They are bright lamps who stay completely calm. They speak the highest teaching.",
+    "evidence": "'Illuminators' is dropped, and 'imperturbable' belongs to the speakers of the supreme Dharma, not to the lamps.",
+    "fix": "They light up the way and are lamps. They speak the highest teaching and cannot be shaken."
+   }
+  ]
+ },
+ {
+  "id": "4-46",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "They are never turning back.",
+    "evidence": "Ungrammatical use of the locked phrase; the Tibetan says they are irreversible.",
+    "fix": "They are ones who never turn back."
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "These famous heroes",
+    "evidence": "'Those of great renown'; 'heroes' is added and may be confused with 'awakening hero'.",
+    "fix": "These very famous ones put on armor for hard deeds."
+   }
+  ]
+ },
+ {
+  "id": "4-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-48",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "No one can just figure it out or reach it.",
+    "evidence": "No one realizes it, and there is no attaining of it. The children's text turns 'not realized/no attaining' into 'cannot easily figure out or reach', which changes the logic.",
+    "fix": "No one has realized it, and there is nothing to be reached."
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "he paused",
+    "evidence": "He felt little inclination (to teach), thinking no one would understand.",
+    "fix": "he felt little wish to teach"
+   }
+  ]
+ },
+ {
+  "id": "4-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-58",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "looking ahead only the length of a yoke",
+    "evidence": "A yoke (a wooden bar for oxen) is an unexplained hard word; the text means they look only a short distance ahead.",
+    "fix": "They walk looking only a short way ahead, about as far as the wooden bar that goes across an ox's neck."
+   }
+  ]
+ },
+ {
+  "id": "4-59",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "The three are kept quiet and pure.",
+    "evidence": "Academic: 'the three are isolated and pure'; 'the three' is unexplained and 'kept quiet' is imprecise for 'secluded'.",
+    "fix": "They live apart from the crowd, and their body, speech and mind are pure."
+   }
+  ]
+ },
+ {
+  "id": "4-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-62",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "They have no doubts about their path.",
+    "evidence": "Academic: 'without doubt about their own stage' (their own level of realization), not their path.",
+    "fix": "They have no doubt about their own stage of practice."
+   }
+  ]
+ },
+ {
+  "id": "4-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-64",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "They ride in the highest, free vehicle. ... When they understand this teaching, they perfect their stored-up goodness.",
+    "evidence": "Academic: 'the ultimate, unattached vehicle' and the bodhisattva who realizes this Dharma; the text does not say they 'perfect' goodness by understanding, it asks what accomplished merit exceeds theirs.",
+    "fix": "They ride in the deepest, unattached vehicle. Anyone who understands this teaching has stored-up goodness that nothing can beat."
+   }
+  ]
+ },
+ {
+  "id": "4-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-70",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "An awakening hero must dedicate their goodness without any self-importance.",
+    "evidence": "Academic: 'A bodhisattva who dedicates without conceit will not decline' (a description, not a command).",
+    "fix": "An awakening hero who dedicates without any self-importance will not fall back."
+   }
+  ]
+ },
+ {
+  "id": "4-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-73",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "it does not mean awakening is gone",
+    "evidence": "Academic: 'it is not that awakening is absent' (awakening is not nonexistent), not that something present has vanished.",
+    "fix": "When that first thought has ended, it does not mean there is no awakening."
+   }
+  ]
+ },
+ {
+  "id": "4-74",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "By slowly building up every good quality, you perfect the quality of goodness",
+    "evidence": "Academic: 'by gradually perfecting virtuous qualities, one becomes a Buddha'; the children's line is redundant and tangled.",
+    "fix": "By slowly building up the qualities of goodness, you become a Buddha."
+   }
+  ]
+ },
+ {
+  "id": "4-75",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "They practice the things of emptiness, being without signs, and without wishes.",
+    "evidence": "Academic: 'the phenomena of emptiness, signlessness, and wishlessness'; 'the things of emptiness' is awkward for ages 8-12.",
+    "fix": "They practice emptiness, being without signs, and being without wishes."
+   }
+  ]
+ },
+ {
+  "id": "4-76",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "They are also not afraid of awakening. They do not think, \"There is nothing here at all.\"",
+    "evidence": "Academic: 'nor do they fear awakening, thinking \"There is nothing at all here\"'; the thought is the cause of the fear, not something they refuse to think.",
+    "fix": "They are also not afraid of awakening, thinking, \"There is nothing here at all.\""
+   }
+  ]
+ },
+ {
+  "id": "4-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-80",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "to protect them",
+    "evidence": "The text only says he emanates many brave men and travels safely; it does not state their purpose.",
+    "fix": "The skilled person magically makes many brave men. They travel safely and return home again."
+   }
+  ]
+ },
+ {
+  "id": "4-81",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "two lower levels",
+    "evidence": "Academic: 'the two levels' (not described as lower).",
+    "fix": "They completely pass beyond the four Maras and the two levels."
+   }
+  ]
+ },
+ {
+  "id": "4-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-83",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "They also do not just stay in emptiness.",
+    "evidence": "Academic: 'does not abide in emptiness' (plain negation, no 'just').",
+    "fix": "They do not touch peace beyond sorrow, and they do not stay in emptiness."
+   }
+  ]
+ },
+ {
+  "id": "4-84",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "pure and perfect peace",
+    "evidence": "Academic: 'peace, utter peace' (no idea of purity).",
+    "fix": "they practice peace, complete peace."
+   }
+  ]
+ },
+ {
+  "id": "4-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-89",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-90",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-92",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-93",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-94",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Academic: the merchant is 'seeking profit' and goes to learn the route.",
+    "fix": "Think of a merchant who wants to gain wealth and travels to learn the route."
+   }
+  ]
+ },
+ {
+  "id": "4-95",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-96",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Could anyone say they will just reach a peace beyond sorrow?",
+    "evidence": "Academic: 'Could it be designated that they will attain nirvana'; no 'just'.",
+    "fix": "Could anyone say they will reach peace beyond sorrow?"
+   }
+  ]
+ },
+ {
+  "id": "4-97",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-98",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "A person with compassion",
+    "evidence": "Academic: 'those endowed with benefit and compassion'; the benefit to others is dropped.",
+    "fix": "A person with kindness and compassion who wants to help others can calm them through the blessing of truth."
+   }
+  ]
+ },
+ {
+  "id": "5-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-5",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "use names to trick you",
+    "evidence": "Academic: 'Mara approaches on the basis of names'; no stated aim of tricking.",
+    "fix": "Mara might come to you and speak about names."
+   }
+  ]
+ },
+ {
+  "id": "5-6",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "Mara will tell you about your strict practices and your training.",
+    "evidence": "Academic: practices and training 'you will come to possess' (future), plus 'conduct'.",
+    "fix": "Mara will tell you about the strict practices and training you will have. He will say, 'You had these same good qualities and conduct before.'"
+   }
+  ]
+ },
+ {
+  "id": "5-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-11",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "free from the mind of the two vehicles",
+    "evidence": "Free from the mind of the two vehicles (the arhat and solitary Buddha paths); 'two vehicles' is unexplained for ages 8-12.",
+    "fix": "free from wanting only to become a worthy one or a solitary Buddha, and sure of the highest awakening"
+   }
+  ]
+ },
+ {
+  "id": "5-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-18",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "I teach",
+    "evidence": "'Just as there is grasping, so is complete affliction taught' - passive, no first-person speaker.",
+    "fix": "Where there is clinging, complete mental trouble is taught."
+   }
+  ]
+ },
+ {
+  "id": "5-19",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "for millions of years",
+    "evidence": "'many tens of millions of millennia' (thousands of years times tens of millions); the length is greatly understated.",
+    "fix": "for countless thousands of years, over and over, for tens of millions of ages of a thousand years"
+   }
+  ]
+ },
+ {
+  "id": "5-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-22",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "The beings are 'long connected here' to the bodhisattva (ཡུན་རིང་འབྲེལ་པ).",
+    "fix": "An awakening hero who has long been connected with the living beings of the god and human worlds and the three lower realms wants to set them free."
+   }
+  ]
+ },
+ {
+  "id": "5-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-33",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "they lose time",
+    "evidence": "No such statement; the consequence is only that for as many moments as the barren thought lasts, that many ages they must put on the armor again from the beginning.",
+    "fix": "If they start a fight with one who has received a prediction, then for every moment of this bad thought they must put on their armor and start over for that many ages."
+   }
+  ]
+ },
+ {
+  "id": "5-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-35",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "They do not think of training and not training as two different things.",
+    "evidence": "The text says one does not conceptualize either of the two, training and non-training (མི་རྟོག); it does not say they are not seen as two different things.",
+    "fix": "They do not hold on to the ideas of training or not training."
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "some might cling to the training itself, but that is not so here",
+    "evidence": "Text says whoever trains does not assert any training at all; no contrast with others who cling is made.",
+    "fix": "When someone trains, they do not hold on to any training at all."
+   }
+  ]
+ },
+ {
+  "id": "5-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-45",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "showing off many magic powers",
+    "evidence": "Academic: 'displaying various miraculous powers' - neutral display; 'showing off' implies vanity, which clashes with the point that the illusory person has no wish to please or boast.",
+    "fix": "People see them showing many magic powers."
+   }
+  ]
+ },
+ {
+  "id": "5-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-50",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "made even more Maras from every single hair",
+    "evidence": "Academic: 'emanated that many more from every single hair' - each hair makes as many Maras as there are beings, not just 'more'.",
+    "fix": "Suppose from every single hair they made that many more Maras!"
+   }
+  ]
+ },
+ {
+  "id": "5-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-52",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "you should know something about this noble person. They have stepped onto the path of knowing everything.",
+    "evidence": "Academic: 'That noble one should be known to have entered into omniscience' - the point is to recognise that they have entered into knowing everything.",
+    "fix": "you should know that this noble person has entered into knowing everything."
+   }
+  ]
+ },
+ {
+  "id": "5-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-54",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "someone with a certain view",
+    "evidence": "Academic: 'one who views' (the one who looks/sees), not a person holding a particular view.",
+    "fix": "or someone who sees"
+   }
+  ]
+ },
+ {
+  "id": "5-55",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "the way an awakening hero rests",
+    "evidence": "Academic/Tibetan: 'this dwelling' with no named subject; the children's text supplies 'awakening hero' and, by listing a worthy one among the exceptions, sets up a confusing comparison with the listener's rest.",
+    "fix": "This resting place is better than the deep-calm resting places of all listeners and solitary Buddhas. Only the freedom of worthy ones and Thus-Gone Ones is left out of this."
+   }
+  ]
+ },
+ {
+  "id": "5-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-59",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "The Protectors of the world live in the past, the future, and the ten directions.",
+    "evidence": "Academic: 'Protectors of the World of the past, the future, and the ten directions' - they are the Protectors of all times and places, not beings who 'live in the past'.",
+    "fix": "The Protectors of the world from the past, the future, and all ten directions are all born from this."
+   }
+  ]
+ },
+ {
+  "id": "5-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-74",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "They might fully enjoy these five pleasures of the senses. But they stay away from the vehicle of the worthy one and the solitary Buddha. Instead, they find joy in the wish to awaken. You should know this hero is always resting in steady stillness.",
+    "evidence": "The verse is conditional: even if they engage intensely in the five sense pleasures, IF they are free of the arhat/pratyekabuddha vehicle and delight in the mind of awakening, THEN the hero is to be known as constantly in equipoise. 'Intensely engage' is also not the same as 'enjoy'.",
+    "fix": "Even if they work hard with form, sound, smell, taste, and touch, the five pleasures of the senses, they are free of the vehicle of the worthy one and the solitary Buddha, and they find joy in the wish to awaken. Then you should know this hero is always resting in steady stillness."
+   }
+  ]
+ },
+ {
+  "id": "5-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-80",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-83",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-84",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-89",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-90",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-91",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "while chasing a pleasure of the senses",
+    "evidence": "The harm is caused by (because of) the pleasures of the senses, experienced helplessly; the text does not say the person was actively chasing them, and it is an 'if I have helplessly suffered...' argument.",
+    "fix": "If I have helplessly suffered harm because of the pleasures of the senses, why should I not practice patience now for the sake of awakening?"
+   }
+  ]
+ },
+ {
+  "id": "5-92",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-93",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "their good conduct is perfect",
+    "evidence": "'their ethical discipline is unimpaired' (Tibetan ཉམས་པ་མེད: not damaged), not 'perfect'",
+    "fix": "and their good conduct is never damaged"
+   }
+  ]
+ },
+ {
+  "id": "5-94",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-95",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-96",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-97",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-98",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-99",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-100",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-101",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-102",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-103",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-104",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-105",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-106",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-107",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "What if every single one of them gave gifts to a Knower of the World? Imagine they gave gifts to the Buddhas, the worthy ones, and the solitary Buddhas.",
+    "evidence": "'Knowers of the World' is another name for the Buddhas, worthy ones and solitary Buddhas, not a separate group of recipients",
+    "fix": "What if every single one of them gave gifts to the Knowers of the World, the Buddhas, the worthy ones, and the solitary Buddhas?"
+   },
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "'Taking them as the utmost extent of what can be conceived' (all beings that can be imagined) and 'properly seek' (ལེགས་ཚོལ)",
+    "fix": "Imagine as many beings as anyone could possibly picture, all trying hard and properly to become a listener."
+   }
+  ]
+ },
+ {
+  "id": "5-108",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-109",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-110",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-4",
+  "verdict": "pass",
+  "issues": []
+ }
+]

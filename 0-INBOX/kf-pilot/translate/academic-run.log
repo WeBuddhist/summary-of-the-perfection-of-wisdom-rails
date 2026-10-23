@@ -1,0 +1,70 @@
+(anon):setopt:7: can't change option: monitor
+
+[[31mERROR[39m]: gitstatus failed to initialize.
+
+
+  Add the following parameter to ~/.zshrc for extra diagnostics on error:
+
+    GITSTATUS_LOG_LEVEL=DEBUG
+
+  Restart Zsh to retry gitstatus initialization:
+
+    [32mexec zsh[39m
+    ! attempt 1/6 failed (The read operation timed out); retrying in 2s
+    ! attempt 2/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 4s
+    ! attempt 3/6 failed (<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>); retrying in 8s
+    ! attempt 4/6 failed (Remote end closed connection without response); retrying in 16s
+segments to translate=312 batches=52
+  1-0..1-5 ok
+  1-6..1-11 ok
+  1-12..1-17 ok
+  1-18..1-23 ok
+  1-24..2-0 ok
+  2-1..2-6 ok
+  2-7..2-12 ok
+  2-13..2-18 ok
+  2-19..2-24 ok
+  2-25..2-30 ok
+  2-31..2-36 ok
+  2-37..2-42 ok  still missing terms in ['2-38']
+  2-43..2-48 ok
+  2-49..2-54 ok
+  3-0..3-5 ok
+  4-0..4-5 ok
+  4-6..4-11 ok
+  4-12..4-17 ok
+  4-18..4-23 ok
+  4-24..4-29 ok
+  4-30..4-35 ok
+  4-36..4-41 ok
+  4-42..4-47 ok
+  4-48..4-53 ok
+  4-54..4-59 ok
+  4-60..4-65 ok
+  4-66..4-71 ok
+  4-72..4-77 ok
+  4-78..4-83 ok
+  4-84..4-89 ok
+  4-90..4-95 ok
+  4-96..5-2 ok
+  5-3..5-8 ok
+  5-9..5-14 ok
+  5-15..5-20 ok
+  5-21..5-26 ok
+  5-27..5-32 ok
+  5-33..5-38 ok
+  5-39..5-44 ok
+  5-45..5-50 ok  still missing terms in ['5-45']
+  5-51..5-56 ok
+  5-57..5-62 ok
+  5-63..5-68 ok
+  5-69..5-74 ok
+  5-75..5-80 ok
+  5-81..5-86 ok
+  5-87..5-92 ok
+  5-93..5-98 ok
+  5-99..5-104 ok  still missing terms in ['5-99']
+  5-105..5-110 ok
+  6-0..7-0 ok
+  7-1..8-4 ok
+rendered 318/318 blocks; segments still missing a locked term: 3

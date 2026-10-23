@@ -1,0 +1,1058 @@
+[
+ {
+  "id": "1-25",
+  "tibetan": "བདག་ཅི་འདྲ་བ་དེ་འདྲར་སེམས་ཅན་ཐམས་ཅད་ཤེས། ། སེམས་ཅན་ཐམས་ཅད་ཅི་འདྲར་དེ་འདྲར་ཆོས་ཀུན་ཤེས། ། སྐྱེ་བ་མེད་དང་སྐྱེ་བ་གཉི་གར་མི་རྟོག་པ། ། འདི་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་པ་ཡིན། །",
+  "academic_translation": "Knowing all sentient beings to be just as the self is,\nKnowing all phenomena to be just as all sentient beings are,\nNot conceptualizing either non-arising or arising—\nThis is the practice of the supreme perfection of wisdom.",
+  "locked_terms": [
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "things"
+   },
+   {
+    "tibetan": "སྐྱེ་བ་མེད",
+    "use": "no arising"
+   },
+   {
+    "tibetan": "སྐྱེ་བ",
+    "use": "arising"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+    "use": "perfect wisdom"
+   }
+  ],
+  "translation": "You should know that all living beings are just like the self. Know that all things are just like all living beings. Do not think about arising or no arising. This is the practice of highest perfect wisdom."
+ },
+ {
+  "id": "1-26",
+  "tibetan": "འཇིག་རྟེན་དག་ན་ཆོས་མིང་ཇི་སྙེད་ཡོངས་བརྗོད་པ། ། ཀུན་ལ་སྐྱེ་བ་དང་ནི་ཡང་དག་འདས་སྤངས་ནས། ། ཡེ་ཤེས་འཆི་མེད་དམ་པ་དེ་ལས་གཞན་མེད་འཐོབ། ། དེ་ཕྱིར་འདི་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་ཅེས་བྱ། །",
+  "academic_translation": "However many names of phenomena are proclaimed in the world,\nHaving abandoned arising and passing away regarding them all,\nOne attains the supreme, deathless primordial wisdom, beyond which there is no other;\nTherefore, this is called the perfection of wisdom.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "things"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   },
+   {
+    "tibetan": "སྐྱེ་བ",
+    "use": "arising"
+   },
+   {
+    "tibetan": "ཡེ་ཤེས",
+    "use": "deep knowing"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+    "use": "perfect wisdom"
+   }
+  ],
+  "translation": "People in the world have many names for things. But you must let go of their arising and passing away. Then you will gain the highest, deathless deep knowing. There is nothing greater than this. That is why it is called perfect wisdom."
+ },
+ {
+  "id": "1-27",
+  "tibetan": "བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་དོགས་མེད་དེ་ལྟར་སྤྱོད། ། ཤེས་རབ་ལྡན་ཏེ་མཉམ་ཉིད་གནས་པར་ཤེས་པར་བྱ། ། ཆོས་རྣམས་རང་བཞིན་མེད་པར་ཡོངས་སུ་ཤེས་གྱུར་པ། ། འདི་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་པ་ཡིན། །",
+  "academic_translation": "Any bodhisattva who practices in this way without doubt\nShould be known as endowed with wisdom and abiding in equality;\nFully understanding that phenomena are devoid of intrinsic nature,\nThis is the practice of the supreme perfection of wisdom.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   },
+   {
+    "tibetan": "མཉམ་ཉིད",
+    "use": "sameness"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "things"
+   },
+   {
+    "tibetan": "རང་བཞིན་མེད",
+    "use": "with no nature of its own"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+    "use": "perfect wisdom"
+   }
+  ],
+  "translation": "Any awakening hero who practices this way without doubt has true wisdom. You should know they rest in sameness. They completely understand that all things are with no nature of their own. This is the practice of highest perfect wisdom."
+ },
+ {
+  "id": "1-28",
+  "tibetan": "སྐབས་གཉིས་པ་ལམ་ཐམས་ཅད་ཤེས་པ་ཉིད་བསྟན། །",
+  "academic_translation": "The second chapter, teaching the knowledge of all paths.",
+  "locked_terms": [
+   {
+    "tibetan": "ལམ་ཐམས་ཅད་ཤེས་པ་ཉིད",
+    "use": "knowing all the paths"
+   }
+  ],
+  "translation": "The second chapter, teaching knowing all the paths."
+ },
+ {
+  "id": "2-1",
+  "tibetan": "གང་ཞིག་གཟུགས་ལ་མི་གནས་ཚོར་ལ་མི་གནས་ཤིང་། ། གང་ཞིག་འདུ་ཤེས་མི་གནས་སེམས་པར་མི་གནས་ལ། ། རྣམ་ཤེས་གང་མི་གནས་པ་ཆོས་ཉིད་གནས་པ་སྟེ། ། འདི་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་པ་ཡིན། །",
+  "academic_translation": "Whoever does not abide in form, does not abide in feeling,\nWhoever does not abide in perception, does not abide in volition,\nAnd whoever does not abide in consciousness, abides in the true nature of phenomena;\nThis is the practice of the supreme perfection of wisdom.",
+  "locked_terms": [
+   {
+    "tibetan": "གཟུགས",
+    "use": "form"
+   },
+   {
+    "tibetan": "ཚོར",
+    "use": "feeling"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   },
+   {
+    "tibetan": "སེམས་པ",
+    "use": "intention"
+   },
+   {
+    "tibetan": "རྣམ་ཤེས",
+    "use": "awareness"
+   },
+   {
+    "tibetan": "ཆོས་ཉིད",
+    "use": "true nature of things"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+    "use": "perfect wisdom"
+   },
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཕྱིན",
+    "use": "perfection"
+   }
+  ],
+  "translation": "Whoever does not get stuck on form does not get stuck on feeling. They do not get stuck on any idea or intention. Whoever does not get stuck on awareness rests in the true nature of things. This is the practice of perfect wisdom, the highest perfection."
+ },
+ {
+  "id": "2-2",
+  "tibetan": "རྟག་དང་མི་རྟག་བདེ་དང་སྡུག་བསྔལ་སྡུག་མི་སྡུག། ། བདག་དང་བདག་མེད་དེ་བཞིན་ཉིད་དང་དེ་བཞིན་སྟོང་། ། འབྲས་བུ་ཐོབ་དང་དགྲ་བཅོམ་ས་ལ་མི་གནས་ཤིང་། ། རང་རྒྱལ་ས་དང་དེ་བཞིན་སངས་རྒྱས་སར་མི་གནས། །",
+  "academic_translation": "One does not abide in the permanent and impermanent, happiness and suffering, pleasant and unpleasant,\nSelf and selflessness, suchness and likewise emptiness;\nOne does not abide in attaining the fruit, nor in the stage of an arhat,\nAnd one does not abide in the stage of a pratyekabuddha, nor likewise the stage of a Buddha.",
+  "locked_terms": [
+   {
+    "tibetan": "རྟག",
+    "use": "lasting"
+   },
+   {
+    "tibetan": "མི་རྟག",
+    "use": "always changing"
+   },
+   {
+    "tibetan": "བདེ",
+    "use": "happiness"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   },
+   {
+    "tibetan": "བདག་མེད",
+    "use": "no self"
+   },
+   {
+    "tibetan": "དེ་བཞིན་ཉིད",
+    "use": "the way things really are"
+   },
+   {
+    "tibetan": "སྟོང",
+    "use": "emptiness"
+   },
+   {
+    "tibetan": "འབྲས་བུ",
+    "use": "fruit"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ",
+    "use": "worthy one"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ་ས",
+    "use": "level of a worthy one"
+   },
+   {
+    "tibetan": "རང་རྒྱལ",
+    "use": "solitary Buddha"
+   },
+   {
+    "tibetan": "རང་རྒྱལ་ས",
+    "use": "level of a solitary Buddha"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "སངས་རྒྱས་ས",
+    "use": "level of a Buddha"
+   },
+   {
+    "tibetan": "ས",
+    "use": "level"
+   }
+  ],
+  "translation": "You do not hold onto what is lasting or always changing. You do not hold onto happiness or suffering, or what is nice or not nice. You do not hold onto a self or no self. You do not hold onto the way things really are, or emptiness. You do not hold onto getting the fruit. You do not hold onto the level of a worthy one. You do not hold onto the level of a solitary Buddha, or even the level of a Buddha."
+ },
+ {
+  "id": "2-3",
+  "tibetan": "ཇི་ལྟར་འདྲེན་པ་འདུས་མ་བྱས་ཁམས་མི་གནས་ཤིང་། ། དེ་བཞིན་འདུས་བྱས་ལ་ཡང་མི་གནས་གནས་མེད་སྤྱོད། ། དེ་ལྟར་བྱང་ཆུབ་སེམས་དཔའ་གནས་ལ་གནས་མེད་གནས། ། གནས་མེད་གནས་ཡིན་འདི་ནི་རྒྱལ་བས་གནས་པར་གསུངས། །",
+  "academic_translation": "Just as the Guide does not abide in the unconditioned realm,\nLikewise, he does not abide in the conditioned either, but practices without abiding;\nThus the bodhisattva abides in a basis by abiding without abiding;\nThis abiding without abiding is what the Victor has taught as abiding.",
+  "locked_terms": [
+   {
+    "tibetan": "འདྲེན་པ",
+    "use": "Guide"
+   },
+   {
+    "tibetan": "འདུས་མ་བྱས་ཁམས",
+    "use": "realm not made by causes"
+   },
+   {
+    "tibetan": "འདུས་བྱས",
+    "use": "made by causes"
+   },
+   {
+    "tibetan": "གནས་མེད་གནས",
+    "use": "stay without staying"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "རྒྱལ་བ",
+    "use": "Victorious One"
+   },
+   {
+    "tibetan": "འདུས་མ་བྱས",
+    "use": "not made by causes"
+   },
+   {
+    "tibetan": "ཁམས",
+    "use": "realm"
+   }
+  ],
+  "translation": "The Guide does not stay in the realm not made by causes. He also does not stay in things made by causes. He practices by not staying anywhere. In the same way, an awakening hero rests on a base through a stay without staying. The Victorious One taught that a stay without staying is the true way to stay."
+ },
+ {
+  "id": "2-4",
+  "tibetan": "གང་དག་བདེ་གཤེགས་ཉན་ཐོས་འགྱུར་བར་བྱ་སྙམ་དང་། ། རང་སངས་རྒྱས་དག་དེ་བཞིན་ཆོས་རྒྱལ་འགྱུར་འདོད་པ། ། བཟོད་པ་འདི་ལ་མ་བརྟེན་ཐོབ་པར་མི་ནུས་ཏེ། ། དཔེར་ན་ཚུ་རོལ་ཕ་རོལ་འགྲོ་དོགས་མི་མཐོང་བཞིན། །",
+  "academic_translation": "Those who think, \"May I become a śrāvaka of the Sugata,\"\nOr wish to become a pratyekabuddha, and likewise a Dharma King, a Buddha,\nCannot attain them without relying on this patience,\nJust as one sees no crossing to go from this shore to the other.",
+  "locked_terms": [
+   {
+    "tibetan": "བདེ་གཤེགས",
+    "use": "Well-Gone One"
+   },
+   {
+    "tibetan": "ཉན་ཐོས",
+    "use": "listener"
+   },
+   {
+    "tibetan": "རང་སངས་རྒྱས",
+    "use": "solitary Buddha"
+   },
+   {
+    "tibetan": "ཆོས་རྒྱལ",
+    "use": "King of the Teaching"
+   },
+   {
+    "tibetan": "བཟོད་པ",
+    "use": "patience"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   }
+  ],
+  "translation": "Some people wish to be a listener of the Well-Gone One. Others wish to become a solitary Buddha. Some wish to be a King of the Teaching, a Buddha. But they cannot reach these goals without relying on this patience. It is like trying to cross a river without finding a way to the other shore."
+ },
+ {
+  "id": "2-5",
+  "tibetan": "ཆོས་འཆད་པ་དང་ཉན་དང་བཤད་བྱ་གང་ཡིན་དང་། ། འབྲས་བུ་ཐོབ་དང་རྐྱེན་རྒྱལ་དེ་བཞིན་འཇིག་རྟེན་མགོན། ། མཁས་པ་གསལ་བས་ཐོབ་པའི་མྱ་ངན་འདས་གང་ཡིན། ། དེ་ཀུན་སྒྱུ་མ་ལྟ་བུར་དེ་བཞིན་གཤེགས་པས་བསྟན། །",
+  "academic_translation": "The teaching of the Dharma, the listening, and whatever is taught,\nThe attainment of the fruit, the pratyekabuddha, and likewise the Protector of the World,\nAnd whatever nirvāṇa is attained by the wise and lucid—\nThe Tathāgata has taught that all these are like an illusion.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   },
+   {
+    "tibetan": "འབྲས་བུ",
+    "use": "fruit"
+   },
+   {
+    "tibetan": "རྐྱེན་རྒྱལ",
+    "use": "solitary Buddha"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན་མགོན",
+    "use": "Protector of the World"
+   },
+   {
+    "tibetan": "མྱ་ངན་འདས",
+    "use": "peace beyond sorrow"
+   },
+   {
+    "tibetan": "སྒྱུ་མ",
+    "use": "illusion"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   },
+   {
+    "tibetan": "མགོན",
+    "use": "Protector"
+   }
+  ],
+  "translation": "Think of the teaching, the listening, and what is taught. Think of getting the fruit. Think of the solitary Buddha and the Protector of the World. Think of the peace beyond sorrow reached by wise and clear minds. The Thus-Gone One taught that all these things are like an illusion."
+ },
+ {
+  "id": "2-6",
+  "tibetan": "གང་ཟག་བཞི་པོ་འདི་དག་དེ་ལ་མི་སྐྲག་སྟེ། ། རྒྱལ་སྲས་བདེན་ལ་མཁས་དང་ཕྱིར་མི་ལྡོག་པ་དང་། ། དགྲ་བཅོམ་དྲི་མ་བསལ་ཞིང་སོམ་ཉི་སྤངས་པ་དང་། ། བཞི་པ་དགེ་བའི་བཤེས་ཀྱིས་ཡོངས་སུ་ཟིན་པའོ། །",
+  "academic_translation": "These four persons are not afraid of that:\nThe child of the Victors skilled in the truth, and the irreversible one,\nThe arhat who has cleared away stains and abandoned doubt,\nAnd fourth, the one fully embraced by a spiritual friend.",
+  "locked_terms": [
+   {
+    "tibetan": "གང་ཟག",
+    "use": "person"
+   },
+   {
+    "tibetan": "རྒྱལ་སྲས",
+    "use": "child of the Victorious Ones"
+   },
+   {
+    "tibetan": "བདེན",
+    "use": "truth"
+   },
+   {
+    "tibetan": "ཕྱིར་མི་ལྡོག་པ",
+    "use": "never turning back"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ",
+    "use": "worthy one"
+   },
+   {
+    "tibetan": "དགེ་བའི་བཤེས",
+    "use": "wise friend"
+   }
+  ],
+  "translation": "Four kinds of persons are not afraid of this. The first is a child of the Victorious Ones who is skilled in the truth. The second is someone who is never turning back. The third is a worthy one who has washed away dirt and dropped all doubt. The fourth is someone fully held by a wise friend."
+ },
+ {
+  "id": "2-7",
+  "tibetan": "བྱང་ཆུབ་སེམས་དཔའ་མཁས་རིག་དེ་ལྟར་སྤྱོད་པ་ནི། ། དགྲ་བཅོམ་ས་ལ་མི་སློབ་རྐྱེན་རྟོགས་ས་ལ་མིན། ། ཐམས་ཅད་མཁྱེན་ཉིད་དེ་ཆེད་དུ་སངས་རྒྱས་ཆོས་རྗེས་སློབ། ། གང་ཞིག་སློབ་མི་སློབ་ལ་མི་སློབ་དེ་སློབ་ཡིན། །",
+  "academic_translation": "The wise and learned bodhisattva who practises in this way\nDoes not train in the stage of an arhat, nor in the stage of a pratyekabuddha;\nFor the sake of that omniscience, they train following the qualities of a Buddha;\nWhoever does not train in training and non-training, that is training.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ",
+    "use": "worthy one"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ་ས",
+    "use": "level of a worthy one"
+   },
+   {
+    "tibetan": "རྐྱེན་རྟོགས",
+    "use": "solitary Buddha"
+   },
+   {
+    "tibetan": "རྐྱེན་རྟོགས་ས",
+    "use": "level of a solitary Buddha"
+   },
+   {
+    "tibetan": "ཐམས་ཅད་མཁྱེན་ཉིད",
+    "use": "knowing everything"
+   },
+   {
+    "tibetan": "སངས་རྒྱས་ཆོས",
+    "use": "a Buddha's qualities"
+   },
+   {
+    "tibetan": "སློབ་མི་སློབ",
+    "use": "learning and not learning"
+   },
+   {
+    "tibetan": "ས",
+    "use": "level"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "quality"
+   }
+  ],
+  "translation": "A wise and smart awakening hero practices like this. They do not train in the level of a worthy one. They do not train in the level of a solitary Buddha. For the sake of knowing everything, they train following a Buddha's qualities. Whoever does not train in learning and not learning, that is real training."
+ },
+ {
+  "id": "2-8",
+  "tibetan": "གཟུགས་འཕེལ་ཡོངས་སུ་ཉམས་དང་ཡོངས་སུ་གཟུང་ཕྱིར་མིན། ། ཆོས་རྣམས་སྣ་ཚོགས་ཡོངས་སུ་གཟུང་ཕྱིར་མི་སློབ་པར། ། སློབ་ཅིང་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ཀྱང་ཡོངས་འཛིན་ལ། ། ངེས་འབྱུང་གང་ཡིན་འདི་ནི་ཡོན་ཏན་དགའ་བའི་སློབ། །",
+  "academic_translation": "It is not for the sake of the increase, complete decrease, or complete apprehension of form;\nNot training for the sake of completely apprehending various phenomena,\nYet training and completely apprehending omniscience itself—\nWhatever definite emergence this is, it is the training of those who delight in qualities.",
+  "locked_terms": [
+   {
+    "tibetan": "གཟུགས",
+    "use": "form"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "things"
+   },
+   {
+    "tibetan": "ཐམས་ཅད་མཁྱེན་པ་ཉིད",
+    "use": "knowing everything"
+   },
+   {
+    "tibetan": "ངེས་འབྱུང",
+    "use": "way out"
+   },
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   }
+  ],
+  "translation": "They do not train to make form grow or shrink. They do not train to hold onto form. They do not train to hold onto different things. Still, they train and fully hold onto knowing everything. This sure way out is the training of those who love good qualities."
+ },
+ {
+  "id": "2-9",
+  "tibetan": "གཟུགས་ནི་ཤེས་རབ་མ་ཡིན་གཟུགས་ལ་ཤེས་རབ་མེད། ། རྣམ་ཤེས་འདུ་ཤེས་ཚོར་དང་སེམས་པ་འདི་དག་ནི། ། ཤེས་རབ་མ་ཡིན་འདི་དག་ལ་ཡང་ཤེས་རབ་མེད། ། འདི་ནི་ནམ་མཁའི་ཁམས་དང་མཚུངས་ཏེ་ཐ་དད་མེད། །",
+  "academic_translation": "Form is not wisdom, there is no wisdom in form;\nConsciousness, perception, feeling, and volition—\nThese are not wisdom, nor is there wisdom in them;\nThis is equal to the element of space, without difference.",
+  "locked_terms": [
+   {
+    "tibetan": "གཟུགས",
+    "use": "form"
+   },
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   },
+   {
+    "tibetan": "རྣམ་ཤེས",
+    "use": "awareness"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   },
+   {
+    "tibetan": "ཚོར",
+    "use": "feeling"
+   },
+   {
+    "tibetan": "སེམས་པ",
+    "use": "intention"
+   },
+   {
+    "tibetan": "ནམ་མཁའི་ཁམས",
+    "use": "element of space"
+   },
+   {
+    "tibetan": "ནམ་མཁའ",
+    "use": "space"
+   },
+   {
+    "tibetan": "ཁམས",
+    "use": "element"
+   }
+  ],
+  "translation": "Form is not wisdom. There is no wisdom in form. Awareness, an idea, feeling, and intention are not wisdom. There is no wisdom in them, either. This is exactly like the element of space. There is no difference at all."
+ },
+ {
+  "id": "2-10",
+  "tibetan": "དམིགས་པ་རྣམས་ཀྱི་རང་བཞིན་དེ་ནི་ཕ་མཐའ་མེད། ། སེམས་ཅན་རང་བཞིན་གང་ཡིན་དེ་ཡང་ཕ་མཐའ་མེད། ། ནམ་མཁའི་ཁམས་ཀྱི་རང་བཞིན་དེ་ཡང་ཕ་མཐའ་མེད། ། འཇིག་རྟེན་མཁྱེན་པའི་ཤེས་རབ་དེ་ཡང་ཕ་མཐའ་མེད། །",
+  "academic_translation": "The nature of apprehensions is boundless;\nWhatever the nature of sentient beings is, that too is boundless;\nThe nature of the element of space is also boundless;\nThe wisdom of the Knower of the World is also boundless.",
+  "locked_terms": [
+   {
+    "tibetan": "དམིགས་པ",
+    "use": "something to hold onto"
+   },
+   {
+    "tibetan": "རང་བཞིན",
+    "use": "nature"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   },
+   {
+    "tibetan": "ནམ་མཁའི་ཁམས",
+    "use": "element of space"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན་མཁྱེན་པ",
+    "use": "Knower of the World"
+   },
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   },
+   {
+    "tibetan": "ནམ་མཁའ",
+    "use": "space"
+   },
+   {
+    "tibetan": "ཁམས",
+    "use": "element"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   }
+  ],
+  "translation": "The nature of something to hold onto is boundless. Whatever the nature of living beings is, that is also boundless. The nature of the element of space is also boundless. The wisdom of the Knower of the World is boundless, too."
+ },
+ {
+  "id": "2-11",
+  "tibetan": "འདུ་ཤེས་ཚུ་རོལ་ཡིན་ཞེས་འདྲེན་པས་ཡོངས་སུ་བསྒྲགས། ། འདུ་ཤེས་རྣམ་པར་བཤིག་ནས་སྤོང་བ་ཕ་རོལ་འགྲོ། ། གང་དག་འདུ་ཤེས་བྲལ་བ་འདི་ནི་རྗེས་ཐོབ་པ། ། དེ་དག་ཕ་རོལ་ཕྱིན་ནས་སྟོན་པའི་བཀའ་ལ་གནས། །",
+  "academic_translation": "The Guide has fully proclaimed that perception is the near shore;\nDismantling and abandoning perception, one goes to the far shore;\nThose who attain this freedom from perception\nHave reached the far shore and abide in the word of the Teacher.",
+  "locked_terms": [
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   },
+   {
+    "tibetan": "ཚུ་རོལ",
+    "use": "this shore"
+   },
+   {
+    "tibetan": "ཕ་རོལ",
+    "use": "far shore"
+   },
+   {
+    "tibetan": "འདྲེན་པ",
+    "use": "Guide"
+   },
+   {
+    "tibetan": "སྟོན་པ",
+    "use": "Teacher"
+   },
+   {
+    "tibetan": "བཀའ",
+    "use": "word"
+   }
+  ],
+  "translation": "The Guide has clearly taught that an idea is this shore. By breaking down and leaving behind every idea, you cross to the far shore. Those who become free from any idea reach the far shore. They stay in the word of the Teacher."
+ },
+ {
+  "id": "2-12",
+  "tibetan": "གལ་ཏེ་སྟོན་པས་ཀྱང་ནི་བྱེ་སྙེད་ཀྱི། ། བསྐལ་པར་བཞུགས་ཏེ་སེམས་ཅན་ཞེས་སྒྲ་ཡོངས་བསྒྲགས་ཀྱང་། ། གཟོད་ནས་དག་པས་སེམས་ཅན་སྐྱེ་བར་ག་ལ་འགྱུར། ། འདི་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་པ་ཡིན། །",
+  "academic_translation": "Even if the Teacher were to remain for as many eons\nAs there are grains of sand, and fully proclaim the word \"sentient beings,\"\nSince they are pure from the beginning, how could sentient beings arise?\nThis is the practice of the supreme perfection of wisdom.",
+  "locked_terms": [
+   {
+    "tibetan": "སྟོན་པ",
+    "use": "Teacher"
+   },
+   {
+    "tibetan": "བསྐལ་པ",
+    "use": "age"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   },
+   {
+    "tibetan": "གཟོད་ནས་དག་པ",
+    "use": "pure from the very start"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+    "use": "perfect wisdom"
+   },
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཕྱིན",
+    "use": "perfection"
+   }
+  ],
+  "translation": "The Teacher could stay for as many ages as there are grains of sand. He could clearly say the words 'living beings.' But since they are pure from the very start, how could living beings ever arise? This is the practice of the highest perfection, perfect wisdom."
+ },
+ {
+  "id": "2-13",
+  "tibetan": "གང་ཚེ་ང་ནི་ཕ་རོལ་ཕྱིན་པ་མཆོག་འདི་དང་། ། འཐུན་པར་སྨྲ་གྱུར་དེ་ཚེ་སྔོན་གྱི་སྐྱེས་མཆོག་གིས། ། མ་འོངས་པ་ཡི་དུས་ན་སངས་རྒྱས་འགྱུར་རོ་ཞེས། ། ང་ལུང་བསྟན་པར་གྱུར་ཅེས་རྒྱལ་བ་དེ་སྐད་གསུང་། །",
+  "academic_translation": "When I spoke in conformity with this supreme perfection,\nAt that time the supreme being of the past\nSaid, \"In a future time you will become a Buddha.\"\n\"I received the prophecy\"—thus the Victor spoke.",
+  "locked_terms": [
+   {
+    "tibetan": "ཕ་རོལ་ཕྱིན་པ",
+    "use": "perfection"
+   },
+   {
+    "tibetan": "སྐྱེས་མཆོག",
+    "use": "highest being"
+   },
+   {
+    "tibetan": "ལུང་བསྟན",
+    "use": "prediction"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "རྒྱལ་བ",
+    "use": "Victorious One"
+   }
+  ],
+  "translation": "When I spoke the truth of this highest perfection, the highest being of the past spoke to me. He said, 'In the future, you will become a Buddha.' I received this prediction. This is what the Victorious One said."
+ },
+ {
+  "id": "2-14",
+  "tibetan": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་གང་ལ་མགོན་སྤྱོད་པ། ། འདི་ནི་གང་ཞིག་གུས་བྱས་འཛིན་དང་ཆུབ་བྱེད་པ། ། དེ་ལ་དུག་དང་མཚོན་དང་མེ་དང་ཆུས་མི་ཚུགས། ། བདུད་དང་བདུད་ཀྱི་ཕྱོགས་ཀྱིས་གླགས་ཀྱང་རྙེད་མི་འགྱུར། །",
+  "academic_translation": "This perfection of wisdom in which the Protectors practice—\nWhoever pays respect, retains, and fully understands its meaning,\nWill not be harmed by poison, weapons, fire, or water,\nAnd Māra and the factions of Māra will find no opportunity against them.",
+  "locked_terms": [
+   {
+    "tibetan": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ",
+    "use": "perfect wisdom"
+   },
+   {
+    "tibetan": "མགོན",
+    "use": "Protector"
+   },
+   {
+    "tibetan": "བདུད",
+    "use": "Mara"
+   },
+   {
+    "tibetan": "བདུད་ཀྱི་ཕྱོགས",
+    "use": "Mara's side"
+   },
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཕྱིན",
+    "use": "perfection"
+   },
+   {
+    "tibetan": "ཕྱོགས",
+    "use": "side"
+   }
+  ],
+  "translation": "The Protectors practice this perfect wisdom. This perfection keeps people safe. If anyone respects, remembers, and truly understands it, they will not be hurt by poison, weapons, fire, or water. Mara and Mara's side will never find a chance to harm them."
+ },
+ {
+  "id": "2-15",
+  "tibetan": "ལ་ལས་བདེ་གཤེགས་ཡོངས་སུ་མྱ་ངན་འདས་པ་ཡི། ། མཆོད་རྟེན་རིན་ཆེན་བདུན་ལས་བྱས་ཤིང་མཆོད་བྱེད་ལ།བདེ་བར་གཤེགས་པའི་མཆོད་རྟེན་དེ་དག་གངགāའི། ། བྱེ་མ་སྙེད་ཀྱིས་བྱེ་བ་ཕྲག་སྟོང་ཞིང་བཀང་སྟེ། །",
+  "academic_translation": "If someone were to build stūpas of the seven precious things\nFor a Sugata who has passed into parinirvāṇa and make offerings,\nAnd with those stūpas of the Sugata, as numerous as the sands of the Ganges,\nWere to fill thousands of millions of fields,",
+  "locked_terms": [
+   {
+    "tibetan": "བདེ་གཤེགས",
+    "use": "Well-Gone One"
+   },
+   {
+    "tibetan": "བདེ་བར་གཤེགས་པ",
+    "use": "Well-Gone One"
+   },
+   {
+    "tibetan": "ཡོངས་སུ་མྱ་ངན་འདས་པ",
+    "use": "final peace beyond sorrow"
+   },
+   {
+    "tibetan": "མཆོད་རྟེན",
+    "use": "shrine"
+   },
+   {
+    "tibetan": "རིན་ཆེན་བདུན",
+    "use": "seven treasures"
+   },
+   {
+    "tibetan": "གངགā",
+    "use": "Ganges"
+   },
+   {
+    "tibetan": "ཞིང",
+    "use": "land"
+   }
+  ],
+  "translation": "Imagine someone builds shrines out of the seven treasures. They build them for a Well-Gone One who has passed into the final peace beyond sorrow. They make offerings there. Imagine they build as many shrines as there are grains of sand in the Ganges river. Imagine these shrines fill thousands of millions of lands."
+ },
+ {
+  "id": "2-16",
+  "tibetan": "ཡོངས་སུ་བརྟག་བཟུང་ཞིང་རྣམས་བྱེ་བ་མཐའ་ཡས་ན། ། སེམས་ཅན་ཇི་སྙེད་འཁོད་པ་དེ་དག་ཐམས་ཅད་ཀྱིས། ། ལས་གཞན་མི་བྱེད་ལྷ་ཡི་མེ་ཏོག་སྤོས་རབ་དང་། ། བྱུག་པས་དུས་གསུམ་བསྐལ་པའམ་དེ་བས་ལྷག་མཆོད་ལ། །",
+  "academic_translation": "By way of supposition, if in infinite millions of fields\nAll the sentient beings, however many reside there,\nDoing no other work, with divine flowers, supreme incense, and\nOintments, were to make offerings at the three times of each day, for an eon or more—",
+  "locked_terms": [
+   {
+    "tibetan": "ཞིང",
+    "use": "land"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   },
+   {
+    "tibetan": "བསྐལ་པ",
+    "use": "age"
+   },
+   {
+    "tibetan": "དུས་གསུམ",
+    "use": "past, present and future"
+   }
+  ],
+  "translation": "Imagine all the living beings in those endless millions of lands do no other work. Instead, they make offerings for an age or longer. They offer heavenly flowers, sweet incense, and oils in the past, present and future."
+ },
+ {
+  "id": "2-17",
+  "tibetan": "གང་ཞིག་གང་ལས་རྣམ་འདྲེན་སྟོབས་བཅུ་འབྱུང་འགྱུར་བ། ། བདེ་བར་གཤེགས་ཀྱི་ཡུམ་འདི་གླེགས་བམ་ལ་བྲིས་ཏེ། ། འཆང་ཞིང་མེ་ཏོག་བྱུག་པས་བསྟི་སྟང་བྱེད་གྱུར་ན། ། མཆོད་རྟེན་བྱས་མཆོད་བསོད་ནམས་དེས་ནི་ཆར་མི་ཕོད། །",
+  "academic_translation": "Whoever, since from it the ten powers of the Guides will arise,\nWrites this Mother of the Sugatas in a book,\nRetains it, and pays reverence with flowers and ointments,\nThe merit of having built and made offerings to those stūpas does not match a fraction of it.",
+  "locked_terms": [
+   {
+    "tibetan": "རྣམ་འདྲེན",
+    "use": "Guide"
+   },
+   {
+    "tibetan": "སྟོབས་བཅུ",
+    "use": "ten powers"
+   },
+   {
+    "tibetan": "བདེ་བར་གཤེགས",
+    "use": "Well-Gone One"
+   },
+   {
+    "tibetan": "བདེ་བར་གཤེགས་ཀྱི་ཡུམ",
+    "use": "Mother of the Well-Gone Ones"
+   },
+   {
+    "tibetan": "མཆོད་རྟེན",
+    "use": "shrine"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "stored-up goodness"
+   },
+   {
+    "tibetan": "ཡུམ",
+    "use": "Mother"
+   }
+  ],
+  "translation": "The ten powers of the Guides will come from this wisdom. So, someone might write this Mother of the Well-Gone Ones in a book. They might keep it and honor it with flowers and sweet oils. If they do, they gain much more stored-up goodness. Building and making offerings to all those shrines does not even match a tiny part of it."
+ },
+ {
+  "id": "2-18",
+  "tibetan": "རྒྱལ་བའི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་འདི་རིག་སྔགས་ཆེ། ། སེམས་ཅན་ཁམས་མང་མྱ་ངན་སྡུག་བསྔལ་ཆོས་ཞི་བྱེད། ། གང་དག་འདས་དང་གང་དག་ཕྱོགས་བཅུའི་འཇིག་རྟེན་མགོན། ། རིག་སྔགས་འདི་བསླབས་སྨན་པའི་རྒྱལ་པོ་བླ་མེད་གྱུར། །",
+  "academic_translation": "This perfection of wisdom of the Victors is a great mantra of knowledge;\nIt pacifies the dharmas of sorrow and suffering of the many realms of sentient beings.\nWhichever Protectors of the World are in the past, and whichever are in the ten directions,\nHaving trained in this mantra of knowledge, they became unsurpassed kings of physicians.",
+  "locked_terms": [
+   {
+    "tibetan": "རྒྱལ་བ",
+    "use": "Victorious One"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+    "use": "perfect wisdom"
+   },
+   {
+    "tibetan": "རིག་སྔགས་ཆེ",
+    "use": "great spell of knowledge"
+   },
+   {
+    "tibetan": "རིག་སྔགས",
+    "use": "words of knowing"
+   },
+   {
+    "tibetan": "སེམས་ཅན་ཁམས",
+    "use": "realm of living beings"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན་མགོན",
+    "use": "Protector of the World"
+   },
+   {
+    "tibetan": "ཕྱོགས་བཅུ",
+    "use": "ten directions"
+   },
+   {
+    "tibetan": "སྨན་པའི་རྒྱལ་པོ",
+    "use": "king of healers"
+   },
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཕྱིན",
+    "use": "perfection"
+   },
+   {
+    "tibetan": "ཁམས",
+    "use": "realm"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   },
+   {
+    "tibetan": "མགོན",
+    "use": "Protector"
+   },
+   {
+    "tibetan": "སྨན་པ",
+    "use": "doctor"
+   },
+   {
+    "tibetan": "རྒྱལ་པོ",
+    "use": "king"
+   }
+  ],
+  "translation": "The perfect wisdom of the Victorious Ones is a great spell of knowledge. These words of knowing calm the sadness and suffering in every realm of living beings. Every Protector of the World from the past and in the ten directions trained in this perfection. By learning it, each became a perfect doctor and an unsurpassed king of healers."
+ },
+ {
+  "id": "2-19",
+  "tibetan": "གང་དག་ཕན་དང་སྙིང་རྗེར་བཅས་པ་སྤྱད་སྤྱོད་པ། ། རིག་སྔགས་འདི་ལ་བསླབས་ནས་མཁས་པ་བྱང་ཆུབ་རེག། ། འདུས་བྱས་བདེ་དང་འདུས་མ་བྱས་བདེ་གང་ཡིན་པ། ། བདེ་བ་དེ་ཀུན་འདི་ལས་འབྱུང་བར་རིག་བར་བྱ། །",
+  "academic_translation": "Those who practice the conduct endowed with benefit and compassion,\nThe wise, having trained in this mantra of knowledge, touch awakening;\nWhatever is conditioned happiness and unconditioned happiness,\nOne should know that all that happiness arises from this.",
+  "locked_terms": [
+   {
+    "tibetan": "ཕན",
+    "use": "benefit"
+   },
+   {
+    "tibetan": "སྙིང་རྗེ",
+    "use": "compassion"
+   },
+   {
+    "tibetan": "རིག་སྔགས",
+    "use": "words of knowing"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   },
+   {
+    "tibetan": "འདུས་བྱས",
+    "use": "made by causes"
+   },
+   {
+    "tibetan": "འདུས་མ་བྱས",
+    "use": "not made by causes"
+   },
+   {
+    "tibetan": "བདེ",
+    "use": "happiness"
+   }
+  ],
+  "translation": "Wise people act with benefit and compassion. They train in these words of knowing and touch awakening. There is happiness made by causes and happiness not made by causes. You should know that all that happiness comes from this."
+ },
+ {
+  "id": "2-20",
+  "tibetan": "ས་བོན་བཏབ་ནས་ས་ལ་གནས་ཏེ་འབྱུང་འགྱུར་བ། ། ཚོགས་པ་རྙེད་ནས་རྣམ་མང་གཟུགས་དག་རྣམ་པར་སྐྱེ། ། ཕ་རོལ་ཕྱིན་ལྔ་བྱང་ཆུབ་ཡོན་ཏན་ཇི་སྙེད་པ། ། དེ་དག་ཀུན་ཀྱང་ཤེས་རབ་ཕ་རོལ་ཕྱིན་ལས་སྐྱེ། །",
+  "academic_translation": "Seeds, having been sown and resting in the earth, will emerge;\nHaving found the assembly of conditions, many diverse forms are fully produced;\nThe five perfections and however many qualities of awakening there are,\nAll of those too are born from the perfection of wisdom.",
+  "locked_terms": [
+   {
+    "tibetan": "ཕ་རོལ་ཕྱིན་ལྔ",
+    "use": "five perfections"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་ཡོན་ཏན",
+    "use": "good qualities of awakening"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+    "use": "perfect wisdom"
+   },
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཕྱིན",
+    "use": "perfection"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   },
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   }
+  ],
+  "translation": "Seeds planted in the earth will sprout. When the right conditions come together, many different shapes are born. The five perfections and all the good qualities of awakening are the same. All of them are born from perfect wisdom."
+ },
+ {
+  "id": "2-21",
+  "tibetan": "འཁོར་ལོས་སྒྱུར་རྒྱལ་ལམ་གང་ནས་ནི་རྟག་འགྲོ་བ། ། ལམ་དེ་ཉིད་ནས་རིན་ཆེན་བདུན་དང་དཔུང་ཚོགས་ཀུན། ། གང་ནས་རྒྱལ་བའི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་འདི་འགྲོ། ། དེ་ཉིད་ནས་ནི་ཡོན་ཏན་ཆོས་ཀུན་འགྲོ་བར་འགྱུར། །",
+  "academic_translation": "Whichever path a universal monarch always travels,\nOn that very path, the seven precious things and all the military forces go;\nWherever this perfection of wisdom of the Victors goes,\nAlong that very path, all the qualities will go.",
+  "locked_terms": [
+   {
+    "tibetan": "འཁོར་ལོས་སྒྱུར་རྒྱལ",
+    "use": "ruler of the whole world"
+   },
+   {
+    "tibetan": "རིན་ཆེན་བདུན",
+    "use": "seven treasures"
+   },
+   {
+    "tibetan": "རྒྱལ་བ",
+    "use": "Victorious One"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+    "use": "perfect wisdom"
+   },
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "quality"
+   },
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཕྱིན",
+    "use": "perfection"
+   }
+  ],
+  "translation": "Whenever a ruler of the whole world travels, the seven treasures and his army follow his path. Wherever the perfect wisdom of a Victorious One goes, every good quality also travels along that path. All these qualities follow this perfection of wisdom."
+ },
+ {
+  "id": "2-22",
+  "tibetan": "རྒྱལ་བས་བརྒྱ་བྱིན་དྲི་བ་ཡོངས་དྲིས་ལན་གསོལ་པ། ། གལ་ཏེ་གང་གāའི་བྱེ་སྙེད་སངས་རྒྱས་ཞིང་གྱུར་ལ། ། དེ་ཀུན་རྒྱལ་བའི་རིང་བསྲེལ་བྱུང་བུར་བལྟམས་གྱུར་ཀྱང་། ། བདག་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་འདི་ཉིད་ལེན། །",
+  "academic_translation": "Śakra, having been fully asked a question by the Victor, replied:\nEven if there were Buddha-fields as numerous as the sands of the Ganges,\nAnd all of those were filled to the brim with the relics of the Victors,\nI would take this very perfection of wisdom.",
+  "locked_terms": [
+   {
+    "tibetan": "རྒྱལ་བ",
+    "use": "Victorious One"
+   },
+   {
+    "tibetan": "བརྒྱ་བྱིན",
+    "use": "Shakra"
+   },
+   {
+    "tibetan": "སངས་རྒྱས་ཞིང",
+    "use": "Buddha-land"
+   },
+   {
+    "tibetan": "གང་གā",
+    "use": "Ganges"
+   },
+   {
+    "tibetan": "རིང་བསྲེལ",
+    "use": "relic"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ",
+    "use": "perfect wisdom"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "ཞིང",
+    "use": "land"
+   },
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཕྱིན",
+    "use": "perfection"
+   }
+  ],
+  "translation": "A Victorious One asked Shakra a question, and Shakra replied. He said, 'Imagine there were as many Buddha-lands as grains of sand in the Ganges river. Even if they were all completely filled with the relics of Victorious Ones, I would still choose this perfect wisdom. I would take this very perfection of wisdom.'"
+ },
+ {
+  "id": "2-23",
+  "tibetan": "ཅི་སླད་ཅེ་ན་སྐུ་གདུང་མི་གུས་བདག་མ་ལགས། ། འོན་ཀྱང་ཤེས་རབ་ཡོངས་སུ་བསྒོམས་པས་མཆོད་པར་བགྱིད། ། དཔེར་ན་རྒྱལ་པོ་རྟེན་མི་རིམ་གྲོ་ཐོབ་པ་ལྟར། ། སངས་རྒྱས་རིང་བསྲེལ་ཤེས་རབ་ཕ་རོལ་ཕྱིན་ལ་རྟེན། །",
+  "academic_translation": "If asked why, it is not that I lack respect for the bodily relics;\nHowever, because they are fully permeated by wisdom, they are worshipped.\nFor example, just as a person relying on a king obtains reverence,\nThe relics of a Buddha rely on the perfection of wisdom.",
+  "locked_terms": [
+   {
+    "tibetan": "སྐུ་གདུང",
+    "use": "relic"
+   },
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   },
+   {
+    "tibetan": "སངས་རྒྱས་རིང་བསྲེལ",
+    "use": "relic of a Buddha"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+    "use": "perfect wisdom"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "རིང་བསྲེལ",
+    "use": "relic"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཕྱིན",
+    "use": "perfection"
+   }
+  ],
+  "translation": "If you ask why, it is not because I lack respect for a relic. People honor these relics because they are filled with wisdom. Think of a person who serves a king. People show them respect because they rely on the king. In the same way, a relic of a Buddha is respected because it relies on perfect wisdom. It relies on this perfection of wisdom."
+ },
+ {
+  "id": "2-24",
+  "tibetan": "ནོར་བུ་རིན་ཆེན་ཡོན་ཏན་ཀུན་ལྡན་རིན་ཐང་མེད། ། གབ་ཚེ་གང་དུ་སྩལ་བ་དེ་ནི་ཕྱག་བགྱི་འོས། ། དེ་ཕྱུང་གྱུར་ཀྱང་གབ་ཚེ་ལ་ནི་དགའ་བགྱིད་དེ། ། ཡོན་ཏན་དེ་དག་ནོར་བུ་རིན་ཆེན་དེ་ཡི་ལགས། །",
+  "academic_translation": "A precious jewel endowed with all qualities is priceless;\nWhatever casket it is placed in is worthy of homage;\nEven if it is taken out, one takes joy in the casket,\nFor those qualities belong to that precious jewel.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   },
+   {
+    "tibetan": "ནོར་བུ་རིན་ཆེན",
+    "use": "precious jewel"
+   }
+  ],
+  "translation": "A precious jewel has every good quality and is priceless. Whatever box it rests in deserves respect. Even if the jewel is taken out, people still take joy in the box. This is because those good qualities belong to that precious jewel."
+ }
+]

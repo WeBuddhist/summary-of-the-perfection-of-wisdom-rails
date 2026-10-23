@@ -1,0 +1,90 @@
+[
+ {
+  "id": "2-33",
+  "tibetan": "མྱུ་གུ་མེད་པར་འཇིག་རྟེན་སྡོང་འབྱུང་ཡོང་མེད་ན། ། དེ་ལ་ཡལ་འདབ་མེ་ཏོག་འབྲས་བུ་ག་ལ་འབྱུང་། ། བྱང་ཆུབ་སེམས་མེད་རྒྱལ་འབྱུང་འཇིག་རྟེན་ཡོད་མེད་ན། ། འབྲས་བུ་བརྒྱ་བྱིན་ཚངས་པ་ཉན་ཐོས་ག་ལ་འབྱུང་། །",
+  "academic_translation": "If, without a sprout, a tree never emerges in the world,\nHow could branches, leaves, flowers, and fruits emerge on it?\nIf, without the mind of awakening, a Victor does not emerge in the world,\nHow could the fruits—Śakra, Brahmā, and śrāvakas—emerge?",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས",
+    "use": "wish to awaken"
+   },
+   {
+    "tibetan": "རྒྱལ",
+    "use": "Victorious One"
+   },
+   {
+    "tibetan": "བརྒྱ་བྱིན",
+    "use": "Shakra"
+   },
+   {
+    "tibetan": "ཚངས་པ",
+    "use": "Brahma"
+   },
+   {
+    "tibetan": "ཉན་ཐོས",
+    "use": "listener"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   }
+  ],
+  "translation": "If there is no sprout, a tree could never grow in the world. Without a tree, how could branches, leaves, flowers, and fruit ever appear? In the same way, without the wish to awaken, a Victorious One would never appear in the world. Without a Victorious One, how could the fruits—like Shakra, Brahma, and listeners—ever appear?"
+ },
+ {
+  "id": "4-48",
+  "tibetan": "འདྲེན་པ་རྣམས་ཀྱི་ཆོས་འདི་ཟབ་སྟེ་མཐོང་བར་དཀའ། ། སུས་ཀྱང་རྟོགས་པ་མེད་ཅིང་ཐོབ་པར་འགྱུར་མེད་པ། ། དེ་ཕྱིར་ཕན་མཛད་བརྩེར་ལྡན་བྱང་ཆུབ་བརྙེས་ནས་ནི། ། སེམས་ཅན་ཚོགས་སུས་ཤེས་སྙམ་ཐུགས་ཁྲལ་ཆུང་བར་མཛད། །",
+  "academic_translation": "This Dharma of the Guides is profound and difficult to see;\nIt is not realized by anyone, nor is there any attaining of it.\nTherefore, the Compassionate Benefactor, having attained awakening,\nFelt little inclination, thinking, \"Who among the masses of sentient beings will understand?\"",
+  "locked_terms": [
+   {
+    "tibetan": "འདྲེན་པ",
+    "use": "Guide"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   },
+   {
+    "tibetan": "ཕན་མཛད་བརྩེར་ལྡན",
+    "use": "Kind Helper"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   }
+  ],
+  "translation": "This teaching of the Guides is deep and hard to see. No one has realized it, and there is nothing to be reached. So, when the Kind Helper reached awakening, he paused. He thought, \"Who among all the living beings will understand this?\""
+ },
+ {
+  "id": "5-35",
+  "tibetan": "གང་ཞིག་སློབ་ཚེ་བསླབ་པ་གང་ཡང་ཁས་མི་ལེན། ། སློབ་པ་པོ་དང་བསླབ་པའི་ཆོས་རྣམས་མི་དམིགས་ཤིང་། ། བསླབས་དང་བསླབ་པ་མ་ཡིན་འདི་གཉིས་མི་རྟོག་པ། ། དེ་ལྟར་གང་སློབ་དེ་ནི་སངས་རྒྱས་ཆོས་འདིར་སློབ། །",
+  "academic_translation": "When training, whoever does not assert any training at all,\nDoes not apprehend a trainee or the phenomena of training,\nAnd does not conceptualize these two—training and non-training—\nWhoever trains like that trains here in the qualities of a Buddha.",
+  "locked_terms": [
+   {
+    "tibetan": "བསླབ་པ",
+    "use": "training"
+   },
+   {
+    "tibetan": "སློབ་པ་པོ",
+    "use": "learner"
+   },
+   {
+    "tibetan": "བསླབ་པའི་ཆོས",
+    "use": "things to train in"
+   },
+   {
+    "tibetan": "སངས་རྒྱས་ཆོས",
+    "use": "a Buddha's qualities"
+   }
+  ],
+  "translation": "When doing their training, they do not cling to the training itself. They do not grasp at a learner or at the things to train in. They do not hold on to the ideas of training or not training. Anyone who practices like this is training in a Buddha's qualities."
+ }
+]

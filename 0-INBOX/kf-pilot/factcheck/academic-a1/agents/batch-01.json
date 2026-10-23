@@ -1,0 +1,137 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "0-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "One who does not apprehend the supreme perfection of wisdom, / Does not apprehend the bodhisattva, and does not apprehend the mind of awakening— / Upon hearing this, the one who is without bewilderment",
+     "evidence": "Tibetan 'གང་ལ་ ... མི་དམིགས་ཤིང་། ... མི་དམིགས། ... མི་དམིགས། དེ་སྐད་ཐོས་ནས་' is a locative construction (Sanskrit 'yasmin ... na ... upalabdhi'): in that case the perfection of wisdom, the bodhisattva and the mind of awakening are not apprehended; the three are passive objects, not things 'one' fails to apprehend. Mipham 1-4 glosses 'བྱང་ཆུབ་སེམས་དཔའ་གང་ལ་ ... ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མཆོག་ ... མི་དམིགས་', and 'དེ་སྐད་ཐོས་ནས' is hearing that teaching of non-apprehension. The English subject ('One who ...') is stacked with a second 'the one who' and the demonstrative 'this' has no clear antecedent, so it is hard to see what is heard.",
+     "fix": "In whom the supreme perfection of wisdom is not apprehended, nor the bodhisattva, nor the mind of awakening—having heard such [teaching], without bewilderment and without fear, that bodhisattva practices the wisdom of the Sugatas."
+    }
+   ]
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "In them, there is not even an atom of a dwelling place for consciousness. / They do not dwell on any phenomena",
+     "evidence": "In lines 3-4 the Tibetan subject 'དེ' (Sanskrit 'sa', 'tasya' in line 2) is the single bodhisattva who practises ('དེ་ཆོས་ཀུན་ལ་མི་གནས་ ... བྱང་ཆུབ་འཐོབ'). Rangjung 1-5 makes this explicit: 'བྱང་ཆུབ་སེམས་དཔའ་དེ་ལ། རྣམ་པར་ཤེས་པ་བདེན་པའི་གནས་ནི་རྡུལ་ཕྲ་རབ་ཙམ་ཡང་ཡོད་པ་མ་ཡིན'. In the English, 'them' in line 2 refers back to form, feeling, perception and volition, so 'They' in lines 3-4 can be read as those four aggregates, and the bodhisattva is never named.",
+     "fix": "For that one there is not even an atom of a dwelling place for consciousness. That one does not dwell on any phenomena but practices without a dwelling place; without grasping, that one attains the awakening of the Sugatas."
+    }
+   ]
+  },
+  {
+   "id": "1-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-7",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "they understand all these phenomena as empty",
+     "evidence": "Tibetan 'ཆོས་འདི་ཐམས་ཅད་སྟོང་པར་རྟོག' has 'རྟོག' (consider, examine), not 'རྟོགས' (realize); Sanskrit 'vyuparīkṣate ... śūnyaka sarva dharmāḥ' is 'examines'. Mipham 1-7: 'ཆོས་འདི་ཐམས་ཅད་རང་གི་ངོ་བོས་སྟོང་པར་རྟོག་ཅིང་དཔྱད་པར་བྱེད་དོ' (contemplates and investigates as empty); Khenrab 1-7 the same. The English claims realized understanding, and also renders 'རྟོག' as 'conceptualize' in 1-8, so the same word is treated inconsistently.",
+     "fix": "they consider all these phenomena to be empty"
+    }
+   ]
+  },
+  {
+   "id": "1-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-10",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "abides here thus in peace",
+     "evidence": "Tibetan 'འདིར་བདག་ཞིར་གནས་པ' (Sanskrit 'evātmaśānti viharan') has 'བདག' (oneself): one abides at peace within oneself. Mipham 1-10: 'བདག་གི་རྒྱུད་ཉེ་བར་ཞིར་གནས་པ' (one's own mindstream abides at peace); Khenrab 1-10: 'བདག་གི་རྒྱུད་ ... ཉེ་བར་ཞི་བ'. The English drops 'བདག'.",
+     "fix": "abides here thus, at peace within themselves"
+    }
+   ]
+  },
+  {
+   "id": "1-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-16",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -5,7 +5,7 @@ alt_titles:
 - ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པ་ཚིགས་སུ་བཅད་པའི་འགྲེལ་བ་ཟབ་མོ་རྟེན་འབྱུང་གི་དེ་ཁོ་ན་ཉིད་གསལ་བར་བྱེད་པའི་ནོར་བུའི་སྒྲོན་མ་སྐལ་བཟང་རེ་སྐོང་ཞེས་བྱ་བ་བཞུགས་སོ།
 title_in_english: Khenrab Jamyang, Commentary on the Verses of the Precious Qualities Collection
 author: མཁྱེན་རབ་འཇམ་དབྱངས་བློ་བཟང་འཕྲིན་ལས།
-author_in_english: Khenrab Jamyang Lobsang Thinley
+author_in_english: Khenrab Jamyang Lobsang Thinley [bdrc:P1KG803]
 registered_id: khenrab-jamyang-norbu-dronme
 language: Tibetan
 lang_tag: bo
@@ -18,9 +18,9 @@ source: https://library.bdrc.io/show/bdr:WA1KG802?tabs=bdr:MW1KG802,bdr:W1KG802
 other_ids:
 - 'Dzongsar: phakpadoepa comm-4'
 source_description: Dzongsar alignment doc exported as phakpadoepa-comm-4(root-comm).md, paired row for row with phakpadoepa-root-4(root-comm).md (the team's own cut of the Tibetan root), carried onto the display Tibetan by letters. Title, author and source from phakpadoepa-comm-4.csv. Not listed in the text sheet (phakpadoepa.csv); ingested on the vault owner's instruction of 2026-10-03.
-text_id: null
-edition_id: null
-toc_id: null
+text_id: XXt9Dk1Vq8DC6WC5Rc7r3
+edition_id: XrpxAzolbpvumskOMRgPE
+toc_id: HvuKeHcej5Ibq92g3tP5U
 raw_sources:
 - file: 0-INBOX/raw-data/phakpadoepa-comm-4(root-comm).md
   sha1: acc870a259aefb335442b26a1881bbafd695d6f7
@@ -38,6 +38,8 @@ intake:
   date: '2026-10-04'
   annotations: 1-SOURCES/Annotations/bo-khenrab-jamyang-norbu-dronme.annotations.json
 covers_verses: 0-2–8-2
+commentary_of: U5FlKUlLLtS1zo4n0EGZL
+aligned_to_edition_id: fYnGwQC4fH8Fa37vLUiXD
 ---
 
 # ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པ་ཚིགས་སུ་བཅད་པའི་འགྲེལ་པ་ཟབ་མོ་རྟེན་འབྱུང་གི་དེ་ཁོ་ན་ཉིད་གསལ་བར་བྱེད་པའི་ནོར་བུའི་སྒྲོན་མེ་སྐལ་བཟང་རེ་སྐོང་། ^0

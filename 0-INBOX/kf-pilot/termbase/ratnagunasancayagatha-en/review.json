@@ -1,0 +1,161 @@
+{
+ "terms": [
+  {
+   "term_id": "T002",
+   "sense": "quality (of a Buddha, virtuous)",
+   "field": "sense_split",
+   "current": "quality",
+   "suggested": "Merge with the 'phenomena' and 'the Buddha's teaching' senses as appropriate.",
+   "severity": "major",
+   "reason": "Policy 9 states ཆོས is kept as exactly two terms; 'qualities' is for compounds (Policy 10).",
+   "applied": false
+  },
+  {
+   "term_id": "T034",
+   "sense": "mind of awakening",
+   "field": "sense_split",
+   "current": "mind of awakening",
+   "suggested": "Split out a sense 'bodhisattva (truncated)' for the 4 flagged occurrences.",
+   "severity": "major",
+   "reason": "Policy 40 notes that 4 occurrences are likely truncated 'bodhisattva' and requires a separate flagged sense.",
+   "applied": false
+  },
+  {
+   "term_id": "T064",
+   "sense": "birthplace",
+   "field": "sense_split",
+   "current": "birthplace",
+   "suggested": "Merge with the 'stage' sense.",
+   "severity": "major",
+   "reason": "Policy 42 locks ས as 'stage' (academic) and 'level' (children's), with no exception for 'birthplace'.",
+   "applied": false
+  },
+  {
+   "term_id": "T087",
+   "sense": "not find as a real object",
+   "field": "academic",
+   "current": "apprehend",
+   "suggested": "not apprehend",
+   "severity": "major",
+   "reason": "Policy 17 correctly identifies this term as negative ('not apprehend').",
+   "applied": true
+  },
+  {
+   "term_id": "T087",
+   "sense": "not find as a real object",
+   "field": "children",
+   "current": "find",
+   "suggested": "not find",
+   "severity": "major",
+   "reason": "The term is negative; the translation must reflect 'not find'.",
+   "applied": true
+  },
+  {
+   "term_id": "T170",
+   "sense": "epithet of the Buddhas",
+   "field": "academic",
+   "current": "Protector of the world",
+   "suggested": "Protector of the World",
+   "severity": "minor",
+   "reason": "For consistency with T082, 'World' should be capitalized in this epithet.",
+   "applied": true
+  },
+  {
+   "term_id": "T180",
+   "sense": "non-Dharma (what opposes the teaching)",
+   "field": "sense_split",
+   "current": "non-Dharma",
+   "suggested": "Merge with the 'non-phenomena' sense.",
+   "severity": "minor",
+   "reason": "Policy 10 lists only 'non-phenomena' as the locked rendering for ཆོས་མིན.",
+   "applied": false
+  },
+  {
+   "term_id": "T232",
+   "sense": "Mañjuśrī",
+   "field": "academic",
+   "current": "Manjushri",
+   "suggested": "Mañjuśrī",
+   "severity": "major",
+   "reason": "Policy 30 requires IAST diacritics for proper names in the academic register.",
+   "applied": true
+  },
+  {
+   "term_id": "T331",
+   "sense": "Rāhu",
+   "field": "academic",
+   "current": "Rahu",
+   "suggested": "Rāhu",
+   "severity": "major",
+   "reason": "Policy 30 requires IAST diacritics for proper names in the academic register.",
+   "applied": true
+  },
+  {
+   "term_id": "T375",
+   "sense": "clinging to the supreme",
+   "field": "academic",
+   "current": "clinging to what is best",
+   "suggested": "clinging to the supreme",
+   "severity": "major",
+   "reason": "Policy 50 explicitly locks མཆོག་འཛིན as 'clinging to the supreme'.",
+   "applied": true
+  },
+  {
+   "term_id": "T457",
+   "sense": "Dharma King",
+   "field": "children",
+   "current": "Teaching King",
+   "suggested": "King of the Teaching",
+   "severity": "minor",
+   "reason": "For consistency with T152, use 'King of the Teaching' for this exact synonym.",
+   "applied": true
+  },
+  {
+   "term_id": "T503",
+   "sense": "family of Buddhas",
+   "field": "academic",
+   "current": "Buddha lineage",
+   "suggested": "Buddha family",
+   "severity": "major",
+   "reason": "Policy 37 requires compounds to use their locked parts; T343 རིགས is locked as 'family'.",
+   "applied": true
+  },
+  {
+   "term_id": "T539",
+   "sense": "Benefactor",
+   "field": "academic",
+   "current": "Benefactor",
+   "suggested": "benefactor",
+   "severity": "minor",
+   "reason": "Should be lowercase for consistency with T500 unless specifically identified as a locked epithet.",
+   "applied": true
+  },
+  {
+   "term_id": "T557",
+   "sense": "perception of a self",
+   "field": "academic",
+   "current": "idea of a self",
+   "suggested": "perception of a self",
+   "severity": "major",
+   "reason": "Policy 20 strictly locks བདག་གི་འདུ་ཤེས as 'perception of a self' in the academic register.",
+   "applied": true
+  },
+  {
+   "term_id": "T596",
+   "sense": "Supreme Physician",
+   "field": "academic",
+   "current": "Best Healer",
+   "suggested": "supreme physician",
+   "severity": "minor",
+   "reason": "For consistency with T286 (physician), the academic register should use 'physician' here.",
+   "applied": true
+  }
+ ],
+ "policies": [
+  {
+   "policy": "Core terms",
+   "suggested": "Update the core terms row for མི་དམིགས to academic 'not apprehend' and children's 'not find'.",
+   "reason": "To fix a contradiction with Policy 17 and accurately reflect the negative Tibetan particle མི."
+  }
+ ]
+}

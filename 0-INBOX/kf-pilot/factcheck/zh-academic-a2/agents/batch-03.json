@@ -1,0 +1,129 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "5-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "愚夫卻憑藉自身於虛空中打結",
+     "evidence": "Tibetan བྱིས་པ་བདག་ཉིད་ཀྱིས་ནི་མཁའ་ལ་མདུད་པ་བོར། means the fool, of his own accord / himself, ties knots in the sky (Mipham 5-16: བྱིས་པ་བདག་ཉིད་ཀྱིས་ནི་མེད་པ་ལ་ཡོད་པར་བཟུང་བ). 憑藉自身 reads as 'by means of oneself' (instrumental), which blurs the reflexive emphasis.",
+     "fix": "愚夫卻自己於虛空中打結"
+    }
+   ]
+  },
+  {
+   "id": "5-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-36",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "不毀犯持戒",
+     "evidence": "Tibetan ཚུལ་ཁྲིམས་འཆལ་མི་འགྱུར (Skt duśīlo na bhavate) names the state of lacking ethical discipline; the glossary renders ཚུལ་ཁྲིམས་འཆལ as 破戒 (locked in the parallel segment 5-95). 毀犯持戒 literally 'violate (the) observance of ethics' and is not the lexicalised term.",
+     "fix": "亦不成為破戒"
+    }
+   ]
+  },
+  {
+   "id": "5-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-68",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "若返回此處則不生貪著般",
+     "evidence": "The Tibetan ཕྱིར་འདིར་འོང་བར་གྱུར་ན་ཆགས་པར་མི་བྱེད་ལྟར། is the simile marker (ལྟར 'just as') closing the comparison; the stray final 般 leaves the clause ungrammatical in Chinese.",
+     "fix": "返回此處時亦不生貪著，亦復如是"
+    }
+   ]
+  },
+  {
+   "id": "5-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-95",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

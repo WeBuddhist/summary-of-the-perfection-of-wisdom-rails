@@ -1,0 +1,44 @@
+{"batch": "batch-14", "segments": [
+{"id": "5-72", "verdict": "fail", "issues": [
+ {"type": "mistranslation", "severity": "major", "span": "the four peaceful\nSamādhis of meditative concentration that bestow joy and bliss", "evidence": "The Tibetan has དགའ་བ་དང་། བདེ་སྦྱིན་ as a predicate of the wise bodhisattvas (བྱང་ཆུབ་སེམས་དཔའ་མཁས་པ་), not a relative clause on the samādhis. All three commentaries read the bodhisattvas as the ones who give joy and bliss: bo-mipham 5-72 བྱང་ཆུབ་སེམས་དཔའ་མཁས་པ་སེམས་ཅན་རྣམས་ལ་འཕྲལ་དུ་དགའ་བ་དང་ནམ་ཕུག་གི་བདེ་བ་སྦྱིན་པར་བྱེད་པ་དེ་དག་; bo-rangjung 5-71 གཞན་ལ་བདེ་བ་སྦྱིན་པ་; bo-khenrab 5-71 སེམས་ཅན་རྣམས་ལ་གནས་སྐབས་སུ་དགའ་བ་དང་ནམ་ཕུག་གི་བདེ་བ་སྦྱིན་པར་བྱེད་པ་. The English makes the samādhis the givers of joy and bliss (following the Sanskrit prīti-sukhadāṃ), so the bodhisattvas' giving of joy and bliss to beings is lost.", "fix": "Likewise, wise bodhisattvas, who bestow joy and bliss, having attained the four peaceful samādhis of meditative concentration,"}
+]},
+{"id": "5-73", "verdict": "pass", "issues": [
+ {"type": "fluency", "severity": "minor", "span": "They are not in meditative equipoise, but become agitated and have a distracted mind", "evidence": "The Tibetan མཉམ་པར་མ་བཞག་རྒོད་ཅིང་སེམས་གཡེངས་གྱུར་པ་སྟེ lists three parallel faults (not in equipoise, agitated, mind distracted), as bo-mipham 5-73 མཉམ་པར་མ་བཞག་པ་དང་། རྒོད་ཅིང་སེམས་གཡེངས་པར་གྱུར་པ་ shows. The English 'but' wrongly sets agitation in contrast to not being in equipoise.", "fix": "They are not in meditative equipoise; they become agitated and have a distracted mind;"}
+]},
+{"id": "5-74", "verdict": "pass", "issues": [
+ {"type": "ambiguity", "severity": "minor", "span": "Touch, and the five qualities of desire", "evidence": "Tibetan རེག་དང་འདོད་ཡོན་ལྔ་ presents the five (form, sound, smell, taste, touch) as the five qualities of desire. bo-mipham 5-74 རེག་བྱ་དང་བཅས་པ་སྟེ་འདོད་པའི་ཡོན་ཏན་ལྔ་ and bo-khenrab 5-74 ... རེག་བྱ ... སོགས་འདོད་པའི་ཡོན་ཏན་ལྔ་. The English 'and' lets the reader take the five qualities of desire as a further group beyond the five listed objects.", "fix": "Touch—the five qualities of desire—"}
+]},
+{"id": "5-75", "verdict": "pass", "issues": []},
+{"id": "5-76", "verdict": "pass", "issues": [
+ {"type": "mistranslation", "severity": "minor", "span": "Thinking, \"He will even kill me,\"", "evidence": "Tibetan འདི་ཡིས་བདག་ནི་བསད་པར་འགྱུར་དུ་འོང་སྙམ་ནས is a possibility ('by this he may come to kill me'), not a certainty, and it includes འདི་ཡིས ('by this'). bo-mipham 5-76 ཉེས་ན་འདི༷་ཡི༷ས་བདག༷་ནི༷་བསད༷་པར༷་འགྱུར༷་དུའང༷་འོང༷་ and bo-khenrab 5-76 སྟབས་ཉེས་ན་ ('if she errs') confirm the conditional sense. The English states it as a definite future and omits 'by this'.", "fix": "Thinking, \"By this he might even kill me,\""},
+ {"type": "mistranslation", "severity": "minor", "span": "she is overcome with fear", "evidence": "Tibetan འཇིགས་བཅས་ཟིལ་གྱིས་གནོན is 'with fear, she is overpowered'. bo-mipham 5-76 བཀའ་ཉན་ལ་དེ་ཉིད་རྗེ་བོ་དེའི་ཟིལ༷་གྱིས༷་གནོན༷་པར་གྱུར་པ་ and bo-khenrab 5-76 རྗེ་བོ་དེས་ཟིལ་གྱིས་གནོན་པར་གྱུར་བ་ show that ཟིལ་གྱིས་གནོན is her being dominated by the master, which links to 'under the power of her master' in 5-75. The English reduces it to being afraid.", "fix": "fearful, she is utterly subdued by him."}
+]},
+{"id": "5-77", "verdict": "pass", "issues": [
+ {"type": "mistranslation", "severity": "minor", "span": "those who have entered into supreme awakening for the sake of awakening", "evidence": "Tibetan བྱང་ཆུབ་ཆེད་དུ་བྱང་ཆུབ་མཆོག་ཞུགས་པ ('entered/set out on the supreme [path of] awakening for the sake of awakening'). bo-mipham 5-77 བླ་ན་མེད་པའི་བྱང་ཆུབ་ཀྱི་ཆེད་དུ་བྱང་ཆུབ་མཆོག་གི་ལམ་ལ་ཞུགས་པ་ and Sanskrit bodhivarapasthitu show that what is entered is the path to supreme awakening; those described have not yet attained it. 'entered into supreme awakening' suggests being in awakening itself.", "fix": "those who have set out on the path to supreme awakening for the sake of awakening"},
+ {"type": "ambiguity", "severity": "minor", "span": "burns them up", "evidence": "Tibetan རྩྭ་དང་ཤིང་ལས་མེ་བྱུང་བས་ནི་དེ་ཉིད་སྲེག says fire born of grass and wood burns that very grass and wood. bo-mipham 5-77 རྩ་དང་ཤིང་ལས་མེ་བྱུང་བས་ནི་རྩ་ཤིང་དེ༷་ཉི༷ད་སྲེག་པ. The English 'them' has no clear antecedent and loses 'that very' (self-destruction by one's own fire).", "fix": "Fire arising from grass and wood burns that very grass and wood."}
+]},
+{"id": "5-78", "verdict": "pass", "issues": []},
+{"id": "5-79", "verdict": "pass", "issues": []},
+{"id": "5-80", "verdict": "pass", "issues": [
+ {"type": "mistranslation", "severity": "minor", "span": "If they perceive them as long, they accomplish awakening with suffering", "evidence": "Tibetan རིང་བར་འདུ་ཤེས་སྡུག་བསྔལ་བྱང་ཆུབ་སྒྲུབ: both 'long' and 'suffering' are perceptions (འདུ་ཤེས). bo-mipham 5-80 རིང༷་བར༷་འདུ༷་ཤེས༷་པ་དང་། ... སྡུག༷་བསྔལ༷་བའི་འདུ་ཤེས་ཀྱི་སྒོ་ནས་བྱང༷་ཆུབ༷་སྒྲུབ༷་པར་བྱེད་ན། and bo-khenrab 5-80 སྡུག་བསྔལ་བའི་འདུ་ཤེས་ཀྱི་སྒོ་ནས་བྱང་ཆུབ་སྒྲུབ་པར་བྱེད་ན. The English renders suffering as an actual circumstance of accomplishing rather than a perception.", "fix": "If they perceive it as long and perceive it as suffering, and so accomplish awakening,"}
+]},
+{"id": "5-81", "verdict": "pass", "issues": []},
+{"id": "5-82", "verdict": "pass", "issues": []},
+{"id": "5-83", "verdict": "pass", "issues": []},
+{"id": "5-84", "verdict": "pass", "issues": []},
+{"id": "5-85", "verdict": "pass", "issues": []},
+{"id": "5-86", "verdict": "pass", "issues": []},
+{"id": "5-87", "verdict": "pass", "issues": [
+ {"type": "ambiguity", "severity": "minor", "span": "offers them to the Knowers of the World,\nThe Buddhas, arhats, and pratyekabuddhas", "evidence": "Tibetan འཇིག་རྟེན་མཁྱེན། སངས་རྒྱས་རྣམས་དང་དགྲ་བཅོམ་རང་རྒྱལ is 'the Knowers of the World, i.e. the Buddhas, and arhats and pratyekabuddhas'; འཇིག་རྟེན་མཁྱེན་པ is an epithet of the Buddhas only. bo-mipham 5-87 འཇིག༷་རྟེན༷་མཁྱེན༷་པ་སངས༷་རྒྱས༷་རྣམ༷ས་དང༷་། དགྲ༷་བཅོ༷མ་པ་རྣམས་དང་རང༷་རྒྱལ༷་རྣམས་ལ and bo-rangjung 5-87 འཇིག་རྟེན་མཁྱེན་པའི་སངས་རྒྱས་རྣམས་དང་ཉན་ཐོས་དགྲ་བཅོམ་པ་དང་རང་རྒྱལ་རྣམས་. The English line break makes 'Knowers of the World' read as a heading for all three groups.", "fix": "offers them to the Buddhas, the Knowers of the World, and to arhats and pratyekabuddhas,"}
+]},
+{"id": "5-88", "verdict": "pass", "issues": [
+ {"type": "mistranslation", "severity": "minor", "span": "Wandering beings will rejoice in this wise one endowed with patience.", "evidence": "Tibetan འདི་ནི་བཟོད་ལྡན་དེ་ལ་འགྲོ་བ་དགའ་འགྱུར་མཁས: 'wise' (མཁས) is a separate result (མཁས་པར་འགྱུར) alongside beings' delight. bo-mipham 5-88 ... དེ༷་ལ༷་འགྲོ༷་བ༷་རྣམས་དགའ༷་བར་འགྱུར༷་ཞིང་ ... རྨོངས་པ་དང་བྲལ་བའི་མཁས༷་པར་འགྱུར་རོ and bo-khenrab 5-88 ... བླང་དོར་གྱི་གནས་ལ་མཁས་པར་འགྱུར་རོ. The English reduces 'becomes wise' to an epithet of the patient one.", "fix": "Beings will rejoice in this one endowed with patience, and they will become wise."}
+]},
+{"id": "5-89", "verdict": "pass", "issues": [
+ {"type": "ambiguity", "severity": "minor", "span": "They should generate an equal and even mind.", "evidence": "Tibetan དེ་ཡིས་མཉམ་ཞིང་སྙོམས་པའི་ཡིད་ནི་བསྐྱེད་པར་བྱ: the agent is the bodhisattva. bo-mipham 5-89 བྱང་ཆུབ་སེམས་དཔའ་དེ༷་ཡིས༷་ ... མཉམ༷་ཞིང༷་སྙོམས༷་པའི༷་ཡི༷ད་ནི༷་བསྐྱེ༷ད་པར༷་བྱའོ and bo-khenrab 5-89 བྱང་ཆུབ་སེམས་དཔའ་དེ་ཡིས་ .... In the English, 'some sentient beings', 'another' and the bodhisattva are all possible antecedents of 'They'.", "fix": "That bodhisattva should generate an equal and even mind."}
+]},
+{"id": "5-90", "verdict": "pass", "issues": [
+ {"type": "addition", "severity": "minor", "span": "however many diverse realms of sentient beings there are", "evidence": "Tibetan སེམས་ཅན་ཁམས་མང་ཇི་སྙེད (locked 'realm of sentient beings') says 'however many [there are in] the realm of sentient beings'. bo-mipham 5-90 གཞན་སེམས༷་ཅ༷ན་གྱི་ཁ༷མས་མང༷་པོ་ཇི༷་སྙེད༷་པ and bo-rangjung 5-90 སེམས་ཅན་ཁམས་ཀྱི་དགེ་བ་ཇི་སྙེད་ཡོད་པ. Nothing corresponds to 'diverse', and the locked singular rendering 'realm of sentient beings' is not used.", "fix": "and however many there are in the realm of sentient beings."}
+]},
+{"id": "5-91", "verdict": "pass", "issues": []}
+]}

@@ -1,0 +1,713 @@
+{
+ "batch": "batch-10",
+ "terms": [
+  {
+   "term_id": "T010",
+   "bo": "འདུ་ཤེས",
+   "sanskrit": "saṃjñā",
+   "senses": [
+    {
+     "sense": "perception",
+     "occurrences": "all",
+     "academic": "perception",
+     "children": "idea",
+     "basis": "style-sheet",
+     "reason": "Policy 20 and core table: perception everywhere; children's idea."
+    }
+   ]
+  },
+  {
+   "term_id": "T023",
+   "bo": "བསམ་གཏན",
+   "sanskrit": "dhyāna",
+   "senses": [
+    {
+     "sense": "meditative concentration (the fourth perfection)",
+     "occurrences": "all",
+     "academic": "meditative concentration",
+     "children": "deep focus",
+     "basis": "style-sheet",
+     "reason": "Policy 13: not dhyāna; children's deep focus from core table."
+    }
+   ]
+  },
+  {
+   "term_id": "T036",
+   "bo": "སྟོང",
+   "sanskrit": "śūnya",
+   "senses": [
+    {
+     "sense": "empty (adjective or predicate)",
+     "occurrences": [
+      "1-8",
+      "4-78",
+      "5-15",
+      "5-16",
+      "5-43"
+     ],
+     "academic": "empty",
+     "children": "empty",
+     "basis": "style-sheet",
+     "reason": "Policy 14: truncated སྟོང་པ as adjective or predicate."
+    },
+    {
+     "sense": "emptiness (noun)",
+     "occurrences": [
+      "2-2",
+      "4-89",
+      "5-56"
+     ],
+     "academic": "emptiness",
+     "children": "emptiness",
+     "basis": "style-sheet",
+     "reason": "Policy 14: noun, as in 'dwell in emptiness' and 'suchness and emptiness'."
+    }
+   ]
+  },
+  {
+   "term_id": "T049",
+   "bo": "རྣམ་ཤེས",
+   "sanskrit": "vijñāna",
+   "senses": [
+    {
+     "sense": "consciousness (fifth aggregate)",
+     "occurrences": "all",
+     "academic": "consciousness",
+     "children": "awareness",
+     "basis": "style-sheet",
+     "reason": "Policy 19 and core table: consciousness; children's awareness."
+    }
+   ]
+  },
+  {
+   "term_id": "T062",
+   "bo": "སེམས་ཅན་འདུ་ཤེས",
+   "sanskrit": "sattvasaṃjñā",
+   "senses": [
+    {
+     "sense": "perception of sentient beings",
+     "occurrences": "all",
+     "academic": "perception of sentient beings",
+     "children": "idea of living beings",
+     "basis": "style-sheet",
+     "reason": "Policy 37 compound of perception and sentient beings; children's builds on idea and living beings."
+    }
+   ]
+  },
+  {
+   "term_id": "T075",
+   "bo": "འཛམ་བུའི་གླིང",
+   "sanskrit": "jambudvīpa",
+   "senses": [
+    {
+     "sense": "the continent Jambudvīpa",
+     "occurrences": "all",
+     "academic": "Jambudvīpa",
+     "children": "Jambudvipa",
+     "basis": "both",
+     "reason": "Proper name, policy 30: IAST for academic, no diacritics for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T088",
+   "bo": "རྣམ་པར་འདྲེན་པ",
+   "sanskrit": "vināyaka",
+   "senses": [
+    {
+     "sense": "epithet of the Buddhas",
+     "occurrences": "all",
+     "academic": "Guide",
+     "children": "Guide",
+     "basis": "style-sheet",
+     "reason": "Policy 27: Guide capitalised as epithet; not Leaders."
+    }
+   ]
+  },
+  {
+   "term_id": "T101",
+   "bo": "འགྲོ་དོན",
+   "sanskrit": "jagadartha",
+   "senses": [
+    {
+     "sense": "welfare of beings",
+     "occurrences": "all",
+     "academic": "welfare of beings",
+     "children": "good of beings",
+     "basis": "dm",
+     "reason": "DharmaMitra and Gemini both use welfare of beings; children's plain phrase is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T114",
+   "bo": "སངས་རྒྱས་བྱང་ཆུབ",
+   "sanskrit": "buddhabodhi",
+   "senses": [
+    {
+     "sense": "awakening of a Buddha",
+     "occurrences": "all",
+     "academic": "awakening of a Buddha",
+     "children": "a Buddha's awakening",
+     "basis": "dm",
+     "reason": "Policy 1 awakening; DharmaMitra's singular form, Buddha capitalised per policy 29."
+    }
+   ]
+  },
+  {
+   "term_id": "T127",
+   "bo": "མཚན་མེད",
+   "sanskrit": "animitta",
+   "senses": [
+    {
+     "sense": "signlessness (one of three doors)",
+     "occurrences": "all",
+     "academic": "signlessness",
+     "children": "being without signs",
+     "basis": "style-sheet",
+     "reason": "Policy 15: signlessness as noun; children's without signs from core table."
+    }
+   ]
+  },
+  {
+   "term_id": "T140",
+   "bo": "རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "omniscience of all aspects",
+     "occurrences": "all",
+     "academic": "omniscience of all aspects",
+     "children": "knowing everything in every way",
+     "basis": "style-sheet",
+     "reason": "Policy 21 and core table; Gemini's Knowledge of All Aspects is not used."
+    }
+   ]
+  },
+  {
+   "term_id": "T153",
+   "bo": "གང་ཟག",
+   "sanskrit": "pudgala",
+   "senses": [
+    {
+     "sense": "person",
+     "occurrences": "all",
+     "academic": "person",
+     "children": "person",
+     "basis": "both",
+     "reason": "Both machines render persons; head form singular, plain word for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T166",
+   "bo": "བྱང་ཆུབ་ཡོན་ཏན",
+   "sanskrit": "bodhiguṇa",
+   "senses": [
+    {
+     "sense": "qualities of awakening",
+     "occurrences": "all",
+     "academic": "qualities of awakening",
+     "children": "good qualities of awakening",
+     "basis": "style-sheet",
+     "reason": "Policy 37 gives qualities of awakening; children's adds good as for ཡོན་ཏན."
+    }
+   ]
+  },
+  {
+   "term_id": "T179",
+   "bo": "བྱང་ཆུབ་དམ་པ",
+   "sanskrit": "varabodhi",
+   "senses": [
+    {
+     "sense": "supreme awakening",
+     "occurrences": "all",
+     "academic": "supreme awakening",
+     "children": "highest awakening",
+     "basis": "style-sheet",
+     "reason": "Policy 1 and core table for བྱང་ཆུབ་མཆོག; not enlightenment or holy."
+    }
+   ]
+  },
+  {
+   "term_id": "T192",
+   "bo": "ཀུན་མཁྱེན",
+   "sanskrit": "sarvajñatā",
+   "senses": [
+    {
+     "sense": "omniscience",
+     "occurrences": "all",
+     "academic": "omniscience",
+     "children": "knowing everything",
+     "basis": "style-sheet",
+     "reason": "Policy 21: plain omniscience for ཀུན་མཁྱེན; both machines agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T205",
+   "bo": "ང་རྒྱལ",
+   "sanskrit": "māna",
+   "senses": [
+    {
+     "sense": "pride",
+     "occurrences": "all",
+     "academic": "pride",
+     "children": "pride",
+     "basis": "both",
+     "reason": "Policy 50: ང་རྒྱལ is pride; both machines agree; plain word for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T218",
+   "bo": "བདག་ཏུ་འདུ་ཤེས",
+   "sanskrit": "ātmasaṃjñā",
+   "senses": [
+    {
+     "sense": "perception of a self",
+     "occurrences": "all",
+     "academic": "perception of a self",
+     "children": "idea of a self",
+     "basis": "style-sheet",
+     "reason": "Policy 20 names this compound; children's idea of a self per core table."
+    }
+   ]
+  },
+  {
+   "term_id": "T231",
+   "bo": "འཕགས་པ་འཇམ་དཔལ",
+   "sanskrit": "āryamañjuśrī",
+   "senses": [
+    {
+     "sense": "name of the bodhisattva Mañjuśrī",
+     "occurrences": "all",
+     "academic": "Noble Mañjuśrī",
+     "children": "Noble Manjushri",
+     "basis": "both",
+     "reason": "Both give Noble Mañjuśrī; policy 30 for diacritics, none in children's."
+    }
+   ]
+  },
+  {
+   "term_id": "T244",
+   "bo": "མཉམ་པར་བཞག",
+   "sanskrit": "samādhita",
+   "senses": [
+    {
+     "sense": "meditative equipoise",
+     "occurrences": "all",
+     "academic": "meditative equipoise",
+     "children": "resting in calm",
+     "basis": "both",
+     "reason": "Both machines agree; children's plain phrase is new and kept apart from deep calm."
+    }
+   ]
+  },
+  {
+   "term_id": "T257",
+   "bo": "བྱང་ཆུབ་ཐེག་ཆེན",
+   "sanskrit": "bodhiyāna",
+   "senses": [
+    {
+     "sense": "Great Vehicle of Awakening",
+     "occurrences": "all",
+     "academic": "Great Vehicle of Awakening",
+     "children": "Great Vehicle of Awakening",
+     "basis": "both",
+     "reason": "Both machines agree; awakening per policy 1, Great Vehicle per core table."
+    }
+   ]
+  },
+  {
+   "term_id": "T270",
+   "bo": "བདེན",
+   "sanskrit": "satya",
+   "senses": [
+    {
+     "sense": "truth",
+     "occurrences": "all",
+     "academic": "truth",
+     "children": "truth",
+     "basis": "gm",
+     "reason": "Gemini's singular head form; DharmaMitra gives the plural."
+    }
+   ]
+  },
+  {
+   "term_id": "T283",
+   "bo": "བདེ་བར་གཤེགས་ཀྱི་ཡུམ",
+   "sanskrit": "sugatamātṛ",
+   "senses": [
+    {
+     "sense": "Mother of the Sugatas (epithet of the perfection of wisdom)",
+     "occurrences": "all",
+     "academic": "Mother of the Sugatas",
+     "children": "Mother of the Well-Gone Ones",
+     "basis": "style-sheet",
+     "reason": "Policy 8 and 28: Mother capitalised; children's Well-Gone One for Sugata."
+    }
+   ]
+  },
+  {
+   "term_id": "T296",
+   "bo": "དགེ་ཆོས",
+   "sanskrit": "kuśaladharma",
+   "senses": [
+    {
+     "sense": "virtuous qualities",
+     "occurrences": "all",
+     "academic": "virtuous qualities",
+     "children": "qualities of goodness",
+     "basis": "dm",
+     "reason": "Policy 46: virtuous qualities from DharmaMitra, not Gemini's dharmas; children's is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T309",
+   "bo": "དམ་ཆོས",
+   "sanskrit": "sudharma",
+   "senses": [
+    {
+     "sense": "true Dharma",
+     "occurrences": "all",
+     "academic": "true Dharma",
+     "children": "true teaching",
+     "basis": "dm",
+     "reason": "DharmaMitra's true Dharma; Dharma capitalised for the Buddha's teaching, policy 9."
+    }
+   ]
+  },
+  {
+   "term_id": "T322",
+   "bo": "སྐྱབས་མེད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "without refuge",
+     "occurrences": "all",
+     "academic": "without refuge",
+     "children": "with no shelter",
+     "basis": "gm",
+     "reason": "Gemini's without refuge keeps the སྐྱབས refuge stem; defenseless loses it."
+    }
+   ]
+  },
+  {
+   "term_id": "T335",
+   "bo": "ལྷ་རྒྱལ་བརྒྱ་བྱིན",
+   "sanskrit": "śakra devarāja",
+   "senses": [
+    {
+     "sense": "Śakra, king of the gods",
+     "occurrences": "all",
+     "academic": "Śakra, king of the gods",
+     "children": "Shakra, king of the gods",
+     "basis": "style-sheet",
+     "reason": "Policy 31: ལྷ་རྒྱལ་བརྒྱ་བྱིན is Śakra, king of the gods."
+    }
+   ]
+  },
+  {
+   "term_id": "T348",
+   "bo": "ཆོས་ཀྱི་དམ་པ",
+   "sanskrit": "dharmaśreṣṭha",
+   "senses": [
+    {
+     "sense": "sublime Dharma",
+     "occurrences": "all",
+     "academic": "sublime Dharma",
+     "children": "best teaching",
+     "basis": "dm",
+     "reason": "DharmaMitra's sublime Dharma; Sanskrit śreṣṭha is best, so children's best teaching; Dharma per policy 9."
+    }
+   ]
+  },
+  {
+   "term_id": "T361",
+   "bo": "མུ་སྟེགས་ཅན",
+   "sanskrit": "tīrthika",
+   "senses": [
+    {
+     "sense": "non-Buddhist",
+     "occurrences": "all",
+     "academic": "non-Buddhist",
+     "children": "follower of another path",
+     "basis": "dm",
+     "reason": "DharmaMitra avoids tīrthika, which is not on the kept-Sanskrit list (policy 33)."
+    }
+   ]
+  },
+  {
+   "term_id": "T374",
+   "bo": "བླ་མ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "teacher (guru)",
+     "occurrences": "all",
+     "academic": "master",
+     "children": "teacher",
+     "basis": "new",
+     "reason": "Lower-case generic master, kept apart from epithet Teacher (སྟོན་པ); guru not on kept-Sanskrit list."
+    }
+   ]
+  },
+  {
+   "term_id": "T387",
+   "bo": "ཐེ་ཚོམ",
+   "sanskrit": "kāṅkṣā",
+   "senses": [
+    {
+     "sense": "doubt",
+     "occurrences": "all",
+     "academic": "doubt",
+     "children": "doubt",
+     "basis": "both",
+     "reason": "Both machines agree; plain English word."
+    }
+   ]
+  },
+  {
+   "term_id": "T400",
+   "bo": "དགེ་བཅུའི་ལས་ཀྱི་ལམ",
+   "sanskrit": "daśakuśalakarmapatha",
+   "senses": [
+    {
+     "sense": "path of the ten virtuous actions",
+     "occurrences": "all",
+     "academic": "path of the ten virtuous actions",
+     "children": "path of the ten good actions",
+     "basis": "gm",
+     "reason": "Gemini's singular head form; virtue per policy 46, children's good as for དགེ་བ."
+    }
+   ]
+  },
+  {
+   "term_id": "T413",
+   "bo": "མིང་ཙམ",
+   "sanskrit": "nāmamātra",
+   "senses": [
+    {
+     "sense": "merely a name",
+     "occurrences": "all",
+     "academic": "mere name",
+     "children": "just a name",
+     "basis": "both",
+     "reason": "Both machines agree on merely names; head form singular; children's plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T426",
+   "bo": "བདེན་པའི་བྱིན་རླབས",
+   "sanskrit": "satyādhiṣṭhāna",
+   "senses": [
+    {
+     "sense": "blessing of truth",
+     "occurrences": "all",
+     "academic": "blessing of truth",
+     "children": "blessing of truth",
+     "basis": "both",
+     "reason": "Both machines agree on blessings of truth; head form singular."
+    }
+   ]
+  },
+  {
+   "term_id": "T439",
+   "bo": "སྣང",
+   "sanskrit": "obhāsa",
+   "senses": [
+    {
+     "sense": "light",
+     "occurrences": "all",
+     "academic": "light",
+     "children": "light",
+     "basis": "both",
+     "reason": "Both machines agree; a plain English word suits both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T452",
+   "bo": "དགྲོལ",
+   "sanskrit": "parimocayati",
+   "senses": [
+    {
+     "sense": "liberate",
+     "occurrences": "all",
+     "academic": "liberate",
+     "children": "set free",
+     "basis": "dm",
+     "reason": "Verbal term, base form (policy 48); DharmaMitra's liberate; children's plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T465",
+   "bo": "སློབ་པ་པོ",
+   "sanskrit": "śikṣaka",
+   "senses": [
+    {
+     "sense": "trainee",
+     "occurrences": "all",
+     "academic": "trainee",
+     "children": "learner",
+     "basis": "dm",
+     "reason": "DharmaMitra's trainee; Gemini's trainer reverses the sense; children's plain learner."
+    }
+   ]
+  },
+  {
+   "term_id": "T478",
+   "bo": "རེ་རབ",
+   "sanskrit": "meru",
+   "senses": [
+    {
+     "sense": "Mount Meru",
+     "occurrences": "all",
+     "academic": "Mount Meru",
+     "children": "Mount Meru",
+     "basis": "style-sheet",
+     "reason": "Policy 31: Mount Meru; both machines agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T491",
+   "bo": "ཐལ་མོ་སྦྱར་བ",
+   "sanskrit": "añjalipuṭa",
+   "senses": [
+    {
+     "sense": "join palms",
+     "occurrences": "all",
+     "academic": "join palms",
+     "children": "put palms together",
+     "basis": "both",
+     "reason": "Verbal gesture, base form (policy 48); both machines agree; children's plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T504",
+   "bo": "ཚུལ་སྒོ",
+   "sanskrit": "nayadvāra",
+   "senses": [
+    {
+     "sense": "gateway",
+     "occurrences": "all",
+     "academic": "gateway",
+     "children": "gateway",
+     "basis": "dm",
+     "reason": "DharmaMitra's gateway follows the door image of སྒོ; Gemini's approaches is looser."
+    }
+   ]
+  },
+  {
+   "term_id": "T517",
+   "bo": "གཟུགས་མེད་ཁམས",
+   "sanskrit": "ārūpyadhātu",
+   "senses": [
+    {
+     "sense": "formless realm",
+     "occurrences": "all",
+     "academic": "formless realm",
+     "children": "formless realm",
+     "basis": "both",
+     "reason": "Policy 41: ཁམས as realm in cosmological compounds; both machines agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T530",
+   "bo": "སེམས་དཔའ",
+   "sanskrit": "sattva",
+   "senses": [
+    {
+     "sense": "bodhisattva (truncated form)",
+     "occurrences": "all",
+     "academic": "bodhisattva",
+     "children": "awakening hero",
+     "basis": "style-sheet",
+     "reason": "Policy 2 and 4: སེམས་དཔའ truncates བྱང་ཆུབ་སེམས་དཔའ; both machines keep bodhisattva."
+    }
+   ]
+  },
+  {
+   "term_id": "T543",
+   "bo": "འཇིག་རྟེན་མཁྱེན",
+   "sanskrit": "lokavid",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "Knower of the World",
+     "children": "Knower of the World",
+     "basis": "style-sheet",
+     "reason": "Policy 27: capitalised epithet; singular head form of the plural Gemini has."
+    }
+   ]
+  },
+  {
+   "term_id": "T556",
+   "bo": "ཁྲིམས་འཆལ",
+   "sanskrit": "duḥśīla",
+   "senses": [
+    {
+     "sense": "lacking ethical discipline",
+     "occurrences": "all",
+     "academic": "lacking ethical discipline",
+     "children": "lacking good conduct",
+     "basis": "style-sheet",
+     "reason": "Policy 12: ཁྲིམས་འཆལ is lacking ethical discipline; children's builds on good conduct."
+    }
+   ]
+  },
+  {
+   "term_id": "T569",
+   "bo": "གླིང་བཞི",
+   "sanskrit": "catvāri dvīpa",
+   "senses": [
+    {
+     "sense": "four continents",
+     "occurrences": "all",
+     "academic": "four continents",
+     "children": "four continents",
+     "basis": "both",
+     "reason": "Both machines agree; plain English word."
+    }
+   ]
+  },
+  {
+   "term_id": "T582",
+   "bo": "དུད་འགྲོའི་འགྲོ་བ",
+   "sanskrit": "tiryaggati",
+   "senses": [
+    {
+     "sense": "animal existence",
+     "occurrences": "all",
+     "academic": "animal existence",
+     "children": "life as an animal",
+     "basis": "dm",
+     "reason": "DharmaMitra's animal existence; policy 49 plain nouns for destinies; children's plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T595",
+   "bo": "དགེ་འདུན་རྒྱུད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "lineage of the Saṅgha",
+     "occurrences": "all",
+     "academic": "lineage of the Sangha",
+     "children": "lineage of the community",
+     "basis": "style-sheet",
+     "reason": "Policy 35: Sangha without ṅ, children's the community; lineage from DharmaMitra."
+    }
+   ]
+  }
+ ]
+}

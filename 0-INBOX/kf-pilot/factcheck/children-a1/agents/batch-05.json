@@ -1,0 +1,215 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "4-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-25",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "This is their home.",
+     "evidence": "The Guides have the perfection of wisdom as their domain (their range of activity), not a home.",
+     "fix": "Perfect wisdom is the place where they move and work, like a beautiful garden."
+    }
+   ]
+  },
+  {
+   "id": "4-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-27",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "the river of craving and strong wanting",
+     "evidence": "The text has only the river of craving (srid pa'i chu klung); 'strong wanting' is a gloss of the same word, not a second thing.",
+     "fix": "He dries up the river of craving, which is strong wanting."
+    }
+   ]
+  },
+  {
+   "id": "4-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-31",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "A king might not visit the towns and lands of his kingdom.",
+     "evidence": "The king does not go to the villages or provinces; it is a fact, not a possibility.",
+     "fix": "A king does not go to the towns and lands of his kingdom."
+    }
+   ]
+  },
+  {
+   "id": "4-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-44",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Do not hold on to the heaps of awakening. Do not have any clinging to the supreme!",
+     "evidence": "One single instruction: do not cling to the supreme by being attached to the aggregates of awakening. Splitting it into two commands loses the 'by' link.",
+     "fix": "Do not cling to the supreme by holding on to the heaps of awakening!"
+    }
+   ]
+  },
+  {
+   "id": "4-45",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "They are bright lamps who stay completely calm. They speak the highest teaching.",
+     "evidence": "'Illuminators' is dropped, and 'imperturbable' belongs to the speakers of the supreme Dharma, not to the lamps.",
+     "fix": "They light up the way and are lamps. They speak the highest teaching and cannot be shaken."
+    }
+   ]
+  },
+  {
+   "id": "4-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "They are never turning back.",
+     "evidence": "Ungrammatical use of the locked phrase; the Tibetan says they are irreversible.",
+     "fix": "They are ones who never turn back."
+    },
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "These famous heroes",
+     "evidence": "'Those of great renown'; 'heroes' is added and may be confused with 'awakening hero'.",
+     "fix": "These very famous ones put on armor for hard deeds."
+    }
+   ]
+  },
+  {
+   "id": "4-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-48",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "No one can just figure it out or reach it.",
+     "evidence": "No one realizes it, and there is no attaining of it. The children's text turns 'not realized/no attaining' into 'cannot easily figure out or reach', which changes the logic.",
+     "fix": "No one has realized it, and there is nothing to be reached."
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "he paused",
+     "evidence": "He felt little inclination (to teach), thinking no one would understand.",
+     "fix": "he felt little wish to teach"
+    }
+   ]
+  },
+  {
+   "id": "4-49",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

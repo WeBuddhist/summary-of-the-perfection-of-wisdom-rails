@@ -1,0 +1,226 @@
+{
+ "batch": "batch-11",
+ "segments": [
+  {
+   "id": "5-12",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "without wavering",
+     "evidence": "གཡེལ་པ་མེད་པར is \"without negligence/laxity\" (Skt atandritena \"without sloth\"); bo-mipham 5-12 and bo-rangjung 5-12 gloss it as constant, unlapsing reliance (གཡེལ་བ་མེད་པར ... རྒྱུན་དུ་བསྟེན་པ), not lack of vacillation.",
+     "fix": "without negligence"
+    }
+   ]
+  },
+  {
+   "id": "5-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Just as the perfection of wisdom is empty of characteristics",
+     "evidence": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་མཚན་ཉིད་སྟོང་ is read in bo-mipham 5-15 and bo-khenrab 5-15 (citing the Eight Thousand) as \"the characteristic of the perfection of wisdom is emptiness\" (སྟོང་པ་ཉིད་ཀྱི་མཚན་ཉིད་); Skt prajñāpāramitā śūnyatā lakṣaṇena = \"has emptiness as its characteristic\". bo-rangjung 5-15 allows \"empty of characteristic\" only as a second option, and the next line (\"the characteristics of all phenomena ... similar to that\") presupposes that emptiness is the characteristic.",
+     "fix": "Just as the perfection of wisdom has emptiness as its characteristic,"
+    },
+    {
+     "type": "form",
+     "severity": "minor",
+     "span": "the whole translation (one line)",
+     "evidence": "The Tibetan is a four-line verse (four ། ། units), but the English is run together as a single line, so line breaks and the line-by-line correspondence are lost.",
+     "fix": "Set the English in four lines matching the four Tibetan lines."
+    }
+   ]
+  },
+  {
+   "id": "5-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "doctrinal",
+     "severity": "minor",
+     "span": "Completely famished sentient beings desire food",
+     "evidence": "The commentaries do not read ལྟོགས་པ \"famished\" but ཡོངས་སུ་རྟོག་པ / ཡོངས་སུ་རྟོགས་པ \"fully conceptualizing\" (bo-mipham 5-16 ཡོངས་སུ་རྟོག་པ་ཅན་དུ་གྱུར་པའི་དབང་གིས ... ཟས་ལ་འདོད་པ་སྐྱེ་བར་བྱེད; bo-rangjung 5-16 and bo-khenrab 5-16 ཡོངས་སུ་རྟོགས་པས), matching Skt parikalpayamāna \"imagining\"; \"food\" is explained as the objects of desire (འདོད་ཡོན་གྱི་ཟས). The Tibetan as given may be a scribal variant; the English follows it against the commentarial reading.",
+     "fix": "Sentient beings, fully conceptualizing, desire food (the objects of desire)"
+    },
+    {
+     "type": "form",
+     "severity": "minor",
+     "span": "the whole translation (one line)",
+     "evidence": "The Tibetan is a four-line verse (four ། ། units), but the English is run together as a single line, so line breaks and the line-by-line correspondence are lost.",
+     "fix": "Set the English in four lines matching the four Tibetan lines."
+    }
+   ]
+  },
+  {
+   "id": "5-17",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "just as poison is aroused by the perception of suspicion",
+     "evidence": "དུག་བསླང་བ is \"takes/swallows poison\" (bo-rangjung 5-17 reads དུག་བླངས་པ; bo-mipham 5-17: \"thinking 'the poison has gone inside'\"; Skt viṣasaṃjñata abhyupaiti). The poison is not \"aroused\"; a person, on suspecting, believes they have taken poison.",
+     "fix": "just as one who, through a suspicious perception, thinks they have taken poison"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "Through the perception of that self, truly impermanent,",
+     "evidence": "The line says the perception of that self is unreal (ཡང་དག་མིན, Skt abhūto), not that the self is \"truly impermanent\": bo-mipham 5-17 བདག་ཅེས་བྱ་བའི་ཡུལ་དེར་འདུ་ཤེས་པ་ཡང་དག་པ་མིན་པའི་རྟོག་པ་འབྱུང་ཞིང་ ... སྐྱེ་ཞིང་འཆི; bo-khenrab 5-17 the same (བདེན་པར་འདུ་ཤེས་པ་ཡང་དག་པ་མིན་པའི་ཀུན་རྟོག). Skt also has sadā \"always\": they are always born and die. The English wrongly predicates impermanence of the self.",
+     "fix": "through the unreal perception of that self, are continually born and die"
+    },
+    {
+     "type": "form",
+     "severity": "minor",
+     "span": "the whole translation (one line)",
+     "evidence": "The Tibetan is a four-line verse (four ། ། units), but the English is run together as a single line, so line breaks and the line-by-line correspondence are lost.",
+     "fix": "Set the English in four lines matching the four Tibetan lines."
+    }
+   ]
+  },
+  {
+   "id": "5-18",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "without anything becoming an affliction or completely pure",
+     "evidence": "འདི་ལ་གང་ཡང་ཉོན་མོངས་རྣམ་དག་འགྱུར་མེད་པ means that in this (ultimate reality) no one/nothing becomes afflicted or purified (Skt na hy atra kaścid yo kliśyati śudhyate vā; bo-mipham 5-18 གང་ཟག་གང་ཡང་ཉོན་མོངས་པར་གྱུར་པ་དང་ ... རྣམ་པར་དག་པ་ཉིད་དུ་འགྱུར་བ་ཡང་མེད་པ). The English makes affliction itself the thing that something \"becomes\", obscuring that there is no one who is afflicted or purified.",
+     "fix": "in this, there is nothing that becomes afflicted or purified,"
+    },
+    {
+     "type": "form",
+     "severity": "minor",
+     "span": "the whole translation (one line)",
+     "evidence": "The Tibetan is a four-line verse (four ། ། units), but the English is run together as a single line, so line breaks and the line-by-line correspondence are lost.",
+     "fix": "Set the English in four lines matching the four Tibetan lines."
+    }
+   ]
+  },
+  {
+   "id": "5-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "If all of them were to generate",
+     "evidence": "The verse closes with the concessive ཡང (བསྔོ་ཡང་ \"even though ... they dedicate\"; bo-rangjung 5-19 བསྔོ་ཡང༌, bo-mipham 5-19 \"ཡང་ཡོད་མོད་ཀྱི\"), setting this vast merit against the next verse, where a single day of practising the perfection of wisdom surpasses it. The English drops the concession (\"If ...\") and leaves the sentence without a main clause.",
+     "fix": "even if all of them were to generate"
+    },
+    {
+     "type": "form",
+     "severity": "minor",
+     "span": "the whole translation (one line)",
+     "evidence": "The Tibetan is a four-line verse (four ། ། units), but the English is run together as a single line, so line breaks and the line-by-line correspondence are lost.",
+     "fix": "Set the English in four lines matching the four Tibetan lines."
+    }
+   ]
+  },
+  {
+   "id": "5-20",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "without wavering",
+     "evidence": "གཡེལ་མེད is \"without negligence/distraction\" (Skt atandritena); bo-rangjung 5-19 glosses it ལེ་ལོ་དང་བྱ་བ་གཞན་གྱིས་གཡེལ་བ་མེད་པར \"without laziness or distraction by other activities\".",
+     "fix": "without negligence"
+    },
+    {
+     "type": "form",
+     "severity": "minor",
+     "span": "the whole translation (one line)",
+     "evidence": "The Tibetan is a four-line verse (four ། ། units), but the English is run together as a single line, so line breaks and the line-by-line correspondence are lost.",
+     "fix": "Set the English in four lines matching the four Tibetan lines."
+    }
+   ]
+  },
+  {
+   "id": "5-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-25",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "all fireflies, living creatures, and spirits",
+     "evidence": "སྲོག་ཆགས་འབྱུང་པོ་ཐམས་ཅད is a single phrase \"all living beings/creatures\" (Skt prāṇabhūtām), whose faint light is eclipsed; bo-mipham 5-25 and bo-khenrab 5-25 treat it as creatures with a little light, not as a separate class of spirits. What is overpowered is their light.",
+     "fix": "all fireflies and all living beings"
+    }
+   ]
+  },
+  {
+   "id": "5-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-27",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "when he attains skillful means",
+     "evidence": "ཐབས་ཐོབ་གྱུར་ཏེ here means obtaining the means of ruling the kingdom (bo-mipham 5-27 རྒྱལ་ས་ལ་དབང་བའི་ཐབས་ཐོབ་པར་གྱུར་ཏེ; Skt paṭṭadhārī \"wearing the royal diadem\"), through consecration, in the prince parable; \"skillful means\" in the doctrinal sense does not fit.",
+     "fix": "when he obtains the means (of rule) and is established in the kingdom"
+    }
+   ]
+  },
+  {
+   "id": "5-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-31",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

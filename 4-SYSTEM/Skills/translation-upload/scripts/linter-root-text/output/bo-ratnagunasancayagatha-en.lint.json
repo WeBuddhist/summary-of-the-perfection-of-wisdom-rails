@@ -1,0 +1,35 @@
+{
+  "status": "ok",
+  "source": "3-TRANSFORMATIONS/Translations/Dharmamitra/en/bo-ratnagunasancayagatha-en.md",
+  "validated_at": "2026-10-04T10:19:36.234298+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Translations/bo-ratnagunasancayagatha.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://dharmamitra.org'",
+    "toc: 10 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "translator 'dharmamitra cat-translate v1': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "en": "The Verse Summary of the Perfection of Wisdom"
+    },
+    "alt_titles": null,
+    "language": "en",
+    "commentary_of": null,
+    "translation_of": "U5FlKUlLLtS1zo4n0EGZL",
+    "category_id": "uGpinx0GZlvU1uw44RyYS",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

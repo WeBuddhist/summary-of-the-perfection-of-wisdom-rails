@@ -1,0 +1,851 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "2-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-1",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Component of perfection of wisdom.",
+      "dm": "wisdom",
+      "gm": "wisdom"
+     },
+     {
+      "bo": "ཕ་རོལ་ཕྱིན",
+      "reason": "Component of perfection of wisdom.",
+      "dm": "perfection",
+      "gm": "perfection"
+     }
+    ]
+   },
+   {
+    "id": "2-2",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ས",
+      "reason": "Component of stage/level terms.",
+      "dm": "stage",
+      "gm": "level"
+     }
+    ]
+   },
+   {
+    "id": "2-3",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འདུས་མ་བྱས",
+      "reason": "Component of unconditioned realm.",
+      "dm": "unconditioned",
+      "gm": "unconditioned"
+     },
+     {
+      "bo": "ཁམས",
+      "reason": "Component of unconditioned realm.",
+      "dm": "realm",
+      "gm": "realm"
+     }
+    ]
+   },
+   {
+    "id": "2-4",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཆོས",
+      "reason": "Component of Kings of Dharma.",
+      "dm": "Dharma",
+      "gm": "Dharma"
+     },
+     {
+      "bo": "སངས་རྒྱས",
+      "reason": "Component of Pratyekabuddhas.",
+      "dm": null,
+      "gm": null
+     }
+    ]
+   },
+   {
+    "id": "2-5",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "Component of Protectors of the World.",
+      "dm": "World",
+      "gm": "World"
+     },
+     {
+      "bo": "མགོན",
+      "reason": "Component of Protectors of the World.",
+      "dm": "Protectors",
+      "gm": "Protectors"
+     }
+    ]
+   },
+   {
+    "id": "2-6",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-7",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ས",
+      "reason": "Component of stage/level.",
+      "dm": "stage",
+      "gm": "level"
+     },
+     {
+      "bo": "སངས་རྒྱས",
+      "reason": "Component of Buddha-dharma.",
+      "dm": "Buddha",
+      "gm": "buddha"
+     },
+     {
+      "bo": "ཆོས",
+      "reason": "Component of Buddha-dharma.",
+      "dm": "dharma",
+      "gm": "qualities"
+     }
+    ]
+   },
+   {
+    "id": "2-8",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 2,
+      "bo_fixed": "ཆོས"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "2-9",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ནམ་མཁའ",
+      "reason": "Component of element of space.",
+      "dm": "space",
+      "gm": "space"
+     },
+     {
+      "bo": "ཁམས",
+      "reason": "Component of element of space.",
+      "dm": "element",
+      "gm": "realm"
+     }
+    ]
+   },
+   {
+    "id": "2-10",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ནམ་མཁའ",
+      "reason": "Component of expanse of space.",
+      "dm": "space",
+      "gm": "space"
+     },
+     {
+      "bo": "ཁམས",
+      "reason": "Component of expanse of space.",
+      "dm": "expanse",
+      "gm": "realm"
+     },
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "Component of Knower of the World.",
+      "dm": "World",
+      "gm": "World"
+     }
+    ]
+   },
+   {
+    "id": "2-11",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-12",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Component of perfection of wisdom.",
+      "dm": "wisdom",
+      "gm": "wisdom"
+     },
+     {
+      "bo": "ཕ་རོལ་ཕྱིན",
+      "reason": "Component of perfection of wisdom.",
+      "dm": "perfection",
+      "gm": "perfection"
+     }
+    ]
+   },
+   {
+    "id": "2-13",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-14",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Component of perfection of wisdom.",
+      "dm": "wisdom",
+      "gm": "wisdom"
+     },
+     {
+      "bo": "ཕ་རོལ་ཕྱིན",
+      "reason": "Component of perfection of wisdom.",
+      "dm": "perfection",
+      "gm": "perfection"
+     },
+     {
+      "bo": "ཕྱོགས",
+      "reason": "Component of factions of Mara.",
+      "dm": "factions",
+      "gm": "factions"
+     }
+    ]
+   },
+   {
+    "id": "2-15",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 6,
+      "bo_fixed": "གངགā"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "2-16",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-17",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡུམ",
+      "reason": "Component of Mother of the Sugatas.",
+      "dm": "Mother",
+      "gm": "Mother"
+     }
+    ]
+   },
+   {
+    "id": "2-18",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Component of perfection of wisdom.",
+      "dm": "Wisdom",
+      "gm": "wisdom"
+     },
+     {
+      "bo": "ཕ་རོལ་ཕྱིན",
+      "reason": "Component of perfection of wisdom.",
+      "dm": "Perfection",
+      "gm": "perfection"
+     },
+     {
+      "bo": "ཁམས",
+      "reason": "Component of realms of sentient beings.",
+      "dm": "realms",
+      "gm": "realms"
+     },
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "Component of protectors of the worlds.",
+      "dm": "worlds",
+      "gm": "World"
+     },
+     {
+      "bo": "མགོན",
+      "reason": "Component of protectors of the worlds.",
+      "dm": "protectors",
+      "gm": "Protectors"
+     },
+     {
+      "bo": "སྨན་པ",
+      "reason": "Component of kings of physicians.",
+      "dm": "physicians",
+      "gm": "physicians"
+     },
+     {
+      "bo": "རྒྱལ་པོ",
+      "reason": "Component of kings of physicians.",
+      "dm": "kings",
+      "gm": "kings"
+     }
+    ]
+   },
+   {
+    "id": "2-19",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-20",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Component of perfection of wisdom.",
+      "dm": "wisdom",
+      "gm": "wisdom"
+     },
+     {
+      "bo": "ཕ་རོལ་ཕྱིན",
+      "reason": "Component of perfections.",
+      "dm": "perfections",
+      "gm": "perfections"
+     },
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Component of qualities of awakening.",
+      "dm": "awakening",
+      "gm": "awakening"
+     },
+     {
+      "bo": "ཡོན་ཏན",
+      "reason": "Component of qualities of awakening.",
+      "dm": "qualities",
+      "gm": "qualities"
+     }
+    ]
+   },
+   {
+    "id": "2-21",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Component of perfection of wisdom.",
+      "dm": "Wisdom",
+      "gm": "wisdom"
+     },
+     {
+      "bo": "ཕ་རོལ་ཕྱིན",
+      "reason": "Component of perfection of wisdom.",
+      "dm": "Perfection",
+      "gm": "perfection"
+     }
+    ]
+   },
+   {
+    "id": "2-22",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 4,
+      "bo_fixed": "གང་གā"
+     }
+    ],
+    "add": [
+     {
+      "bo": "སངས་རྒྱས",
+      "reason": "Component of Buddha-fields.",
+      "dm": "Buddha",
+      "gm": "buddha"
+     },
+     {
+      "bo": "ཞིང",
+      "reason": "Component of Buddha-fields.",
+      "dm": "fields",
+      "gm": "fields"
+     },
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Component of perfection of wisdom.",
+      "dm": "Wisdom",
+      "gm": "wisdom"
+     },
+     {
+      "bo": "ཕ་རོལ་ཕྱིན",
+      "reason": "Component of perfection of wisdom.",
+      "dm": "Perfection",
+      "gm": "perfection"
+     }
+    ]
+   },
+   {
+    "id": "2-23",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སངས་རྒྱས",
+      "reason": "Component of relics of the Buddha.",
+      "dm": "Buddha",
+      "gm": "Buddha"
+     },
+     {
+      "bo": "རིང་བསྲེལ",
+      "reason": "Component of relics of the Buddha.",
+      "dm": "relics",
+      "gm": "relics"
+     },
+     {
+      "bo": "ཕ་རོལ་ཕྱིན",
+      "reason": "Component of perfection of wisdom.",
+      "dm": "Perfection",
+      "gm": "perfection"
+     }
+    ]
+   },
+   {
+    "id": "2-24",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ནོར་བུ་རིན་ཆེན",
+      "reason": "Recurring fixed image/term.",
+      "dm": "precious jewel",
+      "gm": "precious jewel"
+     }
+    ]
+   },
+   {
+    "id": "2-25",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Component of perfection of wisdom.",
+      "dm": "wisdom",
+      "gm": "wisdom"
+     },
+     {
+      "bo": "ཕ་རོལ་ཕྱིན",
+      "reason": "Component of perfection of wisdom.",
+      "dm": "perfection",
+      "gm": "perfection"
+     }
+    ]
+   },
+   {
+    "id": "2-26",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 8,
+      "bo_fixed": "ཆོས"
+     }
+    ],
+    "add": [
+     {
+      "bo": "དགེ",
+      "reason": "Component of virtuous qualities.",
+      "dm": "virtuous",
+      "gm": "virtuous"
+     }
+    ]
+   },
+   {
+    "id": "2-27",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [],
+  "fix_span": [
+   {
+    "id": "2-8",
+    "bo": "ཆོས་རྣམས",
+    "bo_fixed": "ཆོས"
+   },
+   {
+    "id": "2-15",
+    "bo": "གངགāའི",
+    "bo_fixed": "གངགā"
+   },
+   {
+    "id": "2-22",
+    "bo": "གང་གāའི",
+    "bo_fixed": "གང་གā"
+   },
+   {
+    "id": "2-26",
+    "bo": "ཆོས་རྣམས",
+    "bo_fixed": "ཆོས"
+   }
+  ],
+  "add": [
+   {
+    "id": "2-1",
+    "bo": "ཤེས་རབ",
+    "dm": "wisdom",
+    "gm": "wisdom",
+    "reason": "Component of perfection of wisdom."
+   },
+   {
+    "id": "2-1",
+    "bo": "ཕ་རོལ་ཕྱིན",
+    "dm": "perfection",
+    "gm": "perfection",
+    "reason": "Component of perfection of wisdom."
+   },
+   {
+    "id": "2-2",
+    "bo": "ས",
+    "dm": "stage",
+    "gm": "level",
+    "reason": "Component of stage/level terms."
+   },
+   {
+    "id": "2-3",
+    "bo": "འདུས་མ་བྱས",
+    "dm": "unconditioned",
+    "gm": "unconditioned",
+    "reason": "Component of unconditioned realm."
+   },
+   {
+    "id": "2-3",
+    "bo": "ཁམས",
+    "dm": "realm",
+    "gm": "realm",
+    "reason": "Component of unconditioned realm."
+   },
+   {
+    "id": "2-4",
+    "bo": "ཆོས",
+    "dm": "Dharma",
+    "gm": "Dharma",
+    "reason": "Component of Kings of Dharma."
+   },
+   {
+    "id": "2-4",
+    "bo": "སངས་རྒྱས",
+    "dm": null,
+    "gm": null,
+    "reason": "Component of Pratyekabuddhas."
+   },
+   {
+    "id": "2-5",
+    "bo": "འཇིག་རྟེན",
+    "dm": "World",
+    "gm": "World",
+    "reason": "Component of Protectors of the World."
+   },
+   {
+    "id": "2-5",
+    "bo": "མགོན",
+    "dm": "Protectors",
+    "gm": "Protectors",
+    "reason": "Component of Protectors of the World."
+   },
+   {
+    "id": "2-7",
+    "bo": "ས",
+    "dm": "stage",
+    "gm": "level",
+    "reason": "Component of stage/level."
+   },
+   {
+    "id": "2-7",
+    "bo": "སངས་རྒྱས",
+    "dm": "Buddha",
+    "gm": "buddha",
+    "reason": "Component of Buddha-dharma."
+   },
+   {
+    "id": "2-7",
+    "bo": "ཆོས",
+    "dm": "dharma",
+    "gm": "qualities",
+    "reason": "Component of Buddha-dharma."
+   },
+   {
+    "id": "2-9",
+    "bo": "ནམ་མཁའ",
+    "dm": "space",
+    "gm": "space",
+    "reason": "Component of element of space."
+   },
+   {
+    "id": "2-9",
+    "bo": "ཁམས",
+    "dm": "element",
+    "gm": "realm",
+    "reason": "Component of element of space."
+   },
+   {
+    "id": "2-10",
+    "bo": "ནམ་མཁའ",
+    "dm": "space",
+    "gm": "space",
+    "reason": "Component of expanse of space."
+   },
+   {
+    "id": "2-10",
+    "bo": "ཁམས",
+    "dm": "expanse",
+    "gm": "realm",
+    "reason": "Component of expanse of space."
+   },
+   {
+    "id": "2-10",
+    "bo": "འཇིག་རྟེན",
+    "dm": "World",
+    "gm": "World",
+    "reason": "Component of Knower of the World."
+   },
+   {
+    "id": "2-12",
+    "bo": "ཤེས་རབ",
+    "dm": "wisdom",
+    "gm": "wisdom",
+    "reason": "Component of perfection of wisdom."
+   },
+   {
+    "id": "2-12",
+    "bo": "ཕ་རོལ་ཕྱིན",
+    "dm": "perfection",
+    "gm": "perfection",
+    "reason": "Component of perfection of wisdom."
+   },
+   {
+    "id": "2-14",
+    "bo": "ཤེས་རབ",
+    "dm": "wisdom",
+    "gm": "wisdom",
+    "reason": "Component of perfection of wisdom."
+   },
+   {
+    "id": "2-14",
+    "bo": "ཕ་རོལ་ཕྱིན",
+    "dm": "perfection",
+    "gm": "perfection",
+    "reason": "Component of perfection of wisdom."
+   },
+   {
+    "id": "2-14",
+    "bo": "ཕྱོགས",
+    "dm": "factions",
+    "gm": "factions",
+    "reason": "Component of factions of Mara."
+   },
+   {
+    "id": "2-17",
+    "bo": "ཡུམ",
+    "dm": "Mother",
+    "gm": "Mother",
+    "reason": "Component of Mother of the Sugatas."
+   },
+   {
+    "id": "2-18",
+    "bo": "ཤེས་རབ",
+    "dm": "Wisdom",
+    "gm": "wisdom",
+    "reason": "Component of perfection of wisdom."
+   },
+   {
+    "id": "2-18",
+    "bo": "ཕ་རོལ་ཕྱིན",
+    "dm": "Perfection",
+    "gm": "perfection",
+    "reason": "Component of perfection of wisdom."
+   },
+   {
+    "id": "2-18",
+    "bo": "ཁམས",
+    "dm": "realms",
+    "gm": "realms",
+    "reason": "Component of realms of sentient beings."
+   },
+   {
+    "id": "2-18",
+    "bo": "འཇིག་རྟེན",
+    "dm": "worlds",
+    "gm": "World",
+    "reason": "Component of protectors of the worlds."
+   },
+   {
+    "id": "2-18",
+    "bo": "མགོན",
+    "dm": "protectors",
+    "gm": "Protectors",
+    "reason": "Component of protectors of the worlds."
+   },
+   {
+    "id": "2-18",
+    "bo": "སྨན་པ",
+    "dm": "physicians",
+    "gm": "physicians",
+    "reason": "Component of kings of physicians."
+   },
+   {
+    "id": "2-18",
+    "bo": "རྒྱལ་པོ",
+    "dm": "kings",
+    "gm": "kings",
+    "reason": "Component of kings of physicians."
+   },
+   {
+    "id": "2-20",
+    "bo": "ཤེས་རབ",
+    "dm": "wisdom",
+    "gm": "wisdom",
+    "reason": "Component of perfection of wisdom."
+   },
+   {
+    "id": "2-20",
+    "bo": "ཕ་རོལ་ཕྱིན",
+    "dm": "perfections",
+    "gm": "perfections",
+    "reason": "Component of perfections."
+   },
+   {
+    "id": "2-20",
+    "bo": "བྱང་ཆུབ",
+    "dm": "awakening",
+    "gm": "awakening",
+    "reason": "Component of qualities of awakening."
+   },
+   {
+    "id": "2-20",
+    "bo": "ཡོན་ཏན",
+    "dm": "qualities",
+    "gm": "qualities",
+    "reason": "Component of qualities of awakening."
+   },
+   {
+    "id": "2-21",
+    "bo": "ཤེས་རབ",
+    "dm": "Wisdom",
+    "gm": "wisdom",
+    "reason": "Component of perfection of wisdom."
+   },
+   {
+    "id": "2-21",
+    "bo": "ཕ་རོལ་ཕྱིན",
+    "dm": "Perfection",
+    "gm": "perfection",
+    "reason": "Component of perfection of wisdom."
+   },
+   {
+    "id": "2-22",
+    "bo": "སངས་རྒྱས",
+    "dm": "Buddha",
+    "gm": "buddha",
+    "reason": "Component of Buddha-fields."
+   },
+   {
+    "id": "2-22",
+    "bo": "ཞིང",
+    "dm": "fields",
+    "gm": "fields",
+    "reason": "Component of Buddha-fields."
+   },
+   {
+    "id": "2-22",
+    "bo": "ཤེས་རབ",
+    "dm": "Wisdom",
+    "gm": "wisdom",
+    "reason": "Component of perfection of wisdom."
+   },
+   {
+    "id": "2-22",
+    "bo": "ཕ་རོལ་ཕྱིན",
+    "dm": "Perfection",
+    "gm": "perfection",
+    "reason": "Component of perfection of wisdom."
+   },
+   {
+    "id": "2-23",
+    "bo": "སངས་རྒྱས",
+    "dm": "Buddha",
+    "gm": "Buddha",
+    "reason": "Component of relics of the Buddha."
+   },
+   {
+    "id": "2-23",
+    "bo": "རིང་བསྲེལ",
+    "dm": "relics",
+    "gm": "relics",
+    "reason": "Component of relics of the Buddha."
+   },
+   {
+    "id": "2-23",
+    "bo": "ཕ་རོལ་ཕྱིན",
+    "dm": "Perfection",
+    "gm": "perfection",
+    "reason": "Component of perfection of wisdom."
+   },
+   {
+    "id": "2-24",
+    "bo": "ནོར་བུ་རིན་ཆེན",
+    "dm": "precious jewel",
+    "gm": "precious jewel",
+    "reason": "Recurring fixed image/term."
+   },
+   {
+    "id": "2-25",
+    "bo": "ཤེས་རབ",
+    "dm": "wisdom",
+    "gm": "wisdom",
+    "reason": "Component of perfection of wisdom."
+   },
+   {
+    "id": "2-25",
+    "bo": "ཕ་རོལ་ཕྱིན",
+    "dm": "perfection",
+    "gm": "perfection",
+    "reason": "Component of perfection of wisdom."
+   },
+   {
+    "id": "2-26",
+    "bo": "དགེ",
+    "dm": "virtuous",
+    "gm": "virtuous",
+    "reason": "Component of virtuous qualities."
+   }
+  ]
+ }
+}

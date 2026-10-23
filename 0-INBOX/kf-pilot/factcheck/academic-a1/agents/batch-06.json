@@ -1,0 +1,152 @@
+{
+ "batch": "batch-06",
+ "segments": [
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-12",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Yet if, without accomplishing the benefit of beings, they completely deteriorate",
+     "evidence": "Tibetan has no conditional or adversative: \"འགྲོ་བའི་དོན་མ་བྱས་པར་གློག་བཞིན་མྱུར་དུ་ཡང་། ཡོངས་སུ་ཉམས་པར་འགྱུར་བ་འདི་ནི་བདུད་ཀྱི་ལས\" states that the practitioners do fall away quickly, and this is the work of Māra. Mipham (bo-mipham 4-12): \"སྦྱོར་བ་ལས་ཡོངས་སུ་ཉམས་པར་འགྱུར་བ་འདི་ནི་བདུད་ཀྱི་ལས་སུ་ཤེས་པར་བྱའོ\"; the subject of falling away is the practitioner, not the eloquences. \"Yet if ... they\" leaves the referent unclear and makes the fall conditional.",
+     "fix": "and without having accomplished the benefit of beings, they quickly fall away completely, like a flash of lightning; this is the work of Māra."
+    }
+   ]
+  },
+  {
+   "id": "4-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-16",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "With a mind accompanied by views",
+     "evidence": "ལྟ་དང་བཅས་པའི་སེམས here means a mind with longing to look at (external objects), not doctrinal \"views\". Mipham (bo-mipham 4-16): \"ཕྱི་རོལ་ཡུལ་ལ་ལྟ་བར་འདོད་པ་དང་བཅས་པའི་སེམས\"; Khenrab (bo-khenrab 4-16): \"གཟུགས་དང་ཡུལ་གྱི་བཀོད་པ་སྣ་ཚོགས་ལ་ལྟ་བར་འདོད་པ་དང་བཅས་པའི་སེམས\". Sanskrit \"sāpekṣacitta\" (mind with longing/expectation). \"Views\" suggests wrong views (a different doctrinal category).",
+     "fix": "With a mind that longs to look at external objects (a mind full of longing)"
+    }
+   ]
+  },
+  {
+   "id": "4-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "whoever agitates many monks, So that they do not uphold this perfection of wisdom, Many other various obstacles will also arise",
+     "evidence": "གང་དག་གིས་ is instrumental (\"by whom\"); the agents are the evil Māras, and \"བར་དུ་གཅོད་པ་རྣམ་མང་གཞན་ཡང་འབྱུང་བར་འགྱུར\" is the main clause. Mipham (bo-mipham 4-18): \"བདུད་སྡིག་ཏོ་ཅན་གང་དག ... དེ་དག་གིས་ནི་མདོ་འཛིན་པའི་དགེ་སློང་མང་པོའི་རྒྱུད་དཀྲུགས་ནས\". The English \"whoever agitates\" has no main verb tied to it and reads as human agents; the sentence is hard to parse.",
+     "fix": "those by whom many monks are agitated, so that they do not uphold this perfection of wisdom—many other various obstacles will also arise"
+    }
+   ]
+  },
+  {
+   "id": "4-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-23",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "The Tathāgata knows the perfection of wisdom.",
+     "evidence": "Sanskrit \"prajñāya pāramita buddha tathāgatena\" has the perfection of wisdom as the means: the suchness is known by the Tathāgata through the perfection of wisdom. Tibetan \"ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་དེ་བཞིན་གཤེགས་པས་མཁྱེན\" is unmarked, but the English fixes it as the object of knowing, which the Sanskrit does not support.",
+     "fix": "By the perfection of wisdom, the Tathāgata knows (this suchness)."
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Are one itself",
+     "evidence": "\"གཅིག་པ་ཉིད་\" means they are one and the same (identity of the suchnesses); \"one itself\" is not idiomatic English.",
+     "fix": "Are one and the same,"
+    }
+   ]
+  },
+  {
+   "id": "4-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-25",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Relying on the perfection of wisdom as a pleasure grove, This is the domain of the Guides with the ten powers",
+     "evidence": "The participle \"relying\" modifies the Guides in the Tibetan/Sanskrit (\"ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་དགའ་ཚལ་ལ་རྟེན་པ། ... རྣམ་འདྲེན་རྣམས་ཀྱི་སྤྱོད་ཡུལ\", Skt \"prajñāya pāramita ramyavanāśritānām\"); Mipham (bo-mipham 4-25): \"དགའ་བའི་ཚལ་ལྟ་བུ་ལ་བརྟེན་ནས་གནས་པ་ ... རྣམ་འདྲེན་སངས་རྒྱས་རྣམས་ཀྱི་སྤྱོད་ཡུལ\". In the English the participle dangles from \"This\".",
+     "fix": "This is the domain of the Guides with the ten powers, who rely on the perfection of wisdom as a pleasure grove;"
+    }
+   ]
+  },
+  {
+   "id": "4-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-29",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

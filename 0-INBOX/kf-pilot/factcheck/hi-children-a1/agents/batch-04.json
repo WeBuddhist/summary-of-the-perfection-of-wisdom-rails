@@ -1,0 +1,233 @@
+{
+ "batch": "batch-04",
+ "segments": [
+  {
+   "id": "2-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "फिर भी वह मुक्ति नहीं लेता है",
+     "evidence": "The text says liberation is not attained/he is not liberated (विमुक्ति प्राप्त नहीं होती); 'नहीं लेता' makes it sound like a choice not to take liberation.",
+     "fix": "फिर भी उसे मुक्ति नहीं मिलती।"
+    }
+   ]
+  },
+  {
+   "id": "3-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "पूज्य साधक का स्तर या अकेले बुद्ध का स्तर में नहीं मिलती",
+     "evidence": "Ungrammatical postposition after the locked terms (the text: not in the arhat level, nor in the pratyekabuddha level).",
+     "fix": "यह तसल्ली पूज्य साधक के स्तर या अकेले बुद्ध के स्तर में नहीं मिलती।"
+    }
+   ]
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-6",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "वे विजेता की इस पूर्ण प्रज्ञा को सुनते हैं",
+     "evidence": "The text infers from hearing this Perfection of Wisdom that the hearer should be known as one who has entered supreme bodhi (श्रवण करने वाला जानना चाहिए); the children's text only states that those who have entered also listen, losing the 'hearing is the sign' logic.",
+     "fix": "जो विजेता की इस पूर्ण प्रज्ञा को सुनता है, उसे सबसे ऊँची बोधि के रास्ते पर चल पड़ा हुआ जानना चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "4-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "वह चीज़ें, जो चीज़ें नहीं हैं और सब चीज़ों का विस्तार भी नहीं देखता है",
+     "evidence": "Tangled phrasing of the three objects not seen: dharma, non-dharma, dharmadhatu.",
+     "fix": "वह न चीज़ों को देखता है, न उनके न होने को, और न सब चीज़ों के विस्तार को।"
+    }
+   ]
+  },
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "बोलने वालों का चाँद जैसे बुद्ध से",
+     "evidence": "'वादिचन्द्र' is an epithet of the Buddha; 'जैसे' garbles it and the epithet is left unexplained.",
+     "fix": "बोलने वालों के चाँद कहलाने वाले बुद्ध से सुभूति ने पूछा,"
+    }
+   ]
+  },
+  {
+   "id": "4-12",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "The text says many different kinds of eloquence arise (अनेक प्रकार के भिन्न-भिन्न प्रतिभान); the children's text drops 'many different kinds' and leaves 'उनके' without a clear referent.",
+     "fix": "विजेता की इस पूर्ण प्रज्ञा को लिखते समय तरह-तरह की चतुराई से बोलना पैदा होगा।"
+    }
+   ]
+  },
+  {
+   "id": "4-13",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "The text lists three things not named: family (कुल), birthplace (जन्मस्थान) and lineage (गोत्र); the lineage item is dropped.",
+     "fix": "मेरे परिवार, जन्म की जगह और वंश के बारे में भी नहीं बताया।"
+    }
+   ]
+  },
+  {
+   "id": "4-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "पूज्य साधक का स्तर से बोधि को खोजे",
+     "evidence": "Ungrammatical postposition after the locked term.",
+     "fix": "पूज्य साधक के स्तर से बोधि को खोजे"
+    }
+   ]
+  },
+  {
+   "id": "4-16",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "ग़लत नज़रिया रखकर",
+     "evidence": "The text says they mingle with householders with a mind that craves looking at outer objects (बाह्य विषयों पर दृष्टि डालने की लालसा); the children's text turns this into 'wrong view', which the segment does not say.",
+     "fix": "वे बाहर की चीज़ें देखने की चाह भरे नज़रिये से गृहस्थों के साथ मेलजोल बढ़ाएँगे।"
+    }
+   ]
+  },
+  {
+   "id": "4-17",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "The text says they go eager (इच्छुक) as well as faithful; the eagerness is dropped.",
+     "fix": "जो लोग बड़ी चाह और श्रद्धा के साथ यह सबसे अच्छी शिक्षा सुनने जाते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "4-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-21",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "दस दिशाएँ हों या कोई दुनिया का क्षेत्र, दसों दिशाओं की दुनियाओं के बुद्ध",
+     "evidence": "Redundant, tangled repetition of the locked terms; the text simply says the buddhas of the world-systems of the ten directions.",
+     "fix": "उसी तरह, दसों दिशाओं की दुनियाओं के बुद्ध भी माँ जैसी इस पवित्र प्रज्ञा का ध्यान रखते हैं।"
+    }
+   ]
+  }
+ ]
+}

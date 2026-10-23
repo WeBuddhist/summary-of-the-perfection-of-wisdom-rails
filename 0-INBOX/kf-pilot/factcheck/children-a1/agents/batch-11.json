@@ -1,0 +1,168 @@
+{
+ "batch": "batch-11",
+ "segments": [
+  {
+   "id": "5-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-93",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "their good conduct is perfect",
+     "evidence": "'their ethical discipline is unimpaired' (Tibetan ཉམས་པ་མེད: not damaged), not 'perfect'",
+     "fix": "and their good conduct is never damaged"
+    }
+   ]
+  },
+  {
+   "id": "5-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-107",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "What if every single one of them gave gifts to a Knower of the World? Imagine they gave gifts to the Buddhas, the worthy ones, and the solitary Buddhas.",
+     "evidence": "'Knowers of the World' is another name for the Buddhas, worthy ones and solitary Buddhas, not a separate group of recipients",
+     "fix": "What if every single one of them gave gifts to the Knowers of the World, the Buddhas, the worthy ones, and the solitary Buddhas?"
+    },
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "'Taking them as the utmost extent of what can be conceived' (all beings that can be imagined) and 'properly seek' (ལེགས་ཚོལ)",
+     "fix": "Imagine as many beings as anyone could possibly picture, all trying hard and properly to become a listener."
+    }
+   ]
+  },
+  {
+   "id": "5-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-4",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

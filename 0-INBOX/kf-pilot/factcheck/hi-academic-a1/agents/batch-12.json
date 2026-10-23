@@ -1,0 +1,144 @@
+{
+ "batch": "batch-12",
+ "segments": [
+  {
+   "id": "5-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-33",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "द्वेष-दोष युक्त चित्त",
+     "evidence": "Tibetan ཐབ་སྐྱོན་ལྡན་སེམས (Skt khila-doṣa-yukta) means a mind with the fault of barrenness; bo-mipham 5-33 glosses it as རྒྱུད་མ་རུང་པ་དགེ་བའི་ས་བོན་མི་འཕེལ་བའི་ཐ་བ་ལྟ་བུ་སྐྱོན་དང་ལྡན་པའི་སེམས, a mind like barren ground in which seeds of virtue do not grow. 'द्वेष' (hatred) is not what the term says (the anger is the cause, not the meaning of the term).",
+     "fix": "ऊसर-भूमि जैसे दोष से युक्त चित्त के जितने क्षण होते हैं"
+    }
+   ]
+  },
+  {
+   "id": "5-34",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "वे अलग-अलग अपना दोष स्वीकार करते हैं",
+     "evidence": "སོ་སོར་འཆགས་པ (Skt pratideśayati) is the fixed term for confessing a fault; bo-mipham 5-34 and bo-khenrab 5-34 use སོ་སོར་འཆགས་པར་བྱེད་པ for confession of the wrongdoing, not doing so 'separately/individually'. 'अलग-अलग' misreads སོ་སོར as 'individually' and suggests several persons confessing separately.",
+     "fix": "वे अपने दोष की प्रतिदेशना (दोष-स्वीकार) करते हैं"
+    }
+   ]
+  },
+  {
+   "id": "5-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-36",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "प्राप्त करने के लिए",
+     "evidence": "Tibetan མཉེས་བྱ་ཕྱིར (Skt ārādhiteṣu) means 'in order to please/propitiate' the qualities of a Buddha; bo-rangjung 5-36 reads སངས་རྒྱས་ཀྱི་ཆོས་ཀྱིས་མཉེས་པར་བྱ་བའི་ཕྱིར, and bo-mipham 5-36 also gives སངས་རྒྱས་མཉེས་པའམ་དགྱེས་པར་བྱེད་པ as an alternative reading. 'Obtain' is only the first of Mipham's two readings and does not render མཉེས.",
+     "fix": "बुद्ध-गुणों को प्रसन्न/आराधित करने के लिए"
+    }
+   ]
+  },
+  {
+   "id": "5-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "पूर्णतः शरीर धारण कर",
+     "evidence": "ཡོངས་སུ་བརྟག་པ་བཟུང་སྟེ (Skt parikalpa) is not 'taking on a body'; bo-rangjung 5-50 glosses it ཡོངས་སུ་བརྟག་པའི་བསམ་པ་བཟུང་སྟེ, taking up the thought/intention (of becoming Māras), and bo-mipham 5-50 frames it as a hypothetical (དཔེར་ན། གལ་ཏེ་བདུད་དུ་གྱུར་ལ). 'शरीर धारण' is added content.",
+     "fix": "यदि वे सभी (मार बनने का) संकल्प/आशय धारण कर मार बन जाएँ"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "उस कुशल के लिए",
+     "evidence": "The Tibetan མཁས་ལ་བར་ཆད་བྱ་མི་ནུས refers to the skilled bodhisattva (bo-mipham 5-50: བྱང་ཆུབ་སེམས་དཔའ་མཁས་པ་དེ་ལ). Since 'कुशल' is the locked rendering of དགེ་བ (virtue) and 'उस' has no antecedent, 'उस कुशल' can be read as 'that virtue/wholesome act'.",
+     "fix": "उस मेधावी (कुशल) बोधिसत्त्व के लिए"
+    }
+   ]
+  },
+  {
+   "id": "5-51",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

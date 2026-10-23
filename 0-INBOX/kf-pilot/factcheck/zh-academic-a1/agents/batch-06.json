@@ -1,0 +1,121 @@
+{
+ "batch": "batch-06",
+ "segments": [
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-16",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "major",
+     "span": "以伴隨見之心",
+     "evidence": "The Tibetan 'ལྟ་དང་བཅས་པའི་སེམས' (Skt sāpekṣacitta) is not 'view' in the doctrinal sense. Mipham (bo-mipham 4-16) glosses it 'ཕྱི་རོལ་ཡུལ་ལ་ལྟ་བར་འདོད་པ་དང་བཅས་པའི་སེམས' (a mind with desire to look at external objects), and Khenrab (bo-khenrab 4-16) 'གཟུགས་དང་ཡུལ་གྱི་བཀོད་པ་སྣ་ཚོགས་བལྟ་བར་འདོད་པ་དང་བཅས་པའི་སེམས' (desire to gaze at varied forms and scenes). Rendering ལྟ as 見 (the locked term) in the Chinese phrase 伴隨見之心 reads as 'a mind accompanied by views', i.e. wrong views, which is a different meaning; the English reference also reads 'longs to view external objects'.",
+     "fix": "以帶著觀望外境之欲求的心親近俗家"
+    }
+   ]
+  },
+  {
+   "id": "4-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-23",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "如來了知此般若波羅蜜多",
+     "evidence": "Tibetan 'ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་དེ་བཞིན་གཤེགས་པས་མཁྱེན' (Skt prajñāya pāramita ... tathāgatena): the perfection of wisdom is the means by which the Tathagata knows the suchnesses listed in the preceding lines (English reference: 'By the perfection of wisdom, the Tathāgata knows this'); Mipham's section heading around 4-22/4-23 is 'ཤེར་ཕྱིན་ལ་བརྟེན་ནས་འཇིག་རྟེན་གྱི་བདེན་གཉིས་ལ་མཁས་པ' (relying on the perfection of wisdom, being skilled in the world's truths). The Chinese makes the perfection of wisdom the object known and drops the suchness as the thing known, changing the logic.",
+     "fix": "如來藉由般若波羅蜜多而了知此（真如）"
+    }
+   ]
+  },
+  {
+   "id": "4-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-29",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

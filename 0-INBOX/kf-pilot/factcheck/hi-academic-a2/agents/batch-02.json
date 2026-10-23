@@ -1,0 +1,121 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "4-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "इसे अविनिवर्तनीय की अविवर्तनीयता की भविष्यवाणी जानना चाहिए।",
+     "evidence": "The Tibetan refrain is 'དེ་ནི་མི་ལྡོག་ལུང་བསྟན་ཡིན་པར་རིག་པར་བྱ' ('this should be known as the prophecy of irreversibility'; Sanskrit 'avivartiyeti ayu vyākṛtu veditavyo'). The Hindi doubles the term ('prophecy of irreversibility of the irreversible'), which is garbled and departs from the locked rendering 'अविवर्तनीयता की भविष्यवाणी' used in 5-1.",
+     "fix": "इसे अविवर्तनीयता की भविष्यवाणी जानना चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "5-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "उन्हें अविनिवर्तनीय मानकर अविवर्तनीयता की भविष्यवाणी जानना चाहिए",
+     "evidence": "The Tibetan refrain 'དེ་ནི་མི་ལྡོག་ལུང་བསྟན་ཡིན་པར་རིག་པར་བྱ' says only that 'this should be known as the prophecy of irreversibility' (Sanskrit 'ayu vyākṛtu veditavyaḥ'). The Hindi adds a separate step ('regarding them as irreversible') and re-uses the term awkwardly, making the clause hard to parse and altering the syntax of the refrain.",
+     "fix": "इसे अविवर्तनीयता की भविष्यवाणी जानना चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "5-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-18",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

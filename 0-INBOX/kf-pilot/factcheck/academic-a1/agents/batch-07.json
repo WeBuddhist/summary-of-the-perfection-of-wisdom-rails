@@ -1,0 +1,145 @@
+{
+ "batch": "batch-07",
+ "segments": [
+  {
+   "id": "4-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-32",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "applies their intention to the supreme perfection of wisdom",
+     "evidence": "Tibetan \"བསམ་སྦྱོར་བ\" names two things, intention (བསམ་པ) and application (སྦྱོར་བ); bo-rangjung 4-32 glosses \"བསམ་པ་དང་སྦྱོར་བ་ཡོད་པས་ཐབས་ཤེས་ཟུང་དུ་ཆུད་པ\", and Sanskrit has \"āśaya-saṃprayogo\". The English renders only intention.",
+     "fix": "has intention and application toward the supreme perfection of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "4-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-35",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "They will swiftly reach",
+     "evidence": "In \"དེ་དག་ཐབས་ཀྱི་ཡོན་ཏན་ཤེས་རབ་ཡོངས་ཟིན་ན། ... བྱང་ཆུབ་མྱུར་དུ་རེག\" the one who reaches awakening is \"དེ་དག\", the bodhisattvas; bo-khenrab 4-35 says \"ཐབས་ཀྱི་ཡོན་ཏན་དེ་དག་...ཤེས་རབ་ཀྱིས་ཡོངས་སུ་ཟིན་པར་འགྱུར་ན...བདེ་བར་གཤེགས་པ་རྣམས་ཀྱི་བྱང་ཆུབ་མྱུར་དུ་རེག་པ་སྟེ་ཐོབ་པར་འགྱུར་རོ\". The English lets \"They\" refer to the qualities.",
+     "fix": "If their qualities of skillful means are fully embraced by wisdom, they (those bodhisattvas) will swiftly reach"
+    }
+   ]
+  },
+  {
+   "id": "4-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-37",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "they will quickly fall to ruin",
+     "evidence": "Tibetan \"མྱུར་དུ་མ་རུང་འགྱུར\" means they quickly become unfit/unserviceable; bo-mipham 4-36 explains \"མྱུར་དུ་མ་རུངས་པ་སྟེ་ལམ་དམན་པ་སོགས་སུ་ལྟུང་ནས་ཐེག་པ་ཆེན་པོའི་ལམ་ལས་ཉམས་པ\", i.e. falling to a lesser path and away from the Mahāyāna path, not destruction.",
+     "fix": "they will quickly become unfit (falling away from the path)"
+    }
+   ]
+  },
+  {
+   "id": "4-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-45",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "Illuminating lamps",
+     "evidence": "Tibetan \"གསལ་བྱེད་སྒྲོན་མ\" gives two epithets; bo-mipham 4-45 explains them separately (\"གསལ་བྱེད་དུ་གྱུར་པ\" through teaching person-selflessness; \"ཆོས་ཀྱི་སྒྲོན་མ་ཆེན་པོ\" through teaching phenomena-selflessness). The English fuses them into one.",
+     "fix": "illuminators, lamps"
+    }
+   ]
+  },
+  {
+   "id": "4-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-48",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "nor is it to be attained",
+     "evidence": "Tibetan \"ཐོབ་པར་འགྱུར་མེད་པ\" states that there is no attaining; bo-mipham 4-48 \"འབྲས་བུའི་དུས་ན་ཐོབ་པར་འགྱུར་བའང་མེད་པ\" and bo-khenrab \"དོན་དམ་པར་ཐོབ་པ་མེད\". The English \"is to be attained\" turns it into a normative or future sense.",
+     "fix": "nor is there any attaining of it"
+    }
+   ]
+  },
+  {
+   "id": "4-49",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+  "status": "ok",
+  "source": "3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-rangjung-dorje-tika-zh.md",
+  "validated_at": "2026-10-04T10:21:58.969089+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://dharmamitra.org'",
+    "toc: 318 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "translator 'dharmamitra cat-translate v1': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "zh": "聖般若波羅蜜多攝頌釋論：如意寶珠般若波羅蜜多大海"
+    },
+    "alt_titles": null,
+    "language": "zh",
+    "commentary_of": null,
+    "translation_of": "Tk0SWpg6ptoBZyWot3DmU",
+    "category_id": "uGpinx0GZlvU1uw44RyYS",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

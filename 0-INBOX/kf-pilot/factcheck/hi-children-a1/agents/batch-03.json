@@ -1,0 +1,295 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "2-25",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "एक और बात होती है",
+     "evidence": "The academic translation says the relics of the Victors are honoured even after their nirvana because of the qualities of perfect wisdom; 'another thing happens' is vague filler that blurs this cause.",
+     "fix": "इसी तरह सबसे अच्छी पूर्ण प्रज्ञा के अच्छे गुणों के कारण, विजेताओं के दुख से परे शान्ति पा लेने के बाद भी उनके पवित्र अवशेषों की पूजा होती है।"
+    }
+   ]
+  },
+  {
+   "id": "2-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-27",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "लेकिन हम उनकी छायाओं को सिर्फ गिन सकते हैं",
+     "evidence": "The Tibetan/academic text says the shadows are not diverse and have no distinctions apart from being counted as shadows; 'we can only count them' shifts the point to our ability.",
+     "fix": "छायाओं में गिनती के सिवा और कोई फ़र्क नहीं होता। वे अलग-अलग तरह की नहीं होतीं।"
+    }
+   ]
+  },
+  {
+   "id": "2-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-29",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "वह एक बनावटी रास्ते पर चलता है",
+     "evidence": "The text says he practises a counterfeit/artificial perfection of wisdom; the children's text turns this into just a 'path' and drops the wisdom-perfection.",
+     "fix": "ऐसा करके वह नकली पूर्ण प्रज्ञा का अभ्यास करता है।"
+    }
+   ]
+  },
+  {
+   "id": "2-30",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "जहाँ धारणा का न पाना हो। जहाँ जागरूकता नहीं है और जहाँ इरादे का न पाना हो।",
+     "evidence": "Sentence fragments with the awkward construction 'न पाना' are hard for ages 8-12; the academic text has one running sentence ending in the practice of perfect wisdom.",
+     "fix": "जहाँ न रूप है, न अनुभूति, और न धारणा मिलती है; न जागरूकता है, और न इरादा मिलता है। जहाँ सभी चीज़ों को 'कभी न जन्मा हुआ' और 'खाली' के रूप में ठीक से जाना जाता है, वही सबसे अच्छी पूर्ण प्रज्ञा का अभ्यास है।"
+    }
+   ]
+  },
+  {
+   "id": "2-31",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "किसी अच्छे जीव को दे",
+     "evidence": "Tibetan sems can mchog / academic 'श्रेष्ठ सत्त्व' means an excellent/supreme being, not merely a good one.",
+     "fix": "किसी सबसे श्रेष्ठ जीव को दे"
+    }
+   ]
+  },
+  {
+   "id": "2-32",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "अपने आप में",
+     "evidence": "Neither the Tibetan nor the academic translation says 'in themselves'; it states that all things are taught as emptiness.",
+     "fix": "वे सिखाते हैं कि सभी चीज़ें खालीपन हैं।"
+    }
+   ]
+  },
+  {
+   "id": "2-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-38",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "सुभूति,",
+     "evidence": "No addressee is named in the Tibetan or the academic translation.",
+     "fix": "(हटा दें) सारे श्रोता अपनी उदारता, अच्छे आचरण और ध्यान-अभ्यास से बहुत सी जमा की हुई अच्छाई बनाते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "2-39",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "सुभूति,",
+     "evidence": "No addressee is named in the Tibetan or the academic translation.",
+     "fix": "बीते समय में करोड़ों बुद्ध हुए।"
+    }
+   ]
+  },
+  {
+   "id": "2-40",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "जो भी पूर्णता और बुद्ध के गुण हैं",
+     "evidence": "The text says the merit is accompanied by (endowed with) the perfections, and the Buddha-qualities are listed alongside; the children's text turns the perfections into a separate item.",
+     "fix": "जो पूर्णताओं से जुड़ी है, और जो भी बुद्ध के गुण हैं—"
+    }
+   ]
+  },
+  {
+   "id": "2-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-42",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "सुभूति,",
+     "evidence": "No addressee is named in the Tibetan or the academic translation.",
+     "fix": "अगर समर्पित करते समय मन में यह धारणा आए कि मन, बोधि और जीव सच में हैं, तो..."
+    },
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "सच में हैं ... गलत नज़रिया",
+     "evidence": "The academic translation says only that a perception of mind, bodhi and beings arises and the mind abiding in a view clings to the three; 'truly exist' and 'wrong' are added glosses.",
+     "fix": "तो मन अपने नज़रिये में अटक जाता है और इन तीनों से चिपक जाता है।"
+    }
+   ]
+  },
+  {
+   "id": "2-43",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "एक चीज़ दूसरी चीज़ को कभी समर्पित नहीं की जा सकती",
+     "evidence": "The text says a thing never dedicates to a thing (agent and object); the passive wording is unclear, and the opening conditional is left as fragments.",
+     "fix": "कोई चीज़ कभी किसी दूसरी चीज़ को समर्पित नहीं करती। अगर कोई यह जान ले, तो उसका इस तरह अच्छे से समझना ही सच में समर्पित करना है।"
+    }
+   ]
+  },
+  {
+   "id": "2-44",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "अच्छी बातों और गुणों को",
+     "evidence": "The locked term for dkar po'i chos is 'अच्छी बातें'; adding 'गुणों' double-renders it with the other sense of chos.",
+     "fix": "अच्छी बातों को पकड़ने का सहारा बनाना"
+    }
+   ]
+  },
+  {
+   "id": "2-45",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "उसे देखकर खुश होना चाहिए",
+     "evidence": "The text says to rejoice and dedicate just as the Victors know the goodness; 'seeing it' loses the standard of the Victors' knowing, and the first sentence is left as a fragment.",
+     "fix": "वे विजेता उस अच्छाई को जैसे जानते हैं, वह जिस तरह की है, जहाँ से आई है और उसकी जो खास पहचान है, उसी के अनुसार खुश होना चाहिए और उसी तरह उसे समर्पित करना चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "2-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-48",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "इनाम",
+     "evidence": "The text says the painter does not get his wage/payment; 'reward' (prize) is not the same as pay for work done.",
+     "fix": "तब तक चित्र बनाने वाले को मेहनताना नहीं मिलेगा।"
+    },
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "सुंदर",
+     "evidence": "The text says only a finished painting without eyes; 'beautiful' is added.",
+     "fix": "जैसे एक चित्र पूरा बन गया हो, लेकिन उसमें आँखें न हों।"
+    }
+   ]
+  },
+  {
+   "id": "2-49",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "कोई भी चीज़ें — चाहे वह कारणों से बना हो या कारणों से न बना हो, या अच्छी और बुरी चीज़ें हों — उनका एक कण भी न पाना होता है",
+     "evidence": "Long, tangled sentence with number/gender disagreement (चीज़ें ... वह ... बना); the academic text states that conditioned, unconditioned, white and black dharmas are not found even as an atom.",
+     "fix": "जब प्रज्ञा से जाँचने पर कारणों से बनी, कारणों से न बनी, अच्छी या बुरी, किसी भी चीज़ का एक कण भी नहीं मिलता, तब..."
+    }
+   ]
+  },
+  {
+   "id": "2-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "इसे सच्ची पूर्णता नहीं माना जाता।",
+     "evidence": "The text ends with 'this is not the practice of the supreme perfect wisdom'; the extra sentence about 'true perfection' repeats the point with a different claim.",
+     "fix": "(हटा दें)"
+    }
+   ]
+  },
+  {
+   "id": "2-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-52",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "बिना विश्राम का नरक",
+     "evidence": "Ungrammatical; the locked term is 'बिना विश्राम का नरक' but it needs a plain relative form.",
+     "fix": "बिना विश्राम वाले नरक में गिर जाता है"
+    }
+   ]
+  }
+ ]
+}

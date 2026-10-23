@@ -1,0 +1,134 @@
+{
+ "1-6": {
+  "translation": "就像名叫先尼的四處遊走的求道者，他用他的智慧，把無法抓住的身心的組成部分徹底放下了。如果有哪位菩薩，也能這樣了解一切事物，他就不會急著進入超越憂傷的安寧，而是安穩地停留在智慧之中。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "他就不會急著進入超越憂傷的安寧",
+    "evidence": "Academic: the bodhisattva does not touch/realize nirvana (and abides in wisdom); 'not hurrying to enter' turns a negation of touching nirvana into a timing matter and implies he will enter later.",
+    "fix": "他不會去碰觸超越憂傷的安寧，而是安穩地停留在智慧之中。"
+   }
+  ]
+ },
+ "1-11": {
+  "translation": "如果能這樣去做，就是在練習走向安樂的人的智慧。因為他深深明白，什麼都不去抓取，才是真正的練習。無論他練習什麼事物，都不會去執著。這就是在練習最棒的圓滿的智慧。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "什麼都不去抓取，才是真正的練習",
+    "evidence": "Academic: he knows that 'non-practice is practice' (無所行持即是行持); the children's text replaces this with 'not grasping at anything is the real practice', losing the stated point.",
+    "fix": "因為他深深明白，沒有任何可練習的東西，這樣才是真正的練習。"
+   }
+  ]
+ },
+ "2-18": {
+  "translation": "得勝者的這個圓滿的智慧，就像是一道知識的大咒語。它能消除眾生的領域中許多的憂傷與痛苦。不管是過去還是十個方向裡，所有世界的守護者，都是因為學習了這道知曉的咒語，才成為最了不起的醫生中的王，受到像國王一樣的尊敬。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "受到像國王一樣的尊敬",
+    "evidence": "The source only says they became the supreme 'king of physicians'; the idea of being respected like a king is not in the verse or the academic translation.",
+    "fix": "才成為最了不起的醫生中的王。"
+   }
+  ]
+ },
+ "2-50": {
+  "translation": "有人以為：「我要學習得勝者的智慧。我要解救千百億受痛苦的眾生。」其實不是這樣。如果一個菩薩心裡有眾生的想法。即使他想要追求覺悟。這也不是在學習最棒的圓滿的智慧。",
+  "issues": [
+   {
+    "type": "doctrinal",
+    "severity": "major",
+    "span": "如果一個菩薩心裡有眾生的想法。即使他想要追求覺悟。這也不是在學習最棒的圓滿的智慧。",
+    "evidence": "The text rejects the bodhisattva who conceptualises (fixates on) beings as real while thinking 'I will liberate them'; it does not say that merely thinking of beings or wanting to rescue them is wrong. The children's text can be read as saying that thinking of beings, or wanting to help them, is itself a mistake.",
+    "fix": "如果一個「菩薩」一邊想著要解救「眾生」，一邊把「眾生」當成真實的東西抓著不放，即使他想要追求「覺悟」，這也不是在學習最棒的「圓滿的智慧」。"
+   }
+  ]
+ },
+ "4-16": {
+  "translation": "有人心裡想要得到尊敬，也貪圖得到的財物。帶著錯誤的看法去親近別人家。他們丟掉佛法，跑去做違背佛法的事。就像離開了正確的道路，走上了走錯的路。這也是魔王的作為。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "帶著錯誤的看法去親近別人家",
+    "evidence": "The academic translation says they associate with laypeople's homes with a mind that desires to see outer things (欲求見外境之心); it does not say 'wrong views'. 'Wrong' is added and changes the fault described.",
+    "fix": "帶著想要看看外面事物的心，常常去親近別人家。"
+   }
+  ]
+ },
+ "4-31": {
+  "translation": "就像國王不用親自跑到村莊或國家。他只要待在自己的地方，就能收齊所有的財物。菩薩了解事物的本性也是這樣。他哪裡都不去，卻能收集佛的階段所有的美好的品質。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "菩薩了解事物的本性也是這樣。他哪裡都不去",
+    "evidence": "The subject that goes nowhere yet gathers all qualities of the buddha grounds is the bodhisattva's dharmata (nature of things). The children's text makes the bodhisattva the one who 'understands' it and adds that idea.",
+    "fix": "菩薩的本性（事物的本性）也是這樣，哪裡都不去，卻能收集佛的階段所有的美好的品質。"
+   }
+  ]
+ },
+ "4-81": {
+  "translation": "聰明的菩薩也是像這樣。他們在眾生的領域中，生起廣大的慈悲。他們完全打敗了四個魔王。他們也超越了兩種修行的階段。他們停留在美好的深度安定中，卻不急著去接觸覺悟。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "卻不急著去接觸覺悟",
+    "evidence": "The text says the bodhisattva does not touch (realize) enlightenment; 'not in a hurry' turns a negation into a delay, implying he will soon do so.",
+    "fix": "卻不去接觸覺悟。"
+   }
+  ]
+ },
+ "4-91": {
+  "translation": "厲害的菩薩也是這樣。他們心中懷著慈悲。雙手撐著兩把傘。這就是巧妙的方法與智慧。他們觀察一切事物都是空的。是沒有記號和沒有願望的。他們看見一切事物。卻不會獨自進入超越憂傷的安寧。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "卻不會獨自進入超越憂傷的安寧",
+    "evidence": "The text says the bodhisattva does not touch nirvana at all; 'alone' adds the idea that he might enter it together with others.",
+    "fix": "卻不去接觸超越憂傷的安寧。"
+   }
+  ]
+ },
+ "5-42": {
+  "translation": "有些眾生追求善良，並且想要幫助別人。對於他們累積的福氣，我們也要為別人高興。因為他們得到得勝者的美好品質之後，為了消滅所有的痛苦，就會在這個世界送出佛法的禮物。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "有些眾生追求善良，並且想要幫助別人。對於他們累積的福氣，我們也要為別人高興。",
+    "evidence": "Tibetan/academic: ALL sentient beings who seek virtue and wish to benefit others themselves rejoice in the whole heap of merit of all; therefore, having obtained the Victors' qualities, they give the gift of Dharma in the world. The children's text says 'some' beings and makes 'we' (the reader) the one who rejoices in their merit, changing the subject of the rejoicing and the logic of 'therefore'.",
+    "fix": "所有追求善良、想要幫助別人的眾生，也都為大家累積的福氣高興。因此，他們得到得勝者的美好品質之後，為了消滅所有的痛苦，就會在這個世界送出佛法的禮物。"
+   }
+  ]
+ },
+ "5-63": {
+  "translation": "須菩提，關於深刻的領悟的入口，還有巧妙的方法與根源，全都來自最棒的圓滿的智慧。許多幫助的原因聚在一起，會啟動行為的機器。但是圓滿的智慧不會減少，也不會增加。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "須菩提，",
+    "evidence": "The Tibetan and academic translation contain no address to Subhuti or anyone else; the vocative adds a speaker/addressee not in the segment.",
+    "fix": "所有深刻的領悟的入口，還有巧妙的方法與根源，全都來自最棒的圓滿的智慧。"
+   }
+  ]
+ },
+ "6-4": {
+  "translation": "透過智慧，他們完全了解事物的本性。這樣就能真正從三個領域中解脫出來。就像人類中最傑出的領袖轉動了珍寶輪。為了消除大家的痛苦，他們向眾生分享佛法。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "就像人類中最傑出的領袖轉動了珍寶輪。",
+    "evidence": "Academic: 人中牛王轉動輪寶之後，為盡除苦亦向眾生宣說佛法: the one who has become the supreme leader of humans turns the wheel and then teaches the Dharma (a sequence of actions by the same person). The children's text makes it a simile ('就像') and detaches the leader from the practitioners, dropping the sequence.",
+    "fix": "他成為人類中最傑出的領袖，轉動了珍寶輪，然後為了消除大家的痛苦，向眾生宣說佛法。"
+   }
+  ]
+ }
+}

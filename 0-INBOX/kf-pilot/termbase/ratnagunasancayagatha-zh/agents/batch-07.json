@@ -1,0 +1,695 @@
+{
+ "batch": "batch-07",
+ "terms": [
+  {
+   "term_id": "T007",
+   "bo": "སངས་རྒྱས",
+   "sanskrit": "buddha",
+   "senses": [
+    {
+     "sense": "Buddha",
+     "occurrences": "all",
+     "academic": "佛",
+     "children": "佛陀",
+     "basis": "style-sheet",
+     "reason": "Core term: 佛 for seven-syllable lines and compounds; 佛陀 for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T020",
+   "bo": "བྱང་ཆུབ་མཆོག",
+   "sanskrit": "agrabodhi",
+   "senses": [
+    {
+     "sense": "supreme awakening",
+     "occurrences": "all",
+     "academic": "殊勝菩提",
+     "children": "最高的覺悟",
+     "basis": "style-sheet",
+     "reason": "Core term བྱང་ཆུབ་མཆོག: མཆོག is 殊勝, awakening is 菩提 or 覺悟."
+    }
+   ]
+  },
+  {
+   "term_id": "T033",
+   "bo": "བསྐལ་པ",
+   "sanskrit": "kalpa",
+   "senses": [
+    {
+     "sense": "eon",
+     "occurrences": "all",
+     "academic": "劫",
+     "children": "漫長的時代",
+     "basis": "new",
+     "reason": "劫 is the established kalpa; children get \"age\" as a plain long-time phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T046",
+   "bo": "ཡོངས་བསྔོ",
+   "sanskrit": "pariṇāmayati",
+   "senses": [
+    {
+     "sense": "dedicate (verb)",
+     "occurrences": "all",
+     "academic": "迴向",
+     "children": "奉獻",
+     "basis": "style-sheet",
+     "reason": "One term for བསྔོ and ཡོངས་སུ་བསྔོ per style sheet."
+    }
+   ]
+  },
+  {
+   "term_id": "T059",
+   "bo": "སེམས་ཅན་ཁམས",
+   "sanskrit": "sattvadhātu",
+   "senses": [
+    {
+     "sense": "realm of sentient beings",
+     "occurrences": "all",
+     "academic": "有情界",
+     "children": "眾生的領域",
+     "basis": "style-sheet",
+     "reason": "有情 for སེམས་ཅན, 界 for ཁམས; children use 眾生 and 領域."
+    }
+   ]
+  },
+  {
+   "term_id": "T072",
+   "bo": "སེམས",
+   "sanskrit": "citta",
+   "senses": [
+    {
+     "sense": "mind",
+     "occurrences": "all",
+     "academic": "心",
+     "children": "心",
+     "basis": "new",
+     "reason": "Plain established word for citta; transparent for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T085",
+   "bo": "ཡུམ",
+   "sanskrit": "mātṛ",
+   "senses": [
+    {
+     "sense": "epithet of the perfection of wisdom",
+     "occurrences": "all",
+     "academic": "佛母",
+     "children": "母親",
+     "basis": "style-sheet",
+     "reason": "Policy 9: 佛母 bare; 〈owner〉之母 (e.g. 善逝之母) where the Tibetan names the owner."
+    }
+   ]
+  },
+  {
+   "term_id": "T098",
+   "bo": "རྫུ་འཕྲུལ",
+   "sanskrit": "ṛddhi",
+   "senses": [
+    {
+     "sense": "miraculous power",
+     "occurrences": "all",
+     "academic": "神通",
+     "children": "神奇的力量",
+     "basis": "new",
+     "reason": "神通 is the established ṛddhi term; children follow English \"magic power\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T111",
+   "bo": "བརྒྱ་བྱིན",
+   "sanskrit": "śakra",
+   "senses": [
+    {
+     "sense": "Śakra",
+     "occurrences": "all",
+     "academic": "帝釋",
+     "children": "帝釋",
+     "basis": "style-sheet",
+     "reason": "Policy 11 fixes 帝釋 for བརྒྱ་བྱིན; common Chinese name, no new transliteration."
+    }
+   ]
+  },
+  {
+   "term_id": "T124",
+   "bo": "བྱམས་པ",
+   "sanskrit": "maitrī",
+   "senses": [
+    {
+     "sense": "loving-kindness",
+     "occurrences": "all",
+     "academic": "慈",
+     "children": "慈愛",
+     "basis": "new",
+     "reason": "慈 is the established maitrī; 慈愛 is the plain word for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T137",
+   "bo": "ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན",
+   "sanskrit": "śīlapāramitā",
+   "senses": [
+    {
+     "sense": "perfection of ethical discipline",
+     "occurrences": "all",
+     "academic": "持戒波羅蜜多",
+     "children": "圓滿的良好品行",
+     "basis": "style-sheet",
+     "reason": "Compound of ཚུལ་ཁྲིམས 持戒 and ཕ་རོལ་ཕྱིན 波羅蜜多; children 圓滿的 + 良好品行."
+    }
+   ]
+  },
+  {
+   "term_id": "T150",
+   "bo": "བདག་མེད",
+   "sanskrit": "anātman",
+   "senses": [
+    {
+     "sense": "selflessness",
+     "occurrences": "all",
+     "academic": "無我",
+     "children": "沒有自我",
+     "basis": "style-sheet",
+     "reason": "Policy 16: མེད is 無 academic, 沒有 for children; base is self."
+    }
+   ]
+  },
+  {
+   "term_id": "T163",
+   "bo": "རྣམ་འདྲེན",
+   "sanskrit": "vināyaka",
+   "senses": [
+    {
+     "sense": "Guide",
+     "occurrences": "all",
+     "academic": "導師",
+     "children": "導師",
+     "basis": "style-sheet",
+     "reason": "Policy 8: every Tibetan \"Guide\" epithet is 導師."
+    }
+   ]
+  },
+  {
+   "term_id": "T176",
+   "bo": "འཁོར་བ",
+   "sanskrit": "saṃsāra",
+   "senses": [
+    {
+     "sense": "saṃsāra",
+     "occurrences": "all",
+     "academic": "輪迴",
+     "children": "輪迴",
+     "basis": "new",
+     "reason": "Established saṃsāra term; already an everyday word for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T189",
+   "bo": "འཛམ་གླིང",
+   "sanskrit": "jambudvīpa",
+   "senses": [
+    {
+     "sense": "Jambudvīpa",
+     "occurrences": "all",
+     "academic": "南贍部洲",
+     "children": "南贍部洲",
+     "basis": "style-sheet",
+     "reason": "Policy 11 names 南贍部洲 for འཛམ་བུའི་གླིང; འཛམ་གླིང is a variant."
+    }
+   ]
+  },
+  {
+   "term_id": "T202",
+   "bo": "སངས་རྒྱས་ཡེ་ཤེས",
+   "sanskrit": "buddhajñāna",
+   "senses": [
+    {
+     "sense": "primordial wisdom of a Buddha",
+     "occurrences": "all",
+     "academic": "佛本智",
+     "children": "佛陀深刻的領悟",
+     "basis": "style-sheet",
+     "reason": "Policy 18 example: 佛 + 本智; children 佛陀 + 深刻的領悟."
+    }
+   ]
+  },
+  {
+   "term_id": "T215",
+   "bo": "འཁྲུལ་འཁོར",
+   "sanskrit": "yantra",
+   "senses": [
+    {
+     "sense": "machine",
+     "occurrences": "all",
+     "academic": "機關",
+     "children": "機器",
+     "basis": "zero-shot",
+     "reason": "Gemini 機關 for yantra is readable and established; 機器 for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T228",
+   "bo": "སྐད་ཅིག་མ་གཅིག",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "single instant",
+     "occurrences": "all",
+     "academic": "一剎那",
+     "children": "一瞬間",
+     "basis": "style-sheet",
+     "reason": "Policy 13 uses 一剎那 in the title 一剎那圓滿現證菩提; child word 一瞬間."
+    }
+   ]
+  },
+  {
+   "term_id": "T241",
+   "bo": "མ་དྲོས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "Anavatapta",
+     "occurrences": "all",
+     "academic": "無熱惱池",
+     "children": "無熱惱池",
+     "basis": "style-sheet",
+     "reason": "Policy 11 gives 無熱惱池 for མ་དྲོས་མཚོ; common Chinese name."
+    }
+   ]
+  },
+  {
+   "term_id": "T254",
+   "bo": "གོ་ཆ་ཆེན་པོ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "great armor",
+     "occurrences": "all",
+     "academic": "大鎧甲",
+     "children": "大盔甲",
+     "basis": "new",
+     "reason": "Great armor: 大 + 鎧甲 (CBETA 鎧); children use the plain word 盔甲."
+    }
+   ]
+  },
+  {
+   "term_id": "T267",
+   "bo": "གནས་མེད་གནས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "abide without abiding",
+     "occurrences": "all",
+     "academic": "無住而住",
+     "children": "停留卻不停留",
+     "basis": "new",
+     "reason": "Established formula 無住而住 for abiding without abiding; children keep the paradox literally."
+    }
+   ]
+  },
+  {
+   "term_id": "T280",
+   "bo": "ཕྱོགས",
+   "sanskrit": "pakṣa",
+   "senses": [
+    {
+     "sense": "faction",
+     "occurrences": "all",
+     "academic": "黨類",
+     "children": "一邊",
+     "basis": "new",
+     "reason": "⚑ Faction (as in 魔的黨類, Māra's side); no fixed canon form known, 魔黨 is nearby."
+    }
+   ]
+  },
+  {
+   "term_id": "T293",
+   "bo": "སངས་རྒྱས་རིང་བསྲེལ",
+   "sanskrit": "śarīra",
+   "senses": [
+    {
+     "sense": "relic of a Buddha",
+     "occurrences": "all",
+     "academic": "佛舍利",
+     "children": "佛陀的舍利",
+     "basis": "style-sheet",
+     "reason": "佛 + 舍利 (established śarīra); children use 佛陀 per the core term."
+    }
+   ]
+  },
+  {
+   "term_id": "T306",
+   "bo": "བསྒོམ",
+   "sanskrit": "bhāvanā",
+   "senses": [
+    {
+     "sense": "meditation",
+     "occurrences": "all",
+     "academic": "修習",
+     "children": "靜心練習",
+     "basis": "zero-shot",
+     "reason": "Gemini 修習 for bhāvanā is established; children get a plain \"calm-mind practice\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T319",
+   "bo": "དམིགས་ཅན",
+   "sanskrit": "upalambhika",
+   "senses": [
+    {
+     "sense": "one with apprehension",
+     "occurrences": "all",
+     "academic": "有所緣者",
+     "children": "抓著某個東西不放的人",
+     "basis": "english-pivot",
+     "reason": "དམིགས་པ is 所緣 (style sheet, 無所緣); children follow the English \"holds onto something\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T332",
+   "bo": "ཆོས་རྣམས་ཐམས་ཅད",
+   "sanskrit": "sarvadharma",
+   "senses": [
+    {
+     "sense": "all phenomena",
+     "occurrences": "all",
+     "academic": "一切法",
+     "children": "所有事物",
+     "basis": "style-sheet",
+     "reason": "Policy 6: ཆོས as phenomena is 法, collective 一切法; children 事物."
+    }
+   ]
+  },
+  {
+   "term_id": "T345",
+   "bo": "ལམ་གོལ",
+   "sanskrit": "utpatha",
+   "senses": [
+    {
+     "sense": "wrong path",
+     "occurrences": "all",
+     "academic": "歧路",
+     "children": "走錯的路",
+     "basis": "new",
+     "reason": "Wrong path (utpatha): 歧路 established; children say the path taken in error."
+    }
+   ]
+  },
+  {
+   "term_id": "T358",
+   "bo": "རང་རྒྱལ་དེ་བཞིན་ཉིད",
+   "sanskrit": "pratyekabuddhatathatā",
+   "senses": [
+    {
+     "sense": "suchness of a pratyekabuddha",
+     "occurrences": "all",
+     "academic": "獨覺真如",
+     "children": "獨自覺悟的人的事物真正樣貌",
+     "basis": "style-sheet",
+     "reason": "Compound: 獨覺 + 真如; children 獨自覺悟的人 + 事物真正的樣貌."
+    }
+   ]
+  },
+  {
+   "term_id": "T371",
+   "bo": "དང་བ",
+   "sanskrit": "prasāda",
+   "senses": [
+    {
+     "sense": "confidence",
+     "occurrences": "all",
+     "academic": "淨信",
+     "children": "信心",
+     "basis": "new",
+     "reason": "淨信 is the established prasāda; 信心 is the plain word for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T384",
+   "bo": "ཐེག་གསུམ",
+   "sanskrit": "triyāna",
+   "senses": [
+    {
+     "sense": "three vehicles",
+     "occurrences": "all",
+     "academic": "三乘",
+     "children": "三乘",
+     "basis": "new",
+     "reason": "Established three vehicles; 乘 is transparent for children per policy 17."
+    }
+   ]
+  },
+  {
+   "term_id": "T397",
+   "bo": "ཐ་དད་འདུ་ཤེས",
+   "sanskrit": "nānātvasaṃjñā",
+   "senses": [
+    {
+     "sense": "perception of diversity",
+     "occurrences": "all",
+     "academic": "種種想",
+     "children": "差異的想法",
+     "basis": "new",
+     "reason": "種種想 is the established nānātvasaṃjñā; 想 and 想法 follow the འདུ་ཤེས row."
+    }
+   ]
+  },
+  {
+   "term_id": "T410",
+   "bo": "འཇིག་རྟེན་གསུམ",
+   "sanskrit": "triloka",
+   "senses": [
+    {
+     "sense": "three worlds",
+     "occurrences": "all",
+     "academic": "三世間",
+     "children": "三世界",
+     "basis": "style-sheet",
+     "reason": "འཇིག་རྟེན་ 世間 / 世界 plus 三; established 三界 differs, so the table wins."
+    }
+   ]
+  },
+  {
+   "term_id": "T423",
+   "bo": "མི་ཡི་འཇིག་རྟེན",
+   "sanskrit": "martyaloka",
+   "senses": [
+    {
+     "sense": "human world",
+     "occurrences": "all",
+     "academic": "人世間",
+     "children": "人類世界",
+     "basis": "style-sheet",
+     "reason": "人 + 世間 (འཇིག་རྟེན་); children 人類 + 世界."
+    }
+   ]
+  },
+  {
+   "term_id": "T436",
+   "bo": "རྒྱུ་རྣམ་གཉིས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "two causes",
+     "occurrences": "all",
+     "academic": "二因",
+     "children": "兩個原因",
+     "basis": "new",
+     "reason": "Two causes: 二 + 因; children use the plain 兩個原因."
+    }
+   ]
+  },
+  {
+   "term_id": "T449",
+   "bo": "བསོད་སྙོམས",
+   "sanskrit": "rāṣṭrapiṇḍa",
+   "senses": [
+    {
+     "sense": "alms",
+     "occurrences": "all",
+     "academic": "施食",
+     "children": "別人施捨的食物",
+     "basis": "new",
+     "reason": "Alms as food given (rāṣṭrapiṇḍa): 施食 in place of the act 乞食; children follow the English."
+    }
+   ]
+  },
+  {
+   "term_id": "T462",
+   "bo": "བཟོད་པའི་ཕ་རོལ་ཕྱིན་པ",
+   "sanskrit": "kṣāntipāramitā",
+   "senses": [
+    {
+     "sense": "perfection of patience",
+     "occurrences": "all",
+     "academic": "安忍波羅蜜多",
+     "children": "圓滿的耐心",
+     "basis": "style-sheet",
+     "reason": "བཟོད་པ 安忍 / 耐心 plus ཕ་རོལ་ཕྱིན 波羅蜜多 / 圓滿, per policy 15."
+    }
+   ]
+  },
+  {
+   "term_id": "T475",
+   "bo": "སྲོག་གི་དབང་པོ",
+   "sanskrit": "jīvitendriya",
+   "senses": [
+    {
+     "sense": "life faculty",
+     "occurrences": "all",
+     "academic": "命根",
+     "children": "生命力",
+     "basis": "new",
+     "reason": "命根 is the established jīvitendriya (life + faculty); children \"life force\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T488",
+   "bo": "དྲེགས་པ",
+   "sanskrit": "mada",
+   "senses": [
+    {
+     "sense": "pride",
+     "occurrences": "all",
+     "academic": "傲慢",
+     "children": "驕傲",
+     "basis": "zero-shot",
+     "reason": "Gemini 傲慢 is the plain, readable word for mada; 驕傲 for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T501",
+   "bo": "ཆོས་གཏེར",
+   "sanskrit": "dharmakośa",
+   "senses": [
+    {
+     "sense": "treasure of Dharma",
+     "occurrences": "all",
+     "academic": "佛法寶藏",
+     "children": "佛法的寶藏",
+     "basis": "style-sheet",
+     "reason": "ཆོས as the teaching is 佛法 (policy 6) + 寶藏; established 法藏 uses bare 法."
+    }
+   ]
+  },
+  {
+   "term_id": "T514",
+   "bo": "བདག་ཉིད་ཆེན་པོ",
+   "sanskrit": "mahātman",
+   "senses": [
+    {
+     "sense": "great being",
+     "occurrences": "all",
+     "academic": "大士",
+     "children": "偉大的英雄",
+     "basis": "new",
+     "reason": "大士 is established for mahātman; children follow the English \"great hero\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T527",
+   "bo": "རེག",
+   "sanskrit": "sparśa",
+   "senses": [
+    {
+     "sense": "touch",
+     "occurrences": "all",
+     "academic": "觸",
+     "children": "觸感",
+     "basis": "new",
+     "reason": "Sparśa: 觸 is established; 觸感 is the plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T540",
+   "bo": "ལུས",
+   "sanskrit": "kāya",
+   "senses": [
+    {
+     "sense": "body",
+     "occurrences": "all",
+     "academic": "身",
+     "children": "身體",
+     "basis": "new",
+     "reason": "Established 身 for kāya (body and mind pair); 身體 for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T553",
+   "bo": "ཕས་ཕམ་པ",
+   "sanskrit": "pārājika",
+   "senses": [
+    {
+     "sense": "defeat",
+     "occurrences": "all",
+     "academic": "他勝罪",
+     "children": "最嚴重的犯戒",
+     "basis": "new",
+     "reason": "⚑ pārājika as Tibetan-derived 他勝罪 (\"defeat\"), not the transliteration 波羅夷; children get a plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T566",
+   "bo": "སེར་སྣ་ཅན",
+   "sanskrit": "mātsarya",
+   "senses": [
+    {
+     "sense": "miserly one",
+     "occurrences": "all",
+     "academic": "慳吝者",
+     "children": "小氣的人",
+     "basis": "english-pivot",
+     "reason": "Mātsarya is 慳; 慳吝者 for the person, children \"stingy one\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T579",
+   "bo": "དངོས་པོ",
+   "sanskrit": "vastu",
+   "senses": [
+    {
+     "sense": "entity",
+     "occurrences": "all",
+     "academic": "實事",
+     "children": "物體",
+     "basis": "new",
+     "reason": "⚑ Entity (vastu): 實事 for དངོས་པོ; kept apart from 法 (ཆོས); children 物體 not 事物."
+    }
+   ]
+  },
+  {
+   "term_id": "T592",
+   "bo": "ཡོངས་དག་ཞིང",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "perfectly pure field",
+     "occurrences": "all",
+     "academic": "圓淨剎土",
+     "children": "完全純淨的國土",
+     "basis": "new",
+     "reason": "ཡོངས་ 圓 + 淨 + 剎土 (CBETA spelling); children follow English \"perfectly pure land\"."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,695 @@
+{
+ "batch": "batch-05",
+ "terms": [
+  {
+   "term_id": "T005",
+   "bo": "སེམས་ཅན",
+   "sanskrit": "sattva",
+   "senses": [
+    {
+     "sense": "beings in saṃsāra",
+     "occurrences": "all",
+     "academic": "有情",
+     "children": "眾生",
+     "basis": "style-sheet",
+     "reason": "Style sheet core term; policy 5 splits 有情 (academic) from 眾生 (children)."
+    }
+   ]
+  },
+  {
+   "term_id": "T018",
+   "bo": "བདུད",
+   "sanskrit": "māra",
+   "senses": [
+    {
+     "sense": "the Māra",
+     "occurrences": "all",
+     "academic": "魔",
+     "children": "魔王",
+     "basis": "style-sheet",
+     "reason": "Core term བདུད: 魔 academic, 魔王 children; Gemini 魔羅 refused."
+    }
+   ]
+  },
+  {
+   "term_id": "T031",
+   "bo": "ལུང་བསྟན",
+   "sanskrit": "vyākaraṇa",
+   "senses": [
+    {
+     "sense": "prophecy",
+     "occurrences": "all",
+     "academic": "授記",
+     "children": "預言",
+     "basis": "english-pivot",
+     "reason": "授記 is the established vyākaraṇa term; children's follows English 'prediction'."
+    }
+   ]
+  },
+  {
+   "term_id": "T044",
+   "bo": "བརྩོན་འགྲུས",
+   "sanskrit": "vīrya",
+   "senses": [
+    {
+     "sense": "the perfection of effort",
+     "occurrences": "all",
+     "academic": "精進",
+     "children": "持續的努力",
+     "basis": "style-sheet",
+     "reason": "Core term བརྩོན་འགྲུས: registers' 精進; children's 持續的努力."
+    }
+   ]
+  },
+  {
+   "term_id": "T057",
+   "bo": "ཚོར་བ",
+   "sanskrit": "vedanā",
+   "senses": [
+    {
+     "sense": "second aggregate",
+     "occurrences": "all",
+     "academic": "受",
+     "children": "感受",
+     "basis": "style-sheet",
+     "reason": "Aggregate name 受 per policy 14; children's plain word for feeling."
+    }
+   ]
+  },
+  {
+   "term_id": "T070",
+   "bo": "རྗེས་སུ་ཡི་རང",
+   "sanskrit": "anumodana",
+   "senses": [
+    {
+     "sense": "rejoicing",
+     "occurrences": "all",
+     "academic": "隨喜",
+     "children": "替別人高興",
+     "basis": "new",
+     "reason": "隨喜 is the established anumodana term; children's plain phrase for rejoicing in others' good."
+    }
+   ]
+  },
+  {
+   "term_id": "T083",
+   "bo": "ཐམས་ཅད་མཁྱེན་པ་ཉིད",
+   "sanskrit": "sarvajñatā",
+   "senses": [
+    {
+     "sense": "omniscience",
+     "occurrences": "all",
+     "academic": "一切智",
+     "children": "無所不知",
+     "basis": "style-sheet",
+     "reason": "Core term ཐམས་ཅད་མཁྱེན་པ་ཉིད; Gemini's 一切智智 refused."
+    }
+   ]
+  },
+  {
+   "term_id": "T096",
+   "bo": "རྣལ་འབྱོར",
+   "sanskrit": "yoga",
+   "senses": [
+    {
+     "sense": "yoga practice",
+     "occurrences": "all",
+     "academic": "瑜伽",
+     "children": "修行訓練",
+     "basis": "english-pivot",
+     "reason": "瑜伽 is the established yoga rendering in zero-shot; children's follows English 'training'."
+    }
+   ]
+  },
+  {
+   "term_id": "T109",
+   "bo": "དམིགས་པ",
+   "sanskrit": "ālambana",
+   "senses": [
+    {
+     "sense": "object of apprehension",
+     "occurrences": "all",
+     "academic": "所緣",
+     "children": "可以抓住的東西",
+     "basis": "style-sheet",
+     "reason": "Policy: དམིགས་པ is 所緣; children's follows English 'something to hold onto'."
+    }
+   ]
+  },
+  {
+   "term_id": "T122",
+   "bo": "རྣམ་པར་མི་རྟོག",
+   "sanskrit": "avikalpa",
+   "senses": [
+    {
+     "sense": "non-conceptual",
+     "occurrences": "all",
+     "academic": "無分別",
+     "children": "沒有固定想法",
+     "basis": "english-pivot",
+     "reason": "無分別 is the established avikalpa term; children's follows English 'without fixed ideas'."
+    }
+   ]
+  },
+  {
+   "term_id": "T135",
+   "bo": "ལེ་ལོ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "lazy",
+     "occurrences": "all",
+     "academic": "懈怠",
+     "children": "懶惰",
+     "basis": "zero-shot",
+     "reason": "懈怠 from Gemini line, the standard antonym of 精進; 懶惰 is the plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T148",
+   "bo": "ལམ་ཐམས་ཅད་ཤེས་པ་ཉིད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "knowledge of all paths (title)",
+     "occurrences": "all",
+     "academic": "道智",
+     "children": "通曉所有的道路",
+     "basis": "style-sheet",
+     "reason": "Core term ལམ་ཐམས་ཅད་ཤེས་པ་ཉིད, fixed in registers and style sheet."
+    }
+   ]
+  },
+  {
+   "term_id": "T161",
+   "bo": "མཆོད་རྟེན",
+   "sanskrit": "stūpa",
+   "senses": [
+    {
+     "sense": "stūpa",
+     "occurrences": "all",
+     "academic": "佛塔",
+     "children": "供奉佛的塔",
+     "basis": "zero-shot",
+     "reason": "佛塔 from Gemini line, stūpa as established; children's explains the shrine plainly."
+    }
+   ]
+  },
+  {
+   "term_id": "T174",
+   "bo": "བྱང་ཆུབ་ཞི་བ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "peaceful awakening",
+     "occurrences": "all",
+     "academic": "寂靜菩提",
+     "children": "平靜的覺悟",
+     "basis": "style-sheet",
+     "reason": "Built on 菩提 core term plus 寂靜; children's on 覺悟."
+    }
+   ]
+  },
+  {
+   "term_id": "T187",
+   "bo": "གནས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "place of dwelling",
+     "occurrences": "all",
+     "academic": "住處",
+     "children": "居住的地方",
+     "basis": "english-pivot",
+     "reason": "Translated from English 'dwelling place'; 住處 is plain and attested."
+    }
+   ]
+  },
+  {
+   "term_id": "T200",
+   "bo": "སྟོང་ཉིད",
+   "sanskrit": "śūnyatā",
+   "senses": [
+    {
+     "sense": "emptiness",
+     "occurrences": "all",
+     "academic": "空性",
+     "children": "空性",
+     "basis": "style-sheet",
+     "reason": "Core term སྟོང་པ noun sense; སྟོང་ཉིད is the same word."
+    }
+   ]
+  },
+  {
+   "term_id": "T213",
+   "bo": "མ་རིག",
+   "sanskrit": "avidyā",
+   "senses": [
+    {
+     "sense": "ignorance",
+     "occurrences": "all",
+     "academic": "無明",
+     "children": "無知",
+     "basis": "new",
+     "reason": "無明 is the established avidyā term; children's plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T226",
+   "bo": "ཁྲིམས",
+   "sanskrit": "śīla",
+   "senses": [
+    {
+     "sense": "ethical discipline",
+     "occurrences": "all",
+     "academic": "持戒",
+     "children": "良好品行",
+     "basis": "style-sheet",
+     "reason": "ཁྲིམས is the short form of ཚུལ་ཁྲིམས; core term 持戒 and 良好品行."
+    }
+   ]
+  },
+  {
+   "term_id": "T239",
+   "bo": "སྤྱོད་པ",
+   "sanskrit": "caryā",
+   "senses": [
+    {
+     "sense": "conduct",
+     "occurrences": "all",
+     "academic": "行持",
+     "children": "生活方式",
+     "basis": "english-pivot",
+     "reason": "行持 renders caryā without clashing with the aggregate 行; children's follows 'way of living'."
+    }
+   ]
+  },
+  {
+   "term_id": "T252",
+   "bo": "སེམས་ཅན་ཚོགས",
+   "sanskrit": "sattvarāśi",
+   "senses": [
+    {
+     "sense": "multitude of sentient beings",
+     "occurrences": "all",
+     "academic": "有情眾",
+     "children": "眾生群",
+     "basis": "style-sheet",
+     "reason": "Built on སེམས་ཅན core term (有情 / 眾生) plus ཚོགས 'multitude'."
+    }
+   ]
+  },
+  {
+   "term_id": "T265",
+   "bo": "རང་རྒྱལ་ས",
+   "sanskrit": "pratyekabuddhabhūmi",
+   "senses": [
+    {
+     "sense": "stage of a pratyekabuddha",
+     "occurrences": "all",
+     "academic": "獨覺地",
+     "children": "獨自覺悟的人的階段",
+     "basis": "style-sheet",
+     "reason": "Built on རང་རྒྱལ core term 獨覺 plus ས 'stage'; Gemini 緣覺 refused."
+    }
+   ]
+  },
+  {
+   "term_id": "T278",
+   "bo": "སྐྱེས་མཆོག",
+   "sanskrit": "puruṣottama",
+   "senses": [
+    {
+     "sense": "supreme being (past Buddha)",
+     "occurrences": "all",
+     "academic": "勝士",
+     "children": "最崇高的人",
+     "basis": "zero-shot",
+     "reason": "勝士 from Gemini line, the established puruṣottama rendering; children's follows 'highest being'."
+    }
+   ]
+  },
+  {
+   "term_id": "T291",
+   "bo": "གང་གā",
+   "sanskrit": "gaṅgā",
+   "senses": [
+    {
+     "sense": "the river Ganges",
+     "occurrences": "all",
+     "academic": "恆河",
+     "children": "恆河",
+     "basis": "style-sheet",
+     "reason": "Policy 11: established name 恆河."
+    }
+   ]
+  },
+  {
+   "term_id": "T304",
+   "bo": "ཀླུ",
+   "sanskrit": "nāga",
+   "senses": [
+    {
+     "sense": "nāga",
+     "occurrences": "all",
+     "academic": "龍",
+     "children": "蛇形神靈",
+     "basis": "english-pivot",
+     "reason": "龍 is the established nāga rendering; children's follows 'serpent spirit'."
+    }
+   ]
+  },
+  {
+   "term_id": "T317",
+   "bo": "དཀར་པོའི་ཆོས",
+   "sanskrit": "śukladharma",
+   "senses": [
+    {
+     "sense": "virtuous qualities",
+     "occurrences": "all",
+     "academic": "善法",
+     "children": "良善的特質",
+     "basis": "style-sheet",
+     "reason": "Policy 6: 善法 for དཀར་པོའི་ཆོས; children's uses core 特質 for quality-ཆོས."
+    }
+   ]
+  },
+  {
+   "term_id": "T330",
+   "bo": "མིང་དང་གཟུགས",
+   "sanskrit": "nāmarūpa",
+   "senses": [
+    {
+     "sense": "name and form",
+     "occurrences": "all",
+     "academic": "名色",
+     "children": "名稱和形體",
+     "basis": "zero-shot",
+     "reason": "名色 from Gemini line is the established nāmarūpa term; children's plain paraphrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T343",
+   "bo": "རིགས",
+   "sanskrit": "jāti",
+   "senses": [
+    {
+     "sense": "family, caste",
+     "occurrences": "all",
+     "academic": "種姓",
+     "children": "家族",
+     "basis": "zero-shot",
+     "reason": "種姓 from Gemini line, established for gotra/jāti caste; children's follows 'family'."
+    }
+   ]
+  },
+  {
+   "term_id": "T356",
+   "bo": "དངོས་བྲལ",
+   "sanskrit": "bhāvavigata",
+   "senses": [
+    {
+     "sense": "devoid of entities",
+     "occurrences": "all",
+     "academic": "離實事",
+     "children": "沒有真實存在的事物",
+     "basis": "english-pivot",
+     "reason": "Translated from English 'devoid of entities'; 離 plus 實事 for dngos po. Flagged: no established term."
+    }
+   ]
+  },
+  {
+   "term_id": "T369",
+   "bo": "རྒྱལ་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "the Victors",
+     "occurrences": "all",
+     "academic": "勝者",
+     "children": "得勝者",
+     "basis": "style-sheet",
+     "reason": "Misspelling of རྒྱལ་བ; core term 勝者, children's 得勝者."
+    }
+   ]
+  },
+  {
+   "term_id": "T382",
+   "bo": "ཆོས་མཆོག",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "supreme Dharma",
+     "occurrences": "all",
+     "academic": "殊勝佛法",
+     "children": "最高的佛法",
+     "basis": "style-sheet",
+     "reason": "Built on མཆོག 殊勝 plus ཆོས teaching 佛法 per policy 6 and 18."
+    }
+   ]
+  },
+  {
+   "term_id": "T395",
+   "bo": "གནས་བརྟན",
+   "sanskrit": "sthavira",
+   "senses": [
+    {
+     "sense": "elder",
+     "occurrences": "all",
+     "academic": "長老",
+     "children": "長老",
+     "basis": "zero-shot",
+     "reason": "長老 from Gemini line, the common Chinese rendering of sthavira in sūtra titles."
+    }
+   ]
+  },
+  {
+   "term_id": "T408",
+   "bo": "དོན་དམ",
+   "sanskrit": "paramārtha",
+   "senses": [
+    {
+     "sense": "ultimate",
+     "occurrences": "all",
+     "academic": "勝義",
+     "children": "最深的真理",
+     "basis": "new",
+     "reason": "勝義 is the established paramārtha term; children's follows 'deepest truth'."
+    }
+   ]
+  },
+  {
+   "term_id": "T421",
+   "bo": "ངན་སོང",
+   "sanskrit": "apāya",
+   "senses": [
+    {
+     "sense": "lower realms",
+     "occurrences": "all",
+     "academic": "惡趣",
+     "children": "不好的去處",
+     "basis": "new",
+     "reason": "惡趣 is the established apāya term; children's plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T434",
+   "bo": "དགེ་བའི་བཤེས་གཉེན",
+   "sanskrit": "kalyāṇamitra",
+   "senses": [
+    {
+     "sense": "spiritual friend",
+     "occurrences": "all",
+     "academic": "善知識",
+     "children": "有智慧的朋友",
+     "basis": "new",
+     "reason": "善知識 is the established kalyāṇamitra term; children's follows 'wise friend'."
+    }
+   ]
+  },
+  {
+   "term_id": "T447",
+   "bo": "བྱང་ཆུབ་རྒྱུ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "cause of awakening",
+     "occurrences": "all",
+     "academic": "菩提因",
+     "children": "覺悟的原因",
+     "basis": "style-sheet",
+     "reason": "Built on བྱང་ཆུབ core term 菩提 / 覺悟 plus རྒྱུ 'cause'."
+    }
+   ]
+  },
+  {
+   "term_id": "T460",
+   "bo": "ཤ་ཟ",
+   "sanskrit": "piśāca",
+   "senses": [
+    {
+     "sense": "flesh-eating demon",
+     "occurrences": "all",
+     "academic": "食肉鬼",
+     "children": "吃肉的妖怪",
+     "basis": "zero-shot",
+     "reason": "食肉鬼 from Gemini line, matching 'flesh-eating demon'; children's plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T473",
+   "bo": "འཇིག་ཚོགས་ལྟ་བ",
+   "sanskrit": "satkāyadṛṣṭi",
+   "senses": [
+    {
+     "sense": "view of a self in the aggregates",
+     "occurrences": "all",
+     "academic": "薩迦耶見",
+     "children": "認為有「我」的錯誤看法",
+     "basis": "zero-shot",
+     "reason": "薩迦耶見 from Gemini line is the standard satkāyadṛṣṭi term; children's follows English gloss."
+    }
+   ]
+  },
+  {
+   "term_id": "T486",
+   "bo": "སངས་རྒྱས་སྤྲུལ་པ",
+   "sanskrit": "nirmita",
+   "senses": [
+    {
+     "sense": "emanated Buddha",
+     "occurrences": "all",
+     "academic": "佛化身",
+     "children": "佛陀變出的分身",
+     "basis": "style-sheet",
+     "reason": "Built on སངས་རྒྱས core term 佛 / 佛陀 plus སྤྲུལ་པ 'emanation'."
+    }
+   ]
+  },
+  {
+   "term_id": "T499",
+   "bo": "ཆོས་ཀྱི་སྦྱིན་པ",
+   "sanskrit": "dharmadāna",
+   "senses": [
+    {
+     "sense": "gift of Dharma",
+     "occurrences": "all",
+     "academic": "法施",
+     "children": "佛法的禮物",
+     "basis": "style-sheet",
+     "reason": "Policy 6: 法施 is a fixed collocation; children's follows 'gift of teaching' with 佛法."
+    }
+   ]
+  },
+  {
+   "term_id": "T512",
+   "bo": "ལྷ་ཡི་གྲོང་ཁྱེར",
+   "sanskrit": "devapura",
+   "senses": [
+    {
+     "sense": "city of the gods",
+     "occurrences": "all",
+     "academic": "天城",
+     "children": "天神的城市",
+     "basis": "zero-shot",
+     "reason": "天城 from Gemini line, short and attested; children's plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T525",
+   "bo": "དྲི",
+   "sanskrit": "gandha",
+   "senses": [
+    {
+     "sense": "smell, object of the nose",
+     "occurrences": "all",
+     "academic": "香",
+     "children": "氣味",
+     "basis": "new",
+     "reason": "香 is the established gandha rendering among the five sense objects; 氣味 is the plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T538",
+   "bo": "བརྩོན་འགྲུས་ཕ་རོལ་ཕྱེན",
+   "sanskrit": "vīryapāramitā",
+   "senses": [
+    {
+     "sense": "perfection of diligence",
+     "occurrences": "all",
+     "academic": "精進波羅蜜多",
+     "children": "圓滿的持續努力",
+     "basis": "style-sheet",
+     "reason": "Policy 15: 精進 plus 波羅蜜多; children's follows the 圓滿的智慧 pattern; misspelled ཕྱེན."
+    }
+   ]
+  },
+  {
+   "term_id": "T551",
+   "bo": "འཕགས་པའི་དགེ་འདུན",
+   "sanskrit": "āryasaṃgha",
+   "senses": [
+    {
+     "sense": "noble community",
+     "occurrences": "all",
+     "academic": "聖僧",
+     "children": "神聖的僧團",
+     "basis": "english-pivot",
+     "reason": "聖僧 is the established āryasaṃgha term; children's follows 'noble community'."
+    }
+   ]
+  },
+  {
+   "term_id": "T564",
+   "bo": "ཡི་དགས",
+   "sanskrit": "preta",
+   "senses": [
+    {
+     "sense": "hungry ghost",
+     "occurrences": "all",
+     "academic": "餓鬼",
+     "children": "餓鬼",
+     "basis": "zero-shot",
+     "reason": "餓鬼 from Gemini line, the established preta term; already an everyday word."
+    }
+   ]
+  },
+  {
+   "term_id": "T577",
+   "bo": "སྦྱིན་པའི་ཕུང་པོ",
+   "sanskrit": "dānaskandha",
+   "senses": [
+    {
+     "sense": "mass of generosity",
+     "occurrences": "all",
+     "academic": "布施蘊",
+     "children": "累積的慷慨",
+     "basis": "english-pivot",
+     "reason": "Policy 14: 蘊 for ཕུང་པོ; children's follows 'heap of generosity'."
+    }
+   ]
+  },
+  {
+   "term_id": "T590",
+   "bo": "ཆོས་སྐུ",
+   "sanskrit": "dharmakāya",
+   "senses": [
+    {
+     "sense": "Dharmakāya",
+     "occurrences": "all",
+     "academic": "法身",
+     "children": "佛法之身",
+     "basis": "style-sheet",
+     "reason": "Policy 13: 法身 as the eighth topic; children's follows English 'teaching body'."
+    }
+   ]
+  }
+ ]
+}

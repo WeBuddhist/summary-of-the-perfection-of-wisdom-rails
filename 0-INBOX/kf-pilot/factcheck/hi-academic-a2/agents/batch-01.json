@@ -1,0 +1,121 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "1-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-12",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "भव से निःसृत",
+     "evidence": "The Tibetan says only 'ངེས་པར་འབྱུང་' (definitely emerges), with no stated source of emergence; english_academic has 'definitely emerge'. The commentaries read it as emerging from extremes: bo-mipham 1-12 'མཐའ་ཐམས་ཅད་ལས་ངེས་པར་འབྱུང་' (from all extremes) and bo-khenrab 1-12 'སྲིད་ཞིའི་མཐའ་ལས་ངེས་པར་འབྱུང་' (from the extremes of existence and peace). 'भव से' restricts it to existence/saṃsāra alone and adds content the root does not state.",
+     "fix": "निश्चित ही निःसृत हो जाता है"
+    }
+   ]
+  },
+  {
+   "id": "1-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-23",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "बुद्ध-अवशेष रूपी शरीर-धातु",
+     "evidence": "Tibetan 'སངས་རྒྱས་རིང་བསྲེལ' is a single phrase whose locked rendering is 'बुद्ध-अवशेष'. The translation merges it with the locked rendering of the sub-term 'རིང་བསྲེལ' (शरीर-धातु) through an invented 'रूपी' apposition, which the Tibetan does not have and which reads as a different, doubled referent.",
+     "fix": "बुद्ध-अवशेष"
+    }
+   ]
+  },
+  {
+   "id": "2-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-23",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

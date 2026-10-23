@@ -1,0 +1,695 @@
+{
+ "batch": "batch-06",
+ "terms": [
+  {
+   "term_id": "T006",
+   "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+   "sanskrit": "prajñāpāramitā",
+   "senses": [
+    {
+     "sense": "the perfection of wisdom",
+     "occurrences": "all",
+     "academic": "perfection of wisdom",
+     "children": "perfect wisdom",
+     "basis": "style-sheet",
+     "reason": "Policies 5 and 7: lower case, children's fixed exception \"perfect wisdom\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T019",
+   "bo": "སྡུག་བསྔལ",
+   "sanskrit": "duḥkha",
+   "senses": [
+    {
+     "sense": "suffering",
+     "occurrences": "all",
+     "academic": "suffering",
+     "children": "suffering",
+     "basis": "both",
+     "reason": "Both machines give \"suffering\" in most occurrences; style-sheet core term."
+    }
+   ]
+  },
+  {
+   "term_id": "T032",
+   "bo": "སངས་རྒྱས་ཆོས",
+   "sanskrit": "buddhadharma",
+   "senses": [
+    {
+     "sense": "qualities of a Buddha",
+     "occurrences": "all",
+     "academic": "qualities of a Buddha",
+     "children": "a Buddha's qualities",
+     "basis": "style-sheet",
+     "reason": "Policy 10: lexicalised \"qualities of a Buddha\"; children's follows core row."
+    }
+   ]
+  },
+  {
+   "term_id": "T045",
+   "bo": "བསྔོ",
+   "sanskrit": "pariṇāmayati",
+   "senses": [
+    {
+     "sense": "dedicate",
+     "occurrences": "all",
+     "academic": "dedicate",
+     "children": "dedicate",
+     "basis": "both",
+     "reason": "Both machines use dedicate; policies 47-48 give base form."
+    }
+   ]
+  },
+  {
+   "term_id": "T058",
+   "bo": "མཚན་མ",
+   "sanskrit": "nimitta",
+   "senses": [
+    {
+     "sense": "sign",
+     "occurrences": "all",
+     "academic": "sign",
+     "children": "sign",
+     "basis": "style-sheet",
+     "reason": "Policy 15: sign, 5 of 5 in both machines."
+    }
+   ]
+  },
+  {
+   "term_id": "T071",
+   "bo": "དགེ་བ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "virtue",
+     "occurrences": "all",
+     "academic": "virtue",
+     "children": "goodness",
+     "basis": "style-sheet",
+     "reason": "Policy 46 and core row: virtue; children's goodness."
+    }
+   ]
+  },
+  {
+   "term_id": "T084",
+   "bo": "སྟོབས་བཅུ",
+   "sanskrit": "daśabala",
+   "senses": [
+    {
+     "sense": "ten powers",
+     "occurrences": "all",
+     "academic": "ten powers",
+     "children": "ten powers",
+     "basis": "both",
+     "reason": "Policy 45: power with ten; both machines mostly \"ten powers\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T097",
+   "bo": "བྱང་ཆུབ་སེམས་དཔ",
+   "sanskrit": "bodhisattva",
+   "senses": [
+    {
+     "sense": "bodhisattva (truncated spelling)",
+     "occurrences": "all",
+     "academic": "bodhisattva",
+     "children": "awakening hero",
+     "basis": "style-sheet",
+     "reason": "Policy 2 and 38: truncated spelling of bodhisattva; children's per policy 4."
+    }
+   ]
+  },
+  {
+   "term_id": "T110",
+   "bo": "ཕ་རོལ་ཕྱིན་ལྔ",
+   "sanskrit": "pañcapāramitā",
+   "senses": [
+    {
+     "sense": "five perfections",
+     "occurrences": "all",
+     "academic": "five perfections",
+     "children": "five perfections",
+     "basis": "both",
+     "reason": "Both machines give \"five perfections\"; compound of ཕ་རོལ་ཕྱིན and five."
+    }
+   ]
+  },
+  {
+   "term_id": "T123",
+   "bo": "སྨོན་ལམ",
+   "sanskrit": "praṇidhāna",
+   "senses": [
+    {
+     "sense": "aspiration",
+     "occurrences": "all",
+     "academic": "aspiration",
+     "children": "wish",
+     "basis": "dm",
+     "reason": "Both machines say aspirations (DharmaMitra once prayer); children's plain \"wish\" is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T136",
+   "bo": "ཚུལ་ཁྲིམས་འཆལ",
+   "sanskrit": "duḥśīla",
+   "senses": [
+    {
+     "sense": "lacking ethical discipline",
+     "occurrences": "all",
+     "academic": "lacking ethical discipline",
+     "children": "lacking good conduct",
+     "basis": "style-sheet",
+     "reason": "Policy 12: ཚུལ་ཁྲིམས་འཆལ is lacking ethical discipline; children's from core row."
+    }
+   ]
+  },
+  {
+   "term_id": "T149",
+   "bo": "བདེ",
+   "sanskrit": "sukha",
+   "senses": [
+    {
+     "sense": "happiness",
+     "occurrences": "all",
+     "academic": "happiness",
+     "children": "happiness",
+     "basis": "both",
+     "reason": "Both machines agree on happiness; plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T162",
+   "bo": "རིན་ཆེན་བདུན",
+   "sanskrit": "saptaratna",
+   "senses": [
+    {
+     "sense": "seven precious things",
+     "occurrences": "all",
+     "academic": "seven precious things",
+     "children": "seven treasures",
+     "basis": "gm",
+     "reason": "Gemini twice; DharmaMitra splits gems and jewels; children's treasures new."
+    }
+   ]
+  },
+  {
+   "term_id": "T175",
+   "bo": "གཞི་ཐམས་ཅད་ཤེས་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "knowledge of all bases",
+     "occurrences": "all",
+     "academic": "knowledge of all bases",
+     "children": "knowing every foundation",
+     "basis": "style-sheet",
+     "reason": "Policy 21 and core row."
+    }
+   ]
+  },
+  {
+   "term_id": "T188",
+   "bo": "སྐྱེ་མཆེད",
+   "sanskrit": "āyatana",
+   "senses": [
+    {
+     "sense": "sense base",
+     "occurrences": "all",
+     "academic": "sense base",
+     "children": "sense door",
+     "basis": "gm",
+     "reason": "Gemini sense bases; DharmaMitra sense sources; children's plain phrase is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T201",
+   "bo": "རིན་ཆེན་གླིང",
+   "sanskrit": "ratnadvīpa",
+   "senses": [
+    {
+     "sense": "jewel island",
+     "occurrences": "all",
+     "academic": "jewel island",
+     "children": "jewel island",
+     "basis": "both",
+     "reason": "Both machines use \"jewel island\" as a common noun."
+    }
+   ]
+  },
+  {
+   "term_id": "T214",
+   "bo": "རྐྱེན",
+   "sanskrit": "pratyaya",
+   "senses": [
+    {
+     "sense": "condition",
+     "occurrences": "all",
+     "academic": "condition",
+     "children": "helping cause",
+     "basis": "both",
+     "reason": "Both machines agree on conditions; children's plain phrase is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T227",
+   "bo": "མཐར་གྱིས་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "gradual path",
+     "occurrences": "all",
+     "academic": "gradual path",
+     "children": "step-by-step path",
+     "basis": "dm",
+     "reason": "DharmaMitra twice; Gemini \"approach\" or \"training\" is varied; children's new."
+    }
+   ]
+  },
+  {
+   "term_id": "T240",
+   "bo": "ཀླུ་དབང",
+   "sanskrit": "nāgapati",
+   "senses": [
+    {
+     "sense": "nāga king",
+     "occurrences": "all",
+     "academic": "nāga king",
+     "children": "serpent king",
+     "basis": "gm",
+     "reason": "Gemini keeps nāga (policy 33); children's avoids Sanskrit, so new."
+    }
+   ]
+  },
+  {
+   "term_id": "T253",
+   "bo": "གཏོང་བ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "giving",
+     "occurrences": "all",
+     "academic": "giving",
+     "children": "giving",
+     "basis": "gm",
+     "reason": "Gemini giving keeps it apart from སྦྱིན་པ generosity; DharmaMitra generosity not used."
+    }
+   ]
+  },
+  {
+   "term_id": "T266",
+   "bo": "འདུས་མ་བྱས་ཁམས",
+   "sanskrit": "asaṃskṛtadhātu",
+   "senses": [
+    {
+     "sense": "unconditioned realm",
+     "occurrences": "all",
+     "academic": "unconditioned realm",
+     "children": "realm not made by causes",
+     "basis": "style-sheet",
+     "reason": "Policy 41 gives unconditioned realm; children's builds on core rows."
+    }
+   ]
+  },
+  {
+   "term_id": "T279",
+   "bo": "བདུད་ཀྱི་ཕྱོགས",
+   "sanskrit": "mārapakṣa",
+   "senses": [
+    {
+     "sense": "factions of Māra",
+     "occurrences": "all",
+     "academic": "factions of Māra",
+     "children": "Mara's side",
+     "basis": "style-sheet",
+     "reason": "Policy 26 pattern; children's Mara without diacritic, plain \"side\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T292",
+   "bo": "སྐུ་གདུང",
+   "sanskrit": "śarīra",
+   "senses": [
+    {
+     "sense": "bodily relic",
+     "occurrences": "all",
+     "academic": "bodily relic",
+     "children": "relic",
+     "basis": "both",
+     "reason": "Both machines say bodily relics; children's drops \"bodily\" for plain wording."
+    }
+   ]
+  },
+  {
+   "term_id": "T305",
+   "bo": "སྲོག་ཆགས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "creature",
+     "occurrences": "all",
+     "academic": "creature",
+     "children": "creature",
+     "basis": "gm",
+     "reason": "Gemini creatures; DharmaMitra's sentient beings would clash with སེམས་ཅན."
+    }
+   ]
+  },
+  {
+   "term_id": "T318",
+   "bo": "རྣམ་པ",
+   "sanskrit": "ākāra",
+   "senses": [
+    {
+     "sense": "aspect",
+     "occurrences": "all",
+     "academic": "aspect",
+     "children": "way",
+     "basis": "gm",
+     "reason": "Gemini aspect fits \"omniscience of all aspects\"; DharmaMitra \"nature\" not used; children's way."
+    }
+   ]
+  },
+  {
+   "term_id": "T331",
+   "bo": "སྒྲ་གཅན",
+   "sanskrit": "rāhu",
+   "senses": [
+    {
+     "sense": "Rāhu",
+     "occurrences": "all",
+     "academic": "Rahu",
+     "children": "Rahu",
+     "basis": "style-sheet",
+     "reason": "Policy 30: proper name, IAST for academic and none for children's."
+    }
+   ]
+  },
+  {
+   "term_id": "T344",
+   "bo": "མདོ",
+   "sanskrit": "sūtra",
+   "senses": [
+    {
+     "sense": "sūtra",
+     "occurrences": "all",
+     "academic": "sūtra",
+     "children": "scripture",
+     "basis": "both",
+     "reason": "Both machines keep sūtra; children's register bans Sanskrit so plain \"scripture\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T357",
+   "bo": "དགྲ་བཅོམ་དེ་བཞིན་ཉིད",
+   "sanskrit": "arhattathatā",
+   "senses": [
+    {
+     "sense": "suchness of the arhats",
+     "occurrences": "all",
+     "academic": "suchness of an arhat",
+     "children": "the way things really are for worthy ones",
+     "basis": "style-sheet",
+     "reason": "Compound of core rows suchness and arhat; policy 37."
+    }
+   ]
+  },
+  {
+   "term_id": "T370",
+   "bo": "དད་ལྡན",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "endowed with faith",
+     "occurrences": "all",
+     "academic": "endowed with faith",
+     "children": "full of trust",
+     "basis": "both",
+     "reason": "Both machines say endowed with faith; children's faith is trust."
+    }
+   ]
+  },
+  {
+   "term_id": "T383",
+   "bo": "གོ་ཆ་གྱོན",
+   "sanskrit": "saṃnāha",
+   "senses": [
+    {
+     "sense": "don armor",
+     "occurrences": "all",
+     "academic": "don armor",
+     "children": "put on armor",
+     "basis": "both",
+     "reason": "Both machines say don the armor; American spelling (policy 52); children's plainer verb."
+    }
+   ]
+  },
+  {
+   "term_id": "T396",
+   "bo": "ཡོན་ཏན་རྒྱ་མཚོ",
+   "sanskrit": "guṇasāgara",
+   "senses": [
+    {
+     "sense": "ocean of qualities",
+     "occurrences": "all",
+     "academic": "ocean of qualities",
+     "children": "ocean of good qualities",
+     "basis": "both",
+     "reason": "Both machines agree; ཡོན་ཏན is quality by policy 46."
+    }
+   ]
+  },
+  {
+   "term_id": "T409",
+   "bo": "རྣམ་རྟོག",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "conceptual thought",
+     "occurrences": "all",
+     "academic": "conceptual thought",
+     "children": "busy thought",
+     "basis": "dm",
+     "reason": "DharmaMitra conceptual thoughts matches non-conceptual of policy 48; Gemini discursive not used."
+    }
+   ]
+  },
+  {
+   "term_id": "T422",
+   "bo": "བདེན་པའི་བྱིན་གྱིས་བརླབས",
+   "sanskrit": "satyādhiṣṭhāna",
+   "senses": [
+    {
+     "sense": "blessing of truth",
+     "occurrences": "all",
+     "academic": "blessing of truth",
+     "children": "blessing of truth",
+     "basis": "both",
+     "reason": "Both machines give blessing of truth; everyday words for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T435",
+   "bo": "བསྒྲུབ་པའི་ས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "stage of accomplishment",
+     "occurrences": "all",
+     "academic": "stage of accomplishment",
+     "children": "level of accomplishment",
+     "basis": "style-sheet",
+     "reason": "Policy 42: ས is stage, children's level; Gemini stage, DharmaMitra ground not used."
+    }
+   ]
+  },
+  {
+   "term_id": "T448",
+   "bo": "སྦྱིན་གནས",
+   "sanskrit": "dakṣiṇīya",
+   "senses": [
+    {
+     "sense": "worthy recipient",
+     "occurrences": "all",
+     "academic": "object of offering",
+     "children": "worthy recipient",
+     "basis": "dm",
+     "reason": "DharmaMitra objects of offering for academic; children's plain phrase is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T461",
+   "bo": "དམ་བཅས",
+   "sanskrit": "pratijñā",
+   "senses": [
+    {
+     "sense": "commitment",
+     "occurrences": "all",
+     "academic": "commitment",
+     "children": "promise",
+     "basis": "dm",
+     "reason": "DharmaMitra commitments; Gemini promises used for children's plain register."
+    }
+   ]
+  },
+  {
+   "term_id": "T474",
+   "bo": "ལྟ་བ་དྲུག་ཅུ་གཉིས",
+   "sanskrit": "dvāṣaṣṭidṛṣṭi",
+   "senses": [
+    {
+     "sense": "sixty-two views",
+     "occurrences": "all",
+     "academic": "sixty-two views",
+     "children": "sixty-two views",
+     "basis": "both",
+     "reason": "Both machines give sixty-two views."
+    }
+   ]
+  },
+  {
+   "term_id": "T487",
+   "bo": "སངས་རྒྱས་མཛད་པ",
+   "sanskrit": "buddhakārya",
+   "senses": [
+    {
+     "sense": "deed of a Buddha",
+     "occurrences": "all",
+     "academic": "deed of a Buddha",
+     "children": "Buddha's deed",
+     "basis": "style-sheet",
+     "reason": "Both machines give deeds; policy 29 capitalises Buddha."
+    }
+   ]
+  },
+  {
+   "term_id": "T500",
+   "bo": "ཕན་མཛད",
+   "sanskrit": "hitaṃkara",
+   "senses": [
+    {
+     "sense": "benefactor",
+     "occurrences": "all",
+     "academic": "benefactor",
+     "children": "helper",
+     "basis": "dm",
+     "reason": "DharmaMitra benefactors; Gemini's phrase is wordy; children's plain helper is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T513",
+   "bo": "བྱིས་པའི་ཆོས",
+   "sanskrit": "bāladharma",
+   "senses": [
+    {
+     "sense": "qualities of the foolish",
+     "occurrences": "all",
+     "academic": "qualities of the foolish",
+     "children": "ways of the unwise",
+     "basis": "dm",
+     "reason": "DharmaMitra qualities of the foolish; Gemini dharmas not used (policy 9); children's new."
+    }
+   ]
+  },
+  {
+   "term_id": "T526",
+   "bo": "རོ",
+   "sanskrit": "rasa",
+   "senses": [
+    {
+     "sense": "taste",
+     "occurrences": "all",
+     "academic": "taste",
+     "children": "taste",
+     "basis": "both",
+     "reason": "Both machines say tastes; one of the five sense objects."
+    }
+   ]
+  },
+  {
+   "term_id": "T539",
+   "bo": "ཕན་པ་མཛད་པ",
+   "sanskrit": "hitaṃkara",
+   "senses": [
+    {
+     "sense": "Benefactor",
+     "occurrences": "all",
+     "academic": "Benefactor",
+     "children": "Benefactor",
+     "basis": "both",
+     "reason": "Both machines capitalise Benefactor as an epithet of the Buddha (policy 27)."
+    }
+   ]
+  },
+  {
+   "term_id": "T552",
+   "bo": "དགེ་བའི་ལས་ལམ་བཅུ",
+   "sanskrit": "kuśalakarmapatha",
+   "senses": [
+    {
+     "sense": "ten paths of virtuous action",
+     "occurrences": "all",
+     "academic": "ten paths of virtuous action",
+     "children": "ten paths of good action",
+     "basis": "both",
+     "reason": "Both machines give ten paths of virtuous action; children's follows virtue as goodness."
+    }
+   ]
+  },
+  {
+   "term_id": "T565",
+   "bo": "ཡི་དགས་གནས",
+   "sanskrit": "pretabhava",
+   "senses": [
+    {
+     "sense": "realm of hungry ghosts",
+     "occurrences": "all",
+     "academic": "realm of hungry ghosts",
+     "children": "realm of hungry ghosts",
+     "basis": "both",
+     "reason": "Both machines agree; ཡི་དགས is hungry ghost (policy 49), realm for place."
+    }
+   ]
+  },
+  {
+   "term_id": "T578",
+   "bo": "བཻḍūརྱ",
+   "sanskrit": "vaiḍūrya",
+   "senses": [
+    {
+     "sense": "lapis lazuli",
+     "occurrences": "all",
+     "academic": "lapis lazuli",
+     "children": "lapis lazuli",
+     "basis": "both",
+     "reason": "Policy 38 reads the garbled entry as lapis lazuli; both machines agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T591",
+   "bo": "ཆོས་ཀྱི་སྐུ",
+   "sanskrit": "dharmakāya",
+   "senses": [
+    {
+     "sense": "Dharmakāya",
+     "occurrences": "all",
+     "academic": "Dharmakāya",
+     "children": "teaching body",
+     "basis": "style-sheet",
+     "reason": "Policy 10: Dharmakāya kept; children's no Sanskrit, ཆོས as teaching."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+source     : 1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md
+target     : english (en)   focus=tibetan
+track      : 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries
+blocks     : 323 total, 290 already in ledger, 33 to do
+batching   : 31 calls for 33 blocks (<=3 blocks, <=900 chars, <=32 lines per call)
+[1/31] ^2-286  (1 blk, 326 src, 3533 payload) …     ! attempt 1/6 failed ('latin-1' codec can't encode character '\u2026' in position 0: ordinal not in range(256)); retrying in 2s
+    ! attempt 2/6 failed ('latin-1' codec can't encode character '\u2026' in position 0: ordinal not in range(256)); retrying in 4s
+    ! attempt 3/6 failed ('latin-1' codec can't encode character '\u2026' in position 0: ordinal not in range(256)); retrying in 8s
+    ! attempt 4/6 failed ('latin-1' codec can't encode character '\u2026' in position 0: ordinal not in range(256)); retrying in 16s
+    ! attempt 5/6 failed ('latin-1' codec can't encode character '\u2026' in position 0: ordinal not in range(256)); retrying in 32s
+
+STOPPED at ^2-286: cat-translate failed after 6 attempts: 'latin-1' codec can't encode character '\u2026' in position 0: ordinal not in range(256)
+Ledger is intact; nothing done so far is lost. Resume with the same command (already-translated blocks are skipped), or raise --sleep.
+
+wrote 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-rangjung-dorje-tika-en.md  (290/323 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/work/bo-rangjung-dorje-tika-en.jsonl
+calls  31 planned for 33 blocks; 0 blocks translated
+note   run stopped early at ^2-286; re-run to resume
+source     : 1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md
+target     : english (en)   mode=headings
+track      : 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries
+headings   : 317 total, 0 already in ledger, 317 to do
+batching   : 22 calls for 317 headings (<=15 per call)
+[1/22] ^1-0 … ^2-4-1-1-2-2-1-0  མདོ་འབྱུང་བའི་རྒྱུ་གླེང་གཞི་ཕུན་སུམ་ཚོགས …     ! attempt 1/6 failed ('latin-1' codec can't encode character '\u2026' in position 0: ordinal not in range(256)); retrying in 2s
+    ! attempt 2/6 failed ('latin-1' codec can't encode character '\u2026' in position 0: ordinal not in range(256)); retrying in 4s
+    ! attempt 3/6 failed ('latin-1' codec can't encode character '\u2026' in position 0: ordinal not in range(256)); retrying in 8s
+    ! attempt 4/6 failed ('latin-1' codec can't encode character '\u2026' in position 0: ordinal not in range(256)); retrying in 16s
+    ! attempt 5/6 failed ('latin-1' codec can't encode character '\u2026' in position 0: ordinal not in range(256)); retrying in 32s
+
+STOPPED at ^1-0: cat-translate failed after 6 attempts: 'latin-1' codec can't encode character '\u2026' in position 0: ordinal not in range(256)
+
+wrote 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-rangjung-dorje-tika-en.md  (0 heading(s) translated this run)
+JOB DONE 2026-10-04 15:05:38
+source     : 1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md
+target     : english (en)   focus=tibetan
+track      : 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries
+blocks     : 323 total, 290 already in ledger, 33 to do
+batching   : 31 calls for 33 blocks (<=3 blocks, <=900 chars, <=32 lines per call)
+[1/31] ^2-286  (1 blk, 326 src, 3533 payload) … 2.9s  From the passage beginning with "If some sentient be
+[2/31] ^2-287  (1 blk, 378 src, 2462 payload) … 3.3s  Thus it is said. From the passage beginning with "Bo
+[3/31] ^2-288  (1 blk, 13 src, 3049 payload) … 2.2s  Thus it is said.
+[4/31] ^2-289  (1 blk, 529 src, 3565 payload) … 3.4s  From the passage beginning with "Thinking, 'I shall 
+[5/31] ^2-290  (1 blk, 373 src, 3851 payload) … 4.0s  Thus it is said. From the passage beginning with "wh
+[6/31] ^2-291  (1 blk, 13 src, 3391 payload) … 1.2s  Thus it is said.
+[7/31] ^2-292  (1 blk, 457 src, 3835 payload) … 3.0s  From the passage beginning with "By ethical discipli
+[8/31] ^2-293  (1 blk, 449 src, 3795 payload) … 3.0s  Thus it is said. From the passage beginning with "If
+[9/31] ^2-294  (1 blk, 22 src, 3616 payload) … 2.1s  Thus it is said. As for "Whatever dharma,"
+[10/31] ^2-295  (1 blk, 386 src, 2857 payload) … 4.2s  From the passage beginning with "Whatever dharma" up
+[11/31] ^2-296  (1 blk, 922 src, 4437 payload) … 4.2s  Thus it is said. From the passage beginning with "If
+[12/31] ^2-297  (1 blk, 13 src, 3489 payload) … 1.4s  Thus it is said.
+[13/31] ^2-298  (1 blk, 468 src, 4048 payload) … 3.0s  From the passage beginning with "guarding ethical di
+[14/31] ^2-299  (1 blk, 975 src, 3404 payload) … 6.2s  Thus it is said. From the passage beginning with "If
+[15/31] ^2-300  (1 blk, 13 src, 3597 payload) … 1.4s  Thus it is said.
+[16/31] ^2-301  (1 blk, 697 src, 1929 payload) … 3.8s  From "a pure mind" up to "there is no basis": furthe
+[17/31] ^2-302  (1 blk, 444 src, 3422 payload) … 8.3s  Thus it is said. From "perceiving a self" up to "at 
+[18/31] ^2-303  (1 blk, 13 src, 2263 payload) … 2.5s  It is said:
+[19/31] ^2-304  (1 blk, 467 src, 2816 payload) … 3.1s  From "at that time the bodhisattva" up to "it is not
+[20/31] ^2-305  (1 blk, 385 src, 3902 payload) … 3.6s  It is said: From "the bodhisattva" up to "dedicate t
+[21/31] ^2-306  (1 blk, 689 src, 4071 payload) … 3.9s  It is said: From "having given a gift" up to "seekin
+[22/31] ^2-307,^2-308  (2 blk, 725 src, 3890 payload) … 8.2s  It is said: From "bodhisattva" up to "outshine," fur
+[23/31] ^2-309  (1 blk, 1182 src, 4057 payload) … 6.8s  From "If a bodhisattva" up to "like the waxing moon,
+[24/31] ^2-310  (1 blk, 28 src, 1158 payload) … 2.6s  It is said: "The bodhisattva..."
+[25/31] ^2-311  (1 blk, 1837 src, 3100 payload) … 7.7s  From the phrase "of the" up to the phrase "will trul
+[26/31] ^2-312,^2-313  (2 blk, 639 src, 2133 payload) … 3.5s  The second point, explaining the common result, is a
+[27/31] ^2-314  (1 blk, 463 src, 3270 payload) … 3.1s  It is said: In this way, having perfected the result
+[28/31] ^2-315  (1 blk, 516 src, 3470 payload) … 2.8s  It is said: From the phrase "he who acts to heal the
+[29/31] ^2-316  (1 blk, 387 src, 4040 payload) … 3.1s  It is said: It is like the precious wish-fulfilling 
+[30/31] ^2-317  (1 blk, 1243 src, 4602 payload) … 4.6s  It is said: In the *Ocean of the Perfection of Wisdo
+[31/31] ^2-318  (1 blk, 965 src, 2095 payload) … 6.0s  Thus, the Blessed One, the Great Lion, from the vast
+
+wrote 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-rangjung-dorje-tika-en.md  (323/323 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/work/bo-rangjung-dorje-tika-en.jsonl
+calls  31 planned for 33 blocks; 33 blocks translated
+note   2 block(s) where the translation's line count differs from the source's (id: source→output): ^2-312: 1→6, ^2-318: 1→24
+source     : 1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md
+target     : english (en)   mode=headings
+track      : 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries
+headings   : 317 total, 0 already in ledger, 317 to do
+batching   : 22 calls for 317 headings (<=15 per call)
+[1/22] ^1-0 … ^2-4-1-1-2-2-1-0  མདོ་འབྱུང་བའི་རྒྱུ་གླེང་གཞི་ཕུན་སུམ་ཚོགས … 3.3s  The perfect narrative context as the cause for the arising o
+[2/22] ^2-4-1-1-2-2-2-0 … ^2-4-1-1-3-2-1-2-0  **ཡང་དག་པ།** … 2.9s  Authenticity
+[3/22] ^2-4-1-1-3-2-2-0 … ^2-4-1-2-1-2-2-0  **ཤེས་རབ་ཀྱི་སྒྲ་དོན།** … 2.4s  The literal meaning of wisdom
+[4/22] ^2-4-1-2-1-2-3-0 … ^2-4-1-2-3-2-1-0  **དེ་ལྟར་ཟུང་འཇུག་སློབ་པ་ལ་བསྔགས་པའི་གང་ … 2.1s  The person who is praised for training in union
+[5/22] ^2-4-1-2-3-2-1-1-0 … ^2-4-1-2-3-3-2-1-0  **དོན་དགོད་པ།** … 3.7s  Establishing the contextual meaning
+[6/22] ^2-4-1-2-3-3-2-2-0 … ^2-4-1-2-4-1-0  **དེ་བསྒྲུབ་པ།** … 2.1s  Accomplishing that
+[7/22] ^2-4-1-2-4-1-1-0 … ^2-4-1-3-1-2-2-0  **དངོས་པོ་ཡུམ་ཉིད་ཆོས་ཀྱི་མིག་ཡིན་པ།** … 2.6s  The Mother itself as the eye of the Dharma.
+[8/22] ^2-4-1-3-1-2-2-1-0 … ^2-4-1-3-1-3-2-4-0  **གནག་རྫིའི་དཔེ་བསྟན་པ།** … 3.2s  Teaching the analogy of the cowherd.
+[9/22] ^2-4-1-3-1-3-3-0 … ^2-4-1-3-1-4-2-2-1-1-0  **བར་ཆད་མང་བའི་རྒྱུ་བསྟན་པ།** … 2.4s  Showing the causes of many obstacles
+[10/22] ^2-4-1-3-1-4-2-2-1-2-0 … ^2-4-1-3-1-5-1-3-0  **རྒྱས་པར་བཤད་པ།** … 3.3s  Detailed explanation
+[11/22] ^2-4-1-3-1-5-2-0 … ^2-4-1-3-2-2-1-0  **དེ་ཉེ་བར་སྟོན་པའི་དོན།** … 2.2s  The meaning of demonstrating it.
+[12/22] ^2-4-1-3-2-2-2-0 … ^2-4-1-3-2-5-1-2-2-2-0  **དེས་བཟློག་པ།** … 2.8s  Reversal by that
+[13/22] ^2-4-1-3-2-5-1-3-0 … ^2-4-1-3-2-5-3-2-8-0  **ཟབ་མོ་སྤྱོད་པའི་ཆེ་བ།** … 3.5s  The greatness of profound conduct
+[14/22] ^2-4-1-3-2-5-3-3-0 … ^2-4-1-3-3-3-1-0  **རྒྱུ་འབྲས་གཉིས་ཀའི་སྒོ་ནས་མཇུག་བསྡུ་བ། … 2.0s  Conclusion by way of both cause and result
+[15/22] ^2-4-1-3-3-3-2-0 … ^2-4-1-3-3-5-3-0  **བསྟེན་བྱ་ངོས་བཟུང་བ།** … 3.8s  Identifying the object to be relied upon.
+[16/22] ^2-4-1-3-3-5-3-1-0 … ^2-4-1-3-4-2-2-0  **བསྒྲུབ་པ་གཞན་ཟིལ་གྱིས་གནོན་པ།** … 2.3s  Outshining the practice of others
+[17/22] ^2-4-1-3-4-2-3-0 … ^2-4-1-3-5-3-2-1-0  **ཤིང་གི་སྐྱེས་བུའི་དཔེ།** … 2.8s  The Analogy of the Tree-like Person
+[18/22] ^2-4-1-3-5-3-2-2-0 … ^2-4-2-2-0  **བརྒྱུད་ལས་འཕེལ་འགྲིབ་མེད་པ།** … 3.2s  Non-increase and non-decrease through the lineage
+[19/22] ^2-4-2-2-1-0 … ^2-4-2-3-1-0  ཆེད་དུ་སྦྱོར་བ་གཞན་དོན། … 2.5s  Application for the sake of others
+[20/22] ^2-4-2-3-1-1-0 … ^2-4-2-4-2-2-0  **ངོ་བོ།** … 2.4s  Essence
+[21/22] ^2-4-2-4-3-0 … ^2-4-3-1-0  བསྔོ་བ་ཡོད་མེད་ཀྱི་སྒོ་ནས་དམན་པ་དང་མཆོག་ … 6.3s  Showing the inferior and the supreme by way of the presence 
+[22/22] ^2-4-3-2-0 … ^2-5-0  ཐུན་མོང་གི་འབྲས་བུ་བསྟན་པ། … 1.6s  Explanation of the common results
+
+wrote 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-rangjung-dorje-tika-en.md  (317 heading(s) translated this run)
+JOB DONE 2026-10-04 15:12:53

@@ -1,0 +1,168 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "2-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "A bodhisattva of awakening",
+     "evidence": "The Tibetan has only \"བྱང་ཆུབ་སེམས་དཔའ\" (locked: bodhisattva); \"of awakening\" splits the term and adds words that are not in the Tibetan (Sanskrit \"bodhisattvo\"; bo-mipham 2-50 \"བྱང་ཆུབ་སེམས་དཔ་དམིགས་པ་ཅན\").",
+     "fix": "A bodhisattva who thoroughly conceptualizes the perception of sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "2-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-54",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "indivisible and inseparable",
+     "evidence": "Tibetan \"དབྱེར་མེད་གཅད་དུ་མེད\" has two distinct terms: དབྱེར་མེད (indivisible, locked) and གཅད་དུ་མེད (cannot be cut off or distinguished). bo-rangjung 2-54: \"དབྱེར་མེད་ཅིང་བློས་ཀྱང་ཐ་དད་དུ་གཅད་དུ་མེད\" (cannot be conceptually separated as different). \"Inseparable\" duplicates \"indivisible\" and loses the second term.",
+     "fix": "indivisible and not to be cut apart (as different)"
+    }
+   ]
+  },
+  {
+   "id": "3-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "yet do not attain liberation",
+     "evidence": "Tibetan \"རྣམ་པར་གྲོལ་བའང་མིན\" means they are not (one-sidedly) liberated; bo-mipham 3-1 and bo-rangjung 3-1 gloss it as not being liberated into the one-sided nirvāṇa of the śrāvakas (\"ཉན་ཐོས་ལྟར་སྲིད་པ་ལས་རྣམ་པར་གྲོལ་བའི་མྱང་འདས་ཕྱོགས་གཅིག་པ\"). The English can be read as bodhisattvas never attaining liberation.",
+     "fix": "yet they are not liberated (as the śrāvakas are, into a one-sided nirvāṇa)"
+    }
+   ]
+  },
+  {
+   "id": "3-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Sees cowherds and excellent forests at the boundary",
+     "evidence": "Tibetan \"གནག་རྫི་མཚམས་ཀྱི་ནགས་ཚལ་ཕུན་སུམ་ཚོགས\" is one phrase: excellent forests at the cowherds' boundary (Skt gopāla-sīma-vana-sampad). bo-mipham 4-3: \"གནག་རྫི་རྣམས་གནས་པ་དགོན་པ་དང་གྲོང་གིས་མཚམས་སུ་གྱུར་པ་ཉིད་ཀྱི་ནགས་ཚལ\" (forests at the boundary between wilderness and village where cowherds live). The English makes cowherds a separate thing seen.",
+     "fix": "Sees the excellent forests at the cowherds' boundary"
+    }
+   ]
+  },
+  {
+   "id": "4-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "They are not on the stage of an arhat, nor the stage of a pratyekabuddha.",
+     "evidence": "Skt \"na ca tasya trāso nārhantabhūmi na pi pratyayabuddhabhūmī\" and bo-mipham 4-3: \"དགྲ་བཅོམ་པའི་ས་ལ་ལྷུང་བ་མ་ཡིན་རྐྱེན་རྟོགས་ཀྱི་ས་ལའང་ལྷུང་བ་མིན\" (they do not fall to the stage of an arhat or pratyekabuddha); bo-rangjung 4-3 glosses it as the fear of falling to the śrāvaka/pratyekabuddha stage being absent. The English reads as a plain statement of present stage.",
+     "fix": "They do not fall to the stage of an arhat, nor to the stage of a pratyekabuddha."
+    }
+   ]
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Sees trees, forests, and mountains, it is still far away;",
+     "evidence": "Tibetan \"གལ་ཏེ་ཤིང་དང་ནགས་ཚལ་རི་མཐོང་ད་དུང་རིང\" has the traveller seeing trees etc. and (knowing) the ocean is still far; bo-mipham 4-5: \"ད་དུང་རྒྱ་མཚོ་དང་རིང་བར་ཤེས་ཏེ\". The English has no subject for the judgment, so the clause is hard to parse.",
+     "fix": "Sees trees, forests, and mountains, they know it is still far away;"
+    }
+   ]
+  },
+  {
+   "id": "4-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "the Guides",
+     "evidence": "Tibetan \"རྣམ་པར་འདྲེན་པས\" has no plural marker; Skt \"nāyakena\" is singular; bo-mipham 4-5 and bo-khenrab 4-6 have a single Guide (the Buddha) giving the prophecy. The locked rendering is \"Guide\".",
+     "fix": "the Guide"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Even if they have not received a direct prophecy from the Guides, \"Before long, I will touch the awakening of a Buddha.\"",
+     "evidence": "Tibetan \"སངས་རྒྱས་བྱང་ཆུབ་རིང་པོར་མི་ཐོགས་བདག་རེག་འགྱུར\" is the main clause of the concessive \"མ་གྱུར་ཀྱང\". bo-rangjung 4-5 and bo-khenrab 4-6 supply \"སྙམ་དུ་ཤེས/བལྟའོ\" (they think/know \"I will touch...\"). The English leaves a quotation with no governing verb, so it dangles after the \"Even if\" clause.",
+     "fix": "Even if they have not received a direct prophecy from the Guide, they know: \"Before long, I will touch the awakening of a Buddha.\""
+    }
+   ]
+  },
+  {
+   "id": "4-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-9",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "2-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "求菩提之菩薩",
+     "evidence": "Tibetan has only བྱང་ཆུབ་སེམས་དཔའ་ (locked: 菩薩), a single term for 'bodhisattva'; 'seeking awakening' is not a separate word in the Tibetan or in Sanskrit bodhisattvo.",
+     "fix": "遍計有情想之菩薩"
+    }
+   ]
+  },
+  {
+   "id": "2-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "「我不久將觸證佛菩提」",
+     "evidence": "The quoted clause སངས་རྒྱས་བྱང་ཆུབ་རིང་པོར་མི་ཐོགས་བདག་རེག་འགྱུར་ is left without a governing verb, so it hangs after the semicolon. bo-khenrab 4-6 reads it as the person's own knowledge: 'བདག་གིས་རེག་པའམ་ཐོབ་པར་འགྱུར་རོ་སྙམ་དུ་ཤེས་ཏེ' (knows 'I will touch/attain...').",
+     "fix": "縱然未獲導師現前授記，亦知「我不久將觸證佛菩提」。"
+    }
+   ]
+  },
+  {
+   "id": "4-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-9",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

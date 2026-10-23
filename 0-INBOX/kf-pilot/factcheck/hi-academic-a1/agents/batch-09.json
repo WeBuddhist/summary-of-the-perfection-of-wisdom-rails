@@ -1,0 +1,121 @@
+{
+ "batch": "batch-09",
+ "segments": [
+  {
+   "id": "4-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-76",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "ऐसा अहङ्कार नहीं होता",
+     "evidence": "Tibetan 'རློམ་སེམས་མེད' (rlom sems med) renders the concept the glossary locks as 'अभिमान' (used for རློམ་སེམས in 4-70); 'अहङ्कार' is a different term and breaks consistency across the text. Mipham 4-70 glosses it as conceit/presumption (རློམ་པའི་སེམས).",
+     "fix": "उनमें ऐसा अभिमान नहीं होता"
+    }
+   ]
+  },
+  {
+   "id": "4-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-83",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "जगत् के प्राणियों में सत्त्वों को जानने वाले प्रणिधान के आश्रय से",
+     "evidence": "Tibetan 'འགྲོ་ལ་སེམས་ཅན་ཤེས་པའི་སྨོན་ལམ་རྟེན་ཅན་གྱིས'. Mipham 4-83 ('འགྲོ་བ་རྣམས་ལ་སེམས་ཅན་གྱི་ཐ་སྙད་དང་དོན་དམ་པའི་རང་བཞིན་ཤེས་པའི...སྨོན་ལམ') and Rangjung 4-82 ('འགྲོ་བ་ལ་སེམས་ཅན་གྱི་རང་བཞིན་ཤེས་ན...སྨོན་ལམ') show the sense: for beings, an aspiration grounded in knowing the nature of sentient beings. The Hindi 'प्राणियों में सत्त्वों को' is redundant and hard to parse.",
+     "fix": "जगत् के प्राणियों के प्रति, सत्त्वों के स्वभाव को जानने वाले प्रणिधान के आश्रय से"
+    }
+   ]
+  },
+  {
+   "id": "4-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-89",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

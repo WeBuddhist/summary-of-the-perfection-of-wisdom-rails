@@ -1,0 +1,149 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "0",
+   "terms": [
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྡུད་པ་ཚིགས་སུ་བཅད་པ",
+     "dm": "The Verse Summary of the Perfection of Wisdom",
+     "gm": "The Verse Summary of the Perfection of Wisdom"
+    },
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "Perfection of Wisdom",
+     "gm": "Perfection of Wisdom"
+    }
+   ]
+  },
+  {
+   "id": "0-1",
+   "terms": [
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྡུད་པ་ཚིགས་སུ་བཅད་པ",
+     "dm": "The Verse Summary of the Perfection of Wisdom",
+     "gm": "The Verse Summary of the Perfection of Wisdom"
+    },
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "Perfection of Wisdom",
+     "gm": "Perfection of Wisdom"
+    }
+   ]
+  },
+  {
+   "id": "0-0",
+   "terms": []
+  },
+  {
+   "id": "0-2",
+   "terms": [
+    {
+     "bo": "ཨཱརྻ་པྲཛྙཱ་པ་ར་མི་ཏཱ་སཉྩ་ཡ་གཱ་ཐཱ",
+     "dm": "Ārya-prajñāpāramitā-sañcayagāthā",
+     "gm": "Āryaprajñāpāramitāsañcayagāthā"
+    },
+    {
+     "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྡུད་པ་ཚིགས་སུ་བཅད་པ",
+     "dm": "'Phags pa shes rab kyi pha rol tu phyin pa sdud pa tshigs su bcad pa",
+     "gm": "The Noble Verse Summary of the Perfection of Wisdom"
+    },
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": null,
+     "gm": "Perfection of Wisdom"
+    },
+    {
+     "bo": "འཕགས་པ་འཇམ་དཔལ",
+     "dm": "Noble Mañjuśrī",
+     "gm": "noble Mañjuśrī"
+    },
+    {
+     "bo": "འཇམ་དཔལ",
+     "dm": "Mañjuśrī",
+     "gm": "Mañjuśrī"
+    }
+   ]
+  },
+  {
+   "id": "0-3",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན་འདས",
+     "dm": "Blessed One",
+     "gm": "Blessed One"
+    },
+    {
+     "bo": "འཁོར་བཞི་པོ",
+     "dm": "four assemblies",
+     "gm": "four assemblies"
+    },
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "ཚིགས་སུ་བཅད་པ",
+     "dm": "verses",
+     "gm": "verses"
+    }
+   ]
+  },
+  {
+   "id": "0-4",
+   "terms": [
+    {
+     "bo": "དགའ་",
+     "dm": "joy",
+     "gm": "joy"
+    },
+    {
+     "bo": "གུས་",
+     "dm": "respect",
+     "gm": "respect"
+    },
+    {
+     "bo": "དད་པ",
+     "dm": "faith",
+     "gm": "faith"
+    },
+    {
+     "bo": "སྒྲིབ་པ",
+     "dm": "obscurations",
+     "gm": "obscurations"
+    },
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "དྲི་མ",
+     "dm": "stains",
+     "gm": "stains"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "འགྲོ་དོན",
+     "dm": "welfare of beings",
+     "gm": "benefit of beings"
+    },
+    {
+     "bo": "དཔའ་རྣམས",
+     "dm": "heroic ones",
+     "gm": "heroes"
+    },
+    {
+     "bo": "སྤྱོད་པ",
+     "dm": "conduct",
+     "gm": "practice"
+    }
+   ]
+  }
+ ]
+}

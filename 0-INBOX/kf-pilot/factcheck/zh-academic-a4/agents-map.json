@@ -1,0 +1,13 @@
+{
+ "session_dir": "/Users/tashitsering/.claude/projects/-Users-tashitsering-Desktop-work-Obsidian-KF-project/3603d884-eb7d-4373-b552-fe65ee7ea0e0",
+ "step": "factcheck",
+ "text": "ratnagunasancayagatha",
+ "lang": "zh",
+ "variant": "academic",
+ "attempt": 4,
+ "model": "sonnet",
+ "agents": {
+  "batch-01": "ada0a6817f632a7f5"
+ },
+ "note": "glossary fix 7-1, 8-1, 4-16"
+}

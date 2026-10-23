@@ -1,0 +1,239 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "2-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-27",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "But the shadows themselves are not really different from one another.",
+     "evidence": "Says there are no diverse shadows, nor any differences, except as a spoken number of shadows; the children's text drops the claim that varied shadows do not exist.",
+     "fix": "The trees have many kinds and shapes. But the shadows are not many different kinds. They are only counted and named as many."
+    }
+   ]
+  },
+  {
+   "id": "2-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-31",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "Sharing this perfection of wisdom is much better.",
+     "evidence": "The verse only says that the one who writes the text and gives it to a supreme being has far more merit; it does not generalize to 'sharing' as such.",
+     "fix": "The person who writes it down and gives it to a great person earns much more stored-up goodness."
+    }
+   ]
+  },
+  {
+   "id": "2-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-33",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "Without a tree, how could branches, leaves, flowers, and fruit ever appear?",
+     "evidence": "The question is: without a sprout, a tree never emerges, so how could branches, leaves, flowers and fruits emerge on it? The children's text replaces the sprout with the tree, losing the sprout-to-tree analogy for the wish to awaken.",
+     "fix": "If a tree has no sprout, it never grows in the world. Then how could branches, leaves, flowers, and fruit ever appear on it?"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "And without their awakening, how could the good fruits, like Shakra, Brahma, and the listeners, ever appear?",
+     "evidence": "The analogy is: without the mind of awakening (wish to awaken), a Victor does not emerge, so how could the fruits (Shakra, Brahma, listeners) emerge. The children's text swaps the wish to awaken for 'their awakening' and adds 'good'.",
+     "fix": "And without the wish to awaken, a Victorious One does not appear, so how could the fruits, like Shakra, Brahma, and the listeners, ever appear?"
+    }
+   ]
+  },
+  {
+   "id": "2-34",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "They do this to know true awakening.",
+     "evidence": "The text says only 'in order to know' (ཤེས་ཕྱིར); it names no object such as 'true awakening'.",
+     "fix": "They do this in order to know."
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "living beings gain every good quality and wonderful quality",
+     "evidence": "Sentient beings become endowed with qualities; 'every' overstates it and 'good quality and wonderful quality' doubles the one compound ཡོན་ཏན་ཆོས.",
+     "fix": "living beings come to have good qualities."
+    }
+   ]
+  },
+  {
+   "id": "2-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-38",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "But an awakening hero only needs a single thought to rejoice.",
+     "evidence": "The comparison is of merit: the shravakas' heap of merit cannot match a fraction of a bodhisattva's single mind of rejoicing. 'Only needs' turns the comparison into a claim about what the hero needs.",
+     "fix": "But compare this with the single thought of rejoicing of an awakening hero."
+    }
+   ]
+  },
+  {
+   "id": "2-39",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "billions of Buddhas from the past",
+     "evidence": "The Tibetan gives a vast number, tens of millions of hundreds of billions, so 'billions' understates it.",
+     "fix": "countless Buddhas from the past"
+    }
+   ]
+  },
+  {
+   "id": "2-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-44",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "seeing good things or any quality as something to hold onto",
+     "evidence": "Only the apprehension of virtuous (white) qualities (དཀར་པོའི་ཆོས) is likened to poisoned food; 'or any quality' widens it.",
+     "fix": "holding onto good things as something real to hold onto"
+    }
+   ]
+  },
+  {
+   "id": "2-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "You stay close to the Buddha.",
+     "evidence": "The text says one does not abandon the Buddha (སངས་རྒྱས་མི་སྤོང).",
+     "fix": "You do not abandon the Buddha."
+    }
+   ]
+  },
+  {
+   "id": "2-47",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "millions of blind people",
+     "evidence": "The Tibetan gives tens of millions of hundreds of billions of blind people; the number is understated.",
+     "fix": "countless blind people"
+    }
+   ]
+  },
+  {
+   "id": "2-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "An awakening hero seeking awakening who holds onto the idea of living beings is not practicing",
+     "evidence": "The bodhisattva who thinks 'I shall liberate many beings' is the one who conceptually constructs the perception of sentient beings; the children's text separates the thought from the fault and says 'Victorious One' for 'Victors'.",
+     "fix": "An awakening hero who thinks like this is building up an idea of living beings in their mind. This is not practicing the highest perfection, perfect wisdom."
+    }
+   ]
+  },
+  {
+   "id": "2-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-52",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

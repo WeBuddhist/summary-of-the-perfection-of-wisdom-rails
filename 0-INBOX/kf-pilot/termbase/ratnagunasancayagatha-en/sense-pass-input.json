@@ -1,0 +1,892 @@
+[
+ {
+  "term_id": "T002",
+  "bo": "ཆོས",
+  "agent_file": "agents/batch-02.json",
+  "current_entry": {
+   "term_id": "T002",
+   "bo": "ཆོས",
+   "sanskrit": "dharma",
+   "senses": [
+    {
+     "sense": "phenomena",
+     "occurrences": [
+      "1-3",
+      "1-5",
+      "1-6",
+      "1-7",
+      "1-10",
+      "1-11",
+      "1-12",
+      "1-25",
+      "1-26",
+      "1-27",
+      "2-4",
+      "2-7",
+      "2-8",
+      "2-21",
+      "2-26",
+      "2-29",
+      "2-30",
+      "2-32",
+      "2-34",
+      "2-39",
+      "2-40",
+      "2-43",
+      "2-44",
+      "2-49",
+      "3-5",
+      "4-2",
+      "4-9",
+      "4-16",
+      "4-17",
+      "4-19",
+      "4-24",
+      "4-27",
+      "4-30",
+      "4-48",
+      "4-49",
+      "4-51",
+      "4-52",
+      "4-58",
+      "4-59",
+      "4-62",
+      "4-64",
+      "4-65",
+      "4-66",
+      "4-67",
+      "4-69",
+      "4-70",
+      "4-75",
+      "4-91",
+      "5-1",
+      "5-15",
+      "5-43",
+      "5-54",
+      "5-57",
+      "5-61",
+      "5-88",
+      "5-95",
+      "5-102",
+      "6-4",
+      "7-1",
+      "8-1"
+     ],
+     "academic": "phenomena",
+     "children": "things",
+     "basis": "style-sheet",
+     "reason": "Style sheet policy 9, sense 2; machines attest phenomena. Unseen occurrences default here, check by context."
+    },
+    {
+     "sense": "the Buddha's teaching",
+     "occurrences": [
+      "1-2",
+      "2-5",
+      "2-36",
+      "4-98",
+      "5-96"
+     ],
+     "academic": "Dharma",
+     "children": "teaching",
+     "basis": "style-sheet",
+     "reason": "Style sheet policy 9, sense 1; occurrences judged from the segment texts shown."
+    }
+   ]
+  },
+  "occurrences": [
+   {
+    "id": "1-2",
+    "bo": "རྒྱལ་བའི་ཉན་ཐོས་པ་དག་ཇི་སྙེད་ཆོས་སྟོན་དང་། ། འཆད་དང་རིགས་པ་དག་དང་ལྡན་པར་བརྗོད་པ་དང་། ། མཆོག་འཕགས་བདེ་བ་བྱེད་དང་དེ་ཡི་འབྲས་ཐོབ་པ། ། དེ་དག་ཀུན་ཀྱང་དེ་བཞིན་གཤེགས་པའི་སྐྱེས་བུའི་མཐུ། །",
+    "dm": "Whatever Dharma the Victor’s Śrāvakas may teach, Explain, or express through logical reasoning, And whatever attainment of supreme, noble bliss and its fruits they achieve, All of these are the power of the Tathāgata, the Great Being.",
+    "gm": "However much the śrāvakas of the Jina teach the Dharma, Explaining and expressing it logically, Creating supreme noble bliss and attaining its results, All of that is the power of the person of the Tathāgata."
+   },
+   {
+    "id": "1-3",
+    "bo": "ཅི་ཕྱིར་ཞེ་ན་རྒྱལ་བས་ཆོས་ཚུལ་གང་བསྟན་པ། ། དེ་ལ་མི་མཆོག་སློབ་མར་གྱུར་པས་མངོན་བསླབས་ཤིང་། ། མངོན་སུམ་བྱས་ནས་བསླབས་པ་ཇི་བཞིན་སྟོན་བྱེད་དེ། ། སངས་རྒྱས་མཐུས་བྱེད་རང་གི་སྟོབས་ཀྱི་མཐུས་མ་ཡིན། །",
+    "dm": "If you ask why, it is because whatever system of Dharma the Victor has taught, Those supreme beings, having become his disciples, have thoroughly trained in it, And having directly realized it, they teach the training exactly as it is; This is accomplished through the power of the Buddha, and not through their own individual strength.",
+    "gm": "Why is this? Because whatever methods of Dharma the Jina has taught, The supreme of humans, having become his disciples, have trained in them, And having actualized them, they teach according to what they have learned. They do so by the Buddha's power, not by the power of their own strength."
+   },
+   {
+    "id": "1-5",
+    "bo": "གཟུགས་མེད་ཚོར་བ་མེད་ཅིང་འདུ་ཤེས་སེམས་པ་མེད། ། དེ་ལ་རྣམ་ཤེས་གནས་ནི་རྡུལ་ཙམ་ཡོད་མ་ཡིན། ། དེ་ཆོས་ཀུན་ལ་མི་གནས་གནས་པ་མེད་པར་སྤྱོད། ། ཡོངས་སུ་གཟུང་མེད་བདེ་གཤེགས་རྣམས་ཀྱི་བྱང་ཆུབ་འཐོབ། །",
+    "dm": "There is no form, no feeling, no perception, and no intention; Within those, there is not even an atom's worth of a station for consciousness. They do not dwell on any phenomena, but practice without a dwelling place; Without grasping, they attain the awakening of the Sugatas.",
+    "gm": "There is no form, no feeling, no perception, and no volition; Consciousness does not dwell in them even slightly. Not dwelling in all phenomena, they practice without dwelling, And without grasping, they attain the awakening of the Sugatas."
+   },
+   {
+    "id": "1-6",
+    "bo": "ཇི་ལྟར་ཀུན་ཏུ་རྒྱུ་བ་བཟོ་སྦྱངས་ཤེས་པ་ཡིས། ། དམིགས་མེད་ཕུང་པོ་རྣམ་པར་འཇིག་པ་འབྱུང་བ་ལྟར། ། བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་དེ་ལྟར་ཆོས་ཤེས་པ། ། མྱ་ངན་འདས་ལ་མི་རེག་དེ་ནི་ཤེས་རབ་གནས། །",
+    "dm": "Just as a wandering mendicant, through his knowledge of craftsmanship, Brings about the disintegration of the aggregates without any objective apprehension, Any bodhisattva who understands phenomena in that way, Does not touch nirvana, and is established in wisdom.",
+    "gm": "Just as the wanderer Śreṇika, through his knowledge, Understood the aggregates as unapprehendable and subject to destruction; Whatever bodhisattva understands phenomena in that way Does not contact nirvāṇa, and dwells in wisdom."
+   },
+   {
+    "id": "1-7",
+    "bo": "ཡང་འདི་ཤེས་རབ་འདི་ནི་གང་ཡིན་སུ་ཡི་ཡིན། ། གང་ལས་ཡིན་ཞེས་ཆོས་འདི་ཐམས་ཅད་སྟོང་པར་རྟོག། ། ཉེ་བར་བརྟགས་ནས་ཞུམ་པ་མེད་ཅིང་སྐྲག་མེད་པ། ། བྱང་ཆུབ་སེམས་དཔའ་དེ་ནི་བྱང་ཆུབ་ཉེ་བ་ཡིན། །",
+    "dm": "Furthermore, thinking, \"What is this wisdom? Whose is it? From where does it come?\" they realize all these phenomena are empty; Having closely examined them, they are without discouragement or fear; Such a bodhisattva is close to awakening.",
+    "gm": "Furthermore, examining, \"What is this wisdom, and whose is it? From where does it come?\" they realize all these phenomena to be empty. Having closely examined, the one who is without despondency and without fear, That bodhisattva is close to awakening."
+   },
+   {
+    "id": "1-10",
+    "bo": "བྱང་ཆུབ་སེམས་གང་དེ་ལྟར་འདིར་བདག་ཞིར་གནས་པ། ། དེ་ནི་སྔོན་གྱི་དེ་བཞིན་གཤེགས་པས་ལུང་བསྟན་ཡིན། ། བདག་ནི་མཉམ་པར་བཞག་ཅེའམ་ལངས་ཞེས་རློམ་སེམས་མེད། ། ཅི་ཕྱིར་ཞེ་ན་ཆོས་ཀྱི་རང་བཞིན་ཡོངས་ཤེས་ཕྱིར། །",
+    "dm": "Any bodhisattva who abides here in peace in this way, Has been prophesied by the Tathāgatas of the past. They have no conceit of thinking, \"I am in meditative equipoise,\" or \"I have arisen,\" Why is that? Because the nature of phenomena is fully understood.",
+    "gm": "Whatever bodhisattva dwells here thus in peace, Is prophesied by the Tathāgatas of the past. They have no conceited thought, \"I am in meditative equipoise\" or \"I have arisen.\" Why is this? Because they completely understand the nature of phenomena."
+   },
+   {
+    "id": "1-11",
+    "bo": "དེ་ལྟར་སྤྱོད་ན་བདེ་གཤེགས་རྣམས་ཀྱི་ཤེས་རབ་སྤྱོད། ། དེས་ནི་སྤྱོད་མེད་སྤྱོད་པ་ཡིན་པར་རབ་ཤེས་ཕྱིར། ། ཆོས་གང་སྤྱོད་པ་དེ་ཡང་དམིགས་པར་མི་འགྱུར་ཏེ། ། འདི་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་པ་ཡིན། །",
+    "dm": "Practicing in such a way, they practice the wisdom of the Sugatas, Because they thoroughly understand that non-practice is the practice. They do not apprehend even the phenomena that are practiced; This is the practice of the supreme perfection of wisdom.",
+    "gm": "Practicing in this way, they practice the wisdom of the Sugatas. Because they thoroughly know that non-practicing is practicing, Whatever phenomena they practice are also not apprehended. This is the practice of the supreme perfection of wisdom."
+   },
+   {
+    "id": "1-12",
+    "bo": "གང་ཞིག་ཡོད་པ་མ་ཡིན་དེ་ནི་མེད་ཅེས་བྱ། ། བྱིས་པ་རྣམས་ཀྱིས་དེ་བརྟགས་ཡོད་དང་མེད་པར་བྱེད། ། ཡོད་དང་མེད་པ་འདི་གཉིས་མེད་པའི་ཆོས་ཡིན་ཏ། ། བྱང་ཆུབ་སེམས་དཔའ་གང་གིས་འདི་ཤེས་ངེས་པར་འབྱུང་། །",
+    "dm": "That which does not exist is called \"nonexistent.\" Foolish beings, having conceptualized it, treat it as either existing or non-existing. Existence and non-existence—these two are phenomena that do not exist. Any bodhisattva who understands this will definitely emerge.",
+    "gm": "Whatever does not exist is called \"non-existent.\" Fools, examining this, conceive of existence and non-existence. Both existence and non-existence are non-existent phenomena; Whatever bodhisattva knows this will definitely emerge."
+   },
+   {
+    "id": "1-25",
+    "bo": "བདག་ཅི་འདྲ་བ་དེ་འདྲར་སེམས་ཅན་ཐམས་ཅད་ཤེས། ། སེམས་ཅན་ཐམས་ཅད་ཅི་འདྲར་དེ་འདྲར་ཆོས་ཀུན་ཤེས། ། སྐྱེ་བ་མེད་དང་སྐྱེ་བ་གཉི་གར་མི་རྟོག་པ། ། འདི་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་པ་ཡིན། །",
+    "dm": "Know that all sentient beings are exactly as oneself is; Know that all phenomena are exactly as all sentient beings are; Not conceptualizing either non-arising or arising— This is the practice of the supreme perfection of wisdom.",
+    "gm": "Knowing all sentient beings to be like oneself, Knowing all dharmas to be like all sentient beings, Not conceptualizing both non-arising and arising, This is the practice of the supreme perfection of wisdom."
+   },
+   {
+    "id": "1-26",
+    "bo": "འཇིག་རྟེན་དག་ན་ཆོས་མིང་ཇི་སྙེད་ཡོངས་བརྗོད་པ། ། ཀུན་ལ་སྐྱེ་བ་དང་ནི་ཡང་དག་འདས་སྤངས་ནས། ། ཡེ་ཤེས་འཆི་མེད་དམ་པ་དེ་ལས་གཞན་མེད་འཐོབ། ། དེ་ཕྱིར་འདི་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་ཅེས་བྱ། །",
+    "dm": "Having abandoned both the arising and the complete passing away of all things, As many as are expressed by names throughout the worlds, One attains that supreme, deathless primordial wisdom, beyond which there is no other; For that reason, this is called the perfection of wisdom.",
+    "gm": "However many names of dharmas are proclaimed in the world, Having abandoned arising and passing away regarding all of them, One attains the supreme, deathless pristine wisdom, than which there is no other; Therefore, this is called the perfection of wisdom."
+   },
+   {
+    "id": "1-27",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་དོགས་མེད་དེ་ལྟར་སྤྱོད། ། ཤེས་རབ་ལྡན་ཏེ་མཉམ་ཉིད་གནས་པར་ཤེས་པར་བྱ། ། ཆོས་རྣམས་རང་བཞིན་མེད་པར་ཡོངས་སུ་ཤེས་གྱུར་པ། ། འདི་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་པ་ཡིན། །",
+    "dm": "Any bodhisattva who practices in that way without doubt, Should be known as one endowed with wisdom, abiding in equanimity; Having fully understood that all phenomena are devoid of intrinsic nature, This is the practice of the supreme perfection of wisdom.",
+    "gm": "Any bodhisattva who practices in this way without doubt, Endowed with wisdom, should be known to abide in equality; Thoroughly knowing dharmas to be without nature, This is the practice of the supreme perfection of wisdom."
+   },
+   {
+    "id": "2-4",
+    "bo": "གང་དག་བདེ་གཤེགས་ཉན་ཐོས་འགྱུར་བར་བྱ་སྙམ་དང་། ། རང་སངས་རྒྱས་དག་དེ་བཞིན་ཆོས་རྒྱལ་འགྱུར་འདོད་པ། ། བཟོད་པ་འདི་ལ་མ་བརྟེན་ཐོབ་པར་མི་ནུས་ཏེ། ། དཔེར་ན་ཚུ་རོལ་ཕ་རོལ་འགྲོ་དོགས་མི་མཐོང་བཞིན། །",
+    "dm": "Those who think, \"May I become a disciple of the Sugata,\" And those who desire to become Pratyekabuddhas or likewise Kings of Dharma, Cannot achieve these without relying on this patience, Just as one cannot cross from this shore to the other without seeing the ferry.",
+    "gm": "Whoever thinks they will become a śrāvaka of the Sugata, Or a pratyekabuddha, and likewise wishes to become a Dharma King, Cannot attain it without relying on this patience, Just as one cannot see a crossing to go from this shore to the other."
+   },
+   {
+    "id": "2-5",
+    "bo": "ཆོས་འཆད་པ་དང་ཉན་དང་བཤད་བྱ་གང་ཡིན་དང་། ། འབྲས་བུ་ཐོབ་དང་རྐྱེན་རྒྱལ་དེ་བཞིན་འཇིག་རྟེན་མགོན། ། མཁས་པ་གསལ་བས་ཐོབ་པའི་མྱ་ངན་འདས་གང་ཡིན། ། དེ་ཀུན་སྒྱུ་མ་ལྟ་བུར་དེ་བཞིན་གཤེགས་པས་བསྟན། །",
+    "dm": "The teaching of the Dharma, the listening, and whatever is taught, The attainment of the result, the Pratyekabuddhas, and likewise the Protectors of the World, And whatever nirvāṇa is attained by the clarity of the wise— The Tathāgata has taught that all these are like an illusion.",
+    "gm": "The one who teaches the Dharma, the one who listens, and whatever is to be taught, The attainment of the fruit, the pratyekabuddhas, and likewise the Protectors of the World, And whatever nirvāṇa is attained by the brilliant wise ones— All these are taught by the Tathāgata to be like an illusion."
+   },
+   {
+    "id": "2-7",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའ་མཁས་རིག་དེ་ལྟར་སྤྱོད་པ་ནི། ། དགྲ་བཅོམ་ས་ལ་མི་སློབ་རྐྱེན་རྟོགས་ས་ལ་མིན། ། ཐམས་ཅད་མཁྱེན་ཉིད་དེ་ཆེད་དུ་སངས་རྒྱས་ཆོས་རྗེས་སློབ། ། གང་ཞིག་སློབ་མི་སློབ་ལ་མི་སློབ་དེ་སློབ་ཡིན། །",
+    "dm": "The wise and learned Bodhisattva who practices in this way, Does not train in the stage of an Arhat, nor in the stage of a Pratyekabuddha; For the sake of omniscience, they train following the Buddha-dharma. One who does not train in the distinction between training and non-training is one who trains.",
+    "gm": "A wise, understanding bodhisattva who practices in this way Does not train for the level of an arhat, nor the level of a pratyekabuddha; For the sake of omniscience itself, they train in the qualities of a buddha; Whoever does not train in training and no-more-training, that is training."
+   },
+   {
+    "id": "2-8",
+    "bo": "གཟུགས་འཕེལ་ཡོངས་སུ་ཉམས་དང་ཡོངས་སུ་གཟུང་ཕྱིར་མིན། ། ཆོས་རྣམས་སྣ་ཚོགས་ཡོངས་སུ་གཟུང་ཕྱིར་མི་སློབ་པར། ། སློབ་ཅིང་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ཀྱང་ཡོངས་འཛིན་ལ། ། ངེས་འབྱུང་གང་ཡིན་འདི་ནི་ཡོན་ཏན་དགའ་བའི་སློབ། །",
+    "dm": "It is not for the sake of the increase, decrease, or grasping of form; Nor is it for the sake of grasping the various phenomena that one trains. While training, one also grasps omniscience itself; This very transcendence is the training of those who delight in excellence.",
+    "gm": "It is not for the sake of the increase, complete deterioration, or complete apprehension of form; Not training for the sake of completely apprehending various dharmas, Yet training and completely apprehending omniscience itself— Whatever definite emergence this is, this is the training that rejoices in qualities."
+   },
+   {
+    "id": "2-21",
+    "bo": "འཁོར་ལོས་སྒྱུར་རྒྱལ་ལམ་གང་ནས་ནི་རྟག་འགྲོ་བ། ། ལམ་དེ་ཉིད་ནས་རིན་ཆེན་བདུན་དང་དཔུང་ཚོགས་ཀུན། ། གང་ནས་རྒྱལ་བའི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་འདི་འགྲོ། ། དེ་ཉིད་ནས་ནི་ཡོན་ཏན་ཆོས་ཀུན་འགྲོ་བར་འགྱུར། །",
+    "dm": "On whichever path a universal monarch constantly travels, On that very path, the seven precious jewels and all the military hosts follow; Wherever this Perfection of Wisdom of the Victors goes, From that very place, all the qualities and dharmas will follow.",
+    "gm": "Whichever path a Universal Monarch always travels upon, By that very path, the seven precious things and all the troops proceed. Wherever this perfection of wisdom of the Victors goes, Along that very path, all qualities and dharmas will go."
+   },
+   {
+    "id": "2-26",
+    "bo": "སྦྱིན་པ་སྦྱིན་པའི་སྔོན་དུ་འགྲོ་བ་ཤེས་རབ་སྟེ། ། ཚུལ་ཁྲིམས་བཟོད་པ་བརྩོན་འགྲུས་བསམ་གཏན་དེ་བཞིན་ནོ། ། དགེ་ཆོས་ཆུད་མི་གཟན་ཕྱིར་ཡོངས་སུ་འཛིན་པ་ཡིན། ། འདི་ནི་ཆོས་རྣམས་ཐམས་ཅད་ཚུལ་གཅིག་སྟོན་པར་བྱེད། །",
+    "dm": "Wisdom is the precursor to the practice of generosity, And likewise for ethical discipline, patience, diligence, and meditative concentration. It is the total sustainer that prevents virtuous qualities from being lost; This demonstrates the single nature of all phenomena.",
+    "gm": "Wisdom is what precedes giving; Ethical discipline, patience, joyous effort, and concentration are likewise. In order that virtuous dharmas are not wasted, it fully upholds them. This demonstrates all dharmas as having a single way."
+   },
+   {
+    "id": "2-29",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའ་གལ་ཏེ་རབ་ཏུ་མི་ཤེས་བཞིན། ། གཟུགས་དང་འདུ་ཤེས་ཚོར་དང་སེམས་པ་རྣམ་པར་ཤེས། ། མི་རྟག་ཡོངས་སུ་སྟོན་པ་བཅོས་ལ་སྤྱོད་པ་སྟེ། ། མཁས་པ་ནམ་ཡང་ཆོས་རྣམས་འཇིག་པར་མི་བྱེད་དོ། །",
+    "dm": "If a bodhisattva, without deep understanding, regards Form, perception, feeling, intention, and consciousness As impermanent, they are practicing a counterfeit; The wise never cause the destruction of phenomena.",
+    "gm": "If a bodhisattva, while lacking full understanding, Fully demonstrates form, perception, feeling, volition, and consciousness As impermanent, he acts upon fabrication; The wise never destroy dharmas."
+   },
+   {
+    "id": "2-30",
+    "bo": "གང་ལ་གཟུགས་མིན་ཚོར་མིན་འདུ་ཤེས་མི་དམིགས་ཤིང་། ། རྣམ་པར་ཤེས་པ་མ་ཡིན་སེམས་པ་མི་དམིགས་ལ། ། ཆོས་ཀུན་སྐྱེ་མེད་སྟོང་པའི་ཚུལ་དུ་རབ་ཤེས་པ། ། འདི་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་པ་ཡིན། །",
+    "dm": "In which form is not apprehended, nor feeling, nor perception, Nor consciousness, nor intention is apprehended, And all phenomena are thoroughly known to be unborn and empty— This is the practice of the supreme perfection of wisdom.",
+    "gm": "Where form is not, feeling is not, and perception is not apprehended, Consciousness is not, and volition is not apprehended, And all dharmas are fully known in the manner of being unarisen and empty: This is the practice of the supreme perfection of wisdom."
+   },
+   {
+    "id": "2-32",
+    "bo": "ཅི་ཕྱིར་ཞེ་ན་སྨྲ་མཆོག་དེ་དག་འདིར་བསླབས་ནས། ། ཆོས་རྣམས་མཐའ་དག་སྟོང་པ་ཉིད་དུ་འདིར་སྟོན་བྱེད། ། དེ་ཐོས་ཉན་ཐོས་མྱུར་དུ་རྣམ་པར་གྲོལ་ལ་རེག། ། རང་རྒྱལ་བྱང་ཆུབ་དང་ནི་སངས་རྒྱས་བྱང་ཆུབ་རེག། །",
+    "dm": "Why is that? Because those supreme speakers, having trained in this, Here demonstrate that all phenomena are emptiness. Having heard that, the Hearers quickly reach liberation, And they reach the awakening of Pratyekabuddhas and the awakening of Buddhas.",
+    "gm": "If asked why: those supreme speakers, having trained in this, Demonstrate all dharmas here as emptiness. Hearing that, śrāvakas swiftly touch complete liberation, And touch the awakening of pratyekabuddhas and the awakening of buddhas."
+   },
+   {
+    "id": "2-34",
+    "bo": "ཉི་མའི་དཀྱིལ་འཁོར་གང་ཚེ་འོད་ཀྱི་དྲ་བ་འགྱེད། ། དེ་ཚེ་སེམས་ཅན་ལས་བྱེད་བརྩོན་པ་དེ་བཞིན་དུ། ། མཁས་པ་ཤེས་ཕྱིར་འཇིག་རྟེན་བྱང་ཆུབ་སེམས་བྱུང་ན། ། ཡེ་ཤེས་ཀྱིས་ནི་སེམས་ཅན་ཡོན་ཏན་ཆོས་དང་ལྡན། །",
+    "dm": "Just as when the solar orb radiates its web of light, Sentient beings then apply themselves diligently to their tasks, So too, when the mind of enlightenment arises in the world for the sake of the wisdom of the sages, Through primordial wisdom, sentient beings come to possess the qualities of the Dharma.",
+    "gm": "When the sun's disk emits its web of light, At that time beings exert themselves in doing their work; likewise, When the mind of awakening emerges in the world for the sake of the knowledge of the wise, Through pristine knowledge beings become endowed with virtuous dharmas."
+   },
+   {
+    "id": "2-36",
+    "bo": "དེ་བཞིན་འདིར་ཡང་བྱང་ཆུབ་སེམས་མེད་བདེ་གཤེགས་ཀྱི། ། ཡེ་ཤེས་འཇིག་རྟེན་འདི་དག་ཀུན་དུ་ག་ལ་འབྱུང་། ། ཡེ་ཤེས་མེད་ན་ཡོན་ཏན་འཕེལ་མེད་བྱང་ཆུབ་མེད། ། རྒྱ་མཚོ་འདྲ་བའི་སངས་རྒྱས་ཆོས་ཀྱང་མེད་པར་འགྱུར། །",
+    "dm": "Likewise, in this case as well, without the mind of enlightenment, How could the primordial wisdom of the Sugatas ever arise throughout all these worlds? Without primordial wisdom, there is no increase in qualities and no enlightenment; Even the ocean-like qualities of a Buddha would also not exist.",
+    "gm": "Likewise, here too, without the mind of awakening, how could The pristine knowledge of the Sugata emerge in all these worlds? Without pristine knowledge, there is no increase of qualities and no awakening, And the buddha-dharmas, which are like the ocean, would also not exist."
+   },
+   {
+    "id": "2-39",
+    "bo": "འདས་དུས་སྔོན་གྱི་སངས་རྒྱས་བྱེ་བ་ཁྲག་ཁྲིག་གང་། ། ཞིང་མང་མཐའ་ཡས་བྱེད་སྟོང་དག་ན་གང་བཞུགས་དང་། ། གང་ཡང་མྱ་ངན་འདས་པ་འཇིག་རྟེན་མགོན་པོ་རྣམས། ། སྡུག་བསྔལ་ཟད་པར་བྱ་ཕྱིར་རིན་ཆེན་ཆོས་སྟོན་པ། །",
+    "dm": "Whatever Buddhas of the past, numbering tens of millions of billions, Who reside in infinitely many billions of fields, and those who have passed into parinirvāṇa, Those protectors of the world, Teach the precious Dharma for the sake of completely ending suffering.",
+    "gm": "Whatever tens of millions of hundreds of billions of buddhas of the past, And whoever resides in many infinite thousands of tens of millions of fields, And whatever protectors of the world who have passed into nirvāṇa, Demonstrate the precious dharma in order to exhaust suffering:"
+   },
+   {
+    "id": "2-40",
+    "bo": "དང་པོ་བྱང་ཆུབ་མཆོག་ཏུ་ཐུགས་བསྐྱེད་བསྐྱེད་པ་ནས། ། རྣམ་པར་འདྲེན་པ་རྣམས་ཀྱི་དམ་ཆོས་ཟད་ཀྱི་དུས། ། དེ་བར་རྒྱལ་བ་དེ་དག་བསོད་ནམས་གང་ཡིན་པ། ། ཕ་རོལ་ཕྱིན་དང་ལྡན་དང་སངས་རྒྱས་ཆོས་གང་དང་། །",
+    "dm": "From the time they first generate the aspiration for supreme enlightenment, Until the time the true Dharma of those guides is exhausted, Whatever merit those Victors possess during that interval, Including the perfections and all the Buddha-qualities,",
+    "gm": "From when they first generated the mind for supreme awakening, Until the time the holy dharma of those Guides is exhausted, Whatever merit those Victors have during that time, And whatever is endowed with the perfections and whatever buddha-dharmas—"
+   },
+   {
+    "id": "2-43",
+    "bo": "གལ་ཏེ་འདི་ལྟར་ཆོས་འདི་འགགས་ཤིང་ཟད་པ་དང་། ། གང་དུ་ཡོངས་སུ་བསྔོ་བ་དེ་ཡང་ཟད་པ་དང་། ། ཆོས་ཀྱིས་ཆོས་ལ་ནམ་ཡང་མི་བསྔོ་ཤེས་གྱུར་ན། ། དེ་ལྟར་རབ་ཏུ་ཤེས་པས་ཡོངས་སུ་བསྔོས་པ་ཡིན། །",
+    "dm": "If one understands that these phenomena have ceased and are exhausted, And that which is dedicated is also exhausted, And that a phenomenon never dedicates to a phenomenon, Then by knowing in such a way, it is a perfect dedication.",
+    "gm": "If in this way one knows that this dharma has ceased and is exhausted, And that to which it is dedicated is also exhausted, And knows that a dharma is never dedicated to a dharma, Through knowing in that way, it is perfectly dedicated."
+   },
+   {
+    "id": "2-44",
+    "bo": "གལ་ཏེ་མཚན་མར་བྱེད་ན་དེ་ནི་བསྔོ་མ་ཡིན། ། ཇི་སྟེ་མཚན་མ་མེད་ན་བྱང་ཆུབ་བསྔོ་བ་ཡིན། ། ཇི་ལྟར་དུག་དང་འདྲེས་པའི་ཁ་ཟས་བཟང་ཟ་བ། ། དཀར་པོའི་ཆོས་ལ་དམིགས་པའང་དེ་འདྲར་རྒྱལ་བས་གསུངས། །",
+    "dm": "If one conceives of it in terms of signs, that is not a dedication. If there are no signs, that is the dedication to enlightenment. Just as eating fine food that has been mixed with poison, The Victor has taught that focusing on virtuous qualities is the same.",
+    "gm": "If one acts upon signs, that is not dedication; But if there are no signs, it is dedication to awakening. Just like eating excellent food mixed with poison, The Victor has declared that apprehending white dharmas is like that."
+   },
+   {
+    "id": "2-49",
+    "bo": "གང་ཚེ་འདུས་བྱས་འདུས་མ་བྱས་དང་དཀར་ནག་ཆོས། ། ཤེས་རབ་རྣམ་པར་བཤིག་ནས་རྡུལ་ཙམ་མི་དམིགས་ཚེ། ། འཇིག་རྟེན་དག་ན་ཤེས་རབ་ཕ་རོལ་ཕྱིན་གྲངས་འགྲོ། ། ནམ་མཁའ་གང་ལའང་ཅུང་ཟད་མི་གནས་དེ་དང་འདྲ། །",
+    "dm": "When conditioned and unconditioned phenomena, as well as white and black dharmas, Have been thoroughly deconstructed by wisdom so that not even an atom is observed, That is accounted as the perfection of wisdom in the world; It is just like space, which does not abide in anything at all.",
+    "gm": "When conditioned, unconditioned, and white and black dharmas Are broken down by wisdom and not even a particle is apprehended, In the world it is reckoned as the perfection of wisdom; It is like space, which does not abide anywhere at all."
+   },
+   {
+    "id": "3-5",
+    "bo": "ཆོས་རྣམས་ཐམས་ཅད་རང་བཞིན་དག་ཅིང་ཡོངས་དག་པར། ། བྱང་ཆུབ་སེམས་དཔའ་ཤེས་རབ་ཕ་རོལ་ཕྱིན་ལྟ་ན། ། བྱེད་པ་པོ་ཡང་མི་དམིགས་ཆོས་ཀུན་མི་དམིགས་ཏེ། ། འདི་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་པ་ཡིན། །",
+    "dm": "When a bodhisattva, through the perfection of wisdom, sees That all phenomena are naturally pure and utterly pristine, They do not perceive an agent, nor do they perceive any phenomena; This is the practice of the supreme perfection of wisdom.",
+    "gm": "All dharmas being naturally pure and entirely pure, If the bodhisattva views the perfection of wisdom, Not apprehending an agent and not apprehending all dharmas, This is practicing the supreme perfection of wisdom."
+   },
+   {
+    "id": "4-2",
+    "bo": "གང་ཞིག་ཆོས་འདི་སྤྲུལ་དང་སྒྱུ་མ་འདར་ཐོས་ནས། ། སོམ་ཉི་མེད་ཅིང་སློབ་ལ་ཕྱིར་ཞིང་སྦྱོར་བྱེད་པ། ། སེམས་ཅན་དེ་ནི་རིང་ནས་ཐེག་ཆེན་ཞུགས་རིག་བྱ། ། སངས་རྒྱས་བྱེ་བ་ཁྲག་ཁྲིག་མང་ལ་ལྷག་བྱས་ཡིན། །",
+    "dm": "Anyone who, having heard that these phenomena are like emanations and illusions, Is without doubt and repeatedly practices the training, Know that such a person has long since entered the Mahayana, And has performed service to many tens of billions of Buddhas.",
+    "gm": "Whoever, having heard that these dharmas are like emanations and illusions, Without doubt, trains and continuously applies themselves, That being should be known to have entered the Great Vehicle long ago, And to have served many tens of millions of billions of Buddhas."
+   },
+   {
+    "id": "4-9",
+    "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་ཚེ་རྣལ་འབྱོར་པ། ། གཟུགས་ཀྱི་འཕེལ་བ་དང་ནི་ཡོངས་སུ་འགྲིབ་མི་མཐོང་། ། གང་ཞིག་ཆོས་དང་ཆོས་མིན་ཆོས་དབྱིངས་མི་མཐོང་ཞིང་། ། མྱ་ངན་འདས་ལ་མི་རེག་དེ་ནི་ཤེས་རབ་གནས། །",
+    "dm": "Yogis who practice the supreme Perfection of Wisdom, Do not see any increase or decrease in form. One who does not see phenomena, non-phenomena, or the sphere of phenomena, And does not touch nirvana, is established in wisdom.",
+    "gm": "When practicing the supreme perfection of wisdom, the yogi Does not see the increase or complete decrease of form; Whoever does not see dharma, non-dharma, or the dharmadhātu, And does not touch nirvāṇa, they abide in wisdom."
+   },
+   {
+    "id": "4-16",
+    "bo": "བསྟི་སྟང་འདོད་པར་འགྱུར་ཞིང་རྙེད་པ་འདོད་འགྱུར་དང་། ། ལྟ་དང་བཅས་པའི་སེམས་ཀྱིས་ཁྱིམ་འདྲིས་བྱེད་ལྡན་ཞིང་། ། ཆོས་བཏང་ནས་ནི་ཆོས་མིན་བྱ་བ་སྤྱོད་འགྱུར་བ། ། ལམ་བོར་ལམ་གོལ་འགྲོ་བ་འདི་ནི་བདུད་ཀྱི་ལས། །",
+    "dm": "They will desire honor and desire gain, And with a mind full of views, they will become intimate with householders; Abandoning the Dharma, they will engage in non-Dharmic activities— Leaving the path and wandering onto a wrong path, this is the work of Māra.",
+    "gm": "Desiring respect and desiring gain, With a mind full of views, they become intimate with families; Having forsaken the dharma, they will practice non-dharma activities; Having discarded the path, going on wrong paths—this is the work of Māra."
+   },
+   {
+    "id": "4-17",
+    "bo": "གང་དག་དེ་ཡི་ཚེ་ན་འདུན་ཅིང་དད་གྱུར་ནས། ། ཆོས་ཀྱི་དམ་པ་འདི་ནི་ཉན་དུ་སོང་བ་ལས། ། དེ་དག་གིས་ནི་ཆོས་སྒྲ་བྱ་བ་ལྡན་རིག་ནས། ། དགའ་བ་མེད་ཅིང་ཡིད་མི་བདེ་བར་གྱུར་ནས་འགྲོ། །",
+    "dm": "Those who, at that time, have become longing and faithful, Having gone to listen to this sublime Dharma, Once they perceive the Dharma preacher to be preoccupied, They will depart without joy and with a troubled mind.",
+    "gm": "Those who at that time, having become eager and faithful, Go to listen to this holy dharma, Upon knowing that the speaker of dharma is busy with activities, Will depart, devoid of joy and unhappy."
+   },
+   {
+    "id": "4-19",
+    "bo": "རིན་ཆེན་རིན་ཐང་མེད་པ་རྙེད་འགྱུར་གང་དག་ཡིན། ། དེ་དག་དཀོན་ལ་དུས་རྣམས་རྟག་ཏུ་འཚེ་བའང་མང་། ། དེ་བཞིན་རྒྱལ་བའི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་མཆོག། ། རིན་ཆེན་ཆོས་ཀྱང་དཀོན་ལ་རྟག་ཏུ་འཚེ་བའང་མང་། །",
+    "dm": "Whatever priceless jewels may be found, They are rare and always subject to many harms. Likewise, the Victorious Ones' supreme Perfection of Wisdom, This precious Dharma is also rare and always subject to many harms.",
+    "gm": "Whatever priceless jewels may be found, They are rare, and there is also always much harm at all times. Likewise, the supreme perfection of wisdom of the Victors, This precious dharma, is rare, and there is also always much harm."
+   },
+   {
+    "id": "4-24",
+    "bo": "མཁས་པ་འཇིག་རྟེན་གནས་སམ་མྱ་ངན་འདས་ཀྱང་རུང་། ། ཆོས་ཉིད་སྐྱོན་མེད་ཆོས་རྣམས་སྟོང་པ་འདི་གནས་ཏེ། ། བྱང་ཆུབ་སེམས་དཔའ་དེ་བཞིན་ཉིད་འདི་རྗེས་སུ་རྟོགས། ། དེ་ཕྱིར་དེ་བཞིན་གཤེགས་ཞེས་སངས་རྒྱས་མཚན་གསོལ་ཏོ། །",
+    "dm": "Whether the wise remain in the world or pass into nirvāṇa, This flawless true nature, the emptiness of all phenomena, remains. Bodhisattvas realize this suchness; And therefore, the Buddha is given the name \"Tathāgata.\"",
+    "gm": "Whether the wise remain in the world or have passed into nirvāṇa, This flawless dharmatā, the emptiness of dharmas, remains; Bodhisattvas subsequently realize this suchness, Therefore, the Buddhas are given the name Tathāgata."
+   },
+   {
+    "id": "4-27",
+    "bo": "དཔེར་ན་ནམ་མཁར་གནས་པའི་ཉི་མའི་འོད་ཟེར་ནི། ། ས་འདི་སྐེམས་པར་བྱེད་ཅིང་གཟུགས་ཀྱང་རབ་ཏུ་སྟོན། ། དེ་བཞིན་ཆོས་རྒྱལ་ཤེས་རབ་ཕ་རོལ་ཕྱིན་རྟེན་པ། ། སྲེད་པའི་ཆུ་ཀླུང་སྐེམས་ཤིང་ཆོས་ཀྱང་རབ་ཏུ་སྟོན། །",
+    "dm": "For example, just as the rays of the sun abiding in the sky Dry up the earth and make forms clearly visible, Likewise, the Dharma King, relying on the Perfection of Wisdom, Dries up the river of craving and perfectly teaches the Dharma.",
+    "gm": "For example, just as the rays of the sun dwelling in the sky Dry up this earth and also clearly reveal forms, Likewise, the dharma king, relying on the perfection of wisdom, Dries up the river of craving and also clearly reveals the dharma."
+   },
+   {
+    "id": "4-30",
+    "bo": "གང་གིས་དེ་ལྟར་མཐོང་བ་དེ་ཡིས་ཆོས་ཀུན་མཐོང་། ། རྒྱལ་པོ་བཏང་སྙོམས་འདུག་ཅིང་བློན་པོ་ཀུན་བྱེད་ལྟར། ། སངས་རྒྱས་མཛད་དང་ཉན་ཐོས་ཆོས་རྣམས་ཇི་སྙེད་པ། ། དེ་དག་ཐམས་ཅད་ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་བྱེད། །",
+    "dm": "Whoever sees in that way sees all phenomena. Just as a king remains impartial while his ministers perform all the tasks, Whatever activities of the Buddhas and teachings of the Śrāvakas there may be, The Perfection of Wisdom performs them all.",
+    "gm": "Whoever sees in that way sees all dharmas. Just as a king sits in equanimity while his ministers do everything, Whatever deeds of the Buddhas and dharmas of the śrāvakas there are, All of them are done by the perfection of wisdom."
+   },
+   {
+    "id": "4-48",
+    "bo": "འདྲེན་པ་རྣམས་ཀྱི་ཆོས་འདི་ཟབ་སྟེ་མཐོང་བར་དཀའ། ། སུས་ཀྱང་རྟོགས་པ་མེད་ཅིང་ཐོབ་པར་འགྱུར་མེད་པ། ། དེ་ཕྱིར་ཕན་མཛད་བརྩེར་ལྡན་བྱང་ཆུབ་བརྙེས་ནས་ནི། ། སེམས་ཅན་ཚོགས་སུས་ཤེས་སྙམ་ཐུགས་ཁྲལ་ཆུང་བར་མཛད། །",
+    "dm": "This Dharma of the Leaders is profound and difficult to see; It is not something realized by anyone, nor is it something to be attained. Therefore, the Compassionate Benefactor, having attained awakening, Felt little concern, thinking, \"Who among the masses of beings will understand?\"",
+    "gm": "This dharma of the Guides is profound and difficult to see; It is not realized by anyone, nor is it to be attained. Therefore, the Benefactor, the Compassionate One, having discovered enlightenment, Showed little inclination, thinking, \"Who among the multitudes of beings will understand?\""
+   },
+   {
+    "id": "4-49",
+    "bo": "སེམས་ཅན་རྣམས་ནི་གནས་ལ་དགའ་ཞིང་ཡུལ་རྣམས་འདོད། ། འཛིན་ལ་གནས་ཤིང་མི་མཁས་བླུན་རྨོངས་མུན་པ་བཞིན། ། ཐོབ་པར་བྱ་བའི་ཆོས་ནི་གནས་མེད་འཛིན་མེད་དེ། ། དེས་ན་འཇིག་རྟེན་དག་དང་རྩད་པ་འབྱུང་བ་ཡིན། །",
+    "dm": "Sentient beings delight in foundations and desire sense objects; Abiding in grasping, they are unskilled, foolish, and deluded like darkness. The phenomena to be attained are without foundation and without grasping; Therefore, conflict with the world arises.",
+    "gm": "Beings delight in resting places and desire sense objects; Abiding in grasping, the unwise are foolish and obscured like darkness. The dharma to be attained is without resting place and without grasping; Therefore, conflict arises with the worlds."
+   },
+   {
+    "id": "4-51",
+    "bo": "འདས་པའི་དེ་བཞིན་ཉིད་གང་མ་བྱོན་དེ་བཞིན་ཉིད། ། ད་ལྟར་དེ་བཞིན་ཉིད་གང་དགྲ་བཅོམ་དེ་བཞིན་ཉིད། ། ཆོས་ཀུན་དེ་བཞིན་ཉིད་གང་རྒྱལ་བའི་དེ་བཞིན་ཉིད། ། ཆོས་ཀྱི་དེ་བཞིན་ཉིད་འདི་ཐམས་ཅད་བྱེ་བྲག་མེད། །",
+    "dm": "The suchness of the past, the suchness of the future, The suchness of the present, and the suchness of the Arhats, The suchness of all phenomena, and the suchness of the Victors— This suchness of phenomena is entirely without distinction.",
+    "gm": "Whatever is the suchness of the past, the suchness of the future, Whatever is the suchness of the present, the suchness of an arhat, Whatever is the suchness of all dharmas, the suchness of a Victor— All this suchness of dharmas is without distinction."
+   },
+   {
+    "id": "4-52",
+    "bo": "བདེ་གཤེགས་བྱང་ཆུབ་ཐ་དད་ཆོས་དང་པྲལ་གྱུར་པ། ། འདི་ནི་བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་ཐོབ་འདོད་པ། ། ཐབས་དང་ལྡན་པས་ཤེས་རབ་ཕ་འདྲེན་པའི་ཤེས་རབ་མེད་ན་ཐོབ་པར་འགྱུར་མ་ཡིན། །",
+    "dm": "The awakening of the Sugatas is free from any differentiation of phenomena; Any bodhisattva who wishes to attain this, If they lack the wisdom of the Guides endowed with skillful means, will not attain it.",
+    "gm": "The enlightenment of the Sugatas is free from differentiated dharmas; Any bodhisattva who desires to attain this, Even if endowed with skillful means, will not attain it without the guiding wisdom of the perfection of wisdom."
+   },
+   {
+    "id": "4-58",
+    "bo": "ཟང་ཟིང་མེད་པར་འགྲོ་ལ་ཆོས་ནི་རྗེས་སུ་སྟོན། ། ཆོས་ལ་གཅིག་ཏུ་དགའ་ཞིང་རྟག་ཏུ་ཚིག་འཇམ་ལྡན། ། འགྲོ་འཆག་ཉལ་དང་འདུག་པར་ཤེས་བཞིན་རབ་ཏུ་ལྡན། ། གཉའ་ཤིང་གང་ཙམ་ལྟ་ཞིང་འགྲོ་ལ་སེམས་འཁྲུལ་མེད། །",
+    "dm": "They teach the Dharma to beings without any regard for material gain. They take singular delight in the Dharma and always speak with gentle words. They possess constant alertness while moving, walking, sleeping, and sitting. They walk while looking only a yoke-length ahead, keeping the mind free from delusion.",
+    "gm": "Without material motives, they subsequently teach the dharma to beings. Singly rejoicing in the dharma, they are always endowed with gentle words. They are fully endowed with clear comprehension when going, walking, sleeping, and sitting. Looking ahead only the distance of a yoke, they walk without a wandering mind."
+   },
+   {
+    "id": "4-59",
+    "bo": "གཙང་བྱས་གཙང་མའི་གོས་འཆང་གསུམ་པོ་དབེན་ཞིང་དག། ། རྙེད་འདོད་མ་ཡིན་ཁྱུ་མཆོག་རྟག་ཏུ་ཆོས་འདོད་པ། ། བདུད་ཀྱི་ཡུལ་ལས་འདས་ཤིང་གཞན་གྱི་དྲིང་མི་འཇོག། ། བསམ་གཏན་བཞི་ལ་བསམ་གཏན་བསམ་གཏན་དེར་མི་གནས། །",
+    "dm": "Pure and wearing clean robes, they are pure in the three isolations; They do not desire gain, and like great bulls, they always long for the Dharma. They have transcended the realm of Māra and are not dependent on others; They meditate on the four concentrations, yet do not dwell within those concentrations.",
+    "gm": "Making themselves clean and wearing clean clothes, the three are isolated and pure; Without desire for gain, the supreme leaders always desire the dharma. Passed beyond the realm of Māra and not placing themselves under the control of others, Meditating on the four dhyānas, they do not abide in those dhyānas."
+   },
+   {
+    "id": "4-62",
+    "bo": "མཐའ་འཁོབ་ཀླ་ཀློའི་སྐྱེ་བོའི་ཡུལ་མཐའ་རྣམ་པར་སྤངས། ། རང་གིས་ལ་དོགས་མེད་རྟག་ཏུ་རི་རབ་འདྲ། ། ཆོས་ཕྱིར་སྲོག་ཀྱང་འདོར་ཞིང་རྣལ་འབྱོར་རབ་ཏུ་བརྩོན། ། མི་ལྡོག་རྟགས་ནི་འདི་དག་ཡིན་པར་ཤེས་པར་བྱ། །",
+    "dm": "They have completely avoided the borderlands and the regions of barbarian peoples. They are never uncertain about their own stage, remaining as steadfast as Mount Meru. They would even sacrifice their lives for the sake of the Dharma and are devoted to the diligence of yoga. One should know that these are the signs of the state of non-retrogression.",
+    "gm": "They completely abandon the borderlands of uncivilized border-dwellers. Without self-doubt, they are always like Mount Sumeru. Giving up even their lives for the sake of the dharma, they vividly strive in yoga. One should know that these are the signs of an irreversible one."
+   },
+   {
+    "id": "4-64",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་དེ་ལྟར་ཟབ་གྱུར་ཅིང་། ། ཐེག་པ་དོན་དམ་ཆགས་མེད་གང་ལ་ཕུང་པོ་དང་། ། ཁམས་དང་སྐྱེ་མཆེད་ཡོད་མིན་ཆོས་འདི་རྟོགས་པ་དེའི། ། བསོད་ནམས་ཡང་དག་གྲུབ་པ་དེ་ལས་ཅི་ཞིག་ཡོད། །",
+    "dm": "Any bodhisattva who has become profound in that way, And who realizes this Dharma—the ultimate, unattached vehicle in which aggregates, Elements, and sense sources do not exist— What could there be that is a more perfect accomplishment of merit than that?",
+    "gm": "For any bodhisattva who realizes this profound Vehicle, ultimate and unattached, wherein the aggregates, Elements, and sense-sources do not exist— What perfectly accomplished merit is there beyond that?"
+   },
+   {
+    "id": "4-65",
+    "bo": "དཔེར་ན་འདོད་ཆགས་ཆོས་ལ་སྤྱོད་པའི་སྐྱེས་བུ་ཞིག། ། བུད་མེད་དུས་བཏབ་དེ་དང་མ་ཕྲད་དེ་ཡི་ནི། ། ཉིན་གཅིག་སེམས་ཀྱི་རྣམ་རྟོག་སྤྱོད་པ་ཇི་སྙེད་པ། ། དེ་སྙེད་བསྐལ་པར་བྱང་ཆུབ་སེམས་དཔས་ཐོབ་པར་འགྱུར། །",
+    "dm": "For example, consider a man who indulges in desire and, Having made an appointment with a woman, fails to meet her; However many conceptual thoughts he experiences in his mind throughout a single day, For that many eons, the bodhisattva will achieve attainment.",
+    "gm": "For example, a man who engages in the phenomena of desire, Having made an appointment with a woman and not meeting her, However many discursive thoughts of his mind operate in a single day, The bodhisattva will gain that many eons."
+   },
+   {
+    "id": "4-66",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་བསྐྲལ་མང་བྱེ་སྟོང་དུ། ། དགྲ་བཅོམ་རང་རྒྱལ་སྦྱིན་བྱེད་ཚུལ་ཁྲིམས་སྲུང་བྱེད་ཀྱང་། ། གང་ཞིག་ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་ལྡན་པའི་ཆོས། ། བརྗོད་པའི་ལེགས་པ་སྦྱིན་དང་ཚུལ་ཁྲིམས་ཆར་མི་ཕོད། །",
+    "dm": "Any bodhisattva who, for many billions of eons, Practices generosity toward Arhats and Pratyekabuddhas and maintains ethical discipline, Cannot match the merit of one who speaks of the Dharma that possesses the supreme perfection of wisdom, Even if that merit from giving and morality were spoken of well.",
+    "gm": "Even if a bodhisattva, for many thousands of millions of eons, Gives gifts to arhats and pratyekabuddhas and observes ethical discipline, For anyone who teaches the dharma endowed with the supreme perfection of wisdom, Giving and ethical discipline do not bear a fraction of the goodness of that teaching."
+   },
+   {
+    "id": "4-67",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་ཤེས་རབ་མཆོག་བསྒོམས་ཏེ། ། དེ་ལས་ལངས་ནས་གོས་པ་མེད་པའི་ཆོས་བརྗོད་ཅིང་། ། དེ་ཡང་འགྲོ་བའི་དོན་ཕྱིར་བྱང་ཆུབ་རྒྱུར་བསྔོ་ན། ། དགེ་བ་དེ་དང་མཉམ་པ་འཇིག་རྟེན་གསུམ་ན་མེད། །",
+    "dm": "Any bodhisattva who meditates on the supreme perfection of wisdom, And having arisen from that, teaches the stainless Dharma, And dedicates that for the sake of beings as the cause of enlightenment— There is no virtue in the three worlds equal to that.",
+    "gm": "Any bodhisattva who meditates on the supreme wisdom, Arising from that, teaches the untainted dharma, And dedicates that as a cause for awakening for the sake of beings, There is no virtue equal to that in the three worlds."
+   },
+   {
+    "id": "4-69",
+    "bo": "སངས་རྒྱས་ཀྱིས་བཤད་རབ་ཏུ་སྤྱོད་ཅིང་རབ་བསྟན་པའི། ། ཆོས་འདི་ཐམས་ཅད་བརྗོད་པ་ཙམ་དུ་ཟད་ཤེས་ནས། ། བསྐལ་པ་བྱེ་བ་ཁྲག་ཁྲིག་མང་བོར་བརྗོད་བྱས་ཀྱང་། ། ཆོས་ཀྱི་དབྱིངས་ལ་ཟད་པ་མེད་ཅིང་འཕེལ་བ་མེད། །",
+    "dm": "Knowing that all these dharmas, which the Buddha has thoroughly practiced and clearly taught, Are exhausted as mere expressions, Even if one were to speak of them for many tens of billions of eons, The expanse of phenomena is without exhaustion and without increase.",
+    "gm": "Spoken by the Buddha, vividly practiced and vividly taught, Knowing all these dharmas to be nothing more than mere expressions, Even if they are expressed for many tens of millions and hundreds of billions of eons, In the dharmadhātu, there is no depletion and no increase."
+   },
+   {
+    "id": "4-70",
+    "bo": "རྒྱལ་བ་རྣམས་ཀྱི་ཕ་རོལ་ཕྱིན་ཅེས་བྱ་བ་གང་། ། ཆོས་དེ་རྣམས་ཀྱང་མིང་ཙམ་དུ་ནི་ཡོངས་སུ་བསྒྲགས། ། ཡོངས་བསྔོ་རློམ་སེམས་མེད་པའི་བྱང་ཆུབ་སེམས་དཔའ་ནི། ། ཉམས་པ་མེད་ཅིང་སངས་རྒྱས་བྱང་ཆུབ་མཆོག་རེག་འགྱུར། །",
+    "dm": "Whatever is called the perfection of the Victors, Those phenomena are also proclaimed to be merely names. A bodhisattva who dedicates without conceptual arrogance Will not decline and will touch the supreme awakening of a Buddha.",
+    "gm": "Whatever is called the perfection of the victors, Those dharmas too are fully proclaimed to be merely names. A bodhisattva who fully dedicates without a conceited mind Will without decline touch the supreme awakening of a buddha."
+   },
+   {
+    "id": "4-75",
+    "bo": "སྟོང་པ་མཚན་མེད་སྨོན་པ་མེད་པའི་ཆོས་སྤྱོད་ཅིང་། ། མྱ་ངན་འདས་ལ་མི་རེག་མཚན་མར་མི་སྤྱོད་པ། ། དཔེར་ན་མཉན་པ་མཁས་པ་ཕར་འགྲོ་ཚུར་འགྲོ་ཡང་། ། མཐའ་གཉིས་མི་གནས་རྒྱ་མཚོར་གནས་པ་མེད་པ་བཞིན། །",
+    "dm": "While practicing the dharmas of emptiness, signlessness, and wishlessness, They do not touch upon nirvāṇa, yet do not engage in signs; For example, just as a skilled boatman goes back and forth, Without staying on either shore and without remaining in the ocean.",
+    "gm": "Practicing the dharmas of emptiness, signlessness, and wishlessness, Not touching nirvāṇa and not engaging in signs, Just as a skilled boatman going back and forth, Does not dwell on either shore, nor does he dwell in the ocean."
+   },
+   {
+    "id": "4-91",
+    "bo": "དེ་བཞིན་བྱང་ཆུབ་སེམས་དཔའ་མཁས་པ་སྙིང་རྗེར་གནས། ། ཐབས་དང་ཤེས་རབ་གཉིས་ཀྱི་གདུགས་ནི་ཡོངས་བཟུང་སྟེ། ། ཆོས་རྣམས་སྟོང་པ་མཚན་མེད་སྨོན་པ་མེད་རྟོག་ཅིང་། ། མྱ་ངན་འདས་ལ་རེག་པ་མེད་ལ་ཆོས་ཀྱང་མཐོང་། །",
+    "dm": "Likewise, the wise bodhisattva abides in compassion, Having fully taken up the two umbrellas of skillful means and wisdom; They contemplate all phenomena as empty, signless, and wishless, And without touching nirvana, they also perceive the true nature of phenomena.",
+    "gm": "Likewise, a skilled bodhisattva dwelling in compassion, Completely holding the two umbrellas of skillful means and wisdom, Realizing that dharmas are empty, signless, and wishless, Does not touch nirvāṇa, yet sees the dharmas."
+   },
+   {
+    "id": "4-98",
+    "bo": "གལ་ཏེ་སྤྱོད་པ་དང་ནི་དབང་པོ་ཡོངས་དྲིས་ལ། ། བྱང་ཆུབ་སེམས་དཔའ་སྟོང་པ་མཚན་མ་མེད་པའི་ཆོས། ། ཡོངས་སུ་མི་སྟོན་ཕྱིར་མི་ལྡོག་པའི་ས་ཡི་ཆོས། ། མི་འཆད་དེ་ནི་ལུང་མ་བསྟན་པར་རིག་པར་བྱ། །",
+    "dm": "If, having thoroughly inquired about their conduct and faculties, The bodhisattva does not fully demonstrate the dharmas of emptiness and signlessness, Nor explain the dharmas of the irreversible stage, One should understand that such a person has not been prophesied.",
+    "gm": "If, when completely questioned about their practice and faculties, A bodhisattva, the dharmas of emptiness and signlessness Does not completely teach, and the dharmas of the irreversible stage Does not explain, they should be known as unprophesied."
+   },
+   {
+    "id": "5-1",
+    "bo": "སྐབས་ལྔ་པ་རྩེ་མོ་མངོན་པར་རྫོགས་པར་རྟོགས་པ་བསྟན། ། དགྲ་བཅོམ་ས་དང་རྐྱེན་གྱི་སངས་རྒྱས་ཡེ་ཤེས་དང་། ། ཁམས་གསུམ་དག་ལ་རྨི་ལམ་ན་ཡང་མི་འདོད་ཅིང་། ། སངས་རྒྱས་རྣམས་མཐོང་འགྲོ་ལ་ཆོས་ཀྱང་སྟོན་བྱེད་པ། ། དེ་ནི་མི་ལྡོག་ལུང་བསྟན་ཡིན་པར་རིག་པར་བྱ། །",
+    "dm": "The fifth chapter explains the clear realization of the pinnacle. One who does not desire the level of an Arhat, the wisdom of a Pratyekabuddha, Or the three realms, even in a dream, But sees the Buddhas and teaches the Dharma to beings— One should understand that this is the prophecy of non-retrogression.",
+    "gm": "Chapter Five: Teaching the Clear Realization of the Peak. The stage of an arhat and the pristine wisdom of a pratyekabuddha, And the three realms, they do not desire even in dreams; Seeing the buddhas and teaching the dharma to wanderers, They should be known as irreversible and prophesied."
+   },
+   {
+    "id": "5-15",
+    "bo": "ཇི་ལྟར་ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་མཚན་ཉིད་སྟོང་། ། ཆོས་འདི་ཐམས་ཅད་མཚན་ཉིད་དེ་དང་འདྲར་ཤེས་ཤིང་། ། ཆོས་རྣམས་སྟོང་ཞིང་མཚན་མ་མེད་པར་རབ་ཤེས་ན། ། དེ་ལྟར་སྤྱོད་པ་བདེ་གཤེགས་ཤེས་རབ་སྤྱོད་པ་ཡིན། །",
+    "dm": "Just as the perfection of wisdom is empty of intrinsic characteristics, One should understand that all these phenomena are likewise empty of such characteristics. When one thoroughly understands that all phenomena are empty and signless, To practice in such a manner is to practice the wisdom of the Sugatas.",
+    "gm": "Just as the perfection of wisdom is empty of characteristics, Knowing all these phenomena to be similar to that characteristic, If one thoroughly knows phenomena as empty and signless, Practicing like that is the wisdom practice of the Sugata."
+   },
+   {
+    "id": "5-43",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་མི་རྟོག་ཆོས་རྣམས་ཀུན། ། སྟོང་དང་མཚན་མ་མེད་དང་སྤྲོས་མེད་ཡོངས་ཤེས་པ། ། དེ་ནི་ཤེས་རབ་གཉིས་ཀྱིས་བྱང་ཆུབ་ཚོལ་མི་བྱེད། ། རྣལ་འབྱོར་པ་དེ་ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་བརྩོན། །",
+    "dm": "Any bodhisattva who fully understands that all phenomena are non-conceptual, Empty, signless, and free from conceptual proliferation, Does not seek awakening through a dualistic wisdom; That yogi strives in the supreme perfection of wisdom.",
+    "gm": "Whichever bodhisattva, non-conceptualizing, fully knows all dharmas As empty, signless, and free from elaboration, They do not seek awakening through dualistic wisdom; That yogin exerts themselves in the supreme perfection of wisdom."
+   },
+   {
+    "id": "5-54",
+    "bo": "དེ་ལྟར་སྤྱོད་པ་བྱང་ཆུབ་སེམས་དཔའ་མཁས་གསལ་བ། ། དོགས་པར་བྱེད་དང་སངས་རྒྱས་ཆོས་རྣམས་དམིགས་མི་འགྱུར། ། འཆད་པར་བྱེད་དང་ཆོས་འདོད་ལྟ་བར་བྱེད་མི་དམིགས། ། འདི་ནི་ཞི་འདོད་ཡོན་ཏན་དགའ་བའི་གནས་པ་ཡིན། །",
+    "dm": "In that way, the skillful and brilliant bodhisattvas practice; They do not perceive a realizer, nor are the Buddha-dharmas observed. One does not perceive an expounder, nor is one who desires or views the Dharma observed. This is the dwelling of those who seek peace and delight in virtuous qualities.",
+    "gm": "Practicing thus, the wise and luminous bodhisattvas Do not apprehend awakening or the qualities of a Buddha; They do not apprehend one who teaches, one who desires dharma, or one who sees; This is the dwelling of those who desire peace and delight in qualities."
+   },
+   {
+    "id": "5-57",
+    "bo": "སེམས་ཅན་ཀུན་གྱི་ཡོན་ཏན་མཆོག་ཏུ་འགྲོ་བ་དང་། ། སངས་རྒྱས་ཡེ་ཤེས་མཆོག་ཏུ་རྨད་བྱུང་མཆོག་རེག་དང་། ། ཆོས་ཀྱི་སྦྱིན་པ་རབ་མཆོག་དམ་པ་སྦྱིན་འདོད་གང་། ། ཕན་མཛད་རྣམས་ཀྱི་གནས་མཆོག་འདི་ལ་བསྟེན་པར་གྱིས། །",
+    "dm": "Those who wish to attain the supreme qualities of all beings, To touch the most marvelous and supreme primordial wisdom of the Buddha, And to bestow the most excellent and holy gift of Dharma, Should rely upon this supreme state of the benefactors.",
+    "gm": "To go to the supreme qualities of all sentient beings, And to touch the supremely marvelous, supreme Buddha-wisdom, Whosoever desires to give the supreme, holy gift of Dharma, Rely on this supreme dwelling of those who bring benefit!"
+   },
+   {
+    "id": "5-61",
+    "bo": "སངས་རྒྱས་སྲས་དང་ཉན་ཐོས་རང་རྒྱལ་ལྷ་རྣམས་དང་། ། འགྲོ་བ་ཀུན་གྱི་བདེ་སྐྱིད་ཆོས་རྣམས་ཇི་སྙེད་པ། ། དེ་ཀུན་ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་མཆོག་ལས་བྱུང་། ། ཤེས་རབ་རྣམས་ཀྱང་ཟད་པ་མེད་ཅིང་འཕེལ་བ་མེད། །",
+    "dm": "The Buddha’s heirs, the listeners, the solitary realizers, the gods, And all the various phenomena of happiness and well-being for all beings, All these arise from the supreme Perfection of Wisdom; Yet these wisdoms are also neither exhausted nor increased.",
+    "gm": "The sons of the Buddha, śrāvakas, pratyekabuddhas, and gods, And however many dharmas of happiness and joy of all beings there are, They all arise from the supreme perfection of wisdom, And yet wisdom has no exhaustion and has no increase."
+   },
+   {
+    "id": "5-88",
+    "bo": "བཟོད་ལ་གནས་པའི་ལུས་ནི་ཡོངས་སུ་དག་འགྱུར་ཏེ། ། སུམ་ཅུ་རྩ་གཉིས་མཚན་དང་མཐུ་སྟོབས་ཕ་མཐའ་ཡས། ། སེམས་ཅན་རྣམས་ལ་ཆོས་རབ་སྟོང་པ་སྒྲོགས་པར་བྱེད། ། འདི་ནི་བཟོད་ལྡན་དེ་ལ་འགྲོ་བ་དགའ་འགྱུར་མཁས། །",
+    "dm": "The body of one who abides in patience becomes completely pure, Possessing the thirty-two major marks and infinite power; They proclaim the supreme Dharma of emptiness to sentient beings. Wise and patient, they bring joy to the world.",
+    "gm": "The body of one who abides in patience becomes completely pure; With the thirty-two marks and boundless power and strength, They proclaim the supreme empty dharma to sentient beings; Beings will rejoice in this wise one endowed with patience."
+   },
+   {
+    "id": "5-95",
+    "bo": "ཆོས་གང་ངེས་པའི་བྱང་ཆུབ་ཡོན་ཏན་འབྱུང་འགྱུར་བ། ། འདི་ནི་ཡོན་ཏན་ཆོས་ལྡན་རྣམས་ཀྱི་ཚུལ་ཁྲིམས་དོན། ། ཆོས་གང་ཕན་བྱེད་རྣམས་ཀྱི་བྱང་ཆུབ་ཡོངས་ཉམས་པ། ། འདི་ནི་ཚུལ་ཁྲིམས་འཆལ་ཅེས་རྣམ་པར་འདྲེན་པས་གསུངས། །",
+    "dm": "Those qualities from which the virtues of certain awakening arise— This is the meaning of ethical discipline for those endowed with virtuous qualities. The complete degeneration of the awakening of those who perform beneficial dharmas— This is what the Guide has called \"immoral conduct.\"",
+    "gm": "Whatever dharmas produce the qualities of definite awakening, This is the purpose of discipline for those endowed with virtuous dharmas. Whatever dharmas cause the awakening of benefactors to completely degenerate, This was taught by the Guide to be broken discipline."
+   },
+   {
+    "id": "5-96",
+    "bo": "གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་འདོད་ཡོན་ལྔ་སྤྱོད་ཀྱང་། ། སངས་རྒྱས་ཆོས་དང་འཕགས་པའི་དགེ་འདུན་སྐྱབས་སོང་སྟེ། ། སངས་རྒྱས་འགྲུབ་བྱ་སྙམ་དུ་ཀུན་མཁྱེན་ཡིད་བྱེད་ན། ། མཁས་པ་ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་གནས་རིག་པར་བྱ། །",
+    "dm": "Even if a bodhisattva indulges in the five objects of sensory desire, If they have gone for refuge to the Buddha, the Dharma, and the noble Sangha, And maintain the mental orientation toward omniscience, thinking, \"I must achieve buddhahood,\" The wise should understand that they abide in the perfection of ethical discipline.",
+    "gm": "Even if a bodhisattva enjoys the five sensory pleasures, If they have taken refuge in the Buddha, Dharma, and the noble Sangha, And direct their mind toward omniscience, thinking, \"I will accomplish buddhahood!\" The wise one should be known as abiding in the perfection of discipline."
+   },
+   {
+    "id": "5-102",
+    "bo": "ཆོས་རྣམས་རང་བཞིན་བདག་མེད་ཡ་མ་བརླར་ཤེས་ནས། ། བདག་གི་ཤ་ཡང་གཏོད་ཞིང་ཞུམ་པའི་སེམས་མེད་ན། ། དེ་ཚེ་ཕྱི་རོལ་དངོས་པོ་གཏོང་བ་སྨོས་ཅི་དགོས། ། གལ་ཏེ་སེར་སྣ་བྱེད་པ་དེ་ནི་གནས་མེད་དོ། །",
+    "dm": "Having realized that all phenomena are by nature selfless and insubstantial, If they can give away even their own flesh without a discouraged mind, Then at that time, what need is there to mention the giving of external objects? If they were to be stingy, it would be impossible.",
+    "gm": "Knowing that all dharmas are by nature selfless and insubstantial, If they give away even their own flesh without a shrinking mind, Then what need is there to mention giving away external objects? For them to act with miserliness is impossible."
+   },
+   {
+    "id": "6-4",
+    "bo": "ཤེས་རབ་ཀྱིས་ནི་ཆོས་ཀྱི་རང་བཞིན་ཡོངས་ཤེས་ནས། ། ཁམས་གསུམ་མ་ལུས་པ་ལས་ཡང་དག་འདའ་བར་འགྱུར། ། མི་ཡི་ཁྱུ་མཆོག་འཁོར་ལོ་རིན་ཆེན་བསྐོར་བྱས་ནས། ། སྡུག་བསྔལ་ཟད་པར་བྱ་ཕྱིར་འགྲོ་ལ་ཆོས་ཀྱང་སྟོན། །",
+    "dm": "Through wisdom, one thoroughly understands the nature of phenomena, And will perfectly transcend the three realms without exception. Having turned the precious wheel, that preeminent leader among men Teaches the Dharma to beings in order to bring suffering to an end.",
+    "gm": "By wisdom, having fully known the nature of phenomena, One will completely transcend the three realms without exception; The supreme leader of humans, having turned the precious wheel, Teaches the Dharma to beings in order to exhaust suffering."
+   },
+   {
+    "id": "7-1",
+    "bo": "སྐབས་བདུན་པ་སྐད་ཅིག་མ་གཅིག་ལ་མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་པར་བསྟན། ། ཆོས་འདི་ཡོངས་རྫོགས་བྱས་ནས་བྱང་ཆུབ་སེམས་དཔའ་དེ། །",
+    "dm": "The seventh chapter: teaching the attainment of complete enlightenment in a single instant. Having brought these phenomena to full completion, that bodhisattva,",
+    "gm": "Chapter Seven: Teaching Complete Awakening in a Single Moment. Having fully perfected these dharmas, that bodhisattva"
+   },
+   {
+    "id": "8-1",
+    "bo": "སྐབས་བརྒྱད་པ་ཆོས་ཀྱི་སྐུ་བསྟན། ། ཡོངས་དག་ཞིང་དང་སེམས་ཅན་དག་པ་ཡོངས་སུ་འཛིན། ། སངས་རྒྱས་རྒྱུད་དང་ཆོས་ཀྱི་རྒྱུད་ཀྱང་ཡོངས་སུ་འཛིན། ། དེ་བཞིན་དགེ་འདུན་རྒྱུད་དང་ཆོས་ཀུན་ཡོངས་སུ་འཛིན། །",
+    "dm": "The eighth chapter: teaching the Dharmakāya. One fully embraces the pure realm and the purity of sentient beings; One fully embraces the lineage of the Buddha and the lineage of the Dharma; Likewise, one fully embraces the lineage of the Saṅgha and all phenomena.",
+    "gm": "Chapter Eight: Teaching the Dharmakāya. Fully upholds perfectly pure fields and pure sentient beings; Fully upholds the Buddha lineage and also the Dharma lineage; Likewise fully upholds the Sangha lineage and all dharmas."
+   }
+  ]
+ },
+ {
+  "term_id": "T041",
+  "bo": "ཁམས",
+  "agent_file": "agents/batch-02.json",
+  "current_entry": {
+   "term_id": "T041",
+   "bo": "ཁམས",
+   "sanskrit": "dhātu",
+   "senses": [
+    {
+     "sense": "realm",
+     "occurrences": [
+      "2-3"
+     ],
+     "academic": "realm",
+     "children": "realm",
+     "basis": "style-sheet",
+     "reason": "Cosmological use (unconditioned realm); style sheet policy 41."
+    },
+    {
+     "sense": "element",
+     "occurrences": [
+      "2-9",
+      "2-10",
+      "2-18",
+      "4-1",
+      "4-46",
+      "4-64"
+     ],
+     "academic": "element",
+     "children": "element",
+     "basis": "style-sheet",
+     "reason": "Constituent, e.g. element of space; style sheet policy 41. Unseen occurrences default here."
+    }
+   ]
+  },
+  "occurrences": [
+   {
+    "id": "2-3",
+    "bo": "ཇི་ལྟར་འདྲེན་པ་འདུས་མ་བྱས་ཁམས་མི་གནས་ཤིང་། ། དེ་བཞིན་འདུས་བྱས་ལ་ཡང་མི་གནས་གནས་མེད་སྤྱོད། ། དེ་ལྟར་བྱང་ཆུབ་སེམས་དཔའ་གནས་ལ་གནས་མེད་གནས། ། གནས་མེད་གནས་ཡིན་འདི་ནི་རྒྱལ་བས་གནས་པར་གསུངས། །",
+    "dm": "Just as the Guide does not dwell in the unconditioned realm, Likewise, one does not dwell in the conditioned, but practices without a fixed location; In that way, the bodhisattva dwells by not dwelling in any basis; To dwell without a location is what the Victor has taught as \"dwelling.\"",
+    "gm": "Just as the Guide does not abide in the unconditioned realm, Likewise not abiding in the conditioned, practicing without abiding; Thus the bodhisattva abides in an abiding that is without abiding; Abiding without abiding, this is taught as abiding by the Victorious One."
+   },
+   {
+    "id": "2-9",
+    "bo": "གཟུགས་ནི་ཤེས་རབ་མ་ཡིན་གཟུགས་ལ་ཤེས་རབ་མེད། ། རྣམ་ཤེས་འདུ་ཤེས་ཚོར་དང་སེམས་པ་འདི་དག་ནི། ། ཤེས་རབ་མ་ཡིན་འདི་དག་ལ་ཡང་ཤེས་རབ་མེད། ། འདི་ནི་ནམ་མཁའི་ཁམས་དང་མཚུངས་ཏེ་ཐ་དད་མེད། །",
+    "dm": "Form is not wisdom, and wisdom is not found within form. Consciousness, perception, feeling, and intention— These are not wisdom, nor is wisdom present within them. This is identical to the element of space, without any distinction.",
+    "gm": "Form is not wisdom, in form there is no wisdom; Consciousness, perception, feeling, and volition—these Are not wisdom, nor is there wisdom in these; This is equal to the realm of space, without difference."
+   },
+   {
+    "id": "2-10",
+    "bo": "དམིགས་པ་རྣམས་ཀྱི་རང་བཞིན་དེ་ནི་ཕ་མཐའ་མེད། ། སེམས་ཅན་རང་བཞིན་གང་ཡིན་དེ་ཡང་ཕ་མཐའ་མེད། ། ནམ་མཁའི་ཁམས་ཀྱི་རང་བཞིན་དེ་ཡང་ཕ་མཐའ་མེད། ། འཇིག་རྟེན་མཁྱེན་པའི་ཤེས་རབ་དེ་ཡང་ཕ་མཐའ་མེད། །",
+    "dm": "The nature of all objective referents is boundless; Whatever the nature of sentient beings is, that too is boundless. The nature of the expanse of space is also boundless; The wisdom of the Knower of the World is also boundless.",
+    "gm": "The nature of objects of apprehension is boundless; Whatever the nature of sentient beings is, that too is boundless; The nature of the realm of space is also boundless; The wisdom of the Knower of the World is also boundless."
+   },
+   {
+    "id": "2-18",
+    "bo": "རྒྱལ་བའི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་འདི་རིག་སྔགས་ཆེ། ། སེམས་ཅན་ཁམས་མང་མྱ་ངན་སྡུག་བསྔལ་ཆོས་ཞི་བྱེད། ། གང་དག་འདས་དང་གང་དག་ཕྱོགས་བཅུའི་འཇིག་རྟེན་མགོན། ། རིག་སྔགས་འདི་བསླབས་སྨན་པའི་རྒྱལ་པོ་བླ་མེད་གྱུར། །",
+    "dm": "This Perfection of Wisdom of the Victors is a great mantra of knowledge; It pacifies the misery and suffering of the many realms of sentient beings. Those protectors of the worlds in the ten directions, past and present, Who train in this mantra of knowledge will become unsurpassed kings of physicians.",
+    "gm": "This perfection of wisdom of the Victors is a great mantra; It pacifies the dharmas of sorrow and suffering of the many realms of sentient beings. Whichever Protectors of the World are in the past, and whichever are in the ten directions, Having trained in this mantra, became unsurpassed kings of physicians."
+   },
+   {
+    "id": "4-1",
+    "bo": "སྐབས་བཞི་པ་རྣམ་པ་ཀུན་མངོན་པར་རྫོགས་པར་རྟོགས་པ་བསྟན། ། རྒྱལ་བ་ལ་ནི་ལྷ་རྒྱལ་བརྒྱ་བྱིན་གྱིས་ཞུས་པ། ། བྱང་ཆུབ་སེམས་དཔའ་ཤེས་རབ་སྤྱོད་པ་ཇི་ལྟར་བརྩོན། ། ཕུང་པོ་ཁམས་ལ་རྡུལ་ཙམ་བརྩོན་པར་མི་བྱེད་ཅིང་། ། ཕུང་པོར་མི་བརྩོན་དེ་ནི་བྱང་ཆུབ་སེམས་དཔའ་བརྩོན། །",
+    "dm": "The fourth chapter explains the complete realization of all aspects. Śakra, the king of the gods, asked the Victor: \"How do Bodhisattvas practicing wisdom apply diligence?\" \"They do not apply even a particle of diligence toward the aggregates or the elements; Not applying diligence toward the aggregates is the Bodhisattva's diligence.\"",
+    "gm": "The fourth chapter: teaching the complete realization of all aspects. The king of gods, Śakra, asked the Victor: \"How does a bodhisattva strive in the practice of wisdom?\" \"They do not strive even a speck of dust in the aggregates and elements; Not striving in the aggregates, that is the striving of a bodhisattva.\""
+   },
+   {
+    "id": "4-46",
+    "bo": "གྲགས་ཆེན་ལྡན་རྣམས་བྱ་དཀའ་གོ་ཆ་གྱོན་བྱེད་དེ། ། ཕུང་པོ་ཁམས་དང་སྐྱེ་མཆེད་རྣམས་ཀྱི་གོ་ཆ་མིན། ། ཐེག་གསུམ་འདུ་ཤེས་བྲལ་ཞིང་ཡོངས་སུ་བཟུང་བ་མེད། ། མི་ལྡོག་གཡོ་བ་མེད་ཅིང་མི་འཁྲུགས་ཆོས་ཅན་ཡིན། །",
+    "dm": "Those of great renown don the armor of difficult deeds, Which is not the armor of the aggregates, elements, and sense sources. They are free from the concept of the three vehicles and have no grasping; They are irreversible, unwavering, and possess the quality of being imperturbable.",
+    "gm": "Those endowed with great renown don the armor that is difficult to do; It is not the armor of the aggregates, elements, or sense bases. They are free from the perception of the three vehicles and have no grasping. They are irreversible, unwavering, and of unperturbed nature."
+   },
+   {
+    "id": "4-64",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་དེ་ལྟར་ཟབ་གྱུར་ཅིང་། ། ཐེག་པ་དོན་དམ་ཆགས་མེད་གང་ལ་ཕུང་པོ་དང་། ། ཁམས་དང་སྐྱེ་མཆེད་ཡོད་མིན་ཆོས་འདི་རྟོགས་པ་དེའི། ། བསོད་ནམས་ཡང་དག་གྲུབ་པ་དེ་ལས་ཅི་ཞིག་ཡོད། །",
+    "dm": "Any bodhisattva who has become profound in that way, And who realizes this Dharma—the ultimate, unattached vehicle in which aggregates, Elements, and sense sources do not exist— What could there be that is a more perfect accomplishment of merit than that?",
+    "gm": "For any bodhisattva who realizes this profound Vehicle, ultimate and unattached, wherein the aggregates, Elements, and sense-sources do not exist— What perfectly accomplished merit is there beyond that?"
+   }
+  ]
+ },
+ {
+  "term_id": "T079",
+  "bo": "སྐྱེ་བ",
+  "agent_file": "agents/batch-01.json",
+  "current_entry": {
+   "term_id": "T079",
+   "bo": "སྐྱེ་བ",
+   "sanskrit": "utpāda",
+   "senses": [
+    {
+     "sense": "arising (opposed to non-arising)",
+     "occurrences": [
+      "1-25",
+      "1-26"
+     ],
+     "academic": "arising",
+     "children": "arising",
+     "basis": "both",
+     "reason": "Both give \"arising\" beside \"non-arising\" (policy 52)."
+    },
+    {
+     "sense": "birth (taking rebirth)",
+     "occurrences": [
+      "3-1",
+      "5-46"
+     ],
+     "academic": "birth",
+     "children": "birth",
+     "basis": "both",
+     "reason": "Both give \"birth\" where bodhisattvas manifest birth in saṃsāra."
+    }
+   ]
+  },
+  "occurrences": [
+   {
+    "id": "1-25",
+    "bo": "བདག་ཅི་འདྲ་བ་དེ་འདྲར་སེམས་ཅན་ཐམས་ཅད་ཤེས། ། སེམས་ཅན་ཐམས་ཅད་ཅི་འདྲར་དེ་འདྲར་ཆོས་ཀུན་ཤེས། ། སྐྱེ་བ་མེད་དང་སྐྱེ་བ་གཉི་གར་མི་རྟོག་པ། ། འདི་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་པ་ཡིན། །",
+    "dm": "Know that all sentient beings are exactly as oneself is; Know that all phenomena are exactly as all sentient beings are; Not conceptualizing either non-arising or arising— This is the practice of the supreme perfection of wisdom.",
+    "gm": "Knowing all sentient beings to be like oneself, Knowing all dharmas to be like all sentient beings, Not conceptualizing both non-arising and arising, This is the practice of the supreme perfection of wisdom."
+   },
+   {
+    "id": "1-26",
+    "bo": "འཇིག་རྟེན་དག་ན་ཆོས་མིང་ཇི་སྙེད་ཡོངས་བརྗོད་པ། ། ཀུན་ལ་སྐྱེ་བ་དང་ནི་ཡང་དག་འདས་སྤངས་ནས། ། ཡེ་ཤེས་འཆི་མེད་དམ་པ་དེ་ལས་གཞན་མེད་འཐོབ། ། དེ་ཕྱིར་འདི་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་ཅེས་བྱ། །",
+    "dm": "Having abandoned both the arising and the complete passing away of all things, As many as are expressed by names throughout the worlds, One attains that supreme, deathless primordial wisdom, beyond which there is no other; For that reason, this is called the perfection of wisdom.",
+    "gm": "However many names of dharmas are proclaimed in the world, Having abandoned arising and passing away regarding all of them, One attains the supreme, deathless pristine wisdom, than which there is no other; Therefore, this is called the perfection of wisdom."
+   },
+   {
+    "id": "3-1",
+    "bo": "སྐབས་གསུམ་པ་གཞི་ཐམས་ཅད་ཤེས་པ་བསྟན། ། དཔའ་བོ་གར་སྤྱོད་ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་ཡིས། ། ཁམས་གསུམ་ཡང་དག་འདས་ལ་རྣམ་པར་གྲོལ་བའང་མིན། ། ཉོན་མོངས་བསལ་བར་གྱུར་ཀྱང་སྐྱེ་བ་སྟོན་པར་བྱེད། ། རྒ་དང་ན་དང་འཆི་བ་མེད་ཀྱང་འཆི་འཕོ་སྟོན། །",
+    "dm": "The third chapter teaches the knowledge of all bases. Through the perfection of wisdom, the heroic practitioners Truly transcend the three realms, yet they do not enter a narrow liberation. Although they have eliminated the afflictions, they manifest birth; Although they are free from aging, sickness, and death, they manifest passing away.",
+    "gm": "The third chapter: teaching the knowledge of all bases. Through the perfection of wisdom, wherever the hero practices, They completely transcend the three realms, yet are not liberated; Though afflictions are cleared away, they display birth; Though without aging, sickness, and death, they display death and transmigration."
+   },
+   {
+    "id": "5-46",
+    "bo": "དེ་བཞིན་ཤེས་རབ་སྤྱོད་པ་ནམ་ཡང་འདི་སྙམ་དུ། ། བྱང་ཆུབ་རྟོགས་ནས་འགྲོ་བ་ཡོངས་སུ་དགྲོལ་མི་སེམས། ། སྐྱེ་བ་སྣ་ཚོགས་དང་ནི་བྱ་བ་མང་ལྡན་པ། ། སྒྱུ་མ་ལྟ་བུར་སྟོན་ཀྱང་རྣམ་པར་མི་རྟོག་སྤྱོད། །",
+    "dm": "In the same way, while practicing wisdom, it never occurs to one to think, \"Having realized awakening, I shall liberate all beings.\" Although they display various births and many activities, They practice without conceptualization, just like an illusion.",
+    "gm": "Likewise, those practicing wisdom never think thus: \"Having realized awakening, I will completely liberate beings\"; Though they demonstrate taking various births and having many activities, Like an illusion, they practice without conceptualizing."
+   }
+  ]
+ },
+ {
+  "term_id": "T180",
+  "bo": "ཆོས་མིན",
+  "agent_file": "agents/batch-11.json",
+  "current_entry": {
+   "term_id": "T180",
+   "bo": "ཆོས་མིན",
+   "sanskrit": "adharma",
+   "senses": [
+    {
+     "sense": "non-phenomena",
+     "occurrences": [
+      "4-9"
+     ],
+     "academic": "non-phenomena",
+     "children": "non-things",
+     "basis": "style-sheet",
+     "reason": "Policy 10: non-phenomena; paired with dharma in the dharmadhātu line."
+    },
+    {
+     "sense": "non-Dharma (what opposes the teaching)",
+     "occurrences": [
+      "4-16"
+     ],
+     "academic": "non-Dharma",
+     "children": "against the teaching",
+     "basis": "new",
+     "reason": "Sa adharma-kārya: acts against the Dharma, after abandoning the Dharma; policy 9 sense 1."
+    }
+   ]
+  },
+  "occurrences": [
+   {
+    "id": "4-9",
+    "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་ཚེ་རྣལ་འབྱོར་པ། ། གཟུགས་ཀྱི་འཕེལ་བ་དང་ནི་ཡོངས་སུ་འགྲིབ་མི་མཐོང་། ། གང་ཞིག་ཆོས་དང་ཆོས་མིན་ཆོས་དབྱིངས་མི་མཐོང་ཞིང་། ། མྱ་ངན་འདས་ལ་མི་རེག་དེ་ནི་ཤེས་རབ་གནས། །",
+    "dm": "Yogis who practice the supreme Perfection of Wisdom, Do not see any increase or decrease in form. One who does not see phenomena, non-phenomena, or the sphere of phenomena, And does not touch nirvana, is established in wisdom.",
+    "gm": "When practicing the supreme perfection of wisdom, the yogi Does not see the increase or complete decrease of form; Whoever does not see dharma, non-dharma, or the dharmadhātu, And does not touch nirvāṇa, they abide in wisdom."
+   },
+   {
+    "id": "4-16",
+    "bo": "བསྟི་སྟང་འདོད་པར་འགྱུར་ཞིང་རྙེད་པ་འདོད་འགྱུར་དང་། ། ལྟ་དང་བཅས་པའི་སེམས་ཀྱིས་ཁྱིམ་འདྲིས་བྱེད་ལྡན་ཞིང་། ། ཆོས་བཏང་ནས་ནི་ཆོས་མིན་བྱ་བ་སྤྱོད་འགྱུར་བ། ། ལམ་བོར་ལམ་གོལ་འགྲོ་བ་འདི་ནི་བདུད་ཀྱི་ལས། །",
+    "dm": "They will desire honor and desire gain, And with a mind full of views, they will become intimate with householders; Abandoning the Dharma, they will engage in non-Dharmic activities— Leaving the path and wandering onto a wrong path, this is the work of Māra.",
+    "gm": "Desiring respect and desiring gain, With a mind full of views, they become intimate with families; Having forsaken the dharma, they will practice non-dharma activities; Having discarded the path, going on wrong paths—this is the work of Māra."
+   }
+  ]
+ },
+ {
+  "term_id": "T036",
+  "bo": "སྟོང",
+  "agent_file": "agents/batch-10.json",
+  "current_entry": {
+   "term_id": "T036",
+   "bo": "སྟོང",
+   "sanskrit": "śūnya",
+   "senses": [
+    {
+     "sense": "empty (truncated form of སྟོང་པ)",
+     "occurrences": "all",
+     "academic": "empty",
+     "children": "empty",
+     "basis": "style-sheet",
+     "reason": "Policy 14: adjective or predicate is empty; noun uses of emptiness left to the translator."
+    }
+   ]
+  },
+  "occurrences": [
+   {
+    "id": "1-8",
+    "bo": "གལ་ཏེ་མི་ཤེས་བཞིན་དུ་གཟུགས་སུ་འདུ་ཤེས་ཤིང་། ། ཚོར་བ་སེམས་པ་རྣམ་ཤེས་ཕུང་པོར་སྤྱོད་བྱེད་ཅིང་། ། ཕུང་འདི་སྟོང་ཞེས་རྟོག་ནའང་བྱང་ཆུབ་སེམས་དཔའ་ནི། ། མཚན་མ་ལ་སྤྱོད་སྐྱེ་མེད་གནས་ལ་དད་མ་ཡིན། །",
+    "dm": "If, while lacking such knowledge, one perceives form, And engages with the aggregates of feeling, volition, and consciousness, Even if one conceptualizes that \"these aggregates are empty,\" that bodhisattva Is still practicing with signs and lacks faith in the state of non-arising.",
+    "gm": "If, lacking understanding, one perceives form, And practices regarding the aggregates of feeling, volition, and consciousness, Even if they think \"these aggregates are empty,\" the bodhisattva Practices in signs, and does not have faith in the unborn state."
+   },
+   {
+    "id": "2-2",
+    "bo": "རྟག་དང་མི་རྟག་བདེ་དང་སྡུག་བསྔལ་སྡུག་མི་སྡུག། ། བདག་དང་བདག་མེད་དེ་བཞིན་ཉིད་དང་དེ་བཞིན་སྟོང་། ། འབྲས་བུ་ཐོབ་དང་དགྲ་བཅོམ་ས་ལ་མི་གནས་ཤིང་། ། རང་རྒྱལ་ས་དང་དེ་བཞིན་སངས་རྒྱས་སར་མི་གནས། །",
+    "dm": "Permanent and impermanent, happiness and suffering, pleasant and unpleasant, Self and selflessness, suchness and likewise emptiness; One does not dwell in the attainment of the fruit or the stage of an arhat, Nor does one dwell in the stage of a pratyekabuddha or likewise the stage of a buddha.",
+    "gm": "Permanent and impermanent, happiness and suffering, attractive and unattractive, Self and selflessness, suchness and likewise emptiness, Attaining the fruit, and not abiding in the level of an arhat, Not abiding in the level of a pratyekabuddha, and likewise not in the level of a buddha."
+   },
+   {
+    "id": "4-78",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའ་རྒྱལ་བའི་ཤེས་རབ་སྤྱོད་བྱེད་ཅིང་། ། ཕུང་པོ་འདི་དག་གདོད་ནས་སྟོང་ཞིང་སྐྱེ་མེད་ཤེས། ། མཉམ་པར་མ་བཞག་སེམས་ཅན་ཁམས་ལ་སྙིང་རྗེ་འཇུག། ། བར་སྐབས་དེར་ཡང་སངས་རྒྱས་ཆོས་ལས་ཡོངས་མི་ཉམས། །",
+    "dm": "Thus the bodhisattvas practice the wisdom of the Victors; They know that these aggregates are empty and unborn from the very beginning. While not in meditative equipoise, they engage in compassion for the realm of sentient beings, And even during that interval, they never decline from the Buddha-dharma.",
+    "gm": "A bodhisattva engaging in the victors' perfection of wisdom, Knows these aggregates to be empty from the beginning and unarisen; Without resting in meditative equipoise, they enter into compassion for the realm of beings, And in the meantime, they never decline from the buddha dharmas."
+   },
+   {
+    "id": "4-89",
+    "bo": "དེ་བཞིན་བྱང་ཆུབ་སེམས་དཔའ་མཁས་པ་སྟོང་གནས་ཤིང་། ། ཡེ་ཤེས་རྫུ་འཕྲུལ་ཕ་རོལ་སོན་ལ་གནས་པ་མེད། ། འགྲོ་བ་དག་ལ་བྱ་བ་རྣམ་པ་མཐའ་ཡས་སྟོན། ། བསྐལ་པ་བྱེ་བར་སྐྱོ་བ་མེད་ཅིང་དུབ་པ་མེད། །",
+    "dm": "Likewise, the wise bodhisattva, while dwelling in emptiness, Abides without a fixed place, having perfected gnosis and miraculous powers; They display an infinite variety of activities for the sake of sentient beings, And for ten million eons, they feel no weariness or exhaustion.",
+    "gm": "Likewise, a skilled bodhisattva dwelling in emptiness, Having reached the other shore of pristine wisdom and miracles, does not dwell there, Demonstrates infinite kinds of activities to wanderers; For ten million aeons they have no weariness and no fatigue."
+   },
+   {
+    "id": "5-15",
+    "bo": "ཇི་ལྟར་ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་མཚན་ཉིད་སྟོང་། ། ཆོས་འདི་ཐམས་ཅད་མཚན་ཉིད་དེ་དང་འདྲར་ཤེས་ཤིང་། ། ཆོས་རྣམས་སྟོང་ཞིང་མཚན་མ་མེད་པར་རབ་ཤེས་ན། ། དེ་ལྟར་སྤྱོད་པ་བདེ་གཤེགས་ཤེས་རབ་སྤྱོད་པ་ཡིན། །",
+    "dm": "Just as the perfection of wisdom is empty of intrinsic characteristics, One should understand that all these phenomena are likewise empty of such characteristics. When one thoroughly understands that all phenomena are empty and signless, To practice in such a manner is to practice the wisdom of the Sugatas.",
+    "gm": "Just as the perfection of wisdom is empty of characteristics, Knowing all these phenomena to be similar to that characteristic, If one thoroughly knows phenomena as empty and signless, Practicing like that is the wisdom practice of the Sugata."
+   },
+   {
+    "id": "5-16",
+    "bo": "སེམས་ཅན་ཡོངས་སུ་ལྟོགས་པ་ཟས་ལ་འདོད་བྱེད་ཅིང་། ། འཁོར་བར་ཆགས་པའི་ཡིད་དང་ལྡན་རྣམས་རྟག་ཏུ་འཁོར། ། བདག་དང་བདག་གི་ཆོས་གཉིས་ཡང་དག་མིན་སྟོང་སྟེ། ། བྱིས་པ་བདག་ཉིད་ཀྱིས་ནི་མཁའ་ལ་མདུད་པ་བོར། །",
+    "dm": "Sentient beings, completely famished, desire food, And those with minds attached to cyclic existence wander perpetually. The two phenomena of \"self\" and \"mine\" are unreal and empty; Yet the foolish, by their own doing, tie knots in the sky.",
+    "gm": "Fully starving sentient beings desire food, and Those possessing a mind attached to saṃsāra constantly wander. Both self and the phenomena of self are unreal and empty; Childish beings themselves have cast a knot in space."
+   },
+   {
+    "id": "5-43",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་མི་རྟོག་ཆོས་རྣམས་ཀུན། ། སྟོང་དང་མཚན་མ་མེད་དང་སྤྲོས་མེད་ཡོངས་ཤེས་པ། ། དེ་ནི་ཤེས་རབ་གཉིས་ཀྱིས་བྱང་ཆུབ་ཚོལ་མི་བྱེད། ། རྣལ་འབྱོར་པ་དེ་ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་བརྩོན། །",
+    "dm": "Any bodhisattva who fully understands that all phenomena are non-conceptual, Empty, signless, and free from conceptual proliferation, Does not seek awakening through a dualistic wisdom; That yogi strives in the supreme perfection of wisdom.",
+    "gm": "Whichever bodhisattva, non-conceptualizing, fully knows all dharmas As empty, signless, and free from elaboration, They do not seek awakening through dualistic wisdom; That yogin exerts themselves in the supreme perfection of wisdom."
+   },
+   {
+    "id": "5-56",
+    "bo": "འདབ་ཆགས་མཁའ་ལ་གནས་ཀྱང་ལྟུང་བར་འགྱུར་མ་ཡིན། ། ཉ་ནི་ཆུ་ལ་གནས་ཀྱང་འཚུབས་ཏེ་འཆི་བ་མེད། ། དེ་ལྟར་བྱང་ཆུབ་སེམས་དཔའ་བསམ་གཏན་སྟོབས་དག་གིས། ། ཕ་རོལ་སོན་པ་སྟོང་གནས་མྱ་ངན་འདའ་མི་འགྱུར། །",
+    "dm": "Though birds dwell in the sky, they do not fall; Though fish dwell in the water, they do not suffocate or die. Likewise, through the power of meditative concentration, Bodhisattvas Who have reached the far shore dwell in emptiness but do not pass into nirvāṇa.",
+    "gm": "A bird dwells in the sky, yet does not fall; A fish dwells in water, yet does not suffocate and die; Likewise, the bodhisattva, by the powers of concentration, Having reached the other shore, dwells in emptiness and does not pass into nirvāṇa."
+   }
+  ]
+ },
+ {
+  "term_id": "T025",
+  "bo": "སྟོང་པ",
+  "agent_file": "agents/batch-12.json",
+  "current_entry": {
+   "term_id": "T025",
+   "bo": "སྟོང་པ",
+   "sanskrit": "śūnya",
+   "senses": [
+    {
+     "sense": "adjective or predicate",
+     "occurrences": "all",
+     "academic": "empty",
+     "children": "empty",
+     "basis": "style-sheet",
+     "reason": "Policy 14: \"empty\" when adjectival or predicate; use \"emptiness\" where the noun is wanted."
+    }
+   ]
+  },
+  "occurrences": [
+   {
+    "id": "1-7",
+    "bo": "ཡང་འདི་ཤེས་རབ་འདི་ནི་གང་ཡིན་སུ་ཡི་ཡིན། ། གང་ལས་ཡིན་ཞེས་ཆོས་འདི་ཐམས་ཅད་སྟོང་པར་རྟོག། ། ཉེ་བར་བརྟགས་ནས་ཞུམ་པ་མེད་ཅིང་སྐྲག་མེད་པ། ། བྱང་ཆུབ་སེམས་དཔའ་དེ་ནི་བྱང་ཆུབ་ཉེ་བ་ཡིན། །",
+    "dm": "Furthermore, thinking, \"What is this wisdom? Whose is it? From where does it come?\" they realize all these phenomena are empty; Having closely examined them, they are without discouragement or fear; Such a bodhisattva is close to awakening.",
+    "gm": "Furthermore, examining, \"What is this wisdom, and whose is it? From where does it come?\" they realize all these phenomena to be empty. Having closely examined, the one who is without despondency and without fear, That bodhisattva is close to awakening."
+   },
+   {
+    "id": "2-30",
+    "bo": "གང་ལ་གཟུགས་མིན་ཚོར་མིན་འདུ་ཤེས་མི་དམིགས་ཤིང་། ། རྣམ་པར་ཤེས་པ་མ་ཡིན་སེམས་པ་མི་དམིགས་ལ། ། ཆོས་ཀུན་སྐྱེ་མེད་སྟོང་པའི་ཚུལ་དུ་རབ་ཤེས་པ། ། འདི་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་པ་ཡིན། །",
+    "dm": "In which form is not apprehended, nor feeling, nor perception, Nor consciousness, nor intention is apprehended, And all phenomena are thoroughly known to be unborn and empty— This is the practice of the supreme perfection of wisdom.",
+    "gm": "Where form is not, feeling is not, and perception is not apprehended, Consciousness is not, and volition is not apprehended, And all dharmas are fully known in the manner of being unarisen and empty: This is the practice of the supreme perfection of wisdom."
+   },
+   {
+    "id": "4-24",
+    "bo": "མཁས་པ་འཇིག་རྟེན་གནས་སམ་མྱ་ངན་འདས་ཀྱང་རུང་། ། ཆོས་ཉིད་སྐྱོན་མེད་ཆོས་རྣམས་སྟོང་པ་འདི་གནས་ཏེ། ། བྱང་ཆུབ་སེམས་དཔའ་དེ་བཞིན་ཉིད་འདི་རྗེས་སུ་རྟོགས། ། དེ་ཕྱིར་དེ་བཞིན་གཤེགས་ཞེས་སངས་རྒྱས་མཚན་གསོལ་ཏོ། །",
+    "dm": "Whether the wise remain in the world or pass into nirvāṇa, This flawless true nature, the emptiness of all phenomena, remains. Bodhisattvas realize this suchness; And therefore, the Buddha is given the name \"Tathāgata.\"",
+    "gm": "Whether the wise remain in the world or have passed into nirvāṇa, This flawless dharmatā, the emptiness of dharmas, remains; Bodhisattvas subsequently realize this suchness, Therefore, the Buddhas are given the name Tathāgata."
+   },
+   {
+    "id": "4-68",
+    "bo": "བསོད་ནམས་དེ་ཡང་གསོག་དང་དེ་བཞིན་སྟོང་པ་དང་། ། གསོབ་དང་ཡ་མ་བརླ་དང་སྙིང་པོ་མེད་པར་ཤེས། ། དེ་ལྟར་བདེ་གཤེགས་རྣམས་ཀྱི་ཤེས་རབ་སྤྱད་སྤྱོད་ན། ། སྤྱོད་ཚེ་བསོད་ནམས་དཔག་ཏུ་མེད་པ་ཡོངས་སུ་འཛིན། །",
+    "dm": "Know that such merit is also accumulated, and likewise empty, Hollow, insubstantial, and without essence. When one practices the wisdom of the Sugatas in that manner, At the time of practicing, one fully grasps immeasurable merit.",
+    "gm": "Knowing that merit, too, to be an accumulation and likewise empty, Hollow, baseless, and coreless— If one thus engages in the wisdom practice of the sugatas, While engaging, one fully grasps immeasurable merit."
+   },
+   {
+    "id": "4-75",
+    "bo": "སྟོང་པ་མཚན་མེད་སྨོན་པ་མེད་པའི་ཆོས་སྤྱོད་ཅིང་། ། མྱ་ངན་འདས་ལ་མི་རེག་མཚན་མར་མི་སྤྱོད་པ། ། དཔེར་ན་མཉན་པ་མཁས་པ་ཕར་འགྲོ་ཚུར་འགྲོ་ཡང་། ། མཐའ་གཉིས་མི་གནས་རྒྱ་མཚོར་གནས་པ་མེད་པ་བཞིན། །",
+    "dm": "While practicing the dharmas of emptiness, signlessness, and wishlessness, They do not touch upon nirvāṇa, yet do not engage in signs; For example, just as a skilled boatman goes back and forth, Without staying on either shore and without remaining in the ocean.",
+    "gm": "Practicing the dharmas of emptiness, signlessness, and wishlessness, Not touching nirvāṇa and not engaging in signs, Just as a skilled boatman going back and forth, Does not dwell on either shore, nor does he dwell in the ocean."
+   },
+   {
+    "id": "4-84",
+    "bo": "གང་གི་ཚེ་ན་བྱང་ཆུབ་སེམས་དཔའ་མཁས་གསལ་བ། ། སྟོང་པ་ཞི་བའི་ཏིང་འཛིན་དམ་པ་འདི་སྤྱོད་པ། ། བར་སྐབས་དེར་ནི་མཚན་མ་རབ་ཏུ་སྒོམ་མི་བྱེད། ། མཚན་མ་མེད་པར་གནས་ཤིང་ཞི་ལ་རབ་ཞི་སྤྱོད། །",
+    "dm": "When a bodhisattva who is wise and clear-minded Practices this supreme samadhi of empty peace, During that time, one does not cultivate any signs; Abiding in the signless, one practices peace and utter tranquility.",
+    "gm": "Whenever a skilled and brilliant bodhisattva Engages in this supreme samādhi of peaceful emptiness, During that time they do not intensely cultivate signs; Dwelling in signlessness, they practice peace and profound peace."
+   },
+   {
+    "id": "4-91",
+    "bo": "དེ་བཞིན་བྱང་ཆུབ་སེམས་དཔའ་མཁས་པ་སྙིང་རྗེར་གནས། ། ཐབས་དང་ཤེས་རབ་གཉིས་ཀྱི་གདུགས་ནི་ཡོངས་བཟུང་སྟེ། ། ཆོས་རྣམས་སྟོང་པ་མཚན་མེད་སྨོན་པ་མེད་རྟོག་ཅིང་། ། མྱ་ངན་འདས་ལ་རེག་པ་མེད་ལ་ཆོས་ཀྱང་མཐོང་། །",
+    "dm": "Likewise, the wise bodhisattva abides in compassion, Having fully taken up the two umbrellas of skillful means and wisdom; They contemplate all phenomena as empty, signless, and wishless, And without touching nirvana, they also perceive the true nature of phenomena.",
+    "gm": "Likewise, a skilled bodhisattva dwelling in compassion, Completely holding the two umbrellas of skillful means and wisdom, Realizing that dharmas are empty, signless, and wishless, Does not touch nirvāṇa, yet sees the dharmas."
+   },
+   {
+    "id": "4-96",
+    "bo": "གང་ཚེ་འགྲོ་ལ་བྱམས་པས་རྗེས་སུ་འབྲེལ་བྱས་ནས། ། ཏིང་འཛིན་སྟོང་པ་མཚན་མེད་སྨོན་པ་མེད་སྤྱོད་པ། ། དེ་ནི་མྱ་ངན་འདས་པ་ཐོབ་པར་འགྱུར་ཞེའམ། ། འདུས་བྱས་ཡིན་པར་གདགས་ནུས་དེ་ནི་གནས་མེད་དོ། །",
+    "dm": "When, having connected with beings through loving-kindness, He practices the meditative stabilizations of emptiness, signlessness, and wishlessness, It is impossible to designate that he has attained nirvana, Or to designate him as something conditioned; he does not abide anywhere.",
+    "gm": "Whenever, having bound themselves with love for wanderers, They practice the samādhis of emptiness, signlessness, and wishlessness, Can it be designated that they will attain nirvāṇa, Or that they are conditioned? They have no abiding."
+   },
+   {
+    "id": "4-98",
+    "bo": "གལ་ཏེ་སྤྱོད་པ་དང་ནི་དབང་པོ་ཡོངས་དྲིས་ལ། ། བྱང་ཆུབ་སེམས་དཔའ་སྟོང་པ་མཚན་མ་མེད་པའི་ཆོས། ། ཡོངས་སུ་མི་སྟོན་ཕྱིར་མི་ལྡོག་པའི་ས་ཡི་ཆོས། ། མི་འཆད་དེ་ནི་ལུང་མ་བསྟན་པར་རིག་པར་བྱ། །",
+    "dm": "If, having thoroughly inquired about their conduct and faculties, The bodhisattva does not fully demonstrate the dharmas of emptiness and signlessness, Nor explain the dharmas of the irreversible stage, One should understand that such a person has not been prophesied.",
+    "gm": "If, when completely questioned about their practice and faculties, A bodhisattva, the dharmas of emptiness and signlessness Does not completely teach, and the dharmas of the irreversible stage Does not explain, they should be known as unprophesied."
+   },
+   {
+    "id": "5-26",
+    "bo": "དེ་བཞིན་བྱང་ཆུབ་སེམས་དཔའ་ཤེས་རབ་ཕ་རོལ་ཕྱིན། ། མཆོག་སྤྱོད་སྟོང་པ་དང་ནི་མཚན་མ་མེད་སྤྱོད་པ། ། མཁས་པས་ལྟ་བའི་ཐིབས་པོ་བཅོམ་ནས་འགྲོ་ཀུན་དང་། ། དགྲ་བཅོམ་རང་རྒྱལ་བྱང་ཆུབ་སེམས་མང་ཟིལ་གྱིས་གནོན། །",
+    "dm": "Likewise, the bodhisattva who practices the supreme perfection of wisdom, Dwelling in emptiness and the signless, Having destroyed the dense darkness of views, outshines all worldly beings, Arhats, Pratyekabuddhas, and the many bodhisattvas.",
+    "gm": "Just so, the bodhisattva practicing the supreme perfection of wisdom, Practicing emptiness and signlessness, The wise one, having destroyed the dense thicket of views, outshines all beings, Arhats, pratyekabuddhas, and many bodhisattvas."
+   },
+   {
+    "id": "5-51",
+    "bo": "རྒྱུ་རྣམ་བཞི་ཡིས་བྱང་ཆུབ་སེམས་དཔའ་མཁས་སྟོབས་ལྡན། ། བདུད་བཞིས་ཐུབ་པར་དཀའ་ཞིང་བསྐྱོད་པར་མི་ནུས་ཏེ། ། སྟོང་པར་གནས་དང་སེམས་ཅན་ཡོངས་སུ་མི་གཏོང་དང་། ། ཇི་སྐད་སྨྲས་བཞིན་བྱེད་དང་བདེ་གཤེགས་བྱིན་བརླབས་ཅན། །",
+    "dm": "Through four causes, the wise and powerful bodhisattva Is difficult for the four Māras to overcome and cannot be shaken: Abiding in emptiness, never forsaking sentient beings, Acting exactly as one speaks, and possessing the blessings of the Sugatas.",
+    "gm": "By four causes, the wise bodhisattva possesses strength, Is hard to overcome by the four Māras, and cannot be moved: Dwelling in emptiness, not forsaking sentient beings, Acting as they have spoken, and possessing the blessing of the Sugatas."
+   },
+   {
+    "id": "5-88",
+    "bo": "བཟོད་ལ་གནས་པའི་ལུས་ནི་ཡོངས་སུ་དག་འགྱུར་ཏེ། ། སུམ་ཅུ་རྩ་གཉིས་མཚན་དང་མཐུ་སྟོབས་ཕ་མཐའ་ཡས། ། སེམས་ཅན་རྣམས་ལ་ཆོས་རབ་སྟོང་པ་སྒྲོགས་པར་བྱེད། ། འདི་ནི་བཟོད་ལྡན་དེ་ལ་འགྲོ་བ་དགའ་འགྱུར་མཁས། །",
+    "dm": "The body of one who abides in patience becomes completely pure, Possessing the thirty-two major marks and infinite power; They proclaim the supreme Dharma of emptiness to sentient beings. Wise and patient, they bring joy to the world.",
+    "gm": "The body of one who abides in patience becomes completely pure; With the thirty-two marks and boundless power and strength, They proclaim the supreme empty dharma to sentient beings; Beings will rejoice in this wise one endowed with patience."
+   }
+  ]
+ },
+ {
+  "term_id": "T064",
+  "bo": "ས",
+  "agent_file": "agents/batch-12.json",
+  "current_entry": {
+   "term_id": "T064",
+   "bo": "ས",
+   "sanskrit": "bhūmi",
+   "senses": [
+    {
+     "sense": "stage",
+     "occurrences": "all",
+     "academic": "stage",
+     "children": "level",
+     "basis": "style-sheet",
+     "reason": "Policy 42: ས is \"stage\" (bhūmi) academic, \"level\" children; covers stage of an arhat."
+    }
+   ]
+  },
+  "occurrences": [
+   {
+    "id": "2-2",
+    "bo": "རྟག་དང་མི་རྟག་བདེ་དང་སྡུག་བསྔལ་སྡུག་མི་སྡུག། ། བདག་དང་བདག་མེད་དེ་བཞིན་ཉིད་དང་དེ་བཞིན་སྟོང་། ། འབྲས་བུ་ཐོབ་དང་དགྲ་བཅོམ་ས་ལ་མི་གནས་ཤིང་། ། རང་རྒྱལ་ས་དང་དེ་བཞིན་སངས་རྒྱས་སར་མི་གནས། །",
+    "dm": "Permanent and impermanent, happiness and suffering, pleasant and unpleasant, Self and selflessness, suchness and likewise emptiness; One does not dwell in the attainment of the fruit or the stage of an arhat, Nor does one dwell in the stage of a pratyekabuddha or likewise the stage of a buddha.",
+    "gm": "Permanent and impermanent, happiness and suffering, attractive and unattractive, Self and selflessness, suchness and likewise emptiness, Attaining the fruit, and not abiding in the level of an arhat, Not abiding in the level of a pratyekabuddha, and likewise not in the level of a buddha."
+   },
+   {
+    "id": "2-7",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའ་མཁས་རིག་དེ་ལྟར་སྤྱོད་པ་ནི། ། དགྲ་བཅོམ་ས་ལ་མི་སློབ་རྐྱེན་རྟོགས་ས་ལ་མིན། ། ཐམས་ཅད་མཁྱེན་ཉིད་དེ་ཆེད་དུ་སངས་རྒྱས་ཆོས་རྗེས་སློབ། ། གང་ཞིག་སློབ་མི་སློབ་ལ་མི་སློབ་དེ་སློབ་ཡིན། །",
+    "dm": "The wise and learned Bodhisattva who practices in this way, Does not train in the stage of an Arhat, nor in the stage of a Pratyekabuddha; For the sake of omniscience, they train following the Buddha-dharma. One who does not train in the distinction between training and non-training is one who trains.",
+    "gm": "A wise, understanding bodhisattva who practices in this way Does not train for the level of an arhat, nor the level of a pratyekabuddha; For the sake of omniscience itself, they train in the qualities of a buddha; Whoever does not train in training and no-more-training, that is training."
+   },
+   {
+    "id": "4-4",
+    "bo": "དེ་བཞིན་བྱང་ཆུབ་ཡོངས་སུ་ཚོལ་ཚེ་རྒྱལ་རྣམས་ཀྱི། ། ཤེས་རབ་ཕ་རོལ་ཕྱིན་འདི་མཉན་པ་གང་ཐོབ་པ། ། དེ་ནི་དབུགས་ཕྱིན་ཐོབ་པར་གྱུར་ཅིང་འཇིགས་མེད་དེ། ། དགྲ་བཅོམ་ས་ལ་མ་ཡིན་རྐྱེན་རྟོགས་ས་ལ་མིན། །",
+    "dm": "Likewise, when seeking complete awakening, those who get to hear This Perfection of Wisdom of the Victors, Will find relief and become fearless; This is not the level of an Arhat, nor the level of a Pratyekabuddha.",
+    "gm": "Likewise, when seeking enlightenment, whoever attains the hearing Of this perfection of wisdom of the Victors, They attain relief and become fearless— Not of the level of an arhat, nor the level of a pratyekabuddha."
+   },
+   {
+    "id": "4-13",
+    "bo": "འདི་བཤད་ཚེ་ན་ཁ་ཅིག་སོམ་ཉི་ཟ་འགྱུར་ཏེ། ། འདྲེན་པས་འདིར་ནི་བདག་གི་མིང་ཡང་ཡོངས་མ་བརྗོད། ། རིགས་དང་ས་དང་རུས་ཀྱང་ཡོངས་སུ་མ་བརྗོད་ཅེས། ། འདི་ནི་ཉམ་པར་མི་འགྱུར་སྤོང་འགྱུར་བདུད་ཀྱི་ལས། །",
+    "dm": "When this is explained, some will harbor doubts, thinking: \"The Leader has not even mentioned my name here; He has not mentioned my family, my level, or my lineage.\" This is the work of Māra, causing them to reject it rather than listen.",
+    "gm": "When this is taught, some will harbor doubts, thinking, 'The Leader has not fully pronounced my name here, Nor fully pronounced my lineage, birthplace, or clan.' They will not listen and will abandon it; this is the work of Māra."
+   },
+   {
+    "id": "4-15",
+    "bo": "དཔེར་ན་ལ་ལས་རོ་བརྒྱ་ལྡན་པའི་ཟས་རྙེད་ལ། ། ཟས་མཆོག་རྙེད་ནས་ཟས་ངན་ཚོལ་བར་བྱེད་པ་ལྟར། ། བྱང་ཆུབ་སེམས་དཔའ་ཕ་རོལ་ཕྱིན་པ་འདི་རྙེད་ནས། ། དགྲ་བཅོམ་ས་ཡིས་བྱང་ཆུབ་ཚོལ་བྱེད་དེ་བཞིན་ནོ། །",
+    "dm": "For example, it is like someone who has found food possessing a hundred flavors, Yet, having found the finest food, they search for poor food. Just so, having found this Perfection of the Bodhisattvas, They seek the enlightenment of the Arhat stage.",
+    "gm": "For example, just as someone who has found food with a hundred flavors, Having found supreme food, searches for inferior food; A bodhisattva who has found this perfection of wisdom But seeks enlightenment through the level of an arhat is just like that."
+   }
+  ]
+ }
+]

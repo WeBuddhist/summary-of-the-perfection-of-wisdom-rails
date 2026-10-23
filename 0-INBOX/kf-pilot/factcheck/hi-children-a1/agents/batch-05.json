@@ -1,0 +1,260 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "4-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-27",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "साफ़ दिखाता है。",
+     "evidence": "The final sentence ends with a Chinese full stop instead of the Devanagari danda.",
+     "fix": "वह हर शिक्षा को भी साफ़ दिखाता है।"
+    }
+   ]
+  },
+  {
+   "id": "4-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-30",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "श्रोता की सब चीज़ें पूर्ण प्रज्ञा ही करती है",
+     "evidence": "Academic: all the dharmas of the hearers (shravakas) are accomplished by the Perfection of Wisdom; the plural and the object of 'doing' are lost, so the phrase is confusing.",
+     "fix": "बुद्ध के सारे काम और श्रोताओं की जितनी भी चीज़ें हैं, उन सबको पूर्ण प्रज्ञा ही करती है।"
+    }
+   ]
+  },
+  {
+   "id": "4-31",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "पर वह बुद्ध के स्तर के सभी अच्छे गुण जमा कर लेता है",
+     "evidence": "In the source it is the bodhisattva's dharmata (true nature) that gathers all the qualities of the buddha-level; the children's text makes the bodhisattva the gatherer.",
+     "fix": "पर वह असली स्वभाव बुद्ध के स्तर के सभी अच्छे गुण जमा कर लेता है।"
+    }
+   ]
+  },
+  {
+   "id": "4-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-36",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "तब पानी बिना गिरे आराम से घर पहुँच जाता है",
+     "evidence": "Academic: the one carrying it, not destroyed, reaches home comfortably; it is the jar/carrier that arrives intact, not the water.",
+     "fix": "तब घड़ा बिना टूटे आराम से घर पहुँच जाता है।"
+    }
+   ]
+  },
+  {
+   "id": "4-37",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "तो वह जल्दी ही हार जाएगा",
+     "evidence": "Academic: if devoid of wisdom he is quickly ruined/destroyed; 'हार जाएगा' means losing a contest and is imprecise.",
+     "fix": "तो वह जल्दी ही गिर जाएगा।"
+    }
+   ]
+  },
+  {
+   "id": "4-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-43",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "क्योंकि गुरुओं से ही अच्छे गुण मिलते हैं",
+     "evidence": "Academic: the qualities of the wise arise from them (the good friends); the children's text says qualities are received from gurus.",
+     "fix": "क्योंकि समझदार लोगों के अच्छे गुण इन्हीं से पैदा होते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "4-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "एक बहुत मुश्किल कवच पहनना जानते हैं",
+     "evidence": "Academic: they put on a hard-to-wear armour; not that they 'know how to' wear it.",
+     "fix": "एक बहुत मुश्किल कवच पहनते हैं।"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "इन्द्रियों का द्वार से बना कवच",
+     "evidence": "Ungrammatical phrase; the armour is not of heaps, elements and sense-doors.",
+     "fix": "यह कवच ढेर, तत्त्व और इन्द्रियों के द्वारों का नहीं है।"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "वे कभी पीछे न हटने वाला, न डगमगाने वाला और शांत स्वभाव रखते हैं",
+     "evidence": "Plural subject with singular adjectives, ungrammatical; academic: irreversible, unshaken and of unperturbed nature.",
+     "fix": "वे कभी पीछे नहीं हटते, कभी नहीं डगमगाते और उनका स्वभाव शांत रहता है।"
+    }
+   ]
+  },
+  {
+   "id": "4-47",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "समझना चाहिए。",
+     "evidence": "The last sentence ends with a Chinese full stop instead of the Devanagari danda.",
+     "fix": "उन्हें दूसरों के अधीन न रहने वाला और कभी पीछे न हटने वाला समझना चाहिए।"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "ऐसे धर्म से जुड़े होते हैं",
+     "evidence": "Unexplained Sanskrit-derived word 'धर्म' for ages 8-12; elsewhere chos is rendered 'शिक्षा'.",
+     "fix": "वे ऐसी शिक्षा से जुड़े होते हैं"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "शक, चिंता या दुविधा",
+     "evidence": "Academic: doubt, wavering and indecision; 'चिंता' (worry) is not what the text says.",
+     "fix": "शक, उलझन या दुविधा"
+    }
+   ]
+  },
+  {
+   "id": "4-48",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "शुरू में उन्होंने इसे सिखाने की इच्छा नहीं की",
+     "evidence": "Academic: he adopted low zeal, i.e. unwillingness; 'at first' and 'to teach' are not stated in the segment.",
+     "fix": "उन्होंने इसमें ज़्यादा उत्साह नहीं दिखाया, यानी उनका मन नहीं हुआ।"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "न ही कोई इसे पा सकता है",
+     "evidence": "Academic: no one attains it (a statement of fact); 'can attain' turns it into impossibility.",
+     "fix": "न ही कोई इसे पाता है।"
+    }
+   ]
+  },
+  {
+   "id": "4-49",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "वे अँधेरे में खड़े मूर्खों की तरह नासमझ हैं",
+     "evidence": "Academic: ignorant and foolish, deluded like darkness; the simile is darkness, not fools standing in it.",
+     "fix": "वे अनजान और मूर्ख हैं, अँधेरे की तरह नासमझ।"
+    }
+   ]
+  }
+ ]
+}

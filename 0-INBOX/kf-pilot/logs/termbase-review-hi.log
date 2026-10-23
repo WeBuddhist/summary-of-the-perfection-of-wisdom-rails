@@ -1,0 +1,3 @@
+objections terms=15 policies=1 tokens={'prompt_tokens': 67628, 'output_tokens': 1461, 'thinking_tokens': 13649}
+editor overrides applied=0
+applied=15 recorded-only=0 policy-objections=1

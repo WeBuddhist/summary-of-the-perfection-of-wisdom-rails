@@ -1,0 +1,734 @@
+{
+ "batch": "batch-06",
+ "segments": [
+  {
+   "id": "4-0",
+   "terms": [
+    {
+     "bo": "རྣམ་པ་ཀུན་མངོན་པར་རྫོགས་པར་རྟོགས་པ",
+     "dm": "complete realization of all aspects",
+     "gm": "Clear Realization of All Aspects"
+    }
+   ]
+  },
+  {
+   "id": "4-1",
+   "terms": [
+    {
+     "bo": "རྣམ་པ་ཀུན་མངོན་པར་རྫོགས་པར་རྟོགས་པ",
+     "dm": "complete realization of all aspects",
+     "gm": "complete realization of all aspects"
+    },
+    {
+     "bo": "ལྷ་རྒྱལ་བརྒྱ་བྱིན",
+     "dm": "Śakra, the king of the gods",
+     "gm": "The king of gods, Śakra"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victor",
+     "gm": "Victor"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattvas",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "ཕུང་པོ",
+     "dm": "aggregates",
+     "gm": "aggregates"
+    },
+    {
+     "bo": "ཁམས",
+     "dm": "elements",
+     "gm": "elements"
+    }
+   ]
+  },
+  {
+   "id": "4-2",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "dharmas"
+    },
+    {
+     "bo": "སྤྲུལ",
+     "dm": "emanations",
+     "gm": "emanations"
+    },
+    {
+     "bo": "སྒྱུ་མ",
+     "dm": "illusions",
+     "gm": "illusions"
+    },
+    {
+     "bo": "ཐེག་ཆེན",
+     "dm": "Mahayana",
+     "gm": "Great Vehicle"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    }
+   ]
+  },
+  {
+   "id": "4-3",
+   "terms": [
+    {
+     "bo": "དཔག་ཚད",
+     "dm": "yojanas",
+     "gm": "yojanas"
+    }
+   ]
+  },
+  {
+   "id": "4-4",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "awakening",
+     "gm": "enlightenment"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "རྒྱལ་རྣམས",
+     "dm": "Victors",
+     "gm": "Victors"
+    },
+    {
+     "bo": "དགྲ་བཅོམ",
+     "dm": "Arhat",
+     "gm": "arhat"
+    },
+    {
+     "bo": "རྐྱེན་རྟོགས",
+     "dm": "Pratyekabuddha",
+     "gm": "pratyekabuddha"
+    }
+   ]
+  },
+  {
+   "id": "4-5",
+   "terms": []
+  },
+  {
+   "id": "4-6",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་དམ་པ",
+     "dm": "supreme awakening",
+     "gm": "supreme enlightenment"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victors",
+     "gm": "Victors"
+    },
+    {
+     "bo": "རྣམ་པར་འདྲེན་པ",
+     "dm": "Guide",
+     "gm": "Leaders"
+    },
+    {
+     "bo": "ལུང་བསྟན",
+     "dm": "prophecy",
+     "gm": "prophesied"
+    },
+    {
+     "bo": "སངས་རྒྱས་བྱང་ཆུབ",
+     "dm": "awakening of a Buddha",
+     "gm": "enlightenment of the Buddhas"
+    }
+   ]
+  },
+  {
+   "id": "4-7",
+   "terms": [
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "འདྲེན་པ",
+     "dm": "Guides",
+     "gm": "Leaders"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "awakening",
+     "gm": "enlightenment"
+    }
+   ]
+  },
+  {
+   "id": "4-8",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victor",
+     "gm": "Victors"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "awakening",
+     "gm": "enlightenment"
+    }
+   ]
+  },
+  {
+   "id": "4-9",
+   "terms": [
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "རྣལ་འབྱོར་པ",
+     "dm": "Yogis",
+     "gm": "yogi"
+    },
+    {
+     "bo": "གཟུགས",
+     "dm": "form",
+     "gm": "form"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "dharma"
+    },
+    {
+     "bo": "ཆོས་མིན",
+     "dm": "non-phenomena",
+     "gm": "non-dharma"
+    },
+    {
+     "bo": "ཆོས་དབྱིངས",
+     "dm": "the sphere of phenomena",
+     "gm": "dharmadhātu"
+    },
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "nirvana",
+     "gm": "nirvāṇa"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    }
+   ]
+  },
+  {
+   "id": "4-10",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས་ཆོས",
+     "dm": "Buddha-qualities",
+     "gm": "qualities of a Buddha"
+    },
+    {
+     "bo": "སྟོབས",
+     "dm": "powers",
+     "gm": "powers"
+    },
+    {
+     "bo": "རྫུ་འཕྲུལ་རྐང་པ",
+     "dm": "bases of miraculous power",
+     "gm": "bases of miraculous power"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "awakening",
+     "gm": "enlightenment"
+    },
+    {
+     "bo": "རྣམ་པར་མི་རྟོག",
+     "dm": "non-conceptuality",
+     "gm": "Non-conceptualizing"
+    },
+    {
+     "bo": "བྱིན་གྱི་རླབས",
+     "dm": "blessing",
+     "gm": "blessing"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "4-11",
+   "terms": [
+    {
+     "bo": "སྨྲ་བའི་ཟླ་བ",
+     "dm": "Moon of Speakers",
+     "gm": "moon among speakers"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "རབ་འབྱོར",
+     "dm": "Subhūti",
+     "gm": "Subhūti"
+    },
+    {
+     "bo": "བར་དུ་གཅོད",
+     "dm": "obstacles",
+     "gm": "obstacles"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "virtuous qualities",
+     "gm": "qualities"
+    },
+    {
+     "bo": "སྟོན་པ",
+     "dm": "Teacher",
+     "gm": "Teacher"
+    }
+   ]
+  },
+  {
+   "id": "4-12",
+   "terms": [
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victors",
+     "gm": "Victors"
+    },
+    {
+     "bo": "སྤོབས་པ",
+     "dm": "flashes of inspiration",
+     "gm": "confidence"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "sentient beings",
+     "gm": "beings"
+    },
+    {
+     "bo": "བདུད་ཀྱི་ལས",
+     "dm": "work of Māra",
+     "gm": "work of Māra"
+    },
+    {
+     "bo": "བདུད",
+     "dm": "Māra",
+     "gm": "Māra"
+    }
+   ]
+  },
+  {
+   "id": "4-13",
+   "terms": [
+    {
+     "bo": "འདྲེན་པ",
+     "dm": "Leader",
+     "gm": "Leader"
+    },
+    {
+     "bo": "བདུད་ཀྱི་ལས",
+     "dm": "work of Māra",
+     "gm": "work of Māra"
+    },
+    {
+     "bo": "བདུད",
+     "dm": "Māra",
+     "gm": "Māra"
+    }
+   ]
+  },
+  {
+   "id": "4-14",
+   "terms": [
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "མདོ",
+     "dm": "sūtras",
+     "gm": "sūtras"
+    }
+   ]
+  },
+  {
+   "id": "4-15",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattvas",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཕ་རོལ་ཕྱིན་པ",
+     "dm": "Perfection",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་ས",
+     "dm": "Arhat stage",
+     "gm": "level of an arhat"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "enlightenment"
+    }
+   ]
+  },
+  {
+   "id": "4-16",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "dharma"
+    },
+    {
+     "bo": "ཆོས་མིན",
+     "dm": "non-Dharmic",
+     "gm": "non-dharma"
+    },
+    {
+     "bo": "ལམ",
+     "dm": "path",
+     "gm": "path"
+    },
+    {
+     "bo": "ལམ་གོལ",
+     "dm": "wrong path",
+     "gm": "wrong paths"
+    },
+    {
+     "bo": "ལྟ",
+     "dm": "views",
+     "gm": "views"
+    },
+    {
+     "bo": "བདུད་ཀྱི་ལས",
+     "dm": "work of Māra",
+     "gm": "work of Māra"
+    },
+    {
+     "bo": "བདུད",
+     "dm": "Māra",
+     "gm": "Māra"
+    }
+   ]
+  },
+  {
+   "id": "4-17",
+   "terms": [
+    {
+     "bo": "ཆོས་ཀྱི་དམ་པ",
+     "dm": "sublime Dharma",
+     "gm": "holy dharma"
+    },
+    {
+     "bo": "ཆོས་སྒྲ",
+     "dm": "Dharma preacher",
+     "gm": "speaker of dharma"
+    }
+   ]
+  },
+  {
+   "id": "4-18",
+   "terms": [
+    {
+     "bo": "བདུད་ཀྱི་ལས",
+     "dm": "activities of Māra",
+     "gm": "work of Māra"
+    },
+    {
+     "bo": "བདུད",
+     "dm": "Māra",
+     "gm": "Māra"
+    },
+    {
+     "bo": "དགེ་སློང",
+     "dm": "monks",
+     "gm": "monks"
+    },
+    {
+     "bo": "བར་དུ་གཅོད་པ",
+     "dm": "obstacles",
+     "gm": "obstacles"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "4-19",
+   "terms": [
+    {
+     "bo": "རིན་ཆེན་རིན་ཐང་མེད་པ",
+     "dm": "priceless jewels",
+     "gm": "priceless jewels"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victorious Ones",
+     "gm": "Victors"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "dharma"
+    }
+   ]
+  },
+  {
+   "id": "4-20",
+   "terms": [
+    {
+     "bo": "ཐེག་པ",
+     "dm": "vehicle",
+     "gm": "vehicle"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "beings",
+     "gm": "Sentient beings"
+    },
+    {
+     "bo": "དཀོན་པའི་རིན་ཆེན",
+     "dm": "rare and precious jewel",
+     "gm": "rare jewel"
+    },
+    {
+     "bo": "བདུད",
+     "dm": "Mara",
+     "gm": "Māra"
+    },
+    {
+     "bo": "ཕྱོགས་བཅུའི་སངས་རྒྱས",
+     "dm": "Buddhas of the ten directions",
+     "gm": "Buddhas of the ten directions"
+    },
+    {
+     "bo": "ཕྱོགས་བཅུ",
+     "dm": "ten directions",
+     "gm": "ten directions"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    }
+   ]
+  },
+  {
+   "id": "4-21",
+   "terms": [
+    {
+     "bo": "ཕྱོགས་བཅུའི་འཇིག་རྟེན་ཁམས་ཀྱི་སངས་རྒྱས",
+     "dm": "Buddhas of the world systems in the ten directions",
+     "gm": "Buddhas of the world systems in the ten directions"
+    },
+    {
+     "bo": "འཇིག་རྟེན་ཁམས",
+     "dm": "world systems",
+     "gm": "world systems"
+    },
+    {
+     "bo": "ཕྱོགས་བཅུ",
+     "dm": "ten directions",
+     "gm": "ten directions"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "ཡུམ",
+     "dm": "mother",
+     "gm": "mother"
+    },
+    {
+     "bo": "ཤེས་རབ་དམ་པ",
+     "dm": "supreme Perfection of Wisdom",
+     "gm": "holy wisdom"
+    }
+   ]
+  },
+  {
+   "id": "4-22",
+   "terms": [
+    {
+     "bo": "འཇིག་རྟེན་མགོན",
+     "dm": "Protectors of the worlds",
+     "gm": "protectors of the world"
+    },
+    {
+     "bo": "ཕྱོགས་བཅུ",
+     "dm": "ten directions",
+     "gm": "ten directions"
+    },
+    {
+     "bo": "ཡུམ",
+     "dm": "Mother",
+     "gm": "mother"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victors",
+     "gm": "Victors"
+    },
+    {
+     "bo": "འཇིག་རྟེན་སྟོན་པ",
+     "dm": "teachers of the world",
+     "gm": "teachers of the world"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "4-23",
+   "terms": [
+    {
+     "bo": "འཇིག་རྟེན་དེ་བཞིན་ཉིད",
+     "dm": "suchness of the world",
+     "gm": "suchness of the world"
+    },
+    {
+     "bo": "དེ་བཞིན་ཉིད",
+     "dm": "suchness",
+     "gm": "suchness"
+    },
+    {
+     "bo": "དགྲ་བཅོམ",
+     "dm": "Arhats",
+     "gm": "arhats"
+    },
+    {
+     "bo": "རང་རྒྱལ",
+     "dm": "Pratyekabuddhas",
+     "gm": "pratyekabuddhas"
+    },
+    {
+     "bo": "རྒྱལ་སྲས",
+     "dm": "Bodhisattvas",
+     "gm": "sons of the Victors"
+    },
+    {
+     "bo": "དངོས་བྲལ",
+     "dm": "devoid of entities",
+     "gm": "devoid of entities"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "4-24",
+   "terms": [
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "nirvāṇa",
+     "gm": "nirvāṇa"
+    },
+    {
+     "bo": "ཆོས་ཉིད",
+     "dm": "true nature",
+     "gm": "dharmatā"
+    },
+    {
+     "bo": "ཆོས་རྣམས",
+     "dm": "phenomena",
+     "gm": "dharmas"
+    },
+    {
+     "bo": "སྟོང་པ",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattvas",
+     "gm": "Bodhisattvas"
+    },
+    {
+     "bo": "དེ་བཞིན་ཉིད",
+     "dm": "suchness",
+     "gm": "suchness"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddhas"
+    }
+   ]
+  }
+ ]
+}

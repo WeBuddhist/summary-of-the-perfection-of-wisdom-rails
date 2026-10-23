@@ -1,0 +1,323 @@
+{
+ "segments": [
+  {
+   "id": "4-64",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "realizes this profound Vehicle",
+      "explanation": "The realized object is this Dharma; the vehicle is only where it is realized, so the object is misstated."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "4-75",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "yet do not engage in signs",
+      "explanation": "Adds a concessive 'yet'; the Tibetan simply lists two parallel practices."
+     }
+    ],
+    "C": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "phenomena of emptiness, signlessness, and wishlessness",
+      "explanation": "Chos here is the profound teaching of the three doors; 'phenomena of emptiness' misrepresents it."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-82",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "Think about this meaning of space being a pervasive foundation!",
+      "explanation": "Misreads the line; commentaries say to consider upon what space itself rests."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "4-86",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-2",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "They should be known as irreversible and prophesied.",
+      "explanation": "Awkward; the Tibetan says this is to be known as the irreversible prophecy."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-8",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "This is taught by the sons of the Sugata as being solitary.",
+      "explanation": "Commentaries read this as the seclusion of the Sugata's sons, not taught by them."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "Except for those who constantly dwell in villages, regions, and towns,",
+      "explanation": "Garbled structure: the exception is maturing beings and striving for awakening, not village dwellers."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-11",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "isolated monastery",
+      "explanation": "Dgon pa means wilderness/forest here, contrasting with village, not a monastery."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "That conceited bodhisattva ruins themselves.",
+      "explanation": "Drod snyoms is a bodhisattva gauging or judging the other; 'conceited' misses the referent and sense."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "Any bodhisattva who feels superior to them has degraded themselves.",
+      "explanation": "The fault is measuring or judging such a bodhisattva, not feeling superior."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-20",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "visibly strives",
+      "explanation": "Mngon par brtson means earnestly striving; 'visibly' misreads mngon."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-31",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-39",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-46",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "Like an illusion, they practice without conceptualizing.",
+      "explanation": "Illusion simile belongs to the displayed births and activities, not to the manner of practice."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "just like an illusion",
+      "explanation": "Simile is attached to their practice; it qualifies the displayed births and activities."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-49",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-61",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-68",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "Just as one who returns here does not become attached,",
+      "explanation": "Simile is left dangling and unclear; the man's non-attachment is not cleanly stated."
+     }
+    ],
+    "B": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "completely possessed objects",
+      "explanation": "Literal and unclear; refers to realms held by the gods."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-75",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-80",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "If they perceive them as long, they suffer in accomplishing awakening",
+      "explanation": "Omits the perception of suffering; suffering is stated as fact rather than a mistaken perception."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-88",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "Wise and patient, they bring joy to the world.",
+      "explanation": "Reverses direction: beings rejoice in the patient one, not the reverse."
+     }
+    ],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "supreme empty dharma",
+      "explanation": "Teaching of emptiness rendered as an 'empty dharma', misrepresenting the concept."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-95",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "endowed with the phenomena of quality",
+      "explanation": "Unclear phrasing for those endowed with qualities and virtuous dharmas."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "Those qualities from which the virtues of certain awakening arise",
+      "explanation": "Drops 'whatever dharma' that produces the qualities; equates the practice with the qualities."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "The complete degeneration of the awakening of those who perform beneficial dharmas",
+      "explanation": "Equates the degeneration itself with immoral conduct; the Tibetan names the dharma that causes it."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "benefactors",
+      "explanation": "Phan byed are those who benefit others; 'benefactors' suggests those who benefit us."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-106",
+   "candidates": {
+    "A": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "Having given generosity",
+      "explanation": "Awkward; the Tibetan means having given a gift."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-1",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  }
+ ]
+}

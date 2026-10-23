@@ -1,0 +1,136 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "1-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-20",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "दुःख से पार करता है",
+     "evidence": "Tibetan 'མྱ་ངན་ཟློ' is 'mya ngan' (sorrow/nirvāṇa; Mipham 1-20 glosses it 'མྱ་ངན་ལས་ཟློ་བ་སྟེ་འདའ་བར་བྱེད་པ', i.e. brings beyond sorrow/nirvāṇa; Khenrab 1-20 same). The Hindi renders it with 'दुःख', which is the locked rendering of 'སྡུག་བསྔལ' (suffering), so the two different Tibetan terms are conflated.",
+     "fix": "वह सभी सत्त्वों को शोक से पार करता है"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "अप्रमेय विमान",
+     "evidence": "'གཞལ་མེད་ཁང་ཆེན' is an immeasurable great palace/mansion (Mipham 1-20 'གཞལ་མེད་ཁང་ཆེན་དང་འདྲ་བ'; Rangjung 'ལྷའི་གཞལ་མེད་ཁང་ཆེན'). In modern Hindi 'विमान' mainly means aircraft, so the image is easily misread.",
+     "fix": "एक महान् अप्रमेय प्रासाद (विमान)"
+    }
+   ]
+  },
+  {
+   "id": "1-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "वे असंस्कृत और निष्प्रपञ्च हैं",
+     "evidence": "The plural 'वे' directly follows 'त्रिकाल विशुद्ध हैं', so it reads as the three times being unconditioned and free from elaboration. The Tibetan 'གང་དག་ ... དེ་ནི་འདུས་མ་བྱས་ཡིན་སྤྲོས་མེད' refers to the bodhisattva (Mipham 1-22: 'གང་དག་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱ་བ་དེ་ནི་ ... འདུས་མ་བྱས་ཡིན'; Rangjung 1-21: one who realizes the emptiness of the three times).",
+     "fix": "वह (बोधिसत्त्व) असंस्कृत और निष्प्रपञ्च है"
+    }
+   ]
+  },
+  {
+   "id": "1-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "जैसे इस पार से उस पार जाने का घाट न देखने के समान",
+     "evidence": "'དཔེར་ན ... མི་མཐོང་བཞིན' is a single comparison; the Hindi stacks 'जैसे' and 'के समान', which is ungrammatical. Mipham 2-4 explains it as seeing no landing to go from this shore to the other without a boat.",
+     "fix": "जैसे नाव के बिना इस पार से उस पार जाने का घाट दिखाई नहीं देता"
+    }
+   ]
+  },
+  {
+   "id": "2-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-8",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

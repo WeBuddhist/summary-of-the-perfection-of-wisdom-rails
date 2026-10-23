@@ -1,0 +1,25 @@
+{
+  "title": {
+    "bo": "ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པ་ཚིགས་སུ་བཅད་པའི་འགྲེལ་པ་ཟབ་མོ་རྟེན་འབྱུང་གི་དེ་ཁོ་ན་ཉིད་གསལ་བར་བྱེད་པའི་ནོར་བུའི་སྒྲོན་མེ་སྐལ་བཟང་རེ་སྐོང་།",
+    "en": "Khenrab Jamyang, Commentary on the Verses of the Precious Qualities Collection"
+  },
+  "alt_titles": [
+    {
+      "bo": "མཁྱེན་རབ་འཇམ་དབྱངས་བློ་བཟང་འཕྲིན་ལས། སྡུད་པའི་འགྲེལ་པ།"
+    },
+    {
+      "bo": "ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པ་ཚིགས་སུ་བཅད་པའི་འགྲེལ་བ་ཟབ་མོ་རྟེན་འབྱུང་གི་དེ་ཁོ་ན་ཉིད་གསལ་བར་བྱེད་པའི་ནོར་བུའི་སྒྲོན་མ་སྐལ་བཟང་རེ་སྐོང་ཞེས་བྱ་བ་བཞུགས་སོ།"
+    }
+  ],
+  "language": "bo",
+  "commentary_of": "U5FlKUlLLtS1zo4n0EGZL",
+  "category_id": "uGpinx0GZlvU1uw44RyYS",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P1KG803"
+    }
+  ]
+}

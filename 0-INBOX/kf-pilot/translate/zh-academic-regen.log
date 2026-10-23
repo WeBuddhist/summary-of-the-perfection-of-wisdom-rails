@@ -1,0 +1,15 @@
+segments to translate=11 batches=2
+  2-2..4-52 ok
+  4-61..5-51 ok
+rendered 318/318 blocks; segments still missing a locked term: 0
+segments to translate=52 batches=9
+  1-2..2-20 ok
+  2-22..2-38 ok
+  2-40..4-46 ok
+  4-48..4-65 ok
+  4-66..4-96 ok
+  5-9..5-27 ok
+  5-33..5-54 ok
+  5-56..5-87 ok  still missing terms in ['5-57']
+  5-95..5-107 ok
+rendered 318/318 blocks; segments still missing a locked term: 1

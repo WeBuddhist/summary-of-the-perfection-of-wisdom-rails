@@ -1,7 +1,8 @@
 ---
-title: "'Commentary on Precious Qualities: Entering the True Intent of the Buddha''s Mother' — DharmaMitra zero-shot (english)"
+title: "Mipham's Commentary on the Precious Qualities: An Eloquent Explanation for Entering the Unmistaken Intent of the Mother of the Victorious Ones"
 track: DharmaMitra zero-shot (english)
 title_original: ཡོན་ཏན་རིན་ཆེན་སྡུད་པའི་འགྲེལ་པ་རྒྱལ་བའི་ཡུམ་གྱི་དགོངས་དོན་ལ་ཕྱིན་ཅི་མ་ལོག་པར་འཇུག་པའི་ལེགས་བཤད།
+title_source: "machine: DharmaMitra cat-translate of the work's own title block (^0-1), 2026-10-04; titles are unique per language on the library, so the Tibetan text's English title is not reused"
 language: English
 lang_tag: en
 file_type: translation
@@ -9,9 +10,9 @@ track_type: machine-baseline
 root_text: 1-SOURCES/Commentaries/bo-mipham-lekshe.md
 translation_of_text_id: null
 translation_of_edition_id: null
-text_id:
-edition_id:
-toc_id:
+text_id: ytUpFTMxObCKEtHD93GKm
+edition_id: vAIkLwU0PXTHuhgu2MCmG
+toc_id: kRMqyxcrrANX6UJn8gfpR
 category_id: uGpinx0GZlvU1uw44RyYS
 license: public
 translator: dharmamitra cat-translate v1
@@ -24,7 +25,7 @@ endpoint: https://dharmamitra.org/api-search/cat-translate/v1/translate
 focus: tibetan
 context_blocks: 3
 batching: <=3 blocks/call, <=900 src chars, <=6000 payload chars
-style_instruction: "This is a section heading from the topical outline (sa bcad) of a Tibetan Buddhist commentary on the Verse Summary of the Perfection of Wisdom. Translate it into the target language as a short heading: one line only, no sentence, no commentary, no explanation, no quotation marks. Keep any leading numeral exactly as it is. Keep proper names in their standard Sanskrit forms."
+style_instruction: "Translate this passage of a Tibetan Buddhist commentary on the Verse Summary of the Perfection of Wisdom (Ratnaguṇasañcayagāthā) into clear, accurate English prose. Translate the whole passage completely and in the same order: do not summarise, shorten or omit anything, and keep the same number of lines as the source. Where the commentary quotes or glosses words of the root verses, keep those quoted words recognisable in the translation. Keep proper names in their standard Sanskrit forms (Subhūti, Śāriputra, Maitreya, Haribhadra) and technical terms recognisable (prajñāpāramitā = perfection of wisdom, bodhisattva). Do not add commentary, notes, or explanation of your own."
 rails_used: none
 generated: 2026-10-04
 blocks_translated: 487
@@ -32,9 +33,10 @@ blocks_total: 487
 headings_translated: 453
 note: Machine baseline — not a rails-governed translation. Every line below is raw DharmaMitra `cat-translate` output, produced in small batches of adjacent blocks with no termbase, no verse-context rails, and no human review. It is a comparison baseline and a drafting aid only. See `about.md` in this folder.
 status: draft
+aligned_to_edition_id: YCKyUC49HFugzN4pc6Vil
 ---
 
-# 'Commentary on Precious Qualities: Entering the True Intent of the Buddha''s Mother' — DharmaMitra zero-shot (english) ^0
+# Mipham's Commentary on the Precious Qualities: An Eloquent Explanation for Entering the Unmistaken Intent of the Mother of the Victorious Ones ^0
 
 ![[bo-mipham-lekshe#^0-1]]
 

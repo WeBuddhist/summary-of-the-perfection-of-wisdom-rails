@@ -1,0 +1,200 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "5-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "free from the mind of the two vehicles",
+     "evidence": "Free from the mind of the two vehicles (the arhat and solitary Buddha paths); 'two vehicles' is unexplained for ages 8-12.",
+     "fix": "free from wanting only to become a worthy one or a solitary Buddha, and sure of the highest awakening"
+    }
+   ]
+  },
+  {
+   "id": "5-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "I teach",
+     "evidence": "'Just as there is grasping, so is complete affliction taught' - passive, no first-person speaker.",
+     "fix": "Where there is clinging, complete mental trouble is taught."
+    }
+   ]
+  },
+  {
+   "id": "5-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "for millions of years",
+     "evidence": "'many tens of millions of millennia' (thousands of years times tens of millions); the length is greatly understated.",
+     "fix": "for countless thousands of years, over and over, for tens of millions of ages of a thousand years"
+    }
+   ]
+  },
+  {
+   "id": "5-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "The beings are 'long connected here' to the bodhisattva (ཡུན་རིང་འབྲེལ་པ).",
+     "fix": "An awakening hero who has long been connected with the living beings of the god and human worlds and the three lower realms wants to set them free."
+    }
+   ]
+  },
+  {
+   "id": "5-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-33",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "they lose time",
+     "evidence": "No such statement; the consequence is only that for as many moments as the barren thought lasts, that many ages they must put on the armor again from the beginning.",
+     "fix": "If they start a fight with one who has received a prediction, then for every moment of this bad thought they must put on their armor and start over for that many ages."
+    }
+   ]
+  },
+  {
+   "id": "5-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-35",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "They do not think of training and not training as two different things.",
+     "evidence": "The text says one does not conceptualize either of the two, training and non-training (མི་རྟོག); it does not say they are not seen as two different things.",
+     "fix": "They do not hold on to the ideas of training or not training."
+    },
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "some might cling to the training itself, but that is not so here",
+     "evidence": "Text says whoever trains does not assert any training at all; no contrast with others who cling is made.",
+     "fix": "When someone trains, they do not hold on to any training at all."
+    }
+   ]
+  }
+ ]
+}

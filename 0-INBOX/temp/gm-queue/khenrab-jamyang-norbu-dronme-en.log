@@ -1,0 +1,275 @@
+=== blocks pass 1 2026-10-05 15:32:50
+source     : 1-SOURCES/Commentaries/bo-khenrab-jamyang-norbu-dronme.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries
+reference  : none
+glossary   : none
+blocks     : 349 total, 0 already in ledger, 349 to do
+batching   : 206 calls for 349 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/206] ^0-1,^0-2,^0-3  (3 blk, 2995 src, 490 ctx) … === restarted with --cross-headings 2026-10-05 15:33:40
+=== blocks pass 1 2026-10-05 15:33:42
+source     : 1-SOURCES/Commentaries/bo-khenrab-jamyang-norbu-dronme.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries
+reference  : none
+glossary   : none
+blocks     : 349 total, 0 already in ledger, 349 to do
+batching   : 128 calls for 349 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/128] ^0-1,^0-2,^0-3  (3 blk, 2995 src, 490 ctx) … 69.81s  Herein lies the text entitled "The Wish-Fulfilling J
+[2/128] ^1-1,^1-2,^1-3,^1-4,^1-5,^2-1  (6 blk, 2825 src, 8640 ctx) … 39.11s  The meaning of the title. The first has three parts:
+[3/128] ^3-1,^3-2,^3-3,^3-4  (4 blk, 2347 src, 7887 ctx) … 58.82s  The meaning of the text. Third, regarding the explan
+[4/128] ^3-5  (1 blk, 4304 src, 8366 ctx) … 87.28s  The summarized meaning. Second, the summarized meani
+[5/128] ^3-6  (1 blk, 110 src, 604 ctx) … 12.19s  Meaning of the words: Third, the extensive explanati
+[6/128] ^3-7  (1 blk, 10286 src, 1006 ctx) … 162.62s  The introductory setting from which the sūtra arises
+[7/128] ^3-8,^3-9,^3-10,^3-11  (4 blk, 2806 src, 604 ctx) … 52.76s  Second, regarding the teaching of the miracle of the
+[8/128] ^3-12,^3-13,^3-14,^3-15,^3-16,^3-17  (6 blk, 2777 src, 7816 ctx) … 65.78s  Second, regarding the teaching of the miracle of gat
+[9/128] ^3-18  (1 blk, 4303 src, 8120 ctx) … 94.12s  As for the meaning of the words: 'Joy' is the faith 
+[10/128] ^3-19,^3-20,^3-21  (3 blk, 2935 src, 604 ctx) … 80.81s  Incidental topic. Secondly, demonstrating through an
+[11/128] ^3-22,^3-23  (2 blk, 2557 src, 7945 ctx) … 76.96s  Instructions. Secondly, regarding instructions: The 
+[12/128] ^3-24,^3-25,^3-26,^3-27  (4 blk, 2168 src, 7312 ctx) … 55.44s  Path of preparation. Thirdly, regarding the explanat
+[13/128] ^3-28,^3-29,^3-30  (3 blk, 2723 src, 6723 ctx) … 53.59s  The distinction of the cause is taught by the two li
+[14/128] ^3-31  (1 blk, 2311 src, 7392 ctx) … 72.24s  The object of observation of patience. The object of
+[15/128] ^3-32,^3-33,^3-34,^3-35  (4 blk, 2786 src, 8354 ctx) … 44.37s  As for the aspect, it is taught by one stanza, 'Whoe
+[16/128] ^3-36,^3-37  (2 blk, 2469 src, 7917 ctx) … 95.15s  The conceptualization of the apprehended, a cognitiv
+[17/128] ^3-38,^3-39,^3-40  (3 blk, 2560 src, 8203 ctx) … 68.5s  Third, teaching the distinction of the spiritual fri
+[18/128] ^3-41,^3-42,^3-43,^3-44  (4 blk, 2614 src, 7368 ctx) … 70.91s  Although the thirteen are taught individually in the
+[19/128] ^3-45,^3-46,^3-47  (3 blk, 1897 src, 7642 ctx) … 74.59s  Having taught the affinity, to teach the focal objec
+[20/128] ^3-48  (1 blk, 2061 src, 8640 ctx) … 106.51s  The practice of armor. Seventh, the practice of armo
+[21/128] ^3-49  (1 blk, 1303 src, 5977 ctx) … 50.44s  The practice of engagement. Eighth, the practice of 
+[22/128] ^3-50  (1 blk, 2911 src, 3849 ctx) … 90.69s  The practice of accumulation. Ninth, the practice of
+[23/128] ^3-51,^3-52,^3-53,^3-54  (4 blk, 2142 src, 7949 ctx) … 65.07s  If one asks, "Why is this" path "named the 'Great Ve
+[24/128] ^3-55,^3-56  (2 blk, 2538 src, 6088 ctx) … 61.63s  Progressing practice. The tenth, progressing practic
+[25/128] ^3-57,^3-58,^3-59,^3-60  (4 blk, 2760 src, 8566 ctx) … 53.47s  If one asks, "Then how should they practice?" Becaus
+[26/128] ^3-61,^3-62,^3-63,^3-64,^3-65,^3-66,^3-67,^3-68  (8 blk, 2828 src, 7889 ctx) … 81.15s  Knowledge of the path. Since, in order to attain tha
+[27/128] ^3-69,^3-70,^3-71,^3-72,^3-73  (5 blk, 2844 src, 6524 ctx) … 51.82s  The definition. The first: the definition of the kno
+[28/128] ^3-74,^3-75,^3-76  (3 blk, 423 src, 8646 ctx) … 20.75s  The definition. The first: the definition of the kno
+[29/128] ^3-77  (1 blk, 4574 src, 8443 ctx) … 109.17s  The actual. First, it is taught by one stanza, "Whoe
+[30/128] ^3-78  (1 blk, 2670 src, 604 ctx) … 72.69s  Incidental Topic. Second, incidentally demonstrating
+[31/128] ^3-79,^3-80,^3-81,^3-82,^3-83,^3-84,^3-85,^3-86  (8 blk, 2709 src, 7353 ctx) … 54.97s  Having thus taught the support, if one asks what the
+[32/128] ^3-87,^3-88,^3-89,^3-90  (4 blk, 2664 src, 5450 ctx) … 38.2s  Actual [meaning]. First: It is taught by the two ver
+[33/128] ^3-91,^3-92,^3-93,^3-94,^3-95  (5 blk, 2399 src, 8307 ctx) … 67.96s  Therefore, those bodhisattvas on the path of seeing 
+[34/128] ^3-96,^3-97,^3-98,^3-99,^3-100,^3-101,^3-102,^3-103  (8 blk, 2030 src, 8360 ctx) … 51.94s  Boundaries. Third, it exists from the first ground u
+[35/128] ^3-104,^3-105,^3-106  (3 blk, 2621 src, 3030 ctx) … 44.68s  Boundaries. The boundaries are from the first to the
+[36/128] ^3-107,^3-108,^3-109  (3 blk, 2171 src, 8640 ctx) … 49.81s  Path of meditation of devoted interest for the sake 
+[37/128] ^3-110,^3-111,^3-112,^3-113  (4 blk, 2883 src, 6355 ctx) … 58.04s  This is because if they are thoroughly embraced by t
+[38/128] ^3-114,^3-115,^3-116,^3-117  (4 blk, 2614 src, 8934 ctx) … 71.09s  "Similarly to that example," through the qualities o
+[39/128] ^3-118,^3-119,^3-120,^3-121  (4 blk, 2901 src, 8541 ctx) … 39.67s  Knowing that abandoning the faults of the fabricated
+[40/128] ^3-122,^3-123,^3-124,^3-125,^3-126  (5 blk, 2404 src, 7956 ctx) … 60.63s  Showing the example of how results do not arise with
+[41/128] ^3-127,^3-128  (2 blk, 2066 src, 8235 ctx) … 90.87s  For example, in this world realm, if "however many" 
+[42/128] ^3-129  (1 blk, 2483 src, 8832 ctx) … 71.26s  The path of meditation of dedication. To show the ni
+[43/128] ^3-130,^3-131,^3-132,^3-133  (4 blk, 2039 src, 6683 ctx) … 59.57s  Having thus taught the Mahayana dedication in genera
+[44/128] ^3-134,^3-135,^3-136  (3 blk, 2650 src, 5821 ctx) … 43.07s  Having thus taught the manner of dedication extensiv
+[45/128] ^3-137,^3-138  (2 blk, 1547 src, 8970 ctx) … 64.63s  "Similarly", "if" one lacks "this" eye-like perfecti
+[46/128] ^3-139,^3-140  (2 blk, 2232 src, 7869 ctx) … 53.0s  At that time, in order to teach that manifest adhere
+[47/128] ^3-141,^3-142,^3-143  (3 blk, 2630 src, 8540 ctx) … 51.79s  Having summarized the meaning of arising and non-ari
+[48/128] ^3-144  (1 blk, 1938 src, 7574 ctx) … 56.45s  Explaining the specific perfect purities. Second, re
+[49/128] ^3-145,^3-146  (2 blk, 2760 src, 8747 ctx) … 75.88s  Knowledge of the bases. Thus, having finished explai
+[50/128] ^3-147,^3-148,^3-149,^3-150  (4 blk, 2711 src, 8175 ctx) … 39.63s  The knowledge of the bases that is distant from the 
+[51/128] ^3-151,^3-152  (2 blk, 2426 src, 7997 ctx) … 62.69s  The training of the knowledge of the bases. Seventh,
+[52/128] ^3-153,^3-154,^3-155,^3-156,^3-157  (5 blk, 2656 src, 6928 ctx) … 74.81s  The path of seeing. Ninth, regarding teaching the pa
+[53/128] ^3-158  (1 blk, 1455 src, 7853 ctx) … 41.23s  The aspects. Regarding teaching the first, it is sai
+[54/128] ^3-159  (1 blk, 2483 src, 7106 ctx) … 45.8s  The trainings. Regarding the second, the explanation
+[55/128] ^3-160  (1 blk, 2180 src, 6473 ctx) … 58.73s  Having thus taught the support, regarding the entity
+[56/128] ^3-161,^3-162  (2 blk, 2598 src, 6018 ctx) … 65.04s  Like that example, those who have thoroughly entered
+[57/128] ^3-163,^3-164  (2 blk, 2526 src, 7020 ctx) … 46.01s  To explain the training of not seeing dharma and non
+[58/128] ^3-165,^3-166,^3-167,^3-168,^3-169,^3-170  (6 blk, 2887 src, 6695 ctx) … 53.53s  The faults of the training. Fourth, to teach the fau
+[59/128] ^3-171,^3-172,^3-173,^3-174,^3-175  (5 blk, 2318 src, 8143 ctx) … 38.83s  Regarding the falling away from apprehending the sup
+[60/128] ^3-176,^3-177,^3-178,^3-179,^3-180  (5 blk, 2736 src, 7731 ctx) … 57.36s  Regarding summarizing their meaning, the meaning of 
+[61/128] ^3-181,^3-182  (2 blk, 2354 src, 7653 ctx) … 59.53s  Defining characteristics. First, a bodhisattva's yog
+[62/128] ^3-183,^3-184,^3-185  (3 blk, 2112 src, 8750 ctx) … 33.97s  Second, regarding teaching the defining characterist
+[63/128] ^3-186  (1 blk, 2980 src, 5881 ctx) … 57.88s  Third, regarding teaching the defining characteristi
+[64/128] ^3-187,^3-188  (2 blk, 2286 src, 7835 ctx) … 31.16s  Second, regarding explaining the defining characteri
+[65/128] ^3-189,^3-190,^3-191,^3-192  (4 blk, 2872 src, 6374 ctx) … 26.86s  Therefore, since one cannot accomplish unsurpassed p
+[66/128] ^3-193,^3-194  (2 blk, 1855 src, 7617 ctx) … 68.12s  Showing that practicing method and wisdom united wit
+[67/128] ^3-195  (1 blk, 1549 src, 8633 ctx) … 53.63s  If one asks why one must rely in that way: because "
+[68/128] ^3-196,^3-197  (2 blk, 2849 src, 8859 ctx) … 56.39s  Thirdly, to demonstrate the distinguishing character
+[69/128] ^3-198,^3-199,^3-200,^3-201  (4 blk, 2200 src, 7837 ctx) … 48.28s  Thus, those bodhisattvas are endowed with such profo
+[70/128] ^3-202,^3-203  (2 blk, 2500 src, 8556 ctx) … 63.75s  Thus, those supramundane dharmas are discordant with
+[71/128] ^3-204,^3-205  (2 blk, 1774 src, 8683 ctx) … 71.1s  Aids to liberation. Sixth, as for explaining those v
+[72/128] ^3-206  (1 blk, 1936 src, 7433 ctx) … 60.4s  Aids to penetration. Seventh, as for the aids to pen
+[73/128] ^3-207  (1 blk, 1239 src, 7316 ctx) … 53.65s  The saṃgha of irreversible bodhisattvas. Eighth, to 
+[74/128] ^3-208  (1 blk, 3143 src, 8513 ctx) … 100.74s  In explaining the actual signs of irreversibility, t
+[75/128] ^3-209  (1 blk, 3087 src, 8470 ctx) … 63.46s  By saying "Bhagavan, what are the aspects, what are 
+[76/128] ^3-210,^3-211,^3-212  (3 blk, 2499 src, 8336 ctx) … 60.49s  Following that, although it is necessary to teach th
+[77/128] ^3-213,^3-214,^3-215  (3 blk, 2917 src, 7035 ctx) … 77.38s  Regarding the second, the explanation of the basis o
+[78/128] ^3-216,^3-217,^3-218  (3 blk, 2872 src, 8278 ctx) … 59.52s  To teach that conventionally, because the dharmas of
+[79/128] ^3-219,^3-220,^3-221  (3 blk, 1958 src, 7843 ctx) … 62.27s  To teach that the second moment is also a cause: thu
+[80/128] ^3-222  (1 blk, 1308 src, 8534 ctx) … 63.5s  The training of the equality of existence and peace.
+[81/128] ^3-223  (1 blk, 1882 src, 7789 ctx) … 64.49s  The training of pure lands. Tenth, the training of p
+[82/128] ^3-224,^3-225  (2 blk, 1695 src, 8741 ctx) … 51.73s  The training of skillful means. Eleventh, the traini
+[83/128] ^3-226  (1 blk, 1806 src, 4962 ctx) … 58.89s  The training of skillful means of overcoming the fou
+[84/128] ^3-227,^3-228,^3-229,^3-230  (4 blk, 2742 src, 5271 ctx) … 57.2s  The training of skillful means of non-abiding. To ex
+[85/128] ^3-231,^3-232,^3-233,^3-234  (4 blk, 2600 src, 7616 ctx) … 54.28s  The fifth, the training of skillful means of non-att
+[86/128] ^3-235,^3-236,^3-237,^3-238,^3-239  (5 blk, 2987 src, 8828 ctx) … 58.27s  The training of skillful means of wishlessness. Eigh
+[87/128] ^3-240,^3-241,^3-242,^3-243,^3-244  (5 blk, 2864 src, 8138 ctx) … 54.17s  Teaching the limitless skillful means by way of a su
+[88/128] ^3-245,^3-246  (2 blk, 2578 src, 8248 ctx) … 69.03s  Furthermore, when that bodhisattva sees many sentien
+[89/128] ^3-247,^3-248  (2 blk, 1760 src, 8518 ctx) … 37.45s  Teaching the actions of Māra that arise from a basis
+[90/128] ^3-249,^3-250  (2 blk, 2673 src, 6841 ctx) … 45.27s  Teaching the specific identification of a bodhisattv
+[91/128] ^3-251  (1 blk, 919 src, 8759 ctx) … 39.83s  Second, since the non-occurrence of such things also
+[92/128] ^3-252  (1 blk, 2177 src, 5499 ctx) … 51.1s  If one asks, "Who is that spiritual friend to be rel
+[93/128] ^3-253,^3-254  (2 blk, 2171 src, 7973 ctx) … 51.9s  If those are complete, even though one attains the s
+[94/128] ^3-255,^3-256  (2 blk, 2716 src, 5950 ctx) … 75.8s  Just like that example, foolish ordinary beings who 
+[95/128] ^3-257,^3-258,^3-259  (3 blk, 2364 src, 7202 ctx) … 45.62s  The increase of merit of the union of method and wis
+[96/128] ^3-260,^3-261  (2 blk, 2665 src, 6398 ctx) … 50.55s  To explain, by combining three increases of merit, t
+[97/128] ^3-262,^3-263  (2 blk, 1484 src, 7022 ctx) … 58.71s  To explain the two increases of merit of outshining 
+    ^3-263: 1 source lines -> 3 returned; re-running alone
+    ^3-263 solo 1/3 (want 1) … 31.38s -> 1 line(s)  OK
+[98/128] ^3-264  (1 blk, 3608 src, 7589 ctx) … 69.85s  The way an opportunity is found if a fault enters on
+[99/128] ^3-265,^3-266,^3-267,^3-268  (4 blk, 2742 src, 8914 ctx) … 53.7s  The way one must rely on patience, since the faults 
+[100/128] ^3-269,^3-270,^3-271  (3 blk, 2195 src, 7454 ctx) … 42.47s  To teach the increase of knowing the way to practice
+[101/128] ^3-272,^3-273,^3-274  (3 blk, 2555 src, 7511 ctx) … 78.49s  Peak training of patience. Third, regarding the peak
+[102/128] ^3-275,^3-276,^3-277,^3-278,^3-279,^3-280,^3-281  (7 blk, 2712 src, 7033 ctx) … 61.23s  Peak training of the path of seeing. Fifth, to teach
+[103/128] ^3-282,^3-283,^3-284,^3-285  (4 blk, 2664 src, 6665 ctx) … 57.83s  Likewise, bodhisattvas who practice the perfection o
+[104/128] ^3-286,^3-287,^3-288  (3 blk, 2371 src, 8665 ctx) … 60.18s  Explanation in order to teach that, therefore, they 
+[105/128] ^3-289,^3-290,^3-291  (3 blk, 2931 src, 8050 ctx) … 59.27s  Just as when a mantra-holder roaming in the sky with
+[106/128] ^3-292,^3-293  (2 blk, 2832 src, 8034 ctx) … 68.82s  The nature of the path of seeing: Having thus explai
+[107/128] ^3-294  (1 blk, 941 src, 7511 ctx) … 37.87s  Because merely meditating on emptiness in meditative
+[108/128] ^3-295  (1 blk, 2253 src, 4396 ctx) … 69.13s  The pristine wisdom of the Buddha, the path of medit
+[109/128] ^3-296  (1 blk, 2561 src, 8574 ctx) … 75.15s  The peak training of the path of meditation. To indi
+[110/128] ^3-297  (1 blk, 1665 src, 7326 ctx) … 54.22s  The uninterrupted peak training. To indicate the sev
+[111/128] ^3-298,^3-299  (2 blk, 2727 src, 4768 ctx) … 78.48s  The eighth, the mistaken practices that are the obje
+[112/128] ^3-300,^3-301,^3-302,^3-303  (4 blk, 1673 src, 7775 ctx) … 43.16s  The way in which one engages even more mistakenly if
+[113/128] ^3-304,^3-305  (2 blk, 2260 src, 7392 ctx) … 69.21s  The cause of stability, the progressive training: Th
+[114/128] ^3-306  (1 blk, 2638 src, 7445 ctx) … 59.08s  The result, the momentary training: Second, the resu
+[115/128] ^3-307  (1 blk, 2979 src, 8840 ctx) … 78.52s  The result, the dharmakāya: Third, to teach the resu
+[116/128] ^3-308,^3-309,^3-310  (3 blk, 2796 src, 8183 ctx) … 51.08s  From this point downwards, there is no correlation w
+[117/128] ^3-311,^3-312,^3-313,^3-314  (4 blk, 2964 src, 7537 ctx) … 75.68s  If someone else were to say to them these words, "De
+[118/128] ^3-315,^3-316,^3-317  (3 blk, 2096 src, 7925 ctx) …     ! attempt 1/6 failed (The read operation timed out); retrying in 2s
+    ! attempt 2/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 4s
+    ! attempt 3/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 8s
+    ! attempt 4/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 16s
+    ! attempt 5/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 32s
+
+STOPPED: generateContent failed after 6 attempts: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Ledger is intact; re-run the same command to resume.
+
+wrote 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/bo-khenrab-jamyang-norbu-dronme-en.md  (323/349 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/work/bo-khenrab-jamyang-norbu-dronme-en.jsonl
+calls  118 for 323 block(s) recorded this run
+note   run stopped early (api); re-run to resume
+SUMMARY {"text": "bo-khenrab-jamyang-norbu-dronme", "lang_tag": "en", "blocks_total": 349, "blocks_done": 323, "new": 323, "calls": 118, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": "api"}
+=== blocks pass 2 2026-10-06 00:14:36
+source     : 1-SOURCES/Commentaries/bo-khenrab-jamyang-norbu-dronme.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries
+reference  : none
+glossary   : none
+blocks     : 349 total, 323 already in ledger, 26 to do
+batching   : 11 calls for 26 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/11] ^3-315,^3-316,^3-317  (3 blk, 2096 src, 7925 ctx) …     ! attempt 1/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 2s
+    ! attempt 2/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 4s
+    ! attempt 3/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 8s
+    ! attempt 4/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 16s
+    ! attempt 5/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 32s
+
+STOPPED: generateContent failed after 6 attempts: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Ledger is intact; re-run the same command to resume.
+
+wrote 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/bo-khenrab-jamyang-norbu-dronme-en.md  (323/349 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/work/bo-khenrab-jamyang-norbu-dronme-en.jsonl
+calls  0 for 0 block(s) recorded this run
+note   run stopped early (api); re-run to resume
+SUMMARY {"text": "bo-khenrab-jamyang-norbu-dronme", "lang_tag": "en", "blocks_total": 349, "blocks_done": 323, "new": 0, "calls": 0, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": "api"}
+=== blocks pass 3 2026-10-06 01:11:30
+source     : 1-SOURCES/Commentaries/bo-khenrab-jamyang-norbu-dronme.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries
+reference  : none
+glossary   : none
+blocks     : 349 total, 323 already in ledger, 26 to do
+batching   : 11 calls for 26 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/11] ^3-315,^3-316,^3-317  (3 blk, 2096 src, 7925 ctx) …     ! attempt 1/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 2s
+    ! attempt 2/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 4s
+    ! attempt 3/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 8s
+    ! attempt 4/6 failed (<urlopen error _ssl.c:1064: The handshake operation timed out>); retrying in 16s
+    ! attempt 5/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 32s
+
+STOPPED: generateContent failed after 6 attempts: The read operation timed out
+Ledger is intact; re-run the same command to resume.
+
+wrote 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/bo-khenrab-jamyang-norbu-dronme-en.md  (323/349 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/work/bo-khenrab-jamyang-norbu-dronme-en.jsonl
+calls  0 for 0 block(s) recorded this run
+note   run stopped early (api); re-run to resume
+SUMMARY {"text": "bo-khenrab-jamyang-norbu-dronme", "lang_tag": "en", "blocks_total": 349, "blocks_done": 323, "new": 0, "calls": 0, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": "api"}
+=== blocks pass 4 2026-10-06 07:36:10
+source     : 1-SOURCES/Commentaries/bo-khenrab-jamyang-norbu-dronme.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries
+reference  : none
+glossary   : none
+blocks     : 349 total, 323 already in ledger, 26 to do
+batching   : 11 calls for 26 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/11] ^3-315,^3-316,^3-317  (3 blk, 2096 src, 7925 ctx) … 53.49s  If one asks, "What qualities and benefits are there 
+[2/11] ^3-318  (1 blk, 1140 src, 8029 ctx) … 30.18s  The one who practices patience should also generate 
+[3/11] ^3-319,^3-320  (2 blk, 2881 src, 8515 ctx) …     ! attempt 1/6 failed (The read operation timed out); retrying in 2s
+    ! attempt 2/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 4s
+    ! attempt 3/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 8s
+    ! attempt 4/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 16s
+    ! attempt 5/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 32s
+62.91s  Thus, from the virtuous spiritual friend extensively
+[4/11] ^3-321,^3-322,^3-323  (3 blk, 2069 src, 7783 ctx) … 52.92s  Alternatively, if one practices the ten virtuous pat
+[5/11] ^3-324,^3-325,^3-326  (3 blk, 2983 src, 7914 ctx) … 89.01s  Therefore, for one who desires to enter the path of 
+[6/11] ^3-327,^3-328  (2 blk, 2731 src, 8111 ctx) … 47.42s  Having given a gift, those bodhisattvas do not abide
+[7/11] ^3-329,^3-330,^3-331,^3-332  (4 blk, 2940 src, 8308 ctx) … 57.99s  The manner in which the practice of the ten perfecti
+[8/11] ^3-333,^3-334  (2 blk, 1435 src, 8014 ctx) … 48.19s  Although Buddhaśrī, having correlated this with the 
+[9/11] ^3-335,^4-1,^4-2,^4-3  (4 blk, 2618 src, 8890 ctx) … 47.26s  Thus, having extensively taught the Mother, the entr
+[10/11] ^4-4  (1 blk, 1220 src, 7278 ctx) … 33.36s  The translation colophon. Second, the manner in whic
+[11/11] ^4-5  (1 blk, 6368 src, 4322 ctx) … 157.92s  Here it is said: Where all the rivers of excellent e
+
+wrote 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/bo-khenrab-jamyang-norbu-dronme-en.md  (349/349 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/work/bo-khenrab-jamyang-norbu-dronme-en.jsonl
+calls  11 for 26 block(s) recorded this run
+SUMMARY {"text": "bo-khenrab-jamyang-norbu-dronme", "lang_tag": "en", "blocks_total": 349, "blocks_done": 349, "new": 26, "calls": 11, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": null}
+=== headings pass 1 2026-10-06 10:12:42
+source     : 1-SOURCES/Commentaries/bo-khenrab-jamyang-norbu-dronme.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default   mode=headings
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries
+reference  : none
+glossary   : none
+blocks     : 143 total, 0 already in ledger, 143 to do
+batching   : 18 calls for 143 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/18] ^1-0,^1-1-0,^1-2-0,^1-3-0,^2-0,^3-0,^3-1-0,^3-2-0  (8 blk, 86 src, 490 ctx) … 11.18s  Meaning of the Title
+[2/18] ^3-3-0,^3-3-1-0,^3-3-2-0,^3-3-2-1-0,^3-3-2-1-1-0,^3-3-2-1-1-1-0,^3-3-2-1-1-1-1-0,^3-3-2-1-1-1-2-0  (8 blk, 119 src, 1215 ctx) … 19.24s  Meaning of the Words
+[3/18] ^3-3-2-1-1-2-0,^3-3-2-1-1-3-0,^3-3-2-1-1-3-1-0,^3-3-2-1-1-3-1-1-0,^3-3-2-1-1-3-1-2-0,^3-3-2-1-1-3-1-3-0,^3-3-2-1-1-3-1-4-0,^3-3-2-1-1-3-2-0  (8 blk, 192 src, 1366 ctx) … 16.23s  **Instruction**
+[4/18] ^3-3-2-1-1-3-2-1-0,^3-3-2-1-1-3-2-2-0,^3-3-2-1-1-4-0,^3-3-2-1-1-5-0,^3-3-2-1-1-6-0,^3-3-2-1-1-7-0,^3-3-2-1-1-8-0,^3-3-2-1-1-9-0  (8 blk, 173 src, 1582 ctx) … 20.93s  **Apprehended Conceptuality of Cognitive Obscuration
+[5/18] ^3-3-2-1-1-10-0,^3-3-2-1-2-0,^3-3-2-1-2-1-0,^3-3-2-1-2-1-1-0,^3-3-2-1-2-1-2-0,^3-3-2-1-2-1-3-0,^3-3-2-1-2-2-0,^3-3-2-1-2-2-1-0  (8 blk, 121 src, 1429 ctx) … 10.34s  **Definite Emergence Practice**
+[6/18] ^3-3-2-1-2-2-1-1-0,^3-3-2-1-2-2-1-2-0,^3-3-2-1-2-2-1-3-0,^3-3-2-1-2-2-2-0,^3-3-2-1-2-3-0,^3-3-2-1-2-3-1-0,^3-3-2-1-2-3-2-0,^3-3-2-1-2-3-3-0  (8 blk, 122 src, 1376 ctx) … 14.42s  **Definition**
+[7/18] ^3-3-2-1-2-3-4-0,^3-3-2-1-2-3-5-0,^3-3-2-1-2-4-0,^3-3-2-1-2-4-1-0,^3-3-2-1-2-4-2-0,^3-3-2-1-2-4-3-0,^3-3-2-1-2-4-4-0,^3-3-2-1-2-4-5-0  (8 blk, 104 src, 1399 ctx) … 20.01s  **Actual**
+[8/18] ^3-3-2-1-2-5-0,^3-3-2-1-2-5-1-0,^3-3-2-1-2-5-2-0,^3-3-2-1-2-5-3-0,^3-3-2-1-2-6-0,^3-3-2-1-2-6-1-0,^3-3-2-1-2-6-2-0,^3-3-2-1-2-6-2-1-0  (8 blk, 114 src, 1351 ctx) … 16.52s  **Path of Meditation**
+[9/18] ^3-3-2-1-2-6-2-1-1-0,^3-3-2-1-2-6-2-1-1-1-0,^3-3-2-1-2-6-2-1-1-2-0,^3-3-2-1-2-6-2-1-1-3-0,^3-3-2-1-2-6-2-1-1-4-0,^3-3-2-1-2-6-2-1-1-5-0,^3-3-2-1-2-6-2-1-1-6-0,^3-3-2-1-2-7-0  (8 blk, 159 src, 1395 ctx) … 21.65s  **Path of Meditation of Belief**
+[10/18] ^3-3-2-1-2-8-0,^3-3-2-1-2-9-0,^3-3-2-1-2-10-0,^3-3-2-1-2-11-0,^3-3-2-1-2-11-1-0,^3-3-2-1-2-11-2-0,^3-3-2-1-3-0,^3-3-2-1-3-1-0  (8 blk, 206 src, 1602 ctx) … 18.28s  **Path of Meditation of Rejoicing**
+[11/18] ^3-3-2-1-3-3-0,^3-3-2-1-3-4-0,^3-3-2-1-3-5-0,^3-3-2-1-3-6-0,^3-3-2-1-3-7-0,^3-3-2-1-3-8-0,^3-3-2-1-3-9-0,^3-3-2-2-0  (8 blk, 212 src, 1619 ctx) … 22.67s  **Knowledge of the Bases Distant from the Resultant 
+[12/18] ^3-3-2-2-1-0,^3-3-2-2-1-1-0,^3-3-2-2-1-1-1-0,^3-3-2-2-1-1-2-0,^3-3-2-2-1-1-3-0,^3-3-2-2-1-1-4-0,^3-3-2-2-1-1-4-1-0,^3-3-2-2-1-1-4-1-1-0  (8 blk, 164 src, 1544 ctx) … 28.07s  Result of Mastery over the Applications
+[13/18] ^3-3-2-2-1-1-4-1-2-0,^3-3-2-2-1-1-4-2-0,^3-3-2-2-1-1-5-0,^3-3-2-2-1-1-5-1-0,^3-3-2-2-1-1-5-2-0,^3-3-2-2-1-1-5-2-1-0,^3-3-2-2-1-1-5-2-2-0,^3-3-2-2-1-1-6-0  (8 blk, 127 src, 1404 ctx) … 13.26s  **Answer**
+[14/18] ^3-3-2-2-1-1-7-0,^3-3-2-2-1-1-8-0,^3-3-2-2-1-1-9-0,^3-3-2-2-1-1-10-0,^3-3-2-2-1-1-11-0,^3-3-2-2-1-1-11-1-0,^3-3-2-2-1-1-11-2-0,^3-3-2-2-1-1-11-3-0  (8 blk, 262 src, 1444 ctx) … 20.46s  **Factors Conducive to Penetration**
+[15/18] ^3-3-2-2-1-1-11-4-0,^3-3-2-2-1-1-11-5-0,^3-3-2-2-1-1-11-6-0,^3-3-2-2-1-1-11-7-0,^3-3-2-2-1-1-11-8-0,^3-3-2-2-1-1-11-9-0,^3-3-2-2-1-1-11-10-0,^3-3-2-2-1-2-0  (8 blk, 266 src, 1729 ctx) … 21.07s  **Uncommon Application of Skill in Means**
+[16/18] ^3-3-2-2-1-2-1-0,^3-3-2-2-1-2-1-1-0,^3-3-2-2-1-2-1-2-0,^3-3-2-2-1-2-2-0,^3-3-2-2-1-2-3-0,^3-3-2-2-1-2-4-0,^3-3-2-2-1-2-5-0,^3-3-2-2-1-2-5-1-0  (8 blk, 180 src, 1675 ctx) … 25.03s  **Peak Application of Heat**
+[17/18] ^3-3-2-2-1-2-5-1-1-0,^3-3-2-2-1-2-5-1-1-1-0,^3-3-2-2-1-2-5-1-1-1-1-0,^3-3-2-2-1-2-5-1-1-1-2-0,^3-3-2-2-1-2-5-1-2-0,^3-3-2-2-1-2-5-2-0,^3-3-2-2-1-2-6-0,^3-3-2-2-1-2-7-0  (8 blk, 158 src, 1527 ctx) … 19.18s  **Actual**
+[18/18] ^3-3-2-2-2-0,^3-3-2-2-2-1-0,^3-3-2-2-2-2-0,^3-3-2-3-0,^4-0,^4-1-0,^4-2-0  (7 blk, 175 src, 1599 ctx) … 22.32s  Explanation of the Cause and Effect of Stability
+
+wrote 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/bo-khenrab-jamyang-norbu-dronme-en.md  (349/349 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/work/bo-khenrab-jamyang-norbu-dronme-en.jsonl
+calls  18 for 143 block(s) recorded this run
+SUMMARY {"text": "bo-khenrab-jamyang-norbu-dronme", "lang_tag": "en", "blocks_total": 143, "blocks_done": 349, "new": 143, "calls": 18, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": null}
+JOB DONE 2026-10-06 10:18:40
+=== restarted after sleep hang (caffeinate) 2026-10-06 10:43:43
+=== blocks pass 1 2026-10-06 10:43:44
+source     : 1-SOURCES/Commentaries/bo-khenrab-jamyang-norbu-dronme.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries
+reference  : none
+glossary   : none
+blocks     : 349 total, 349 already in ledger, 0 to do
+nothing to translate; re-rendered 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/bo-khenrab-jamyang-norbu-dronme-en.md
+SUMMARY {"text": "bo-khenrab-jamyang-norbu-dronme", "lang_tag": "en", "blocks_total": 349, "blocks_done": 349, "new": 0, "calls": 0, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": null}
+=== headings pass 1 2026-10-06 10:43:44
+source     : 1-SOURCES/Commentaries/bo-khenrab-jamyang-norbu-dronme.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default   mode=headings
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries
+reference  : none
+glossary   : none
+blocks     : 143 total, 143 already in ledger, 0 to do
+nothing to translate; re-rendered 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/bo-khenrab-jamyang-norbu-dronme-en.md
+SUMMARY {"text": "bo-khenrab-jamyang-norbu-dronme", "lang_tag": "en", "blocks_total": 143, "blocks_done": 143, "new": 0, "calls": 0, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": null}
+JOB DONE 2026-10-06 10:43:44

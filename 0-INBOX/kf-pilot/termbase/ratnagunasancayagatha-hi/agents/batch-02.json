@@ -1,0 +1,811 @@
+{
+ "batch": "batch-02",
+ "terms": [
+  {
+   "term_id": "T002",
+   "bo": "ཆོས",
+   "sanskrit": "dharma",
+   "senses": [
+    {
+     "sense": "phenomena",
+     "occurrences": [
+      "1-5",
+      "1-6",
+      "1-7",
+      "1-10",
+      "1-11",
+      "1-12",
+      "1-25",
+      "1-26",
+      "1-27",
+      "2-8",
+      "2-26",
+      "2-29",
+      "2-30",
+      "2-32",
+      "2-43",
+      "2-49",
+      "3-5",
+      "4-2",
+      "4-9",
+      "4-24",
+      "4-30",
+      "4-51",
+      "4-52",
+      "4-65",
+      "4-70",
+      "4-75",
+      "4-91",
+      "5-15",
+      "5-43",
+      "5-61",
+      "5-95",
+      "5-102"
+     ],
+     "academic": "धर्म (केवल बहुवचन/सर्व-/धर्मता आदि समासों में: सभी धर्म, धर्मों)",
+     "children": "चीज़ें",
+     "basis": "style-sheet",
+     "reason": "Style sheet policy 4: phenomena plural or quantified in academic; children चीज़ें."
+    },
+    {
+     "sense": "the Buddha's teaching",
+     "occurrences": [
+      "1-2",
+      "1-3",
+      "2-4",
+      "2-5",
+      "2-39",
+      "2-40",
+      "4-16",
+      "4-17",
+      "4-19",
+      "4-27",
+      "4-48",
+      "4-49",
+      "4-58",
+      "4-59",
+      "4-62",
+      "4-64",
+      "4-66",
+      "4-67",
+      "4-69",
+      "4-98",
+      "5-1",
+      "5-54",
+      "5-57",
+      "5-88",
+      "5-96",
+      "6-4"
+     ],
+     "academic": "धर्म (केवल एकवचन)",
+     "children": "शिक्षा",
+     "basis": "style-sheet",
+     "reason": "Style sheet: teaching sense is singular, never quantified; children शिक्षा."
+    },
+    {
+     "sense": "quality (of a Buddha, virtuous)",
+     "occurrences": [
+      "2-7",
+      "2-21",
+      "2-34",
+      "2-36",
+      "2-44",
+      "7-1",
+      "8-1"
+     ],
+     "academic": "गुण",
+     "children": "गुण",
+     "basis": "style-sheet",
+     "reason": "Style sheet: quality of a Buddha is गुण in both registers. Editor fix 2026-10-08: at 7-1 and 8-1 the commentaries read ཆོས as the path's virtuous qualities (the perfections)."
+    }
+   ]
+  },
+  {
+   "term_id": "T015",
+   "bo": "འཇིག་རྟེན",
+   "sanskrit": "loka",
+   "senses": [
+    {
+     "sense": "world",
+     "occurrences": "all",
+     "academic": "लोक",
+     "children": "दुनिया",
+     "basis": "zero-shot",
+     "reason": "Gemini लोक is established tatsama (लोकनाथ, लोकधातु); children use everyday दुनिया."
+    }
+   ]
+  },
+  {
+   "term_id": "T028",
+   "bo": "སེམས་པ",
+   "sanskrit": "cetanā",
+   "senses": [
+    {
+     "sense": "volition (fourth aggregate)",
+     "occurrences": "all",
+     "academic": "चेतना",
+     "children": "इरादा",
+     "basis": "style-sheet",
+     "reason": "Policy 6: སེམས་པ is चेतना, kept apart from विज्ञान; children gloss \"intention\" as इरादा."
+    }
+   ]
+  },
+  {
+   "term_id": "T041",
+   "bo": "ཁམས",
+   "sanskrit": "dhātu",
+   "senses": [
+    {
+     "sense": "realm",
+     "occurrences": [
+      "2-3",
+      "2-18"
+     ],
+     "academic": "धातु",
+     "children": "क्षेत्र",
+     "basis": "style-sheet",
+     "reason": "Style sheet: realm is धातु (सत्त्वधातु, लोकधातु), children क्षेत्र."
+    },
+    {
+     "sense": "element",
+     "occurrences": [
+      "2-9",
+      "2-10",
+      "4-1",
+      "4-46",
+      "4-64"
+     ],
+     "academic": "धातु",
+     "children": "तत्त्व",
+     "basis": "style-sheet",
+     "reason": "Style sheet: element is धातु (स्कन्ध-धातु-आयतन), children तत्त्व."
+    }
+   ]
+  },
+  {
+   "term_id": "T054",
+   "bo": "རློམ་སེམས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "conceit",
+     "occurrences": "all",
+     "academic": "अभिमान",
+     "children": "अपने को बड़ा समझना",
+     "basis": "new",
+     "reason": "Conceit is अभिमान; Gemini अहङ्कार suggests ego, so avoided. Children gloss \"self-importance\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T067",
+   "bo": "ཕ་རོལ་ཕྱིན་པ",
+   "sanskrit": "pāramitā",
+   "senses": [
+    {
+     "sense": "perfection",
+     "occurrences": "all",
+     "academic": "पारमिता",
+     "children": "पूर्णता",
+     "basis": "style-sheet",
+     "reason": "Style sheet core term ཕ་རོལ་ཕྱིན; variant spelling shares the rendering."
+    }
+   ]
+  },
+  {
+   "term_id": "T080",
+   "bo": "དགྲ་བཅོམ་ས",
+   "sanskrit": "arahantabhūmi",
+   "senses": [
+    {
+     "sense": "stage of an arhat",
+     "occurrences": "all",
+     "academic": "अर्हद्भूमि",
+     "children": "पूज्य साधक का स्तर",
+     "basis": "style-sheet",
+     "reason": "Compound of अर्हत् and भूमि per style sheet; children पूज्य साधक + स्तर."
+    }
+   ]
+  },
+  {
+   "term_id": "T093",
+   "bo": "དེ་བཞིན་གཤེགས",
+   "sanskrit": "tathāgata",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "तथागत",
+     "children": "इसी प्रकार गए हुए",
+     "basis": "style-sheet",
+     "reason": "Style sheet epithet; Gemini also uses तथागत."
+    }
+   ]
+  },
+  {
+   "term_id": "T106",
+   "bo": "མི་རྟག",
+   "sanskrit": "anitya",
+   "senses": [
+    {
+     "sense": "impermanent",
+     "occurrences": "all",
+     "academic": "अनित्य",
+     "children": "हमेशा बदलने वाला",
+     "basis": "zero-shot",
+     "reason": "Gemini अनित्य is the established Buddhist term; children gloss \"always changing\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T119",
+   "bo": "དཔག་ཚད",
+   "sanskrit": "yojana",
+   "senses": [
+    {
+     "sense": "unit of distance",
+     "occurrences": "all",
+     "academic": "योजन",
+     "children": "योजन (दूरी की पुरानी माप)",
+     "basis": "zero-shot",
+     "reason": "Gemini योजन is the standard unit name; children get a short gloss."
+    }
+   ]
+  },
+  {
+   "term_id": "T132",
+   "bo": "དབེན་པ",
+   "sanskrit": "viveka",
+   "senses": [
+    {
+     "sense": "solitude",
+     "occurrences": "all",
+     "academic": "एकान्त",
+     "children": "शान्त अकेलापन",
+     "basis": "english-pivot",
+     "reason": "Solitude as एकान्त; Hindi विवेक means discernment, so avoided (policy 16). Children \"quiet aloneness\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T145",
+   "bo": "དུས་གསུམ",
+   "sanskrit": "tryadhvan",
+   "senses": [
+    {
+     "sense": "past, present and future",
+     "occurrences": "all",
+     "academic": "त्रिकाल",
+     "children": "बीता हुआ, आज का और आने वाला समय",
+     "basis": "english-pivot",
+     "reason": "Past, present and future as established त्रिकाल; children spell out the three times."
+    }
+   ]
+  },
+  {
+   "term_id": "T158",
+   "bo": "རང་བཞིན",
+   "sanskrit": "prakṛti",
+   "senses": [
+    {
+     "sense": "nature",
+     "occurrences": "all",
+     "academic": "स्वभाव",
+     "children": "स्वभाव",
+     "basis": "zero-shot",
+     "reason": "Gemini स्वभाव is the established word for nature; also everyday Hindi."
+    }
+   ]
+  },
+  {
+   "term_id": "T171",
+   "bo": "སངས་རྒྱས་སྲས",
+   "sanskrit": "buddhatanaya",
+   "senses": [
+    {
+     "sense": "son of the Buddha",
+     "occurrences": "all",
+     "academic": "बुद्धपुत्र",
+     "children": "बुद्ध की संतान",
+     "basis": "style-sheet",
+     "reason": "Compound बुद्ध + पुत्र (cf. जिनपुत्र, policy 13); children \"child of the Buddha\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T184",
+   "bo": "འཇིག་རྟེན་ཁམས",
+   "sanskrit": "lokadhātu",
+   "senses": [
+    {
+     "sense": "world system",
+     "occurrences": "all",
+     "academic": "लोकधातु",
+     "children": "दुनिया का क्षेत्र",
+     "basis": "style-sheet",
+     "reason": "Policy 14: established Sanskrit compound; children spell out लोक=दुनिया + धातु=क्षेत्र."
+    }
+   ]
+  },
+  {
+   "term_id": "T197",
+   "bo": "མཚན་མ་མེད་པ",
+   "sanskrit": "animitta",
+   "senses": [
+    {
+     "sense": "signless",
+     "occurrences": "all",
+     "academic": "अनिमित्त",
+     "children": "बिना निशान वाला",
+     "basis": "style-sheet",
+     "reason": "निमित्त with negation per Hindi Buddhist usage and Gemini; children \"without signs\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T210",
+   "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག",
+   "sanskrit": "varaprajñāpāramitā",
+   "senses": [
+    {
+     "sense": "supreme perfection of wisdom",
+     "occurrences": "all",
+     "academic": "परम प्रज्ञापारमिता",
+     "children": "सबसे ऊँची पूर्ण प्रज्ञा",
+     "basis": "style-sheet",
+     "reason": "Compound: परम + प्रज्ञापारमिता; children सबसे ऊँची + पूर्ण प्रज्ञा, matching \"highest perfect wisdom\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T223",
+   "bo": "འདོད་ཡོན",
+   "sanskrit": "kāmaguṇa",
+   "senses": [
+    {
+     "sense": "sensory pleasure",
+     "occurrences": "all",
+     "academic": "कामगुण",
+     "children": "इन्द्रियों के सुख",
+     "basis": "zero-shot",
+     "reason": "Gemini कामगुण is the established Buddhist compound; children gloss \"pleasure of the senses\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T236",
+   "bo": "སྒྲིབ་པ",
+   "sanskrit": "āvaraṇa",
+   "senses": [
+    {
+     "sense": "obscuration",
+     "occurrences": "all",
+     "academic": "आवरण",
+     "children": "रुकावट",
+     "basis": "zero-shot",
+     "reason": "Gemini आवरण is established (आवरण और क्लेश); children gloss \"block\" as रुकावट."
+    }
+   ]
+  },
+  {
+   "term_id": "T249",
+   "bo": "སྡིག་པའི་གྲོགས",
+   "sanskrit": "pāpamitra",
+   "senses": [
+    {
+     "sense": "bad friend",
+     "occurrences": "all",
+     "academic": "पापमित्र",
+     "children": "बुरा दोस्त",
+     "basis": "english-pivot",
+     "reason": "Opposite of कल्याणमित्र; Gemini पापी मित्र. Children plain \"bad friend\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T262",
+   "bo": "མཉམ་ཉིད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "equality",
+     "occurrences": "all",
+     "academic": "समता",
+     "children": "एक जैसापन",
+     "basis": "zero-shot",
+     "reason": "Gemini समता is established for equality; children gloss \"sameness\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T275",
+   "bo": "ཕ་རོལ",
+   "sanskrit": "pāra",
+   "senses": [
+    {
+     "sense": "far shore",
+     "occurrences": "all",
+     "academic": "दूसरा तट",
+     "children": "दूसरा किनारा",
+     "basis": "english-pivot",
+     "reason": "Far shore as the other bank, linked to पारमिता; Gemini उस पार is too vague."
+    }
+   ]
+  },
+  {
+   "term_id": "T288",
+   "bo": "ཕན",
+   "sanskrit": "hita",
+   "senses": [
+    {
+     "sense": "benefit",
+     "occurrences": "all",
+     "academic": "हित",
+     "children": "भलाई",
+     "basis": "zero-shot",
+     "reason": "Gemini हित is the established word for benefit; children भलाई."
+    }
+   ]
+  },
+  {
+   "term_id": "T301",
+   "bo": "རང་རྒྱལ་བྱང་ཆུབ",
+   "sanskrit": "pratyekabodhi",
+   "senses": [
+    {
+     "sense": "awakening of a pratyekabuddha",
+     "occurrences": "all",
+     "academic": "प्रत्येकबुद्ध-बोधि",
+     "children": "अकेले बुद्ध की बोधि",
+     "basis": "style-sheet",
+     "reason": "Compound of प्रत्येकबुद्ध and बोधि per style sheet; children अकेला बुद्ध + बोधि."
+    }
+   ]
+  },
+  {
+   "term_id": "T314",
+   "bo": "ཟག་མེད",
+   "sanskrit": "anāsrava",
+   "senses": [
+    {
+     "sense": "uncontaminated",
+     "occurrences": "all",
+     "academic": "अनास्रव",
+     "children": "अशुद्धि से मुक्त",
+     "basis": "zero-shot",
+     "reason": "Gemini अनास्रव is the established term; children gloss \"free of impurity\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T327",
+   "bo": "རྣམ་པར་གྲོལ་བ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "liberation",
+     "occurrences": "all",
+     "academic": "विमुक्ति",
+     "children": "मुक्ति",
+     "basis": "zero-shot",
+     "reason": "Gemini विमुक्ति; Hindu-flavoured मोक्ष avoided (policy 3). Children simple मुक्ति."
+    }
+   ]
+  },
+  {
+   "term_id": "T340",
+   "bo": "སྨྲ་བའི་ཟླ་བ",
+   "sanskrit": "vādicandra",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "वादिचन्द्र",
+     "children": "बोलने वालों का चाँद",
+     "basis": "english-pivot",
+     "reason": "Epithet \"Moon of Speakers\": Sanskrit compound for academic; children give plain meaning."
+    }
+   ]
+  },
+  {
+   "term_id": "T353",
+   "bo": "ཤེས་རབ་དམ་པ",
+   "sanskrit": "prajñāpāramitā",
+   "senses": [
+    {
+     "sense": "holy wisdom (the Mother)",
+     "occurrences": "all",
+     "academic": "पवित्र प्रज्ञा",
+     "children": "पवित्र प्रज्ञा",
+     "basis": "english-pivot",
+     "reason": "དམ་པ \"holy\" kept distinct from परम (མཆོག) and प्रज्ञा (ཤེས་རབ) per style sheet."
+    }
+   ]
+  },
+  {
+   "term_id": "T366",
+   "bo": "ཆོས་མཐོང་བ",
+   "sanskrit": "dharmadarśana",
+   "senses": [
+    {
+     "sense": "seeing of phenomena",
+     "occurrences": "all",
+     "academic": "धर्मदर्शन",
+     "children": "चीज़ों को देखना",
+     "basis": "zero-shot",
+     "reason": "Gemini धर्म-दर्शन; धर्म in compound is phenomena (policy 4). Children चीज़ें + देखना."
+    }
+   ]
+  },
+  {
+   "term_id": "T379",
+   "bo": "གླིང",
+   "sanskrit": "dvīpa",
+   "senses": [
+    {
+     "sense": "island",
+     "occurrences": "all",
+     "academic": "द्वीप",
+     "children": "द्वीप",
+     "basis": "zero-shot",
+     "reason": "Gemini द्वीप is the standard word and everyday Hindi, so same in both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T392",
+   "bo": "ཕ་རོལ་ཕྱིན་པ་ལྔ",
+   "sanskrit": "pañca pāramitā",
+   "senses": [
+    {
+     "sense": "five perfections",
+     "occurrences": "all",
+     "academic": "पञ्च पारमिता",
+     "children": "पाँच पूर्णताएँ",
+     "basis": "style-sheet",
+     "reason": "Number plus पारमिता/पूर्णता per style sheet; पञ्च spelling per policy 2."
+    }
+   ]
+  },
+  {
+   "term_id": "T405",
+   "bo": "ཁྲོ་བ",
+   "sanskrit": "krodha",
+   "senses": [
+    {
+     "sense": "anger",
+     "occurrences": "all",
+     "academic": "क्रोध",
+     "children": "गुस्सा",
+     "basis": "zero-shot",
+     "reason": "Gemini क्रोध is the established tatsama; children everyday गुस्सा."
+    }
+   ]
+  },
+  {
+   "term_id": "T418",
+   "bo": "ཕྱིར་མི་ལྡོག་པའི་ས",
+   "sanskrit": "avivartiya-bhūmi",
+   "senses": [
+    {
+     "sense": "irreversible stage",
+     "occurrences": "all",
+     "academic": "अवैवर्तिक भूमि",
+     "children": "कभी पीछे न लौटने का स्तर",
+     "basis": "style-sheet",
+     "reason": "Stage ས = भूमि (kids स्तर); अवैवर्तिक from Gemini. Children gloss \"never turning back\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T431",
+   "bo": "དགོན་དབེན",
+   "sanskrit": "araṇyaviveka",
+   "senses": [
+    {
+     "sense": "forest solitude",
+     "occurrences": "all",
+     "academic": "वन का एकान्त",
+     "children": "शान्त जंगल",
+     "basis": "style-sheet",
+     "reason": "Compound builds on T132 एकान्त; children follow the English \"quiet forest\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T444",
+   "bo": "རྣམ་པར་བྱང་བ",
+   "sanskrit": "vyavadāna",
+   "senses": [
+    {
+     "sense": "complete purification",
+     "occurrences": "all",
+     "academic": "परिशुद्धि",
+     "children": "पूरी तरह साफ़ हो जाना",
+     "basis": "english-pivot",
+     "reason": "Complete purification as परिशुद्धि; Gemini विशुद्धि close but loses \"complete\". Children plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T457",
+   "bo": "ཆོས་ཀྱི་རྒྱལ་པོ",
+   "sanskrit": "dharmarāja",
+   "senses": [
+    {
+     "sense": "Dharma King",
+     "occurrences": "all",
+     "academic": "धर्मराज",
+     "children": "शिक्षा का राजा",
+     "basis": "style-sheet",
+     "reason": "Policy 7: धर्मराज epithet; children use शिक्षा for Dharma and राजा for king."
+    }
+   ]
+  },
+  {
+   "term_id": "T470",
+   "bo": "དམིགས་པ་མེད",
+   "sanskrit": "nirupalambha",
+   "senses": [
+    {
+     "sense": "non-apprehension",
+     "occurrences": "all",
+     "academic": "अनुपलम्भ",
+     "children": "पकड़ने को कुछ न पाना",
+     "basis": "style-sheet",
+     "reason": "Policy 15: अनुपलम्भ (non-apprehension); children न पाना, extended with the English gloss."
+    }
+   ]
+  },
+  {
+   "term_id": "T483",
+   "bo": "ཤེས་རབ་གཉིས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "dualistic wisdom",
+     "occurrences": "all",
+     "academic": "द्वय-प्रज्ञा",
+     "children": "चीज़ों को दो हिस्सों में बाँटने वाली प्रज्ञा",
+     "basis": "style-sheet",
+     "reason": "Compound with प्रज्ञा (ཤེས་རབ) and द्वय (dual); children spell out the English gloss."
+    }
+   ]
+  },
+  {
+   "term_id": "T496",
+   "bo": "རིག་སྔགས་འཆང་བ",
+   "sanskrit": "vidyādhara",
+   "senses": [
+    {
+     "sense": "mantra-holder",
+     "occurrences": "all",
+     "academic": "विद्याधर",
+     "children": "जादुई शब्दों को धारण करने वाला",
+     "basis": "zero-shot",
+     "reason": "Gemini विद्याधर matches the Sanskrit vidyādhara; children gloss \"holder of magic words\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T509",
+   "bo": "གཟུགས་མེད་ཏིང་འཛིན",
+   "sanskrit": "ārūpya-samādhi",
+   "senses": [
+    {
+     "sense": "formless samādhi",
+     "occurrences": "all",
+     "academic": "अरूप समाधि",
+     "children": "बिना रूप की गहरी शान्ति",
+     "basis": "zero-shot",
+     "reason": "Gemini अरूप समाधि is established; children render samādhi as \"deep calm\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T522",
+   "bo": "སེམས་གཡེངས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "distracted mind",
+     "occurrences": "all",
+     "academic": "विक्षिप्त चित्त",
+     "children": "भटकता हुआ मन",
+     "basis": "zero-shot",
+     "reason": "Gemini विक्षिप्त-चित्त is established; children \"wandering mind\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T535",
+   "bo": "བྱང་ཆུབ་བླ་ན་མེད་པ",
+   "sanskrit": "anuttara",
+   "senses": [
+    {
+     "sense": "unsurpassed awakening",
+     "occurrences": "all",
+     "academic": "अनुत्तर बोधि",
+     "children": "जिससे ऊँची कोई बोधि नहीं",
+     "basis": "style-sheet",
+     "reason": "Compound with बोधि per policy 13; अनुत्तर from Gemini; children spell out the English gloss."
+    }
+   ]
+  },
+  {
+   "term_id": "T548",
+   "bo": "དུད་འགྲོ",
+   "sanskrit": "tiryak",
+   "senses": [
+    {
+     "sense": "animal",
+     "occurrences": "all",
+     "academic": "तिर्यक्",
+     "children": "जानवर",
+     "basis": "zero-shot",
+     "reason": "Gemini तिर्यग्योनि shortened to the established तिर्यक्; children everyday जानवर."
+    }
+   ]
+  },
+  {
+   "term_id": "T561",
+   "bo": "ཞེན་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "attachment",
+     "occurrences": "all",
+     "academic": "आसक्ति",
+     "children": "चिपके रहना",
+     "basis": "english-pivot",
+     "reason": "Gemini अनासक्त implies आसक्ति; children gloss \"holding on\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T574",
+   "bo": "ཐབས་མཁས",
+   "sanskrit": "upāyakuśala",
+   "senses": [
+    {
+     "sense": "skilled in means",
+     "occurrences": "all",
+     "academic": "उपायकुशल",
+     "children": "चतुर तरीकों में निपुण",
+     "basis": "style-sheet",
+     "reason": "Policy 13: उपायकुशल named; children follow \"skilled in clever ways\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T587",
+   "bo": "མངོན་པར་ཤེས",
+   "sanskrit": "abhijñā",
+   "senses": [
+    {
+     "sense": "superknowledge",
+     "occurrences": "all",
+     "academic": "अभिज्ञा",
+     "children": "विशेष जानना",
+     "basis": "zero-shot",
+     "reason": "Gemini अभिज्ञा is the established term; children gloss \"special knowing\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T600",
+   "bo": "དཔལ་བརྩེགས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "name of the translator",
+     "occurrences": "all",
+     "academic": "पलत्सेक",
+     "children": "पलत्सेक",
+     "basis": "new",
+     "reason": "Tibetan-only translator name written as pronounced (policy 9); kept unchanged for children."
+    }
+   ]
+  }
+ ]
+}

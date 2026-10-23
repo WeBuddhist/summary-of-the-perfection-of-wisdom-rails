@@ -1,0 +1,55 @@
+{"batch": "batch-11", "segments": [
+{"id": "5-92", "verdict": "pass", "issues": []},
+{"id": "5-93", "verdict": "pass", "issues": []},
+{"id": "5-94", "verdict": "pass", "issues": []},
+{"id": "5-95", "verdict": "pass", "issues": [
+ {"type": "fluency", "severity": "minor", "span": "產生覺悟的美好的品質", "evidence": "Academic: whatever dharma surely brings about the qualities of awakening; the children's phrase stacks two 的 and reads awkwardly, though the meaning is intact.", "fix": "能讓覺悟的美好品質出現"}
+]},
+{"id": "5-96", "verdict": "pass", "issues": [
+ {"type": "fluency", "severity": "minor", "span": "即使菩薩享受了感官的享樂，也就是體驗了感官的五種快樂。", "evidence": "Academic: even if the bodhisattva enjoys the five sense pleasures (one statement); the children's text states it twice in a tangled way, and the following clauses are fragments that lack a clear main clause.", "fix": "即使菩薩享受感官的五種快樂，只要他把佛陀、佛法和神聖的僧團都當作庇護處，心裡想著「我一定要成佛」，專心追求無所不知的智慧，我們就應該知道，這個有智慧的人安住在圓滿的良好品行之中。"}
+]},
+{"id": "5-97", "verdict": "pass", "issues": [
+ {"type": "mistranslation", "severity": "minor", "span": "他這樣許下覺悟的心願", "evidence": "Academic: 此發心 'this aspiration' refers to the wish for the arhat's or solitary realizer's result, which is worse than a root downfall. 'Making a wish for awakening' can be misread as the bodhisattva's own aspiration being worse than the gravest offense.", "fix": "他心裡這樣的願望，其實比最嚴重的犯戒還要嚴重"}
+]},
+{"id": "5-98", "verdict": "pass", "issues": []},
+{"id": "5-99", "verdict": "pass", "issues": []},
+{"id": "5-100", "verdict": "pass", "issues": []},
+{"id": "5-101", "verdict": "pass", "issues": []},
+{"id": "5-102", "verdict": "pass", "issues": []},
+{"id": "5-103", "verdict": "pass", "issues": [
+ {"type": "fluency", "severity": "minor", "span": "這種笨蛋", "evidence": "Tibetan/academic: 愚者 'fools' (those deluded by self-notion); 笨蛋 is a harsh, insulting word for a children's text.", "fix": "這樣糊塗的人"}
+]},
+{"id": "5-104", "verdict": "pass", "issues": [
+ {"type": "mistranslation", "severity": "minor", "span": "就相信分享的好處", "evidence": "Academic: 信解布施 'is devoted to / inclined toward giving'; the text does not say he believes in benefits of sharing.", "fix": "就喜愛布施"}
+]},
+{"id": "5-105", "verdict": "pass", "issues": [
+ {"type": "mistranslation", "severity": "minor", "span": "他把這份善意奉獻給最高的覺悟", "evidence": "Academic: 彼亦…迴向殊勝菩提 'he also dedicates it (the giving) to supreme awakening'; 'goodwill' replaces the gift/giving itself.", "fix": "他把這份慷慨也奉獻給最高的覺悟"},
+ {"type": "addition", "severity": "minor", "span": "菩薩這樣想著去幫助別人。", "evidence": "Not in the text; the sentence only repeats that he thinks 'may I give this gift to all' and gives.", "fix": "—"}
+]},
+{"id": "5-106", "verdict": "pass", "issues": [
+ {"type": "mistranslation", "severity": "minor", "span": "不會一直把這件事放在心上", "evidence": "Academic: 不住於實事 'does not abide in / fixate on the thing (as real)'; 'keep it in mind' reads as simply not remembering the gift.", "fix": "不會執著自己給出去的東西"}
+]},
+{"id": "5-107", "verdict": "pass", "issues": [
+ {"type": "fluency", "severity": "minor", "span": "展現慷慨，只為了努力成為聽法的弟子。", "evidence": "Academic ends with a semicolon: the sentence is an 'if' clause that continues in the next verse; the children's text ends with a full stop, leaving an unfinished 'if' sentence.", "fix": "…展現慷慨，一心想成為聽法的弟子，（接下一節）"}
+]},
+{"id": "5-108", "verdict": "pass", "issues": []},
+{"id": "5-109", "verdict": "pass", "issues": []},
+{"id": "5-110", "verdict": "pass", "issues": []},
+{"id": "6-1", "verdict": "pass", "issues": []},
+{"id": "6-2", "verdict": "pass", "issues": [
+ {"type": "mistranslation", "severity": "minor", "span": "他們散發美麗金光", "evidence": "Academic: 身色金黃美麗 'the body color is golden and beautiful' (a color, not light radiating).", "fix": "他們的身體是美麗的金黃色"}
+]},
+{"id": "6-3", "verdict": "pass", "issues": [
+ {"type": "mistranslation", "severity": "minor", "span": "放下不好的欲望", "evidence": "Academic: 捨棄應受呵責之欲妙 'abandon the despised sense pleasures (objects of desire)', not desires in general.", "fix": "放下不值得貪求的感官享樂"}
+]},
+{"id": "6-4", "verdict": "fail", "issues": [
+ {"type": "mistranslation", "severity": "major", "span": "就像人類中最傑出的領袖轉動了珍寶輪。", "evidence": "Academic: 人中牛王轉動輪寶之後，為盡除苦亦向眾生宣說佛法: the one who has become the supreme leader of humans turns the wheel and then teaches the Dharma (a sequence of actions by the same person). The children's text makes it a simile ('就像') and detaches the leader from the practitioners, dropping the sequence.", "fix": "他成為人類中最傑出的領袖，轉動了珍寶輪，然後為了消除大家的痛苦，向眾生宣說佛法。"}
+]},
+{"id": "7-1", "verdict": "pass", "issues": []},
+{"id": "8-1", "verdict": "pass", "issues": [
+ {"type": "addition", "severity": "minor", "span": "菩薩會完全照顧", "evidence": "Academic has no stated subject ('完全攝受…'); the children's text supplies the bodhisattva as subject and uses 照顧 'take care of' for 攝受 'embrace/uphold'.", "fix": "完全守護並保持完全純淨的國土，以及清淨的眾生"}
+]},
+{"id": "8-2", "verdict": "pass", "issues": []},
+{"id": "8-3", "verdict": "pass", "issues": []},
+{"id": "8-4", "verdict": "pass", "issues": []}
+]}

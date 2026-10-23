@@ -1,0 +1,955 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "2-0",
+   "terms": [
+    {
+     "bo": "ལམ་ཐམས་ཅད་ཤེས་པ་ཉིད",
+     "dm": "knowledge of all paths",
+     "gm": "Knowledge of All Paths"
+    }
+   ]
+  },
+  {
+   "id": "2-1",
+   "terms": [
+    {
+     "bo": "གཟུགས",
+     "dm": "form",
+     "gm": "form"
+    },
+    {
+     "bo": "ཚོར",
+     "dm": "feeling",
+     "gm": "feeling"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    },
+    {
+     "bo": "སེམས་པ",
+     "dm": "volition",
+     "gm": "volition"
+    },
+    {
+     "bo": "རྣམ་ཤེས",
+     "dm": "consciousness",
+     "gm": "consciousness"
+    },
+    {
+     "bo": "ཆོས་ཉིད",
+     "dm": "nature of reality",
+     "gm": "nature of phenomena"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "2-2",
+   "terms": [
+    {
+     "bo": "རྟག",
+     "dm": "Permanent",
+     "gm": "Permanent"
+    },
+    {
+     "bo": "མི་རྟག",
+     "dm": "impermanent",
+     "gm": "impermanent"
+    },
+    {
+     "bo": "བདེ",
+     "dm": "happiness",
+     "gm": "happiness"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "བདག",
+     "dm": "Self",
+     "gm": "Self"
+    },
+    {
+     "bo": "བདག་མེད",
+     "dm": "selflessness",
+     "gm": "selflessness"
+    },
+    {
+     "bo": "དེ་བཞིན་ཉིད",
+     "dm": "suchness",
+     "gm": "suchness"
+    },
+    {
+     "bo": "སྟོང",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    },
+    {
+     "bo": "འབྲས་བུ",
+     "dm": "fruit",
+     "gm": "fruit"
+    },
+    {
+     "bo": "དགྲ་བཅོམ",
+     "dm": "arhat",
+     "gm": "arhat"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་ས",
+     "dm": "stage of an arhat",
+     "gm": "level of an arhat"
+    },
+    {
+     "bo": "རང་རྒྱལ",
+     "dm": "pratyekabuddha",
+     "gm": "pratyekabuddha"
+    },
+    {
+     "bo": "རང་རྒྱལ་ས",
+     "dm": "stage of a pratyekabuddha",
+     "gm": "level of a pratyekabuddha"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "buddha",
+     "gm": "buddha"
+    },
+    {
+     "bo": "སངས་རྒྱས་ས",
+     "dm": "stage of a buddha",
+     "gm": "level of a buddha"
+    }
+   ]
+  },
+  {
+   "id": "2-3",
+   "terms": [
+    {
+     "bo": "འདྲེན་པ",
+     "dm": "Guide",
+     "gm": "Guide"
+    },
+    {
+     "bo": "འདུས་མ་བྱས་ཁམས",
+     "dm": "unconditioned realm",
+     "gm": "unconditioned realm"
+    },
+    {
+     "bo": "འདུས་བྱས",
+     "dm": "conditioned",
+     "gm": "conditioned"
+    },
+    {
+     "bo": "གནས་མེད་གནས",
+     "dm": "dwell without a location",
+     "gm": "Abiding without abiding"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victor",
+     "gm": "Victorious One"
+    }
+   ]
+  },
+  {
+   "id": "2-4",
+   "terms": [
+    {
+     "bo": "བདེ་གཤེགས",
+     "dm": "Sugata",
+     "gm": "Sugata"
+    },
+    {
+     "bo": "ཉན་ཐོས",
+     "dm": "disciple",
+     "gm": "śrāvaka"
+    },
+    {
+     "bo": "རང་སངས་རྒྱས",
+     "dm": "Pratyekabuddhas",
+     "gm": "pratyekabuddha"
+    },
+    {
+     "bo": "ཆོས་རྒྱལ",
+     "dm": "Kings of Dharma",
+     "gm": "Dharma King"
+    },
+    {
+     "bo": "བཟོད་པ",
+     "dm": "patience",
+     "gm": "patience"
+    }
+   ]
+  },
+  {
+   "id": "2-5",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "འབྲས་བུ",
+     "dm": "result",
+     "gm": "fruit"
+    },
+    {
+     "bo": "རྐྱེན་རྒྱལ",
+     "dm": "Pratyekabuddhas",
+     "gm": "pratyekabuddhas"
+    },
+    {
+     "bo": "འཇིག་རྟེན་མགོན",
+     "dm": "Protectors of the World",
+     "gm": "Protectors of the World"
+    },
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "nirvāṇa",
+     "gm": "nirvāṇa"
+    },
+    {
+     "bo": "སྒྱུ་མ",
+     "dm": "illusion",
+     "gm": "illusion"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "2-6",
+   "terms": [
+    {
+     "bo": "གང་ཟག",
+     "dm": "persons",
+     "gm": "persons"
+    },
+    {
+     "bo": "རྒྱལ་སྲས",
+     "dm": "Child of the Victors",
+     "gm": "children of the Victorious One"
+    },
+    {
+     "bo": "བདེན",
+     "dm": "truths",
+     "gm": "truth"
+    },
+    {
+     "bo": "ཕྱིར་མི་ལྡོག་པ",
+     "dm": "irreversible",
+     "gm": "irreversible"
+    },
+    {
+     "bo": "དགྲ་བཅོམ",
+     "dm": "Arhat",
+     "gm": "Arhats"
+    },
+    {
+     "bo": "དགེ་བའི་བཤེས",
+     "dm": "spiritual friend",
+     "gm": "spiritual friends"
+    }
+   ]
+  },
+  {
+   "id": "2-7",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "དགྲ་བཅོམ",
+     "dm": "Arhat",
+     "gm": "arhat"
+    },
+    {
+     "bo": "དགྲ་བཅོམ་ས",
+     "dm": "stage of an Arhat",
+     "gm": "level of an arhat"
+    },
+    {
+     "bo": "རྐྱེན་རྟོགས",
+     "dm": "Pratyekabuddha",
+     "gm": "pratyekabuddha"
+    },
+    {
+     "bo": "རྐྱེན་རྟོགས་ས",
+     "dm": "stage of a Pratyekabuddha",
+     "gm": "level of a pratyekabuddha"
+    },
+    {
+     "bo": "ཐམས་ཅད་མཁྱེན་ཉིད",
+     "dm": "omniscience",
+     "gm": "omniscience"
+    },
+    {
+     "bo": "སངས་རྒྱས་ཆོས",
+     "dm": "Buddha-dharma",
+     "gm": "qualities of a buddha"
+    },
+    {
+     "bo": "སློབ་མི་སློབ",
+     "dm": "training and non-training",
+     "gm": "training and no-more-training"
+    }
+   ]
+  },
+  {
+   "id": "2-8",
+   "terms": [
+    {
+     "bo": "གཟུགས",
+     "dm": "form",
+     "gm": "form"
+    },
+    {
+     "bo": "ཆོས་རྣམས",
+     "dm": "phenomena",
+     "gm": "dharmas"
+    },
+    {
+     "bo": "ཐམས་ཅད་མཁྱེན་པ་ཉིད",
+     "dm": "omniscience",
+     "gm": "omniscience"
+    },
+    {
+     "bo": "ངེས་འབྱུང",
+     "dm": "transcendence",
+     "gm": "definite emergence"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "excellence",
+     "gm": "qualities"
+    }
+   ]
+  },
+  {
+   "id": "2-9",
+   "terms": [
+    {
+     "bo": "གཟུགས",
+     "dm": "Form",
+     "gm": "Form"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "རྣམ་ཤེས",
+     "dm": "Consciousness",
+     "gm": "Consciousness"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    },
+    {
+     "bo": "ཚོར",
+     "dm": "feeling",
+     "gm": "feeling"
+    },
+    {
+     "bo": "སེམས་པ",
+     "dm": "intention",
+     "gm": "volition"
+    },
+    {
+     "bo": "ནམ་མཁའི་ཁམས",
+     "dm": "element of space",
+     "gm": "realm of space"
+    }
+   ]
+  },
+  {
+   "id": "2-10",
+   "terms": [
+    {
+     "bo": "དམིགས་པ",
+     "dm": "objective referents",
+     "gm": "objects of apprehension"
+    },
+    {
+     "bo": "རང་བཞིན",
+     "dm": "nature",
+     "gm": "nature"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ནམ་མཁའི་ཁམས",
+     "dm": "expanse of space",
+     "gm": "realm of space"
+    },
+    {
+     "bo": "འཇིག་རྟེན་མཁྱེན་པ",
+     "dm": "Knower of the World",
+     "gm": "Knower of the World"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    }
+   ]
+  },
+  {
+   "id": "2-11",
+   "terms": [
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    },
+    {
+     "bo": "ཚུ་རོལ",
+     "dm": "near shore",
+     "gm": "this shore"
+    },
+    {
+     "bo": "ཕ་རོལ",
+     "dm": "far shore",
+     "gm": "other shore"
+    },
+    {
+     "bo": "འདྲེན་པ",
+     "dm": "Guide",
+     "gm": "Guide"
+    },
+    {
+     "bo": "སྟོན་པ",
+     "dm": "Teacher",
+     "gm": "Teacher"
+    },
+    {
+     "bo": "བཀའ",
+     "dm": "command",
+     "gm": "word"
+    }
+   ]
+  },
+  {
+   "id": "2-12",
+   "terms": [
+    {
+     "bo": "སྟོན་པ",
+     "dm": "Teacher",
+     "gm": "Teacher"
+    },
+    {
+     "bo": "བསྐལ་པ",
+     "dm": "eons",
+     "gm": "Aeons"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "གཟོད་ནས་དག་པ",
+     "dm": "pure from the beginning",
+     "gm": "pure from the very beginning"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "2-13",
+   "terms": [
+    {
+     "bo": "ཕ་རོལ་ཕྱིན་པ",
+     "dm": "perfection",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "སྐྱེས་མཆོག",
+     "dm": "Supreme Being",
+     "gm": "supreme being"
+    },
+    {
+     "bo": "ལུང་བསྟན",
+     "dm": "prophesied",
+     "gm": "prophesied"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "buddha"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Conqueror",
+     "gm": "Victorious One"
+    }
+   ]
+  },
+  {
+   "id": "2-14",
+   "terms": [
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "མགོན",
+     "dm": "protector",
+     "gm": "Protectors"
+    },
+    {
+     "bo": "བདུད",
+     "dm": "Mara",
+     "gm": "Māra"
+    },
+    {
+     "bo": "བདུད་ཀྱི་ཕྱོགས",
+     "dm": "factions of Mara",
+     "gm": "factions of Māra"
+    }
+   ]
+  },
+  {
+   "id": "2-15",
+   "terms": [
+    {
+     "bo": "བདེ་གཤེགས",
+     "dm": "Sugatas",
+     "gm": "Sugata"
+    },
+    {
+     "bo": "བདེ་བར་གཤེགས་པ",
+     "dm": "Sugatas",
+     "gm": "Sugata"
+    },
+    {
+     "bo": "ཡོངས་སུ་མྱ་ངན་འདས་པ",
+     "dm": "parinirvāṇa",
+     "gm": "parinirvāṇized"
+    },
+    {
+     "bo": "མཆོད་རྟེན",
+     "dm": "stūpas",
+     "gm": "stūpas"
+    },
+    {
+     "bo": "རིན་ཆེན་བདུན",
+     "dm": "seven precious gems",
+     "gm": "seven precious things"
+    },
+    {
+     "bo": "གངགāའི",
+     "dm": "Ganges",
+     "gm": "Ganges"
+    },
+    {
+     "bo": "ཞིང",
+     "dm": "buddha-fields",
+     "gm": "fields"
+    }
+   ]
+  },
+  {
+   "id": "2-16",
+   "terms": [
+    {
+     "bo": "ཞིང",
+     "dm": "realms",
+     "gm": "fields"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "བསྐལ་པ",
+     "dm": "eons",
+     "gm": "aeons"
+    },
+    {
+     "bo": "དུས་གསུམ",
+     "dm": null,
+     "gm": "three times"
+    }
+   ]
+  },
+  {
+   "id": "2-17",
+   "terms": [
+    {
+     "bo": "རྣམ་འདྲེན",
+     "dm": "Guides",
+     "gm": "Guides"
+    },
+    {
+     "bo": "སྟོབས་བཅུ",
+     "dm": "Ten Powers",
+     "gm": "ten powers"
+    },
+    {
+     "bo": "བདེ་བར་གཤེགས",
+     "dm": "Sugatas",
+     "gm": "Sugatas"
+    },
+    {
+     "bo": "བདེ་བར་གཤེགས་ཀྱི་ཡུམ",
+     "dm": "Mother of the Sugatas",
+     "gm": "Mother of the Sugatas"
+    },
+    {
+     "bo": "མཆོད་རྟེན",
+     "dm": "stūpas",
+     "gm": "stūpas"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "2-18",
+   "terms": [
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victors",
+     "gm": "Victors"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "རིག་སྔགས་ཆེ",
+     "dm": "great mantra of knowledge",
+     "gm": "great mantra"
+    },
+    {
+     "bo": "རིག་སྔགས",
+     "dm": "mantra of knowledge",
+     "gm": "mantra"
+    },
+    {
+     "bo": "སེམས་ཅན་ཁམས",
+     "dm": "realms of sentient beings",
+     "gm": "realms of sentient beings"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "འཇིག་རྟེན་མགོན",
+     "dm": "protectors of the worlds",
+     "gm": "Protectors of the World"
+    },
+    {
+     "bo": "ཕྱོགས་བཅུ",
+     "dm": "ten directions",
+     "gm": "ten directions"
+    },
+    {
+     "bo": "སྨན་པའི་རྒྱལ་པོ",
+     "dm": "kings of physicians",
+     "gm": "kings of physicians"
+    }
+   ]
+  },
+  {
+   "id": "2-19",
+   "terms": [
+    {
+     "bo": "ཕན",
+     "dm": "benefit",
+     "gm": "benefit"
+    },
+    {
+     "bo": "སྙིང་རྗེ",
+     "dm": "compassion",
+     "gm": "compassion"
+    },
+    {
+     "bo": "རིག་སྔགས",
+     "dm": "vidyā-mantra",
+     "gm": "mantra"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "awakening"
+    },
+    {
+     "bo": "འདུས་བྱས",
+     "dm": "conditioned",
+     "gm": "conditioned"
+    },
+    {
+     "bo": "འདུས་མ་བྱས",
+     "dm": "unconditioned",
+     "gm": "unconditioned"
+    },
+    {
+     "bo": "བདེ",
+     "dm": "happiness",
+     "gm": "happiness"
+    }
+   ]
+  },
+  {
+   "id": "2-20",
+   "terms": [
+    {
+     "bo": "ཕ་རོལ་ཕྱིན་ལྔ",
+     "dm": "five perfections",
+     "gm": "five perfections"
+    },
+    {
+     "bo": "བྱང་ཆུབ་ཡོན་ཏན",
+     "dm": "qualities of awakening",
+     "gm": "qualities of awakening"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "2-21",
+   "terms": [
+    {
+     "bo": "འཁོར་ལོས་སྒྱུར་རྒྱལ",
+     "dm": "universal monarch",
+     "gm": "Universal Monarch"
+    },
+    {
+     "bo": "རིན་ཆེན་བདུན",
+     "dm": "seven precious jewels",
+     "gm": "seven precious things"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victors",
+     "gm": "Victors"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "qualities",
+     "gm": "qualities"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "dharmas",
+     "gm": "dharmas"
+    }
+   ]
+  },
+  {
+   "id": "2-22",
+   "terms": [
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victor",
+     "gm": "Victor"
+    },
+    {
+     "bo": "བརྒྱ་བྱིན",
+     "dm": "Śakra",
+     "gm": "Śakra"
+    },
+    {
+     "bo": "སངས་རྒྱས་ཞིང",
+     "dm": "Buddha-fields",
+     "gm": "buddha-fields"
+    },
+    {
+     "bo": "གང་གāའི",
+     "dm": "Ganges",
+     "gm": "Ganges"
+    },
+    {
+     "bo": "རིང་བསྲེལ",
+     "dm": "relics",
+     "gm": "relics"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "2-23",
+   "terms": [
+    {
+     "bo": "སྐུ་གདུང",
+     "dm": "bodily relics",
+     "gm": "bodily relics"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "སངས་རྒྱས་རིང་བསྲེལ",
+     "dm": "relics of the Buddha",
+     "gm": "relics of the Buddha"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "2-24",
+   "terms": [
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "qualities",
+     "gm": "qualities"
+    }
+   ]
+  },
+  {
+   "id": "2-25",
+   "terms": [
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "qualities",
+     "gm": "qualities"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victors",
+     "gm": "Victors"
+    },
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "nirvana",
+     "gm": "nirvana"
+    },
+    {
+     "bo": "རིང་བསྲེལ",
+     "dm": "relics",
+     "gm": "relics"
+    },
+    {
+     "bo": "ཐར་པ",
+     "dm": "liberation",
+     "gm": "liberation"
+    }
+   ]
+  },
+  {
+   "id": "2-26",
+   "terms": [
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "generosity",
+     "gm": "giving"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "Wisdom",
+     "gm": "Wisdom"
+    },
+    {
+     "bo": "ཚུལ་ཁྲིམས",
+     "dm": "ethical discipline",
+     "gm": "Ethical discipline"
+    },
+    {
+     "bo": "བཟོད་པ",
+     "dm": "patience",
+     "gm": "patience"
+    },
+    {
+     "bo": "བརྩོན་འགྲུས",
+     "dm": "diligence",
+     "gm": "joyous effort"
+    },
+    {
+     "bo": "བསམ་གཏན",
+     "dm": "meditative concentration",
+     "gm": "concentration"
+    },
+    {
+     "bo": "དགེ་ཆོས",
+     "dm": "virtuous qualities",
+     "gm": "virtuous dharmas"
+    },
+    {
+     "bo": "ཆོས་རྣམས",
+     "dm": "phenomena",
+     "gm": "dharmas"
+    }
+   ]
+  },
+  {
+   "id": "2-27",
+   "terms": [
+    {
+     "bo": "འཛམ་བུའི་གླིང",
+     "dm": "Jambudvīpa",
+     "gm": "Jambudvīpa"
+    }
+   ]
+  }
+ ]
+}

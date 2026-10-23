@@ -1,0 +1,143 @@
+{
+ "batch": "batch-15",
+ "segments": [
+  {
+   "id": "5-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-101",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "दृष्टिरहित",
+     "evidence": "Tibetan 'སྡུག་དང་མི་སྡུག་ཀུན་ལ་ལྟ་བ་མེད་པ' (Sanskrit anapekṣaka) means not regarding/fixating on pleasant and unpleasant. bo-mipham 5-101 glosses it 'དེ་དང་དེར་མཚན་མར་ལྟ་བ་མེད་པ' (no regarding them as signs) and bo-rangjung 5-101 'ཆགས་སྡང་དུ་བལྟ་བ་མེད་པ' (no looking with attachment or aversion). Hindi 'दृष्टिरहित' reads as 'without views' or 'blind', which is a different meaning.",
+     "fix": "प्रिय और अप्रिय सभी के प्रति अपेक्षा-रहित (आसक्ति या द्वेष की दृष्टि से न देखने वाला) होता है"
+    }
+   ]
+  },
+  {
+   "id": "5-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-107",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "पूरी तरह विचार कर कि वे सभी",
+     "evidence": "Tibetan 'ཡོངས་སུ་བརྟག་པ་བཟུང་སྟེ' does not mean 'having thoroughly considered'. bo-mipham 5-107 glosses 'ཡོངས་སུ་བརྟག་པ་མཐའ་བཟུང་གི་དཔེར་བྱས་ཏེ', i.e. taking the utmost limit of what can be reckoned as the example (English: 'Taking them as the utmost extent of what can be conceived'). The Hindi turns this into a mental act of deliberation and drops the sense of an extreme, limiting case.",
+     "fix": "गणना की चरम सीमा को दृष्टान्त बनाकर, यदि वे सभी"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "भली-भांति श्रावक की खोज करें",
+     "evidence": "Tibetan 'ཉན་ཐོས་ལེགས་ཚོལ་' means properly seeking (the state of) a śrāvaka; bo-mipham 5-107 'ཉན་ཐོས་ཀྱི་བྱང་ཆུབ་ལེགས་པར་ཚོལ་བ' (properly seeking the śrāvaka's awakening). Hindi 'श्रावक की खोज' can be read as searching for a śrāvaka (a person).",
+     "fix": "श्रावक-बोधि की भली-भाँति खोज करें"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "दान दें और भली-भांति श्रावक की खोज करें;",
+     "evidence": "The Tibetan ends 'ཉན་ཐོས་ལེགས་ཚོལ་ན' with the conditional 'ན' (bo-mipham 5-107 'ཡིན་ན'), so the verse is a protasis ('if ... give ... and seek'), completed in 5-108. The Hindi has no 'यदि' and uses the subjunctive 'दें ... करें', which reads as an optative or imperative.",
+     "fix": "यदि वे ... अनन्त कल्पों तक दान दें और श्रावक-बोधि की भली-भाँति खोज करें,"
+    }
+   ]
+  },
+  {
+   "id": "5-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-110",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "वस्तु के प्रति खेद नहीं करता",
+     "evidence": "Tibetan 'དངོས་པོ་ཕངས་མེད' means unsparing, with no grudging or clinging to the object; Sanskrit 'न च वस्तुप्रेम'. bo-mipham 5-110 'ཕངས་པ་མེད་པར ... ཤིན་ཏུ་མ་ཆགས་པ' (not attached at all), bo-rangjung 5-110 'མི་འཕངས་སེར་སྣ་མེད', bo-khenrab 5-110 'ཆགས་པ་དང་འཕངས་པ་མེད་པ'. Hindi 'खेद' means regret or sorrow, which is not the sense of attachment or stinginess.",
+     "fix": "वस्तु के प्रति कृपणता या आसक्ति नहीं रखता"
+    }
+   ]
+  },
+  {
+   "id": "6-1",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

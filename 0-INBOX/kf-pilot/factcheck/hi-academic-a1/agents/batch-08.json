@@ -1,0 +1,113 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "4-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-58",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "एक युगमात्रा तक देखते हुए",
+     "evidence": "Tibetan གཉའ་ཤིང་གང་ཙམ་ལྟ་ཞིང་འགྲོ (Sanskrit yugamātra-prekṣiṇaḥ) means looking only as far as the length of a yoke (a short distance ahead). 'युगमात्रा' reads as a measure of an age/era (yuga) and obscures that 'yoke' is meant; no commentary passage glosses it differently.",
+     "fix": "केवल एक जुए (गाड़ी के जुए) भर की दूरी तक देखते हुए"
+    }
+   ]
+  },
+  {
+   "id": "4-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-69",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

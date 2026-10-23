@@ -1,0 +1,129 @@
+{
+ "batch": "batch-11",
+ "segments": [
+  {
+   "id": "5-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "अत्यन्त क्षुधित सत्त्व",
+     "evidence": "The Tibetan as printed reads ཡོངས་སུ་ལྟོགས་པ (hungry), which the Hindi follows, but the Sanskrit has parikalpayamāna (conceptualizing) and all three commentaries read it as ཡོངས་སུ་རྟོག་པ / ཡོངས་སུ་རྟོགས་པ (bo-mipham 5-16: ཚུལ་བཞིན་མ་ཡིན་པའི་ཡོངས་སུ་རྟོག་པ་ཅན་དུ་གྱུར་པའི་དབང་གིས་... ཟས་ལ་འདོད་པ་སྐྱེ་བར་བྱེད་; bo-rangjung 5-16; bo-khenrab 5-16). The approved English has 'fully conceptualizing'. The commentary reading is that wrong conceptualization produces craving for food (sense pleasures), not that beings are starving.",
+     "fix": "सत्त्व पूर्णतः परिकल्पना करते हुए भोजन (भोग) की लालसा करते हैं"
+    }
+   ]
+  },
+  {
+   "id": "5-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "इसमें कोई भी क्लेश या विशुद्ध नहीं होता है",
+     "evidence": "Tibetan འདི་ལ་གང་ཡང་ཉོན་མོངས་རྣམ་དག་འགྱུར་མེད་པར; Sanskrit na hi atra kaścid yo kliśyate śudhyate vā: nothing/no one becomes afflicted or purified. The Hindi makes 'क्लेश' the grammatical subject ('no affliction or pure occurs'), which is hard to parse and obscures that the verbs are 'becomes afflicted' and 'becomes purified'.",
+     "fix": "इसमें कोई भी न क्लिष्ट होता है और न विशुद्ध होता है"
+    }
+   ]
+  },
+  {
+   "id": "5-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "जगत् के प्राणी के अर्थ में उस सबकी बोधि के हेतु के रूप में परिणामना करें",
+     "evidence": "Tibetan ཀུན་ཀྱང་འགྲོ་བའི་དོན་དུ་བྱང་ཆུབ་རྒྱུར་བསྔོ་ཡང: 'dedicate all of it as a cause of awakening for the sake of beings'. The Hindi uses the singular 'प्राणी' for the collective འགྲོ་བ (beings), and 'उस सबकी' is awkward/ambiguous as to what is dedicated (the generosity), making the clause hard to parse.",
+     "fix": "और उस सबको जगत् के प्राणियों के हित के लिए बोधि के हेतु के रूप में परिणत करें"
+    }
+   ]
+  },
+  {
+   "id": "5-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-31",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

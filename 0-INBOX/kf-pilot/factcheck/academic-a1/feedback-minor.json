@@ -1,0 +1,1151 @@
+{
+ "1-4": {
+  "translation": "One who does not apprehend the supreme perfection of wisdom,\nDoes not apprehend the bodhisattva, and does not apprehend the mind of awakening—\nUpon hearing this, the one who is without bewilderment and without fear,\nThat bodhisattva practices the wisdom of the Sugatas.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "One who does not apprehend the supreme perfection of wisdom, / Does not apprehend the bodhisattva, and does not apprehend the mind of awakening— / Upon hearing this, the one who is without bewilderment",
+    "evidence": "Tibetan 'གང་ལ་ ... མི་དམིགས་ཤིང་། ... མི་དམིགས། ... མི་དམིགས། དེ་སྐད་ཐོས་ནས་' is a locative construction (Sanskrit 'yasmin ... na ... upalabdhi'): in that case the perfection of wisdom, the bodhisattva and the mind of awakening are not apprehended; the three are passive objects, not things 'one' fails to apprehend. Mipham 1-4 glosses 'བྱང་ཆུབ་སེམས་དཔའ་གང་ལ་ ... ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མཆོག་ ... མི་དམིགས་', and 'དེ་སྐད་ཐོས་ནས' is hearing that teaching of non-apprehension. The English subject ('One who ...') is stacked with a second 'the one who' and the demonstrative 'this' has no clear antecedent, so it is hard to see what is heard.",
+    "fix": "In whom the supreme perfection of wisdom is not apprehended, nor the bodhisattva, nor the mind of awakening—having heard such [teaching], without bewilderment and without fear, that bodhisattva practices the wisdom of the Sugatas."
+   }
+  ]
+ },
+ "1-5": {
+  "translation": "There is no form, no feeling, no perception, and no volition;\nIn them, there is not even an atom of a dwelling place for consciousness.\nThey do not dwell on any phenomena, but practice without a dwelling place;\nWithout grasping, they attain the awakening of the Sugatas.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "In them, there is not even an atom of a dwelling place for consciousness. / They do not dwell on any phenomena",
+    "evidence": "In lines 3-4 the Tibetan subject 'དེ' (Sanskrit 'sa', 'tasya' in line 2) is the single bodhisattva who practises ('དེ་ཆོས་ཀུན་ལ་མི་གནས་ ... བྱང་ཆུབ་འཐོབ'). Rangjung 1-5 makes this explicit: 'བྱང་ཆུབ་སེམས་དཔའ་དེ་ལ། རྣམ་པར་ཤེས་པ་བདེན་པའི་གནས་ནི་རྡུལ་ཕྲ་རབ་ཙམ་ཡང་ཡོད་པ་མ་ཡིན'. In the English, 'them' in line 2 refers back to form, feeling, perception and volition, so 'They' in lines 3-4 can be read as those four aggregates, and the bodhisattva is never named.",
+    "fix": "For that one there is not even an atom of a dwelling place for consciousness. That one does not dwell on any phenomena but practices without a dwelling place; without grasping, that one attains the awakening of the Sugatas."
+   }
+  ]
+ },
+ "1-7": {
+  "translation": "Furthermore, examining, \"What is this wisdom, and whose is it?\nFrom where does it come?\", they understand all these phenomena as empty;\nHaving closely examined them, without discouragement or fear—\nThat bodhisattva is close to awakening.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "they understand all these phenomena as empty",
+    "evidence": "Tibetan 'ཆོས་འདི་ཐམས་ཅད་སྟོང་པར་རྟོག' has 'རྟོག' (consider, examine), not 'རྟོགས' (realize); Sanskrit 'vyuparīkṣate ... śūnyaka sarva dharmāḥ' is 'examines'. Mipham 1-7: 'ཆོས་འདི་ཐམས་ཅད་རང་གི་ངོ་བོས་སྟོང་པར་རྟོག་ཅིང་དཔྱད་པར་བྱེད་དོ' (contemplates and investigates as empty); Khenrab 1-7 the same. The English claims realized understanding, and also renders 'རྟོག' as 'conceptualize' in 1-8, so the same word is treated inconsistently.",
+    "fix": "they consider all these phenomena to be empty"
+   }
+  ]
+ },
+ "1-10": {
+  "translation": "Whatever bodhisattva abides here thus in peace\nHas received the prophecy from the Tathāgatas of the past;\nThey have no conceit, thinking, \"I am in meditative equipoise,\" or \"I have arisen.\"\nWhy is this? Because they completely understand the nature of phenomena.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "abides here thus in peace",
+    "evidence": "Tibetan 'འདིར་བདག་ཞིར་གནས་པ' (Sanskrit 'evātmaśānti viharan') has 'བདག' (oneself): one abides at peace within oneself. Mipham 1-10: 'བདག་གི་རྒྱུད་ཉེ་བར་ཞིར་གནས་པ' (one's own mindstream abides at peace); Khenrab 1-10: 'བདག་གི་རྒྱུད་ ... ཉེ་བར་ཞི་བ'. The English drops 'བདག'.",
+    "fix": "abides here thus, at peace within themselves"
+   }
+  ]
+ },
+ "1-17": {
+  "translation": "With great giving, great intelligence, and great power,\nThey have entered the supreme Great Vehicle of the Victors;\nDonning the great armor, they subdue the illusions of Māra;\nFor that reason, they are proclaimed to be a great being.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "the illusions of Māra",
+    "evidence": "Tibetan བདུད་ཀྱི་སྒྱུ་འདུལ་བ; Sanskrit namuciṃ śaṭha (deceitful Māra). Mipham (bo-mipham 1-17) glosses བདུད་ཀྱི་སྒྱུ་རྩལ, i.e. Māra's tricks/wiles, not \"illusions\" (which suggests magical appearance, སྒྱུ་མ).",
+    "fix": "the wiles of Māra"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "they subdue ... they are proclaimed to be a great being",
+    "evidence": "Plural \"they/They\" is followed by the singular \"a great being\"; the Tibetan སེམས་དཔའ་ཆེ is the single predicate of one bodhisattva.",
+    "fix": "they are proclaimed to be great beings"
+   }
+  ]
+ },
+ "1-18": {
+  "translation": "For example, just as a magician conjures an emanation at a crossroads,\nAnd cuts off the tens of millions of heads of a large crowd of people—\nWhatever those to be killed are like, just so the bodhisattva\nFully knows all wanderers to be like emanations, and has no fear.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "all wanderers",
+    "evidence": "Tibetan འགྲོ་ཀུན; Sanskrit sarvasattvān. The glossary renders འགྲོ་བ as \"beings\" (locked in 1-24), and \"wanderers\" is not the term used elsewhere.",
+    "fix": "all beings"
+   }
+  ]
+ },
+ "1-21": {
+  "translation": "Whoever mounts it, going in any direction is not apprehended;\nThough taught as going to nirvāṇa, no going is apprehended.\nFor example, just as a dead person has nowhere to go,\nFor this reason, it is fully proclaimed as \"nirvāṇa.\"",
+  "issues": [
+   {
+    "type": "doctrinal",
+    "severity": "minor",
+    "span": "a dead person",
+    "evidence": "Tibetan text reads མི་ཤི, but Sanskrit has agni nirvṛta (fire extinguished), and Mipham (bo-mipham 1-21: བུད་ཤིང་ཟད་པས་མེ་ཤི་བ་ན་མེ་དེ་ཡིས་ཕྱོགས་གཞན་དུ་འགྲོ་རྒྱུ་མེད) and Khenrab (bo-khenrab 1-21) read the example as a fire that has gone out; only Rangjung reads a person. The English should flag this.",
+    "fix": "a dead person [Mipham, Khenrab and the Sanskrit read: a fire that has gone out] has nowhere to go"
+   },
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "it is fully proclaimed as \"nirvāṇa.\"",
+    "evidence": "The subject of རབ་ཏུ་བརྗོད་པ་ is གང་ཟག་དེ་ \"that person\" (bo-mipham 1-21: གང་ཟག་དེ་ནི་མྱ་ངན་ལས་འདས་ཞེས་རབ་ཏུ་བརྗོད་པ; bo-rangjung 1-21), not an unspecified \"it\".",
+    "fix": "that person is fully proclaimed as \"nirvāṇa.\""
+   }
+  ]
+ },
+ "1-22": {
+  "translation": "The bodhisattva is not apprehended in the prior limit, the later limit,\nOr the present; the three times are pure.\nThey are unconditioned and free from elaboration;\nThis is the practice of the supreme perfection of wisdom.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "They are unconditioned and free from elaboration",
+    "evidence": "Tibetan གང་དག་དེ་ནི་འདུས་མ་བྱས་ཡིན་སྤྲོས་མེད; Mipham (bo-mipham 1-22: གང་དག་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱ་བ་དེ་ནི་འདུས་མ་བྱས་ཡིན་པས་... སྤྲོས་པ་མེད) takes the subject to be the bodhisattva; Sanskrit yo śuddha so anabhisaṃskṛtu. Plural \"They\" can be read as the three times.",
+    "fix": "That [bodhisattva] is unconditioned and free from elaboration"
+   }
+  ]
+ },
+ "2-2": {
+  "translation": "Permanent and impermanent, happiness and suffering, pleasant and unpleasant,\nSelf and selflessness, suchness and likewise emptiness;\nOne does not abide in attaining the fruit, nor in the stage of an arhat,\nAnd one does not abide in the stage of a pratyekabuddha, nor likewise the stage of a Buddha.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "Permanent and impermanent ... suchness and likewise emptiness;",
+    "evidence": "The first two lines are bare lists; in the Tibetan they are the objects of མི་གནས་ in line 3 (bo-mipham 2-2: རྟག་པ་དང་མི་རྟག་པ་... གང་ལའང་མི་གནས). The English leaves them syntactically unattached.",
+    "fix": "One does not abide in the permanent and impermanent, happiness and suffering, pleasant and unpleasant, self and selflessness, suchness and likewise emptiness;"
+   }
+  ]
+ },
+ "2-3": {
+  "translation": "Just as the Guide does not abide in the unconditioned realm,\nLikewise, one does not abide in the conditioned, but practices without abiding;\nThus the bodhisattva abides in a basis by abiding without abiding;\nThis abiding without abiding is what the Victor has taught as abiding.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "Likewise, one does not abide in the conditioned",
+    "evidence": "Tibetan དེ་བཞིན་འདུས་བྱས་ལ་ཡང་མི་གནས་: the subject remains the Guide (འདྲེན་པ), whose mind abides in neither (bo-mipham 2-3: ཐུགས་ ... འདུས་བྱས་ཁམས་གསུམ་འཁོར་བའི་ཕྱོགས་ལ་ཡང་མི་གནས). \"one\" shifts the subject.",
+    "fix": "Likewise, he does not abide in the conditioned either, but practices without abiding;"
+   }
+  ]
+ },
+ "2-4": {
+  "translation": "Those who think they will become śrāvakas of the Sugata,\nAnd those who wish to become pratyekabuddhas, and likewise Dharma Kings, Buddhas,\nCannot attain this without relying on this patience,\nJust as one does not see a crossing to go from this shore to the other.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "Dharma Kings, Buddhas",
+    "evidence": "Tibetan ཆོས་རྒྱལ་ is a single term (Dharma King, i.e. Buddha: bo-mipham 2-4 ཆོས་ཀྱི་རྒྱལ་པོ་སངས་རྒྱས); the comma-separated \"Buddhas\" reads as an extra category. \"Buddhas\" is a gloss, not a separate word in the verse.",
+    "fix": "Dharma Kings"
+   }
+  ]
+ },
+ "2-5": {
+  "translation": "The teaching of the Dharma, the listening, and whatever is taught,\nThe attainment of the fruit, the pratyekabuddha, and likewise the Protector of the World,\nAnd whatever nirvāṇa is attained by the brilliance of the wise—\nThe Tathāgata has taught that all these are like an illusion.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "by the brilliance of the wise",
+    "evidence": "Tibetan མཁས་པ་གསལ་བས་ཐོབ་པ: མཁས་པ་ and གསལ་བ་ describe the agents (the wise and lucid); Mipham (bo-mipham 2-5: མཁས་པ་བློ་གསལ་བས་ཐོབ་པའི་མྱ་ངན་ལས་འདས་པ), Sanskrit vidupaṇḍitehi \"by the learned wise\". \"Brilliance\" turns a quality of the persons into an instrument.",
+    "fix": "by the wise and lucid"
+   }
+  ]
+ },
+ "2-11": {
+  "translation": "The Guide has fully proclaimed that perception is the near shore;\nDismantling and abandoning perception, one goes to the far shore;\nThose who are free from perception, having attained this,\nHave reached the far shore and abide in the word of the Teacher.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "Those who are free from perception, having attained this,",
+    "evidence": "Tibetan: གང་དག་འདུ་ཤེས་བྲལ་བ་འདི་ནི་རྗེས་ཐོབ་པ། — those who attain this freedom from perception (Sanskrit ye atra saṃjñavigamaṃ anuprāpnuvanti). Mipham 2-11: འདུ་ཤེས་ཐམས་ཅད་དང་བྲལ་བ ... འདི་ལྟ་བུ་ནི་གང་གིས་རྗེས་སུ་ཐོབ་པ་དེ་དག — freedom from perception is what is attained. The English makes \"free from perception\" a description of the people and leaves \"this\" without a clear referent.",
+    "fix": "Those who attain this freedom from perception,"
+   }
+  ]
+ },
+ "2-14": {
+  "translation": "This perfection of wisdom in which the Protectors practice—\nWhoever pays respect, retains, and masters it,\nWill not be harmed by poison, weapons, fire, or water,\nAnd Māra and the factions of Māra will find no opportunity against them.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "masters it",
+    "evidence": "Tibetan: ཆུབ་བྱེད་པ. Mipham 2-14: དོན་ཡིད་ལ་ཆུད་པར་བྱེད་པ (grasps the meaning in mind); Khenrab 2-14: སྒོམ... ཤེས་རབ་ཀྱིས་དོན་ཀུན་ཆུབ་པར་བྱེད་པ (comprehends the meaning through the wisdom of hearing, reflection and meditation). The commentaries gloss it as understanding the meaning, not \"mastering\".",
+    "fix": "fully understands its meaning"
+   }
+  ]
+ },
+ "2-15": {
+  "translation": "If someone, of a Sugata who has passed into parinirvāṇa,\nWere to build stūpas of the seven precious things and make offerings,\nAnd with those stūpas of the Sugata, as numerous as the sands of the Ganges,\nWere to fill thousands of millions of fields,",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "If someone, of a Sugata who has passed into parinirvāṇa, / Were to build stūpas of the seven precious things",
+    "evidence": "Tibetan: བདེ་གཤེགས་ཡོངས་སུ་མྱ་ངན་འདས་པ་ཡི། མཆོད་རྟེན་རིན་ཆེན་བདུན་ལས་བྱས། — \"of the Sugata\" qualifies the stūpas (Mipham 2-15: རིང་སྲེལ་གྱི་སྙིང་པོ་ཅན་གྱི་མཆོད་རྟེན, a stūpa of the parinirvāṇa Sugata). In English the genitive phrase is stranded between \"someone\" and the verb, hard to parse.",
+    "fix": "If someone were to build stūpas of the seven precious things for a Sugata who has passed into parinirvāṇa and make offerings,"
+   }
+  ]
+ },
+ "2-16": {
+  "translation": "Fully conceiving of this, if in infinite millions of fields\nAll the sentient beings, however many reside there,\nDoing no other work, with divine flowers, supreme incense, and\nOintments, were to make offerings for an eon or more in the three times—",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Fully conceiving of this, if",
+    "evidence": "Tibetan: ཡོངས་སུ་བརྟག་བཟུང་ ... ན. Mipham 2-15/16: ཡོངས་སུ་བརྟག་པ་བཟུང་བའི་དཔེར་བྱ་ན (taking it as an illustrative supposition); Khenrab 2-15: བརྟག་པ་མཐའ་བཟུང་གི་ཚུལ་གྱིས་དཔེར་བྱས་ན; Rangjung: ཡོངས་སུ་བརྟག་པའི་ཐབས་བཟུང་ན (if one adopts a way of assessing). The phrase introduces a hypothetical illustration, not an act of mentally \"conceiving of this\"; \"of this\" has no basis in the Tibetan.",
+    "fix": "By way of supposition, if"
+   },
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "in the three times",
+    "evidence": "Tibetan: དུས་གསུམ་བསྐལ་པའམ་དེ་བས་ལྷག་མཆོད་ལ། Mipham 2-15: ཉིན་མཚན་རེ་རེ་ཞིང་དུས་གསུམ་དུ་མ་ཆག་པར ... བསྐལ་པའམ་དེ་བས་ཀྱང་ལྷག་པར་མཆོད་ན; Rangjung 2-15: དུས་སྔ་དྲོ་གུང་ཕྱི་དྲོ་གསུམ་དུ (morning, noon, afternoon). The \"three times\" are the three periods of each day, not past, present and future, which is how the bare English \"the three times\" reads.",
+    "fix": "at the three times of each day, for an eon or more"
+   }
+  ]
+ },
+ "2-29": {
+  "translation": "If a bodhisattva, while lacking full understanding,\nFully demonstrates form, perception, feeling, volition, and consciousness\nAs impermanent, they act upon a fabrication;\nThe wise never destroy phenomena.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "they act upon a fabrication",
+    "evidence": "བཅོས་ལ་སྤྱོད་པ་ : Mipham 2-29 glosses it as engaging in a mere semblance, a counterfeit of the perfection of wisdom (ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་གཟུགས་བརྙན་ནམ་ཤེར་ཕྱིན་བཅོས་མ ... ལྟར་སྣང་ལ་སྤྱོད་པ); Rangjung 2-29: ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བཅོས་མ་སྤྱོད་པ. Skt pratirūpikāya carate = practises a counterfeit. 'Act upon a fabrication' loses that the object is a counterfeit perfection of wisdom and 'act upon' does not render སྤྱོད་པ (practise/engage in).",
+    "fix": "they practise a counterfeit (of the perfection of wisdom)"
+   }
+  ]
+ },
+ "2-32": {
+  "translation": "Why is that? Those supreme speakers, having trained in this,\nDemonstrate here that all phenomena are emptiness.\nHearing this, śrāvakas swiftly reach liberation,\nAnd one reaches the awakening of a pratyekabuddha and the awakening of a Buddha.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "And one reaches the awakening of a pratyekabuddha and the awakening of a Buddha",
+    "evidence": "Three different persons are meant: Mipham 2-32 and Khenrab 2-32 assign liberation to śrāvakas of dull faculties (དབང་རྟུལ), pratyekabuddha awakening to those of middling faculties (དབང་འབྲིང་), and Buddha awakening to those of sharp faculties (དབང་པོ་རྣོན་པོ). The English 'one reaches both' reads as a single person gaining both awakenings.",
+    "fix": "pratyekabuddhas reach the awakening of a pratyekabuddha, and those of sharp faculties reach the awakening of a Buddha"
+   }
+  ]
+ },
+ "2-42": {
+  "translation": "If, when dedicating, the perception of a mind arises,\nAnd if there is the perception of awakening, or dedicating with the perception of sentient beings,\nBecause of these perceptions, dwelling in views, the mind is attached to the three;\nSince there is apprehension, it does not amount to being dedicated.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "or dedicating with the perception of sentient beings",
+    "evidence": "The line lists the three objects of clinging as a conjunction (mind, awakening, sentient beings), which line 3 sums up as གསུམ 'the three': Mipham 2-42 ... བསྔོ་བྱེད་ཀྱི་སེམས་ ... བྱང་ཆུབ ... སེམས་ཅན་དུ་འདུ་ཤེས་པ་བྱུང་ན ... བསྔོ་བའི་འཁོར་གསུམ་ལ་ཆགས་པ; Khenrab 2-42 same. 'Or' makes alternatives and 'dedicating with the perception of' garbles it into a different construction.",
+    "fix": "and if there is the perception of awakening and the perception of sentient beings (as the recipients of the dedication)"
+   }
+  ]
+ },
+ "2-44": {
+  "translation": "If one acts upon signs, that is not dedicating;\nBut if there are no signs, it is the dedication to awakening.\nJust like eating excellent food that is mixed with poison,\nThe Victor has taught that the apprehension of virtuous qualities is also like that.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "If one acts upon signs",
+    "evidence": "མཚན་མར་བྱེད་ means to take (the three wheels) as a sign, to make signs of them: Mipham 2-44 ཆོས་གསུམ་པོ་དེ་ལ་མཚན་མར་རློམ་ཞིང་བསྔོ་བར་བྱེད་ན; Khenrab 2-44 མཚན་མར་འདུ་ཤེས་ཤིང་རློམ་སྟེ་བསྔོ་བར་བྱེད་ན. 'Acts upon signs' does not convey this.",
+    "fix": "If one makes a sign of it (takes it as a sign)"
+   }
+  ]
+ },
+ "2-47": {
+  "translation": "Hundreds of billions of blind people without a guide,\nNot even knowing the path, how could they enter the city?\nWithout wisdom, these five perfections are eyeless;\nBeing without a guide, they are unable to reach awakening.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "Hundreds of billions of blind people",
+    "evidence": "བྱི་བ་ཁྲག་ཁྲིག (བྱེ་བ་ཁྲག་ཁྲིག, Skt koṭiniyuta) is the same expression as in 2-39 and 2-40, where the translation renders བྱེ་བ་ཁྲག་ཁྲིག as 'tens of millions of hundreds of billions'. Here བྱེ་བ་ is not rendered, so the same number is given two different values.",
+    "fix": "Tens of millions of hundreds of billions of blind people (rendered consistently with 2-39)"
+   }
+  ]
+ },
+ "2-48": {
+  "translation": "When they are perfectly embraced by wisdom,\nThey then gain eyes and obtain this name.\nFor example, just as a completed painting that lacks eyes\nEarns no payment as long as the eyes are not painted.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "They then gain eyes and obtain this name",
+    "evidence": "The verse has no stated subject; the referent is the five perfections (Mipham 2-48: སྦྱིན་སོགས་དགེ་ཆོས་གཞན་དེ་དག་...ཕ་རོལ་ཏུ་ཕྱིན་པ་འདི་ཡི་མིང་ཐོབ་; Rangjung 2-47: ཕ་རོལ་ཏུ་ཕྱིན་པའི་མིང་ཡང་འཐོབ་བོ). 'They' and 'this name' are unresolved in the English.",
+    "fix": "the other perfections then gain eyes and obtain the name 'perfection'"
+   }
+  ]
+ },
+ "2-50": {
+  "translation": "If one thinks, \"I shall practice the wisdom of the Victors,\nAnd I shall liberate many billions of sentient beings touched by suffering,\"\nA bodhisattva of awakening who thoroughly conceptualizes the perception of sentient beings\nIs not practicing the supreme perfection of wisdom.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "A bodhisattva of awakening",
+    "evidence": "The Tibetan has only \"བྱང་ཆུབ་སེམས་དཔའ\" (locked: bodhisattva); \"of awakening\" splits the term and adds words that are not in the Tibetan (Sanskrit \"bodhisattvo\"; bo-mipham 2-50 \"བྱང་ཆུབ་སེམས་དཔ་དམིགས་པ་ཅན\").",
+    "fix": "A bodhisattva who thoroughly conceptualizes the perception of sentient beings"
+   }
+  ]
+ },
+ "2-54": {
+  "translation": "The purity of form should be known as the purity of the fruit;\nThe purity of the fruit and form becomes the purity of omniscience.\nThe purity of omniscience, the purity of the fruit, and the purity of form\nAre equivalent to the element of space, indivisible and inseparable.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "indivisible and inseparable",
+    "evidence": "Tibetan \"དབྱེར་མེད་གཅད་དུ་མེད\" has two distinct terms: དབྱེར་མེད (indivisible, locked) and གཅད་དུ་མེད (cannot be cut off or distinguished). bo-rangjung 2-54: \"དབྱེར་མེད་ཅིང་བློས་ཀྱང་ཐ་དད་དུ་གཅད་དུ་མེད\" (cannot be conceptually separated as different). \"Inseparable\" duplicates \"indivisible\" and loses the second term.",
+    "fix": "indivisible and not to be cut apart (as different)"
+   }
+  ]
+ },
+ "3-1": {
+  "translation": "The third chapter: showing the knowledge of all bases.\nThrough the perfection of wisdom, wherever the hero practices,\nThey fully transcend the three realms, yet do not attain liberation;\nThough afflictions are cleared away, they display birth;\nThough free from aging, sickness, and death, they display passing away.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "yet do not attain liberation",
+    "evidence": "Tibetan \"རྣམ་པར་གྲོལ་བའང་མིན\" means they are not (one-sidedly) liberated; bo-mipham 3-1 and bo-rangjung 3-1 gloss it as not being liberated into the one-sided nirvāṇa of the śrāvakas (\"ཉན་ཐོས་ལྟར་སྲིད་པ་ལས་རྣམ་པར་གྲོལ་བའི་མྱང་འདས་ཕྱོགས་གཅིག་པ\"). The English can be read as bodhisattvas never attaining liberation.",
+    "fix": "yet they are not liberated (as the śrāvakas are, into a one-sided nirvāṇa)"
+   }
+  ]
+ },
+ "4-3": {
+  "translation": "When a person who has set out on a wilderness path of many yojanas\nSees cowherds and excellent forests at the boundary,\nThey think, \"These are signs that a village or city is near,\"\nAnd they find relief, with no fear of robbers.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Sees cowherds and excellent forests at the boundary",
+    "evidence": "Tibetan \"གནག་རྫི་མཚམས་ཀྱི་ནགས་ཚལ་ཕུན་སུམ་ཚོགས\" is one phrase: excellent forests at the cowherds' boundary (Skt gopāla-sīma-vana-sampad). bo-mipham 4-3: \"གནག་རྫི་རྣམས་གནས་པ་དགོན་པ་དང་གྲོང་གིས་མཚམས་སུ་གྱུར་པ་ཉིད་ཀྱི་ནགས་ཚལ\" (forests at the boundary between wilderness and village where cowherds live). The English makes cowherds a separate thing seen.",
+    "fix": "Sees the excellent forests at the cowherds' boundary"
+   }
+  ]
+ },
+ "4-4": {
+  "translation": "Likewise, when thoroughly seeking awakening, whoever comes to hear\nThis perfection of wisdom of the Victors\nAttains relief and becomes fearless;\nThey are not on the stage of an arhat, nor the stage of a pratyekabuddha.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "They are not on the stage of an arhat, nor the stage of a pratyekabuddha.",
+    "evidence": "Skt \"na ca tasya trāso nārhantabhūmi na pi pratyayabuddhabhūmī\" and bo-mipham 4-3: \"དགྲ་བཅོམ་པའི་ས་ལ་ལྷུང་བ་མ་ཡིན་རྐྱེན་རྟོགས་ཀྱི་ས་ལའང་ལྷུང་བ་མིན\" (they do not fall to the stage of an arhat or pratyekabuddha); bo-rangjung 4-3 glosses it as the fear of falling to the śrāvaka/pratyekabuddha stage being absent. The English reads as a plain statement of present stage.",
+    "fix": "They do not fall to the stage of an arhat, nor to the stage of a pratyekabuddha."
+   }
+  ]
+ },
+ "4-5": {
+  "translation": "When a person traveling to see the water of the ocean\nSees trees, forests, and mountains, it is still far away;\nBut when they do not see these signs, they think, \"The great ocean\nIs near,\" and they have no doubt about it.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "Sees trees, forests, and mountains, it is still far away;",
+    "evidence": "Tibetan \"གལ་ཏེ་ཤིང་དང་ནགས་ཚལ་རི་མཐོང་ད་དུང་རིང\" has the traveller seeing trees etc. and (knowing) the ocean is still far; bo-mipham 4-5: \"ད་དུང་རྒྱ་མཚོ་དང་རིང་བར་ཤེས་ཏེ\". The English has no subject for the judgment, so the clause is hard to parse.",
+    "fix": "Sees trees, forests, and mountains, they know it is still far away;"
+   }
+  ]
+ },
+ "4-6": {
+  "translation": "Likewise, those fully entered into supreme awakening\nShould be known as hearing this perfection of wisdom of the Victors;\nEven if they have not received a direct prophecy from the Guides,\n\"Before long, I will touch the awakening of a Buddha.\"",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "the Guides",
+    "evidence": "Tibetan \"རྣམ་པར་འདྲེན་པས\" has no plural marker; Skt \"nāyakena\" is singular; bo-mipham 4-5 and bo-khenrab 4-6 have a single Guide (the Buddha) giving the prophecy. The locked rendering is \"Guide\".",
+    "fix": "the Guide"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "Even if they have not received a direct prophecy from the Guides, \"Before long, I will touch the awakening of a Buddha.\"",
+    "evidence": "Tibetan \"སངས་རྒྱས་བྱང་ཆུབ་རིང་པོར་མི་ཐོགས་བདག་རེག་འགྱུར\" is the main clause of the concessive \"མ་གྱུར་ཀྱང\". bo-rangjung 4-5 and bo-khenrab 4-6 supply \"སྙམ་དུ་ཤེས/བལྟའོ\" (they think/know \"I will touch...\"). The English leaves a quotation with no governing verb, so it dangles after the \"Even if\" clause.",
+    "fix": "Even if they have not received a direct prophecy from the Guide, they know: \"Before long, I will touch the awakening of a Buddha.\""
+   }
+  ]
+ },
+ "4-12": {
+  "translation": "When writing down this perfection of wisdom of the Victors,\nVarious different modes of eloquence will arise;\nYet if, without accomplishing the benefit of beings, they completely deteriorate\nAs swiftly as a flash of lightning, this is the work of Māra.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "Yet if, without accomplishing the benefit of beings, they completely deteriorate",
+    "evidence": "Tibetan has no conditional or adversative: \"འགྲོ་བའི་དོན་མ་བྱས་པར་གློག་བཞིན་མྱུར་དུ་ཡང་། ཡོངས་སུ་ཉམས་པར་འགྱུར་བ་འདི་ནི་བདུད་ཀྱི་ལས\" states that the practitioners do fall away quickly, and this is the work of Māra. Mipham (bo-mipham 4-12): \"སྦྱོར་བ་ལས་ཡོངས་སུ་ཉམས་པར་འགྱུར་བ་འདི་ནི་བདུད་ཀྱི་ལས་སུ་ཤེས་པར་བྱའོ\"; the subject of falling away is the practitioner, not the eloquences. \"Yet if ... they\" leaves the referent unclear and makes the fall conditional.",
+    "fix": "and without having accomplished the benefit of beings, they quickly fall away completely, like a flash of lightning; this is the work of Māra."
+   }
+  ]
+ },
+ "4-18": {
+  "translation": "At that time, this work of Māra will arise:\nAt that time, whoever agitates many monks,\nSo that they do not uphold this perfection of wisdom,\nMany other various obstacles will also arise.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "whoever agitates many monks, So that they do not uphold this perfection of wisdom, Many other various obstacles will also arise",
+    "evidence": "གང་དག་གིས་ is instrumental (\"by whom\"); the agents are the evil Māras, and \"བར་དུ་གཅོད་པ་རྣམ་མང་གཞན་ཡང་འབྱུང་བར་འགྱུར\" is the main clause. Mipham (bo-mipham 4-18): \"བདུད་སྡིག་ཏོ་ཅན་གང་དག ... དེ་དག་གིས་ནི་མདོ་འཛིན་པའི་དགེ་སློང་མང་པོའི་རྒྱུད་དཀྲུགས་ནས\". The English \"whoever agitates\" has no main verb tied to it and reads as human agents; the sentence is hard to parse.",
+    "fix": "those by whom many monks are agitated, so that they do not uphold this perfection of wisdom—many other various obstacles will also arise"
+   }
+  ]
+ },
+ "4-23": {
+  "translation": "The suchness of the world and the suchness of an arhat,\nThe suchness of a pratyekabuddha and the suchness of the children of the Victors,\nAre one itself, devoid of entities, not other—they are suchness;\nThe Tathāgata knows the perfection of wisdom.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "The Tathāgata knows the perfection of wisdom.",
+    "evidence": "Sanskrit \"prajñāya pāramita buddha tathāgatena\" has the perfection of wisdom as the means: the suchness is known by the Tathāgata through the perfection of wisdom. Tibetan \"ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་དེ་བཞིན་གཤེགས་པས་མཁྱེན\" is unmarked, but the English fixes it as the object of knowing, which the Sanskrit does not support.",
+    "fix": "By the perfection of wisdom, the Tathāgata knows (this suchness)."
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "Are one itself",
+    "evidence": "\"གཅིག་པ་ཉིད་\" means they are one and the same (identity of the suchnesses); \"one itself\" is not idiomatic English.",
+    "fix": "Are one and the same,"
+   }
+  ]
+ },
+ "4-25": {
+  "translation": "Relying on the perfection of wisdom as a pleasure grove,\nThis is the domain of the Guides with the ten powers;\nThough they completely deliver sentient beings from suffering and the three lower realms,\nThey never have the perception of sentient beings.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "Relying on the perfection of wisdom as a pleasure grove, This is the domain of the Guides with the ten powers",
+    "evidence": "The participle \"relying\" modifies the Guides in the Tibetan/Sanskrit (\"ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་དགའ་ཚལ་ལ་རྟེན་པ། ... རྣམ་འདྲེན་རྣམས་ཀྱི་སྤྱོད་ཡུལ\", Skt \"prajñāya pāramita ramyavanāśritānām\"); Mipham (bo-mipham 4-25): \"དགའ་བའི་ཚལ་ལྟ་བུ་ལ་བརྟེན་ནས་གནས་པ་ ... རྣམ་འདྲེན་སངས་རྒྱས་རྣམས་ཀྱི་སྤྱོད་ཡུལ\". In the English the participle dangles from \"This\".",
+    "fix": "This is the domain of the Guides with the ten powers, who rely on the perfection of wisdom as a pleasure grove;"
+   }
+  ]
+ },
+ "4-32": {
+  "translation": "Whoever has firm faith in the Sugatas and bodhisattvas,\nAnd applies their intention to the supreme perfection of wisdom,\nHaving completely transcended the two stages of the śrāvakas and pratyekabuddhas,\nWill swiftly attain the unassailable awakening of the Victors.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "applies their intention to the supreme perfection of wisdom",
+    "evidence": "Tibetan \"བསམ་སྦྱོར་བ\" names two things, intention (བསམ་པ) and application (སྦྱོར་བ); bo-rangjung 4-32 glosses \"བསམ་པ་དང་སྦྱོར་བ་ཡོད་པས་ཐབས་ཤེས་ཟུང་དུ་ཆུད་པ\", and Sanskrit has \"āśaya-saṃprayogo\". The English renders only intention.",
+    "fix": "has intention and application toward the supreme perfection of wisdom"
+   }
+  ]
+ },
+ "4-35": {
+  "translation": "If those qualities of skillful means are fully embraced by wisdom,\nThey will swiftly reach the supremely wondrous awakening of the Sugatas.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "They will swiftly reach",
+    "evidence": "In \"དེ་དག་ཐབས་ཀྱི་ཡོན་ཏན་ཤེས་རབ་ཡོངས་ཟིན་ན། ... བྱང་ཆུབ་མྱུར་དུ་རེག\" the one who reaches awakening is \"དེ་དག\", the bodhisattvas; bo-khenrab 4-35 says \"ཐབས་ཀྱི་ཡོན་ཏན་དེ་དག་...ཤེས་རབ་ཀྱིས་ཡོངས་སུ་ཟིན་པར་འགྱུར་ན...བདེ་བར་གཤེགས་པ་རྣམས་ཀྱི་བྱང་ཆུབ་མྱུར་དུ་རེག་པ་སྟེ་ཐོབ་པར་འགྱུར་རོ\". The English lets \"They\" refer to the qualities.",
+    "fix": "If their qualities of skillful means are fully embraced by wisdom, they (those bodhisattvas) will swiftly reach"
+   }
+  ]
+ },
+ "4-37": {
+  "translation": "Likewise, even if a bodhisattva has much faith,\nIf they are bereft of wisdom, they will quickly fall to ruin.\nIf their faith is fully embraced by wisdom,\nHaving entirely transcended the two stages, they will attain supreme awakening.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "they will quickly fall to ruin",
+    "evidence": "Tibetan \"མྱུར་དུ་མ་རུང་འགྱུར\" means they quickly become unfit/unserviceable; bo-mipham 4-36 explains \"མྱུར་དུ་མ་རུངས་པ་སྟེ་ལམ་དམན་པ་སོགས་སུ་ལྟུང་ནས་ཐེག་པ་ཆེན་པོའི་ལམ་ལས་ཉམས་པ\", i.e. falling to a lesser path and away from the Mahāyāna path, not destruction.",
+    "fix": "they will quickly become unfit (falling away from the path)"
+   }
+  ]
+ },
+ "4-45": {
+  "translation": "Those who practice thus, who are oceans of goodness and moons among speakers,\nAre the refuge, the defender, and the dwelling place of beings;\nThey are the support, the intellect, the island, and Guides seeking their welfare,\nIlluminating lamps, and imperturbable speakers of the supreme Dharma.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "Illuminating lamps",
+    "evidence": "Tibetan \"གསལ་བྱེད་སྒྲོན་མ\" gives two epithets; bo-mipham 4-45 explains them separately (\"གསལ་བྱེད་དུ་གྱུར་པ\" through teaching person-selflessness; \"ཆོས་ཀྱི་སྒྲོན་མ་ཆེན་པོ\" through teaching phenomena-selflessness). The English fuses them into one.",
+    "fix": "illuminators, lamps"
+   }
+  ]
+ },
+ "4-48": {
+  "translation": "This Dharma of the Guides is profound and difficult to see;\nIt is not realized by anyone, nor is it to be attained.\nTherefore, the Compassionate Benefactor, having attained awakening,\nFelt little inclination, thinking, \"Who among the masses of sentient beings will understand?\"",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "nor is it to be attained",
+    "evidence": "Tibetan \"ཐོབ་པར་འགྱུར་མེད་པ\" states that there is no attaining; bo-mipham 4-48 \"འབྲས་བུའི་དུས་ན་ཐོབ་པར་འགྱུར་བའང་མེད་པ\" and bo-khenrab \"དོན་དམ་པར་ཐོབ་པ་མེད\". The English \"is to be attained\" turns it into a normative or future sense.",
+    "fix": "nor is there any attaining of it"
+   }
+  ]
+ },
+ "4-52": {
+  "translation": "The awakening of the Sugatas is free from differentiated phenomena;\nAny bodhisattva who desires to attain this,\nEndowed with skillful means, must apply themselves to the perfection of wisdom;\nWithout the wisdom of the Guides, they will not attain it.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "Without the wisdom of the Guides",
+    "evidence": "Tibetan 'ཤེས་རབ་ཕ་འདྲེན་པའི་ཤེས་རབ་མེད་ན'. Mipham (bo-mipham 4-52) and Khenrab (bo-khenrab 4-52) both gloss 'འདྲེན་པ' as 'རྒྱལ་བའི་ཡུམ་ཤེས་རབ་ཀྱི་ཕར་ཕྱིན' (the Victors' mother, the perfection of wisdom), i.e. the wisdom meant is the perfection of wisdom itself as mother of the Guides, not the Guides' own wisdom; the English 'wisdom of the Guides' invites the latter reading.",
+    "fix": "Without this wisdom, the mother of the Guides, they will not attain it."
+   }
+  ]
+ },
+ "4-53": {
+  "translation": "If a bird with a massive body of one hundred and fifty yojanas,\nWhose wings are exhausted, lacks strength and skill,\nAnd leaps from the abode of the Thirty-Three to this Jambudvīpa,\nIt will surely meet with ruin there.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "It will surely meet with ruin there.",
+    "evidence": "Tibetan 'ཉམ་ཉེས་གྱུར་པ་ཡིན'. Mipham (bo-mipham 4-53) and Khenrab (bo-khenrab 4-52) gloss it as 'ཉམས་ཉེས ... ལུས་རྨས་པ' (harm, injury to the body, wounding); 'ruin' overstates this and is not what the commentaries describe.",
+    "fix": "it will suffer harm (injury) there."
+   }
+  ]
+ },
+ "4-60": {
+  "translation": "They do not desire fame, and their minds are not entangled by anger.\nEven if they become householders, they are always unattached to all things.\nFor the sake of livelihood, they do not seek resources by terrible means.\nThey do not practice mantras for fierce actions, nor mantras for union with women.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "nor mantras for union with women",
+    "evidence": "Tibetan 'བུད་མེད་སྦྱོར་སྔགས་མིན'. Mipham (bo-mipham 4-60) glosses 'བུད་མེད་དབང་དུ་བྱེད་པའམ་རང་དབང་དུ་སྦྱོར་བའི་སྔགས' and Khenrab (bo-khenrab 4-60) 'བུད་མེད་དབང་དུ་སྡུད་པའམ་རང་དབང་དུ་སྦྱོར་བའི་སྔགས': mantras to subjugate women or bring them under one's control (Skt strīprayoga-mantra), not mantras for sexual union.",
+    "fix": "nor mantras for bringing women under one's control."
+   }
+  ]
+ },
+ "4-61": {
+  "translation": "They do not prophesy whether beings with the karma of desire will become male or female.\nUtterly secluded in the perfection of wisdom, they are free from conflict and dispute, and their mind of loving-kindness is firm.\nDesiring omniscience, they always possess a mind inclined toward the teachings.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "Utterly secluded in the perfection of wisdom",
+    "evidence": "Skt 'pravivikta prajñavarapāramitābhiyuktāḥ' (secluded, devoted to the perfection of wisdom). Mipham (bo-mipham 4-60) 'རབ་ཏུ་དབེན་པའི་སྒོ་ནས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མཆོག་ལ་བརྩོན་པ' and Rangjung (bo-rangjung 4-59) '...ཕ་རོལ་ཏུ་ཕྱིན་པ་མཆོག་ལ་བརྩོན་པ': they are secluded and strive at the perfection of wisdom; the English drops the striving and makes seclusion occur 'in' it.",
+    "fix": "Utterly secluded, devoted to the perfection of wisdom,"
+   }
+  ]
+ },
+ "4-69": {
+  "translation": "Spoken by the Buddha, thoroughly practiced and clearly taught,\nKnowing all these Dharmas to be nothing but mere expressions,\nEven if one were to speak of them for many tens of billions of eons,\nIn the dharmadhātu, there is no exhaustion and no increase.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "thoroughly practiced",
+    "evidence": "Tibetan 'རབ་ཏུ་སྤྱོད་ཅིང་རབ་བསྟན་པའི་'; Skt 'prayukta prakāśita'. Mipham (bo-mipham 4-69) 'དེའི་དོན་རབ་ཏུ་རྒྱས་པར་སྦྱོར་ཞིང་བསྟན་པ' and Rangjung (bo-rangjung 4-69) 'རྒྱས་པར་...སྒྲུབ་བྱེད་ཀྱིས་ཀྱང་རབ་ཏུ་བསྟན' show the Buddhas elaborating and setting forth the meaning at length, not the Dharmas being 'practiced' by someone.",
+    "fix": "extensively set forth"
+   },
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "many tens of billions of eons",
+    "evidence": "Tibetan 'བསྐལ་པ་བྱེ་བ་ཁྲག་ཁྲིག་མང་བོར' is the identical phrase rendered in 4-54 as 'many tens of millions and hundreds of billions of eons'; the same number phrase should receive one rendering across the text.",
+    "fix": "many tens of millions and hundreds of billions of eons"
+   }
+  ]
+ },
+ "4-77": {
+  "translation": "Seeing the wilderness paths of the world, along with famine and disease,\nThey are without fear and then put on their armor;\nAlways striving until the final limit of the future and vividly knowing,\nThey do not generate even a speck of a weary mind.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "vividly knowing",
+    "evidence": "Tibetan རབ་ཤེས་ (Sanskrit prajānamāno) means knowing thoroughly/fully; Mipham 4-77 glosses it as knowing (all this) to lack inherent nature, Rangjung 4-77 as knowing it to be like an illusion. Nothing in the source corresponds to 'vividly'.",
+    "fix": "fully understanding"
+   }
+  ]
+ },
+ "4-81": {
+  "translation": "Likewise, at that time, the skilled bodhisattva also\nGenerates great compassion for all realms of sentient beings,\nAnd having utterly passed beyond the four Māras and the two levels,\nAbides in the supreme samādhi and does not touch awakening.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "the two levels",
+    "evidence": "Tibetan ས་གཉིས་ (Sanskrit dvaye bhūmim) is explained by Mipham 4-80 as ཉན་རང་གི་ས་གཉིས་ (the two levels of Śrāvakas and Pratyekabuddhas) and by Rangjung 4-79 as ཉན་ཐོས་དང་རང་སངས་རྒྱས་ཀྱི་ས་གཉིས་; the bare 'two levels' could be read as any two bhūmis.",
+    "fix": "the two levels of the Śrāvakas and Pratyekabuddhas"
+   }
+  ]
+ },
+ "4-84": {
+  "translation": "Whenever a skilled and brilliant bodhisattva\nPractices this supreme samādhi of peaceful emptiness,\nDuring that time they do not cultivate signs;\nDwelling in signlessness, they practice peace and profound peace.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "profound peace",
+    "evidence": "Tibetan ཞི་ལ་རབ་ཞི་སྤྱོད་: རབ་ is the intensifier 'utterly' (Mipham 4-84: རྣམ་རྟོག་རབ་ཏུ་ཞི་བ, utterly pacified), not 'profound' (ཟབ་མོ).",
+    "fix": "practice peace, utter peace"
+   }
+  ]
+ },
+ "4-95": {
+  "translation": "Likewise, the brilliant bodhisattva is skilled in all\nThe knowledge and liberation of śrāvakas and pratyekabuddhas;\nThey do not dwell in them, nor do they dwell in the primordial wisdom of a Buddha,\nAnd they do not dwell in the unconditioned, but know the nature of the path.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "know the nature of the path",
+    "evidence": "Tibetan \"ལམ་གྱི་ཚུལ་ཤེས་ཡིན\": ཚུལ་ is the manner/ways of the path; bo-mipham 4-95 glosses it as knowing \"ཉན་རང་བྱང་སེམས་ཀྱི་ལམ་གསུམ་གྱི་ཚུལ\" (the ways of the three paths), not the nature of the path.",
+    "fix": "know the ways of the path"
+   }
+  ]
+ },
+ "4-98": {
+  "translation": "If, when thoroughly questioned about their conduct and faculties,\nA bodhisattva does not fully teach the dharmas of emptiness and signlessness,\nAnd does not explain the dharmas of the irreversible stage,\nThey should be known as unprophesied.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "dharmas of emptiness and signlessness ... dharmas of the irreversible stage",
+    "evidence": "Locked term ཆོས → \"Dharma\"; in \"སྟོང་པ་མཚན་མ་མེད་པའི་ཆོས\" and \"ཕྱིར་མི་ལྡོག་པའི་ས་ཡི་ཆོས\" ཆོས is the teaching (bo-mipham 4-98: \"ཆོས་ཟབ་མོ་ཡོངས་སུ་མི་སྟོན\", does not teach / \"འཆད\" explain), so lowercase plural \"dharmas\" reads as phenomena.",
+    "fix": "the Dharma of emptiness and signlessness ... the Dharma of the irreversible stage"
+   }
+  ]
+ },
+ "5-5": {
+  "translation": "When Māra approaches on the basis of names,\nHe speaks thus: \"These are the names of you and your parents,\nAnd of your lineage back to your seven ancestors;\nAnd when you become a Buddha, this will be your name.\"",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "your lineage back to your seven ancestors",
+    "evidence": "Tibetan \"བདུན་མེས་རྒྱུད་ཀྱི་བར\"; bo-mipham 5-5: \"མི་རབས་བདུན་གྱི་མེས་པོ་ཚུན་ཆད་ཀྱི་རྒྱུད་ཀྱི་བར\" (the lineage up to the ancestor of seven generations); Sanskrit \"anusaptam upaiti vaṃśo\" (lineage to the seventh). Not seven separate ancestors.",
+    "fix": "your lineage back to the seventh generation of ancestors"
+   }
+  ]
+ },
+ "5-12": {
+  "translation": "Therefore, a wise one who seeks supreme awakening\nAnd possesses strong intention, having definitely destroyed pride,\nJust as a multitude of sick people rely on a doctor to be cured,\nShould rely on a spiritual friend without wavering.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "without wavering",
+    "evidence": "གཡེལ་པ་མེད་པར is \"without negligence/laxity\" (Skt atandritena \"without sloth\"); bo-mipham 5-12 and bo-rangjung 5-12 gloss it as constant, unlapsing reliance (གཡེལ་བ་མེད་པར ... རྒྱུན་དུ་བསྟེན་པ), not lack of vacillation.",
+    "fix": "without negligence"
+   }
+  ]
+ },
+ "5-15": {
+  "translation": "Just as the perfection of wisdom is empty of characteristics, Knowing the characteristics of all these phenomena to be similar to that, If one thoroughly knows phenomena to be empty and signless, Practising in that way is the wisdom practice of the Sugatas.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Just as the perfection of wisdom is empty of characteristics",
+    "evidence": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་མཚན་ཉིད་སྟོང་ is read in bo-mipham 5-15 and bo-khenrab 5-15 (citing the Eight Thousand) as \"the characteristic of the perfection of wisdom is emptiness\" (སྟོང་པ་ཉིད་ཀྱི་མཚན་ཉིད་); Skt prajñāpāramitā śūnyatā lakṣaṇena = \"has emptiness as its characteristic\". bo-rangjung 5-15 allows \"empty of characteristic\" only as a second option, and the next line (\"the characteristics of all phenomena ... similar to that\") presupposes that emptiness is the characteristic.",
+    "fix": "Just as the perfection of wisdom has emptiness as its characteristic,"
+   },
+   {
+    "type": "form",
+    "severity": "minor",
+    "span": "the whole translation (one line)",
+    "evidence": "The Tibetan is a four-line verse (four ། ། units), but the English is run together as a single line, so line breaks and the line-by-line correspondence are lost.",
+    "fix": "Set the English in four lines matching the four Tibetan lines."
+   }
+  ]
+ },
+ "5-16": {
+  "translation": "Completely famished sentient beings desire food, And those with minds attached to saṃsāra wander perpetually. Both self and the phenomena of self are unreal and empty, Yet the foolish themselves tie knots in the sky.",
+  "issues": [
+   {
+    "type": "doctrinal",
+    "severity": "minor",
+    "span": "Completely famished sentient beings desire food",
+    "evidence": "The commentaries do not read ལྟོགས་པ \"famished\" but ཡོངས་སུ་རྟོག་པ / ཡོངས་སུ་རྟོགས་པ \"fully conceptualizing\" (bo-mipham 5-16 ཡོངས་སུ་རྟོག་པ་ཅན་དུ་གྱུར་པའི་དབང་གིས ... ཟས་ལ་འདོད་པ་སྐྱེ་བར་བྱེད; bo-rangjung 5-16 and bo-khenrab 5-16 ཡོངས་སུ་རྟོགས་པས), matching Skt parikalpayamāna \"imagining\"; \"food\" is explained as the objects of desire (འདོད་ཡོན་གྱི་ཟས). The Tibetan as given may be a scribal variant; the English follows it against the commentarial reading.",
+    "fix": "Sentient beings, fully conceptualizing, desire food (the objects of desire)"
+   },
+   {
+    "type": "form",
+    "severity": "minor",
+    "span": "the whole translation (one line)",
+    "evidence": "The Tibetan is a four-line verse (four ། ། units), but the English is run together as a single line, so line breaks and the line-by-line correspondence are lost.",
+    "fix": "Set the English in four lines matching the four Tibetan lines."
+   }
+  ]
+ },
+ "5-19": {
+  "translation": "However many sentient beings there are in Jambudvīpa without exception, If all of them were to generate the mind of supreme awakening, And practice generosity for many tens of millions of millennia, And dedicate it all as a cause for awakening for the benefit of beings,",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "If all of them were to generate",
+    "evidence": "The verse closes with the concessive ཡང (བསྔོ་ཡང་ \"even though ... they dedicate\"; bo-rangjung 5-19 བསྔོ་ཡང༌, bo-mipham 5-19 \"ཡང་ཡོད་མོད་ཀྱི\"), setting this vast merit against the next verse, where a single day of practising the perfection of wisdom surpasses it. The English drops the concession (\"If ...\") and leaves the sentence without a main clause.",
+    "fix": "even if all of them were to generate"
+   },
+   {
+    "type": "form",
+    "severity": "minor",
+    "span": "the whole translation (one line)",
+    "evidence": "The Tibetan is a four-line verse (four ། ། units), but the English is run together as a single line, so line breaks and the line-by-line correspondence are lost.",
+    "fix": "Set the English in four lines matching the four Tibetan lines."
+   }
+  ]
+ },
+ "5-20": {
+  "translation": "Whoever diligently applies themselves to the supreme perfection of wisdom, And acts in accordance with it for even a single day, That aggregate of generosity cannot match a fraction of that merit; Therefore, one should always engage in wisdom without wavering.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "without wavering",
+    "evidence": "གཡེལ་མེད is \"without negligence/distraction\" (Skt atandritena); bo-rangjung 5-19 glosses it ལེ་ལོ་དང་བྱ་བ་གཞན་གྱིས་གཡེལ་བ་མེད་པར \"without laziness or distraction by other activities\".",
+    "fix": "without negligence"
+   },
+   {
+    "type": "form",
+    "severity": "minor",
+    "span": "the whole translation (one line)",
+    "evidence": "The Tibetan is a four-line verse (four ། ། units), but the English is run together as a single line, so line breaks and the line-by-line correspondence are lost.",
+    "fix": "Set the English in four lines matching the four Tibetan lines."
+   }
+  ]
+ },
+ "5-25": {
+  "translation": "When the sun, freed from clouds and arrayed in a lattice of light rays,\nRises, destroying all the dense, pitch-black darkness,\nIt eclipses all fireflies, living creatures, and spirits,\nAlong with the hosts of stars and all the light of the moon.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "all fireflies, living creatures, and spirits",
+    "evidence": "སྲོག་ཆགས་འབྱུང་པོ་ཐམས་ཅད is a single phrase \"all living beings/creatures\" (Skt prāṇabhūtām), whose faint light is eclipsed; bo-mipham 5-25 and bo-khenrab 5-25 treat it as creatures with a little light, not as a separate class of spirits. What is overpowered is their light.",
+    "fix": "all fireflies and all living beings"
+   }
+  ]
+ },
+ "5-27": {
+  "translation": "For example, a prince who desires the purpose of giving away wealth\nBecomes the chief of all and is worthy to be approached.\nIf even as he is, he brings joy to many sentient beings,\nWhat need is there to mention when he attains skillful means and is established in the kingdom!",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "when he attains skillful means",
+    "evidence": "ཐབས་ཐོབ་གྱུར་ཏེ here means obtaining the means of ruling the kingdom (bo-mipham 5-27 རྒྱལ་ས་ལ་དབང་བའི་ཐབས་ཐོབ་པར་གྱུར་ཏེ; Skt paṭṭadhārī \"wearing the royal diadem\"), through consecration, in the prince parable; \"skillful means\" in the doctrinal sense does not fit.",
+    "fix": "when he obtains the means (of rule) and is established in the kingdom"
+   }
+  ]
+ },
+ "5-33": {
+  "translation": "If any bodhisattva who has not obtained a prophecy\nBecomes angry and initiates a dispute with one who has obtained a prophecy,\nFor however many moments of mind possessing the fault of hostility there are,\nFor that many eons they must don the armor from the beginning anew.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "possessing the fault of hostility",
+    "evidence": "Tibetan \"ཐབ་སྐྱོན་ལྡན་སེམས་ཀྱི་སྐད་ཅིག\" renders Skt khila-doṣa; bo-mipham 5-33 glosses it as a mind-stream \"རྒྱུད་མ་རུང་པ་དགེ་བའི་ས་བོན་མི་འཕེལ་བའི་ཐ་བ་ལྟ་བུ་སྐྱོན་དང་ལྡན་པའི་སེམས\" (unfit, barren like ground where seeds of virtue do not grow), not simply hostility; the anger/dispute is the cause stated in the preceding lines.",
+    "fix": "possessing the fault of barrenness"
+   }
+  ]
+ },
+ "5-34": {
+  "translation": "\"Buddhas touch awakening through the perfection of patience.\"\nGenerating mindfulness, thinking, \"This mind is not good,\"\nThey confess individually and restrain themselves in the future,\nAnd do not rejoice in it—they train here in the qualities of a Buddha.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "\"Buddhas touch awakening through the perfection of patience.\"",
+    "evidence": "Quotation marks enclose only line 1 and then a second quotation opens in line 2, so the premise \"སངས་རྒྱས་བཟོད་པའི་ཕ་རོལ་ཕྱིན་པས་བྱང་ཆུབ་རེག\" reads as thought content. bo-mipham 5-34 and bo-khenrab 5-34 treat it as a stated fact (if buddhas touch awakening through patience, then this angry mind is not good); only \"སེམས་འདི་བཟང་བ་མིན\" is the thought.",
+    "fix": "Buddhas touch awakening through the perfection of patience;"
+   },
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "confess individually",
+    "evidence": "\"སོ་སོར་འཆགས་པ\" is the locked term and is rendered \"confess\"; bo-mipham 5-34 \"སྡིག་པའི་དངོས་པོ་དེ་སོ་སོར་འཆགས་པར་བྱེད\" and bo-khenrab 5-34 give no sense of confessing \"individually\".",
+    "fix": "They confess"
+   }
+  ]
+ },
+ "5-36": {
+  "translation": "Whichever bodhisattva knows this training in this way,\nWill never become one with degenerate training or faulty ethical discipline;\nIn order to obtain the qualities of a Buddha, they train in this;\nThey are skilled in the higher training, and possess non-apprehension.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "In order to obtain the qualities of a Buddha",
+    "evidence": "Tibetan \"སངས་རྒྱས་ཅོས་མཉེས་བྱ་ཕྱིར\" says \"in order to please\" (མཉེས); bo-rangjung 5-36 reads \"སངས་རྒྱས་ཀྱི་ཆོས་ཀྱིས་མཉེས་པར་བྱ་བའི་ཕྱིར\", and bo-mipham 5-36 notes this reading (\"སངས་རྒྱས་མཉེས་པའམ་དགྱེས་པར་བྱེད་པའི་ཆོས\"), though bo-mipham and bo-khenrab prefer \"obtain\" (བརྙེས་པ). The English follows only the secondary reading and drops the verb of the Tibetan.",
+    "fix": "In order to please the Buddhas by the qualities of a Buddha, they train in this"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "Will never become one with degenerate training or faulty ethical discipline",
+    "evidence": "\"བསླབ་ཉམས་ཚུལ་ཁྲིམས་འཆལ་མི་འགྱུར\" means they will not come to have degenerated training or corrupt discipline (bo-mipham 5-36 \"བསླབ་པ་ལས་ཉམས་པ་དང་ཚུལ་ཁྲིམས་འཆལ་བར་མི་འགྱུར\"); \"become one with\" suggests union.",
+    "fix": "Will never become one whose training degenerates or whose ethical discipline is faulty"
+   }
+  ]
+ },
+ "5-37": {
+  "translation": "Training in this way in the wisdom of the wise light-makers,\nThey do not generate even a single non-virtuous mind;\nJust as, when overwhelmed by the rays of the sun moving in the sky,\nDarkness does not remain in the space before it.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "Just as, when overwhelmed by the rays of the sun moving in the sky, / Darkness does not remain in the space before it.",
+    "evidence": "Tibetan \"ཟིལ་གནོན་པའི། མདུན་གྱི་བར་སྣང་ལ\" makes the space before the sun the thing overpowered by the rays; bo-mipham 5-36 \"ཟིལ་གྱིས་གནོན་པར་གྱུར་པའི་མདུན་གྱི་བར་སྣང་ལ་ནི་མུན་པ་གཏན་མི་གནས\". The English leaves the overwhelmed party unspecified.",
+    "fix": "Just as darkness does not remain in the space before the sun moving in the sky, overpowered by its rays."
+   }
+  ]
+ },
+ "5-50": {
+  "translation": "However many sentient beings there are in realms equal to the sands of the Ganges,\nIf all of them were to assume forms and become Māras,\nAnd even if they emanated that many more from every single hair,\nAll of them could not create obstacles for the wise.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "were to assume forms and become Māras",
+    "evidence": "Tibetan \"ཡོངས་སུ་བརྟག་པ་བཟུང་སྟེ་བདུད་གྱུར་ལ\" has no word for \"forms\"; bo-rangjung 5-50 glosses it \"ཡོངས་སུ་བརྟག་པའི་བསམ་པ་བཟུང་སྟེ། བདུད་དུ་གྱུར་པ\" (taking up the intention, then becoming Māras); Skt \"parikalpa bhaveyu māraḥ\".",
+    "fix": "were to take up the intention and become Māras"
+   }
+  ]
+ },
+ "5-52": {
+  "translation": "When this perfection of wisdom, the Mother of the Tathāgatas,\nIs taught, whichever bodhisattva aspires to it,\nAnd exerts themselves in accomplishing it with sincere intent,\nThat noble one should be known to have entered into omniscience.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "That noble one should be known to have entered into omniscience",
+    "evidence": "The Tibetan has no 'noble'; དེས་པ (ངེས་པ, 'definitely') is rendered in bo-rangjung 5-52 as ངེས་པར་ཞུགས་པར་རིག་པར་བྱ ('should be known to have definitely entered'). The English adds 'noble one' and drops the sense of certainty.",
+    "fix": "That one should be known to have definitely entered omniscience."
+   }
+  ]
+ },
+ "5-53": {
+  "translation": "They do not dwell in the dharmadhātu or suchness,\nBut, for example, like a cloud in space, they dwell without dwelling.\nA mantra-holder, traveling in space without a dwelling, wishing to dwell,\nThrough the power of mantra, brings forth out-of-season flowers and bestows a blessing.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "bestows a blessing",
+    "evidence": "བྱིན་གྱིས་རློབ in this context (bo-mipham 5-53, bo-khenrab 5-53: ཚལ་ལ་སོགས་པ་ཇི་ལྟར་འདོད་པར་བྱིན་གྱིས་རློབ་ཅིང་སྣང་བར་བྱེད་) means empowering/transforming the place so it appears as wished (Sanskrit adhiṣṭhāna, 'mantra-bala-adhiṣṭhāna'), not bestowing a blessing on someone; the object is also left out.",
+    "fix": "and empowers the place as he wishes"
+   }
+  ]
+ },
+ "5-54": {
+  "translation": "Practicing thus, the wise and brilliant bodhisattva\nDoes not apprehend that which realizes, nor the qualities of a Buddha;\nDoes not apprehend an expounder, one who desires the Dharma, or one who views;\nThis is the dwelling of those who desire peace and delight in qualities.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "those who desire peace",
+    "evidence": "ཞི་འདོད: bo-mipham 5-54 glosses it as གཞན་སེམས་ཅན་རྣམས་ཀྱི་སྡུག་བསྔལ་ཞི་བར་འདོད་པ, desiring the pacification of other beings' suffering, so 'peace' for oneself is not meant; the English allows a self-interested reading.",
+    "fix": "those who desire the pacification of beings' suffering"
+   }
+  ]
+ },
+ "5-55": {
+  "translation": "Except for the liberation of the arhats and the Tathāgatas,\nThis dwelling, among those of the śrāvakas and pratyekabuddhas—\nTheir dwellings in peaceful samādhi, profoundly peaceful and endowed with bliss,\nIs the supreme and unsurpassed of all however many there are.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "Their dwellings in peaceful samādhi, profoundly peaceful and endowed with bliss, Is the supreme",
+    "evidence": "The subject of 'is the supreme' (གནས་པ་འདི་ནི ... མཆོག་དང་གོང་ན་མེད་པ་ཡིན) is 'this dwelling' (the bodhisattva's, bo-mipham 5-55 བྱང་ཆུབ་སེམས་དཔའི་གནས་པ་འདི), but the English makes the plural 'Their dwellings' the grammatical subject of a singular verb after a dash, obscuring the structure.",
+    "fix": "This dwelling is the supreme and unsurpassed among all the dwellings of śrāvakas and pratyekabuddhas in peaceful samādhi, profoundly peaceful and endowed with bliss, however many there are."
+   }
+  ]
+ },
+ "5-56": {
+  "translation": "Though birds dwell in the sky, they do not fall;\nThough fish dwell in water, they do not suffocate and die;\nLikewise, the bodhisattva, through the powers of meditative concentration,\nHaving reached the far shore, dwells in emptiness and does not pass into nirvāṇa.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "do not suffocate and die",
+    "evidence": "འཚུབས་ཏེ་འཆི་བ་མེད means 'are not disturbed/agitated and die'; bo-mipham 5-55 and bo-khenrab 5-56 explain ཆུས་རྣ་བ་དང་སྣ་སོགས་འཚུབས་ ('the ears, nose etc. are disturbed by water'). 'Suffocate' is a narrower gloss not in the text.",
+    "fix": "are not disturbed and killed"
+   }
+  ]
+ },
+ "5-57": {
+  "translation": "Whoever wishes to reach the supreme qualities of all sentient beings,\nAnd touch the supreme, most marvelous primordial wisdom of a Buddha,\nAnd give the most excellent, supreme, and holy gift of Dharma,\nShould rely on this supreme dwelling of the benefactors.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "reach the supreme qualities of all sentient beings",
+    "evidence": "སེམས་ཅན་ཀུན་གྱི་ཡོན་ཏན་མཆོག་ཏུ་འགྲོ་བ means to become supreme among all sentient beings' qualities (bo-mipham 5-57: ཡོན་ཏན་ཇི་ཡོད་པ་ཐམས་ཅད་ཀྱི་མཆོག་ཏུ་འགྲོ་བ་ཉིད་དུ་འདོད་པ; Sanskrit sarvasattvaguṇa-agratu gantukāmo). The English reads 'supreme' as modifying the qualities.",
+    "fix": "reach the pinnacle of the qualities of all sentient beings"
+   }
+  ]
+ },
+ "5-63": {
+  "translation": "However many gateways, skillful means, and roots of primordial wisdom there are,\nAll these arise from the supreme perfection of wisdom;\nWhen conditions assemble, the machine of karma fully emerges,\nYet the perfection of wisdom has no exhaustion and no increase.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "gateways, skillful means, and roots of primordial wisdom",
+    "evidence": "The Tibetan lists five items: ཡེ་ཤེས, ཚུལ, སྒོ, ཐབས, རྩ་བ (bo-mipham 5-63: Buddha's wisdom; meditation path; seeing path; preparation path; accumulation path as root; bo-rangjung 5-62 similarly). The English makes 'of primordial wisdom' govern all three nouns and loses 'primordial wisdom' as the first item.",
+    "fix": "However many primordial wisdoms, approaches, gateways, skillful means, and roots there are"
+   }
+  ]
+ },
+ "5-67": {
+  "translation": "This is a wondrous marvel of those who accumulate qualities:\nAbiding in meditative concentration and samādhi, they are signless;\nIf the bodies of those who abide in them should perish,\nThey are reborn in the desire realm exactly according to their intentions.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "they are signless",
+    "evidence": "མཚན་མ་མེད means no signs are apprehended in that samādhi: bo-mipham 5-67 ཤེས་རབ་ཀྱིས་དེ་ལ་མཚན་མ་མེད་པར་རྟོགས་སོ, bo-rangjung 5-67 མཚན་མར་འཛིན་པའི་སྒོ་ནས་རོ་མྱང་བ་མེད. The English predicates 'signless' of the persons.",
+    "fix": "they are without signs (they do not apprehend signs)"
+   }
+  ]
+ },
+ "5-68": {
+  "translation": "For example, it is like a person of Jambudvīpa who had never before\nVisited the supreme city of the gods in the realm of the gods, but later goes there;\nHaving seen those fully possessed objects,\nThey do not become attached when they return here.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "those fully possessed objects",
+    "evidence": "ཡོངས་སུ་བཟུང་བའི་ཡུལ་ refers to the pleasing places (mansions, gardens) held by the gods: bo-mipham 5-68 ལྷ་རྣམས་ཀྱིས་ཡོངས་སུ་བཟུང་བའི་ཁང་བཟང་དང་སྐྱེད་མོས་ཚལ་ལ་སོགས་པའི་ཡུལ་ཡིད་དུ་འོང་བ. 'Fully possessed objects' is opaque and omits the gods as holders; the singular 'person' is also followed by plural 'They'.",
+    "fix": "those realms held by the gods; (and) he does not become attached when he returns here"
+   }
+  ]
+ },
+ "5-73": {
+  "translation": "If a bodhisattva abides in samādhi and meditative concentration,\nBut generates a mind desiring the vehicle of an arhat or pratyekabuddha,\nThey are not in meditative equipoise, but become agitated and have a distracted mind;\nAnd the qualities of a Buddha completely decline, like a boatman whose boat is wrecked.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "They are not in meditative equipoise, but become agitated and have a distracted mind",
+    "evidence": "The Tibetan མཉམ་པར་མ་བཞག་རྒོད་ཅིང་སེམས་གཡེངས་གྱུར་པ་སྟེ lists three parallel faults (not in equipoise, agitated, mind distracted), as bo-mipham 5-73 མཉམ་པར་མ་བཞག་པ་དང་། རྒོད་ཅིང་སེམས་གཡེངས་པར་གྱུར་པ་ shows. The English 'but' wrongly sets agitation in contrast to not being in equipoise.",
+    "fix": "They are not in meditative equipoise; they become agitated and have a distracted mind;"
+   }
+  ]
+ },
+ "5-74": {
+  "translation": "Moreover, form and sound, and likewise smell and taste,\nTouch, and the five qualities of desire—even if they intensely engage in them,\nIf they are free from the vehicle of the arhat and pratyekabuddha and delight in the mind of awakening,\nThe hero should be known to be constantly in meditative equipoise.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "Touch, and the five qualities of desire",
+    "evidence": "Tibetan རེག་དང་འདོད་ཡོན་ལྔ་ presents the five (form, sound, smell, taste, touch) as the five qualities of desire. bo-mipham 5-74 རེག་བྱ་དང་བཅས་པ་སྟེ་འདོད་པའི་ཡོན་ཏན་ལྔ་ and bo-khenrab 5-74 ... རེག་བྱ ... སོགས་འདོད་པའི་ཡོན་ཏན་ལྔ་. The English 'and' lets the reader take the five qualities of desire as a further group beyond the five listed objects.",
+    "fix": "Touch—the five qualities of desire—"
+   }
+  ]
+ },
+ "5-76": {
+  "translation": "Whether she is scolded or even constantly beaten,\nThe servant woman does not speak a word in reply to her master;\nThinking, \"He will even kill me,\"\nWith an extremely terrified mind, she is overcome with fear.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Thinking, \"He will even kill me,\"",
+    "evidence": "Tibetan འདི་ཡིས་བདག་ནི་བསད་པར་འགྱུར་དུ་འོང་སྙམ་ནས is a possibility ('by this he may come to kill me'), not a certainty, and it includes འདི་ཡིས ('by this'). bo-mipham 5-76 ཉེས་ན་འདི༷་ཡི༷ས་བདག༷་ནི༷་བསད༷་པར༷་འགྱུར༷་དུའང༷་འོང༷་ and bo-khenrab 5-76 སྟབས་ཉེས་ན་ ('if she errs') confirm the conditional sense. The English states it as a definite future and omits 'by this'.",
+    "fix": "Thinking, \"By this he might even kill me,\""
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "she is overcome with fear",
+    "evidence": "Tibetan འཇིགས་བཅས་ཟིལ་གྱིས་གནོན is 'with fear, she is overpowered'. bo-mipham 5-76 བཀའ་ཉན་ལ་དེ་ཉིད་རྗེ་བོ་དེའི་ཟིལ༷་གྱིས༷་གནོན༷་པར་གྱུར་པ་ and bo-khenrab 5-76 རྗེ་བོ་དེས་ཟིལ་གྱིས་གནོན་པར་གྱུར་བ་ show that ཟིལ་གྱིས་གནོན is her being dominated by the master, which links to 'under the power of her master' in 5-75. The English reduces it to being afraid.",
+    "fix": "fearful, she is utterly subdued by him."
+   }
+  ]
+ },
+ "5-77": {
+  "translation": "Likewise, those who have entered into supreme awakening for the sake of awakening\nShould abide as if they were servants to all beings;\nFrom this, awakening is attained and the qualities perfected;\nFire arising from grass and wood burns them up.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "those who have entered into supreme awakening for the sake of awakening",
+    "evidence": "Tibetan བྱང་ཆུབ་ཆེད་དུ་བྱང་ཆུབ་མཆོག་ཞུགས་པ ('entered/set out on the supreme [path of] awakening for the sake of awakening'). bo-mipham 5-77 བླ་ན་མེད་པའི་བྱང་ཆུབ་ཀྱི་ཆེད་དུ་བྱང་ཆུབ་མཆོག་གི་ལམ་ལ་ཞུགས་པ་ and Sanskrit bodhivarapasthitu show that what is entered is the path to supreme awakening; those described have not yet attained it. 'entered into supreme awakening' suggests being in awakening itself.",
+    "fix": "those who have set out on the path to supreme awakening for the sake of awakening"
+   },
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "burns them up",
+    "evidence": "Tibetan རྩྭ་དང་ཤིང་ལས་མེ་བྱུང་བས་ནི་དེ་ཉིད་སྲེག says fire born of grass and wood burns that very grass and wood. bo-mipham 5-77 རྩ་དང་ཤིང་ལས་མེ་བྱུང་བས་ནི་རྩ་ཤིང་དེ༷་ཉི༷ད་སྲེག་པ. The English 'them' has no clear antecedent and loses 'that very' (self-destruction by one's own fire).",
+    "fix": "Fire arising from grass and wood burns that very grass and wood."
+   }
+  ]
+ },
+ "5-80": {
+  "translation": "An unwise bodhisattva counts tens of millions of eons;\nIf they perceive them as long, they accomplish awakening with suffering;\nWhen accomplishing the authentic Dharma, they will suffer for a long time;\nThrough this, their perfection of diligence diminishes and they are lazy.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "If they perceive them as long, they accomplish awakening with suffering",
+    "evidence": "Tibetan རིང་བར་འདུ་ཤེས་སྡུག་བསྔལ་བྱང་ཆུབ་སྒྲུབ: both 'long' and 'suffering' are perceptions (འདུ་ཤེས). bo-mipham 5-80 རིང༷་བར༷་འདུ༷་ཤེས༷་པ་དང་། ... སྡུག༷་བསྔལ༷་བའི་འདུ་ཤེས་ཀྱི་སྒོ་ནས་བྱང༷་ཆུབ༷་སྒྲུབ༷་པར་བྱེད་ན། and bo-khenrab 5-80 སྡུག་བསྔལ་བའི་འདུ་ཤེས་ཀྱི་སྒོ་ནས་བྱང་ཆུབ་སྒྲུབ་པར་བྱེད་ན. The English renders suffering as an actual circumstance of accomplishing rather than a perception.",
+    "fix": "If they perceive it as long and perceive it as suffering, and so accomplish awakening,"
+   }
+  ]
+ },
+ "5-87": {
+  "translation": "Whatever bodhisattva possesses the excellent dharma of patience—\nWhoever fills the three thousandfold world system with jewels and offers them to the Knowers of the World,\nThe Buddhas, arhats, and pratyekabuddhas,\nThat mass of generosity cannot match a fraction of their merit.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "offers them to the Knowers of the World,\nThe Buddhas, arhats, and pratyekabuddhas",
+    "evidence": "Tibetan འཇིག་རྟེན་མཁྱེན། སངས་རྒྱས་རྣམས་དང་དགྲ་བཅོམ་རང་རྒྱལ is 'the Knowers of the World, i.e. the Buddhas, and arhats and pratyekabuddhas'; འཇིག་རྟེན་མཁྱེན་པ is an epithet of the Buddhas only. bo-mipham 5-87 འཇིག༷་རྟེན༷་མཁྱེན༷་པ་སངས༷་རྒྱས༷་རྣམ༷ས་དང༷་། དགྲ༷་བཅོ༷མ་པ་རྣམས་དང་རང༷་རྒྱལ༷་རྣམས་ལ and bo-rangjung 5-87 འཇིག་རྟེན་མཁྱེན་པའི་སངས་རྒྱས་རྣམས་དང་ཉན་ཐོས་དགྲ་བཅོམ་པ་དང་རང་རྒྱལ་རྣམས་. The English line break makes 'Knowers of the World' read as a heading for all three groups.",
+    "fix": "offers them to the Buddhas, the Knowers of the World, and to arhats and pratyekabuddhas,"
+   }
+  ]
+ },
+ "5-88": {
+  "translation": "The body of one who abides in patience becomes completely pure;\nPossessing the thirty-two marks and boundless power and strength,\nThey proclaim the supreme Dharma of emptiness to sentient beings;\nWandering beings will rejoice in this wise one endowed with patience.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Wandering beings will rejoice in this wise one endowed with patience.",
+    "evidence": "Tibetan འདི་ནི་བཟོད་ལྡན་དེ་ལ་འགྲོ་བ་དགའ་འགྱུར་མཁས: 'wise' (མཁས) is a separate result (མཁས་པར་འགྱུར) alongside beings' delight. bo-mipham 5-88 ... དེ༷་ལ༷་འགྲོ༷་བ༷་རྣམས་དགའ༷་བར་འགྱུར༷་ཞིང་ ... རྨོངས་པ་དང་བྲལ་བའི་མཁས༷་པར་འགྱུར་རོ and bo-khenrab 5-88 ... བླང་དོར་གྱི་གནས་ལ་མཁས་པར་འགྱུར་རོ. The English reduces 'becomes wise' to an epithet of the patient one.",
+    "fix": "Beings will rejoice in this one endowed with patience, and they will become wise."
+   }
+  ]
+ },
+ "5-89": {
+  "translation": "If some sentient beings take a packet of sandalwood,\nAnd with great respect rub it on the bodhisattva,\nWhile another scatters burning coals on their head—towards both\nThey should generate an equal and even mind.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "They should generate an equal and even mind.",
+    "evidence": "Tibetan དེ་ཡིས་མཉམ་ཞིང་སྙོམས་པའི་ཡིད་ནི་བསྐྱེད་པར་བྱ: the agent is the bodhisattva. bo-mipham 5-89 བྱང་ཆུབ་སེམས་དཔའ་དེ༷་ཡིས༷་ ... མཉམ༷་ཞིང༷་སྙོམས༷་པའི༷་ཡི༷ད་ནི༷་བསྐྱེ༷ད་པར༷་བྱའོ and bo-khenrab 5-89 བྱང་ཆུབ་སེམས་དཔའ་དེ་ཡིས་ .... In the English, 'some sentient beings', 'another' and the bodhisattva are all possible antecedents of 'They'.",
+    "fix": "That bodhisattva should generate an equal and even mind."
+   }
+  ]
+ },
+ "5-90": {
+  "translation": "Having practiced patience in that way, the wise bodhisattva,\nIf they dedicate that generation of the mind to supreme awakening,\nThat hero, through patience towards the entire world, outshines the arhats,\nThe pratyekabuddhas, and however many diverse realms of sentient beings there are.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "however many diverse realms of sentient beings there are",
+    "evidence": "Tibetan སེམས་ཅན་ཁམས་མང་ཇི་སྙེད (locked 'realm of sentient beings') says 'however many [there are in] the realm of sentient beings'. bo-mipham 5-90 གཞན་སེམས༷་ཅ༷ན་གྱི་ཁ༷མས་མང༷་པོ་ཇི༷་སྙེད༷་པ and bo-rangjung 5-90 སེམས་ཅན་ཁམས་ཀྱི་དགེ་བ་ཇི་སྙེད་ཡོད་པ. Nothing corresponds to 'diverse', and the locked singular rendering 'realm of sentient beings' is not used.",
+    "fix": "and however many there are in the realm of sentient beings."
+   }
+  ]
+ },
+ "5-95": {
+  "translation": "Whatever phenomena cause the qualities of certain awakening to arise,\nThis is the purpose of ethical discipline for those endowed with the phenomena of quality.\nWhatever phenomena cause the awakening of benefactors to completely degenerate,\nThe Guide has stated that this is lacking ethical discipline.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "the qualities of certain awakening",
+    "evidence": "ངེས་པ in 'ཆོས་གང་ངེས་པའི་བྱང་ཆུབ་ཡོན་ཏན་འབྱུང་འགྱུར་བ' is explained by bo-mipham 5-95 as certainty (the dharma that definitely brings about the qualities of supreme awakening: 'ཐོབ་བྱ་བྱང་ཆུབ་མཆོག་གི་ཡོན་ཏན་འབྱུང་བར་འགྱུར་བ'); 'certain awakening' reads as a kind of awakening rather than the certainty of the causal result.",
+    "fix": "Whatever phenomena certainly cause the qualities of awakening to arise"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "the awakening of benefactors",
+    "evidence": "'ཕན་བྱེད' means those who benefit (others): bo-mipham 5-95 'ཕན་བྱེད་བྱང་སེམས་རྣམས'; bo-rangjung 5-95 'གཞན་ལ་ཕན་པར་བྱེད་པ་རྣམས'; Sanskrit hitaṃkarāṇām. 'Benefactors' suggests donors/patrons.",
+    "fix": "the awakening of those who benefit others"
+   }
+  ]
+ },
+ "5-98": {
+  "translation": "Guarding ethical discipline and dedicating it to supreme awakening,\nBeing without conceit because of it and not praising oneself,\nAnd completely abandoning the perception of a self and the perception of sentient beings—\nSuch a bodhisattva is said to abide in the perfection of ethical discipline.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "Being without conceit because of it",
+    "evidence": "'དེ་ཡིས་རློམ་སེམས་མེད' means no conceit about / on account of the ethical discipline, not that discipline causes absence of conceit: bo-mipham 5-98 'ཚུལ་ཁྲིམས་དེ་ལ་མཚན་མར་བཟུང་བ་ཡིས་རློམ་སེམས་སུ་གྱུར་པ་མེད'; bo-khenrab 5-98 'ཚུལ་ཁྲིམས་དེ་ལ་བདེན་པར་ཞེན་པ་ཡིས་རློམ་སེམས་སུ་གྱུར་བ་མེད'; Sanskrit 'na ca tena manyati'.",
+    "fix": "Not becoming conceited on account of it, and not praising oneself"
+   }
+  ]
+ },
+ "5-101": {
+  "translation": "Any pure sentient being who thus possesses ethical discipline\nHas no view regarding anything pleasant or unpleasant;\nGiving away their head, hands, and feet, they do not even have a discouraged mind,\nAnd giving away all their possessions, they are always free from attachment.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "Has no view regarding anything pleasant or unpleasant",
+    "evidence": "'ལྟ་བ་མེད' is explained as not regarding things as fixed signs / with attachment-aversion: bo-mipham 5-101 'དེ་དང་དེར་མཚན་མར་ལྟ་བ་མེད'; bo-rangjung 5-101 'ཆགས་སྡང་དུ་བལྟ་བ་མེད'; Sanskrit 'anapekṣaka' (without regard). 'Has no view' reads as a doctrinal view (dṛṣṭi).",
+    "fix": "Has no fixating regard for anything pleasant or unpleasant"
+   }
+  ]
+ },
+ "5-107": {
+  "translation": "However many sentient beings there are without exception in the three states of existence,\nTaking them fully into consideration, if all of them\nTo the Knowers of the World, the Buddhas, arhats, and pratyekabuddhas,\nGive gifts for infinite eons and properly seek to be a śrāvaka—",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Taking them fully into consideration",
+    "evidence": "'ཡོངས་སུ་བརྟག་པ་བཟུང་སྟེ' is glossed as taking the limit/extent of what can be reckoned or imagined: bo-mipham 5-107 'ཡོངས་སུ་བརྟག་པ་མཐའ་བཟུང་གི་དཔེར་བྱས་ཏེ'; bo-rangjung 5-106 'ཡོངས་སུ་བརྟག་པའི་མཐའ་བཟུང་སྟེ'. It marks the maximal hypothetical case, not 'taking them into consideration'.",
+    "fix": "Taking them as the utmost extent of what can be conceived"
+   }
+  ]
+ },
+ "5-108": {
+  "translation": "If any wise bodhisattva, skilled in means,\nRejoices in their basis of meritorious action\nAnd dedicates it to supreme awakening for the sake of sentient beings,\nBy dedicating it, they outshine all beings.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "Rejoices in their basis of meritorious action",
+    "evidence": "'དེ་དག་བསོད་ནམས་བྱ་བའི་དངོས་ལ་ཡི་རང' refers to the meritorious bases of those beings of the preceding verse (bo-rangjung 5-108 'འཁོར་འདས་དེ་དག་གི་བསོད་ནམས་བྱ་བའི་དངོས་པོ་ལ་ཡིད་རང་ནས'; bo-mipham 5-107 'བཤད་མ་ཐག་པ་དེ་དག་གི་བསོད་ནམས་བྱ་བའི་དངོས་པོ་དེ་ལ་ཡི་རང'). After 'any bodhisattva', 'their' reads as the bodhisattva's own.",
+    "fix": "Rejoices in the bases of meritorious action of those beings"
+   }
+  ]
+ },
+ "5-109": {
+  "translation": "Even a great heap of imitation glass jewels\nIs completely outshone by a single precious lapis lazuli;\nLikewise, all the vast aggregates of generosity of all beings\nAre outshone by the rejoicing bodhisattva.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "imitation glass jewels",
+    "evidence": "'ནོར་བུ་མཆིང་བུ' corresponds to Sanskrit 'kācasya maṇi' (glass jewel); 'imitation' is not in the Tibetan or Sanskrit, and 'glass' and 'imitation' double up.",
+    "fix": "a great heap of glass jewels"
+   }
+  ]
+ },
+ "5-110": {
+  "translation": "If a bodhisattva, having given gifts to beings,\nDoes not claim it as \"mine\" and is unsparing of the entity,\nFrom that, their root of virtue will increase with great power,\nLike the radiant, cloudless moon disk during the waxing fortnight.",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "Does not claim it as \"mine\"",
+    "evidence": "All three commentaries take what is not claimed as 'mine' to be the merit/result of the giving, while the object is dealt with separately by 'ཕངས་མེད': bo-mipham 5-110 'སྦྱིན་པའི་བསོད་ནམས་དེ་ལ་བདག་གིར་མི་བྱེད'; bo-rangjung 5-110 'སྦྱིན་པ་བྱིན་པའི་བསོད་ནམས་དེ་ལས་བདག་གིར་མི་བྱེད'; bo-khenrab 5-110 'སྦྱིན་པའི་འབྲས་བུ་དེ་ལ་བདག་གིར་མི་བྱེད'. 'It' after 'gifts' reads as the gift itself.",
+    "fix": "Does not claim the merit of it as \"mine\" and is unsparing of the entity"
+   }
+  ]
+ },
+ "6-1": {
+  "translation": "Chapter Six: Teaching the gradual path.\nThrough the bodhisattva's generosity, the destiny of hungry ghosts is cut off;\nPoverty and likewise all afflictions are cut off;\nWhile practicing, one will obtain infinite, abundant resources;\nThrough generosity, one fully ripens sentient beings who are suffering.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "Chapter Six",
+    "evidence": "Tibetan 'སྐབས་དྲུག་པ' is 'sixth topic/occasion' (སྐབས), the heading of the sixth of the eight-fold sequence; the commentaries count in སྐབས (bo-rangjung 5-110 'སྐབས་བདུན་པ... བརྒྱད་པ'), not ལེའུ (chapter) which they use for chapter numbers (bo-khenrab 5-110 'ལེའུ'). 'Chapter Six' conflates the two numbering schemes.",
+    "fix": "Sixth topic: teaching the gradual path"
+   }
+  ]
+ }
+}

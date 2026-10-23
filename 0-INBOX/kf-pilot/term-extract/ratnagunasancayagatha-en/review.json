@@ -1,0 +1,1760 @@
+{
+ "drop": [
+  {
+   "id": "0-4",
+   "bo": "དགའ",
+   "reason": "ordinary emotion"
+  },
+  {
+   "id": "0-4",
+   "bo": "གུས",
+   "reason": "ordinary attitude"
+  },
+  {
+   "id": "1-1",
+   "bo": "སྐབས་དང་པོ",
+   "reason": "Chapter numbers/titles are not glossary terms."
+  },
+  {
+   "id": "1-3",
+   "bo": "མངོན་སུམ་བྱས",
+   "reason": "Ordinary verb phrase meaning 'directly realized' or 'actualized'."
+  },
+  {
+   "id": "1-4",
+   "bo": "མི་དམིགས",
+   "reason": "Ordinary verb (does not apprehend)."
+  },
+  {
+   "id": "1-9",
+   "bo": "མི་དམིགས",
+   "reason": "Ordinary verb (apprehending)."
+  },
+  {
+   "id": "1-11",
+   "bo": "དམིགས་པར་མི་འགྱུར",
+   "reason": "Ordinary verb phrase (do not apprehend)."
+  },
+  {
+   "id": "1-12",
+   "bo": "ངེས་པར་འབྱུང",
+   "reason": "Ordinary verb (definitely emerge)."
+  },
+  {
+   "id": "1-28",
+   "bo": "སྐབས་གཉིས་པ",
+   "reason": "Chapter titles and numbers are stock colophon wording, not glossary terms."
+  },
+  {
+   "id": "2-43",
+   "bo": "ཟད་པ",
+   "reason": "Ordinary verb/adjective (exhausted)"
+  },
+  {
+   "id": "2-46",
+   "bo": "དུག་མེད",
+   "reason": "Ordinary adjective (poison-free) in a simile"
+  },
+  {
+   "id": "4-19",
+   "bo": "རིན་ཆེན་རིན་ཐང་མེད་པ",
+   "reason": "Part of a one-off simile, not a fixed technical term."
+  },
+  {
+   "id": "4-20",
+   "bo": "དཀོན་པའི་རིན་ཆེན",
+   "reason": "Ordinary adjective and noun used metaphorically, not a technical term."
+  },
+  {
+   "id": "4-32",
+   "bo": "དད་བརྟན",
+   "reason": "Ordinary adjective combined with faith."
+  },
+  {
+   "id": "4-42",
+   "bo": "བླ་མ་མཁས་པ",
+   "reason": "Ordinary adjective combined with guru."
+  },
+  {
+   "id": "4-44",
+   "bo": "བྱང་ཆུབ་ཕུང་པོ",
+   "reason": "Not a standard technical compound; separates awakening and aggregates."
+  },
+  {
+   "id": "4-56",
+   "bo": "སླར་ལྡོག་མི་འགྱུར་བ",
+   "reason": "Ordinary verb phrase"
+  },
+  {
+   "id": "4-63",
+   "bo": "རང་བཞིན",
+   "reason": "Used as an ordinary adverb here"
+  },
+  {
+   "id": "4-67",
+   "bo": "ཤེས་རབ་མཆོག",
+   "reason": "Not a fixed technical term, just modified wisdom"
+  },
+  {
+   "id": "4-78",
+   "bo": "མཉམ་པར་མ་བཞག",
+   "reason": "Contains the negative particle མ་; not the base technical term."
+  },
+  {
+   "id": "4-81",
+   "bo": "སྙིང་རྗེ་ཆེ",
+   "reason": "Invalid span that cuts the adverbial ཆེར་, and the base term is already listed."
+  },
+  {
+   "id": "4-81",
+   "bo": "ཏིང་འཛིན་མཆོག",
+   "reason": "Contains the adjective 'supreme'."
+  },
+  {
+   "id": "4-84",
+   "bo": "ཏིང་འཛིན་དམ་པ",
+   "reason": "Contains the adjective 'supreme'."
+  },
+  {
+   "id": "4-87",
+   "bo": "སྟོང་ཉིད་དམ་པ",
+   "reason": "Contains the adjective 'supreme'."
+  },
+  {
+   "id": "4-91",
+   "bo": "གདུགས",
+   "reason": "Metaphorical image used as part of a simile, not a standard technical term."
+  },
+  {
+   "id": "4-93",
+   "bo": "རིན་ཆེན་གྱི། ། གླིང",
+   "reason": "Span includes punctuation and is split across a line break."
+  },
+  {
+   "id": "5-17",
+   "bo": "སྐྱེ་ཞིང་འཆི",
+   "reason": "Ordinary verbs"
+  },
+  {
+   "id": "5-35",
+   "bo": "མི་དམིགས",
+   "reason": "Negated ordinary verb in this context"
+  },
+  {
+   "id": "5-35",
+   "bo": "མི་རྟོག་པ",
+   "reason": "Negated ordinary verb in this context"
+  },
+  {
+   "id": "5-49",
+   "bo": "ཕྱག་ཀྱང་འཚལ",
+   "reason": "Ordinary verb phrase with a particle"
+  },
+  {
+   "id": "5-53",
+   "bo": "བྱིན་གྱིས་རློབ",
+   "reason": "Ordinary verb form (blesses)"
+  },
+  {
+   "id": "5-54",
+   "bo": "དམིགས་མི་འགྱུར",
+   "reason": "Negated ordinary verb"
+  },
+  {
+   "id": "5-84",
+   "bo": "འགྲོ་བ་ཡོངས་སུ་སྨིན་པར་བྱས",
+   "reason": "Descriptive verb phrase, not a standard single glossary term."
+  },
+  {
+   "id": "5-85",
+   "bo": "བྱང་ཆུབ་ཞི་བ་མི་ཉམས་མཆོག",
+   "reason": "Descriptive phrase, not a fixed technical term."
+  },
+  {
+   "id": "5-88",
+   "bo": "ཆོས་རབ་སྟོང་པ",
+   "reason": "Descriptive phrase, not a fixed title."
+  },
+  {
+   "id": "5-97",
+   "bo": "བསྐལ་པ་བྱེ་བ",
+   "reason": "Plain quantity/time measurement."
+  },
+  {
+   "id": "5-99",
+   "bo": "ཡོངས་དག་ཚུལ་ཁྲིམས",
+   "reason": "Descriptive phrase, not a standard fixed term."
+  },
+  {
+   "id": "5-107",
+   "bo": "བསྐལ་བ་མཐའ་ཡས",
+   "reason": "Descriptive time measurement, not a fixed standalone term."
+  },
+  {
+   "id": "5-107",
+   "bo": "སྦྱིན་བྱིན",
+   "reason": "Ordinary verb phrase (give gifts)."
+  }
+ ],
+ "fix_span": [
+  {
+   "id": "0-3",
+   "bo": "འཁོར་བཞི་པོ",
+   "bo_fixed": "འཁོར་བཞི"
+  },
+  {
+   "id": "0-4",
+   "bo": "དཔའ་རྣམས",
+   "bo_fixed": "དཔའ"
+  },
+  {
+   "id": "2-8",
+   "bo": "ཆོས་རྣམས",
+   "bo_fixed": "ཆོས"
+  },
+  {
+   "id": "2-15",
+   "bo": "གངགāའི",
+   "bo_fixed": "གངགā"
+  },
+  {
+   "id": "2-22",
+   "bo": "གང་གāའི",
+   "bo_fixed": "གང་གā"
+  },
+  {
+   "id": "2-26",
+   "bo": "ཆོས་རྣམས",
+   "bo_fixed": "ཆོས"
+  },
+  {
+   "id": "2-29",
+   "bo": "ཆོས་རྣམས",
+   "bo_fixed": "ཆོས"
+  },
+  {
+   "id": "2-30",
+   "bo": "ཆོས་ཀུན",
+   "bo_fixed": "ཆོས"
+  },
+  {
+   "id": "2-32",
+   "bo": "ཆོས་རྣམས",
+   "bo_fixed": "ཆོས"
+  },
+  {
+   "id": "2-46",
+   "bo": "ཡོངས་སུ་བསྔོ་བྱེད",
+   "bo_fixed": "ཡོངས་སུ་བསྔོ"
+  },
+  {
+   "id": "4-4",
+   "bo": "རྒྱལ་རྣམས",
+   "bo_fixed": "རྒྱལ"
+  },
+  {
+   "id": "4-6",
+   "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+   "bo_fixed": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ"
+  },
+  {
+   "id": "4-19",
+   "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+   "bo_fixed": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ"
+  },
+  {
+   "id": "4-23",
+   "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+   "bo_fixed": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ"
+  },
+  {
+   "id": "4-24",
+   "bo": "ཆོས་རྣམས",
+   "bo_fixed": "ཆོས"
+  },
+  {
+   "id": "4-27",
+   "bo": "ཆོས་ཀྱང",
+   "bo_fixed": "ཆོས"
+  },
+  {
+   "id": "4-30",
+   "bo": "ཆོས་རྣམས",
+   "bo_fixed": "ཆོས"
+  },
+  {
+   "id": "4-51",
+   "bo": "ཆོས་ཀུན",
+   "bo_fixed": "ཆོས"
+  },
+  {
+   "id": "4-66",
+   "bo": "སྦྱིན་བྱེད",
+   "bo_fixed": "སྦྱིན"
+  },
+  {
+   "id": "4-75",
+   "bo": "མཚན་མར",
+   "bo_fixed": "མཚན་མ"
+  },
+  {
+   "id": "4-85",
+   "bo": "མཚན་མར",
+   "bo_fixed": "མཚན་མ"
+  },
+  {
+   "id": "5-1",
+   "bo": "སངས་རྒྱས་རྣམས",
+   "bo_fixed": "སངས་རྒྱས"
+  },
+  {
+   "id": "5-1",
+   "bo": "འགྲོ་ལ",
+   "bo_fixed": "འགྲོ"
+  },
+  {
+   "id": "5-3",
+   "bo": "བདེན་པའི་བྱིན་གྱིས",
+   "bo_fixed": "བདེན་པའི་བྱིན"
+  },
+  {
+   "id": "5-91",
+   "bo": "དམྱལ",
+   "bo_fixed": "སེམས་དམྱལ"
+  },
+  {
+   "id": "5-96",
+   "bo": "སྐྱབས་སོང",
+   "bo_fixed": "སྐྱབས"
+  },
+  {
+   "id": "6-4",
+   "bo": "ཆོས་ཀྱང",
+   "bo_fixed": "ཆོས"
+  },
+  {
+   "id": "6-4",
+   "bo": "འགྲོ་ལ",
+   "bo_fixed": "འགྲོ"
+  },
+  {
+   "id": "7-1",
+   "bo": "ཆོས་འདི",
+   "bo_fixed": "ཆོས"
+  },
+  {
+   "id": "8-1",
+   "bo": "ཆོས་ཀུན",
+   "bo_fixed": "ཆོས"
+  }
+ ],
+ "add": [
+  {
+   "id": "2-1",
+   "bo": "ཤེས་རབ",
+   "dm": "wisdom",
+   "gm": "wisdom",
+   "reason": "Component of perfection of wisdom."
+  },
+  {
+   "id": "2-1",
+   "bo": "ཕ་རོལ་ཕྱིན",
+   "dm": "perfection",
+   "gm": "perfection",
+   "reason": "Component of perfection of wisdom."
+  },
+  {
+   "id": "2-2",
+   "bo": "ས",
+   "dm": "stage",
+   "gm": "level",
+   "reason": "Component of stage/level terms."
+  },
+  {
+   "id": "2-3",
+   "bo": "འདུས་མ་བྱས",
+   "dm": "unconditioned",
+   "gm": "unconditioned",
+   "reason": "Component of unconditioned realm."
+  },
+  {
+   "id": "2-3",
+   "bo": "ཁམས",
+   "dm": "realm",
+   "gm": "realm",
+   "reason": "Component of unconditioned realm."
+  },
+  {
+   "id": "2-4",
+   "bo": "ཆོས",
+   "dm": "Dharma",
+   "gm": "Dharma",
+   "reason": "Component of Kings of Dharma."
+  },
+  {
+   "id": "2-4",
+   "bo": "སངས་རྒྱས",
+   "dm": null,
+   "gm": null,
+   "reason": "Component of Pratyekabuddhas."
+  },
+  {
+   "id": "2-5",
+   "bo": "འཇིག་རྟེན",
+   "dm": "World",
+   "gm": "World",
+   "reason": "Component of Protectors of the World."
+  },
+  {
+   "id": "2-5",
+   "bo": "མགོན",
+   "dm": "Protectors",
+   "gm": "Protectors",
+   "reason": "Component of Protectors of the World."
+  },
+  {
+   "id": "2-7",
+   "bo": "ས",
+   "dm": "stage",
+   "gm": "level",
+   "reason": "Component of stage/level."
+  },
+  {
+   "id": "2-7",
+   "bo": "སངས་རྒྱས",
+   "dm": "Buddha",
+   "gm": "buddha",
+   "reason": "Component of Buddha-dharma."
+  },
+  {
+   "id": "2-7",
+   "bo": "ཆོས",
+   "dm": "dharma",
+   "gm": "qualities",
+   "reason": "Component of Buddha-dharma."
+  },
+  {
+   "id": "2-9",
+   "bo": "ནམ་མཁའ",
+   "dm": "space",
+   "gm": "space",
+   "reason": "Component of element of space."
+  },
+  {
+   "id": "2-9",
+   "bo": "ཁམས",
+   "dm": "element",
+   "gm": "realm",
+   "reason": "Component of element of space."
+  },
+  {
+   "id": "2-10",
+   "bo": "ནམ་མཁའ",
+   "dm": "space",
+   "gm": "space",
+   "reason": "Component of expanse of space."
+  },
+  {
+   "id": "2-10",
+   "bo": "ཁམས",
+   "dm": "expanse",
+   "gm": "realm",
+   "reason": "Component of expanse of space."
+  },
+  {
+   "id": "2-10",
+   "bo": "འཇིག་རྟེན",
+   "dm": "World",
+   "gm": "World",
+   "reason": "Component of Knower of the World."
+  },
+  {
+   "id": "2-12",
+   "bo": "ཤེས་རབ",
+   "dm": "wisdom",
+   "gm": "wisdom",
+   "reason": "Component of perfection of wisdom."
+  },
+  {
+   "id": "2-12",
+   "bo": "ཕ་རོལ་ཕྱིན",
+   "dm": "perfection",
+   "gm": "perfection",
+   "reason": "Component of perfection of wisdom."
+  },
+  {
+   "id": "2-14",
+   "bo": "ཤེས་རབ",
+   "dm": "wisdom",
+   "gm": "wisdom",
+   "reason": "Component of perfection of wisdom."
+  },
+  {
+   "id": "2-14",
+   "bo": "ཕ་རོལ་ཕྱིན",
+   "dm": "perfection",
+   "gm": "perfection",
+   "reason": "Component of perfection of wisdom."
+  },
+  {
+   "id": "2-14",
+   "bo": "ཕྱོགས",
+   "dm": "factions",
+   "gm": "factions",
+   "reason": "Component of factions of Mara."
+  },
+  {
+   "id": "2-17",
+   "bo": "ཡུམ",
+   "dm": "Mother",
+   "gm": "Mother",
+   "reason": "Component of Mother of the Sugatas."
+  },
+  {
+   "id": "2-18",
+   "bo": "ཤེས་རབ",
+   "dm": "Wisdom",
+   "gm": "wisdom",
+   "reason": "Component of perfection of wisdom."
+  },
+  {
+   "id": "2-18",
+   "bo": "ཕ་རོལ་ཕྱིན",
+   "dm": "Perfection",
+   "gm": "perfection",
+   "reason": "Component of perfection of wisdom."
+  },
+  {
+   "id": "2-18",
+   "bo": "ཁམས",
+   "dm": "realms",
+   "gm": "realms",
+   "reason": "Component of realms of sentient beings."
+  },
+  {
+   "id": "2-18",
+   "bo": "འཇིག་རྟེན",
+   "dm": "worlds",
+   "gm": "World",
+   "reason": "Component of protectors of the worlds."
+  },
+  {
+   "id": "2-18",
+   "bo": "མགོན",
+   "dm": "protectors",
+   "gm": "Protectors",
+   "reason": "Component of protectors of the worlds."
+  },
+  {
+   "id": "2-18",
+   "bo": "སྨན་པ",
+   "dm": "physicians",
+   "gm": "physicians",
+   "reason": "Component of kings of physicians."
+  },
+  {
+   "id": "2-18",
+   "bo": "རྒྱལ་པོ",
+   "dm": "kings",
+   "gm": "kings",
+   "reason": "Component of kings of physicians."
+  },
+  {
+   "id": "2-20",
+   "bo": "ཤེས་རབ",
+   "dm": "wisdom",
+   "gm": "wisdom",
+   "reason": "Component of perfection of wisdom."
+  },
+  {
+   "id": "2-20",
+   "bo": "ཕ་རོལ་ཕྱིན",
+   "dm": "perfections",
+   "gm": "perfections",
+   "reason": "Component of perfections."
+  },
+  {
+   "id": "2-20",
+   "bo": "བྱང་ཆུབ",
+   "dm": "awakening",
+   "gm": "awakening",
+   "reason": "Component of qualities of awakening."
+  },
+  {
+   "id": "2-20",
+   "bo": "ཡོན་ཏན",
+   "dm": "qualities",
+   "gm": "qualities",
+   "reason": "Component of qualities of awakening."
+  },
+  {
+   "id": "2-21",
+   "bo": "ཤེས་རབ",
+   "dm": "Wisdom",
+   "gm": "wisdom",
+   "reason": "Component of perfection of wisdom."
+  },
+  {
+   "id": "2-21",
+   "bo": "ཕ་རོལ་ཕྱིན",
+   "dm": "Perfection",
+   "gm": "perfection",
+   "reason": "Component of perfection of wisdom."
+  },
+  {
+   "id": "2-22",
+   "bo": "སངས་རྒྱས",
+   "dm": "Buddha",
+   "gm": "buddha",
+   "reason": "Component of Buddha-fields."
+  },
+  {
+   "id": "2-22",
+   "bo": "ཞིང",
+   "dm": "fields",
+   "gm": "fields",
+   "reason": "Component of Buddha-fields."
+  },
+  {
+   "id": "2-22",
+   "bo": "ཤེས་རབ",
+   "dm": "Wisdom",
+   "gm": "wisdom",
+   "reason": "Component of perfection of wisdom."
+  },
+  {
+   "id": "2-22",
+   "bo": "ཕ་རོལ་ཕྱིན",
+   "dm": "Perfection",
+   "gm": "perfection",
+   "reason": "Component of perfection of wisdom."
+  },
+  {
+   "id": "2-23",
+   "bo": "སངས་རྒྱས",
+   "dm": "Buddha",
+   "gm": "Buddha",
+   "reason": "Component of relics of the Buddha."
+  },
+  {
+   "id": "2-23",
+   "bo": "རིང་བསྲེལ",
+   "dm": "relics",
+   "gm": "relics",
+   "reason": "Component of relics of the Buddha."
+  },
+  {
+   "id": "2-23",
+   "bo": "ཕ་རོལ་ཕྱིན",
+   "dm": "Perfection",
+   "gm": "perfection",
+   "reason": "Component of perfection of wisdom."
+  },
+  {
+   "id": "2-24",
+   "bo": "ནོར་བུ་རིན་ཆེན",
+   "dm": "precious jewel",
+   "gm": "precious jewel",
+   "reason": "Recurring fixed image/term."
+  },
+  {
+   "id": "2-25",
+   "bo": "ཤེས་རབ",
+   "dm": "wisdom",
+   "gm": "wisdom",
+   "reason": "Component of perfection of wisdom."
+  },
+  {
+   "id": "2-25",
+   "bo": "ཕ་རོལ་ཕྱིན",
+   "dm": "perfection",
+   "gm": "perfection",
+   "reason": "Component of perfection of wisdom."
+  },
+  {
+   "id": "2-26",
+   "bo": "དགེ",
+   "dm": "virtuous",
+   "gm": "virtuous",
+   "reason": "Component of virtuous qualities."
+  },
+  {
+   "id": "2-28",
+   "bo": "ཤེས་རབ",
+   "dm": "wisdom",
+   "gm": "wisdom",
+   "reason": "Part of perfection of wisdom, a term on its own"
+  },
+  {
+   "id": "2-28",
+   "bo": "ཕ་རོལ་ཕྱིན",
+   "dm": "perfections",
+   "gm": "perfections",
+   "reason": "Part of five perfections and perfection of wisdom, a term on its own"
+  },
+  {
+   "id": "2-30",
+   "bo": "ཤེས་རབ",
+   "dm": "wisdom",
+   "gm": "wisdom",
+   "reason": "Part of perfection of wisdom, a term on its own"
+  },
+  {
+   "id": "2-30",
+   "bo": "ཕ་རོལ་ཕྱིན",
+   "dm": "perfection",
+   "gm": "perfection",
+   "reason": "Part of perfection of wisdom, a term on its own"
+  },
+  {
+   "id": "2-31",
+   "bo": "ཤེས་རབ",
+   "dm": "wisdom",
+   "gm": "wisdom",
+   "reason": "Part of perfection of wisdom, a term on its own"
+  },
+  {
+   "id": "2-31",
+   "bo": "ཕ་རོལ་ཕྱིན",
+   "dm": "perfection",
+   "gm": "perfection",
+   "reason": "Part of perfection of wisdom, a term on its own"
+  },
+  {
+   "id": "2-32",
+   "bo": "བྱང་ཆུབ",
+   "dm": "awakening",
+   "gm": "awakening",
+   "reason": "Part of awakening of Pratyekabuddhas and Buddhas, a term on its own"
+  },
+  {
+   "id": "2-33",
+   "bo": "བྱང་ཆུབ",
+   "dm": "enlightenment",
+   "gm": "awakening",
+   "reason": "Part of mind of enlightenment, a term on its own"
+  },
+  {
+   "id": "2-33",
+   "bo": "འཇིག་རྟེན",
+   "dm": "world",
+   "gm": "world",
+   "reason": "A core Buddhist term (world / loka)"
+  },
+  {
+   "id": "2-34",
+   "bo": "བྱང་ཆུབ",
+   "dm": "enlightenment",
+   "gm": "awakening",
+   "reason": "Part of mind of enlightenment, a term on its own"
+  },
+  {
+   "id": "2-34",
+   "bo": "འཇིག་རྟེན",
+   "dm": "world",
+   "gm": "world",
+   "reason": "A core Buddhist term (world)"
+  },
+  {
+   "id": "2-34",
+   "bo": "ཆོས",
+   "dm": "Dharma",
+   "gm": "dharmas",
+   "reason": "Core Buddhist term"
+  },
+  {
+   "id": "2-34",
+   "bo": "ཡོན་ཏན",
+   "dm": "qualities",
+   "gm": "virtuous",
+   "reason": "Core Buddhist term (qualities/guna)"
+  },
+  {
+   "id": "2-35",
+   "bo": "ཀླུ",
+   "dm": "Nagas",
+   "gm": "nāga",
+   "reason": "Part of Lord of Nagas, a term on its own"
+  },
+  {
+   "id": "2-35",
+   "bo": "རིན་ཆེན",
+   "dm": "precious",
+   "gm": "jewels",
+   "reason": "Common Buddhist term (jewel)"
+  },
+  {
+   "id": "2-35",
+   "bo": "གཟུགས",
+   "dm": "forms",
+   "gm": "forms",
+   "reason": "Core Buddhist term (form/rupa)"
+  },
+  {
+   "id": "2-36",
+   "bo": "འཇིག་རྟེན",
+   "dm": "worlds",
+   "gm": "worlds",
+   "reason": "A core Buddhist term (world)"
+  },
+  {
+   "id": "2-36",
+   "bo": "སངས་རྒྱས",
+   "dm": "Buddha",
+   "gm": "buddha",
+   "reason": "Part of qualities of a Buddha, a term on its own"
+  },
+  {
+   "id": "2-36",
+   "bo": "ཆོས",
+   "dm": "qualities",
+   "gm": "dharmas",
+   "reason": "Part of qualities of a Buddha / buddha-dharmas, a term on its own"
+  },
+  {
+   "id": "2-37",
+   "bo": "འཇིག་རྟེན",
+   "dm": "world",
+   "gm": "world",
+   "reason": "A core Buddhist term (world)"
+  },
+  {
+   "id": "2-37",
+   "bo": "སྲོག་ཆགས",
+   "dm": "sentient beings",
+   "gm": "creatures",
+   "reason": "Term for beings / creatures"
+  },
+  {
+   "id": "2-38",
+   "bo": "བྱང་ཆུབ",
+   "dm": null,
+   "gm": null,
+   "reason": "Part of bodhisattva, a term on its own"
+  },
+  {
+   "id": "2-39",
+   "bo": "འཇིག་རྟེན",
+   "dm": "world",
+   "gm": "world",
+   "reason": "Part of protectors of the world, a term on its own"
+  },
+  {
+   "id": "2-39",
+   "bo": "རིན་ཆེན",
+   "dm": "precious",
+   "gm": "precious",
+   "reason": "Common Buddhist term (jewel/precious)"
+  },
+  {
+   "id": "2-40",
+   "bo": "བྱང་ཆུབ",
+   "dm": "enlightenment",
+   "gm": "awakening",
+   "reason": "Part of phrase generating the aspiration for supreme enlightenment, a term on its own"
+  },
+  {
+   "id": "2-40",
+   "bo": "ཐུགས་བསྐྱེད",
+   "dm": "generate the aspiration",
+   "gm": "generated the mind",
+   "reason": "Technical term (generating bodhicitta/aspiration)"
+  },
+  {
+   "id": "2-40",
+   "bo": "ཆོས",
+   "dm": "Dharma",
+   "gm": "dharma",
+   "reason": "Part of true Dharma, a term on its own"
+  },
+  {
+   "id": "2-40",
+   "bo": "སངས་རྒྱས",
+   "dm": "Buddha",
+   "gm": "buddha",
+   "reason": "Part of Buddha-qualities, a term on its own"
+  },
+  {
+   "id": "2-41",
+   "bo": "སངས་རྒྱས",
+   "dm": "Buddha’s",
+   "gm": "buddhas",
+   "reason": "Part of Buddha's sons, a term on its own"
+  },
+  {
+   "id": "2-43",
+   "bo": "བསྔོ",
+   "dm": "dedicates",
+   "gm": "dedicated",
+   "reason": "Technical act (dedicating/dedicates)"
+  },
+  {
+   "id": "2-44",
+   "bo": "བྱང་ཆུབ",
+   "dm": "enlightenment",
+   "gm": "awakening",
+   "reason": "Part of dedication to enlightenment, a term on its own"
+  },
+  {
+   "id": "2-44",
+   "bo": "ཆོས",
+   "dm": "qualities",
+   "gm": "dharmas",
+   "reason": "Part of virtuous qualities, a term on its own"
+  },
+  {
+   "id": "2-45",
+   "bo": "ཡོངས་སུ་བསྔོ",
+   "dm": "dedicate",
+   "gm": "dedicates",
+   "reason": "Technical act of dedication"
+  },
+  {
+   "id": "2-45",
+   "bo": "རྣམ་པ",
+   "dm": "nature",
+   "gm": "aspect",
+   "reason": "Technical term (aspect/nature)"
+  },
+  {
+   "id": "2-46",
+   "bo": "འཇིག་རྟེན",
+   "dm": "world",
+   "gm": "world",
+   "reason": "A core Buddhist term (world)"
+  },
+  {
+   "id": "2-47",
+   "bo": "ཕ་རོལ་ཕྱིན",
+   "dm": "perfections",
+   "gm": "perfections",
+   "reason": "Part of five perfections, a term on its own"
+  },
+  {
+   "id": "2-49",
+   "bo": "ཆོས",
+   "dm": "dharmas",
+   "gm": "dharmas",
+   "reason": "Part of white and black dharmas, a term on its own"
+  },
+  {
+   "id": "2-49",
+   "bo": "ཕ་རོལ་ཕྱིན",
+   "dm": "perfection",
+   "gm": "perfection",
+   "reason": "Part of perfection of wisdom, a term on its own"
+  },
+  {
+   "id": "2-49",
+   "bo": "འཇིག་རྟེན",
+   "dm": "world",
+   "gm": "world",
+   "reason": "A core Buddhist term (world)"
+  },
+  {
+   "id": "2-50",
+   "bo": "བྱང་ཆུབ",
+   "dm": null,
+   "gm": null,
+   "reason": "Part of bodhisattva, a term on its own"
+  },
+  {
+   "id": "2-50",
+   "bo": "ཕ་རོལ་ཕྱིན",
+   "dm": "perfection",
+   "gm": "perfection",
+   "reason": "Part of perfection of wisdom, a term on its own"
+  },
+  {
+   "id": "2-51",
+   "bo": "བྱང་ཆུབ",
+   "dm": "awakening",
+   "gm": "awakening",
+   "reason": "Part of bodhisattva and peace of awakening, a term on its own"
+  },
+  {
+   "id": "2-52",
+   "bo": "ཤེས་རབ",
+   "dm": "wisdom",
+   "gm": "wisdom",
+   "reason": "Part of perfection of wisdom, a term on its own"
+  },
+  {
+   "id": "2-52",
+   "bo": "ཕ་རོལ་ཕྱིན",
+   "dm": "perfection",
+   "gm": "perfection",
+   "reason": "Part of perfection of wisdom, a term on its own"
+  },
+  {
+   "id": "2-53",
+   "bo": "རིན་ཆེན",
+   "dm": "jewels",
+   "gm": "jewels",
+   "reason": "Common Buddhist term (jewels/precious)"
+  },
+  {
+   "id": "2-54",
+   "bo": "ནམ་མཁའ",
+   "dm": "space",
+   "gm": "space",
+   "reason": "Part of element of space, a term on its own"
+  },
+  {
+   "id": "3-3",
+   "bo": "རྣམ་གྲོལ",
+   "dm": "liberated",
+   "gm": "Liberated",
+   "reason": "Core Buddhist concept of liberation/emancipation, parallel to the un-abbreviated form in 3-1"
+  },
+  {
+   "id": "3-5",
+   "bo": "ཆོས",
+   "dm": "phenomena",
+   "gm": "dharmas",
+   "reason": "Core doctrinal concept (dharma) that occurs both inside the compound 'all phenomena' and independently in the same segment"
+  },
+  {
+   "id": "4-1",
+   "bo": "བརྒྱ་བྱིན",
+   "dm": "Śakra",
+   "gm": "Śakra",
+   "reason": "Part of a fixed compound that is also a term on its own."
+  },
+  {
+   "id": "4-2",
+   "bo": "སེམས་ཅན",
+   "dm": "person",
+   "gm": "being",
+   "reason": "Common Buddhist term for sentient beings."
+  },
+  {
+   "id": "4-4",
+   "bo": "དགྲ་བཅོམ་ས",
+   "dm": "level of an Arhat",
+   "gm": "level of an arhat",
+   "reason": "Technical Buddhist category (bhūmi)."
+  },
+  {
+   "id": "4-4",
+   "bo": "རྐྱེན་རྟོགས་ས",
+   "dm": "level of a Pratyekabuddha",
+   "gm": "level of a pratyekabuddha",
+   "reason": "Technical Buddhist category (bhūmi)."
+  },
+  {
+   "id": "4-4",
+   "bo": "ས",
+   "dm": "level",
+   "gm": "level",
+   "reason": "Term on its own (bhūmi)."
+  },
+  {
+   "id": "4-6",
+   "bo": "སངས་རྒྱས",
+   "dm": "Buddha",
+   "gm": "Buddhas",
+   "reason": "Component of a listed compound."
+  },
+  {
+   "id": "4-6",
+   "bo": "བྱང་ཆུབ",
+   "dm": "awakening",
+   "gm": "enlightenment",
+   "reason": "Component of a listed compound."
+  },
+  {
+   "id": "4-10",
+   "bo": "སངས་རྒྱས",
+   "dm": "Buddha",
+   "gm": "Buddha",
+   "reason": "Component of a listed term."
+  },
+  {
+   "id": "4-10",
+   "bo": "རྟོག་བྲལ",
+   "dm": "free from mental construction",
+   "gm": "free from concepts",
+   "reason": "Technical philosophical term."
+  },
+  {
+   "id": "4-13",
+   "bo": "རིགས",
+   "dm": "family",
+   "gm": "lineage",
+   "reason": "Technical term (gotra/kula)."
+  },
+  {
+   "id": "4-13",
+   "bo": "ས",
+   "dm": "level",
+   "gm": "birthplace",
+   "reason": "Technical term (bhūmi)."
+  },
+  {
+   "id": "4-15",
+   "bo": "དགྲ་བཅོམ",
+   "dm": "Arhat",
+   "gm": "arhat",
+   "reason": "Component of a listed term."
+  },
+  {
+   "id": "4-15",
+   "bo": "ས",
+   "dm": "stage",
+   "gm": "level",
+   "reason": "Component of a listed term."
+  },
+  {
+   "id": "4-16",
+   "bo": "བསྟི་སྟང",
+   "dm": "honor",
+   "gm": "respect",
+   "reason": "Technical term for honor/respect (satkāra)."
+  },
+  {
+   "id": "4-16",
+   "bo": "རྙེད་པ",
+   "dm": "gain",
+   "gm": "gain",
+   "reason": "Technical term for material gain (lābha)."
+  },
+  {
+   "id": "4-17",
+   "bo": "ཆོས",
+   "dm": "Dharma",
+   "gm": "dharma",
+   "reason": "Component of listed terms."
+  },
+  {
+   "id": "4-20",
+   "bo": "བར་ཆད",
+   "dm": "obstacles",
+   "gm": "obstacles",
+   "reason": "Technical Buddhist term (antarāya)."
+  },
+  {
+   "id": "4-21",
+   "bo": "ཤེས་རབ",
+   "dm": "Perfection of Wisdom",
+   "gm": "wisdom",
+   "reason": "Component of listed compound."
+  },
+  {
+   "id": "4-22",
+   "bo": "འཇིག་རྟེན",
+   "dm": "worlds",
+   "gm": "world",
+   "reason": "Component of listed compounds."
+  },
+  {
+   "id": "4-22",
+   "bo": "སྟོན་པ",
+   "dm": "teachers",
+   "gm": "teachers",
+   "reason": "Component of a listed term that is a term on its own."
+  },
+  {
+   "id": "4-23",
+   "bo": "འཇིག་རྟེན",
+   "dm": "world",
+   "gm": "world",
+   "reason": "Component of listed term."
+  },
+  {
+   "id": "4-23",
+   "bo": "དགྲ་བཅོམ་དེ་བཞིན་ཉིད",
+   "dm": "suchness of the Arhats",
+   "gm": "suchness of the arhats",
+   "reason": "Technical phrase parallel to a listed term."
+  },
+  {
+   "id": "4-23",
+   "bo": "རང་རྒྱལ་དེ་བཞིན་ཉིད",
+   "dm": "suchness of the Pratyekabuddhas",
+   "gm": "suchness of the pratyekabuddhas",
+   "reason": "Technical phrase parallel to a listed term."
+  },
+  {
+   "id": "4-23",
+   "bo": "རྒྱལ་སྲས་དེ་བཞིན་ཉིད",
+   "dm": "suchness of the Bodhisattvas",
+   "gm": "suchness of the sons of the Victors",
+   "reason": "Technical phrase parallel to a listed term."
+  },
+  {
+   "id": "4-24",
+   "bo": "འཇིག་རྟེན",
+   "dm": "world",
+   "gm": "world",
+   "reason": "Technical Buddhist term (loka)."
+  },
+  {
+   "id": "4-27",
+   "bo": "གཟུགས",
+   "dm": "forms",
+   "gm": "forms",
+   "reason": "Standard Buddhist term (rupa)."
+  },
+  {
+   "id": "4-28",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Standard Buddhist term (citta)."
+  },
+  {
+   "id": "4-44",
+   "bo": "ཕུང་པོ",
+   "dm": "aggregates",
+   "gm": "aggregates",
+   "reason": "Standard Buddhist term (skandha)."
+  },
+  {
+   "id": "4-55",
+   "bo": "སངས་རྒྱས",
+   "dm": "Buddha",
+   "gm": "Buddha",
+   "reason": "Part of compound"
+  },
+  {
+   "id": "4-55",
+   "bo": "ཐེག་པ",
+   "dm": "vehicle",
+   "gm": "vehicle",
+   "reason": "Part of compound"
+  },
+  {
+   "id": "4-57",
+   "bo": "འདུ་ཤེས",
+   "dm": "perception",
+   "gm": "perceptions",
+   "reason": "Part of compound"
+  },
+  {
+   "id": "4-57",
+   "bo": "དགེ་བཅུ",
+   "dm": "ten virtuous actions",
+   "gm": "ten virtuous actions",
+   "reason": "Part of compound"
+  },
+  {
+   "id": "4-58",
+   "bo": "འགྲོ",
+   "dm": "beings",
+   "gm": "beings",
+   "reason": "Technical term for beings"
+  },
+  {
+   "id": "4-59",
+   "bo": "བསམ་གཏན",
+   "dm": "concentrations",
+   "gm": "dhyānas",
+   "reason": "Part of compound"
+  },
+  {
+   "id": "4-60",
+   "bo": "སྔགས",
+   "dm": "spells",
+   "gm": "mantras",
+   "reason": "Technical term"
+  },
+  {
+   "id": "4-60",
+   "bo": "ཁྲོ་བ",
+   "dm": "anger",
+   "gm": "anger",
+   "reason": "Technical term"
+  },
+  {
+   "id": "4-61",
+   "bo": "ཤེས་རབ",
+   "dm": "wisdom",
+   "gm": "wisdom",
+   "reason": "Part of compound"
+  },
+  {
+   "id": "4-61",
+   "bo": "འདོད་པ",
+   "dm": "desire",
+   "gm": "desire",
+   "reason": "Technical term"
+  },
+  {
+   "id": "4-63",
+   "bo": "ཤེས་རབ",
+   "dm": "wisdom",
+   "gm": "wisdom",
+   "reason": "Technical term"
+  },
+  {
+   "id": "4-64",
+   "bo": "ཆོས",
+   "dm": "Dharma",
+   "gm": null,
+   "reason": "Technical term"
+  },
+  {
+   "id": "4-65",
+   "bo": "ཆོས",
+   "dm": null,
+   "gm": "phenomena",
+   "reason": "Technical term"
+  },
+  {
+   "id": "4-66",
+   "bo": "ཤེས་རབ",
+   "dm": "wisdom",
+   "gm": "wisdom",
+   "reason": "Part of compound"
+  },
+  {
+   "id": "4-67",
+   "bo": "ཤེས་རབ",
+   "dm": "wisdom",
+   "gm": "wisdom",
+   "reason": "Technical term"
+  },
+  {
+   "id": "4-67",
+   "bo": "འགྲོ་བ",
+   "dm": "beings",
+   "gm": "beings",
+   "reason": "Technical term"
+  },
+  {
+   "id": "4-70",
+   "bo": "བྱང་ཆུབ",
+   "dm": "awakening",
+   "gm": "awakening",
+   "reason": "Part of compound"
+  },
+  {
+   "id": "4-72",
+   "bo": "བྱང་ཆུབ",
+   "dm": "enlightenment",
+   "gm": "awakening",
+   "reason": "Part of compound"
+  },
+  {
+   "id": "4-72",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Part of compound"
+  },
+  {
+   "id": "4-73",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Part of compound"
+  },
+  {
+   "id": "4-74",
+   "bo": "བྱང་ཆུབ",
+   "dm": "enlightenment",
+   "gm": "awakening",
+   "reason": "Part of compound"
+  },
+  {
+   "id": "4-74",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Part of compound"
+  },
+  {
+   "id": "4-74",
+   "bo": "ཡོན་ཏན",
+   "dm": "qualities",
+   "gm": "virtues",
+   "reason": "Part of compound"
+  },
+  {
+   "id": "4-88",
+   "bo": "ཆོ་འཕྲུལ",
+   "dm": "transformations",
+   "gm": "magical creations",
+   "reason": "Buddhist technical term (prātihārya)."
+  },
+  {
+   "id": "5-29",
+   "bo": "སྡུག་བསྔལ",
+   "dm": null,
+   "gm": "suffering",
+   "reason": "Buddhist technical concept"
+  },
+  {
+   "id": "5-41",
+   "bo": "རྗེས་སུ་ཡི་རང",
+   "dm": "rejoicing",
+   "gm": "rejoicing",
+   "reason": "Technical Buddhist practice (anumodanā)"
+  },
+  {
+   "id": "5-45",
+   "bo": "སྒྱུ་མའི་སྐྱེས་བུ",
+   "dm": "conjured person",
+   "gm": "illusory person",
+   "reason": "Standard recurring simile/technical image"
+  },
+  {
+   "id": "5-49",
+   "bo": "ལྷ་ཚོགས",
+   "dm": "hosts of gods",
+   "gm": "hosts of gods",
+   "reason": "Common technical grouping"
+  },
+  {
+   "id": "5-60",
+   "bo": "རྣམ་པར་མི་རྟོག",
+   "dm": "non-conceptual",
+   "gm": "does not conceptualize",
+   "reason": "Buddhist technical term (nirvikalpa)."
+  },
+  {
+   "id": "5-69",
+   "bo": "བྱིས་པའི་ཆོས",
+   "dm": "qualities of the foolish",
+   "gm": "dharmas of fools",
+   "reason": "Buddhist technical phrase (bāladharma)."
+  },
+  {
+   "id": "5-73",
+   "bo": "རྒོད",
+   "dm": "agitated",
+   "gm": "agitated",
+   "reason": "Buddhist technical term for mental agitation (auddhata)."
+  },
+  {
+   "id": "5-73",
+   "bo": "སེམས་གཡེངས",
+   "dm": "mentally distracted",
+   "gm": "mind is distracted",
+   "reason": "Buddhist technical term for mental distraction (vikṣepa)."
+  },
+  {
+   "id": "5-73",
+   "bo": "སངས་རྒྱས་ཡོན་ཏན",
+   "dm": "Buddha's qualities",
+   "gm": "qualities of a Buddha",
+   "reason": "Fixed technical phrase."
+  },
+  {
+   "id": "5-80",
+   "bo": "སྡུག་བསྔལ",
+   "dm": "suffer",
+   "gm": "suffer",
+   "reason": "Buddhist technical term (duḥkha)."
+  },
+  {
+   "id": "5-84",
+   "bo": "ལེ་ལོ",
+   "dm": "lazy",
+   "gm": "lazy",
+   "reason": "Buddhist technical term (laziness/kausīdya)."
+  },
+  {
+   "id": "5-84",
+   "bo": "ལུས་དང་ངག་དང་ཡིད",
+   "dm": "body, speech, and mind",
+   "gm": "body, speech, and mind",
+   "reason": "Standard enumeration (body, speech, and mind)."
+  },
+  {
+   "id": "5-85",
+   "bo": "བརྩོན་འགྲུས",
+   "dm": "perseverance",
+   "gm": "diligence",
+   "reason": "Technical term (perseverance/diligence) part of the compound perfection of perseverance."
+  },
+  {
+   "id": "5-85",
+   "bo": "ལུས",
+   "dm": "body",
+   "gm": "body",
+   "reason": "Technical term."
+  },
+  {
+   "id": "5-85",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Technical term."
+  },
+  {
+   "id": "5-86",
+   "bo": "ཚིག་རྩུབ",
+   "dm": "harsh words",
+   "gm": "harsh words",
+   "reason": "Technical term (harsh words), one of the ten unwholesome actions."
+  },
+  {
+   "id": "5-86",
+   "bo": "བཟོད་པ",
+   "dm": "patience",
+   "gm": "patience",
+   "reason": "Technical term (patience), extracted as part of perfection of patience but acts as a term on its own."
+  },
+  {
+   "id": "5-88",
+   "bo": "ཆོས",
+   "dm": "Dharma",
+   "gm": "dharma",
+   "reason": "Core Buddhist term."
+  },
+  {
+   "id": "5-89",
+   "bo": "ཙན་དན",
+   "dm": "sandalwood",
+   "gm": "sandalwood",
+   "reason": "Proper name/material often used in fixed Buddhist examples."
+  },
+  {
+   "id": "5-90",
+   "bo": "བྱང་ཆུབ",
+   "dm": "enlightenment",
+   "gm": "awakening",
+   "reason": "Core concept (enlightenment), nested within supreme enlightenment."
+  },
+  {
+   "id": "5-90",
+   "bo": "སེམས་ཅན",
+   "dm": "sentient beings",
+   "gm": "sentient beings",
+   "reason": "Core term (sentient beings), nested within realms of sentient beings."
+  },
+  {
+   "id": "5-90",
+   "bo": "དཔའ་བོ",
+   "dm": "hero",
+   "gm": "hero",
+   "reason": "Epithet often used for bodhisattvas (hero/śūra)."
+  },
+  {
+   "id": "5-92",
+   "bo": "བཟོད་པ",
+   "dm": "endure",
+   "gm": "endure",
+   "reason": "Nested term inside perfection of patience."
+  },
+  {
+   "id": "5-93",
+   "bo": "ཞི་བ",
+   "dm": "peace",
+   "gm": "peace",
+   "reason": "Technical term (peace/śānti)."
+  },
+  {
+   "id": "5-94",
+   "bo": "ཞི་བ",
+   "dm": "peaceful",
+   "gm": "peaceful",
+   "reason": "Technical term (peaceful)."
+  },
+  {
+   "id": "5-96",
+   "bo": "ཚུལ་ཁྲིམས",
+   "dm": "ethical discipline",
+   "gm": "discipline",
+   "reason": "Nested term within perfection of ethical discipline."
+  },
+  {
+   "id": "5-96",
+   "bo": "འདོད་ཡོན",
+   "dm": "sensory desire",
+   "gm": "sensory pleasures",
+   "reason": "Nested term within five objects of sensory desire."
+  },
+  {
+   "id": "5-96",
+   "bo": "དགེ་འདུན",
+   "dm": "Sangha",
+   "gm": "Sangha",
+   "reason": "Nested term within noble Sangha."
+  },
+  {
+   "id": "5-96",
+   "bo": "འཕགས་པ",
+   "dm": "noble",
+   "gm": "noble",
+   "reason": "Nested term within noble Sangha."
+  },
+  {
+   "id": "5-97",
+   "bo": "བསྐལ་པ",
+   "dm": "eons",
+   "gm": "aeons",
+   "reason": "Buddhist technical time measure (eon)."
+  },
+  {
+   "id": "5-98",
+   "bo": "བྱང་ཆུབ",
+   "dm": "awakening",
+   "gm": "awakening",
+   "reason": "Core term nested within supreme awakening."
+  },
+  {
+   "id": "5-98",
+   "bo": "སེམས་ཅན",
+   "dm": "sentient beings",
+   "gm": "sentient beings",
+   "reason": "Core term nested within perception of sentient beings."
+  },
+  {
+   "id": "5-99",
+   "bo": "ཚུལ་ཁྲིམས་འཆལ",
+   "dm": "lacking in ethical discipline",
+   "gm": "discipline is completely broken",
+   "reason": "Technical phrase (broken discipline / unethical conduct)."
+  },
+  {
+   "id": "5-100",
+   "bo": "སྡོམ་པ་མ་ཡིན",
+   "dm": "lack of restraint",
+   "gm": "non-restraint",
+   "reason": "Technical term (non-restraint), parallel to སྡོམ་མིན."
+  },
+  {
+   "id": "5-100",
+   "bo": "འདུ་ཤེས",
+   "dm": "perception",
+   "gm": "perception",
+   "reason": "Core term nested within perception of a self."
+  },
+  {
+   "id": "5-100",
+   "bo": "སེམས་ཅན",
+   "dm": "sentient being",
+   "gm": "sentient beings",
+   "reason": "Core term nested within perception of a sentient being."
+  },
+  {
+   "id": "5-101",
+   "bo": "ཁྲིམས་ལྡན",
+   "dm": "possesses such morality",
+   "gm": "possesses discipline",
+   "reason": "Fixed term for someone possessing moral discipline."
+  },
+  {
+   "id": "5-101",
+   "bo": "ཞུམ་པའི་སེམས",
+   "dm": "discouraged mind",
+   "gm": "shrinking mind",
+   "reason": "Technical emotional/mental state (discouraged/shrinking mind)."
+  },
+  {
+   "id": "5-101",
+   "bo": "ཞེན་པ",
+   "dm": "attachment",
+   "gm": "clinging",
+   "reason": "Core concept (attachment/clinging)."
+  },
+  {
+   "id": "5-102",
+   "bo": "རང་བཞིན",
+   "dm": "nature",
+   "gm": "nature",
+   "reason": "Philosophical concept (nature / svabhāva)."
+  },
+  {
+   "id": "5-102",
+   "bo": "ཞུམ་པའི་སེམས",
+   "dm": "discouraged mind",
+   "gm": "shrinking mind",
+   "reason": "Technical term (discouraged mind)."
+  },
+  {
+   "id": "5-103",
+   "bo": "བདག་གིར་འཛིན་པ",
+   "dm": "hold things as \"mine\"",
+   "gm": "grasping them as \"mine\"",
+   "reason": "Buddhist technical concept (grasping as 'mine')."
+  },
+  {
+   "id": "5-103",
+   "bo": "མི",
+   "dm": "humans",
+   "gm": "humans",
+   "reason": "One of the realms of existence (humans)."
+  },
+  {
+   "id": "5-105",
+   "bo": "འགྲོ་བ",
+   "dm": "beings",
+   "gm": "beings",
+   "reason": "Core term (beings)."
+  },
+  {
+   "id": "5-105",
+   "bo": "བྱང་ཆུབ",
+   "dm": "enlightenment",
+   "gm": "awakening",
+   "reason": "Core term nested in supreme enlightenment."
+  },
+  {
+   "id": "5-107",
+   "bo": "བསྐལ་བ",
+   "dm": "eons",
+   "gm": "eons",
+   "reason": "Technical measure of time (eon/kalpa)."
+  },
+  {
+   "id": "5-108",
+   "bo": "བསོད་ནམས",
+   "dm": "meritorious",
+   "gm": "meritorious",
+   "reason": "Nested term (merit)."
+  },
+  {
+   "id": "5-108",
+   "bo": "ཡོངས་སུ་བསྔོས",
+   "dm": "complete dedication",
+   "gm": "fully dedicating",
+   "reason": "Technical action (full dedication of merit)."
+  },
+  {
+   "id": "5-108",
+   "bo": "འགྲོ་བ",
+   "dm": "living beings",
+   "gm": "beings",
+   "reason": "Core term (living beings)."
+  },
+  {
+   "id": "5-109",
+   "bo": "རྗེས་སུ་ཡི་རང",
+   "dm": "rejoices",
+   "gm": "rejoicing",
+   "reason": "Formal Buddhist term for rejoicing (anumodanā)."
+  },
+  {
+   "id": "5-109",
+   "bo": "བཻḍūརྱ",
+   "dm": "lapis lazuli",
+   "gm": "lapis lazuli",
+   "reason": "Proper material consistently used in canonical similes (lapis lazuli)."
+  },
+  {
+   "id": "5-110",
+   "bo": "འགྲོ",
+   "dm": "living beings",
+   "gm": "beings",
+   "reason": "Core term for transmigratory beings."
+  },
+  {
+   "id": "5-110",
+   "bo": "སྦྱིན་པ",
+   "dm": "gift",
+   "gm": "gifts",
+   "reason": "Core perfection / term (gift / giving)."
+  },
+  {
+   "id": "5-110",
+   "bo": "དངོས་པོ",
+   "dm": "object",
+   "gm": "entities",
+   "reason": "Core philosophical term (object / entity)."
+  }
+ ]
+}

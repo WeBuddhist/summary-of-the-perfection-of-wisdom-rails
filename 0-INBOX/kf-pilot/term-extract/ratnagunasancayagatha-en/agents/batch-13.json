@@ -1,0 +1,885 @@
+{
+ "batch": "batch-13",
+ "segments": [
+  {
+   "id": "5-84",
+   "terms": [
+    {
+     "bo": "འགྲོ་བ་ཡོངས་སུ་སྨིན་པར་བྱས",
+     "dm": "bring all beings to maturity",
+     "gm": "completely ripened beings"
+    },
+    {
+     "bo": "བདག་ཏུ་འདུ་ཤེས",
+     "dm": "perception of a self",
+     "gm": "perception of a self"
+    },
+    {
+     "bo": "ཐམས་ཅད་མཁྱེན་པ་ཉིད",
+     "dm": "omniscience",
+     "gm": "omniscience"
+    }
+   ]
+  },
+  {
+   "id": "5-85",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    },
+    {
+     "bo": "གཉིས་སུ་མེད་ཆོས",
+     "dm": "non-dual Dharma",
+     "gm": "non-dual dharma"
+    },
+    {
+     "bo": "བྱང་ཆུབ་ཞི་བ་མི་ཉམས་མཆོག",
+     "dm": "supreme, undeterred, and peaceful awakening",
+     "gm": "supreme, unwaning, peaceful awakening"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "awakening",
+     "gm": "awakening"
+    },
+    {
+     "bo": "བརྩོན་འགྲུས་ཕ་རོལ་ཕྱེན",
+     "dm": "perfection of perseverance",
+     "gm": "perfection of diligence"
+    },
+    {
+     "bo": "ཕན་པ་མཛད་པ",
+     "dm": "Benefactor",
+     "gm": "Benefactor"
+    }
+   ]
+  },
+  {
+   "id": "5-86",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུང་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "བཟོད་པའི་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of patience",
+     "gm": "perfection of patience"
+    }
+   ]
+  },
+  {
+   "id": "5-87",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "བཟོད་པ",
+     "dm": "patience",
+     "gm": "patience"
+    },
+    {
+     "bo": "སྟོང་གསུམ",
+     "dm": "three thousandfold world system",
+     "gm": "three thousandfold world system"
+    },
+    {
+     "bo": "འཇིག་རྟེན་མཁྱེན",
+     "dm": "Knower of the World",
+     "gm": "Knowers of the World"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "དགྲ་བཅོམ",
+     "dm": "Arhats",
+     "gm": "arhats"
+    },
+    {
+     "bo": "རང་རྒྱལ",
+     "dm": "Pratyekabuddhas",
+     "gm": "solitary realizers"
+    },
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "giving",
+     "gm": "generosity"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "5-88",
+   "terms": [
+    {
+     "bo": "བཟོད",
+     "dm": "patience",
+     "gm": "patience"
+    },
+    {
+     "bo": "སུམ་ཅུ་རྩ་གཉིས་མཚན",
+     "dm": "thirty-two major marks",
+     "gm": "thirty-two marks"
+    },
+    {
+     "bo": "མཐུ་སྟོབས",
+     "dm": "power",
+     "gm": "power and strength"
+    },
+    {
+     "bo": "ཆོས་རབ་སྟོང་པ",
+     "dm": "supreme Dharma of emptiness",
+     "gm": "supreme empty dharma"
+    },
+    {
+     "bo": "སྟོང་པ",
+     "dm": "emptiness",
+     "gm": "empty"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "5-89",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "being",
+     "gm": "sentient being"
+    }
+   ]
+  },
+  {
+   "id": "5-90",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "བཟོད་པ",
+     "dm": "patience",
+     "gm": "patience"
+    },
+    {
+     "bo": "སེམས་བསྐྱེད",
+     "dm": "generation of the mind",
+     "gm": "generation of the mind"
+    },
+    {
+     "bo": "ཡོངས་བསྔོ",
+     "dm": "dedicates",
+     "gm": "dedicate"
+    },
+    {
+     "bo": "བྱང་ཆུབ་མཆོག",
+     "dm": "supreme enlightenment",
+     "gm": "supreme awakening"
+    },
+    {
+     "bo": "དགྲ་བཅོམ",
+     "dm": "Arhats",
+     "gm": "arhats"
+    },
+    {
+     "bo": "རང་རྒྱལ",
+     "dm": "Pratyekabuddhas",
+     "gm": "solitary realizers"
+    },
+    {
+     "bo": "སེམས་ཅན་ཁམས",
+     "dm": "realms of sentient beings",
+     "gm": "realms of sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "5-91",
+   "terms": [
+    {
+     "bo": "དམྱལ",
+     "dm": "hells",
+     "gm": "hells"
+    },
+    {
+     "bo": "དུད་འགྲོ",
+     "dm": "animal realm",
+     "gm": "animal realms"
+    },
+    {
+     "bo": "གཤིན་རྗེའི་འཇིག་རྟེན",
+     "dm": "world of Yama",
+     "gm": "world of Yama"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "འདོད་པའི་ཡོན་ཏན",
+     "dm": "sensual desire",
+     "gm": "sensory pleasures"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "awakening"
+    },
+    {
+     "bo": "བཟོད",
+     "dm": "patience",
+     "gm": "patience"
+    }
+   ]
+  },
+  {
+   "id": "5-92",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "sufferings",
+     "gm": "sufferings"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "བཟོད་པའི་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of patience",
+     "gm": "perfection of patience"
+    }
+   ]
+  },
+  {
+   "id": "5-93",
+   "terms": [
+    {
+     "bo": "ཚུལ་ཁྲིམས",
+     "dm": "ethical discipline",
+     "gm": "discipline"
+    },
+    {
+     "bo": "འཕགས་པ",
+     "dm": "noble",
+     "gm": "exalted"
+    },
+    {
+     "bo": "སྟོབས་བཅུ",
+     "dm": "ten powers",
+     "gm": "ten powers"
+    },
+    {
+     "bo": "སྡོམ་པ",
+     "dm": "vows",
+     "gm": "vows"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "awakening"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "བསྔོ",
+     "dm": "dedicate",
+     "gm": "dedicate"
+    }
+   ]
+  },
+  {
+   "id": "5-94",
+   "terms": [
+    {
+     "bo": "དགྲ་བཅོམ",
+     "dm": "Arhat",
+     "gm": "arhat"
+    },
+    {
+     "bo": "རང་རྒྱལ",
+     "dm": "Pratyekabuddha",
+     "gm": "solitary realizer"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "awakening",
+     "gm": "awakening"
+    },
+    {
+     "bo": "ཚུལ་ཁྲིམས་འཆལ",
+     "dm": "immoral",
+     "gm": "discipline is broken"
+    },
+    {
+     "bo": "ཡོངས་བསྔོ",
+     "dm": "dedicates",
+     "gm": "dedicates"
+    },
+    {
+     "bo": "འདོད་ཡོན",
+     "dm": "sensory pleasures",
+     "gm": "sensory pleasures"
+    },
+    {
+     "bo": "ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of ethical discipline",
+     "gm": "perfection of discipline"
+    },
+    {
+     "bo": "ཚུལ་ཁྲིམས",
+     "dm": "ethical discipline",
+     "gm": "discipline"
+    }
+   ]
+  },
+  {
+   "id": "5-95",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "dharmas",
+     "gm": "dharmas"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "virtues",
+     "gm": "qualities"
+    },
+    {
+     "bo": "ཚུལ་ཁྲིམས",
+     "dm": "ethical discipline",
+     "gm": "discipline"
+    },
+    {
+     "bo": "ཚུལ་ཁྲིམས་འཆལ",
+     "dm": "immoral conduct",
+     "gm": "broken discipline"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "awakening",
+     "gm": "awakening"
+    },
+    {
+     "bo": "རྣམ་པར་འདྲེན་པ",
+     "dm": "Guide",
+     "gm": "Guide"
+    }
+   ]
+  },
+  {
+   "id": "5-96",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "འདོད་ཡོན་ལྔ",
+     "dm": "five objects of sensory desire",
+     "gm": "five sensory pleasures"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "འཕགས་པའི་དགེ་འདུན",
+     "dm": "noble Sangha",
+     "gm": "noble Sangha"
+    },
+    {
+     "bo": "སྐྱབས་སོང",
+     "dm": "gone for refuge",
+     "gm": "taken refuge"
+    },
+    {
+     "bo": "ཀུན་མཁྱེན",
+     "dm": "omniscience",
+     "gm": "omniscience"
+    },
+    {
+     "bo": "ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of ethical discipline",
+     "gm": "perfection of discipline"
+    }
+   ]
+  },
+  {
+   "id": "5-97",
+   "terms": [
+    {
+     "bo": "བསྐལ་པ་བྱེ་བ",
+     "dm": "ten million eons",
+     "gm": "ten million aeons"
+    },
+    {
+     "bo": "དགེ་བའི་ལས་ལམ་བཅུ",
+     "dm": "ten paths of virtuous action",
+     "gm": "ten paths of virtuous action"
+    },
+    {
+     "bo": "དགྲ་བཅོམ",
+     "dm": "Arhat",
+     "gm": "arhat"
+    },
+    {
+     "bo": "རང་རྒྱལ",
+     "dm": "Pratyekabuddha",
+     "gm": "solitary realizer"
+    },
+    {
+     "bo": "ཚུལ་ཁྲིམས",
+     "dm": "ethical discipline",
+     "gm": "discipline"
+    },
+    {
+     "bo": "ཕས་ཕམ་པ",
+     "dm": "formal defeat",
+     "gm": "defeat"
+    },
+    {
+     "bo": "སེམས་བསྐྱེད",
+     "dm": "generation of such a thought",
+     "gm": "Generating that mind"
+    }
+   ]
+  },
+  {
+   "id": "5-98",
+   "terms": [
+    {
+     "bo": "ཚུལ་ཁྲིམས",
+     "dm": "ethical discipline",
+     "gm": "discipline"
+    },
+    {
+     "bo": "བྱང་ཆུབ་མཆོག",
+     "dm": "supreme awakening",
+     "gm": "supreme awakening"
+    },
+    {
+     "bo": "ཡོངས་བསྔོ",
+     "dm": "dedicating",
+     "gm": "dedicating"
+    },
+    {
+     "bo": "རློམ་སེམས",
+     "dm": "conceit",
+     "gm": "conceit"
+    },
+    {
+     "bo": "ང་ཡི་འདུ་ཤེས",
+     "dm": "perception of a self",
+     "gm": "perception of \"I\""
+    },
+    {
+     "bo": "སེམས་ཅན་འདུ་ཤེས",
+     "dm": "perception of sentient beings",
+     "gm": "perception of sentient beings"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of ethical discipline",
+     "gm": "perfection of discipline"
+    }
+   ]
+  },
+  {
+   "id": "5-99",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "རྒྱལ་བའི་ལམ",
+     "dm": "path of the Victors",
+     "gm": "path of the Victorious Ones"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victors",
+     "gm": "Victorious Ones"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཁྲིམས་ལྡན",
+     "dm": "ethical",
+     "gm": "have discipline"
+    },
+    {
+     "bo": "ཁྲིམས་འཆལ",
+     "dm": "unethical",
+     "gm": "broken discipline"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perceptions",
+     "gm": "perceptions"
+    },
+    {
+     "bo": "ཚུལ་ཁྲིམས",
+     "dm": "ethical discipline",
+     "gm": "discipline"
+    },
+    {
+     "bo": "ཡོངས་དག་ཚུལ་ཁྲིམས",
+     "dm": "completely purified morality",
+     "gm": "completely pure discipline"
+    }
+   ]
+  },
+  {
+   "id": "5-100",
+   "terms": [
+    {
+     "bo": "བདག་གི་འདུ་ཤེས",
+     "dm": "perception of a self",
+     "gm": "perception of self"
+    },
+    {
+     "bo": "སེམས་ཅན་འདུ་ཤེས",
+     "dm": "perception of a sentient being",
+     "gm": "perception of sentient beings"
+    },
+    {
+     "bo": "འདོད་ཆགས",
+     "dm": "attachment",
+     "gm": "attachment"
+    },
+    {
+     "bo": "སྡོམ་པ",
+     "dm": "restraint",
+     "gm": "restraint"
+    },
+    {
+     "bo": "སྡོམ་མིན",
+     "dm": "lack of restraint",
+     "gm": "non-restraint"
+    },
+    {
+     "bo": "རློམ་སེམས",
+     "dm": "conceit",
+     "gm": "conceit"
+    },
+    {
+     "bo": "རྣམ་པར་འདྲེན་པ",
+     "dm": "Guide",
+     "gm": "Guide"
+    },
+    {
+     "bo": "ཚུལ་ཁྲིམས་སྡོམ་པ",
+     "dm": "restraint of morality",
+     "gm": "discipline of restraint"
+    }
+   ]
+  },
+  {
+   "id": "5-101",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "ཁྲིམས",
+     "dm": "morality",
+     "gm": "discipline"
+    }
+   ]
+  },
+  {
+   "id": "5-102",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "dharmas"
+    },
+    {
+     "bo": "བདག་མེད",
+     "dm": "selfless",
+     "gm": "selfless"
+    },
+    {
+     "bo": "སེར་སྣ",
+     "dm": "stingy",
+     "gm": "miserliness"
+    }
+   ]
+  },
+  {
+   "id": "5-103",
+   "terms": [
+    {
+     "bo": "བདག་ཏུ་འདུ་ཤེས",
+     "dm": "perception of a self",
+     "gm": "Perceiving a self"
+    },
+    {
+     "bo": "ཡི་དགས",
+     "dm": "hungry ghosts",
+     "gm": "hungry ghosts"
+    },
+    {
+     "bo": "ཡི་དགས་གནས",
+     "dm": "realm of hungry ghosts",
+     "gm": "realm of hungry ghosts"
+    },
+    {
+     "bo": "སེར་སྣ་ཅན",
+     "dm": "stingy",
+     "gm": "Miserly ones"
+    }
+   ]
+  },
+  {
+   "id": "5-104",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "གླིང་བཞི",
+     "dm": "four continents",
+     "gm": "four continents"
+    }
+   ]
+  },
+  {
+   "id": "5-105",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སྲིད་གསུམ",
+     "dm": "three realms of existence",
+     "gm": "three states of existence"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "gift",
+     "gm": "gift"
+    },
+    {
+     "bo": "བསྔོ",
+     "dm": "Dedicates",
+     "gm": "dedicate"
+    },
+    {
+     "bo": "བྱང་ཆུབ་མཆོག",
+     "dm": "supreme enlightenment",
+     "gm": "supreme awakening"
+    }
+   ]
+  },
+  {
+   "id": "5-106",
+   "terms": [
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "gift",
+     "gm": "gifts"
+    },
+    {
+     "bo": "རྣམ་པར་སྨིན",
+     "dm": "karmic maturation",
+     "gm": "ripening result"
+    }
+   ]
+  },
+  {
+   "id": "5-107",
+   "terms": [
+    {
+     "bo": "སྲིད་པ་གསུམ",
+     "dm": "three realms of existence",
+     "gm": "three states of existence"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "འཇིག་རྟེན་མཁྱེན་པ",
+     "dm": "Knowers of the World",
+     "gm": "Knowers of the World"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "དགྲ་བཅོམ",
+     "dm": "Arhats",
+     "gm": "Arhats"
+    },
+    {
+     "bo": "རང་རྒྱལ",
+     "dm": "Pratyekabuddhas",
+     "gm": "Pratyekabuddhas"
+    },
+    {
+     "bo": "བསྐལ་བ་མཐའ་ཡས",
+     "dm": "infinite eons",
+     "gm": "infinite eons"
+    },
+    {
+     "bo": "ཉན་ཐོས",
+     "dm": "Śrāvaka",
+     "gm": "śrāvaka"
+    },
+    {
+     "bo": "སྦྱིན་བྱིན",
+     "dm": "give gifts",
+     "gm": "Give gifts"
+    }
+   ]
+  },
+  {
+   "id": "5-108",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཐབས་མཁས",
+     "dm": "skillful means",
+     "gm": "skilled in means"
+    },
+    {
+     "bo": "བསོད་ནམས་བྱ་བའི་དངོས",
+     "dm": "substance of those meritorious deeds",
+     "gm": "bases of meritorious actions"
+    },
+    {
+     "bo": "ཡི་རང",
+     "dm": "rejoice",
+     "gm": "Rejoices"
+    },
+    {
+     "bo": "བྱང་ཆུབ་མཆོག་རབ",
+     "dm": "supreme, sublime enlightenment",
+     "gm": "supreme awakening"
+    },
+    {
+     "bo": "ཡོངས་བསྔོ",
+     "dm": "fully dedicate",
+     "gm": "fully dedicates"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "beings"
+    }
+   ]
+  },
+  {
+   "id": "5-109",
+   "terms": [
+    {
+     "bo": "སྦྱིན་པའི་ཕུང་པོ",
+     "dm": "heaps of generosity",
+     "gm": "heaps of giving"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཡི་རང",
+     "dm": "rejoices",
+     "gm": "rejoicing"
+    }
+   ]
+  },
+  {
+   "id": "5-110",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "དགེ་བའི་རྩ་བ",
+     "dm": "roots of virtue",
+     "gm": "roots of virtue"
+    }
+   ]
+  }
+ ]
+}

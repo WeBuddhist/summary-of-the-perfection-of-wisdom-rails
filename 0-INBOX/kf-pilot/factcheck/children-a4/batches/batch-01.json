@@ -1,0 +1,114 @@
+[
+ {
+  "id": "4-16",
+  "tibetan": "བསྟི་སྟང་འདོད་པར་འགྱུར་ཞིང་རྙེད་པ་འདོད་འགྱུར་དང་། ། ལྟ་དང་བཅས་པའི་སེམས་ཀྱིས་ཁྱིམ་འདྲིས་བྱེད་ལྡན་ཞིང་། ། ཆོས་བཏང་ནས་ནི་ཆོས་མིན་བྱ་བ་སྤྱོད་འགྱུར་བ། ། ལམ་བོར་ལམ་གོལ་འགྲོ་བ་འདི་ནི་བདུད་ཀྱི་ལས། །",
+  "academic_translation": "They will desire honor and desire gain,\nAnd with a mind of longing to look, they will become intimate with householders;\nHaving abandoned the Dharma, they will engage in non-Dharma activities;\nDiscarding the path and going on a wrong path, this is the work of Māra.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   },
+   {
+    "tibetan": "ཆོས་མིན",
+    "use": "against the teaching"
+   },
+   {
+    "tibetan": "ལམ",
+    "use": "path"
+   },
+   {
+    "tibetan": "ལམ་གོལ",
+    "use": "wrong path"
+   },
+   {
+    "tibetan": "ལྟ",
+    "use": "wanting to look around"
+   },
+   {
+    "tibetan": "བདུད་ཀྱི་ལས",
+    "use": "Mara's work"
+   },
+   {
+    "tibetan": "བདུད",
+    "use": "Mara"
+   },
+   {
+    "tibetan": "བསྟི་སྟང",
+    "use": "respect"
+   },
+   {
+    "tibetan": "རྙེད་པ",
+    "use": "gain"
+   }
+  ],
+  "translation": "They will want respect and gain. With a mind wanting to look around, they will become close to householders. After leaving the teaching, they will do things against the teaching. Leaving the path and going on a wrong path is Mara's work."
+ },
+ {
+  "id": "7-1",
+  "tibetan": "སྐབས་བདུན་པ་སྐད་ཅིག་མ་གཅིག་ལ་མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་པར་བསྟན། ། ཆོས་འདི་ཡོངས་རྫོགས་བྱས་ནས་བྱང་ཆུབ་སེམས་དཔའ་དེ། །",
+  "academic_translation": "Chapter Seven: Showing complete awakening in a single instant.\n\nHaving fully perfected these qualities, that bodhisattva",
+  "locked_terms": [
+   {
+    "tibetan": "སྐད་ཅིག་མ་གཅིག",
+    "use": "one moment"
+   },
+   {
+    "tibetan": "མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་པ",
+    "use": "full awakening"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "quality"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   }
+  ],
+  "translation": "Chapter Seven: Showing full awakening in one moment.\n\nAfter fully perfecting these qualities, that awakening hero..."
+ },
+ {
+  "id": "8-1",
+  "tibetan": "སྐབས་བརྒྱད་པ་ཆོས་ཀྱི་སྐུ་བསྟན། ། ཡོངས་དག་ཞིང་དང་སེམས་ཅན་དག་པ་ཡོངས་སུ་འཛིན། ། སངས་རྒྱས་རྒྱུད་དང་ཆོས་ཀྱི་རྒྱུད་ཀྱང་ཡོངས་སུ་འཛིན། ། དེ་བཞིན་དགེ་འདུན་རྒྱུད་དང་ཆོས་ཀུན་ཡོངས་སུ་འཛིན། །",
+  "academic_translation": "Chapter Eight: Showing the Dharmakāya.\n\nFully embraces a perfectly pure field and pure sentient beings;\nFully embraces the Buddha lineage and also the Dharma lineage;\nLikewise, fully embraces the lineage of the Sangha and all qualities.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས་ཀྱི་སྐུ",
+    "use": "teaching body"
+   },
+   {
+    "tibetan": "ཡོངས་དག་ཞིང",
+    "use": "perfectly pure land"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   },
+   {
+    "tibetan": "སངས་རྒྱས་རྒྱུད",
+    "use": "line of Buddhas"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "ཆོས་ཀྱི་རྒྱུད",
+    "use": "line of the teaching"
+   },
+   {
+    "tibetan": "དགེ་འདུན་རྒྱུད",
+    "use": "lineage of the community"
+   },
+   {
+    "tibetan": "དགེ་འདུན",
+    "use": "the community"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "quality"
+   }
+  ],
+  "translation": "Chapter Eight: Showing the teaching body.\n\nThey fully embrace a perfectly pure land and pure living beings. They fully embrace the line of Buddhas and the line of the teaching. In the same way, they fully embrace the lineage of the community and all qualities."
+ }
+]

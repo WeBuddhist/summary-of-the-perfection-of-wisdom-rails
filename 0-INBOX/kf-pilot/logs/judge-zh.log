@@ -1,0 +1,43 @@
+Traceback (most recent call last):
+  File "/Users/tashitsering/Desktop/work/Obsidian/KF-project/summary-of-the-perfection-of-wisdom-rails/0-INBOX/kf-pilot/factcheck/improvement.py", line 228, in <module>
+    main()
+  File "/Users/tashitsering/Desktop/work/Obsidian/KF-project/summary-of-the-perfection-of-wisdom-rails/0-INBOX/kf-pilot/factcheck/improvement.py", line 201, in main
+    out.append(track_report(track, a.text_syllables))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tashitsering/Desktop/work/Obsidian/KF-project/summary-of-the-perfection-of-wisdom-rails/0-INBOX/kf-pilot/factcheck/improvement.py", line 158, in track_report
+    s["error_free_pct"] = round(100 * s["error_free"] / s["segments"], 1)
+                                ~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+ZeroDivisionError: division by zero
+pairs to judge: 62
+judgements to make=124 calls=16
+  pass 1 zh-academic 4-53..4-74 ok
+  pass 1 zh-academic 1-2..2-20 ok
+  pass 1 zh-academic 2-22..2-44 ok
+  pass 1 zh-academic 2-50..4-52 ok
+  pass 1 zh-academic 4-81..5-16 ok
+  pass 1 zh-academic 5-17..5-36 ok
+  pass 1 zh-academic 5-80..5-107 ok
+  pass 1 zh-academic 5-42..5-73 ok
+  pass 2 zh-academic 1-2..2-20 ok
+  pass 2 zh-academic 4-53..4-74 ok
+  pass 2 zh-academic 2-22..2-44 ok
+  pass 2 zh-academic 2-50..4-52 ok
+  pass 2 zh-academic 4-81..5-16 ok
+  pass 2 zh-academic 5-42..5-73 ok
+  pass 2 zh-academic 5-80..5-107 ok
+  pass 2 zh-academic 5-17..5-36 ok
+pairs=156; passes disagreed on 33 (counted as tie)
+| Track | Pairs | Fixed version better | Tie | Original better |
+|---|---|---|---|---|
+| en-academic | 94 | 51 (54%) | 25 (27%) | 18 (19%) |
+| zh-academic | 62 | 41 (66%) | 13 (21%) | 8 (13%) |
+| all | 156 | 92 (59%) | 38 (24%) | 26 (17%) |
+  reverted zh-academic 2-4
+  reverted zh-academic 2-14
+  reverted zh-academic 2-44
+  reverted zh-academic 4-81
+  reverted zh-academic 4-96
+  reverted zh-academic 5-27
+  reverted zh-academic 5-42
+  reverted zh-academic 5-52
+reverted 8 minor-only fixes the judge rated worse

@@ -1,0 +1,146 @@
+{
+  "1-11": {
+    "planted": true,
+    "kind": "negation",
+    "severity": "critical",
+    "old": "亦無所緣取",
+    "new": "亦有所緣取"
+  },
+  "1-14": {
+    "planted": true,
+    "kind": "negation",
+    "severity": "critical",
+    "old": "絕不會心生恐懼",
+    "new": "必會心生恐懼"
+  },
+  "1-16": {
+    "planted": false
+  },
+  "1-19": {
+    "planted": true,
+    "kind": "terminology",
+    "severity": "major",
+    "old": "殊勝士夫",
+    "new": "殊勝丈夫"
+  },
+  "1-23": {
+    "planted": true,
+    "kind": "addition",
+    "severity": "major",
+    "old": "雖生大悲卻",
+    "new": "雖生大悲且恆常救護眾生卻"
+  },
+  "1-24": {
+    "planted": true,
+    "kind": "negation",
+    "severity": "critical",
+    "old": "這不是行持",
+    "new": "這正是行持"
+  },
+  "2-1": {
+    "planted": true,
+    "kind": "negation",
+    "severity": "critical",
+    "old": "凡是不住於識者",
+    "new": "凡是住於識者"
+  },
+  "2-6": {
+    "planted": false
+  },
+  "2-7": {
+    "planted": true,
+    "kind": "negation",
+    "severity": "critical",
+    "old": "亦不學獨覺地",
+    "new": "亦學獨覺地"
+  },
+  "2-25": {
+    "planted": true,
+    "kind": "terminology",
+    "severity": "major",
+    "old": "舍利",
+    "new": "遺骨"
+  },
+  "2-51": {
+    "planted": true,
+    "kind": "omission",
+    "severity": "major",
+    "old": "而無懷疑",
+    "new": ""
+  },
+  "4-1": {
+    "planted": true,
+    "kind": "name",
+    "severity": "major",
+    "old": "天王帝釋",
+    "new": "梵天王"
+  },
+  "4-31": {
+    "planted": false
+  },
+  "4-46": {
+    "planted": true,
+    "kind": "negation",
+    "severity": "critical",
+    "old": "然此非",
+    "new": "然此是"
+  },
+  "4-57": {
+    "planted": true,
+    "kind": "negation",
+    "severity": "critical",
+    "old": "不依止其他",
+    "new": "依止其他"
+  },
+  "4-66": {
+    "planted": true,
+    "kind": "number",
+    "severity": "major",
+    "old": "多千俱胝劫",
+    "new": "多百俱胝劫"
+  },
+  "4-67": {
+    "planted": false
+  },
+  "4-71": {
+    "planted": true,
+    "kind": "negation",
+    "severity": "critical",
+    "old": "燈芯亦不焚",
+    "new": "燈芯亦被焚"
+  },
+  "4-92": {
+    "planted": true,
+    "kind": "mistranslation",
+    "severity": "major",
+    "old": "商主",
+    "new": "國王"
+  },
+  "5-4": {
+    "planted": true,
+    "kind": "mistranslation",
+    "severity": "major",
+    "old": "成就",
+    "new": "見到"
+  },
+  "5-9": {
+    "planted": true,
+    "kind": "number",
+    "severity": "major",
+    "old": "五百由旬",
+    "new": "五十由旬"
+  },
+  "5-13": {
+    "planted": false
+  },
+  "5-24": {
+    "planted": true,
+    "kind": "negation",
+    "severity": "critical",
+    "old": "不應捨棄",
+    "new": "應當捨棄"
+  },
+  "5-47": {
+    "planted": false
+  }
+}

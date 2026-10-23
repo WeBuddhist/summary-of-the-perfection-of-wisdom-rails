@@ -1,0 +1,152 @@
+{
+ "batch": "batch-12",
+ "segments": [
+  {
+   "id": "5-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-33",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "爾等劫",
+     "evidence": "Tibetan དེ་སྙེད་བསྐལ་པར (\"for that many eons\") is a correlative of ཇི་སྙེད་པ; 爾等 means \"you (pl.)\" in Chinese and does not render the demonstrative \"that many\".",
+     "fix": "同樣多的劫"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "具惡劣過患之心",
+     "evidence": "Tibetan ཐབ་སྐྱོན་ལྡན་སེམས (Skt khila-doṣa); bo-mipham 5-33 glosses it as a mind with the fault 'like a hearth' (ཐ་བ་ལྟ་བུ་སྐྱོན) from a continuum unfit, in which seeds of virtue do not grow, i.e. barrenness, not generic 'bad' quality.",
+     "fix": "具荒瘠過患之心"
+    }
+   ]
+  },
+  {
+   "id": "5-34",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "「佛依安忍波羅蜜多證得菩提。」",
+     "evidence": "In the Tibetan the first line is the premise of the thought, not a separate quotation: bo-mipham 5-34 and bo-khenrab 5-34 read 'if Buddhas touch awakening by patience, then this angry mind of mine is not good (སེམས་འདི་བཟང་བ་མིན་སྙམ)'. Setting line 1 in its own quotation marks detaches it from the thought and leaves the following clause grammatically orphaned.",
+     "fix": "佛依安忍波羅蜜多證得菩提，（既然如此）"
+    }
+   ]
+  },
+  {
+   "id": "5-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-36",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "彼為得佛功德而於此修學",
+     "evidence": "Tibetan སངས་རྒྱས་ཅོས་མཉེས་བྱ་ཕྱིར means 'in order to please' (མཉེས་བྱ; Skt ārādhiteṣu). bo-rangjung 5-36 reads སངས་རྒྱས་ཀྱི་ཆོས་ཀྱིས་མཉེས་པར་བྱ་བའི་ཕྱིར; bo-mipham 5-36 gives 'attain' as one reading but also notes the 'please' reading. The translation renders only 'attain' and drops མཉེས.",
+     "fix": "彼為以佛功德令（諸佛）歡喜而於此修學"
+    }
+   ]
+  },
+  {
+   "id": "5-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-42",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "彼等獲得勝者功德後",
+     "evidence": "Following 有情 immediately, 彼等 reads as the sentient beings who seek virtue. bo-mipham 5-42 shows དེ་དག refers to the irreversible bodhisattvas who rejoice (མི་ལྡོག་པའི་བྱང་ཆུབ་སེམས་དཔའ་དེ་དག ... རྒྱལ་བའི་ཡོན་ཏན་ཐོབ་པར་གྱུར་ནས), who also are the unstated subject of ཡི་རང་གྱུར.",
+     "fix": "是故彼等（隨喜之）菩薩獲得勝者功德後"
+    }
+   ]
+  },
+  {
+   "id": "5-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-51",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "major",
+     "span": "四魔難以勝伏亦不能動搖",
+     "evidence": "Tibetan བདུད་བཞིས་ཐུབ་པར་དཀའ་ཞིང་བསྐྱོད་པར་མི་ནུས: the four Māras are the agent (instrumental བཞིས), the bodhisattva is the one hard to overcome and impossible to shake (bo-mipham 5-51: བདུད་བཞིས་ཐུབ་པར་དཀའ་ཞིང་ལམ་ལས་བསྐྱོད་པར་མི་ནུས). In the Chinese the four Māras stand as grammatical subject of 難以勝伏, so it reads that the Māras are hard to subdue, reversing the relation.",
+     "fix": "彼為四魔所難以勝伏，亦不能為四魔所動搖"
+    }
+   ]
+  }
+ ]
+}

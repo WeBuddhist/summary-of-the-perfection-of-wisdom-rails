@@ -1,0 +1,129 @@
+{
+ "batch": "batch-14",
+ "segments": [
+  {
+   "id": "5-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-73",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "則成未等引且掉舉之散亂心",
+     "evidence": "Tibetan 'མཉམ་པར་མ་བཞག་རྒོད་ཅིང་སེམས་གཡེངས་གྱུར་པ་སྟེ' says the bodhisattva is not in equipoise, is agitated and has a distracted mind (Mipham 5-73: 'མཉམ་པར་མ་བཞག་པ་དང་། རྒོད་ཅིང་སེམས་གཡེངས་པར་གྱུར་པ་ཡིན'). The Chinese makes the bodhisattva 'become a mind' (成...心), which blurs the subject and the three predicates.",
+     "fix": "則成未等引，掉舉而散亂心"
+    }
+   ]
+  },
+  {
+   "id": "5-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-80",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "若生長久之想而以苦修持菩提",
+     "evidence": "Tibetan 'རིང་བར་འདུ་ཤེས་སྡུག་བསྔལ་བྱང་ཆུབ་སྒྲུབ' has two perceptions (長久 and 苦, both governed by འདུ་ཤེས). Mipham 5-80: 'སྡུག་བསྔལ་བའི་འདུ་ཤེས་ཀྱི་སྒོ་ནས་བྱང་ཆུབ་སྒྲུབ་པར་བྱེད་ན' (accomplishes awakening through the perception of it as suffering). The Chinese '以苦修持' can be read as 'by means of austerity', dropping the perception (想) of suffering.",
+     "fix": "若生長久之想與苦之想而成辦菩提"
+    }
+   ]
+  },
+  {
+   "id": "5-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-87",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "供養世間解、諸佛、阿羅漢與獨覺",
+     "evidence": "'འཇིག་རྟེན་མཁྱེན' is an epithet of the Buddhas, not a separate recipient: Sanskrit 'buddhāna lokavidunām arhat pratyayānām'; Mipham 5-87 'འཇིག་རྟེན་མཁྱེན་པ་སངས་རྒྱས་རྣམས་དང་། དགྲ་བཅོམ་པ་རྣམས་དང་རང་རྒྱལ་རྣམས་ལ་ཕུལ'. The Chinese lists 世間解 and 諸佛 as separate items.",
+     "fix": "供養諸佛世間解、阿羅漢與獨覺"
+    }
+   ]
+  },
+  {
+   "id": "5-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-91",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

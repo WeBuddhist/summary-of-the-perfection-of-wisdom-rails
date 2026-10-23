@@ -1,0 +1,509 @@
+{
+ "segments": [
+  {
+   "id": "4-64",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "此佛法",
+      "explanation": "Dharma of emptiness/reality rendered as \"Buddha's teaching\"; narrows the referent."
+     }
+    ],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "major",
+      "span": "六塵十二界",
+      "explanation": "Rendered aggregates/elements/sources as six sense-objects and twelve realms; wrong categories."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "無蘊寧有所得福",
+      "explanation": "Rhetorical \"what is greater\" becomes \"how could merit be gained\", reversing the praise of supreme merit."
+     },
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "真如乘",
+      "explanation": "Ultimate (don.dam) vehicle rendered as suchness vehicle; imprecise."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "趨入",
+      "explanation": "Tibetan says the bodhisattva has become profound, not that he enters the profound teaching."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-75",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "不求寂靜",
+      "explanation": "Nirvana rendered as 'tranquility' and 'not touch' as 'not seek'; imprecise."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Boatman's going back and forth between shores is not expressed."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "4-82",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "當思虛空廣大為所依",
+      "explanation": "Says to contemplate space as the support; the point is that space itself rests on nothing."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "major",
+      "span": "火",
+      "explanation": "Fire is added; Tibetan lists wind, water, earth and beings only."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "世間眾生得快樂",
+      "explanation": "Beings' karma-enjoyment basis becomes beings obtaining happiness; sense changed."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "虛空無意住非住",
+      "explanation": "Space's unsupported abiding rendered as an unclear claim about intention."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "The injunction to reflect on this meaning is missing."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-86",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "習之不住經多歲 射法久習得盡妙 一一箭發無不中",
+      "explanation": "Replaces the simile of arrows keeping the first arrow aloft with an archer growing skilled and always hitting."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Succession of arrows preventing the first from falling, and its falling if the man stops, are missing."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-2",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "The dream setting, central to the verse, is missing."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "名不退地應授記",
+      "explanation": "Irreversible prophecy rendered as a stage name that should receive prophecy; imprecise."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-8",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "我說是名為菩薩",
+      "explanation": "Seclusion said by the Sugata's son becomes 'I call this a bodhisattva'; speaker and concept changed."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "'Always' dwelling in villages and towns is not expressed."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-11",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "傲慢之菩薩則是毀壞自身",
+      "explanation": "The one ruined is a bodhisattva who measures or judges another; 'arrogant' misstates the referent."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "一念如秤名菩薩",
+      "explanation": "Final line says a bodhisattva is so called; the one who judges ruins himself is lost."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Ruin of oneself is omitted."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-20",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/addition",
+      "severity": "major",
+      "span": "千俱胝施",
+      "explanation": "Quantity of gifts 'thousand koti' is not in the Tibetan."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "行般若功無為故",
+      "explanation": "Final exhortation to always engage in prajna without laxity is garbled into an unclear claim."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-31",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/addition",
+      "severity": "major",
+      "span": "於晝夜分",
+      "explanation": "'Day and night' is not in the Tibetan."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "時魔歡喜而精勤",
+      "explanation": "Mara is delighted and comfortable, not diligent; his thought is not conveyed."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-39",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "亦行一切波羅蜜",
+      "explanation": "States that they also practice all pāramitās; Tibetan says all are included in prajñā."
+     },
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "大智",
+      "explanation": "Prajñā rendered as 'great wisdom' rather than 般若."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-46",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "為世間說證菩提",
+      "explanation": "Reverses the negation: they never think of realizing bodhi to liberate beings, rather than preaching realization."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "The varied births are not expressed."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-49",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "亦得功德鬘供養",
+      "explanation": "The buddhas proclaim praise; here qualities' garlands are received as offerings, and the buddhas as subject are lost."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "大智",
+      "explanation": "'Great wisdom' is not in the Tibetan."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-61",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "佛及",
+      "explanation": "Sangs rgyas sras is 'Buddha's children' (bodhisattvas), not Buddha."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "智慧",
+      "explanation": "Prajñā rendered as 智慧 after 般若波羅蜜多 in the same verse; inconsistent."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-68",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "則不生貪著般",
+      "explanation": "Dangling final 般 makes the sentence ending awkward."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/addition",
+      "severity": "major",
+      "span": "生北洲",
+      "explanation": "Northern continent is not in the Tibetan."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "見彼境界而求生",
+      "explanation": "Seeing the realms he is not attached; the translation says he seeks rebirth there, reversing the point."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Non-attachment on returning is missing."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-75",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "勇識",
+      "explanation": "Dpa' (hero) rendered with a non-word 勇識; unclear."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "major",
+      "span": "雖被瞋辱而無對",
+      "explanation": "Being scolded without reply is not in the Tibetan."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "The comparison of the servant girl under her master's power and going by the power of all beings is lost."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "'Pure' is not expressed."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-80",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "大智菩薩",
+      "explanation": "The bodhisattva unskilled in means becomes wise; meaning reversed."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "不離精進波羅蜜 無懈怠心終得證",
+      "explanation": "Reverses the conclusion: he loses vīrya and becomes lazy; here he is diligent and attains."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Perceiving the time as long, counting kalpas and suffering as a result are missing."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-88",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "三十二相到彼岸",
+      "explanation": "Limitless power is rendered as reaching the other shore; the strength is lost."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "The proclaiming of the dharma of emptiness to beings is missing."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "聞法信受而調伏",
+      "explanation": "Beings hearing, believing and being tamed is not in the Tibetan."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-95",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "欲證菩提功德法",
+      "explanation": "Adds desire and omits that the dharma is what ensures the arising of bodhi qualities."
+     },
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "持戒",
+      "explanation": "Śīla rendered as 持戒 and 尸羅 within the segment; inconsistent."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "The Guide's declaration is omitted."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-106",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "fluency",
+      "severity": "major",
+      "span": "名大智者為一切",
+      "explanation": "Unclear; 'the one skilled in giving gives everything' is not conveyed."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "'Having given' and giving without abiding in the object are only loosely expressed."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-1",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "The line announcing chapter eight showing the Dharmakaya is missing."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  }
+ ]
+}

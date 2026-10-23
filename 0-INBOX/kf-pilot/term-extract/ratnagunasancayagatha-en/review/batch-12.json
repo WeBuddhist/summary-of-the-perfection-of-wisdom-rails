@@ -1,0 +1,262 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "5-56",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-57",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-58",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-59",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-60",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རྣམ་པར་མི་རྟོག",
+      "reason": "Buddhist technical term (nirvikalpa).",
+      "dm": "non-conceptual",
+      "gm": "does not conceptualize"
+     }
+    ]
+   },
+   {
+    "id": "5-61",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-62",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-63",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-64",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-65",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-66",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-67",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-68",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-69",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱིས་པའི་ཆོས",
+      "reason": "Buddhist technical phrase (bāladharma).",
+      "dm": "qualities of the foolish",
+      "gm": "dharmas of fools"
+     }
+    ]
+   },
+   {
+    "id": "5-70",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-71",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-72",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-73",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རྒོད",
+      "reason": "Buddhist technical term for mental agitation (auddhata).",
+      "dm": "agitated",
+      "gm": "agitated"
+     },
+     {
+      "bo": "སེམས་གཡེངས",
+      "reason": "Buddhist technical term for mental distraction (vikṣepa).",
+      "dm": "mentally distracted",
+      "gm": "mind is distracted"
+     },
+     {
+      "bo": "སངས་རྒྱས་ཡོན་ཏན",
+      "reason": "Fixed technical phrase.",
+      "dm": "Buddha's qualities",
+      "gm": "qualities of a Buddha"
+     }
+    ]
+   },
+   {
+    "id": "5-74",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-75",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-76",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-77",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-78",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-79",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-80",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྡུག་བསྔལ",
+      "reason": "Buddhist technical term (duḥkha).",
+      "dm": "suffer",
+      "gm": "suffer"
+     }
+    ]
+   },
+   {
+    "id": "5-81",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-82",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-83",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "5-60",
+    "bo": "རྣམ་པར་མི་རྟོག",
+    "dm": "non-conceptual",
+    "gm": "does not conceptualize",
+    "reason": "Buddhist technical term (nirvikalpa)."
+   },
+   {
+    "id": "5-69",
+    "bo": "བྱིས་པའི་ཆོས",
+    "dm": "qualities of the foolish",
+    "gm": "dharmas of fools",
+    "reason": "Buddhist technical phrase (bāladharma)."
+   },
+   {
+    "id": "5-73",
+    "bo": "རྒོད",
+    "dm": "agitated",
+    "gm": "agitated",
+    "reason": "Buddhist technical term for mental agitation (auddhata)."
+   },
+   {
+    "id": "5-73",
+    "bo": "སེམས་གཡེངས",
+    "dm": "mentally distracted",
+    "gm": "mind is distracted",
+    "reason": "Buddhist technical term for mental distraction (vikṣepa)."
+   },
+   {
+    "id": "5-73",
+    "bo": "སངས་རྒྱས་ཡོན་ཏན",
+    "dm": "Buddha's qualities",
+    "gm": "qualities of a Buddha",
+    "reason": "Fixed technical phrase."
+   },
+   {
+    "id": "5-80",
+    "bo": "སྡུག་བསྔལ",
+    "dm": "suffer",
+    "gm": "suffer",
+    "reason": "Buddhist technical term (duḥkha)."
+   }
+  ]
+ }
+}

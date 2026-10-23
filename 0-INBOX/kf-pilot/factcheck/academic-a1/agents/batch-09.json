@@ -1,0 +1,129 @@
+{
+ "batch": "batch-09",
+ "segments": [
+  {
+   "id": "4-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-77",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "vividly knowing",
+     "evidence": "Tibetan རབ་ཤེས་ (Sanskrit prajānamāno) means knowing thoroughly/fully; Mipham 4-77 glosses it as knowing (all this) to lack inherent nature, Rangjung 4-77 as knowing it to be like an illusion. Nothing in the source corresponds to 'vividly'.",
+     "fix": "fully understanding"
+    }
+   ]
+  },
+  {
+   "id": "4-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-81",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "the two levels",
+     "evidence": "Tibetan ས་གཉིས་ (Sanskrit dvaye bhūmim) is explained by Mipham 4-80 as ཉན་རང་གི་ས་གཉིས་ (the two levels of Śrāvakas and Pratyekabuddhas) and by Rangjung 4-79 as ཉན་ཐོས་དང་རང་སངས་རྒྱས་ཀྱི་ས་གཉིས་; the bare 'two levels' could be read as any two bhūmis.",
+     "fix": "the two levels of the Śrāvakas and Pratyekabuddhas"
+    }
+   ]
+  },
+  {
+   "id": "4-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-84",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "profound peace",
+     "evidence": "Tibetan ཞི་ལ་རབ་ཞི་སྤྱོད་: རབ་ is the intensifier 'utterly' (Mipham 4-84: རྣམ་རྟོག་རབ་ཏུ་ཞི་བ, utterly pacified), not 'profound' (ཟབ་མོ).",
+     "fix": "practice peace, utter peace"
+    }
+   ]
+  },
+  {
+   "id": "4-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-89",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

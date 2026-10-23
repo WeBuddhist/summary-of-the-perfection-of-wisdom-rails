@@ -1,0 +1,193 @@
+{
+ "batch": "batch-09",
+ "segments": [
+  {
+   "id": "5-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-45",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "showing off many magic powers",
+     "evidence": "Academic: 'displaying various miraculous powers' - neutral display; 'showing off' implies vanity, which clashes with the point that the illusory person has no wish to please or boast.",
+     "fix": "People see them showing many magic powers."
+    }
+   ]
+  },
+  {
+   "id": "5-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "made even more Maras from every single hair",
+     "evidence": "Academic: 'emanated that many more from every single hair' - each hair makes as many Maras as there are beings, not just 'more'.",
+     "fix": "Suppose from every single hair they made that many more Maras!"
+    }
+   ]
+  },
+  {
+   "id": "5-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-52",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "you should know something about this noble person. They have stepped onto the path of knowing everything.",
+     "evidence": "Academic: 'That noble one should be known to have entered into omniscience' - the point is to recognise that they have entered into knowing everything.",
+     "fix": "you should know that this noble person has entered into knowing everything."
+    }
+   ]
+  },
+  {
+   "id": "5-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-54",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "someone with a certain view",
+     "evidence": "Academic: 'one who views' (the one who looks/sees), not a person holding a particular view.",
+     "fix": "or someone who sees"
+    }
+   ]
+  },
+  {
+   "id": "5-55",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "the way an awakening hero rests",
+     "evidence": "Academic/Tibetan: 'this dwelling' with no named subject; the children's text supplies 'awakening hero' and, by listing a worthy one among the exceptions, sets up a confusing comparison with the listener's rest.",
+     "fix": "This resting place is better than the deep-calm resting places of all listeners and solitary Buddhas. Only the freedom of worthy ones and Thus-Gone Ones is left out of this."
+    }
+   ]
+  },
+  {
+   "id": "5-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-59",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "The Protectors of the world live in the past, the future, and the ten directions.",
+     "evidence": "Academic: 'Protectors of the World of the past, the future, and the ten directions' - they are the Protectors of all times and places, not beings who 'live in the past'.",
+     "fix": "The Protectors of the world from the past, the future, and all ten directions are all born from this."
+    }
+   ]
+  },
+  {
+   "id": "5-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-63",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "batch": "batch-09",
+ "segments": [
+  {
+   "id": "4-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-74",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "將其完全充滿",
+     "evidence": "Tibetan line 2 'ཆུ་ཡི་ཐིགས་པས་བུམ་པ་དང་པོ་ཐ་མའི་བར། རིམ་གྱིས་ཉུང་ངུ་ཉུང་ངུས་དེ་ཡོངས་འགེངས་པ་ལྟར' names the object being filled, the vase (བུམ་པ). The Chinese drops 'vase' and has only the pronoun 其 with no antecedent, so the simile's object is missing (bo-mipham 4-74: 'བུམ་པ་བཀང་བ...བུམ་པ་དེ་ཡོངས་སུ་འགེངས་པ་ལྟར').",
+     "fix": "猶如以水滴從最初直至最後，漸次一點一滴將瓶完全充滿"
+    }
+   ]
+  },
+  {
+   "id": "4-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-81",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "二地",
+     "evidence": "Tibetan 'ས་གཉིས' (two levels) is, per bo-mipham 4-80 ('ཉན་རང་གི་ས་གཉིས') and bo-rangjung 4-79 ('ཉན་ཐོས་དང་རང་སངས་རྒྱས་ཀྱི་ས་གཉིས'), the Śrāvaka and Pratyekabuddha levels. In Chinese Buddhist usage bare 二地 normally means the second bodhisattva bhūmi, a reading the commentaries exclude.",
+     "fix": "聲聞與緣覺二地"
+    }
+   ]
+  },
+  {
+   "id": "4-82",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "水蘊",
+     "evidence": "Tibetan 'ཆུ་ཡི་ཕུང་པོ' means a mass or heap of water (the water layer of the world-system; bo-mipham 4-82 and bo-khenrab 4-82 describe it as the water layer supporting the great earth). 蘊 is the glossary rendering of ཕུང་པོ as 'aggregate' (skandha), so 水蘊 reads as a water-skandha and misleads.",
+     "fix": "水聚"
+    }
+   ]
+  },
+  {
+   "id": "4-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-88",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "頓時",
+     "evidence": "Tibetan 'ཅིག་ཆར' means 'simultaneously'; bo-mipham 4-88 glosses it 'དུས་ཅིག་ཆར' and bo-khenrab 4-88 'དུས་ཅིག་ཆར་ཏུ' (at one and the same time). Skt 'yamaka' is the twin miracle. 頓時 means 'suddenly/instantly', a different nuance.",
+     "fix": "同時"
+    }
+   ]
+  },
+  {
+   "id": "4-89",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

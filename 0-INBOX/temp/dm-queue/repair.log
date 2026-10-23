@@ -1,0 +1,29 @@
+source     : 1-SOURCES/Commentaries/bo-mipham-lekshe.md
+target     : modern chinese (zh)   focus=tibetan
+track      : 3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries
+blocks     : 487 total, 487 already in ledger, 7 to do
+batching   : 7 calls for 7 blocks (<=1 blocks, <=900 chars, <=32 lines per call)
+[1/7] ^1-94  (1 blk, 491 src, 2320 payload) … 4.7s  生起僅僅寂滅之安樂。第一部分，即「རྒྱལ་བའི་ཤེས་རབ་」（勝者之般若）等兩句偈頌。此「རྒྱ
+[2/7] ^1-95  (1 blk, 356 src, 2867 payload) … 3.1s  第二部分，即「གང་དག་ཕན་」（凡利益者）等兩句偈頌。凡是致力於利益一切眾生，並具備慈悲心、實踐普賢
+[3/7] ^1-96  (1 blk, 271 src, 3176 payload) … 2.4s  第二部分，即「འདུས་བྱས་བདེ་དང་」（有為之安樂）等兩句偈頌。所謂「འདུས་བྱས་འཁོ
+[4/7] ^1-98  (1 blk, 761 src, 3323 payload) … 4.6s  第一部分，即「ས་བོན་བཏབ་ནས་」（播下種子）等一偈。關於作為一切道與果之功德根基的譬喻，其義云
+[5/7] ^1-99  (1 blk, 531 src, 3798 payload) … 4.7s  第二部分，即「འཁོར་ལོས་སྒྱུར་རྒྱལ་」（轉輪聖王）等一偈。如同「འཁོར་ལོས་སྒ
+[6/7] ^1-101  (1 blk, 489 src, 2959 payload) … 3.5s  第一部分，即「རྒྱལ་བས་བརྒྱ་བྱིན་སོགས་」（佛陀對帝釋天等）一偈。佛陀向帝釋天提出問
+[7/7] ^1-102  (1 blk, 1600 src, 4799 payload) … 5.4s  第二部分，即「ཅི་སླད་ཅེ་ན་」（何故）等三偈。若問：既然如此，為何在供養了如此眾多能產生無盡福
+
+wrote 3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-mipham-lekshe-zh.md  (487/487 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/work/bo-mipham-lekshe-zh.jsonl
+calls  7 planned for 7 blocks; 7 blocks translated
+note   2 block(s) where the translation's line count differs from the source's (id: source→output): ^1-95: 1→3, ^1-96: 1→3
+source     : 1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md
+target     : english (en)   focus=tibetan
+track      : 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries
+blocks     : 323 total, 323 already in ledger, 1 to do
+batching   : 1 calls for 1 blocks (<=1 blocks, <=900 chars, <=32 lines per call)
+[1/1] ^2-104  (1 blk, 13 src, 3500 payload) … 3.5s  [2-104] source:
+
+wrote 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-rangjung-dorje-tika-en.md  (323/323 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/work/bo-rangjung-dorje-tika-en.jsonl
+calls  1 planned for 1 blocks; 1 blocks translated
+note   1 block(s) where the translation's line count differs from the source's (id: source→output): ^2-104: 1→5
+REPAIR DONE 2026-10-04 15:40:55

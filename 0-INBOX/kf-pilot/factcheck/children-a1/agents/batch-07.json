@@ -1,0 +1,217 @@
+{
+ "batch": "batch-07",
+ "segments": [
+  {
+   "id": "4-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-80",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "to protect them",
+     "evidence": "The text only says he emanates many brave men and travels safely; it does not state their purpose.",
+     "fix": "The skilled person magically makes many brave men. They travel safely and return home again."
+    }
+   ]
+  },
+  {
+   "id": "4-81",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "two lower levels",
+     "evidence": "Academic: 'the two levels' (not described as lower).",
+     "fix": "They completely pass beyond the four Maras and the two levels."
+    }
+   ]
+  },
+  {
+   "id": "4-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-83",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "They also do not just stay in emptiness.",
+     "evidence": "Academic: 'does not abide in emptiness' (plain negation, no 'just').",
+     "fix": "They do not touch peace beyond sorrow, and they do not stay in emptiness."
+    }
+   ]
+  },
+  {
+   "id": "4-84",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "pure and perfect peace",
+     "evidence": "Academic: 'peace, utter peace' (no idea of purity).",
+     "fix": "they practice peace, complete peace."
+    }
+   ]
+  },
+  {
+   "id": "4-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-94",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Academic: the merchant is 'seeking profit' and goes to learn the route.",
+     "fix": "Think of a merchant who wants to gain wealth and travels to learn the route."
+    }
+   ]
+  },
+  {
+   "id": "4-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-96",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Could anyone say they will just reach a peace beyond sorrow?",
+     "evidence": "Academic: 'Could it be designated that they will attain nirvana'; no 'just'.",
+     "fix": "Could anyone say they will reach peace beyond sorrow?"
+    }
+   ]
+  },
+  {
+   "id": "4-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "A person with compassion",
+     "evidence": "Academic: 'those endowed with benefit and compassion'; the benefit to others is dropped.",
+     "fix": "A person with kindness and compassion who wants to help others can calm them through the blessing of truth."
+    }
+   ]
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "use names to trick you",
+     "evidence": "Academic: 'Mara approaches on the basis of names'; no stated aim of tricking.",
+     "fix": "Mara might come to you and speak about names."
+    }
+   ]
+  },
+  {
+   "id": "5-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "Mara will tell you about your strict practices and your training.",
+     "evidence": "Academic: practices and training 'you will come to possess' (future), plus 'conduct'.",
+     "fix": "Mara will tell you about the strict practices and training you will have. He will say, 'You had these same good qualities and conduct before.'"
+    }
+   ]
+  },
+  {
+   "id": "5-7",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

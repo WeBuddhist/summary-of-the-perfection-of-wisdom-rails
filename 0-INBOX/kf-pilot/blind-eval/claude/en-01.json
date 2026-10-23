@@ -1,0 +1,350 @@
+{
+ "segments": [
+  {
+   "id": "0-4",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "noble ones",
+      "explanation": "Tibetan des pa means gentle/peaceful per the commentaries, not noble."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "And to that which is the conduct of the heroic ones",
+      "explanation": "Splits the relative clause \"in which heroes practice\" into a second, separate object of listening."
+     }
+    ],
+    "C": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "The perfection of wisdom of the gentle ones engaged in the benefit of beings, Listen to that in which",
+      "explanation": "Dislocated object clause is awkward; meaning intact."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-6",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "Brought about the destruction of the unapprehendable aggregates",
+      "explanation": "Aggregates are destroyed through non-apprehending wisdom; \"unapprehendable aggregates\" shifts the sense slightly."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "a wandering mendicant, through his knowledge of craftsmanship",
+      "explanation": "Bzo sbyangs is the wanderer's name (Śreṇika), not craft knowledge; wrong referent."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "Understood the aggregates as unapprehendable and subject to destruction",
+      "explanation": "Verse says aggregates are actually dissolved through non-apprehension, not merely understood as destructible."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-16",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "great thicket of views",
+      "explanation": "\"Thicket\" is not in the Tibetan; it adds an image to \"great views\"."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-25",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "Know that all sentient beings are exactly as oneself is",
+      "explanation": "Imperative; commentaries read it as describing what the bodhisattva knows, not as a command."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "1-28",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "is concluded",
+      "explanation": "Adds a concluding statement not in the Tibetan."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "2-8",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "excellence",
+      "explanation": "Yon tan means qualities, not excellence."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "This very transcendence",
+      "explanation": "Nges 'byung is definite emergence; \"transcendence\" misses the sense."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "the training that rejoices in qualities",
+      "explanation": "Drops \"of those who\"; the training belongs to bodhisattvas who delight in qualities."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "2-21",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "2-27",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "with diverse colors and diverse shapes",
+      "explanation": "Colors and shapes are not stated in the verse; they come from commentary glosses."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "the number of things that cast a shadow",
+      "explanation": "Verse says merely spoken of as \"shadow\" designations; this misreads it as counting shadow-casting things."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "2-30",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "2-40",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "Including the perfections and all the Buddha-qualities",
+      "explanation": "Turns \"endowed with the perfections\" and \"whatever buddha-dharmas\" into an included list; adds \"all\"."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "2-50",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "A bodhisattva who conceptualizes the notion of sentient beings, This is not",
+      "explanation": "Sentence is fragmentary; the bodhisattva clause lacks a verb linking it to the conclusion."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "2-53",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "if the supreme pristine wisdom of a buddha One wishes to touch",
+      "explanation": "Inverted word order makes the sentence hard to parse."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "4-6",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "the Leaders",
+      "explanation": "Plural; the Tibetan refers to the guide who prophesies."
+     }
+    ],
+    "C": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "should understand that by hearing This Perfection of Wisdom of the Victors, Even if they have not received a direct prophecy",
+      "explanation": "Clauses are garbled; the quoted thought is left unattached and the syntax is hard to parse."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-10",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "awakening, or peace",
+      "explanation": "Splits \"peaceful awakening\" (byang chub zhi ba) into two separate items."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "4-17",
+   "candidates": {
+    "A": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "have become longing and faithful",
+      "explanation": "\"Longing\" is awkward for eager/aspiring ('dun); meaning intact."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "4-26",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "4-36",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "Regarding breaking on the path when carrying water in a fired pot,",
+      "explanation": "Fragmentary line; the fearlessness about breaking is not clearly expressed."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-44",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "Do not hold supreme views",
+      "explanation": "Mchog 'dzin is grasping something as supreme, not holding \"supreme views\"."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "superior conceit",
+      "explanation": "Grasping as supreme is not conceit (abhimāna); wrong concept."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-48",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "Felt little concern",
+      "explanation": "Thugs khral chung means little effort/trouble to teach; \"concern\" suggests indifference, misleading for the compassionate Buddha."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "4-57",
+   "candidates": {
+    "A": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "vividly strive",
+      "explanation": "\"Vividly\" is an odd rendering of mngon par brtson; means intently."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "have forever abandoned",
+      "explanation": "Tibetan says constantly, at all times; \"forever\" implies permanent abandonment."
+     }
+    ]
+   }
+  }
+ ]
+}

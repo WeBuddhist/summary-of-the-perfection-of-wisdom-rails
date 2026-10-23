@@ -1,0 +1,128 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "1-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-2",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "—",
+     "evidence": "In the Tibetan the verb མི་གནས ('does not abide') in line 3 (ས་ལ་མི་གནས་ཤིང་) governs the whole list, including line 1 (རྟག་དང་མི་རྟག་བདེ་དང་སྡུག་བསྔལ་སྡུག་མི་སྡུག) and line 2 (བདག་དང་བདག་མེད་དེ་བཞིན་ཉིད་དང་དེ་བཞིན་སྟོང་). Mipham 2-2 states that one does not abide (མི་གནས་པ) in any of these pairs (permanent/impermanent, happy/suffering, pleasant/unpleasant, self/selfless, suchness/emptiness). In the Chinese the first two lines are a bare list of nouns with no predicate, and 不住於 only appears in line 3, so the central assertion (non-abiding in these dualities) is missing for them.",
+     "fix": "不住於常與無常，樂與苦，悅與不悅，\n不住於我與無我，真如與空性；\n不住於得果與阿羅漢地，\n不住於獨覺地，亦不住於佛地。"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "真如與同樣的空性；…不住於獨覺地與同樣的佛地",
+     "evidence": "དེ་བཞིན་ in དེ་བཞིན་ཉིད་དང་དེ་བཞིན་སྟོང་ and རང་རྒྱལ་ས་དང་དེ་བཞིན་སངས་རྒྱས་སར་ is the adverbial 'likewise/also', not a modifier meaning 'the same'. Mipham 2-2 reads suchness and emptiness as two separate things not grasped at (དེ་བཞིན་ཉིད་དུ་འཛིན་པ་དང་དེ་བཞིན་དུ་སྟོང་པ་ཉིད་དུ་འཛིན་པ), and the Sanskrit has तथता तथ शून्यतायाम् / प्रत्येकभूमिस्थितो तथ बुद्धभूमौ. 同樣的空性 / 同樣的佛地 wrongly suggests 'the same emptiness / the same Buddha stage'.",
+     "fix": "真如與空性；…不住於獨覺地，亦不住於佛地"
+    }
+   ]
+  },
+  {
+   "id": "2-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "同樣想成為佛法之法王與佛者",
+     "evidence": "The Tibetan has only ཆོས་རྒྱལ ('Dharma King') as the third wish (རང་སངས་རྒྱས་དག་དེ་བཞིན་ཆོས་རྒྱལ་འགྱུར་འདོད་པ), the Sanskrit धर्मराजो likewise; Mipham 2-4 glosses it as one figure, ཆོས་ཀྱི་རྒྱལ་པོ་སངས་རྒྱས ('the Dharma King, the Buddha'), and Khenrab 2-4 as ཆོས་ཀྱི་རྒྱལ་པོ་སངས་རྒྱས་བཅོམ་ལྡན་འདས. The Chinese 佛法之法王與佛者 reads as two separate aspirants and wrongly pulls in the locked ཆོས→佛法.",
+     "fix": "同樣想成為法王，即佛者"
+    }
+   ]
+  },
+  {
+   "id": "2-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-8",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

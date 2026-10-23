@@ -1,0 +1,958 @@
+[
+ {
+  "id": "5-92",
+  "tibetan": "ལྕག་དབྱིག་མཙོན་དང་གསད་དང་བཅིང་དང་བརྡེག་པ་དང་། ། མགོ་གཅོད་པ་དང་རྣ་བ་རྐང་ལག་སྣ་གཅོད་དང་། ། འཇིག་རྟེན་སྡུག་བསྔལ་ཇི་སྙེད་བདག་གིས་བཟོད་སྙམ་པ། ། བྱང་ཆུབ་སེམས་དཔའ་བཟོད་པའི་ཕ་རོལ་ཕྱིན་ལ་གནས། །",
+  "academic_translation": "'Whips, sticks, weapons, killing, binding, and beating,\nSevering of the head, and cutting off ears, hands, feet, and nose—\nI will bear with patience whatever sufferings there are in the world!'\nThinking this, the bodhisattva abides in the perfection of patience.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "བཟོད་པའི་ཕ་རོལ་ཕྱིན",
+    "use": "perfection of patience"
+   },
+   {
+    "tibetan": "བཟོད་པ",
+    "use": "patience"
+   }
+  ],
+  "translation": "'People might use whips, sticks, and weapons. They might beat me, tie me up, or try to kill me. They might even cut off my head, ears, hands, feet, and nose. But I will face all the suffering in the world with patience!' Thinking this, the awakening hero rests in the perfection of patience."
+ },
+ {
+  "id": "5-93",
+  "tibetan": "ཚུལ་ཁྲིམས་ཀྱིས་ནི་ཞི་བ་འདོད་རྣམས་འཕགས་པར་འགྱུར། ། སྟོབས་བཅུའི་སྤྱོད་ཡུལ་གནས་ཤིང་ཚུལ་ཁྲིམས་ཉམས་པ་མེད། ། སྡོམ་པའི་བྱ་བ་ཇི་སྙེད་ཀུན་གྱི་རྗེས་སུ་འཇུག། ། སེམས་ཅན་ཀུན་ལ་ཕན་ཕྱིར་དེ་ཡང་བྱང་ཆུབ་བསྔོ། །",
+  "academic_translation": "Through ethical discipline, those who desire peace become noble;\nAbiding in the domain of the ten powers, their ethical discipline is unimpaired.\nThey follow all the activities of restraint, whatever they may be,\nAnd, for the benefit of all sentient beings, dedicate them to awakening.",
+  "locked_terms": [
+   {
+    "tibetan": "ཚུལ་ཁྲིམས",
+    "use": "good conduct"
+   },
+   {
+    "tibetan": "འཕགས་པ",
+    "use": "noble"
+   },
+   {
+    "tibetan": "སྟོབས་བཅུ",
+    "use": "ten powers"
+   },
+   {
+    "tibetan": "སྡོམ་པ",
+    "use": "self-control"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   },
+   {
+    "tibetan": "བསྔོ",
+    "use": "dedicate"
+   },
+   {
+    "tibetan": "ཞི་བ",
+    "use": "peace"
+   }
+  ],
+  "translation": "Through good conduct, those who want peace become noble. They stay in the realm of the ten powers, and their good conduct is perfect. They follow all the actions of self-control. To help all living beings, they dedicate these actions to awakening."
+ },
+ {
+  "id": "5-94",
+  "tibetan": "གལ་ཏེ་དགྲ་བཅོམ་རང་རྒྱལ་བྱང་ཆུབ་རེག་འདོད་ན། ། ཚུལ་ཁྲིམས་འཆལ་ཅིང་མི་མཁས་དེ་བཞིན་སྤྱོད་པ་ཉམས། ། ཅི་སྟེ་བྱད་ཆུབ་ཞི་བ་མཆོག་ཏུ་ཡོངས་བསྔོ་ན། ། འདོད་ཡོན་བརྩོན་ཡང་ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་ལ་གནས། །",
+  "academic_translation": "If one desires to touch the awakening of an arhat or a pratyekabuddha,\nOne is lacking ethical discipline, unwise, and likewise one's conduct degenerates.\nBut if one dedicates it to the supreme peace of awakening,\nEven while engaged in sensory pleasure, one abides in the perfection of ethical discipline.",
+  "locked_terms": [
+   {
+    "tibetan": "དགྲ་བཅོམ",
+    "use": "worthy one"
+   },
+   {
+    "tibetan": "རང་རྒྱལ",
+    "use": "solitary Buddha"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   },
+   {
+    "tibetan": "ཚུལ་ཁྲིམས་འཆལ",
+    "use": "lacking good conduct"
+   },
+   {
+    "tibetan": "ཡོངས་བསྔོ",
+    "use": "dedicate"
+   },
+   {
+    "tibetan": "འདོད་ཡོན",
+    "use": "pleasure of the senses"
+   },
+   {
+    "tibetan": "ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན",
+    "use": "perfection of good conduct"
+   },
+   {
+    "tibetan": "ཚུལ་ཁྲིམས",
+    "use": "good conduct"
+   },
+   {
+    "tibetan": "ཞི་བ",
+    "use": "peace"
+   }
+  ],
+  "translation": "Someone might want to reach the awakening of a worthy one or a solitary Buddha. This person is unwise and is lacking good conduct, and their behavior falls apart. But someone else might dedicate their actions to the highest peace of awakening. Then, even while enjoying the pleasure of the senses, they stay in the perfection of good conduct."
+ },
+ {
+  "id": "5-95",
+  "tibetan": "ཆོས་གང་ངེས་པའི་བྱང་ཆུབ་ཡོན་ཏན་འབྱུང་འགྱུར་བ། ། འདི་ནི་ཡོན་ཏན་ཆོས་ལྡན་རྣམས་ཀྱི་ཚུལ་ཁྲིམས་དོན། ། ཆོས་གང་ཕན་བྱེད་རྣམས་ཀྱི་བྱང་ཆུབ་ཡོངས་ཉམས་པ། ། འདི་ནི་ཚུལ་ཁྲིམས་འཆལ་ཅེས་རྣམ་པར་འདྲེན་པས་གསུངས། །",
+  "academic_translation": "Whatever phenomena certainly cause the qualities of awakening to arise,\nThis is the purpose of ethical discipline for those endowed with the phenomena of quality.\nWhatever phenomena cause the awakening of those who benefit others to completely degenerate,\nThe Guide has stated that this is lacking ethical discipline.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "things"
+   },
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   },
+   {
+    "tibetan": "ཚུལ་ཁྲིམས",
+    "use": "good conduct"
+   },
+   {
+    "tibetan": "ཚུལ་ཁྲིམས་འཆལ",
+    "use": "lacking good conduct"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   },
+   {
+    "tibetan": "རྣམ་པར་འདྲེན་པ",
+    "use": "Guide"
+   }
+  ],
+  "translation": "Some things always make the good qualities of awakening appear. For people with good qualities, this is the goal of good conduct. Other things ruin the awakening of those who try to help others. The Guide says this is lacking good conduct."
+ },
+ {
+  "id": "5-96",
+  "tibetan": "གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་འདོད་ཡོན་ལྔ་སྤྱོད་ཀྱང་། ། སངས་རྒྱས་ཆོས་དང་འཕགས་པའི་དགེ་འདུན་སྐྱབས་སོང་སྟེ། ། སངས་རྒྱས་འགྲུབ་བྱ་སྙམ་དུ་ཀུན་མཁྱེན་ཡིད་བྱེད་ན། ། མཁས་པ་ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་གནས་རིག་པར་བྱ། །",
+  "academic_translation": "Even if a bodhisattva indulges in the five qualities of desire, enjoying sensory pleasure,\nIf they have gone for refuge to the Buddha, the Dharma, and the noble Sangha,\nAnd direct their mind to omniscience, thinking, \"I must become a Buddha,\"\nOne should understand that this wise one abides in the perfection of ethical discipline.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "འདོད་ཡོན་ལྔ",
+    "use": "five pleasures of the senses"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   },
+   {
+    "tibetan": "འཕགས་པའི་དགེ་འདུན",
+    "use": "noble community"
+   },
+   {
+    "tibetan": "སྐྱབས",
+    "use": "refuge"
+   },
+   {
+    "tibetan": "ཀུན་མཁྱེན",
+    "use": "knowing everything"
+   },
+   {
+    "tibetan": "ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན",
+    "use": "perfection of good conduct"
+   },
+   {
+    "tibetan": "ཚུལ་ཁྲིམས",
+    "use": "good conduct"
+   },
+   {
+    "tibetan": "འདོད་ཡོན",
+    "use": "pleasure of the senses"
+   },
+   {
+    "tibetan": "དགེ་འདུན",
+    "use": "the community"
+   },
+   {
+    "tibetan": "འཕགས་པ",
+    "use": "noble"
+   }
+  ],
+  "translation": "An awakening hero might enjoy the five pleasures of the senses. But they have gone for refuge to the Buddha, the teaching, and the noble community. They turn their minds toward knowing everything. They think, \"I must become a Buddha.\" You should understand that this wise person stays in the perfection of good conduct."
+ },
+ {
+  "id": "5-97",
+  "tibetan": "གལ་ཏེ་བསྐལ་པ་བྱེ་བར་དགེ་བའི་ལས་ལམ་བཅུ། ། སྤྱོད་ཀྱང་དགྲ་བཅོམ་རང་རྒྱལ་ཉིད་ལ་འདོད་སྐྱེད་ན། ། དེ་ཚེ་ཚུལ་ཁྲིམས་སྐྱོན་བྱུང་ཚུལ་ཁྲིམས་ཉམས་པ་ཡིན། ། སེམས་བསྐྱེད་དེ་ནི་ཕས་ཕམ་པས་ཀྱང་ཤིན་ཏུ་ལྕི། །",
+  "academic_translation": "Even if one practices the ten paths of virtuous action for ten million eons,\nIf one generates desire for the state of an arhat or a pratyekabuddha,\nAt that time, a flaw arises in one's ethical discipline and one's ethical discipline degenerates;\nThat generation of the mind is much heavier than even a defeat.",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ་བའི་ལས་ལམ་བཅུ",
+    "use": "ten paths of good action"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ",
+    "use": "worthy one"
+   },
+   {
+    "tibetan": "རང་རྒྱལ",
+    "use": "solitary Buddha"
+   },
+   {
+    "tibetan": "ཚུལ་ཁྲིམས",
+    "use": "good conduct"
+   },
+   {
+    "tibetan": "ཕས་ཕམ་པ",
+    "use": "defeat"
+   },
+   {
+    "tibetan": "སེམས་བསྐྱེད",
+    "use": "making the wish to awaken"
+   },
+   {
+    "tibetan": "བསྐལ་པ",
+    "use": "age"
+   }
+  ],
+  "translation": "Someone might practice the ten paths of good action for ten million ages. But they might desire to become a worthy one or a solitary Buddha. When they do, a flaw appears in their good conduct, and their good conduct breaks down. Making the wish to awaken in that way is much worse than a defeat."
+ },
+ {
+  "id": "5-98",
+  "tibetan": "ཚུལ་ཁྲིམས་སྲུང་ཞིང་བྱང་ཆུབ་མཆོག་ཏུ་ཡོངས་བསྔོ་ལ། ། དེ་ཡིས་རློམ་སེམས་མེད་ཅིང་བདག་བསྟོད་མི་བྱེད་ལ། ། ང་ཡི་འདུ་ཤེས་སེམས་ཅན་འདུ་ཤེས་ཡོངས་སུ་སྤངས། ། བྱང་ཆུབ་སེམས་དཔའ་ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་གནས་བརྗོད། །",
+  "academic_translation": "Guarding ethical discipline and dedicating it to supreme awakening,\nHaving no conceit on account of it, and not praising oneself,\nAnd completely abandoning the perception of a self and the perception of sentient beings—\nSuch a bodhisattva is said to abide in the perfection of ethical discipline.",
+  "locked_terms": [
+   {
+    "tibetan": "ཚུལ་ཁྲིམས",
+    "use": "good conduct"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་མཆོག",
+    "use": "highest awakening"
+   },
+   {
+    "tibetan": "ཡོངས་བསྔོ",
+    "use": "dedicate"
+   },
+   {
+    "tibetan": "རློམ་སེམས",
+    "use": "self-importance"
+   },
+   {
+    "tibetan": "ང་ཡི་འདུ་ཤེས",
+    "use": "idea of a self"
+   },
+   {
+    "tibetan": "སེམས་ཅན་འདུ་ཤེས",
+    "use": "idea of living beings"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན",
+    "use": "perfection of good conduct"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   }
+  ],
+  "translation": "An awakening hero guards their good conduct and will dedicate it to the highest awakening. They feel no self-importance about this and do not praise themselves. They completely let go of the idea of a self and the idea of living beings. It is said that this awakening hero stays in the perfection of good conduct."
+ },
+ {
+  "id": "5-99",
+  "tibetan": "གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་རྒྱལ་བའི་ལམ་སྤྱོད་པ། ། སེམས་ཅན་འདི་དག་ཁྲིམས་ལྡན་འདི་དག་ཁྲིམས་འཆལ་ཞེས། ། སྣ་ཚོགས་འདུ་ཤེས་ཞུགས་པ་ཤིན་ཏུ་ཚུལ་ཁྲིམས་འཆལ། ། ཚུལ་ཁྲིམས་ཉམས་ཤིང་དེ་ལ་ཡོངས་དག་ཚུལ་ཁྲིམས་མེད། །",
+  "academic_translation": "If a bodhisattva practicing the path of the Victors\nThinks, \"These sentient beings possess ethical discipline, and these lack ethical discipline,\"\nBy engaging in diverse perceptions, they are utterly lacking ethical discipline;\nTheir ethical discipline degenerates, and they lack completely pure ethical discipline.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "རྒྱལ་བའི་ལམ",
+    "use": "path of the Victorious Ones"
+   },
+   {
+    "tibetan": "རྒྱལ་བ",
+    "use": "Victorious One"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   },
+   {
+    "tibetan": "ཁྲིམས་ལྡན",
+    "use": "one with good conduct"
+   },
+   {
+    "tibetan": "ཁྲིམས་འཆལ",
+    "use": "lacking good conduct"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   },
+   {
+    "tibetan": "ཚུལ་ཁྲིམས",
+    "use": "good conduct"
+   },
+   {
+    "tibetan": "ཚུལ་ཁྲིམས་འཆལ",
+    "use": "lacking good conduct"
+   }
+  ],
+  "translation": "If an awakening hero walking the path of the Victorious Ones thinks, \"These living beings are ones with good conduct, and those are lacking good conduct,\" they are completely lacking good conduct themselves because of this idea. Their own good conduct falls apart. They do not have perfectly pure good conduct."
+ },
+ {
+  "id": "5-100",
+  "tibetan": "གང་ལ་བདག་གི་འདུ་ཤེས་སེམས་ཅན་འདུ་ཤེས་མེད། ། འདུ་ཤེས་འདོད་ཆགས་བྲལ་ལ་སྡོམ་མིན་ག་ལ་ཡོད། ། གང་ལ་སྡོམ་དང་སྡོམ་པ་མ་ཡིན་རློམ་སེམས་མེད། ། འདི་ནི་ཚུལ་ཁྲིམས་སྡོམ་པར་རྣམ་པར་འདྲེན་པས་གསུངས། །",
+  "academic_translation": "Whoever has no perception of a self and no perception of sentient beings,\nBeing free from perception and desire, how could there be non-restraint?\nWhoever has no conceit regarding restraint and lack of restraint,\nThis was taught by the Guide to be the ethical discipline of restraint.",
+  "locked_terms": [
+   {
+    "tibetan": "བདག་གི་འདུ་ཤེས",
+    "use": "idea of a self"
+   },
+   {
+    "tibetan": "སེམས་ཅན་འདུ་ཤེས",
+    "use": "idea of living beings"
+   },
+   {
+    "tibetan": "འདོད་ཆགས",
+    "use": "wanting"
+   },
+   {
+    "tibetan": "སྡོམ་པ",
+    "use": "self-control"
+   },
+   {
+    "tibetan": "སྡོམ་མིན",
+    "use": "not holding back"
+   },
+   {
+    "tibetan": "རློམ་སེམས",
+    "use": "self-importance"
+   },
+   {
+    "tibetan": "རྣམ་པར་འདྲེན་པ",
+    "use": "Guide"
+   },
+   {
+    "tibetan": "ཚུལ་ཁྲིམས་སྡོམ་པ",
+    "use": "good conduct of self-control"
+   },
+   {
+    "tibetan": "སྡོམ་པ་མ་ཡིན",
+    "use": "lack of self-control"
+   },
+   {
+    "tibetan": "འདུ་ཤེས",
+    "use": "idea"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   }
+  ],
+  "translation": "Some have no idea of a self and no idea of living beings. Since they are free from any idea and free from wanting, how could they be not holding back? They have no self-importance about their self-control or their lack of self-control. The Guide taught that this is the good conduct of self-control."
+ },
+ {
+  "id": "5-101",
+  "tibetan": "སེམས་ཅན་དག་པ་གང་ཞིག་དེ་ལྟར་ཁྲིམས་ལྡན་པ། ། སྡུག་དང་མི་སྡུག་ཀུན་ལ་ལྟ་བ་མེད་པ་ཡིན། ། མགོ་དང་རྐང་ལག་གཏོང་ཞིང་ཞུམ་པའི་སེམས་ཀྱང་མེད། ། བདོག་པ་ཐམས་ཅད་གཏོང་ཞིང་རྟག་ཏུ་ཞེན་པ་མེད། །",
+  "academic_translation": "Any pure sentient being who thus possesses ethical discipline\nHas no fixating regard for anything pleasant or unpleasant;\nGiving away their head, hands, and feet, they do not even have a discouraged mind,\nAnd giving away all their possessions, they are always free from attachment.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   },
+   {
+    "tibetan": "ཁྲིམས",
+    "use": "good conduct"
+   },
+   {
+    "tibetan": "ཁྲིམས་ལྡན",
+    "use": "one with good conduct"
+   },
+   {
+    "tibetan": "ཞེན་པ",
+    "use": "holding on"
+   }
+  ],
+  "translation": "Any pure living being who is one with good conduct does not focus on anything pleasant or unpleasant. Giving away their head, hands, and feet, they do not have a discouraged mind. Giving away everything they own, they are always free from holding on."
+ },
+ {
+  "id": "5-102",
+  "tibetan": "ཆོས་རྣམས་རང་བཞིན་བདག་མེད་ཡ་མ་བརླར་ཤེས་ནས། ། བདག་གི་ཤ་ཡང་གཏོད་ཞིང་ཞུམ་པའི་སེམས་མེད་ན། ། དེ་ཚེ་ཕྱི་རོལ་དངོས་པོ་གཏོང་བ་སྨོས་ཅི་དགོས། ། གལ་ཏེ་སེར་སྣ་བྱེད་པ་དེ་ནི་གནས་མེད་དོ། །",
+  "academic_translation": "Knowing that phenomena are by nature selflessness and insubstantial,\nIf they give away even their own flesh without a discouraged mind,\nAt that time, what need is there to mention giving away external objects?\nFor them to act with miserliness is impossible.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "things"
+   },
+   {
+    "tibetan": "བདག་མེད",
+    "use": "no self"
+   },
+   {
+    "tibetan": "སེར་སྣ",
+    "use": "stinginess"
+   },
+   {
+    "tibetan": "རང་བཞིན",
+    "use": "nature"
+   },
+   {
+    "tibetan": "ཞུམ་པའི་སེམས",
+    "use": "discouraged mind"
+   }
+  ],
+  "translation": "They know that things have a nature of no self and are not solid. If they give away even their own flesh without a discouraged mind, why even mention giving away outer objects? It is impossible for them to act with stinginess."
+ },
+ {
+  "id": "5-103",
+  "tibetan": "བདག་ཏུ་འདུ་ཤེས་དངོས་ལ་བདག་གིར་འཛིན་པས་ཆག། ། བླུན་པོ་རྣམས་ལ་གཏོང་བའི་བློ་ལྟ་ག་ལ་ཡོད། ། སེར་སྣ་ཅན་ནི་ཡི་དགས་གནས་སུ་སྐྱེ་བར་འགྱུར། ། ཅི་སྟེ་མིར་སྐྱེས་ན་ཡང་དེ་ཚེ་དབུལ་པོར་འགྱུར། །",
+  "academic_translation": "With a perception of a self, they are attached to things through grasping at things as mine;\nHow could fools have the intention to give?\nMiserly ones will be born in the realm of hungry ghosts,\nAnd even if they are born as humans, they will then be impoverished.",
+  "locked_terms": [
+   {
+    "tibetan": "བདག་ཏུ་འདུ་ཤེས",
+    "use": "idea of a self"
+   },
+   {
+    "tibetan": "ཡི་དགས",
+    "use": "hungry ghost"
+   },
+   {
+    "tibetan": "ཡི་དགས་གནས",
+    "use": "realm of hungry ghosts"
+   },
+   {
+    "tibetan": "སེར་སྣ་ཅན",
+    "use": "stingy one"
+   },
+   {
+    "tibetan": "བདག་གིར་འཛིན་པ",
+    "use": "thinking of things as mine"
+   },
+   {
+    "tibetan": "མི",
+    "use": "human"
+   }
+  ],
+  "translation": "With an idea of a self, fools get attached by thinking of things as mine. How could they ever want to give? A stingy one will be born in the realm of hungry ghosts. Even if they are born as a human, they will be very poor."
+ },
+ {
+  "id": "5-104",
+  "tibetan": "དེ་ཚེ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་ཅན་དབུལ་ཤེས་ནས། ། གཏོང་ལ་མོས་པར་འགྱུར་ཞིང་རྟག་ཏུ་ལྷུག་བར་གཏོང་། ། གླིང་བཞི་ལེགས་པར་བརྒྱན་པ་མཆིལ་མའི་ཐལ་བ་འདྲ། ། བྱིན་ནས་དགའ་བར་འགྱུར་གྱི་གླིང་ཐེབ་དེ་ལྟ་མིན། །",
+  "academic_translation": "At that time, the bodhisattva, knowing sentient beings to be impoverished,\nBecomes intent on giving and always gives freely.\nThe four continents, beautifully adorned, are like a glob of spit;\nHaving given them away they become joyful, whereas attaining the continents is not like that.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   },
+   {
+    "tibetan": "གླིང་བཞི",
+    "use": "four continents"
+   }
+  ],
+  "translation": "At that time, the awakening hero knows that living beings are poor. They focus on giving and always give freely. To them, the beautiful four continents are just like a blob of spit. They feel joyful when giving them away, but getting the continents would never bring such joy."
+ },
+ {
+  "id": "5-105",
+  "tibetan": "བྱང་ཆུབ་སེམས་དཔའ་མཁས་པ་གསལ་བ་སྲིད་གསུམ་གྱི། ། སེམས་ཅན་ཇི་སྙེད་དེ་དག་ཀུན་ལ་སྦྱིན་པ་འདི། ། བྱིན་པར་གྱུར་ཅིག་སྙམ་དུ་བསམས་ནས་སྦྱིན་བྱིན་ལ། ། དེ་ཡང་འགྲོ་བའི་དོན་ཕྱིར་བྱང་ཆུབ་མཆོག་ཏུ་བསྔོ། །",
+  "academic_translation": "The wise and brilliant bodhisattva,\nTo all those sentient beings, however many there are in the three realms of existence,\nThinking, \"May this generosity be given!\" practises generosity, and\nDedicates that too to supreme awakening for the sake of beings.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "སྲིད་གསུམ",
+    "use": "three realms of existence"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   },
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "generosity"
+   },
+   {
+    "tibetan": "བསྔོ",
+    "use": "dedicate"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་མཆོག",
+    "use": "highest awakening"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "beings"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   }
+  ],
+  "translation": "The wise and bright awakening hero thinks of all the living beings in the three realms of existence. They practice generosity, thinking, \"May this generosity be given!\" They dedicate this to highest awakening for the sake of all beings."
+ },
+ {
+  "id": "5-106",
+  "tibetan": "སྦྱིན་པ་བྱིན་ནས་དངོས་ལ་གནས་པར་བྱེད་པ་མེད། ། དེ་ནི་ནམ་དུའང་རྣམ་པར་སྨིན་ལ་རེ་བ་མེད། ། དེ་ལྟར་གཏོང་ལ་མཁས་པ་ཐམས་ཅད་གཏོང་བ་སྟེ། ། ཆུང་ངུ་བཏང་ལ་མང་པོ་དཔག་ཏུ་མེད་པར་འགྱུར། །",
+  "academic_translation": "Having given generosity, they do not dwell on entities;\nThey never have any hope for a ripening result;\nBeing thus skilled in giving, they give away everything,\nAnd having given a little, it becomes much and immeasurable.",
+  "locked_terms": [
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "generosity"
+   },
+   {
+    "tibetan": "རྣམ་པར་སྨིན",
+    "use": "result that ripens"
+   }
+  ],
+  "translation": "After they practice generosity, they do not hold onto things. They never hope for a result that ripens. Because they are so skilled at giving, they give away everything. When they give just a little, it becomes huge and cannot be measured."
+ },
+ {
+  "id": "5-107",
+  "tibetan": "སྲིད་པ་གསུམ་ན་སེམས་ཅན་མ་ལུས་ཇི་སྙེད་པ། ། ཡོངས་སུ་བརྟག་པ་བཟུང་སྟེ་དེ་དག་ཐམས་ཅད་ཀྱིས། ། འཇིག་རྟེན་མཁྱེན་པ་སངས་རྒྱས་དགྲ་བཅོམ་རང་རྒྱལ་ལ། ། བསྐལ་བ་མཐའ་ཡས་སྦྱིན་བྱིན་ཉན་ཐོས་ལེགས་ཚོལ་ན། །",
+  "academic_translation": "However many sentient beings there are without exception in the three states of existence,\nTaking them as the utmost extent of what can be conceived, if all of them\nTo the Knowers of the World, the Buddhas, arhats, and pratyekabuddhas,\nGive gifts for infinite eons and properly seek to be a śrāvaka—",
+  "locked_terms": [
+   {
+    "tibetan": "སྲིད་པ་གསུམ",
+    "use": "three kinds of life"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན་མཁྱེན་པ",
+    "use": "Knower of the World"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "དགྲ་བཅོམ",
+    "use": "worthy one"
+   },
+   {
+    "tibetan": "རང་རྒྱལ",
+    "use": "solitary Buddha"
+   },
+   {
+    "tibetan": "ཉན་ཐོས",
+    "use": "listener"
+   },
+   {
+    "tibetan": "བསྐལ་བ",
+    "use": "age"
+   }
+  ],
+  "translation": "Imagine all the living beings in the three kinds of life. What if every single one of them gave gifts to a Knower of the World? Imagine they gave gifts to the Buddhas, the worthy ones, and the solitary Buddhas. Imagine they did this for endless ages while trying to become a listener."
+ },
+ {
+  "id": "5-108",
+  "tibetan": "བྱང་ཆུབ་སེམས་དཔའ་མཁས་པ་ཐབས་མཁས་གང་ཞིག་གིས། ། དེ་དག་བསོད་ནམས་བྱ་བའི་དངོས་ལ་ཡི་རང་ནས། ། སེམས་ཅན་དོན་དུ་བྱང་ཆུབ་མཆོག་རབ་ཡོངས་བསྔོ་ན། ། ཡོངས་སུ་བསྔོས་པས་འགྲོ་བ་ཐམས་ཅད་ཟིལ་གྱིས་གནོན། །",
+  "academic_translation": "If any wise bodhisattva, skilled in means,\nRejoices in their basis of meritorious action\nAnd dedicates it to supreme awakening for the sake of sentient beings,\nBy dedicating it, they outshine all beings.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "ཐབས་མཁས",
+    "use": "skilled in clever ways"
+   },
+   {
+    "tibetan": "བསོད་ནམས་བྱ་བའི་དངོས",
+    "use": "good deed that stores up goodness"
+   },
+   {
+    "tibetan": "ཡི་རང",
+    "use": "rejoice"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་མཆོག་རབ",
+    "use": "highest awakening"
+   },
+   {
+    "tibetan": "ཡོངས་བསྔོ",
+    "use": "dedicate"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "stored-up goodness"
+   },
+   {
+    "tibetan": "ཡོངས་སུ་བསྔོས",
+    "use": "dedicate"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "beings"
+   }
+  ],
+  "translation": "If a wise awakening hero, skilled in clever ways, rejoices in a good deed that stores up goodness and dedicates this stored-up goodness to the highest awakening for the sake of living beings, they outshine all beings by dedicating it."
+ },
+ {
+  "id": "5-109",
+  "tibetan": "ནོར་བུ་མཆིང་བུའི་ཕུང་པོ་ཆེན་པོར་གྱུར་པ་ཡང་། ། རིན་ཆེན་བཻḍūརྱ་གཅིག་དེ་ཀུན་ཟིལ་གྱིས་གནོན། ། དེ་བཞིན་འགྲོ་ཀུན་སྦྱིན་པའི་ཕུང་པོ་རྒྱ་ཆེན་ཀུན། ། རྗེས་སུ་ཡི་རང་བྱང་ཆུབ་སེམས་དཔས་ཟིལ་གྱིས་གནོན། །",
+  "academic_translation": "Even a great heap of glass jewels\nIs completely outshone by a single precious lapis lazuli;\nLikewise, all the vast aggregates of generosity of all beings\nAre outshone by the rejoicing bodhisattva.",
+  "locked_terms": [
+   {
+    "tibetan": "སྦྱིན་པའི་ཕུང་པོ",
+    "use": "heap of generosity"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "ཡི་རང",
+    "use": "rejoice"
+   },
+   {
+    "tibetan": "རྗེས་སུ་ཡི་རང",
+    "use": "rejoice"
+   },
+   {
+    "tibetan": "བཻḍūརྱ",
+    "use": "lapis lazuli"
+   }
+  ],
+  "translation": "Think of a huge pile of glass jewels. It is completely outshone by a single precious lapis lazuli. It is the same with the huge heap of generosity from all those beings. It is totally outshone by a single awakening hero who chooses to rejoice."
+ },
+ {
+  "id": "5-110",
+  "tibetan": "གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔས་འགྲོ་ལ་སྦྱིན་བྱིན་ནས། ། དེ་ལ་བདག་གིར་མི་བྱེད་དངོས་པོ་ཕངས་མེད་ན། ། དེ་ལས་དགེ་བའི་རྩ་བ་མཐུ་ཆེན་འཕེལ་འགྱུར་ཏེ། ། སྤྲིན་མེད་འོད་ལྡན་ཟླ་དཀྱིལ་ཡར་གྱི་ངོ་བཞིན་ནོ། །",
+  "academic_translation": "If a bodhisattva, having given gifts to beings,\nDoes not claim the merit of it as \"mine\" and is unsparing of the entity,\nFrom that, their root of virtue will increase with great power,\nLike the radiant, cloudless moon disk during the waxing fortnight.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "དགེ་བའི་རྩ་བ",
+    "use": "root of goodness"
+   },
+   {
+    "tibetan": "འགྲོ",
+    "use": "beings"
+   },
+   {
+    "tibetan": "དངོས་པོ",
+    "use": "object"
+   }
+  ],
+  "translation": "When an awakening hero gives gifts to beings, they do not say, \"This good deed is mine!\" They give away the object without holding back. Because of this, their root of goodness will grow with great power. It grows just like a bright, cloudless moon getting fuller in the night sky."
+ },
+ {
+  "id": "6-1",
+  "tibetan": "སྐབས་དྲུག་པ་མཐར་གྱིས་པ་བསྟན། ། བྱང་ཆུབ་སེམས་དཔའི་སྦྱིན་པས་ཡི་དགས་འགྲོ་བ་གཅོད། ། དབུལ་བ་དང་ནི་དེ་བཞིན་ཉོན་མོངས་ཐམས་ཅད་གཅོད། ། སྤྱོད་ཚེ་ལོངས་སྤྱོད་མཐའ་ཡས་རྒྱས་པ་ཐོབ་པར་འགྱུར། ། སྦྱིན་པས་སྡུག་བསྔལ་གྱུར་པའི་སེམས་ཅན་ཡོངས་སྨིན་བྱེད། །",
+  "academic_translation": "Sixth topic: teaching the gradual path.\nThrough the bodhisattva's generosity, the destiny of hungry ghosts is cut off;\nPoverty and likewise all afflictions are cut off;\nWhile practicing, one will obtain infinite, abundant resources;\nThrough generosity, one fully ripens sentient beings who are suffering.",
+  "locked_terms": [
+   {
+    "tibetan": "མཐར་གྱིས་པ",
+    "use": "step-by-step path"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "generosity"
+   },
+   {
+    "tibetan": "ཡི་དགས་འགྲོ་བ",
+    "use": "life as a hungry ghost"
+   },
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "mental trouble"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   },
+   {
+    "tibetan": "ཡོངས་སྨིན་བྱེད",
+    "use": "help to fully mature"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "This is the sixth topic: teaching the step-by-step path. An awakening hero's generosity stops them from having a life as a hungry ghost. It ends poverty and all mental trouble. While practicing, they gain endless wealth. Through generosity, they help to fully mature living beings who face suffering."
+ },
+ {
+  "id": "6-2",
+  "tibetan": "ཁྲིམས་ཀྱིས་དུད་འགྲོའི་འགྲོ་བ་དུ་མའི་ངོ་བོ་དང་། ། མི་ཁོམ་བརྒྱད་སྤོང་དེ་ཡིས་དལ་བ་རྟག་ཏུ་རྙེད། ། བཟོད་པས་གཟུགས་བཟང་དམ་པ་རྒྱ་ཆེན་ཐོབ་འགྱུར་ཏེ། ། གསེར་མདོག་སྡུག་ཅིང་འགྲོ་བས་ལྟ་བའི་འོས་སུ་འགྱུར། །",
+  "academic_translation": "Through ethical discipline, one abandons the manifold forms of animal existence\nAnd the eight unfree states, and thereby one always finds leisure;\nThrough patience, one will obtain a fine, supreme, and vast form;\nGolden-colored and beautiful, one becomes worthy to be beheld by beings.",
+  "locked_terms": [
+   {
+    "tibetan": "ཁྲིམས",
+    "use": "good conduct"
+   },
+   {
+    "tibetan": "དུད་འགྲོའི་འགྲོ་བ",
+    "use": "life as an animal"
+   },
+   {
+    "tibetan": "མི་ཁོམ་བརྒྱད",
+    "use": "eight unfree states"
+   },
+   {
+    "tibetan": "དལ་བ",
+    "use": "freedom to practice"
+   },
+   {
+    "tibetan": "བཟོད་པ",
+    "use": "patience"
+   }
+  ],
+  "translation": "Through good conduct, they avoid a life as an animal. They leave behind the eight unfree states. Then they always find the freedom to practice. Through patience, they gain a great and beautiful body. They become golden and lovely, and others are happy to see them."
+ },
+ {
+  "id": "6-3",
+  "tibetan": "བརྩོན་འགྲུས་ཀྱིས་ནི་དཀར་པོའི་ཡོན་ཏན་འགྲིབ་མི་འགྱུར། ། ཡེ་ཤེས་མཐའ་ཡས་རྒྱལ་བའི་བང་མཛོད་རྙེད་པར་འགྱུར། ། བསམ་གཏན་གྱིས་ནི་འདོད་པའི་ཡོན་ཏན་སྨད་པ་ང་དོར། ། རིག་དང་མངོན་པར་ཤེས་དང་ཏིང་འཛིན་མངོན་པར་སྒྲུབ། །",
+  "academic_translation": "Through diligence, virtuous qualities will not decline,\nAnd one will find the treasury of the Victors, infinite primordial wisdom;\nThrough meditative concentration, one abandons the despised qualities of desire,\nAnd fully accomplishes knowledge, superknowledges, and samādhi.",
+  "locked_terms": [
+   {
+    "tibetan": "བརྩོན་འགྲུས",
+    "use": "steady effort"
+   },
+   {
+    "tibetan": "དཀར་པོའི་ཡོན་ཏན",
+    "use": "quality of goodness"
+   },
+   {
+    "tibetan": "ཡེ་ཤེས",
+    "use": "deep knowing"
+   },
+   {
+    "tibetan": "རྒྱལ་བའི་བང་མཛོད",
+    "use": "treasury of the Victorious Ones"
+   },
+   {
+    "tibetan": "རྒྱལ་བ",
+    "use": "Victorious One"
+   },
+   {
+    "tibetan": "བསམ་གཏན",
+    "use": "deep focus"
+   },
+   {
+    "tibetan": "རིག",
+    "use": "knowledge"
+   },
+   {
+    "tibetan": "མངོན་པར་ཤེས",
+    "use": "special knowing"
+   },
+   {
+    "tibetan": "ཏིང་འཛིན",
+    "use": "deep calm"
+   }
+  ],
+  "translation": "Through steady effort, every quality of goodness stays strong. They find the treasury of the Victorious Ones, which is endless deep knowing. Through deep focus, they leave behind all bad desires. They completely gain knowledge, special knowing, and deep calm."
+ },
+ {
+  "id": "6-4",
+  "tibetan": "ཤེས་རབ་ཀྱིས་ནི་ཆོས་ཀྱི་རང་བཞིན་ཡོངས་ཤེས་ནས། ། ཁམས་གསུམ་མ་ལུས་པ་ལས་ཡང་དག་འདའ་བར་འགྱུར། ། མི་ཡི་ཁྱུ་མཆོག་འཁོར་ལོ་རིན་ཆེན་བསྐོར་བྱས་ནས། ། སྡུག་བསྔལ་ཟད་པར་བྱ་ཕྱིར་འགྲོ་ལ་ཆོས་ཀྱང་སྟོན། །",
+  "academic_translation": "Through wisdom, having fully known the nature of phenomena,\nOne will completely transcend the three realms without exception;\nAs the Supreme Leader of Humans, having turned the precious wheel,\nOne teaches the Dharma to beings in order to exhaust suffering.",
+  "locked_terms": [
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   },
+   {
+    "tibetan": "ཆོས་ཀྱི་རང་བཞིན",
+    "use": "nature of things"
+   },
+   {
+    "tibetan": "ཁམས་གསུམ",
+    "use": "three realms"
+   },
+   {
+    "tibetan": "མི་ཡི་ཁྱུ་མཆོག",
+    "use": "Supreme Leader of People"
+   },
+   {
+    "tibetan": "འཁོར་ལོ་རིན་ཆེན",
+    "use": "precious wheel"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teaching"
+   },
+   {
+    "tibetan": "འགྲོ",
+    "use": "beings"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "Through wisdom, they fully know the nature of things. They completely go beyond all three realms. As the Supreme Leader of People, they turn the precious wheel. They give the teaching to beings to end their suffering."
+ },
+ {
+  "id": "7-1",
+  "tibetan": "སྐབས་བདུན་པ་སྐད་ཅིག་མ་གཅིག་ལ་མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་པར་བསྟན། ། ཆོས་འདི་ཡོངས་རྫོགས་བྱས་ནས་བྱང་ཆུབ་སེམས་དཔའ་དེ། །",
+  "academic_translation": "Chapter seven: teaching complete awakening in a single instant.\nHaving completely perfected these phenomena, that bodhisattva",
+  "locked_terms": [
+   {
+    "tibetan": "སྐད་ཅིག་མ་གཅིག",
+    "use": "one moment"
+   },
+   {
+    "tibetan": "མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་པ",
+    "use": "full awakening"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "things"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   }
+  ],
+  "translation": "Chapter seven teaches full awakening in one moment. That awakening hero has made all these things completely perfect."
+ },
+ {
+  "id": "8-1",
+  "tibetan": "སྐབས་བརྒྱད་པ་ཆོས་ཀྱི་སྐུ་བསྟན། ། ཡོངས་དག་ཞིང་དང་སེམས་ཅན་དག་པ་ཡོངས་སུ་འཛིན། ། སངས་རྒྱས་རྒྱུད་དང་ཆོས་ཀྱི་རྒྱུད་ཀྱང་ཡོངས་སུ་འཛིན། ། དེ་བཞིན་དགེ་འདུན་རྒྱུད་དང་ཆོས་ཀུན་ཡོངས་སུ་འཛིན། །",
+  "academic_translation": "Chapter eight: teaching the Dharmakāya.\nFully upholds a perfectly pure field and pure sentient beings,\nFully upholds the Buddha lineage and also the Dharma lineage,\nLikewise, fully upholds the lineage of the Sangha and all phenomena.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས་ཀྱི་སྐུ",
+    "use": "teaching body"
+   },
+   {
+    "tibetan": "ཡོངས་དག་ཞིང",
+    "use": "perfectly pure land"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   },
+   {
+    "tibetan": "སངས་རྒྱས་རྒྱུད",
+    "use": "line of Buddhas"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "ཆོས་ཀྱི་རྒྱུད",
+    "use": "line of the teaching"
+   },
+   {
+    "tibetan": "དགེ་འདུན་རྒྱུད",
+    "use": "lineage of the community"
+   },
+   {
+    "tibetan": "དགེ་འདུན",
+    "use": "the community"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "things"
+   }
+  ],
+  "translation": "Chapter eight teaches the teaching body. The hero fully holds a perfectly pure land and pure living beings. They fully hold the line of Buddhas and the line of the teaching. They also fully hold the lineage of the community and all things."
+ },
+ {
+  "id": "8-2",
+  "tibetan": "འགྲོ་བའི་ནད་གསོ་མཛད་པ་སྨན་པའི་མཆོག་གྱུར་པས། ། ཤེས་རབ་བསྟན་པ་བྱང་ཆུབ་ལམ་ལྡན་འདི་གསུངས་ཏེ། ། མིང་ནི་ཡོན་ཏན་རིན་ཆེན་སྡུད་པ་བྱང་ཆུབ་ལམ། ། ལམ་འདི་སེམས་ཅན་ཀུན་གྱིས་ཐོབ་པར་བྱ་ཕྱིར་བཤད། །",
+  "academic_translation": "The supreme physician who heals the diseases of wandering beings\nSpoke this teaching on wisdom, endowed with the path to awakening;\nIts name is the Collection of Precious Qualities, the path to awakening,\nAnd this path was explained so that all sentient beings may attain it.",
+  "locked_terms": [
+   {
+    "tibetan": "སྨན་པའི་མཆོག",
+    "use": "Best Healer"
+   },
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་ལམ",
+    "use": "path to awakening"
+   },
+   {
+    "tibetan": "ཡོན་ཏན་རིན་ཆེན་སྡུད་པ",
+    "use": "Collection of Precious Qualities"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living beings"
+   }
+  ],
+  "translation": "The Best Healer cures the sickness of wandering beings. He spoke this teaching on wisdom, which includes the path to awakening. Its name is the Collection of Precious Qualities. This path was explained so that all living beings might reach it."
+ },
+ {
+  "id": "8-3",
+  "tibetan": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྡུད་པ་ཚིགས་སུ་བཅད་པ་རྫོགས་ཤོག། ༎",
+  "academic_translation": "The Noble Verse Summary of the Perfection of Wisdom is complete.",
+  "locked_terms": [
+   {
+    "tibetan": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྡུད་པ་ཚིགས་སུ་བཅད་པ",
+    "use": "Noble Verse Summary of Perfect Wisdom"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "perfect wisdom"
+   }
+  ],
+  "translation": "The Noble Verse Summary of Perfect Wisdom is complete."
+ },
+ {
+  "id": "8-4",
+  "tibetan": "རྒྱ་གར་གྱི་མཁན་པོ་བིདྷ་ཀ་ར་སིང་ཧ་དང་། ཞུ་ཆེན་གྱི་ལོཙཚ་བ་བན་དེ་དཔལ་བརྩེགས་ཀྱིས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།། ༎",
+  "academic_translation": "Translated, edited, and finalized by the Indian preceptor Vidyākarasiṃha and the chief editor-translator, the monk Paltsek.",
+  "locked_terms": [
+   {
+    "tibetan": "བིདྷ་ཀ་ར་སིང་ཧ",
+    "use": "Vidyakarasimha"
+   },
+   {
+    "tibetan": "དཔལ་བརྩེགས",
+    "use": "Paltsek"
+   }
+  ],
+  "translation": "It was translated, edited, and finished by the Indian teacher Vidyakarasimha and the chief translator, the monk Paltsek."
+ }
+]

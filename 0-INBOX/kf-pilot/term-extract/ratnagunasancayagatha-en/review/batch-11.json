@@ -1,0 +1,286 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "5-28",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-29",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྡུག་བསྔལ",
+      "reason": "Buddhist technical concept",
+      "dm": null,
+      "gm": "suffering"
+     }
+    ]
+   },
+   {
+    "id": "5-30",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-31",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-32",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-33",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-34",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-35",
+    "drop": [
+     {
+      "n": 4,
+      "reason": "Negated ordinary verb in this context"
+     },
+     {
+      "n": 5,
+      "reason": "Negated ordinary verb in this context"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-36",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-37",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-38",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-39",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-40",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-41",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རྗེས་སུ་ཡི་རང",
+      "reason": "Technical Buddhist practice (anumodanā)",
+      "dm": "rejoicing",
+      "gm": "rejoicing"
+     }
+    ]
+   },
+   {
+    "id": "5-42",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-43",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-44",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-45",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྒྱུ་མའི་སྐྱེས་བུ",
+      "reason": "Standard recurring simile/technical image",
+      "dm": "conjured person",
+      "gm": "illusory person"
+     }
+    ]
+   },
+   {
+    "id": "5-46",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-47",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-48",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-49",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Ordinary verb phrase with a particle"
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལྷ་ཚོགས",
+      "reason": "Common technical grouping",
+      "dm": "hosts of gods",
+      "gm": "hosts of gods"
+     }
+    ]
+   },
+   {
+    "id": "5-50",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-51",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-52",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-53",
+    "drop": [
+     {
+      "n": 5,
+      "reason": "Ordinary verb form (blesses)"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-54",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Negated ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-55",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "5-35",
+    "bo": "མི་དམིགས",
+    "reason": "Negated ordinary verb in this context"
+   },
+   {
+    "id": "5-35",
+    "bo": "མི་རྟོག་པ",
+    "reason": "Negated ordinary verb in this context"
+   },
+   {
+    "id": "5-49",
+    "bo": "ཕྱག་ཀྱང་འཚལ",
+    "reason": "Ordinary verb phrase with a particle"
+   },
+   {
+    "id": "5-53",
+    "bo": "བྱིན་གྱིས་རློབ",
+    "reason": "Ordinary verb form (blesses)"
+   },
+   {
+    "id": "5-54",
+    "bo": "དམིགས་མི་འགྱུར",
+    "reason": "Negated ordinary verb"
+   }
+  ],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "5-29",
+    "bo": "སྡུག་བསྔལ",
+    "dm": null,
+    "gm": "suffering",
+    "reason": "Buddhist technical concept"
+   },
+   {
+    "id": "5-41",
+    "bo": "རྗེས་སུ་ཡི་རང",
+    "dm": "rejoicing",
+    "gm": "rejoicing",
+    "reason": "Technical Buddhist practice (anumodanā)"
+   },
+   {
+    "id": "5-45",
+    "bo": "སྒྱུ་མའི་སྐྱེས་བུ",
+    "dm": "conjured person",
+    "gm": "illusory person",
+    "reason": "Standard recurring simile/technical image"
+   },
+   {
+    "id": "5-49",
+    "bo": "ལྷ་ཚོགས",
+    "dm": "hosts of gods",
+    "gm": "hosts of gods",
+    "reason": "Common technical grouping"
+   }
+  ]
+ }
+}

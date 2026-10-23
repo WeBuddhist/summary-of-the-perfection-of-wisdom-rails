@@ -1,0 +1,145 @@
+{
+ "batch": "batch-13",
+ "segments": [
+  {
+   "id": "5-52",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "विशुद्ध आशय से इसे सिद्ध करने में निरन्तर यत्नशील होता है",
+     "evidence": "Tibetan \"བསམ་པ་ཐག་པས་བསྒྲུབ་པར་མངོན་པར་བརྩོན་བྱེད་ན\" says: strives to accomplish it with firm/sincere intent (Rangjung 5-52: \"འདུན་པའི་བསམ་པ་ཐག་པའི་སྒོ་ནས་བསྒྲུབ་པར་བྱེད་པ་ལ་མངོན་པར་བརྩོན་པར་བྱེད\"). \"ཐག་པ\" is firmness/sincerity, not \"purity\" (विशुद्ध), and nothing in the Tibetan corresponds to \"निरन्तर\" (continuously).",
+     "fix": "सुदृढ़ आशय से इसे सिद्ध करने के लिए उद्यम करता है"
+    }
+   ]
+  },
+  {
+   "id": "5-53",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "तो मन्त्र-बल से अकाल-पुष्पों से युक्त कर वह अधिष्ठित करता है",
+     "evidence": "Tibetan \"སྔགས་མཐུས་དུས་མིན་མེ་ཏོག་ལྡན་ཞིང་བྱིན་གྱིས་རློབ\" has an implied object that is made to bear out-of-season flowers and is then empowered (Rangjung 5-53: \"ཤིང་སྐམ་པོ་བྱིན་གྱིས་རློབ་པར་བྱེད\"; Mipham 5-53: gardens, groves \"མེ་ཏོག་...དང་ལྡན་ཞིང་...བྱིན་གྱིས་རློབ\"). The Hindi \"युक्त कर ... अधिष्ठित करता है\" leaves the object of both verbs unstated, so it is hard to parse what is made flower-bearing and empowered.",
+     "fix": "तो मन्त्र-बल से (उस स्थान को) अकाल में पुष्पों से युक्त कर अधिष्ठित करता है"
+    }
+   ]
+  },
+  {
+   "id": "5-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-61",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "बुद्धपुत्रों, श्रावकों, प्रत्येकबुद्धों और देवों के, तथा जगत् के सभी प्राणियों के जितने भी सुख और आनन्द के धर्म हैं",
+     "evidence": "In the Tibetan \"སངས་རྒྱས་སྲས་དང་ཉན་ཐོས་རང་རྒྱལ་ལྷ་རྣམས་དང་། འགྲོ་བ་ཀུན་གྱི་བདེ་སྐྱིད་ཆོས་རྣམས་ཇི་སྙེད་པ། དེ་ཀུན་ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་མཆོག་ལས་བྱུང\" the buddha-sons, śrāvakas, pratyekabuddhas and gods are themselves items in the list of what arises from the perfection of wisdom, coordinated with (not owners of) the happiness-dharmas of all beings. Mipham 5-61 lists them as separate arisers and says \"ཤེར་ཕྱིན་ལས་སངས་རྒྱས་འབྱུང\"; Sanskrit has them as a nominative list (\"बुद्धसम श्रावकप्रत्ययाश् च मरुतश् च ... सुखसौख्यधर्माः\"). The Hindi genitive \"...के ... के ... धर्म\" makes the sons, śrāvakas etc. only possessors of happiness-dharmas, dropping the claim that they themselves arise from the perfection of wisdom.",
+     "fix": "बुद्धपुत्र, श्रावक, प्रत्येकबुद्ध और देव, तथा जगत् के सभी प्राणियों के सुख और आनन्द के जितने भी धर्म हैं,"
+    }
+   ]
+  },
+  {
+   "id": "5-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-63",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "ज्ञान के नयद्वार, उपाय और मूल जितने भी हैं",
+     "evidence": "Tibetan \"ཡེ་ཤེས་ཚུལ་སྒོ་ཐབས་དང་རྩ་བ་ཇི་སྙེད་པ\" lists wisdom (ཡེ་ཤེས) as its own item alongside approach/gateway, means and root; Mipham 5-63 distinguishes the buddha-wisdom (\"ཡེ་ཤེས\") from the path of meditation (\"ཚུལ\"), seeing path (\"སྒོ\"), preparation path (\"ཐབས\") and accumulation path (\"རྩ་བ\"). The Hindi genitive \"ज्ञान के नयद्वार\" fuses ज्ञान into a modifier of नयद्वार, so ज्ञान is no longer a separate item (English academic lists them separately).",
+     "fix": "ज्ञान, नयद्वार, उपाय और मूल जितने भी हैं"
+    }
+   ]
+  },
+  {
+   "id": "5-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-69",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "मूर्खों के बाल-गुणों में",
+     "evidence": "Tibetan \"བྱིས་པའི་ཆོས་མི་གནས\" is a single locked unit (བྱིས་པའི་ཆོས = बाल-गुण). The translation stacks the separate locked rendering of བྱིས་པ (\"मूर्ख\") on top, giving a redundant \"मूर्खों के बाल-गुणों\" (\"the child-qualities of fools\"); the Tibetan says only the qualities/dharmas of the childish (Mipham 5-69: \"བྱིས་པའི་ཆོས་ལ་མི་གནས\").",
+     "fix": "बाल-गुणों में स्थित नहीं होते"
+    }
+   ]
+  },
+  {
+   "id": "5-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-71",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

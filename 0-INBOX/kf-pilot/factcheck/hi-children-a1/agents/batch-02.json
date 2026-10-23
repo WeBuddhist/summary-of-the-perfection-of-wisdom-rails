@@ -1,0 +1,254 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "1-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-27",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "एक जैसापन में टिका हुआ",
+     "evidence": "Grammatically awkward: the abstract locked term is used with 'में' without an inflected form.",
+     "fix": "उसे प्रज्ञा वाला और एक जैसेपन में टिका हुआ समझना चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "1-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "यही प्रज्ञा की सच्ची पूर्णता है",
+     "evidence": "The verse ends with a single statement 'this is the supreme practice of the Perfection of Wisdom'; the second clause splits the term and repeats the point as if a separate claim.",
+     "fix": "यह सबसे श्रेष्ठ पूर्ण प्रज्ञा का आचरण है।"
+    }
+   ]
+  },
+  {
+   "id": "2-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "ही सबसे सही है",
+     "evidence": "The text says this non-abiding abiding is what the Victor called 'abiding'; it does not call it 'the most correct'.",
+     "fix": "इस तरह बिना ठहरे ठहरना ही असली ठहरना है।"
+    }
+   ]
+  },
+  {
+   "id": "2-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "कुछ अकेला बुद्ध या शिक्षा का राजा बनना चाहते हैं",
+     "evidence": "Subject and object are unclear: 'कुछ' reads as an adjective of 'अकेला बुद्ध'; the text says some wish to become a solitary buddha and likewise a king of the teaching.",
+     "fix": "कुछ लोग अकेला बुद्ध या शिक्षा का राजा बनना चाहते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "2-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-7",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "पूज्य साधक का स्तर नहीं सीखते",
+     "evidence": "The text says the bodhisattva does not train IN (aiming at) the arhat level or the solitary-buddha level; 'does not learn the level' is imprecise, and the plural verb does not match the singular subject.",
+     "fix": "इस तरह चलने वाला समझदार बोधि-वीर पूज्य साधक के स्तर में नहीं सीखता, अकेले बुद्ध के स्तर में भी नहीं।"
+    }
+   ]
+  },
+  {
+   "id": "2-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-12",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "नए जीव कैसे पैदा होंगे",
+     "evidence": "The text asks how beings could arise at all, since they are pure from the beginning (no arising of beings). 'New beings' wrongly implies beings exist and only new ones fail to be born.",
+     "fix": "फिर भी जीव कैसे पैदा होंगे? वे तो शुरू से ही शुद्ध हैं।"
+    },
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "यही सच्ची पूर्णता है",
+     "evidence": "The verse ends with a single statement 'this is the supreme practice of the Perfection of Wisdom'; the extra sentence repeats it as a separate claim.",
+     "fix": "यह पूर्ण प्रज्ञा का सबसे उत्तम अभ्यास है।"
+    }
+   ]
+  },
+  {
+   "id": "2-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "करोड़ों भूमियों",
+     "evidence": "The text says 'ten-millions of thousands' (koti-sahasra) of fields, as many as the sand of the Ganges; the 'thousand' is lost.",
+     "fix": "गङ्गा की रेत जितनी करोड़ों-हज़ारों भूमियों को भर दे।"
+    }
+   ]
+  },
+  {
+   "id": "2-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "वे यह पूजा बीता हुआ, आज का और आने वाला समय, या एक युग से भी ज़्यादा समय तक करते रहें",
+     "evidence": "The three times (past, present, future) are inserted as if they were durations, making the sentence confusing; the text says they make offerings at the three times, for a whole eon or even longer.",
+     "fix": "वे बीते हुए, आज के और आने वाले समय में एक युग तक, या उससे भी ज़्यादा समय तक पूजा करते रहें।"
+    }
+   ]
+  },
+  {
+   "id": "2-17",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "उसे बहुत फल मिलता है",
+     "evidence": "The text does not say the person receives 'much fruit'; it only says the merit of stupa-worship is not even a fraction of the merit of honouring this book. 'फल' is also the locked term for the result of the path, not for merit.",
+     "fix": "जो कोई भली-भाँति गए हुओं की माँ को किताब में लिखकर पास रखता है और फूल चढ़ाकर आदर करता है, उसकी जमा की हुई अच्छाई के एक छोटे हिस्से के बराबर भी पवित्र स्मारक की पूजा की अच्छाई नहीं है।"
+    }
+   ]
+  },
+  {
+   "id": "2-18",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "जीवों का क्षेत्र शांत करती है और जीवों के दुख को मिटाती है",
+     "evidence": "The text says it pacifies the sorrow and suffering of the many realms of beings; the children's text makes the realm itself what is calmed and drops sorrow.",
+     "fix": "यह जीवों के कई क्षेत्रों के शोक और दुख को शांत करती है।"
+    },
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "वे सबसे महान डॉक्टर बने, और वे इलाज करने वालों का राजा बन गए",
+     "evidence": "The single phrase 'unsurpassed king of physicians' is rendered twice, as if two separate achievements.",
+     "fix": "जानने के शब्द सीखकर वे इलाज करने वालों के सबसे महान राजा बन गए।"
+    }
+   ]
+  },
+  {
+   "id": "2-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-23",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "मैं शरीर का अवशेष का आदर नहीं करता",
+     "evidence": "Ungrammatical, and the singular does not match the plural verb later ('होते हैं').",
+     "fix": "ऐसा नहीं है कि मैं शरीर के अवशेषों का आदर नहीं करता।"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "क्योंकि वे प्रज्ञा से जुड़े होते हैं",
+     "evidence": "The text says they are honoured because prajna has been fully cultivated (meditated on); 'connected with prajna' loses this.",
+     "fix": "बल्कि प्रज्ञा को पूरी तरह अपनाने के कारण ही उनकी पूजा की जाती है।"
+    }
+   ]
+  },
+  {
+   "id": "2-24",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

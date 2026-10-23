@@ -1,0 +1,225 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "5-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "其實他一直處在混亂之中",
+     "evidence": "Academic text says he dwells in 'mixing' (混雜, i.e. mingling with company), not in 'confusion/chaos'.",
+     "fix": "其實他一直跟別人混在一起，沒有真正獨處。"
+    }
+   ]
+  },
+  {
+   "id": "5-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-13",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "他們會順著道理來教導我們",
+     "evidence": "Academic text says they are those who teach/guide in accordance (隨順開示者); 'following reason' is not stated.",
+     "fix": "他們會一步一步指導我們。"
+    }
+   ]
+  },
+  {
+   "id": "5-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "這個圓滿就是他們的明亮",
+     "evidence": "Academic text: the pāramitā is the light, lamp, radiance and supreme teacher of those who enter supreme awakening; 'their brightness' is awkward for children.",
+     "fix": "對走向最高的覺悟的人來說，這個圓滿是明亮，是燈，是光亮，也是最棒的老師。"
+    }
+   ]
+  },
+  {
+   "id": "5-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "不明智的人卻靠著自己，就像在天空中打結一樣",
+     "evidence": "Academic text: the foolish by themselves tie knots in empty space (a futile act); 'rely on themselves' is unclear and the image is unexplained.",
+     "fix": "不明智的人卻自己在天空中打結，這根本是白費力氣。"
+    }
+   ]
+  },
+  {
+   "id": "5-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-21",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Academic text says they 'always' (恆常) make meaningful use of the alms food of the land (國土之施食); 'always' and 'country/land' are dropped.",
+     "fix": "他們一直都能吃各地人們施捨的食物，這些食物吃得很有意義。"
+    }
+   ]
+  },
+  {
+   "id": "5-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "所以日夜不停，努力學習圓滿的智慧",
+     "evidence": "Academic text gives an instruction: the bodhisattva should (應當) strive day and night in the perfection of wisdom; the children's text states it as a plain fact.",
+     "fix": "所以菩薩應該日夜不停，努力學習圓滿的智慧。"
+    }
+   ]
+  },
+  {
+   "id": "5-23",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "以前沒看過最高的寶物",
+     "evidence": "Academic text: had not previously obtained (未得) the supreme jewel, not merely 'not seen' it.",
+     "fix": "以前從來沒有得到過最高的寶物"
+    }
+   ]
+  },
+  {
+   "id": "5-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-25",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "螢火蟲和小生物發出的微光",
+     "evidence": "Academic text: all fireflies and all living creatures are eclipsed; 'all' is lost and 'small creatures that give faint light' is an addition.",
+     "fix": "會蓋過所有螢火蟲和生靈，還有滿天星星和月亮的光芒。"
+    }
+   ]
+  },
+  {
+   "id": "5-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "深重錯誤的看法",
+     "evidence": "Academic text says 'dense views' (濃密之見); 'wrong' is not stated.",
+     "fix": "打破了濃濃的看法"
+    }
+   ]
+  },
+  {
+   "id": "5-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-28",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "大家一定更開心！",
+     "evidence": "Academic text: the bodhisattva already works to benefit many beings; how much more once established as Dharma king. The comparison concerns benefit, not happiness.",
+     "fix": "當菩薩成為佛法的國王時，能幫助的眾生就更多了，更不用說了！"
+    }
+   ]
+  },
+  {
+   "id": "5-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-35",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "1-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-10",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "\"I have arisen.\"",
+     "evidence": "Tibetan \"བདག་ནི་མཉམ་པར་བཞག་ཅེའམ་ལངས་\" (Skt vyutthita): \"ལངས\" means rising up out of equipoise; bo-mipham 1-10 glosses it \"དེ་ལས་ལངས་སོ\" (I have risen from it). \"I have arisen\" can be read as \"I have come into being\".",
+     "fix": "\"I am in meditative equipoise,\" or \"I have risen from it.\""
+    }
+   ]
+  },
+  {
+   "id": "1-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "conjures an emanation at a crossroads, / And cuts off the tens of millions of heads of a large crowd of people",
+     "evidence": "Tibetan \"བཞི་མདོར་སྤྲུལ་བྱས་ཏེ། སྐྱེ་བོ་ཕལ་ཆེན་མགོ་མང་...གཅོད་\" and Skt nirmiṇitvā...mahato janasya: the large crowd that is beheaded is itself the conjured emanation. bo-rangjung 1-18: \"སྐྱེ་བོའི་ཚོགས་ཆེན་པོ་སྤྲུལ་པར་བྱས་ཏེ\" (conjures a great crowd of people). The English singular \"an emanation\" and a separate \"large crowd of people\" lets the victims be read as real people, which blurs the point of the analogy (\"those to be killed\" are illusions).",
+     "fix": "conjures a large crowd of people as emanations at a crossroads, / And cuts off the many millions of heads of that crowd"
+    }
+   ]
+  },
+  {
+   "id": "1-21",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "[Mipham, Khenrab and the Sanskrit read: a fire that has gone out]",
+     "evidence": "The Tibetan root reads \"དཔེར་ན་མི་ཤི་\" (a dead person), which the English already renders. The bracketed variant-reading note is not in the Tibetan and sits inside the verse text (bo-mipham and bo-khenrab 1-21 read \"མེ་ཤི\"; bo-rangjung reads \"མི་ཤི\"); it is a philological note, not part of the translation.",
+     "fix": "Remove the bracket from the verse line and move it to a note: \"For example, just as a dead person has nowhere to go,\""
+    }
+   ]
+  },
+  {
+   "id": "1-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-32",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Pratyekabuddhas reach the awakening of a pratyekabuddha, and those of sharp faculties reach the awakening of a Buddha.",
+     "evidence": "Tibetan line 4 \"རང་རྒྱལ་བྱང་ཆུབ་དང་ནི་སངས་རྒྱས་བྱང་ཆུབ་རེག\" has no stated subject; it names two awakenings that are reached. Making \"Pratyekabuddhas\" the subject is circular (those who already are pratyekabuddhas reaching pratyekabuddha awakening). bo-mipham 2-32 and bo-khenrab 2-32 supply the subjects as beings of middling faculties (\"དབང་པོ་འབྲིང\") and of sharp faculties (\"དབང་པོ་རྣོན་པོ\").",
+     "fix": "those of middling faculties reach the awakening of a pratyekabuddha, and those of sharp faculties reach the awakening of a Buddha."
+    }
+   ]
+  },
+  {
+   "id": "2-34",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

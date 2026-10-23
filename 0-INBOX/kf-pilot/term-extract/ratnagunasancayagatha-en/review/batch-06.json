@@ -1,0 +1,573 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "4-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-1",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བརྒྱ་བྱིན",
+      "reason": "Part of a fixed compound that is also a term on its own.",
+      "dm": "Śakra",
+      "gm": "Śakra"
+     }
+    ]
+   },
+   {
+    "id": "4-2",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས་ཅན",
+      "reason": "Common Buddhist term for sentient beings.",
+      "dm": "person",
+      "gm": "being"
+     }
+    ]
+   },
+   {
+    "id": "4-3",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-4",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 3,
+      "bo_fixed": "རྒྱལ"
+     }
+    ],
+    "add": [
+     {
+      "bo": "དགྲ་བཅོམ་ས",
+      "reason": "Technical Buddhist category (bhūmi).",
+      "dm": "level of an Arhat",
+      "gm": "level of an arhat"
+     },
+     {
+      "bo": "རྐྱེན་རྟོགས་ས",
+      "reason": "Technical Buddhist category (bhūmi).",
+      "dm": "level of a Pratyekabuddha",
+      "gm": "level of a pratyekabuddha"
+     },
+     {
+      "bo": "ས",
+      "reason": "Term on its own (bhūmi).",
+      "dm": "level",
+      "gm": "level"
+     }
+    ]
+   },
+   {
+    "id": "4-5",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-6",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 2,
+      "bo_fixed": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ"
+     }
+    ],
+    "add": [
+     {
+      "bo": "སངས་རྒྱས",
+      "reason": "Component of a listed compound.",
+      "dm": "Buddha",
+      "gm": "Buddhas"
+     },
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Component of a listed compound.",
+      "dm": "awakening",
+      "gm": "enlightenment"
+     }
+    ]
+   },
+   {
+    "id": "4-7",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-8",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-9",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-10",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སངས་རྒྱས",
+      "reason": "Component of a listed term.",
+      "dm": "Buddha",
+      "gm": "Buddha"
+     },
+     {
+      "bo": "རྟོག་བྲལ",
+      "reason": "Technical philosophical term.",
+      "dm": "free from mental construction",
+      "gm": "free from concepts"
+     }
+    ]
+   },
+   {
+    "id": "4-11",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-12",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-13",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རིགས",
+      "reason": "Technical term (gotra/kula).",
+      "dm": "family",
+      "gm": "lineage"
+     },
+     {
+      "bo": "ས",
+      "reason": "Technical term (bhūmi).",
+      "dm": "level",
+      "gm": "birthplace"
+     }
+    ]
+   },
+   {
+    "id": "4-14",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-15",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "དགྲ་བཅོམ",
+      "reason": "Component of a listed term.",
+      "dm": "Arhat",
+      "gm": "arhat"
+     },
+     {
+      "bo": "ས",
+      "reason": "Component of a listed term.",
+      "dm": "stage",
+      "gm": "level"
+     }
+    ]
+   },
+   {
+    "id": "4-16",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བསྟི་སྟང",
+      "reason": "Technical term for honor/respect (satkāra).",
+      "dm": "honor",
+      "gm": "respect"
+     },
+     {
+      "bo": "རྙེད་པ",
+      "reason": "Technical term for material gain (lābha).",
+      "dm": "gain",
+      "gm": "gain"
+     }
+    ]
+   },
+   {
+    "id": "4-17",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཆོས",
+      "reason": "Component of listed terms.",
+      "dm": "Dharma",
+      "gm": "dharma"
+     }
+    ]
+   },
+   {
+    "id": "4-18",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-19",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Part of a one-off simile, not a fixed technical term."
+     }
+    ],
+    "fix_span": [
+     {
+      "n": 3,
+      "bo_fixed": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "4-20",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Ordinary adjective and noun used metaphorically, not a technical term."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བར་ཆད",
+      "reason": "Technical Buddhist term (antarāya).",
+      "dm": "obstacles",
+      "gm": "obstacles"
+     }
+    ]
+   },
+   {
+    "id": "4-21",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Component of listed compound.",
+      "dm": "Perfection of Wisdom",
+      "gm": "wisdom"
+     }
+    ]
+   },
+   {
+    "id": "4-22",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "Component of listed compounds.",
+      "dm": "worlds",
+      "gm": "world"
+     },
+     {
+      "bo": "སྟོན་པ",
+      "reason": "Component of a listed term that is a term on its own.",
+      "dm": "teachers",
+      "gm": "teachers"
+     }
+    ]
+   },
+   {
+    "id": "4-23",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 7,
+      "bo_fixed": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ"
+     }
+    ],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "Component of listed term.",
+      "dm": "world",
+      "gm": "world"
+     },
+     {
+      "bo": "དགྲ་བཅོམ་དེ་བཞིན་ཉིད",
+      "reason": "Technical phrase parallel to a listed term.",
+      "dm": "suchness of the Arhats",
+      "gm": "suchness of the arhats"
+     },
+     {
+      "bo": "རང་རྒྱལ་དེ་བཞིན་ཉིད",
+      "reason": "Technical phrase parallel to a listed term.",
+      "dm": "suchness of the Pratyekabuddhas",
+      "gm": "suchness of the pratyekabuddhas"
+     },
+     {
+      "bo": "རྒྱལ་སྲས་དེ་བཞིན་ཉིད",
+      "reason": "Technical phrase parallel to a listed term.",
+      "dm": "suchness of the Bodhisattvas",
+      "gm": "suchness of the sons of the Victors"
+     }
+    ]
+   },
+   {
+    "id": "4-24",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 3,
+      "bo_fixed": "ཆོས"
+     }
+    ],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "Technical Buddhist term (loka).",
+      "dm": "world",
+      "gm": "world"
+     }
+    ]
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "4-19",
+    "bo": "རིན་ཆེན་རིན་ཐང་མེད་པ",
+    "reason": "Part of a one-off simile, not a fixed technical term."
+   },
+   {
+    "id": "4-20",
+    "bo": "དཀོན་པའི་རིན་ཆེན",
+    "reason": "Ordinary adjective and noun used metaphorically, not a technical term."
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "4-4",
+    "bo": "རྒྱལ་རྣམས",
+    "bo_fixed": "རྒྱལ"
+   },
+   {
+    "id": "4-6",
+    "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+    "bo_fixed": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ"
+   },
+   {
+    "id": "4-19",
+    "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+    "bo_fixed": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ"
+   },
+   {
+    "id": "4-23",
+    "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+    "bo_fixed": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ"
+   },
+   {
+    "id": "4-24",
+    "bo": "ཆོས་རྣམས",
+    "bo_fixed": "ཆོས"
+   }
+  ],
+  "add": [
+   {
+    "id": "4-1",
+    "bo": "བརྒྱ་བྱིན",
+    "dm": "Śakra",
+    "gm": "Śakra",
+    "reason": "Part of a fixed compound that is also a term on its own."
+   },
+   {
+    "id": "4-2",
+    "bo": "སེམས་ཅན",
+    "dm": "person",
+    "gm": "being",
+    "reason": "Common Buddhist term for sentient beings."
+   },
+   {
+    "id": "4-4",
+    "bo": "དགྲ་བཅོམ་ས",
+    "dm": "level of an Arhat",
+    "gm": "level of an arhat",
+    "reason": "Technical Buddhist category (bhūmi)."
+   },
+   {
+    "id": "4-4",
+    "bo": "རྐྱེན་རྟོགས་ས",
+    "dm": "level of a Pratyekabuddha",
+    "gm": "level of a pratyekabuddha",
+    "reason": "Technical Buddhist category (bhūmi)."
+   },
+   {
+    "id": "4-4",
+    "bo": "ས",
+    "dm": "level",
+    "gm": "level",
+    "reason": "Term on its own (bhūmi)."
+   },
+   {
+    "id": "4-6",
+    "bo": "སངས་རྒྱས",
+    "dm": "Buddha",
+    "gm": "Buddhas",
+    "reason": "Component of a listed compound."
+   },
+   {
+    "id": "4-6",
+    "bo": "བྱང་ཆུབ",
+    "dm": "awakening",
+    "gm": "enlightenment",
+    "reason": "Component of a listed compound."
+   },
+   {
+    "id": "4-10",
+    "bo": "སངས་རྒྱས",
+    "dm": "Buddha",
+    "gm": "Buddha",
+    "reason": "Component of a listed term."
+   },
+   {
+    "id": "4-10",
+    "bo": "རྟོག་བྲལ",
+    "dm": "free from mental construction",
+    "gm": "free from concepts",
+    "reason": "Technical philosophical term."
+   },
+   {
+    "id": "4-13",
+    "bo": "རིགས",
+    "dm": "family",
+    "gm": "lineage",
+    "reason": "Technical term (gotra/kula)."
+   },
+   {
+    "id": "4-13",
+    "bo": "ས",
+    "dm": "level",
+    "gm": "birthplace",
+    "reason": "Technical term (bhūmi)."
+   },
+   {
+    "id": "4-15",
+    "bo": "དགྲ་བཅོམ",
+    "dm": "Arhat",
+    "gm": "arhat",
+    "reason": "Component of a listed term."
+   },
+   {
+    "id": "4-15",
+    "bo": "ས",
+    "dm": "stage",
+    "gm": "level",
+    "reason": "Component of a listed term."
+   },
+   {
+    "id": "4-16",
+    "bo": "བསྟི་སྟང",
+    "dm": "honor",
+    "gm": "respect",
+    "reason": "Technical term for honor/respect (satkāra)."
+   },
+   {
+    "id": "4-16",
+    "bo": "རྙེད་པ",
+    "dm": "gain",
+    "gm": "gain",
+    "reason": "Technical term for material gain (lābha)."
+   },
+   {
+    "id": "4-17",
+    "bo": "ཆོས",
+    "dm": "Dharma",
+    "gm": "dharma",
+    "reason": "Component of listed terms."
+   },
+   {
+    "id": "4-20",
+    "bo": "བར་ཆད",
+    "dm": "obstacles",
+    "gm": "obstacles",
+    "reason": "Technical Buddhist term (antarāya)."
+   },
+   {
+    "id": "4-21",
+    "bo": "ཤེས་རབ",
+    "dm": "Perfection of Wisdom",
+    "gm": "wisdom",
+    "reason": "Component of listed compound."
+   },
+   {
+    "id": "4-22",
+    "bo": "འཇིག་རྟེན",
+    "dm": "worlds",
+    "gm": "world",
+    "reason": "Component of listed compounds."
+   },
+   {
+    "id": "4-22",
+    "bo": "སྟོན་པ",
+    "dm": "teachers",
+    "gm": "teachers",
+    "reason": "Component of a listed term that is a term on its own."
+   },
+   {
+    "id": "4-23",
+    "bo": "འཇིག་རྟེན",
+    "dm": "world",
+    "gm": "world",
+    "reason": "Component of listed term."
+   },
+   {
+    "id": "4-23",
+    "bo": "དགྲ་བཅོམ་དེ་བཞིན་ཉིད",
+    "dm": "suchness of the Arhats",
+    "gm": "suchness of the arhats",
+    "reason": "Technical phrase parallel to a listed term."
+   },
+   {
+    "id": "4-23",
+    "bo": "རང་རྒྱལ་དེ་བཞིན་ཉིད",
+    "dm": "suchness of the Pratyekabuddhas",
+    "gm": "suchness of the pratyekabuddhas",
+    "reason": "Technical phrase parallel to a listed term."
+   },
+   {
+    "id": "4-23",
+    "bo": "རྒྱལ་སྲས་དེ་བཞིན་ཉིད",
+    "dm": "suchness of the Bodhisattvas",
+    "gm": "suchness of the sons of the Victors",
+    "reason": "Technical phrase parallel to a listed term."
+   },
+   {
+    "id": "4-24",
+    "bo": "འཇིག་རྟེན",
+    "dm": "world",
+    "gm": "world",
+    "reason": "Technical Buddhist term (loka)."
+   }
+  ]
+ }
+}

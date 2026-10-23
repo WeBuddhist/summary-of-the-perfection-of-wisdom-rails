@@ -1,0 +1,152 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "5-74",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "free from the vehicle of the arhat and pratyekabuddha",
+     "evidence": "The Tibetan དགྲ་བཅོམ་རང་རྒྱལ་ཐེག་བྲལ་ is glossed in bo-mipham 5-74 as ཐེག་པ་འདོད་པ་དང་བྲལ་ (free from the wish for the vehicle of arhats and pratyekabuddhas) and in bo-khenrab 5-74 as འདོད་པ་དང་དོན་གཉེར་གྱི་བློ་དང་བྲལ་; the English could be read as simply not belonging to that vehicle.",
+     "fix": "free from [the wish for] the vehicle of the arhat and pratyekabuddha"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "even if they intensely engage in them, If they are free",
+     "evidence": "Lines 2-3 use 'they' with no antecedent; the subject །དཔའ་བོ་ (hero) only appears in line 4, so the conditional clauses are hard to parse.",
+     "fix": "Even if the hero intensely engages in them, if he is free ... and delights ..., he should be known to be constantly in meditative equipoise"
+    }
+   ]
+  },
+  {
+   "id": "5-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-88",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "and they will become wise",
+     "evidence": "In འགྲོ་བ་དགའ་འགྱུར་མཁས the 'wise' (མཁས) describes the patient one, not the beings. bo-mipham 5-88: བཟོད་པ་དང་ལྡན་པ་དེ་ལ་འགྲོ་བ་རྣམས་དགའ་བར་འགྱུར་... རྨོངས་པ་དང་བྲལ་བའི་མཁས་པར་འགྱུར་རོ (the patient one becomes wise, free of ignorance); bo-khenrab 5-88 likewise; bo-rangjung 5-87: འགྲོ་བ་དད་ཅིང་དགའ་བར་འགྱུར་བ་དེ་ཁོ་ན་ཉིད་ཤེས་པས་མཁས་པ་ཡིན་ནོ. Sanskrit: priyu bhoti sarvajagati kṣamamāṇu vijño (dear to all the world, the patient one, wise).",
+     "fix": "Beings will rejoice in this one endowed with patience, who is wise."
+    }
+   ]
+  },
+  {
+   "id": "5-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-95",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "This is the purpose of ethical discipline",
+     "evidence": "Tibetan ཚུལ་ཁྲིམས་དོན; bo-mipham 5-95 and bo-khenrab 5-95 read ཚུལ་ཁྲིམས་ཀྱི་དོན་དུ་གསུངས / ཚུལ་ཁྲིམས་ཀྱི་དོན་ཡིན་པར་གསུངས (this is taught as the meaning of ethical discipline), cf. Sanskrit śīlaartha; 'purpose' shifts the sense to a goal.",
+     "fix": "This is the meaning of ethical discipline for those endowed with ..."
+    }
+   ]
+  },
+  {
+   "id": "5-96",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "enjoying sensory pleasure",
+     "evidence": "The Tibetan says only འདོད་ཡོན་ལྔ་སྤྱོད་ཀྱང་ (practises/enjoys the five qualities of desire); 'sensory pleasure' is not a separate item and merely restates the object (bo-mipham 5-96: འདོད་པའི་ཡོན་ཏན་ལྔ་ལ་ཞེན་པའི་ཚུལ་གྱིས་སྤྱོད་པར་གྱུར་ཀྱང་).",
+     "fix": "delete 'enjoying sensory pleasure'"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "I must become a Buddha",
+     "evidence": "སངས་རྒྱས་འགྲུབ་བྱ་སྙམ་ is a resolve 'I shall accomplish buddhahood' (bo-mipham 5-96 and bo-khenrab 5-95: བདག་གིས་སངས་རྒྱས་ཀྱི་གོ་འཕང་འགྲུབ་པར་བྱའོ་སྙམ་; Sanskrit buddho bhaviṣyāmi), not an obligation.",
+     "fix": "\"I shall accomplish buddhahood\""
+    }
+   ]
+  },
+  {
+   "id": "5-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-107",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "properly seek to be a śrāvaka",
+     "evidence": "ཉན་ཐོས་ལེགས་ཚོལ་ is glossed in bo-mipham 5-107 as དེའི་འབྲས་བུ་ཉན་ཐོས་ཀྱི་བྱང་ཆུབ་ལེགས་པར་ཚོལ་བ (earnestly seek the śrāvaka awakening as the result of the gifts) and in bo-rangjung 5-106 as འབྲས་བུ་ཉན་ཐོས་ཚོལ་ན; Sanskrit śrāvakaguṇān; the object sought is the śrāvaka's fruit, not simply being a śrāvaka.",
+     "fix": "earnestly seek the awakening of a śrāvaka as the result"
+    }
+   ]
+  },
+  {
+   "id": "5-108",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "Who rejoices in their basis of meritorious action",
+     "evidence": "དེ་དག་བསོད་ནམས་བྱ་བའི་དངོས་ལ་ཡི་རང་ནས: དེ་དག (those) refers back to the beings giving gifts in 5-107, not to the bodhisattva. bo-mipham 5-107: བཤད་མ་ཐག་པ་དེ་དག་གི་བསོད་ནམས་བྱ་བའི་དངོས་པོ་དེ་ལ་ཡི་རང་བར་བྱས་ནས; bo-rangjung 5-108: འཁོར་འདས་དེ་དག་གི་བསོད་ནམས་བྱ་བའི་དངོས་པོ་ལ་ཡིད་རང་ནས; Sanskrit teṣāṃ puṇyakriyāvastu. In the English 'their' can only be read as the bodhisattva's own basis, reversing whose merit is rejoiced in.",
+     "fix": "Who rejoices in those [beings'] bases of meritorious action"
+    }
+   ]
+  },
+  {
+   "id": "5-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-1",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,580 @@
+{
+ "segments": [
+  {
+   "id": "0-4",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "發淨信心",
+      "explanation": "Omits the instruction to establish \"joy and respect\" (dga' dang gus)."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "當行",
+      "explanation": "Translates \"mnyan par gyis\" (listen) as \"should course/practice\" (當行), changing the core instruction of the verse."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "所有菩薩為世間",
+      "explanation": "Omits \"heroes\" (dpa' rnams)."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "1-6",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "菩薩若求出家智",
+      "explanation": "Mistranslates the specific historical reference to the wanderer Śreṇika (kun tu rgyu ba bzo sbyangs) as a generic conditional \"if a bodhisattva seeks the ascetic's wisdom\"."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "不求於寂靜",
+      "explanation": "Translates \"mya ngan 'das la mi reg\" (does not touch nirvana) as \"does not seek peace/nirvana\"."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "彼是菩薩之行智",
+      "explanation": "Translates \"de ni shes rab gnas\" (he dwells in wisdom) as \"that is the active wisdom of a bodhisattva\"."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "1-16",
+   "candidates": {
+    "A": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "巨大見解",
+      "explanation": "While literally translating \"lta rnams chen po\", using \"巨大\" (physically huge) for views is awkward in Chinese."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "得第一義",
+      "explanation": "Mistranslates \"mchog tu gyur pa\" (becomes the supreme) as obtaining the supreme meaning/principle."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "眾生中",
+      "explanation": "Omits \"mang po\" (great multitudes)."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "諸邪見",
+      "explanation": "Omits \"chen po\" (great), translating \"lta rnams chen po\" simply as wrong views."
+     }
+    ],
+    "C": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "巨大邪見",
+      "explanation": "Using \"巨大\" (physically huge) to describe views/wrong views is stylistically unidiomatic."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-25",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "生滅",
+      "explanation": "Translates \"skye ba med dang skye ba\" (non-arising and arising) as \"arising and ceasing\" (生滅), changing the fundamental philosophical pairing."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-28",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "major",
+      "span": "佛母寶德藏般若伽陀帝釋品第二歡喜地攝布施波羅蜜伽陀",
+      "explanation": "Adds a massive amount of text (the full Sanskrit chapter title and Chinese cataloging details) not present in the Tibetan source provided."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-8",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "亦復不學種種法",
+      "explanation": "Omits \"yongs su gzung\" (apprehending), incorrectly stating the bodhisattva does not train in various dharmas, rather than not training for the sake of apprehending them."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "攝受樂學一切智",
+      "explanation": "Moves \"delights in\" (dga' ba) from the fourth line and applies it incorrectly to training in omniscience."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "若此功德出離者",
+      "explanation": "Fails to accurately render the syntax of \"nges 'byung gang yin 'di ni... slob\" (whatever emergence this is, this is the training...)."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "2-21",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "出行時",
+      "explanation": "Translates \"lam gang nas... 'gro\" (from whatever path it travels) merely as \"when traveling\", losing the metaphor of the path."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "出行時",
+      "explanation": "Omits \"rtag\" (always)."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "若依佛母最上行",
+      "explanation": "Translates \"from wherever this perfection of wisdom travels\" as \"if one courses in the Mother of Buddhas' supreme practice\"."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "集聚",
+      "explanation": "Translates \"'gro bar 'gyur\" (will travel/follow) as \"gather/accumulate\"."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "所有功德",
+      "explanation": "Omits \"chos\" (dharmas) from \"yon tan chos kun\" (all qualities and dharmas)."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "2-27",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "千萬",
+      "explanation": "Translates \"bye ba stong\" (ten billion) as \"ten million\", reducing the magnitude."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "雖一一樹影皆別",
+      "explanation": "Translates that the shadows are \"all distinct\", completely contradicting the Tibetan \"bye brag yod ma yin\" (there is no difference)."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "無量影同一名攝",
+      "explanation": "Fails to translate the core statement \"grib ma sna tshogs med\" (there are no various shadows)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-30",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "無色無受想行識",
+      "explanation": "Omits \"gang la\" (In which...)."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "2-40",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "具備波羅蜜多之佛法與任何佛功德",
+      "explanation": "Conflates \"endowed with paramitas\" and \"buddha dharmas\", and unnecessarily adds \"Buddha merit\"."
+     },
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "生起此發心起",
+      "explanation": "Redundant and awkward repetition of generating the generation of mind."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "以功德施佛菩提 菩薩之施皆無相",
+      "explanation": "Replaces the list of objects of rejoicing (merit, paramitas, buddha dharmas) with completely different instructions on dedicating merit without signs."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "至成正覺及入滅",
+      "explanation": "Mistranslates \"dam chos zad kyi dus\" (time of the exhaustion of the true dharma) as \"until achieving awakening and entering nirvana\"."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-50",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "志求菩提之",
+      "explanation": "Added content not present in the Tibetan source, which simply says 'bodhisattva'."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "千萬",
+      "explanation": "Translates 'khrag khrig' (niyuta/hundred billion) as ten million."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "菩薩諦信行佛行",
+      "explanation": "Mistranslates 'If I practice the wisdom of the Jinas', omitting 'I' and 'wisdom', and adding 'truly believes'."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-53",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "空手而返",
+      "explanation": "Omits 'goods exhausted/capital cut' (zong zad)."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "不能信重諸佛母",
+      "explanation": "Mistranslates the imperative 'generate faith' as a negative condition 'cannot deeply believe'."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "入海欲求寶",
+      "explanation": "Translates 'gone to the jewel island' as 'entering the sea to seek treasure'."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Omits the normative statement 'it is not right' (mi rung ngo)."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "4-6",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "菩薩若發最上心",
+      "explanation": "Mistranslates 'well entered into holy bodhi' as 'generates supreme mind'."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "聞此般若波羅蜜",
+      "explanation": "Omits 'of the Jinas' (rgyal ba yi) and 'should know' (rig par bya)."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "如是善入殊勝菩提諸勝者之，",
+      "explanation": "Misconstrues the genitive, making the Jinas those who enter bodhi, leaving '之' dangling."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'I' (bdag) in the final line."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-10",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "以無分別離分別之加持而行",
+      "explanation": "Misconnects 'non-conceptual' as modifying 'blessings' rather than the practitioner."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Omits 'byin gyi rlabs' (blessings)."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "無相",
+      "explanation": "Adds 'animitta' (without marks) which is not in the source text."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-17",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "當於法師深信重",
+      "explanation": "Mistranslates 'goes to hear the Dharma' as an injunction to deeply respect the master."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "法師知魔不應著",
+      "explanation": "Mistranslates 'perceiving the preacher engaged in worldly activities' as 'master knows demons and shouldn't attach'."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "身適悅及不適悅",
+      "explanation": "Mistranslates 'become joyless and unhappy' as 'body comfortable and uncomfortable'."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-26",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "依山",
+      "explanation": "Omits 'valley' (sul)."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "大吼",
+      "explanation": "Omits 'fearlessly' (jigs med)."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "諸獸",
+      "explanation": "Omits 'small' (phra mo)."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "邪魔",
+      "explanation": "Adds 'demons'."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'in the world' ('jig rten)."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "4-36",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "則不毀壞",
+      "explanation": "Omits 'no fear of it breaking'."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "堅牢器",
+      "explanation": "Translates 'fired pot' as 'sturdy vessel'."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "而無破壞無憂怖",
+      "explanation": "Omits 'safely reach home'."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-44",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "修行六度般若行",
+      "explanation": "Condenses the list of paramitas and adds 'prajna practice'."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "佛蘊非有不可求",
+      "explanation": "Completely mistranslates 'Do not grasp at bodhi as aggregates'."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "勿為初地如是說",
+      "explanation": "Mistranslates 'One should teach this to beginners' as 'Do not teach first bhumi'."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "4-48",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "少慮",
+      "explanation": "Mistranslates 'thugs khral chung' (lacked enthusiasm to teach) as 'had few worries'."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "彼甚深法佛難知",
+      "explanation": "Mistranslates 'Dharma of the Buddhas is hard to see' as 'hard for Buddha to know'."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "無有人得不可得",
+      "explanation": "Omits 'realized' (rtogs pa)."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "為利益故證菩提",
+      "explanation": "Omits 'compassionate one' (brtser ldan)."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "此非初心眾生知",
+      "explanation": "Replaces the Buddha's reluctance to teach with 'beginners cannot know this'."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "4-57",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "不住沙門婆羅門",
+      "explanation": "Omits 'other' (gzhan)."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "如山谷響聲相應",
+      "explanation": "Completely mistranslates 'speak words endowed with logic' as an analogy of valley echoes."
+     }
+    ],
+    "C": []
+   }
+  }
+ ]
+}

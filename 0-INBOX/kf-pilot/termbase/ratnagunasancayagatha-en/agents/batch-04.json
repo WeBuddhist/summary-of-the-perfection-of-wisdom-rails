@@ -1,0 +1,695 @@
+{
+ "batch": "batch-04",
+ "terms": [
+  {
+   "term_id": "T004",
+   "bo": "བྱང་ཆུབ",
+   "sanskrit": "bodhi",
+   "senses": [
+    {
+     "sense": "awakening",
+     "occurrences": "all",
+     "academic": "awakening",
+     "children": "awakening",
+     "basis": "style-sheet",
+     "reason": "Policy 1: བྱང་ཆུབ is always awakening in both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T017",
+   "bo": "གཟུགས",
+   "sanskrit": "rūpa",
+   "senses": [
+    {
+     "sense": "first aggregate; visible form",
+     "occurrences": "all",
+     "academic": "form",
+     "children": "form",
+     "basis": "style-sheet",
+     "reason": "Style sheet: form; also fits the 'many forms' of the ocean."
+    }
+   ]
+  },
+  {
+   "term_id": "T030",
+   "bo": "བསོད་ནམས",
+   "sanskrit": "puṇya",
+   "senses": [
+    {
+     "sense": "merit",
+     "occurrences": "all",
+     "academic": "merit",
+     "children": "stored-up goodness",
+     "basis": "style-sheet",
+     "reason": "Style sheet core term: merit; children's stored-up goodness."
+    }
+   ]
+  },
+  {
+   "term_id": "T043",
+   "bo": "སྦྱིན་པ",
+   "sanskrit": "dāna",
+   "senses": [
+    {
+     "sense": "the perfection; giving",
+     "occurrences": "all",
+     "academic": "generosity",
+     "children": "generosity",
+     "basis": "style-sheet",
+     "reason": "Policy 11: generosity; 'gift' only when a thing is meant, inflected in context."
+    }
+   ]
+  },
+  {
+   "term_id": "T056",
+   "bo": "ཉོན་མོངས",
+   "sanskrit": "kleśa",
+   "senses": [
+    {
+     "sense": "mental affliction",
+     "occurrences": "all",
+     "academic": "affliction",
+     "children": "mental trouble",
+     "basis": "style-sheet",
+     "reason": "Core term ཉོན་མོངས; both machines agree on affliction."
+    }
+   ]
+  },
+  {
+   "term_id": "T069",
+   "bo": "རིན་ཆེན",
+   "sanskrit": "ratna",
+   "senses": [
+    {
+     "sense": "jewel",
+     "occurrences": "all",
+     "academic": "jewel",
+     "children": "jewel",
+     "basis": "both",
+     "reason": "Both machines use jewel and precious; head noun is jewel, as in Dharma jewel."
+    }
+   ]
+  },
+  {
+   "term_id": "T082",
+   "bo": "འཇིག་རྟེན་མགོན",
+   "sanskrit": "lokanātha",
+   "senses": [
+    {
+     "sense": "epithet of Buddhas",
+     "occurrences": "all",
+     "academic": "Protector of the World",
+     "children": "Protector of the World",
+     "basis": "both",
+     "reason": "Both machines give Protector(s) of the World; Protector capitalised per policy 27."
+    }
+   ]
+  },
+  {
+   "term_id": "T095",
+   "bo": "བཟོད",
+   "sanskrit": "kṣānti",
+   "senses": [
+    {
+     "sense": "one of the six perfections",
+     "occurrences": "all",
+     "academic": "patience",
+     "children": "patience",
+     "basis": "style-sheet",
+     "reason": "Core term བཟོད་པ; both machines say patience."
+    }
+   ]
+  },
+  {
+   "term_id": "T108",
+   "bo": "མགོན",
+   "sanskrit": "nātha",
+   "senses": [
+    {
+     "sense": "epithet of Buddhas",
+     "occurrences": "all",
+     "academic": "Protector",
+     "children": "Protector",
+     "basis": "style-sheet",
+     "reason": "Policy 27: Protector capitalised as an epithet; lower case in a generic plural."
+    }
+   ]
+  },
+  {
+   "term_id": "T121",
+   "bo": "སྟོབས",
+   "sanskrit": "bala",
+   "senses": [
+    {
+     "sense": "power",
+     "occurrences": "all",
+     "academic": "power",
+     "children": "power",
+     "basis": "style-sheet",
+     "reason": "Policy 45: སྟོབས is power; ten powers for སྟོབས་བཅུ."
+    }
+   ]
+  },
+  {
+   "term_id": "T134",
+   "bo": "བརྩོན་འགྲུས་ཕ་རོལ་ཕྱིན",
+   "sanskrit": "vīryapāramitā",
+   "senses": [
+    {
+     "sense": "perfection of diligence",
+     "occurrences": "all",
+     "academic": "perfection of diligence",
+     "children": "perfection of steady effort",
+     "basis": "style-sheet",
+     "reason": "Compound of ཕ་རོལ་ཕྱིན and བརྩོན་འགྲུས; DharmaMitra's perseverance variant not used."
+    }
+   ]
+  },
+  {
+   "term_id": "T147",
+   "bo": "སྙིང་རྗེ་ཆེན་པོ",
+   "sanskrit": "mahākaruṇā",
+   "senses": [
+    {
+     "sense": "great compassion",
+     "occurrences": "all",
+     "academic": "great compassion",
+     "children": "great compassion",
+     "basis": "both",
+     "reason": "Both machines agree; plain English suits the children's register too."
+    }
+   ]
+  },
+  {
+   "term_id": "T160",
+   "bo": "བདེ་བར་གཤེགས་པ",
+   "sanskrit": "sugata",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "Sugata",
+     "children": "Well-Gone One",
+     "basis": "style-sheet",
+     "reason": "Policy 28: Sugata academic, Well-Gone One children's."
+    }
+   ]
+  },
+  {
+   "term_id": "T173",
+   "bo": "མཚན་ཉིད",
+   "sanskrit": "lakṣaṇa",
+   "senses": [
+    {
+     "sense": "characteristic",
+     "occurrences": "all",
+     "academic": "characteristic",
+     "children": "defining feature",
+     "basis": "style-sheet",
+     "reason": "Policy 15: མཚན་ཉིད is characteristic; children's plain phrase is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T186",
+   "bo": "སྐྱབས",
+   "sanskrit": "śaraṇa",
+   "senses": [
+    {
+     "sense": "refuge",
+     "occurrences": "all",
+     "academic": "refuge",
+     "children": "refuge",
+     "basis": "both",
+     "reason": "Both machines render refuge; an everyday word for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T199",
+   "bo": "དགེ་བའི་རྩ་བ",
+   "sanskrit": "kuśalamūla",
+   "senses": [
+    {
+     "sense": "root of virtue",
+     "occurrences": "all",
+     "academic": "root of virtue",
+     "children": "root of goodness",
+     "basis": "style-sheet",
+     "reason": "Policy 46: virtue (children's goodness); both machines say roots of virtue."
+    }
+   ]
+  },
+  {
+   "term_id": "T212",
+   "bo": "སྟོང་གསུམ",
+   "sanskrit": "trisāhasra",
+   "senses": [
+    {
+     "sense": "three thousandfold world system",
+     "occurrences": "all",
+     "academic": "three thousandfold world system",
+     "children": "vast system of worlds",
+     "basis": "dm",
+     "reason": "DharmaMitra form matches policy 41's world system; children's plain phrase is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T225",
+   "bo": "ཁྲིམས་ལྡན",
+   "sanskrit": "śīlavat",
+   "senses": [
+    {
+     "sense": "possessing ethical discipline",
+     "occurrences": "all",
+     "academic": "possessing ethical discipline",
+     "children": "one with good conduct",
+     "basis": "style-sheet",
+     "reason": "Policy 12: ཁྲིམས is ethical discipline; machines give discipline or morality."
+    }
+   ]
+  },
+  {
+   "term_id": "T238",
+   "bo": "དཔའ",
+   "sanskrit": "śūra",
+   "senses": [
+    {
+     "sense": "hero",
+     "occurrences": "all",
+     "academic": "hero",
+     "children": "hero",
+     "basis": "gm",
+     "reason": "Gemini's heroes; fits the great hero and awakening hero terms."
+    }
+   ]
+  },
+  {
+   "term_id": "T251",
+   "bo": "སེམས་དཔའ་ཆེན་པོ",
+   "sanskrit": "mahāsattva",
+   "senses": [
+    {
+     "sense": "great being",
+     "occurrences": "all",
+     "academic": "great being",
+     "children": "great hero",
+     "basis": "style-sheet",
+     "reason": "Policies 3 and 4."
+    }
+   ]
+  },
+  {
+   "term_id": "T264",
+   "bo": "རྟག",
+   "sanskrit": "nitya",
+   "senses": [
+    {
+     "sense": "permanent",
+     "occurrences": "all",
+     "academic": "permanent",
+     "children": "lasting",
+     "basis": "both",
+     "reason": "Both machines say permanent; children's lasting is new and keeps its opposite clear."
+    }
+   ]
+  },
+  {
+   "term_id": "T277",
+   "bo": "གཟོད་ནས་དག་པ",
+   "sanskrit": "ādiśuddha",
+   "senses": [
+    {
+     "sense": "pure from the beginning",
+     "occurrences": "all",
+     "academic": "pure from the beginning",
+     "children": "pure from the very start",
+     "basis": "dm",
+     "reason": "DharmaMitra's simpler form; children's plain variant is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T290",
+   "bo": "སངས་རྒྱས་ཞིང",
+   "sanskrit": "buddhakṣetra",
+   "senses": [
+    {
+     "sense": "Buddha-field",
+     "occurrences": "all",
+     "academic": "Buddha-field",
+     "children": "Buddha-land",
+     "basis": "style-sheet",
+     "reason": "Policy 29: Buddha-field; children's field is land, so Buddha-land."
+    }
+   ]
+  },
+  {
+   "term_id": "T303",
+   "bo": "མ་དྲོས་མཚོ",
+   "sanskrit": "anavatapta",
+   "senses": [
+    {
+     "sense": "Lake Anavatapta",
+     "occurrences": "all",
+     "academic": "Lake Anavatapta",
+     "children": "Lake Anavatapta",
+     "basis": "both",
+     "reason": "Proper name, no diacritics needed; both machines agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T316",
+   "bo": "བྱང་ཆུབ་བསྔོ་བ",
+   "sanskrit": "pariṇāmanā",
+   "senses": [
+    {
+     "sense": "dedication to awakening",
+     "occurrences": "all",
+     "academic": "dedication to awakening",
+     "children": "dedication to awakening",
+     "basis": "gm",
+     "reason": "Gemini follows policies 1 and 47; DharmaMitra's enlightenment is not used."
+    }
+   ]
+  },
+  {
+   "term_id": "T329",
+   "bo": "འཆི་འཕོ",
+   "sanskrit": "cyuti",
+   "senses": [
+    {
+     "sense": "passing away; death and transference",
+     "occurrences": "all",
+     "academic": "passing away",
+     "children": "dying",
+     "basis": "dm",
+     "reason": "DharmaMitra's shorter form; Gemini's death and transmigration is too heavy."
+    }
+   ]
+  },
+  {
+   "term_id": "T342",
+   "bo": "སྤོབས་པ",
+   "sanskrit": "pratibhāna",
+   "senses": [
+    {
+     "sense": "eloquence",
+     "occurrences": "all",
+     "academic": "eloquence",
+     "children": "clever speech",
+     "basis": "new",
+     "reason": "Machines vary (confidence, flashes of inspiration); eloquence is the usual equivalent of སྤོབས་པ."
+    }
+   ]
+  },
+  {
+   "term_id": "T355",
+   "bo": "འཇིག་རྟེན་དེ་བཞིན་ཉིད",
+   "sanskrit": "lokatathatā",
+   "senses": [
+    {
+     "sense": "suchness of the world",
+     "occurrences": "all",
+     "academic": "suchness of the world",
+     "children": "the way the world really is",
+     "basis": "both",
+     "reason": "Both machines agree; compound of world and suchness, children's per the core terms."
+    }
+   ]
+  },
+  {
+   "term_id": "T368",
+   "bo": "བཏང་སྙོམས",
+   "sanskrit": "upekṣā",
+   "senses": [
+    {
+     "sense": "equanimity",
+     "occurrences": "all",
+     "academic": "equanimity",
+     "children": "calm balance",
+     "basis": "gm",
+     "reason": "Gemini's equanimity is the usual equivalent; children's plain phrase is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T381",
+   "bo": "སྒྲོན་མ",
+   "sanskrit": "pradyota",
+   "senses": [
+    {
+     "sense": "lamp",
+     "occurrences": "all",
+     "academic": "lamp",
+     "children": "lamp",
+     "basis": "dm",
+     "reason": "Both machines say lamp; plain and fitting for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T394",
+   "bo": "སེམས་སྙོམས",
+   "sanskrit": "samacitta",
+   "senses": [
+    {
+     "sense": "even mind",
+     "occurrences": "all",
+     "academic": "even mind",
+     "children": "fair mind",
+     "basis": "both",
+     "reason": "Both machines agree; children's fair mind is new, kept apart from བཏང་སྙོམས."
+    }
+   ]
+  },
+  {
+   "term_id": "T407",
+   "bo": "མཐའ་འཁོབ",
+   "sanskrit": "pratyanta",
+   "senses": [
+    {
+     "sense": "borderland",
+     "occurrences": "all",
+     "academic": "borderland",
+     "children": "borderland",
+     "basis": "both",
+     "reason": "Both machines say borderlands; head form is singular."
+    }
+   ]
+  },
+  {
+   "term_id": "T420",
+   "bo": "རྐྱེན་གྱི་སངས་རྒྱས",
+   "sanskrit": "pratyayabuddha",
+   "senses": [
+    {
+     "sense": "pratyekabuddha",
+     "occurrences": "all",
+     "academic": "pratyekabuddha",
+     "children": "solitary Buddha",
+     "basis": "style-sheet",
+     "reason": "Policy 23: this variant is one term with རང་རྒྱལ; children's per policy 24."
+    }
+   ]
+  },
+  {
+   "term_id": "T433",
+   "bo": "ཐེག་པ་གཉིས",
+   "sanskrit": "dvayayāna",
+   "senses": [
+    {
+     "sense": "the śrāvaka and pratyekabuddha vehicles",
+     "occurrences": "all",
+     "academic": "two vehicles",
+     "children": "two vehicles",
+     "basis": "both",
+     "reason": "Both machines agree; vehicle is a core term."
+    }
+   ]
+  },
+  {
+   "term_id": "T446",
+   "bo": "འཛིན་པ",
+   "sanskrit": "udgraha",
+   "senses": [
+    {
+     "sense": "grasping",
+     "occurrences": "all",
+     "academic": "grasping",
+     "children": "clinging",
+     "basis": "dm",
+     "reason": "DharmaMitra's grasp; kept apart from apprehension (policy 17), which Gemini used."
+    }
+   ]
+  },
+  {
+   "term_id": "T459",
+   "bo": "ནག་པོའི་རྩ་ལག",
+   "sanskrit": "kṛṣṇabandhu",
+   "senses": [
+    {
+     "sense": "associate of Māra",
+     "occurrences": "all",
+     "academic": "associate of the Dark One",
+     "children": "helper of the Dark One",
+     "basis": "gm",
+     "reason": "Gemini's associates; the Dark One is a name of Māra, so capitalised."
+    }
+   ]
+  },
+  {
+   "term_id": "T472",
+   "bo": "དགེ་བ་མ་ཡིན",
+   "sanskrit": "akuśala",
+   "senses": [
+    {
+     "sense": "non-virtuous",
+     "occurrences": "all",
+     "academic": "non-virtuous",
+     "children": "not good",
+     "basis": "gm",
+     "reason": "Gemini's form is idiomatic; follows policy 46 on virtue."
+    }
+   ]
+  },
+  {
+   "term_id": "T485",
+   "bo": "སྒྱུ་མའི་སྐྱེས་བུ",
+   "sanskrit": "māyākārapuruṣa",
+   "senses": [
+    {
+     "sense": "illusory person",
+     "occurrences": "all",
+     "academic": "illusory person",
+     "children": "person made by magic",
+     "basis": "gm",
+     "reason": "Gemini's illusory; children's keeps the idea of a magician's creation."
+    }
+   ]
+  },
+  {
+   "term_id": "T498",
+   "bo": "མྱ་ངན་འདའ",
+   "sanskrit": "nirvṛti",
+   "senses": [
+    {
+     "sense": "nirvāṇa",
+     "occurrences": "all",
+     "academic": "nirvāṇa",
+     "children": "peace beyond sorrow",
+     "basis": "style-sheet",
+     "reason": "Policy 34: མྱ་ངན་འདའ is nirvāṇa."
+    }
+   ]
+  },
+  {
+   "term_id": "T511",
+   "bo": "ཏིང་ངེ་འཛིན",
+   "sanskrit": "samādhi",
+   "senses": [
+    {
+     "sense": "samādhi",
+     "occurrences": "all",
+     "academic": "samādhi",
+     "children": "deep calm",
+     "basis": "style-sheet",
+     "reason": "Policy 13: ཏིང་ངེ་འཛིན is samādhi, apart from བསམ་གཏན."
+    }
+   ]
+  },
+  {
+   "term_id": "T524",
+   "bo": "སྒྲ",
+   "sanskrit": "śabda",
+   "senses": [
+    {
+     "sense": "sound",
+     "occurrences": "all",
+     "academic": "sound",
+     "children": "sound",
+     "basis": "both",
+     "reason": "Both machines agree; the object of the ear."
+    }
+   ]
+  },
+  {
+   "term_id": "T537",
+   "bo": "གཉིས་སུ་མེད་ཆོས",
+   "sanskrit": "advayadharma",
+   "senses": [
+    {
+     "sense": "non-dual teaching",
+     "occurrences": "all",
+     "academic": "non-dual Dharma",
+     "children": "teaching that is not two",
+     "basis": "dm",
+     "reason": "Dharma in the teaching sense per policy 9; DharmaMitra capitalises it."
+    }
+   ]
+  },
+  {
+   "term_id": "T550",
+   "bo": "འདོད་པའི་ཡོན་ཏན",
+   "sanskrit": "kāmaguṇa",
+   "senses": [
+    {
+     "sense": "sense pleasure",
+     "occurrences": "all",
+     "academic": "sensory pleasure",
+     "children": "pleasure of the senses",
+     "basis": "gm",
+     "reason": "Gemini's sensory pleasures; lexicalised, so ཡོན་ཏན is not rendered quality here."
+    }
+   ]
+  },
+  {
+   "term_id": "T563",
+   "bo": "ཞུམ་པའི་སེམས",
+   "sanskrit": "dīnacitta",
+   "senses": [
+    {
+     "sense": "discouraged mind",
+     "occurrences": "all",
+     "academic": "discouraged mind",
+     "children": "discouraged mind",
+     "basis": "dm",
+     "reason": "DharmaMitra's form; the Sanskrit is negated in context, the translator handles it."
+    }
+   ]
+  },
+  {
+   "term_id": "T576",
+   "bo": "བྱང་ཆུབ་མཆོག་རབ",
+   "sanskrit": "agravarabodhi",
+   "senses": [
+    {
+     "sense": "supreme awakening",
+     "occurrences": "all",
+     "academic": "supreme awakening",
+     "children": "highest awakening",
+     "basis": "style-sheet",
+     "reason": "Core term བྱང་ཆུབ་མཆོག; DharmaMitra's sublime enlightenment not used."
+    }
+   ]
+  },
+  {
+   "term_id": "T589",
+   "bo": "འཁོར་ལོ་རིན་ཆེན",
+   "sanskrit": "cakraratna",
+   "senses": [
+    {
+     "sense": "precious wheel",
+     "occurrences": "all",
+     "academic": "precious wheel",
+     "children": "precious wheel",
+     "basis": "both",
+     "reason": "Both machines agree; lexicalised wheel-treasure of a universal king."
+    }
+   ]
+  }
+ ]
+}

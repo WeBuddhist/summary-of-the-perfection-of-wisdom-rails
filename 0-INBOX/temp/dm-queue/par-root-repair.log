@@ -1,0 +1,42 @@
+source     : 1-SOURCES/Translations/bo-ratnagunasancayagatha.md
+target     : english (en)   focus=tibetan
+track      : 3-TRANSFORMATIONS/Translations/Dharmamitra/en
+blocks     : 308 total, 308 already in ledger, 12 to do
+batching   : 12 calls for 12 blocks (<=1 blocks, <=900 chars, <=32 lines per call)
+[1/12] ^4-54  (1 blk, 185 src, 2674 payload) …     ! attempt 1/6 failed ('latin-1' codec can't encode character '\u2026' in position 0: ordinal not in range(256)); retrying in 2s
+    ! attempt 2/6 failed ('latin-1' codec can't encode character '\u2026' in position 0: ordinal not in range(256)); retrying in 4s
+    ! attempt 3/6 failed ('latin-1' codec can't encode character '\u2026' in position 0: ordinal not in range(256)); retrying in 8s
+    ! attempt 4/6 failed ('latin-1' codec can't encode character '\u2026' in position 0: ordinal not in range(256)); retrying in 16s
+    ! attempt 5/6 failed ('latin-1' codec can't encode character '\u2026' in position 0: ordinal not in range(256)); retrying in 32s
+
+STOPPED at ^4-54: cat-translate failed after 6 attempts: 'latin-1' codec can't encode character '\u2026' in position 0: ordinal not in range(256)
+Ledger is intact; nothing done so far is lost. Resume with the same command (already-translated blocks are skipped), or raise --sleep.
+
+wrote 3-TRANSFORMATIONS/Translations/Dharmamitra/en/bo-ratnagunasancayagatha-en.md  (308/308 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Dharmamitra/en/work/bo-ratnagunasancayagatha-en.jsonl
+calls  12 planned for 12 blocks; 0 blocks translated
+note   run stopped early at ^4-54; re-run to resume
+JOB DONE 2026-10-04 15:04:36
+source     : 1-SOURCES/Translations/bo-ratnagunasancayagatha.md
+target     : english (en)   focus=tibetan
+track      : 3-TRANSFORMATIONS/Translations/Dharmamitra/en
+blocks     : 308 total, 308 already in ledger, 12 to do
+batching   : 12 calls for 12 blocks (<=1 blocks, <=900 chars, <=32 lines per call)
+[1/12] ^4-54  (1 blk, 185 src, 2674 payload) … 2.0s  Even if these five perfections of the Victors were p
+[2/12] ^4-63  (1 blk, 181 src, 3039 payload) … 1.9s  Form, feeling, perception, volition, and consciousne
+[3/12] ^4-74  (1 blk, 187 src, 2728 payload) … 2.3s  Just as a water jar is gradually filled from the fir
+[4/12] ^4-87  (1 blk, 175 src, 2671 payload) … 2.2s  In this way, those who practice the supreme perfecti
+[5/12] ^5-7  (1 blk, 188 src, 2787 payload) … 1.8s  Even if they frequent secluded villages, cities, mou
+[6/12] ^5-23  (1 blk, 174 src, 2849 payload) … 2.5s  Just as a person who finds a supreme jewel they had 
+[7/12] ^5-24  (1 blk, 180 src, 2825 payload) … 3.0s  In this way, those who have entered supreme enlighte
+[8/12] ^5-52  (1 blk, 180 src, 2777 payload) … 1.9s  When this perfection of wisdom, the Mother of the Ta
+[9/12] ^5-82  (1 blk, 180 src, 2860 payload) … 1.4s  If someone were to say, "Only after demolishing Moun
+[10/12] ^5-105  (1 blk, 184 src, 2878 payload) … 1.8s  The wise and luminous bodhisattva, thinking, "May th
+[11/12] ^5-109  (1 blk, 186 src, 2847 payload) … 1.9s  Even a massive heap of ordinary glass trinkets
+[12/12] ^8-4  (1 blk, 110 src, 2423 payload) … 1.8s  Translated, edited, and finalized by the Indian prec
+
+wrote 3-TRANSFORMATIONS/Translations/Dharmamitra/en/bo-ratnagunasancayagatha-en.md  (308/308 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Dharmamitra/en/work/bo-ratnagunasancayagatha-en.jsonl
+calls  12 planned for 12 blocks; 12 blocks translated
+note   1 block(s) where the translation's line count differs from the source's (id: source→output): ^8-4: 2→1
+JOB DONE 2026-10-04 15:09:34

@@ -1,0 +1,183 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "1-17",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "the illusions of Māra",
+     "evidence": "Tibetan བདུད་ཀྱི་སྒྱུ་འདུལ་བ; Sanskrit namuciṃ śaṭha (deceitful Māra). Mipham (bo-mipham 1-17) glosses བདུད་ཀྱི་སྒྱུ་རྩལ, i.e. Māra's tricks/wiles, not \"illusions\" (which suggests magical appearance, སྒྱུ་མ).",
+     "fix": "the wiles of Māra"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "they subdue ... they are proclaimed to be a great being",
+     "evidence": "Plural \"they/They\" is followed by the singular \"a great being\"; the Tibetan སེམས་དཔའ་ཆེ is the single predicate of one bodhisattva.",
+     "fix": "they are proclaimed to be great beings"
+    }
+   ]
+  },
+  {
+   "id": "1-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "all wanderers",
+     "evidence": "Tibetan འགྲོ་ཀུན; Sanskrit sarvasattvān. The glossary renders འགྲོ་བ as \"beings\" (locked in 1-24), and \"wanderers\" is not the term used elsewhere.",
+     "fix": "all beings"
+    }
+   ]
+  },
+  {
+   "id": "1-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-21",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "doctrinal",
+     "severity": "minor",
+     "span": "a dead person",
+     "evidence": "Tibetan text reads མི་ཤི, but Sanskrit has agni nirvṛta (fire extinguished), and Mipham (bo-mipham 1-21: བུད་ཤིང་ཟད་པས་མེ་ཤི་བ་ན་མེ་དེ་ཡིས་ཕྱོགས་གཞན་དུ་འགྲོ་རྒྱུ་མེད) and Khenrab (bo-khenrab 1-21) read the example as a fire that has gone out; only Rangjung reads a person. The English should flag this.",
+     "fix": "a dead person [Mipham, Khenrab and the Sanskrit read: a fire that has gone out] has nowhere to go"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "it is fully proclaimed as \"nirvāṇa.\"",
+     "evidence": "The subject of རབ་ཏུ་བརྗོད་པ་ is གང་ཟག་དེ་ \"that person\" (bo-mipham 1-21: གང་ཟག་དེ་ནི་མྱ་ངན་ལས་འདས་ཞེས་རབ་ཏུ་བརྗོད་པ; bo-rangjung 1-21), not an unspecified \"it\".",
+     "fix": "that person is fully proclaimed as \"nirvāṇa.\""
+    }
+   ]
+  },
+  {
+   "id": "1-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "They are unconditioned and free from elaboration",
+     "evidence": "Tibetan གང་དག་དེ་ནི་འདུས་མ་བྱས་ཡིན་སྤྲོས་མེད; Mipham (bo-mipham 1-22: གང་དག་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱ་བ་དེ་ནི་འདུས་མ་བྱས་ཡིན་པས་... སྤྲོས་པ་མེད) takes the subject to be the bodhisattva; Sanskrit yo śuddha so anabhisaṃskṛtu. Plural \"They\" can be read as the three times.",
+     "fix": "That [bodhisattva] is unconditioned and free from elaboration"
+    }
+   ]
+  },
+  {
+   "id": "1-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Permanent and impermanent ... suchness and likewise emptiness;",
+     "evidence": "The first two lines are bare lists; in the Tibetan they are the objects of མི་གནས་ in line 3 (bo-mipham 2-2: རྟག་པ་དང་མི་རྟག་པ་... གང་ལའང་མི་གནས). The English leaves them syntactically unattached.",
+     "fix": "One does not abide in the permanent and impermanent, happiness and suffering, pleasant and unpleasant, self and selflessness, suchness and likewise emptiness;"
+    }
+   ]
+  },
+  {
+   "id": "2-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Likewise, one does not abide in the conditioned",
+     "evidence": "Tibetan དེ་བཞིན་འདུས་བྱས་ལ་ཡང་མི་གནས་: the subject remains the Guide (འདྲེན་པ), whose mind abides in neither (bo-mipham 2-3: ཐུགས་ ... འདུས་བྱས་ཁམས་གསུམ་འཁོར་བའི་ཕྱོགས་ལ་ཡང་མི་གནས). \"one\" shifts the subject.",
+     "fix": "Likewise, he does not abide in the conditioned either, but practices without abiding;"
+    }
+   ]
+  },
+  {
+   "id": "2-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "Dharma Kings, Buddhas",
+     "evidence": "Tibetan ཆོས་རྒྱལ་ is a single term (Dharma King, i.e. Buddha: bo-mipham 2-4 ཆོས་ཀྱི་རྒྱལ་པོ་སངས་རྒྱས); the comma-separated \"Buddhas\" reads as an extra category. \"Buddhas\" is a gloss, not a separate word in the verse.",
+     "fix": "Dharma Kings"
+    }
+   ]
+  },
+  {
+   "id": "2-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "by the brilliance of the wise",
+     "evidence": "Tibetan མཁས་པ་གསལ་བས་ཐོབ་པ: མཁས་པ་ and གསལ་བ་ describe the agents (the wise and lucid); Mipham (bo-mipham 2-5: མཁས་པ་བློ་གསལ་བས་ཐོབ་པའི་མྱ་ངན་ལས་འདས་པ), Sanskrit vidupaṇḍitehi \"by the learned wise\". \"Brilliance\" turns a quality of the persons into an instrument.",
+     "fix": "by the wise and lucid"
+    }
+   ]
+  },
+  {
+   "id": "2-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-8",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

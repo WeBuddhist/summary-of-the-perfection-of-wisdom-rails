@@ -1,0 +1,137 @@
+{
+ "batch": "batch-15",
+ "segments": [
+  {
+   "id": "5-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-95",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "能令決定菩提之功德生起之任何法",
+     "evidence": "Tibetan ཆོས་གང་ངེས་པའི་བྱང་ཆུབ་ཡོན་ཏན་འབྱུང་འགྱུར་བ: ངེས་པ qualifies the dharma (certain/definite to produce), not བྱང་ཆུབ. bo-mipham 5-95 glosses ཆོས་གང་ཞིག་ཀུན་སློང་གི་སྒོ་ནས་ངེས་པ ... བྱང་ཆུབ་མཆོག་གི་ཡོན་ཏན་འབྱུང་བར་འགྱུར་བ. The Chinese 決定菩提 reads as 'determinate awakening', allowing a wrong attachment of 'definite'.",
+     "fix": "決定能令菩提功德生起之任何法"
+    }
+   ]
+  },
+  {
+   "id": "5-96",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "聖僧伽",
+     "evidence": "Locked term for འཕགས་པའི་དགེ་འདུན (in 'སངས་རྒྱས་ཆོས་དང་འཕགས་པའི་དགེ་འདུན་') is 聖僧; the translation renders it 聖僧伽 instead.",
+     "fix": "聖僧"
+    }
+   ]
+  },
+  {
+   "id": "5-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-101",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "對一切悅意與不悅意皆無所見",
+     "evidence": "Tibetan སྡུག་དང་མི་སྡུག་ཀུན་ལ་ལྟ་བ་མེད་པ (Skt. anapekṣaka, 'without regard/expectation'). bo-mipham 5-101: དེ་དང་དེར་མཚན་མར་ལྟ་བ་མེད་པ (does not regard them as fixed signs); bo-khenrab 5-101: མཚན་མར་མངོན་པར་ཞེན་པའི་ལྟ་བ་མེད་པ. The meaning is no fixating regard, not 'nothing seen'; 無所見 can be read as not perceiving.",
+     "fix": "對一切悅意與不悅意皆無執取之顧念"
+    }
+   ]
+  },
+  {
+   "id": "5-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-107",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "盡作計度",
+     "evidence": "Tibetan ཡོངས་སུ་བརྟག་པ་བཟུང་སྟེ; bo-mipham 5-107 explains ཡོངས་སུ་བརྟག་པ་མཐའ་བཟུང་གི་དཔེར་བྱས་ཏེ (taking the utmost extent of what can be reckoned as the example). The Chinese 盡作計度 is opaque and drops the sense of taking the limit of reckoning as a measure.",
+     "fix": "以計度之極限為喻"
+    }
+   ]
+  },
+  {
+   "id": "5-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-1",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

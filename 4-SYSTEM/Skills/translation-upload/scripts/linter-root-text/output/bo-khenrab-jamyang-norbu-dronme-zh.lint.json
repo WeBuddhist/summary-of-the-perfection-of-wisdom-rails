@@ -1,0 +1,35 @@
+{
+  "status": "ok",
+  "source": "3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-khenrab-jamyang-norbu-dronme-zh.md",
+  "validated_at": "2026-10-04T13:36:09.948606+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Commentaries/bo-khenrab-jamyang-norbu-dronme.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://dharmamitra.org'",
+    "toc: 144 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "translator 'dharmamitra cat-translate v1': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "zh": "般若波羅蜜多寶德藏頌深義釋：闡明緣起真如之如意寶燈・滿善緣願"
+    },
+    "alt_titles": null,
+    "language": "zh",
+    "commentary_of": null,
+    "translation_of": "XXt9Dk1Vq8DC6WC5Rc7r3",
+    "category_id": "uGpinx0GZlvU1uw44RyYS",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

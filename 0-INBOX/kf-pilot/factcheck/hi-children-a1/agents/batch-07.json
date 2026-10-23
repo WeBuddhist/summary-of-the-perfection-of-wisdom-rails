@@ -1,0 +1,293 @@
+{
+ "batch": "batch-07",
+ "segments": [
+  {
+   "id": "4-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-81",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "दोनों रास्तों को पार कर लेता है",
+     "evidence": "The text says he fully passes beyond the 'two grounds' (the grounds of the hearers and solitary buddhas), not two 'paths'.",
+     "fix": "वह चार मारों को और अर्हत् तथा अकेला बुद्ध की दोनों मंज़िलों को पार कर जाता है।"
+    },
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "अभी बोधि को नहीं छूता",
+     "evidence": "The text says he does not touch awakening; 'अभी' (not yet) adds a timing that is not there.",
+     "fix": "पर बोधि को नहीं छूता।"
+    }
+   ]
+  },
+  {
+   "id": "4-82",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "जीव जो भी करते हैं, उनके किए हुए काम भी ऐसे ही टिके होते हैं",
+     "evidence": "The text says the cause of beings' engaging in karma is likewise supported in the same way; the children's line is circular and loses the 'cause/basis' point.",
+     "fix": "जीवों के काम करने की वजह भी इसी तरह किसी सहारे पर टिकी है।"
+    }
+   ]
+  },
+  {
+   "id": "4-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-84",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "वे बिना निशान वाले होकर रहते हैं और पूरी शान्ति से अपना काम करते हैं",
+     "evidence": "The text says they abide in the signless and practise peace and supreme peace; 'अपना काम करते हैं' is vague and 'बिना निशान वाले होकर' makes the bodhisattva itself signless.",
+     "fix": "वे बिना निशान वाले में टिककर शान्ति और सबसे ऊँची शान्ति का अभ्यास करते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "4-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-87",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "उस सच्चे खालीपन में जाकर नहीं रुकते",
+     "evidence": "The text says they do not attain (obtain) that supreme emptiness until their roots of goodness are complete; 'not stopping in it' is a different claim and 'सच्चे' is added.",
+     "fix": "तब तक वे उस सबसे ऊँचे खालीपन को पा नहीं लेते।"
+    }
+   ]
+  },
+  {
+   "id": "4-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-89",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "गहरा ज्ञान और जादुई शक्ति पाकर",
+     "evidence": "The text says they have reached the perfection (pāramitā, full mastery) of knowledge and magical power, not merely obtained them.",
+     "fix": "गहरे ज्ञान और जादुई शक्ति में पूरी तरह निपुण होकर"
+    }
+   ]
+  },
+  {
+   "id": "4-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-91",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "वह केवल दुख से परे शान्ति को नहीं छूता, बल्कि सभी चीज़ों को देखता है",
+     "evidence": "The text says he does not touch nirvana at all and also sees dharmas; adding 'केवल' ('not only touch nirvana') implies he does touch it.",
+     "fix": "वह दुख से परे शान्ति को नहीं छूता और फिर भी चीज़ों को देखता रहता है।"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "उनका बिना निशानी के होना और बिना इच्छा के होना मानता है",
+     "evidence": "Tangled phrasing; the text says he contemplates all things as empty, signless and wishless.",
+     "fix": "वह सोचता है कि सब चीज़ें खाली हैं, बिना निशानी की हैं और बिना इच्छा की हैं।"
+    }
+   ]
+  },
+  {
+   "id": "4-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-93",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "केवल दुख से परे शान्ति को पाकर अकेला खुश नहीं होता",
+     "evidence": "The text says he does not take sole delight in merely touching nirvana; 'अकेला' (alone) shifts the meaning toward the merchant image.",
+     "fix": "वह सिर्फ़ दुख से परे शान्ति को छूकर उसी में मगन नहीं हो जाता।"
+    }
+   ]
+  },
+  {
+   "id": "4-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-95",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "क्योंकि वह रास्ता अच्छी तरह जानता है",
+     "evidence": "The text lists 'knows the manner of the path' as a further quality, not as the reason for not abiding.",
+     "fix": "और वह रास्ते का तरीका अच्छी तरह जानता है।"
+    }
+   ]
+  },
+  {
+   "id": "4-96",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "सुभूति,",
+     "evidence": "The academic translation and the Tibetan have no address to Subhuti in this verse.",
+     "fix": "\"सुभूति,\" हटा दें और वाक्य सीधे शुरू करें।"
+    }
+   ]
+  },
+  {
+   "id": "4-97",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "सुभूति,",
+     "evidence": "The academic translation and the Tibetan have no address to Subhuti in this verse.",
+     "fix": "\"सुभूति,\" हटा दें और वाक्य सीधे शुरू करें।"
+    }
+   ]
+  },
+  {
+   "id": "4-98",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "सुभूति,",
+     "evidence": "The academic translation and the Tibetan have no address to Subhuti in this verse.",
+     "fix": "\"सुभूति,\" हटा दें और वाक्य सीधे शुरू करें।"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "कभी पीछे न लौटने का स्तर की शिक्षा",
+     "evidence": "Ungrammatical genitive.",
+     "fix": "कभी पीछे न लौटने के स्तर की शिक्षा"
+    }
+   ]
+  },
+  {
+   "id": "5-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "सुभूति,",
+     "evidence": "The academic translation and the Tibetan have no address to Subhuti in this verse.",
+     "fix": "\"सुभूति,\" हटा दें और वाक्य सीधे शुरू करें।"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "इसे कभी पीछे न हटने वाला साधक बनने के लिए, कभी पीछे न हटने की भविष्यवाणी समझना चाहिए",
+     "evidence": "The text says this is to be known as the prophecy of non-regression; 'बनने के लिए' garbles it and 'साधक' is used for both the arhat and the bodhisattva.",
+     "fix": "इसे कभी पीछे न हटने की भविष्यवाणी समझना चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "उन निचले लोक के दुखों को हमेशा के लिए ख़त्म करने की इच्छा करता है",
+     "evidence": "The text says he aspires to cut the stream (continuum) of bad rebirths; 'दुखों' and 'हमेशा के लिए' are not in it.",
+     "fix": "वह उन निचले लोकों में जन्म लेने का सिलसिला काट देने की इच्छा करता है।"
+    }
+   ]
+  },
+  {
+   "id": "5-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "सुभूति,",
+     "evidence": "The academic translation and the Tibetan have no address to Subhuti in this verse.",
+     "fix": "\"सुभूति,\" हटा दें और वाक्य सीधे शुरू करें।"
+    }
+   ]
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "सुभूति,",
+     "evidence": "The academic translation and the Tibetan have no address to Subhuti in this verse.",
+     "fix": "\"सुभूति,\" हटा दें और वाक्य सीधे शुरू करें।"
+    }
+   ]
+  },
+  {
+   "id": "5-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-7",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

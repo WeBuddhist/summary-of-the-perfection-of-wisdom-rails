@@ -1,0 +1,185 @@
+{
+ "batch": "batch-09",
+ "segments": [
+  {
+   "id": "5-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-42",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "有些眾生追求善良，並且想要幫助別人。對於他們累積的福氣，我們也要為別人高興。",
+     "evidence": "Tibetan/academic: ALL sentient beings who seek virtue and wish to benefit others themselves rejoice in the whole heap of merit of all; therefore, having obtained the Victors' qualities, they give the gift of Dharma in the world. The children's text says 'some' beings and makes 'we' (the reader) the one who rejoices in their merit, changing the subject of the rejoicing and the logic of 'therefore'.",
+     "fix": "所有追求善良、想要幫助別人的眾生，也都為大家累積的福氣高興。因此，他們得到得勝者的美好品質之後，為了消滅所有的痛苦，就會在這個世界送出佛法的禮物。"
+    }
+   ]
+  },
+  {
+   "id": "5-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "數量像恆河裡的沙子一樣多的眾生",
+     "evidence": "Academic: all beings in world-fields (剎土) equal in number to the Ganges sands; the 'fields' are dropped, so the count applies to beings rather than to the worlds they live in.",
+     "fix": "就算像恆河裡的沙子那麼多的世界裡，所有的眾生"
+    }
+   ]
+  },
+  {
+   "id": "5-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-55",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "比起聽法的弟子與獨自覺悟的人，他們在平靜的深度安定中所得到的極大安靜與快樂，這種安住是最特別、最至高無上的。",
+     "evidence": "Academic: this abiding is supreme and unsurpassed among all the peaceful samadhi abidings, very calm and blissful, of hearers and solitary realizers; the children's sentence is long and 'they' is ambiguous.",
+     "fix": "聽法的弟子與獨自覺悟的人，也有平靜的深度安定，很安靜、很快樂。但這種安住比他們所有的都更特別、更至高無上。"
+    }
+   ]
+  },
+  {
+   "id": "5-56",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "不會直接進入",
+     "evidence": "Tibetan/academic: the bodhisattva abides in emptiness and does not pass into nirvana; 'directly' is not in the text.",
+     "fix": "菩薩安住在空性之中，不會進入超越憂傷的安寧。"
+    }
+   ]
+  },
+  {
+   "id": "5-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-63",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "須菩提，",
+     "evidence": "The Tibetan and academic translation contain no address to Subhuti or anyone else; the vocative adds a speaker/addressee not in the segment.",
+     "fix": "所有深刻的領悟的入口，還有巧妙的方法與根源，全都來自最棒的圓滿的智慧。"
+    }
+   ]
+  }
+ ]
+}

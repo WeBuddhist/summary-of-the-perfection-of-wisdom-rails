@@ -1,0 +1,88 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "0-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "0-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "0-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "0-3",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 2,
+      "bo_fixed": "འཁོར་བཞི"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "0-4",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "ordinary emotion"
+     },
+     {
+      "n": 2,
+      "reason": "ordinary attitude"
+     }
+    ],
+    "fix_span": [
+     {
+      "n": 9,
+      "bo_fixed": "དཔའ"
+     }
+    ],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "0-4",
+    "bo": "དགའ",
+    "reason": "ordinary emotion"
+   },
+   {
+    "id": "0-4",
+    "bo": "གུས",
+    "reason": "ordinary attitude"
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "0-3",
+    "bo": "འཁོར་བཞི་པོ",
+    "bo_fixed": "འཁོར་བཞི"
+   },
+   {
+    "id": "0-4",
+    "bo": "དཔའ་རྣམས",
+    "bo_fixed": "དཔའ"
+   }
+  ],
+  "add": []
+ }
+}

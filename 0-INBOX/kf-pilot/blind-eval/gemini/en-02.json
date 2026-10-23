@@ -1,0 +1,330 @@
+{
+ "segments": [
+  {
+   "id": "4-64",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "who has become profound in that way",
+      "explanation": "The commentaries state that it is the Dharmas or the nature of phenomena that is profound, not the bodhisattva."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "profound Vehicle",
+      "explanation": "Omits the explicit translation of 'this Dharma' (ཆོས་འདི་) and 'thus' (དེ་ལྟར་)."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "who has thus become profound",
+      "explanation": "The commentaries state that it is the Dharmas or the nature of phenomena that is profound, not the bodhisattva."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-75",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "major",
+      "span": "Practicing the dharmas of emptiness, signlessness, and wishlessness, Not touching nirvāṇa and not engaging in signs, Just as a skilled boatman going back and forth, Does not dwell on either shore, nor does he dwell in the ocean.",
+      "explanation": "The entire sentence is a fragment lacking a main subject and verb for the bodhisattva's actions."
+     }
+    ],
+    "B": [
+     {
+      "category": "fluency",
+      "severity": "major",
+      "span": "For example, just as a skilled boatman goes back and forth, Without staying on either shore and without remaining in the ocean.",
+      "explanation": "This sentence is a grammatical fragment."
+     }
+    ],
+    "C": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "phenomena",
+      "explanation": "In this context, 'chos' (dharmas) refers to the teachings or practices of liberation (the three doors of liberation), not general phenomena."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-82",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "being a pervasive foundation",
+      "explanation": "Mistranslates the intended meaning; as clarified by the commentaries and Sanskrit, the text asks 'upon what does space abide?'"
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "4-86",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-2",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "irreversible and prophesied",
+      "explanation": "Separates the compound concept, which means 'prophesied to be irreversible' or 'prophecy of irreversibility'."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-8",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "striving for awakening to mature sentient beings",
+      "explanation": "Merges two distinct practices ('maturing sentient beings' and 'striving for awakening') into one."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "by the sons of the Sugata",
+      "explanation": "The commentaries and Sanskrit clarify that this is a genitive ('the solitude of the sons of the Sugata'), not an agentive."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "Except for those who constantly dwell in villages, regions, and towns,",
+      "explanation": "Misplaces 'except for', completely reversing the verse's meaning which states that the bodhisattvas DO dwell in towns, and EXCEPT for awakening, they desire nothing else."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "what the Sugata calls the solitude of the [Buddha's] sons",
+      "explanation": "Misconstrues the syntax; the text means 'taught to be the solitude of the sons of the Sugata', not 'what the Sugata calls'."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-11",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "That conceited bodhisattva",
+      "explanation": "Mistranslates 'drod snyom/tshad 'dzin', which the commentaries define as 'taking the measure of' or 'evaluating' another's level."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "Any bodhisattva who feels superior to them",
+      "explanation": "Mistranslates 'drod snyom/tshad 'dzin', which means 'taking the measure of' or 'evaluating' another's level."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-20",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "visibly strives",
+      "explanation": "A slightly awkward literal calque of 'mngon par brtson pa'; 'diligently' or 'manifestly applies oneself' is more idiomatic."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-31",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "are far removed",
+      "explanation": "The Tibetan 'ring 'gyur' indicates future tense ('will become far removed'), which slightly alters the timing."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-39",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-46",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-49",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "in reverence",
+      "explanation": "Misses the specific physical action of 'bowing down' (btud nas), replacing it with a general attitude."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-61",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "these wisdoms are also",
+      "explanation": "The Tibetan \"rnams kyang\" here translates Sanskrit \"jātu\" (never/at all), as confirmed by Mipham (\"nam yang\"). It does not pluralize wisdom."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-68",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "it is like a person... Just as one who returns",
+      "explanation": "The syntax is confused by combining 'it is like' and 'Just as', resulting in an anacoluthon."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-75",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-80",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "Their",
+      "explanation": "Omits 'des ni' (through that / because of this) which connects the decline in diligence to the preceding suffering."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-88",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "they bring joy to the world",
+      "explanation": "Reverses the direction of rejoicing (beings will rejoice in that one) and omits the introductory 'this' ('di ni)."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-95",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "certainly cause",
+      "explanation": "The genitive 'nges pa'i' modifies awakening (certain awakening), not the verb."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "The complete degeneration of the awakening of those who perform beneficial dharmas—",
+      "explanation": "Misses the syntax of 'chos gang' (Whatever dharmas), falsely turning it into a noun phrase where dharmas are performed by benefactors."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-106",
+   "candidates": {
+    "A": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "Having given generosity",
+      "explanation": "Awkward phrasing; one typically 'gives gifts' or 'practices generosity', but does not 'give generosity'."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-1",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  }
+ ]
+}

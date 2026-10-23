@@ -1,0 +1,216 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "1-25",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Do not think about arising or no arising.",
+     "evidence": "Academic: 'Not conceptualizing either non-arising or arising' - the point is not holding a fixed idea, not refusing to think.",
+     "fix": "Do not hold on to any fixed idea about arising or no arising."
+    }
+   ]
+  },
+  {
+   "id": "1-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-27",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "all things are with no nature of their own",
+     "evidence": "Locked term 'with no nature of its own' is forced into an ungrammatical clause; academic: 'phenomena are devoid of intrinsic nature'.",
+     "fix": "They completely understand that all things have no nature of their own."
+    }
+   ]
+  },
+  {
+   "id": "1-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "rests on a base through a stay without staying",
+     "evidence": "Academic: 'abides in a basis by abiding without abiding'; the children's phrase is tangled and 'the true way to stay' adds 'true'.",
+     "fix": "In the same way, an awakening hero rests on a base by a stay without staying. The Victorious One taught that this stay without staying is how to stay."
+    }
+   ]
+  },
+  {
+   "id": "2-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "trying to cross a river",
+     "evidence": "Academic: 'one sees no crossing to go from this shore to the other' - no river is mentioned.",
+     "fix": "It is like not seeing any way to cross from this shore to the other shore."
+    }
+   ]
+  },
+  {
+   "id": "2-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-13",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "When I spoke the truth of this highest perfection",
+     "evidence": "Academic: 'When I spoke in conformity with this supreme perfection' (Tib. mthun par smra) - speaking in accord with it, not 'the truth of' it.",
+     "fix": "When I spoke in line with this highest perfection"
+    }
+   ]
+  },
+  {
+   "id": "2-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "This perfection keeps people safe.",
+     "evidence": "Not in the text; protection is stated only for whoever respects, retains and understands it, in the next clause.",
+     "fix": "The Protectors practice this perfect wisdom. Anyone who respects, remembers, and truly understands it will not be hurt by poison, weapons, fire, or water."
+    }
+   ]
+  },
+  {
+   "id": "2-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "in the past, present and future",
+     "evidence": "Academic: offerings 'at the three times of each day' (three times a day); the locked term 'past, present and future' conflicts with the context. Also 'sweet incense' for 'supreme incense'.",
+     "fix": "They offer heavenly flowers, the best incense, and oils three times every day."
+    }
+   ]
+  },
+  {
+   "id": "2-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "in every realm of living beings",
+     "evidence": "Academic: 'the many realms of sentient beings', not every realm.",
+     "fix": "in the many realms of living beings"
+    },
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "each became a perfect doctor and an unsurpassed king of healers",
+     "evidence": "Academic: only 'unsurpassed kings of physicians'; 'perfect doctor' is an added second title.",
+     "fix": "each became an unsurpassed king of healers."
+    }
+   ]
+  },
+  {
+   "id": "2-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-24",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

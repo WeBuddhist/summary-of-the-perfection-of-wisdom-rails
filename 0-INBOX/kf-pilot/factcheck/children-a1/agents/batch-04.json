@@ -1,0 +1,209 @@
+{
+ "batch": "batch-04",
+ "segments": [
+  {
+   "id": "2-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "But those with wisdom fly freely like birds in the sky.",
+     "evidence": "The wise roam freely because they know beings are like deer caught in a snare; the 'knowing' is dropped.",
+     "fix": "Knowing that confused beings are like deer caught in a trap, those with wisdom fly freely like birds in the sky."
+    }
+   ]
+  },
+  {
+   "id": "3-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "They also do not find things.",
+     "evidence": "Text says they do not apprehend all phenomena (ཆོས་ཀུན་, 'all things'); 'all' is lost.",
+     "fix": "They do not find any of the things either."
+    }
+   ]
+  },
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "They have already served billions of Buddhas.",
+     "evidence": "'Many tens of billions' of Buddhas (བྱེ་བ་ཁྲག་ཁྲིག་མང་), not simply billions.",
+     "fix": "They have served many, many billions of Buddhas."
+    }
+   ]
+  },
+  {
+   "id": "4-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "beautiful forests where the cowherds work",
+     "evidence": "Excellent forests at the cowherds' boundary (མཚམས), i.e. the edge of their land, not where they work.",
+     "fix": "beautiful forests at the edge of the cowherds' land"
+    }
+   ]
+  },
+  {
+   "id": "4-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "those who fully enter the highest awakening hear this perfect wisdom",
+     "evidence": "Such people 'should be known as hearing' this perfect wisdom (རིག་པར་བྱ); the 'should be known' is lost.",
+     "fix": "You should know that those who fully enter the highest awakening are hearing this perfect wisdom of the Victorious Ones."
+    }
+   ]
+  },
+  {
+   "id": "4-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "searching for other scriptures",
+     "evidence": "Text says searching for sutras (མདོ་ཚོལ); 'other' is not there.",
+     "fix": "searching for scriptures"
+    }
+   ]
+  },
+  {
+   "id": "4-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "always in danger",
+     "evidence": "Text says 'always subject to much harm' (འཚེ་བ), i.e. often harmed, not merely in danger.",
+     "fix": "often harmed"
+    }
+   ]
+  },
+  {
+   "id": "4-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-21",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "She is their Mother in every world system.",
+     "evidence": "Wisdom 'who has become their Mother' (ཡུམ་གྱུར); 'in every world system' is not said of the Mother.",
+     "fix": "She has become their Mother."
+    }
+   ]
+  }
+ ]
+}

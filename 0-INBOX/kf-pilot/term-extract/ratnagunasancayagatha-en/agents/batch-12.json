@@ -1,0 +1,872 @@
+{
+ "batch": "batch-12",
+ "segments": [
+  {
+   "id": "5-56",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattvas",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "བསམ་གཏན",
+     "dm": "meditative concentration",
+     "gm": "concentration"
+    },
+    {
+     "bo": "ཕ་རོལ་སོན་པ",
+     "dm": "reached the far shore",
+     "gm": "reached the other shore"
+    },
+    {
+     "bo": "སྟོང་",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    },
+    {
+     "bo": "མྱ་ངན་འདའ",
+     "dm": "nirvāṇa",
+     "gm": "nirvāṇa"
+    }
+   ]
+  },
+  {
+   "id": "5-57",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "qualities",
+     "gm": "qualities"
+    },
+    {
+     "bo": "སངས་རྒྱས་ཡེ་ཤེས",
+     "dm": "primordial wisdom of the Buddha",
+     "gm": "Buddha-wisdom"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "ཡེ་ཤེས",
+     "dm": "primordial wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་སྦྱིན་པ",
+     "dm": "gift of Dharma",
+     "gm": "gift of Dharma"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "ཕན་མཛད",
+     "dm": "benefactors",
+     "gm": "those who bring benefit"
+    }
+   ]
+  },
+  {
+   "id": "5-58",
+   "terms": [
+    {
+     "bo": "བསླབ་པ",
+     "dm": "training",
+     "gm": "training"
+    },
+    {
+     "bo": "འདྲེན་པ",
+     "dm": "Guides",
+     "gm": "Guides"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddhas"
+    }
+   ]
+  },
+  {
+   "id": "5-59",
+   "terms": [
+    {
+     "bo": "ཆོས་གཏེར",
+     "dm": "treasure of Dharma",
+     "gm": "Dharma-treasure"
+    },
+    {
+     "bo": "ཆོས་མཛོད",
+     "dm": "Dharma treasury",
+     "gm": "Dharma-treasury"
+    },
+    {
+     "bo": "སངས་རྒྱས་རིགས",
+     "dm": "Buddha lineage",
+     "gm": "lineage of the Buddhas"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "beings",
+     "gm": "beings"
+    },
+    {
+     "bo": "འཇིག་རྟེན་མགོན་པོ",
+     "dm": "protectors of the world",
+     "gm": "protectors of the world"
+    },
+    {
+     "bo": "ཕྱོགས་བཅུ",
+     "dm": "ten directions",
+     "gm": "ten directions"
+    },
+    {
+     "bo": "ཆོས་དབྱིངས",
+     "dm": "expanse of reality",
+     "gm": "dharmadhātu"
+    }
+   ]
+  },
+  {
+   "id": "5-60",
+   "terms": []
+  },
+  {
+   "id": "5-61",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས་སྲས",
+     "dm": "Buddha’s heirs",
+     "gm": "sons of the Buddha"
+    },
+    {
+     "bo": "ཉན་ཐོས",
+     "dm": "listeners",
+     "gm": "śrāvakas"
+    },
+    {
+     "bo": "རང་རྒྱལ",
+     "dm": "solitary realizers",
+     "gm": "pratyekabuddhas"
+    },
+    {
+     "bo": "ལྷ",
+     "dm": "gods",
+     "gm": "gods"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "beings",
+     "gm": "beings"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "dharmas"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "5-62",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "མ་རིག",
+     "dm": "ignorance",
+     "gm": "ignorance"
+    },
+    {
+     "bo": "བདེ་བར་གཤེགས་པ",
+     "dm": "Sugata",
+     "gm": "Sugatas"
+    },
+    {
+     "bo": "རྐྱེན",
+     "dm": "conditions",
+     "gm": "conditions"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "འཁྲུལ་འཁོར",
+     "dm": "machine",
+     "gm": "machine"
+    }
+   ]
+  },
+  {
+   "id": "5-63",
+   "terms": [
+    {
+     "bo": "ཡེ་ཤེས",
+     "dm": "primordial wisdom",
+     "gm": "knowledge"
+    },
+    {
+     "bo": "ཚུལ་སྒོ",
+     "dm": "gateways",
+     "gm": "approaches"
+    },
+    {
+     "bo": "ཐབས",
+     "dm": "methods",
+     "gm": "methods"
+    },
+    {
+     "bo": "རྩ་བ",
+     "dm": "roots",
+     "gm": "roots"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ",
+     "dm": "Perfection of Wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "རྐྱེན",
+     "dm": "conditions",
+     "gm": "conditions"
+    },
+    {
+     "bo": "ལས",
+     "dm": "karma",
+     "gm": "activities"
+    },
+    {
+     "bo": "འཁྲུལ་འཁོར",
+     "dm": "machine",
+     "gm": "machine"
+    }
+   ]
+  },
+  {
+   "id": "5-64",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "རྟེན་ཅིང་འབྲེལ་འབྱུང་",
+     "dm": "dependent origination",
+     "gm": "dependent origination"
+    },
+    {
+     "bo": "སྐྱེ་མེད",
+     "dm": "without birth",
+     "gm": "unborn"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "མ་རིག",
+     "dm": "ignorance",
+     "gm": "ignorance"
+    },
+    {
+     "bo": "རང་བྱུང",
+     "dm": "self-arisen",
+     "gm": "Self-Arisen"
+    }
+   ]
+  },
+  {
+   "id": "5-65",
+   "terms": [
+    {
+     "bo": "བསམ་གཏན་བཞི",
+     "dm": "four concentrations",
+     "gm": "four dhyānas"
+    },
+    {
+     "bo": "བསམ་གཏན",
+     "dm": "concentration",
+     "gm": "dhyānas"
+    },
+    {
+     "bo": "ཡན་ལག",
+     "dm": "branches",
+     "gm": "branches"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "awakening",
+     "gm": "awakening"
+    }
+   ]
+  },
+  {
+   "id": "5-66",
+   "terms": [
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "བསམ་གཏན",
+     "dm": "meditative concentrations",
+     "gm": "dhyānas"
+    },
+    {
+     "bo": "གཟུགས་མེད་ཏིང་འཛིན",
+     "dm": "formless meditative stabilizations",
+     "gm": "formless samādhis"
+    },
+    {
+     "bo": "ཏིང་འཛིན",
+     "dm": "meditative stabilizations",
+     "gm": "samādhis"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "awakening",
+     "gm": "awakening"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཟག་པ",
+     "dm": "outflows",
+     "gm": "defilements"
+    }
+   ]
+  },
+  {
+   "id": "5-67",
+   "terms": [
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "qualities",
+     "gm": "qualities"
+    },
+    {
+     "bo": "བསམ་གཏན",
+     "dm": "meditative concentration",
+     "gm": "dhyānas"
+    },
+    {
+     "bo": "ཏིང་ངེ་འཛིན",
+     "dm": "stabilization",
+     "gm": "samādhis"
+    },
+    {
+     "bo": "མཚན་མ་མེད",
+     "dm": "without signs",
+     "gm": "no signs"
+    },
+    {
+     "bo": "འདོད་པའི་ཁམས",
+     "dm": "desire realm",
+     "gm": "desire realm"
+    }
+   ]
+  },
+  {
+   "id": "5-68",
+   "terms": [
+    {
+     "bo": "འཛམ་གླིང",
+     "dm": "Jambudvīpa",
+     "gm": "Jambudvīpa"
+    },
+    {
+     "bo": "ལྷ་ཡི་གྲོང་ཁྱེར",
+     "dm": "city of the gods",
+     "gm": "city of the gods"
+    },
+    {
+     "bo": "ལྷ",
+     "dm": "gods",
+     "gm": "gods"
+    }
+   ]
+  },
+  {
+   "id": "5-69",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattvas",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "qualities",
+     "gm": "qualities"
+    },
+    {
+     "bo": "རྣལ་འབྱོར",
+     "dm": "yoga",
+     "gm": "yoga"
+    },
+    {
+     "bo": "བསམ་གཏན",
+     "dm": "meditative concentration",
+     "gm": "dhyānas"
+    },
+    {
+     "bo": "ཏིང་འཛིན",
+     "dm": "absorption",
+     "gm": "samādhis"
+    },
+    {
+     "bo": "འདོད་པའི་ཁམས",
+     "dm": "desire realm",
+     "gm": "desire realm"
+    },
+    {
+     "bo": "བྱིས་པ",
+     "dm": "foolish",
+     "gm": "fools"
+    }
+   ]
+  },
+  {
+   "id": "5-70",
+   "terms": [
+    {
+     "bo": "བདག་ཉིད་ཆེན་པོ",
+     "dm": "great beings",
+     "gm": "great beings"
+    },
+    {
+     "bo": "སེམས་ཅན་ཡོངས་སུ་སྨིན་བྱ",
+     "dm": "bring sentient beings to maturity",
+     "gm": "completely ripen sentient beings"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཞིང་སྤྱོད",
+     "dm": "purify the fields",
+     "gm": "purify the realms"
+    },
+    {
+     "bo": "ཕ་རོལ་ཕྱིན",
+     "dm": "perfections",
+     "gm": "perfections"
+    },
+    {
+     "bo": "བྱང་ཆུབ་ཡོན་ཏན",
+     "dm": "qualities of enlightenment",
+     "gm": "qualities of awakening"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "awakening"
+    },
+    {
+     "bo": "གཟུགས་མེད་ཁམས",
+     "dm": "formless realm",
+     "gm": "formless realm"
+    }
+   ]
+  },
+  {
+   "id": "5-71",
+   "terms": []
+  },
+  {
+   "id": "5-72",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "བསམ་གཏན",
+     "dm": "concentration",
+     "gm": "dhyānas"
+    },
+    {
+     "bo": "ཏིང་འཛིན",
+     "dm": "meditative absorption",
+     "gm": "samādhis"
+    },
+    {
+     "bo": "འདོད་ཁམས",
+     "dm": "realm of desire",
+     "gm": "desire realm"
+    },
+    {
+     "bo": "སྙིང་བརྩེ",
+     "dm": "compassion",
+     "gm": "compassion"
+    },
+    {
+     "bo": "དགའ་བ",
+     "dm": "joy",
+     "gm": "joy"
+    }
+   ]
+  },
+  {
+   "id": "5-73",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཏིང་འཛིན",
+     "dm": "meditative absorption",
+     "gm": "samādhis"
+    },
+    {
+     "bo": "བསམ་གཏན",
+     "dm": "concentration",
+     "gm": "dhyānas"
+    },
+    {
+     "bo": "དགྲ་བཅོམ",
+     "dm": "Arhats",
+     "gm": "arhat"
+    },
+    {
+     "bo": "རང་རྒྱལ",
+     "dm": "Pratyekabuddhas",
+     "gm": "pratyekabuddha"
+    },
+    {
+     "bo": "ཐེག་པ",
+     "dm": "vehicle",
+     "gm": "vehicle"
+    },
+    {
+     "bo": "མཉམ་པར་མ་བཞག",
+     "dm": "uncomposed",
+     "gm": "not in meditative equipoise"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    }
+   ]
+  },
+  {
+   "id": "5-74",
+   "terms": [
+    {
+     "bo": "འདོད་ཡོན་ལྔ",
+     "dm": "five sensory qualities",
+     "gm": "five qualities of desire"
+    },
+    {
+     "bo": "གཟུགས",
+     "dm": "Forms",
+     "gm": "forms"
+    },
+    {
+     "bo": "སྒྲ",
+     "dm": "sounds",
+     "gm": "sounds"
+    },
+    {
+     "bo": "དྲི",
+     "dm": "smells",
+     "gm": "smells"
+    },
+    {
+     "bo": "རོ",
+     "dm": "tastes",
+     "gm": "tastes"
+    },
+    {
+     "bo": "རེག",
+     "dm": "textures",
+     "gm": "Touches"
+    },
+    {
+     "bo": "དགྲ་བཅོམ",
+     "dm": "Arhats",
+     "gm": "arhat"
+    },
+    {
+     "bo": "རང་རྒྱལ",
+     "dm": "Pratyekabuddhas",
+     "gm": "pratyekabuddha"
+    },
+    {
+     "bo": "ཐེག",
+     "dm": "vehicles",
+     "gm": "vehicle"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "Bodhicitta",
+     "gm": "mind of awakening"
+    },
+    {
+     "bo": "དཔའ་བོ",
+     "dm": "heroes",
+     "gm": "hero"
+    },
+    {
+     "bo": "མཉམ་གཞག",
+     "dm": "meditative equipoise",
+     "gm": "meditative equipoise"
+    }
+   ]
+  },
+  {
+   "id": "5-75",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "གང་ཟག",
+     "dm": "persons",
+     "gm": "persons"
+    },
+    {
+     "bo": "སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "བརྩོན་འགྲུས་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of perseverance",
+     "gm": "perfection of diligence"
+    },
+    {
+     "bo": "བརྩོན་འགྲུས",
+     "dm": "perseverance",
+     "gm": "diligence"
+    },
+    {
+     "bo": "དཔའ་རྣམས",
+     "dm": "heroic beings",
+     "gm": "heroes"
+    }
+   ]
+  },
+  {
+   "id": "5-76",
+   "terms": []
+  },
+  {
+   "id": "5-77",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་མཆོག",
+     "dm": "supreme awakening",
+     "gm": "supreme awakening"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "awakening"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "living beings",
+     "gm": "beings"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "qualities",
+     "gm": "qualities"
+    }
+   ]
+  },
+  {
+   "id": "5-78",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "5-79",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "འཁོར",
+     "dm": "cyclic existence",
+     "gm": "saṃsāra"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཞིང་སྦྱོང",
+     "dm": "purification of the realm",
+     "gm": "purifying the realms"
+    },
+    {
+     "bo": "རྣལ་འབྱོར་པ",
+     "dm": "yogi",
+     "gm": "yogi"
+    },
+    {
+     "bo": "བརྩོན་འགྲུས་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of diligence",
+     "gm": "perfection of diligence"
+    }
+   ]
+  },
+  {
+   "id": "5-80",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattvas",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "བསྐལ་པ",
+     "dm": "eons",
+     "gm": "eons"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "awakening"
+    },
+    {
+     "bo": "ཡང་དག་ཆོས",
+     "dm": "authentic Dharma",
+     "gm": "authentic dharma"
+    },
+    {
+     "bo": "བརྩོན་འགྲུས་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of diligence",
+     "gm": "perfection of diligence"
+    },
+    {
+     "bo": "ལེ་ལོ",
+     "dm": "lazy",
+     "gm": "laziness"
+    }
+   ]
+  },
+  {
+   "id": "5-81",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་མཆོག་ཏུ་སེམས་བསྐྱེད",
+     "dm": "generation of the mind set upon supreme enlightenment",
+     "gm": "generation of the mind for supreme awakening"
+    },
+    {
+     "bo": "བྱང་ཆུབ་བླ་ན་མེད་པ",
+     "dm": "unsurpassed awakening",
+     "gm": "unsurpassable awakening"
+    },
+    {
+     "bo": "བརྩོན་འགྲུས",
+     "dm": "diligence",
+     "gm": "diligence"
+    }
+   ]
+  },
+  {
+   "id": "5-82",
+   "terms": [
+    {
+     "bo": "རི་རབ",
+     "dm": "Mount Meru",
+     "gm": "Mount Meru"
+    },
+    {
+     "bo": "བྱང་ཆུབ་མཆོག",
+     "dm": "supreme enlightenment",
+     "gm": "supreme awakening"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ལེ་ལོ",
+     "dm": "lazy",
+     "gm": "lazy"
+    }
+   ]
+  },
+  {
+   "id": "5-83",
+   "terms": [
+    {
+     "bo": "རི་རབ",
+     "dm": "Mount Meru",
+     "gm": "Mount Meru"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "བརྩོན་འགྲུས",
+     "dm": "diligent effort",
+     "gm": "diligence"
+    },
+    {
+     "bo": "འདྲེན་པ",
+     "dm": "Leader",
+     "gm": "guide"
+    },
+    {
+     "bo": "བྱང་ཆུབ་མཆོག",
+     "dm": "supreme enlightenment",
+     "gm": "supreme awakening"
+    }
+   ]
+  }
+ ]
+}

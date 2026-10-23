@@ -1,0 +1,134 @@
+{
+ "2-2": {
+  "translation": "常與無常，樂與苦，悅與不悅，\n我與無我，真如與同樣的空性；\n不住於得果與阿羅漢地，\n不住於獨覺地與同樣的佛地。",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "major",
+    "span": "—",
+    "evidence": "In the Tibetan the verb མི་གནས ('does not abide') in line 3 (ས་ལ་མི་གནས་ཤིང་) governs the whole list, including line 1 (རྟག་དང་མི་རྟག་བདེ་དང་སྡུག་བསྔལ་སྡུག་མི་སྡུག) and line 2 (བདག་དང་བདག་མེད་དེ་བཞིན་ཉིད་དང་དེ་བཞིན་སྟོང་). Mipham 2-2 states that one does not abide (མི་གནས་པ) in any of these pairs (permanent/impermanent, happy/suffering, pleasant/unpleasant, self/selfless, suchness/emptiness). In the Chinese the first two lines are a bare list of nouns with no predicate, and 不住於 only appears in line 3, so the central assertion (non-abiding in these dualities) is missing for them.",
+    "fix": "不住於常與無常，樂與苦，悅與不悅，\n不住於我與無我，真如與空性；\n不住於得果與阿羅漢地，\n不住於獨覺地，亦不住於佛地。"
+   }
+  ]
+ },
+ "2-16": {
+  "translation": "遍計假定於無邊俱胝之剎土，\n所有一切安住之有情，\n皆不作他業，唯以天花、勝香與\n塗香，於三世供養一劫或更長時；",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "於三世供養一劫或更長時",
+    "evidence": "Tibetan \"བྱུག་པས་དུས་གསུམ་བསྐལ་པའམ་དེ་བས་ལྷག་མཆོད\" — དུས་གསུམ here is the three times of the day, not the three times past/present/future. bo-mipham 2-15 glosses it \"ཉིན་མཚན་རེ་རེ་ཞིང་དུས་གསུམ་དུ་མ་ཆག་པར\" (at three times every day and night without break), and bo-rangjung 2-15 \"དུས་སྔ་དྲོ་གུང་ཕྱི་དྲོ་གསུམ\" (morning, noon, afternoon). english_academic has \"three times of each day\". Rendering with the locked 三世 changes the meaning of the offering schedule (the locked term does not fit this context).",
+    "fix": "於每日三時供養一劫或更長時"
+   }
+  ]
+ },
+ "2-32": {
+  "translation": "何以故？此等殊勝說者於此修學後，\n於此開示一切諸法皆為空性；\n聽聞此法，聲聞速疾觸證解脫，\n亦能觸證獨覺菩提與佛菩提。",
+  "issues": [
+   {
+    "type": "doctrinal",
+    "severity": "major",
+    "span": "亦能觸證獨覺菩提與佛菩提",
+    "evidence": "Tibetan 'རང་རྒྱལ་བྱང་ཆུབ་དང་ནི་སངས་རྒྱས་བྱང་ཆུབ་རེག' has no stated subject; the Chinese '亦能' attaches both awakenings to the śrāvakas just mentioned. bo-mipham 2-32 and bo-khenrab 2-32 distribute them by faculty: śrāvakas swiftly reach liberation; those of middling faculty reach pratyekabuddha awakening ('དབང་པོ་འབྲིང་གིས་...རང་རྒྱལ་བྱང་ཆུབ་ཐོབ་པ'); those of sharp faculty reach buddha awakening ('དབང་པོ་རྣོན་པོས་...སངས་རྒྱས་ཀྱི་བྱང་ཆུབ་ལ་རེག་པར་འགྱུར'). The Chinese makes śrāvakas attain all three.",
+    "fix": "聲聞速疾觸證解脫，獨覺（中根者）觸證獨覺菩提，利根者觸證佛菩提"
+   }
+  ]
+ },
+ "4-16": {
+  "translation": "欲求恭敬且欲求利養，\n以伴隨見之心親近俗家，\n捨棄佛法而從事非佛法之行為，\n捨棄道而走向歧路，此乃魔事。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "major",
+    "span": "以伴隨見之心",
+    "evidence": "The Tibetan 'ལྟ་དང་བཅས་པའི་སེམས' (Skt sāpekṣacitta) is not 'view' in the doctrinal sense. Mipham (bo-mipham 4-16) glosses it 'ཕྱི་རོལ་ཡུལ་ལ་ལྟ་བར་འདོད་པ་དང་བཅས་པའི་སེམས' (a mind with desire to look at external objects), and Khenrab (bo-khenrab 4-16) 'གཟུགས་དང་ཡུལ་གྱི་བཀོད་པ་སྣ་ཚོགས་བལྟ་བར་འདོད་པ་དང་བཅས་པའི་སེམས' (desire to gaze at varied forms and scenes). Rendering ལྟ as 見 (the locked term) in the Chinese phrase 伴隨見之心 reads as 'a mind accompanied by views', i.e. wrong views, which is a different meaning; the English reference also reads 'longs to view external objects'.",
+    "fix": "以帶著觀望外境之欲求的心親近俗家"
+   }
+  ]
+ },
+ "4-23": {
+  "translation": "世間真如與阿羅漢真如，\n獨覺真如與勝者之子真如，\n皆是同一、離實事且非他異的真如；\n如來了知此般若波羅蜜多。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "如來了知此般若波羅蜜多",
+    "evidence": "Tibetan 'ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་དེ་བཞིན་གཤེགས་པས་མཁྱེན' (Skt prajñāya pāramita ... tathāgatena): the perfection of wisdom is the means by which the Tathagata knows the suchnesses listed in the preceding lines (English reference: 'By the perfection of wisdom, the Tathāgata knows this'); Mipham's section heading around 4-22/4-23 is 'ཤེར་ཕྱིན་ལ་བརྟེན་ནས་འཇིག་རྟེན་གྱི་བདེན་གཉིས་ལ་མཁས་པ' (relying on the perfection of wisdom, being skilled in the world's truths). The Chinese makes the perfection of wisdom the object known and drops the suchness as the thing known, changing the logic.",
+    "fix": "如來藉由般若波羅蜜多而了知此（真如）"
+   }
+  ]
+ },
+ "4-52": {
+  "translation": "善逝菩提遠離各異之法，\n任何菩薩若欲獲得此者，\n具足方便當修般若，若無導師之般若則無法獲得。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "具足方便當修般若，若無導師之般若則無法獲得",
+    "evidence": "The Tibetan line is \"ཐབས་དང་ལྡན་པས་ཤེས་རབ་ཕ་འདྲེན་པའི་ཤེས་རབ་མེད་ན་ཐོབ་པར་འགྱུར་མ་ཡིན\"; commentary bo-mipham 4-52 and bo-khenrab 4-52 gloss it as \"འདྲེན་པ་རྒྱལ་བའི་ཡུམ་ཤེས་རབ་ཀྱི་ཕར་ཕྱིན\" (the perfection of wisdom, mother of the Guides/Victors) and say one must apply oneself to \"ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ\". The Chinese drops \"perfection\" (ཕ་རོལ་ཏུ་ཕྱིན་པ) and \"mother\" (ཡུམ), and \"導師之般若\" reads as the wisdom belonging to the guides rather than the wisdom that is their mother. english_academic: \"the perfection of wisdom, the mother of the Guides\".",
+    "fix": "具足方便者當勤修般若波羅蜜多；若無此導師之母般若波羅蜜多，則無法獲得"
+   }
+  ]
+ },
+ "4-61": {
+  "translation": "不為具欲業者預言將生為男或女，\n於極寂靜之般若波羅蜜多中遠離爭鬥與諍論，且慈心堅固，\n欲求一切智，且恆具趨向教法之心。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "於極寂靜之般若波羅蜜多中遠離爭鬥與諍論",
+    "evidence": "\"རབ་ཏུ་དབེན་པའི་ཤེས་རབ་ཕ་རོལ་ཕྱིན\" with Sanskrit \"pravivikta prajñavarapāramitā-abhiyuktāḥ\" (utterly secluded, devoted to the perfection of wisdom); bo-mipham 4-61/4-60 reads \"རབ་ཏུ་དབེན་པའི་སྒོ་ནས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མཆོག་ལ་བརྩོན་པ\" (striving at the perfection of wisdom while utterly secluded), and bo-rangjung 4-59 lists striving at the perfection of wisdom as a separate sign from being free of fighting and disputes (\"འཐབ་པ་དང་རྩོད་པ་དང་བྲལ\"). The Chinese makes \"極寂靜\" modify the perfection of wisdom, drops the devotion/striving, and puts freedom from conflict \"within\" the perfection.",
+    "fix": "極為寂靜，專注於般若波羅蜜多，遠離爭鬥與諍論"
+   }
+  ]
+ },
+ "4-74": {
+  "translation": "猶如水滴從最初直至最後，\n漸次一點一滴將其完全充滿；\n如是最初之心亦為殊勝菩提因，\n漸次圓滿善功德而成佛。",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "major",
+    "span": "將其完全充滿",
+    "evidence": "Tibetan line 2 'ཆུ་ཡི་ཐིགས་པས་བུམ་པ་དང་པོ་ཐ་མའི་བར། རིམ་གྱིས་ཉུང་ངུ་ཉུང་ངུས་དེ་ཡོངས་འགེངས་པ་ལྟར' names the object being filled, the vase (བུམ་པ). The Chinese drops 'vase' and has only the pronoun 其 with no antecedent, so the simile's object is missing (bo-mipham 4-74: 'བུམ་པ་བཀང་བ...བུམ་པ་དེ་ཡོངས་སུ་འགེངས་པ་ལྟར').",
+    "fix": "猶如以水滴從最初直至最後，漸次一點一滴將瓶完全充滿"
+   }
+  ]
+ },
+ "5-16": {
+  "translation": "極度飢餓之有情希求於飲食，\n具貪著輪迴之心者恆常流轉，\n我與我之法二者不真實且空，\n愚夫卻憑藉自身於虛空中打結。",
+  "issues": [
+   {
+    "type": "doctrinal",
+    "severity": "major",
+    "span": "極度飢餓之有情希求於飲食",
+    "evidence": "Tibetan has སེམས་ཅན་ཡོངས་སུ་ལྟོགས་པ་ཟས་ལ་འདོད་བྱེད་, but all three commentaries read the word as full conceptualisation/misconception, not physical hunger: bo-mipham 5-16 \"ཚུལ་བཞིན་མ་ཡིན་པའི་ཡོངས་སུ་རྟོག་པ་ཅན་དུ་གྱུར་པ ... འདོད་པའི་ཡོན་ཏན་གྱི་ཟས་ལ་འདོད་པ་སྐྱེ་བར་བྱེད\", bo-rangjung 5-16 \"ཡོངས་སུ་རྟོགས་པས་འདོད་ཡོན་གྱི་ཟས་ལ་འདོད་པར་བྱེད\", bo-khenrab 5-16 similar; the Sanskrit has parikalpayamāna (conceptualising) and the approved English reads \"fully conceptualizing\". \"Food\" is the food of sense pleasures, not literal food; the translation instead says beings are extremely hungry.",
+    "fix": "有情由全面分別計執而貪求（欲樂之）食"
+   }
+  ]
+ },
+ "5-25": {
+  "translation": "遠離雲層散發光網之太陽，\n升起之際摧毀一切濃密黑暗，\n一切螢火蟲、生靈與神鬼，\n以及群星與明月之光皆被掩蔽。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "神鬼",
+    "evidence": "Tibetan སྲིན་བུ་མེ་ཁྱེར་ ... སྲོག་ཆགས་འབྱུང་པོ་ཐམས་ཅད་ lists creatures with faint light of their own (Sanskrit krimi-jyotika-prāṇa-bhūtām). bo-mipham 5-25: \"སྲིན་བུ་མེ་ཁྱེར་ ... རང་གི་ལུས་ཀྱི་འོད་ ... སྣང་བར་བྱེད་པ་སྲོག་ཆགས་འབྱུང་པོ་ཐམས་ཅད\"; bo-khenrab 5-25 \"རང་ལུས་ཀྱི་འོད་ཀྱིས་ཉེ་བསྐོར་གྱི་མུན་པ་ཙམ་སེལ་ནུས་པ་སྲོག་ཆགས་འབྱུང་པོ་ཐམས་ཅད\". These are living creatures, not gods and ghosts; \"神鬼\" adds a different class of beings and breaks the simile (fireflies/creatures map to beings, arhats).",
+    "fix": "一切螢火蟲與一切生靈"
+   }
+  ]
+ },
+ "5-51": {
+  "translation": "善巧菩薩以四因具足力量，\n四魔難以勝伏亦不能動搖：\n安住於空性、不捨棄有情、\n如說而行，以及具足善逝之加持。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "major",
+    "span": "四魔難以勝伏亦不能動搖",
+    "evidence": "Tibetan བདུད་བཞིས་ཐུབ་པར་དཀའ་ཞིང་བསྐྱོད་པར་མི་ནུས: the four Māras are the agent (instrumental བཞིས), the bodhisattva is the one hard to overcome and impossible to shake (bo-mipham 5-51: བདུད་བཞིས་ཐུབ་པར་དཀའ་ཞིང་ལམ་ལས་བསྐྱོད་པར་མི་ནུས). In the Chinese the four Māras stand as grammatical subject of 難以勝伏, so it reads that the Māras are hard to subdue, reversing the relation.",
+    "fix": "彼為四魔所難以勝伏，亦不能為四魔所動搖"
+   }
+  ]
+ }
+}

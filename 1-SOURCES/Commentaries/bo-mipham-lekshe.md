@@ -19,9 +19,9 @@ source: https://online.adarshah.org/index.html?kdb=mipam&sutra=MP267&page=24-1-1
 other_ids:
 - 'Dzongsar: phakpadoepa comm-2'
 source_description: Dzongsar alignment doc exported as phakpadoepa-comm-2(root-comm).md, paired row for row with phakpadoepa-root-2(root-comm).md (the team's own cut of the Tibetan root), carried onto the display Tibetan by letters. Title, author and source from phakpadoepa-comm-2.csv. One passage the Dzongsar text lacks (row 209) is added from the Wikisource manuscript (see the manifest).
-text_id: null
-edition_id: null
-toc_id: null
+text_id: 6X1M2KQ9hE6QAT66zI7wA
+edition_id: YCKyUC49HFugzN4pc6Vil
+toc_id: 6sHUDb85GwtKzbWI2yS3i
 raw_sources:
 - file: 0-INBOX/raw-data/phakpadoepa-comm-2(root-comm).md
   sha1: 7713f503f3cfdb6e03e94a0efdc107894e0e3ac3
@@ -37,6 +37,8 @@ intake:
   date: '2026-10-04'
   annotations: 1-SOURCES/Annotations/bo-mipham-lekshe.annotations.json
 covers_verses: 0-2–8-3
+commentary_of: U5FlKUlLLtS1zo4n0EGZL
+aligned_to_edition_id: fYnGwQC4fH8Fa37vLUiXD
 ---
 
 # ཡོན་ཏན་རིན་ཆེན་སྡུད་པའི་འགྲེལ་པ་རྒྱལ་བའི་ཡུམ་གྱི་དགོངས་དོན་ལ་ཕྱིན་ཅི་མ་ལོག་པར་འཇུག་པའི་ལེགས་བཤད། ^0

@@ -1,0 +1,14 @@
+{
+ "4-48": {
+  "translation": "This teaching of the Guides is deep and hard to see. No one has realized it, and there is nothing to be reached. So, when the Kind Helper reached awakening, he paused. He thought, \"Who among all the living beings will understand this?\"",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "there is nothing to be reached",
+    "evidence": "Academic: 'It is not realized by anyone, nor is there any attaining of it' - no one attains it. The children's wording says there is no thing to attain, a different claim (and one that could be read as a doctrinal statement the verse does not make).",
+    "fix": "No one has realized it, and no one has reached it."
+   }
+  ]
+ }
+}

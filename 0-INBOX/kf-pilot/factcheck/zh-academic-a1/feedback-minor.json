@@ -1,0 +1,661 @@
+{
+ "1-2": {
+  "translation": "勝者的聲聞眾無論宣示多少佛法，\n進行講解以及具備正理的陳述，\n產生殊勝聖者的安樂並證得其果，\n這些全都是如來士夫的神力。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "產生殊勝聖者的安樂",
+    "evidence": "Tibetan 'མཆོག་འཕགས་བདེ་བ་བྱེད' = producing bliss that is itself supreme/exalted; bo-mipham 1-2 glosses 'མཆོག་ཏུ་འཕགས་པའི་བདེ་བ་མི་གནས་པའི་མྱ་ངན་ལས་འདས་པ' (supremely exalted bliss = non-abiding nirvana), and bo-khenrab 1-2 'སངས་རྒྱས་ཀྱི་བདེ་བ'. The Chinese 殊勝聖者的安樂 parses as 'bliss of supreme noble persons', adding a possessor the Tibetan lacks.",
+    "fix": "產生至高殊勝的安樂"
+   }
+  ]
+ },
+ "1-14": {
+  "translation": "具足善知識且具足勝觀者，\n聽聞勝者之母將不會心生恐懼，\n任何人若具備惡友且仰賴他人，\n就如同未燒透的瓦器觸水即毀壞。",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "將不會心生恐懼",
+    "evidence": "Tibetan 'སྐྲག་པར་ཡོང་མི་འགྱུར' uses the intensifier 'ཡོང' (never at all); bo-mipham 1-14 and bo-khenrab 1-14 gloss it 'ཡོངས་ཡེ་མི་འགྱུར' / 'ཡོང་ཡེ་མི་འགྱུར' (absolutely never). 將不會 renders only a plain future negative; english_academic has 'never'.",
+    "fix": "絕不會心生恐懼"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "未燒透的瓦器",
+    "evidence": "Tibetan 'སྣོད་སོ་མ་བཏང' = a vessel not fired at all (unfired); bo-khenrab 1-14 explains 'རྫ་མེར་མ་སྲེག་པ' (not burnt in the kiln). 未燒透 means 'not fired thoroughly', implying partial firing.",
+    "fix": "未經燒製的瓦器"
+   }
+  ]
+ },
+ "2-4": {
+  "translation": "凡是心想成為善逝之聲聞，\n以及想要成為獨覺，同樣想成為佛法之法王與佛者，\n若不依賴此安忍則無法證得，\n猶如不見從此岸前往彼岸之渡口。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "同樣想成為佛法之法王與佛者",
+    "evidence": "The Tibetan has only ཆོས་རྒྱལ ('Dharma King') as the third wish (རང་སངས་རྒྱས་དག་དེ་བཞིན་ཆོས་རྒྱལ་འགྱུར་འདོད་པ), the Sanskrit धर्मराजो likewise; Mipham 2-4 glosses it as one figure, ཆོས་ཀྱི་རྒྱལ་པོ་སངས་རྒྱས ('the Dharma King, the Buddha'), and Khenrab 2-4 as ཆོས་ཀྱི་རྒྱལ་པོ་སངས་རྒྱས་བཅོམ་ལྡན་འདས. The Chinese 佛法之法王與佛者 reads as two separate aspirants and wrongly pulls in the locked ཆོས→佛法.",
+    "fix": "同樣想成為法王，即佛者"
+   }
+  ]
+ },
+ "2-14": {
+  "translation": "怙主於中所行之此般若波羅蜜多，\n若有何人恭敬受持並通達，\n彼不為毒藥、兵器、火與水所害，\n魔與魔黨等黨類亦無法尋得其破綻。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "魔與魔黨等黨類",
+    "evidence": "Tibetan \"བདུད་དང་བདུད་ཀྱི་ཕྱོགས་ཀྱིས\" is simply \"Māra and Māra's faction\" (locked: བདུད་ཀྱི་ཕྱོགས = 魔黨). The translation stacks the locked terms for བདུད་ཀྱི་ཕྱོགས (魔黨) and ཕྱོགས (黨類) and adds \"等\", producing a redundant, slightly list-like phrase not in the Tibetan.",
+    "fix": "魔與魔黨亦無法尋得其可乘之機"
+   }
+  ]
+ },
+ "2-17": {
+  "translation": "若有何人因導師十力由此出生，\n而將此善逝之母亦即佛母書寫於經卷，\n受持並以花與塗香作恭敬，\n造作佛塔並作供養之福德亦不及此一分。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "亦即佛母",
+    "evidence": "Tibetan \"བདེ་བར་གཤེགས་ཀྱི་ཡུམ་འདི\" is just \"this Mother of the Sugatas\" (locked: 善逝之母); the added \"亦即佛母\" (from the separate locked entry ཡུམ) is not in the Tibetan and redundant.",
+    "fix": "將此善逝之母書寫於經卷"
+   }
+  ]
+ },
+ "2-20": {
+  "translation": "播下種子安住於地將生長，\n獲得聚合完全生出眾多形色；\n五波羅蜜多與所有菩提功德，\n彼等一切亦由般若波羅蜜多生。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "獲得聚合完全生出眾多形色",
+    "evidence": "Tibetan \"ཚོགས་པ་རྙེད་ནས་རྣམ་མང་གཟུགས་དག་རྣམ་པར་སྐྱེ\": bo-mipham 2-20 specifies \"རང་རང་གི་རྒྱུ་དང་རྐྱེན་གྱི་ཚོགས་པ་རྙེད་ནས\" (obtaining the assembly of their respective causes and conditions); bo-khenrab 2-20 likewise. \"獲得聚合\" leaves the assembled thing unspecified, and \"完全\" is added for རྣམ་པར་ (which here only means \"arise/grow\", Skt. virohanti).",
+    "fix": "遇得因緣聚合，眾多形色即得生起"
+   }
+  ]
+ },
+ "2-22": {
+  "translation": "勝者遍問帝釋，帝釋作答言：\n縱使化為如恆河沙數之佛剎土，\n彼等皆盈滿勝者之舍利，\n我亦唯取此般若波羅蜜多。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "縱使化為如恆河沙數之佛剎土",
+    "evidence": "Locked: སངས་རྒྱས་ཞིང = 佛剎 (the translation uses 佛剎土, mixing in ཞིང = 剎土). Also \"化為\" (transformed into) adds a notion of transformation; bo-mipham 2-22 reads \"སངས་རྒྱས་ཀྱི་ཞིང་དུ་གྱུར་པ\" simply as \"being buddha-fields equal in number to the Ganges sands\".",
+    "fix": "縱使有如恆河沙數之佛剎"
+   }
+  ]
+ },
+ "2-23": {
+  "translation": "若問何故？並非我不恭敬舍利，\n然因遍修般若之故而受供養；\n譬如依賴國王之人獲得尊敬，\n佛舍利亦依賴般若波羅蜜多。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "然因遍修般若之故而受供養",
+    "evidence": "Tibetan \"ཤེས་རབ་ཡོངས་སུ་བསྒོམས་པས་མཆོད་པར་བགྱིད\" has Śakra as the agent (\"I make offerings\"). bo-mipham 2-23 explains \"ཤེས་རབ་འདི་ལྟ་བུས་ཡོངས་སུ་བསྒོས་པས་སྐུ་གདུང་དེ་དག་ཀྱང་མཆོད་པར་བགྱིད་པའི་འོས་སུ་གྱུར\" and bo-khenrab 2-23 \"ཡོངས་སུ་ཟིན་ཅིང་བསྒོས་པས\", i.e. the relics are pervaded by wisdom. The translation drops the first-person agent and leaves unclear who cultivates wisdom (the relics are the object permeated by it).",
+    "fix": "然因（舍利）為般若所遍熏，故我供養之"
+   }
+  ]
+ },
+ "2-27": {
+  "translation": "譬如南贍部洲有千萬樹木，\n種類繁多、品類無數且形色各異；\n除了在陰影數量上作稱說之外，\n陰影並無種種區分，亦無差異。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "千萬樹木",
+    "evidence": "Tibetan \"ཤིང་རྣམས་བྱེ་བ་སྟོང་\" is thousands of koṭis (Skt. sahasrakoṭī; bo-mipham 2-27 \"བྱེ་བ་སྟོང་ཕྲག་དུ་མ\"). 千萬 is only ten million and understates the number; elsewhere (2-15) the translation correctly uses 千俱胝 for བྱེ་བ་ཕྲག་སྟོང.",
+    "fix": "千俱胝樹木"
+   }
+  ]
+ },
+ "2-29": {
+  "translation": "菩薩若於未善了知之狀態下，\n將色、想、受、行、識，\n遍開示為無常，即是行於造作；\n智者從不毀壞諸法。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "即是行於造作",
+    "evidence": "Tibetan 'བཅོས་ལ་སྤྱོད་པ་སྟེ' means practising a counterfeit/fabricated imitation; bo-mipham 2-29 glosses it as 'ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་གཟུགས་བརྙན་ནམ་ཤེར་ཕྱིན་བཅོས་མ' (an image/counterfeit of the perfection of wisdom), and bo-khenrab 2-29 likewise 'ཤེར་ཕྱིན་བཅོས་མ'. Chinese '造作' in Buddhist usage means volitional making/karmic fabrication and does not convey 'counterfeit', nor what is counterfeited.",
+    "fix": "即是行於偽造（仿似般若波羅蜜多）之物"
+   }
+  ]
+ },
+ "2-35": {
+  "translation": "譬如無熱惱池若無龍主，\n此南贍部洲何能有河川流注？\n若無河川，則不生起花朵與果實，\n大海之中亦將無有眾多寶色。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "眾多寶色",
+    "evidence": "Tibetan 'རིན་ཆེན་གཟུགས་མང་' (Sanskrit 'ratanā nekarūpāḥ'): many kinds/forms of jewels. bo-mipham 2-35 'རིན་ཆེན་སྣ་ཚོགས་ཀྱི་གཟུགས་མི་འདྲ་བ་མང་པོ' and bo-khenrab 2-35 'རིན་ཆེན་སྣ་ཚོགས་པ...གཟུགས་མི་འདྲ་བ་མང་པོ' (many dissimilar forms/kinds). Chinese '寶色' reads as 'colour of jewels', which narrows gzugs here.",
+    "fix": "眾多種種不同形色之寶"
+   }
+  ]
+ },
+ "2-38": {
+  "translation": "諸聲聞眾盡其布施與持戒，\n以及具足修習所生福德聚，\n相比菩薩求證菩提一念隨喜之心，\n聲聞眾之福德蘊不及一分。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "菩薩求證菩提一念隨喜之心",
+    "evidence": "Tibetan 'བྱང་ཆུབ་སེམས་དཔའི་རྗེས་སུ་ཡི་རང་སེམས་གཅིག' is simply a bodhisattva's single mind of rejoicing; 'བྱང་ཆུབ་' belongs to 'བྱང་ཆུབ་སེམས་དཔའ' (bodhisattva). The phrase '求證菩提' has no counterpart; bo-mipham 2-38 and bo-khenrab 2-38 describe the rejoicing as a single moment of mind, not a mind seeking awakening.",
+    "fix": "相較於菩薩一念隨喜之心"
+   }
+  ]
+ },
+ "2-40": {
+  "translation": "從最初發心、發殊勝菩提心起，\n直至諸導師正法滅盡之時，\n於此期間彼等勝者所有福德，\n具足波羅蜜多以及諸佛法與佛功德，",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "諸佛法與佛功德",
+    "evidence": "Tibetan 'སངས་རྒྱས་ཆོས་གང་' is a single item, 'whatever buddha-qualities' (locked 佛功德); the list is merit, what is endowed with the perfections, and buddha-qualities. The Chinese gives two items, '諸佛法' and '佛功德', duplicating the one term.",
+    "fix": "具足波羅蜜多以及諸佛功德"
+   }
+  ]
+ },
+ "2-44": {
+  "translation": "若取為相則非迴向，\n若無有相即是菩提迴向。\n猶如食用混雜毒藥之佳餚，\n勝者宣說以善法功德為所緣亦復如是。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "善法功德",
+    "evidence": "Tibetan 'དཀར་པོའི་ཆོས' is a single locked term (善法, 'white/virtuous phenomena'). The Chinese appends 功德 (the locked rendering of ཆོས་ in other contexts), producing a conflated compound '善法功德' with no counterpart in the Tibetan.",
+    "fix": "以善法為所緣"
+   }
+  ]
+ },
+ "2-50": {
+  "translation": "若思「我當修習勝者之般若，\n並解脫無數為苦所觸之有情」，\n如是遍計有情想、求菩提之菩薩，\n並非修習殊勝之般若波羅蜜多。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "求菩提之菩薩",
+    "evidence": "Tibetan has only བྱང་ཆུབ་སེམས་དཔའ་ (locked: 菩薩), a single term for 'bodhisattva'; 'seeking awakening' is not a separate word in the Tibetan or in Sanskrit bodhisattvo.",
+    "fix": "遍計有情想之菩薩"
+   }
+  ]
+ },
+ "4-6": {
+  "translation": "如是善入勝菩提者，\n應知聽聞此勝者之般若波羅蜜多；\n縱然未獲導師現前授記，\n「我不久將觸證佛菩提」。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "「我不久將觸證佛菩提」",
+    "evidence": "The quoted clause སངས་རྒྱས་བྱང་ཆུབ་རིང་པོར་མི་ཐོགས་བདག་རེག་འགྱུར་ is left without a governing verb, so it hangs after the semicolon. bo-khenrab 4-6 reads it as the person's own knowledge: 'བདག་གིས་རེག་པའམ་ཐོབ་པར་འགྱུར་རོ་སྙམ་དུ་ཤེས་ཏེ' (knows 'I will touch/attain...').",
+    "fix": "縱然未獲導師現前授記，亦知「我不久將觸證佛菩提」。"
+   }
+  ]
+ },
+ "4-45": {
+  "translation": "如是行持之善海與語中明月，\n乃為眾生之歸依、守護者與住處；\n為所依、覺慧、洲與尋求義利之導師，\n為照明之燈與不傾動之殊勝佛法宣說者。",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "為照明之燈",
+    "evidence": "Tibetan lists two separate epithets, \"གསལ་བྱེད་སྒྲོན་མ\" (illuminator, lamp); bo-mipham 4-45 glosses \"གསལ་བྱེད་དུ་གྱུར་པ\" (becoming the illuminator, by teaching person-selflessness) separately from \"ཆོས་ཀྱི་སྒྲོན་མ་ཆེན་པོ\" (the lamp, by teaching phenomena-selflessness). The Chinese fuses them into one \"照明之燈\", dropping the separate item.",
+    "fix": "為照明者、為燈"
+   }
+  ]
+ },
+ "4-46": {
+  "translation": "具大名聲者為難行而披甲，\n然此非蘊、界與處之鎧甲；\n彼等遠離三乘想且無執取，\n具不退轉、無動搖與不傾動之法性。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "具不退轉、無動搖與不傾動之法性",
+    "evidence": "Tibetan ends \"མི་ལྡོག་གཡོ་བ་མེད་ཅིང་མི་འཁྲུགས་ཆོས་ཅན་ཡིན\"; \"ཆོས་ཅན\" (Skt. -dharmāḥ) here means 'of such a nature / possessing' (bo-mipham 4-46: \"མི་འཁྲུགས་པའི་ཆོས་ཅན་ཡིན\"; bo-rangjung 4-46: \"ཡོན་ཏན་གྱི་ཆོས་ཁྱད་པར་ཅན་དང་ལྡན་པས...\"), not dharmatā. 法性 is the locked rendering of ཆོས་ཉིད, so using it here suggests a different term, and it makes 'irreversible' and 'unwavering' appear as a 'nature' rather than predicates of the subjects.",
+    "fix": "不退轉、無動搖，且為不可擾動之本性者"
+   }
+  ]
+ },
+ "4-48": {
+  "translation": "諸導師之此佛法甚深極難見，\n無任何人能證悟亦無從獲得，\n是故慈悲施益者證得菩提已，\n思量有情眾中孰能知而少顧念。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "少顧念",
+    "evidence": "Tibetan \"ཐུགས་ཁྲལ་ཆུང་བར་མཛད\" means he became reluctant or little disposed to teach; bo-mipham 4-48: \"ཆོས་སྟོན་པ་ལ་ཐུགས་ཁྲལ་ཆུང་བར་མཛད\" (little inclination toward teaching the Dharma); Skt. \"alpotsuko\". \"少顧念\" can be read as 'cared little about beings', which contradicts the compassionate benefactor named in the same verse.",
+    "fix": "於說法興致微薄"
+   }
+  ]
+ },
+ "4-53": {
+  "translation": "若有飛鳥身大一百五十由旬，\n羽翼盡毀而無勢力，\n彼從三十三天之處向此南贍部洲，\n自行躍下於彼必遭毀滅。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "必遭毀滅",
+    "evidence": "\"ཉམ་ཉེས་གྱུར་པ\" means suffering harm/injury; bo-khenrab 4-52 glosses it as \"ལུས་རྨས་པ་ལ་སོགས་པའི་ཉམས་ཉེས་ཆེན་པོ\" (body injured and the like, great harm). \"毀滅\" (destruction/annihilation) overstates it.",
+    "fix": "於彼必遭損傷"
+   }
+  ]
+ },
+ "4-58": {
+  "translation": "無有財物貪求，為眾生宣說佛法，\n唯一喜愛佛法，且恆時具備柔和語；\n於行走、經行、睡眠與安坐時皆極具正知，\n行走時僅視一軛之量，且心無錯亂。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "唯一喜愛佛法",
+    "evidence": "\"ཆོས་ལ་གཅིག་ཏུ་དགའ་ཞིང\" means being single-mindedly/exclusively delighted in the Dharma (bo-mipham 4-57: \"རྩེ་གཅིག་ཏུ་དགའ\"); \"唯一喜愛\" reads as \"the only thing they love\" and is awkward.",
+    "fix": "一向專心喜樂佛法"
+   }
+  ]
+ },
+ "4-60": {
+  "translation": "不求名譽，心未被瞋恚纏縛，\n縱為在家者，亦恆不貪著一切事物，\n不為謀生而以險惡手段尋求受用，\n不修威猛行咒，亦不修女人和合咒。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "女人和合咒",
+    "evidence": "\"བུད་མེད་སྦྱོར་སྔགས\" is explained in bo-mipham 4-60 and bo-khenrab 4-60 as mantras that bring women under one's power or control through desire (\"བུད་མེད་དབང་དུ་བྱེད་པའམ་རང་དབང་དུ་སྦྱོར་བའི་སྔགས\"); \"和合\" (harmony/union) does not convey subjugation.",
+    "fix": "令女人受制之咒"
+   }
+  ]
+ },
+ "4-64": {
+  "translation": "任何菩薩若如是趨於甚深，\n於勝義無貪之乘中，蘊與\n界、處皆無有，證悟此佛法者，\n其真實成就之福德更有何能超越？",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "無貪",
+    "evidence": "\"ཆགས་མེད\" is non-attachment (bo-khenrab 4-64: \"མངོན་ཞེན་གྱིས་ཆགས་པ་མེད་པ\"); \"無貪\" (non-greed, alobha) is a different technical term.",
+    "fix": "無著"
+   },
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "若如是趨於甚深",
+    "evidence": "\"དེ་ལྟར་ཟབ་གྱུར་ཅིང\" \"having thus become profound\" qualifies the dharma realized (bo-mipham 4-64: \"རྟོགས་བྱ་ཆོས་ཀྱི་རང་བཞིན་... དེ་ལྟར་ངོ་བོས་ཟབ་པར་གྱུར\"); \"趨於\" (tending toward) suggests a bodhisattva progressing toward profundity.",
+    "fix": "若如是已成甚深"
+   }
+  ]
+ },
+ "4-65": {
+  "translation": "譬如行於貪欲法之士夫，\n與女人相約卻未與之相會，\n其於一日之中生起多少心之分別，\n菩薩將能獲得爾許劫之成就。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "爾許劫之成就",
+    "evidence": "bo-mipham 4-65 says the bodhisattva obtains the virtue/merit accumulated over that many eons (\"བསྐལ་པར་བསགས་པའི་དགེ་བ་... ཐོབ་པར་འགྱུར\"), and bo-khenrab 4-65 says \"བསོད་ནམས་དང་ཡེ་ཤེས་ཀྱི་ཚོགས་བསགས་པའི་དགེ་བ\". \"成就\" (accomplishment) is vague and loses \"merit\" (བསོད་ནམས་ locked 福德 elsewhere); english_academic: \"the merit accumulated over that many eons\".",
+    "fix": "爾許劫所積之福德"
+   }
+  ]
+ },
+ "4-66": {
+  "translation": "任何菩薩於多千俱胝劫，\n縱向阿羅漢獨覺布施且持戒，\n若人宣說具殊勝般若波羅蜜多之佛法，\n彼布施持戒不及此宣說之善一分。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "阿羅漢獨覺",
+    "evidence": "The Tibetan lists two separate recipients, \"དགྲ་བཅོམ་རང་རྒྱལ\" (bo-rangjung 4-66: \"དགྲ་བཅོམ་པ་དང་རང་སངས་རྒྱས\"); without a conjunction the Chinese can be read as a single compound.",
+    "fix": "阿羅漢與獨覺"
+   }
+  ]
+ },
+ "4-81": {
+  "translation": "如是彼時善巧菩薩亦復然，\n於諸有情界中廣大生起悲，\n徹底超越四魔以及二地後，\n安住勝三摩地不觸及菩提。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "二地",
+    "evidence": "Tibetan 'ས་གཉིས' (two levels) is, per bo-mipham 4-80 ('ཉན་རང་གི་ས་གཉིས') and bo-rangjung 4-79 ('ཉན་ཐོས་དང་རང་སངས་རྒྱས་ཀྱི་ས་གཉིས'), the Śrāvaka and Pratyekabuddha levels. In Chinese Buddhist usage bare 二地 normally means the second bodhisattva bhūmi, a reading the commentaries exclude.",
+    "fix": "聲聞與緣覺二地"
+   }
+  ]
+ },
+ "4-82": {
+  "translation": "風依虛空而水蘊依於彼，\n此大地依彼且眾生依彼；\n有情受用業之因即如是，\n當思惟此義：虛空依何處？",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "水蘊",
+    "evidence": "Tibetan 'ཆུ་ཡི་ཕུང་པོ' means a mass or heap of water (the water layer of the world-system; bo-mipham 4-82 and bo-khenrab 4-82 describe it as the water layer supporting the great earth). 蘊 is the glossary rendering of ཕུང་པོ as 'aggregate' (skandha), so 水蘊 reads as a water-skandha and misleads.",
+    "fix": "水聚"
+   }
+  ]
+ },
+ "4-88": {
+  "translation": "譬如比丘具足勝神通力，\n住於虛空頓時化現神變，\n示現行走、經行以及坐臥，\n彼無厭倦亦無有疲勞。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "頓時",
+    "evidence": "Tibetan 'ཅིག་ཆར' means 'simultaneously'; bo-mipham 4-88 glosses it 'དུས་ཅིག་ཆར' and bo-khenrab 4-88 'དུས་ཅིག་ཆར་ཏུ' (at one and the same time). Skt 'yamaka' is the twin miracle. 頓時 means 'suddenly/instantly', a different nuance.",
+    "fix": "同時"
+   }
+  ]
+ },
+ "4-93": {
+  "translation": "如是菩薩前往空性珍寶之\n洲，獲得靜慮、諸根與諸力，\n並非僅喜悅於觸涅槃，\n而將有情置於受苦之心。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "珍寶之",
+    "evidence": "Tibetan \"རིན་ཆེན་གྱི། གླིང་དུ་སོང་སྟེ\" is the same jewel-island (རིན་ཆེན་གླིང) rendered 寶洲 in 4-92 and 4-94 (locked term); here it appears as 珍寶之洲, breaking term consistency (Mipham 4-92 also reads \"རིན་ཆེན་གྱི་གླིང\" for the same image).",
+    "fix": "前往空性寶洲"
+   }
+  ]
+ },
+ "4-96": {
+  "translation": "何時以慈相繫眾生後，\n行空性無相無願三摩地，\n謂彼將會證得於涅槃，\n或能施設為有為？無有是處。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "以慈相繫眾生後",
+    "evidence": "Tibetan \"འགྲོ་ལ་བྱམས་པས་རྗེས་སུ་འབྲེལ་བྱས་ནས\" (Mipham 4-96: བྱམས་པ་ཆེན་པོས་བཟུང་བའི་སྒོ་ནས་རྗེས་སུ་འབྲེལ་བར་བྱས) means \"being accompanied/held by loving-kindness toward beings\"; 慈相 can be read as a noun \"sign of loving-kindness\", colliding with 相 = nimitta in the very next line (無相).",
+    "fix": "以慈而與眾生相隨相繫之後"
+   }
+  ]
+ },
+ "5-9": {
+  "translation": "若於廣達五百由旬山谷中，\n充滿毒蛇之處安住千萬年，\n不知此遠離之彼菩薩，\n獲得增上慢而安住於混雜。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "千萬年",
+    "evidence": "Tibetan \"ལོ་མང་བྱེ་བ\" = \"many ten-millions of years\" (Sanskrit bahuvarṣakoṭī; Khenrab 5-8 \"ལོ་མང་པོ་བྱེའི་བར་དུ\"). 千萬年 states a single koṭi (10 million) and drops \"many\".",
+    "fix": "多個千萬年"
+   }
+  ]
+ },
+ "5-11": {
+  "translation": "無論安住於村莊或阿蘭若，\n若遠離二乘之心並定於殊勝菩提，\n此即趣入眾生利益者之遠離；\n衡量彼等之菩薩即毀壞自身。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "遠離二乘之心",
+    "evidence": "Tibetan \"ཐེག་པ་གཉིས་ཀྱི་སེམས་བྲལ\" uses བྲལ (be free of), not དབེན་པ; 遠離 is the locked rendering of དབེན་པ (seclusion), used in the next line, so the same word here blurs two different Tibetan terms.",
+    "fix": "離二乘之心"
+   }
+  ]
+ },
+ "5-17": {
+  "translation": "譬如因疑慮之想而引發中毒，\n縱使彼毒未入體內亦會昏厥；\n愚夫如是主張有我與我所，\n憑藉彼我之想，實為無常，而歷經生死。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "因疑慮之想而引發中毒",
+    "evidence": "Tibetan དོགས་པའི་འདུ་ཤེས་ཀྱིས་ནི་དུག་བསླང་བ with next line \"the poison has not gone inside\". bo-mipham 5-17: \"དུག་ཁོང་དུ་སོང་ངོ་སྙམ་དུ་དུག་གི་རྟོག་པ་མངོན་གྱུར་དུ་སྐྱེས་པ\" and bo-khenrab 5-17 \"དུག་ཁོང་དུ་སོང་ངོ་སྙམ་པའི་རྣམ་རྟོག་མངོན་གྱུར་སྐྱེས\": the thought of having taken poison arises. \"引發中毒\" can be read as actually causing poisoning, which the next line denies.",
+    "fix": "因疑慮之想而生起已中毒之念"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "實為無常",
+    "evidence": "Tibetan ཡང་དག་མི་རྟག་ is glossed by the commentaries as an unreal (ཡང་དག་པ་མིན་པ) perception/conception of self: bo-mipham 5-17 \"བདག་ཅེས་བྱ་བའི་ཡུལ་དེར་འདུ་ཤེས་པ་ཡང་དག་པ་མིན་པའི་རྟོག་པ་འབྱུང་ཞིང་དེའི་དབང་གིས་སྲིད་པར་སྐྱེ་ཞིང་འཆི་བ\", bo-khenrab 5-17 \"ཡང་དག་པ་མིན་པའི་ཀུན་རྟོག\"; Sanskrit has sadā abhūto (constantly, unreal). The Chinese \"實為無常\" has no clear subject and drops the point that the self-perception is unreal, replacing it with \"truly impermanent\".",
+    "fix": "憑藉對彼我之不真實想，於無常中不斷生死"
+   }
+  ]
+ },
+ "5-18": {
+  "translation": "正如具有執取，如是即被宣說為雜染；\n對我與我所無所緣，則被宣說為清淨；\n於此無有任何法轉為煩惱或完全清淨，\n菩薩如是了達般若波羅蜜多。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "於此無有任何法轉為煩惱或完全清淨",
+    "evidence": "Tibetan འདི་ལ་གང་ཡང་ཉོན་མོངས་རྣམ་དག་འགྱུར་མེད་པར; ཉོན་མོངས་ is a verb (be afflicted), and the agent is a person: bo-mipham 5-18 \"གང་ཟག་གང་ཡང་ཉོན་མོངས་པར་གྱུར་པ་དང་ ... རྣམ་པར་དག་པ་ཉིད་དུ་འགྱུར་བ་ཡང་མེད་པར\"; Sanskrit kaścid yo kliśyate śudhyate vā. The Chinese makes a \"法\" turn into 煩惱 (a noun), which shifts the referent and the sense.",
+    "fix": "於此無有任何者被煩惱所染或成為完全清淨"
+   }
+  ]
+ },
+ "5-19": {
+  "translation": "南贍部洲所有一切有情無一例外，\n彼等皆發殊勝菩提心，\n於諸多千萬年中廣行布施，\n皆為利益眾生而迴向作為菩提因；",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "The verse is concessive: the final particle ཡང་ in བྱང་ཆུབ་རྒྱུར་བསྔོ་ཡང་ (\"even if ... dedicate\"), explained in bo-rangjung 5-19 \"བསྔོ་ཡང༌། གང་ཟག་གང་ལ་ལ་ཞིག ... དེ་ལ་ ... ཆར་ཡང་མི་ཕོད\". The Chinese has no 縱使/即使, so the four lines read as a plain statement and the concession set up for the next verse is lost.",
+    "fix": "縱使南贍部洲所有一切有情無一例外"
+   }
+  ]
+ },
+ "5-27": {
+  "translation": "譬如王子欲求施捨財物之義，\n成為眾人之尊理應受趣近，\n彼雖僅如此亦令眾多有情歡喜，\n獲得方便安住王位更何須言。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "成為眾人之尊",
+    "evidence": "Tibetan ཀུན་གྱི་གཙོ་བོར་གྱུར་ཏེ: \"all\" refers to the other princes. bo-mipham 5-27 \"རྒྱལ་བའི་སྲས་ཀུན་གྱི་གཙོ་བོར་གྱུར་ཏེ\", bo-khenrab 5-27 \"རྒྱལ་པོའི་སྲས་ཀུན་གྱི་གཙོ་བོར་གྱུར་ཏེ\". The Chinese widens it to chief of all people.",
+    "fix": "成為諸王子之首"
+   },
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "獲得方便安住王位",
+    "evidence": "Tibetan ཐབས་ཐོབ་གྱུར་ཏེ་རྒྱལ་སྲིད་གནས་ནས: bo-mipham 5-27 \"རྒྱལ་ས་ལ་དབང་བའི་ཐབས་ཐོབ་པར་གྱུར་ཏེ་རྒྱལ་སྲིད་ལ་གནས་པའི་རྒྱལ་པོར་གྱུར་ནས\", bo-khenrab 5-27 \"རྒྱལ་སྲིད་ཀྱི་ཐབས་ཐོབ་པར་གྱུར་ཏེ\": the means/power to rule the kingdom (enthronement), not skillful means in the Buddhist sense. Bare \"獲得方便\" is opaque and reads as upāya.",
+    "fix": "獲得執掌王權之方便而安住王位"
+   }
+  ]
+ },
+ "5-33": {
+  "translation": "任何未獲授記之菩薩，\n若對獲授記者心生瞋恚而起諍論，\n具惡劣過患之心有多少剎那，\n便須於爾等劫中從頭披上鎧甲。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "爾等劫",
+    "evidence": "Tibetan དེ་སྙེད་བསྐལ་པར (\"for that many eons\") is a correlative of ཇི་སྙེད་པ; 爾等 means \"you (pl.)\" in Chinese and does not render the demonstrative \"that many\".",
+    "fix": "同樣多的劫"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "具惡劣過患之心",
+    "evidence": "Tibetan ཐབ་སྐྱོན་ལྡན་སེམས (Skt khila-doṣa); bo-mipham 5-33 glosses it as a mind with the fault 'like a hearth' (ཐ་བ་ལྟ་བུ་སྐྱོན) from a continuum unfit, in which seeds of virtue do not grow, i.e. barrenness, not generic 'bad' quality.",
+    "fix": "具荒瘠過患之心"
+   }
+  ]
+ },
+ "5-34": {
+  "translation": "「佛依安忍波羅蜜多證得菩提。」\n生起正念思維此心不善，\n發露並於日後防護，\n不生歡喜，彼即於此修學佛功德。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "「佛依安忍波羅蜜多證得菩提。」",
+    "evidence": "In the Tibetan the first line is the premise of the thought, not a separate quotation: bo-mipham 5-34 and bo-khenrab 5-34 read 'if Buddhas touch awakening by patience, then this angry mind of mine is not good (སེམས་འདི་བཟང་བ་མིན་སྙམ)'. Setting line 1 in its own quotation marks detaches it from the thought and leaves the following clause grammatically orphaned.",
+    "fix": "佛依安忍波羅蜜多證得菩提，（既然如此）"
+   }
+  ]
+ },
+ "5-36": {
+  "translation": "任何菩薩若如是了知此學處，\n彼即永遠不退失學處亦不毀犯持戒，\n彼為得佛功德而於此修學，\n彼善巧於增上學且無所緣。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "彼為得佛功德而於此修學",
+    "evidence": "Tibetan སངས་རྒྱས་ཅོས་མཉེས་བྱ་ཕྱིར means 'in order to please' (མཉེས་བྱ; Skt ārādhiteṣu). bo-rangjung 5-36 reads སངས་རྒྱས་ཀྱི་ཆོས་ཀྱིས་མཉེས་པར་བྱ་བའི་ཕྱིར; bo-mipham 5-36 gives 'attain' as one reading but also notes the 'please' reading. The translation renders only 'attain' and drops མཉེས.",
+    "fix": "彼為以佛功德令（諸佛）歡喜而於此修學"
+   }
+  ]
+ },
+ "5-42": {
+  "translation": "所有希求善與欲利益之有情，\n亦對彼等一切之福德蘊隨喜；\n是故彼等獲得勝者功德後，\n為滅盡苦而於世間行法施。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "彼等獲得勝者功德後",
+    "evidence": "Following 有情 immediately, 彼等 reads as the sentient beings who seek virtue. bo-mipham 5-42 shows དེ་དག refers to the irreversible bodhisattvas who rejoice (མི་ལྡོག་པའི་བྱང་ཆུབ་སེམས་དཔའ་དེ་དག ... རྒྱལ་བའི་ཡོན་ཏན་ཐོབ་པར་གྱུར་ནས), who also are the unstated subject of ཡི་རང་གྱུར.",
+    "fix": "是故彼等（隨喜之）菩薩獲得勝者功德後"
+   }
+  ]
+ },
+ "5-52": {
+  "translation": "如來之母此般若波羅蜜多，\n於宣說時，任何菩薩若生信解，\n且以至誠之心精進修持，\n應知彼賢善者已趣入於一切智。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "彼賢善者",
+    "evidence": "The Tibetan line ends 'དེས་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ལ་ཞུགས་རིག་བྱ', and the Sanskrit has only 'veditavyo' (it should be known) of the bodhisattva already mentioned; bo-rangjung 5-52 glosses it as 'དེ་ལྟ་བུའི་བསམ་སྦྱོར་དང་ལྡན་པ' (one possessing such motivation and application). Nothing says 'virtuous/good'; 賢善 is an added epithet.",
+    "fix": "應知彼已趣入於一切智"
+   }
+  ]
+ },
+ "5-54": {
+  "translation": "如是行持之善巧明慧菩薩，\n不緣取能證之法與諸佛功德；\n亦不緣取宣說者、欲求佛法者與見者；\n此乃欲求寂滅與喜愛功德者之安住。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "能證之法",
+    "evidence": "'དོགས་པར་བྱེད' in the parallel list 'འཆད་པར་བྱེད' (expounder), 'ཆོས་འདོད་' (one desiring Dharma), 'ལྟ་བར་བྱེད' (viewer) names an agent (Sanskrit 'budhyaka', one who awakens/realizes; bo-mipham 5-54 lists these as persons). 能證之法 reads it as a dharma that realizes, not an agent, and breaks the parallel with 宣說者、欲求佛法者、見者.",
+    "fix": "能證者"
+   }
+  ]
+ },
+ "5-56": {
+  "translation": "飛禽雖安住空中然不墜落，\n魚類雖安住水中亦不溺死；\n如是菩薩藉由靜慮之諸力，\n到彼岸、安住空性而不趣入涅槃。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "亦不溺死",
+    "evidence": "Tibetan 'འཚུབས་ཏེ་འཆི་བ་མེད' = is not agitated/disturbed and does not die (Sanskrit 'na mriyate'; bo-khenrab 5-56 says the fish's ears and nose are disturbed yet it does not die). 溺死 (drown) introduces a different image and drops 'agitated'.",
+    "fix": "亦不因擾動而死亡"
+   }
+  ]
+ },
+ "5-57": {
+  "translation": "欲達一切有情功德之最勝，\n欲觸證極為奇妙之最勝佛本智，\n任何欲以佛法作最上勝妙之法施者，\n皆應依止諸饒益者之此最勝安住。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "以佛法作最上勝妙之法施者",
+    "evidence": "Tibetan 'ཆོས་ཀྱི་སྦྱིན་པ་རབ་མཆོག་དམ་པ་སྦྱིན་འདོད་གང' = whoever wishes to give the supreme, holy gift of Dharma (法施). 'ཆོས' is part of the compound 'ཆོས་ཀྱི་སྦྱིན་པ'; the rendering adds a separate instrument 以佛法 ('with the Buddha-Dharma') that the Tibetan and Sanskrit ('uttamadharmadānam') do not have.",
+    "fix": "欲行最上殊勝之法施者"
+   }
+  ]
+ },
+ "5-68": {
+  "translation": "譬如南贍部洲一人昔未曾往\n天界之殊勝天城而後方前往；\n於見彼等遍所攝受之對境後，\n若返回此處則不生貪著般。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "遍所攝受之對境",
+    "evidence": "Tibetan 'ཡོངས་སུ་བཟུང་བའི་ཡུལ་དེ་རྣམས' = those realms/places that are held (possessed) by the gods (Sanskrit 'viṣaya tatra parigṛhītā'; english_academic: 'realms held by the gods'). 遍所攝受之對境 is hard to parse and obscures that the realms are the gods' possessions.",
+    "fix": "諸天所攝有之彼等境域"
+   }
+  ]
+ },
+ "5-73": {
+  "translation": "若菩薩安住於三摩地靜慮，\n生起希求阿羅漢與獨覺乘之心，\n則成未等引且掉舉之散亂心，\n完全退失佛功德猶如船毀之船夫。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "則成未等引且掉舉之散亂心",
+    "evidence": "Tibetan 'མཉམ་པར་མ་བཞག་རྒོད་ཅིང་སེམས་གཡེངས་གྱུར་པ་སྟེ' says the bodhisattva is not in equipoise, is agitated and has a distracted mind (Mipham 5-73: 'མཉམ་པར་མ་བཞག་པ་དང་། རྒོད་ཅིང་སེམས་གཡེངས་པར་གྱུར་པ་ཡིན'). The Chinese makes the bodhisattva 'become a mind' (成...心), which blurs the subject and the three predicates.",
+    "fix": "則成未等引，掉舉而散亂心"
+   }
+  ]
+ },
+ "5-80": {
+  "translation": "不善巧之菩薩計數千萬劫；\n若生長久之想而以苦修持菩提，\n修持正法之時將受長久之苦；\n由此退失精進波羅蜜多而具懈怠。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "若生長久之想而以苦修持菩提",
+    "evidence": "Tibetan 'རིང་བར་འདུ་ཤེས་སྡུག་བསྔལ་བྱང་ཆུབ་སྒྲུབ' has two perceptions (長久 and 苦, both governed by འདུ་ཤེས). Mipham 5-80: 'སྡུག་བསྔལ་བའི་འདུ་ཤེས་ཀྱི་སྒོ་ནས་བྱང་ཆུབ་སྒྲུབ་པར་བྱེད་ན' (accomplishes awakening through the perception of it as suffering). The Chinese '以苦修持' can be read as 'by means of austerity', dropping the perception (想) of suffering.",
+    "fix": "若生長久之想與苦之想而成辦菩提"
+   }
+  ]
+ },
+ "5-87": {
+  "translation": "任何具足安忍善法之菩薩，\n若人以珍寶充滿三千世界，供養世間解、\n諸佛、阿羅漢與獨覺，\n此布施蘊不及彼福德之一分。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "供養世間解、諸佛、阿羅漢與獨覺",
+    "evidence": "'འཇིག་རྟེན་མཁྱེན' is an epithet of the Buddhas, not a separate recipient: Sanskrit 'buddhāna lokavidunām arhat pratyayānām'; Mipham 5-87 'འཇིག་རྟེན་མཁྱེན་པ་སངས་རྒྱས་རྣམས་དང་། དགྲ་བཅོམ་པ་རྣམས་དང་རང་རྒྱལ་རྣམས་ལ་ཕུལ'. The Chinese lists 世間解 and 諸佛 as separate items.",
+    "fix": "供養諸佛世間解、阿羅漢與獨覺"
+   }
+  ]
+ },
+ "5-95": {
+  "translation": "能令決定菩提之功德生起之任何法，\n此即是具足功德法者之持戒義理；\n任何會令饒益者之菩提完全退失之法，\n導師宣說此即為破戒。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "能令決定菩提之功德生起之任何法",
+    "evidence": "Tibetan ཆོས་གང་ངེས་པའི་བྱང་ཆུབ་ཡོན་ཏན་འབྱུང་འགྱུར་བ: ངེས་པ qualifies the dharma (certain/definite to produce), not བྱང་ཆུབ. bo-mipham 5-95 glosses ཆོས་གང་ཞིག་ཀུན་སློང་གི་སྒོ་ནས་ངེས་པ ... བྱང་ཆུབ་མཆོག་གི་ཡོན་ཏན་འབྱུང་བར་འགྱུར་བ. The Chinese 決定菩提 reads as 'determinate awakening', allowing a wrong attachment of 'definite'.",
+    "fix": "決定能令菩提功德生起之任何法"
+   }
+  ]
+ },
+ "5-96": {
+  "translation": "即使菩薩受用五欲功德，\n若已歸依佛、佛法與聖僧伽，\n且心想「我當成佛」而作意一切智，\n智者應知其安住於持戒波羅蜜多。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "聖僧伽",
+    "evidence": "Locked term for འཕགས་པའི་དགེ་འདུན (in 'སངས་རྒྱས་ཆོས་དང་འཕགས་པའི་དགེ་འདུན་') is 聖僧; the translation renders it 聖僧伽 instead.",
+    "fix": "聖僧"
+   }
+  ]
+ },
+ "5-101": {
+  "translation": "任何如是清淨之有情持戒者，\n對一切悅意與不悅意皆無所見；\n布施頭與手足，亦無怯弱心，\n布施一切所有，且始終無有執著。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "對一切悅意與不悅意皆無所見",
+    "evidence": "Tibetan སྡུག་དང་མི་སྡུག་ཀུན་ལ་ལྟ་བ་མེད་པ (Skt. anapekṣaka, 'without regard/expectation'). bo-mipham 5-101: དེ་དང་དེར་མཚན་མར་ལྟ་བ་མེད་པ (does not regard them as fixed signs); bo-khenrab 5-101: མཚན་མར་མངོན་པར་ཞེན་པའི་ལྟ་བ་མེད་པ. The meaning is no fixating regard, not 'nothing seen'; 無所見 can be read as not perceiving.",
+    "fix": "對一切悅意與不悅意皆無執取之顧念"
+   }
+  ]
+ },
+ "5-107": {
+  "translation": "三有之中所有無餘諸有情，\n盡作計度，若由彼等一切\n對世間解之佛、阿羅漢與獨覺，\n於無邊劫行布施而善求聲聞；",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "盡作計度",
+    "evidence": "Tibetan ཡོངས་སུ་བརྟག་པ་བཟུང་སྟེ; bo-mipham 5-107 explains ཡོངས་སུ་བརྟག་པ་མཐའ་བཟུང་གི་དཔེར་བྱས་ཏེ (taking the utmost extent of what can be reckoned as the example). The Chinese 盡作計度 is opaque and drops the sense of taking the limit of reckoning as a measure.",
+    "fix": "以計度之極限為喻"
+   }
+  ]
+ }
+}

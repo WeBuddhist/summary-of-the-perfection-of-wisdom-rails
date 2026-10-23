@@ -1,0 +1,86 @@
+{
+ "4-6": {
+  "translation": "इसी प्रकार परम बोधि में सम्यक् प्रविष्ट हुए लोगों को\nजिनों की इस प्रज्ञापारमिता का श्रवण करने वाला जानना चाहिए;\nभले ही मार्गदर्शकों द्वारा उनके लिए साक्षात् भविष्यवाणी न की गई हो,\nकि \"मैं शीघ्र ही बुद्ध-बोधि का स्पर्श करूँगा।\"",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "भले ही मार्गदर्शकों द्वारा उनके लिए साक्षात् भविष्यवाणी न की गई हो, कि \"मैं शीघ्र ही बुद्ध-बोधि का स्पर्श करूँगा।\"",
+    "evidence": "Tibetan 'རྣམ་པར་འདྲེན་པས་མངོན་སུམ་ལུང་བསྟན་མ་གྱུར་ཀྱང་། ། སངས་རྒྱས་བྱང་ཆུབ་རིང་པོར་མི་ཐོགས་བདག་རེག་འགྱུར' (Skt 'yadyāpi saṃmukha na vyākṛtu nāyakena tathāpi spṛkṣyati nacireṇa buddhabodhim') states a concession followed by a main clause: even without a direct prophecy, they will before long touch buddha-awakening. The Hindi turns 'I will soon touch' into the content of the unmade prophecy ('prophecy that I will...'), so the main assertion (they will attain awakening soon, and know it, per bo-khenrab 4-6 'བདག་གིས་རེག་པའམ་ཐོབ་པར་འགྱུར་རོ་སྙམ་དུ་ཤེས་ཏེ') is lost.",
+    "fix": "भले ही मार्गदर्शक द्वारा उन्हें साक्षात् भविष्यवाणी न की गई हो, फिर भी वे \"मैं शीघ्र ही बुद्ध-बोधि का स्पर्श करूँगा\" ऐसा जानते हैं।"
+   }
+  ]
+ },
+ "4-16": {
+  "translation": "सत्कार की इच्छा करेंगे और लाभ की इच्छा करेंगे,\nदृष्टि से युक्त चित्त से गृहस्थों के साथ संसर्ग करेंगे,\nधर्म को छोड़कर अधर्म के कार्यों में प्रवृत्त होंगे,\nमार्ग को छोड़कर कुमार्ग पर जाएँगे, यह मार का कर्म है।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "major",
+    "span": "दृष्टि से युक्त चित्त",
+    "evidence": "Tibetan ལྟ་དང་བཅས་པའི་སེམས renders Skt sāpekṣa-citta. Mipham (bo-mipham 4-16) glosses it ཕྱི་རོལ་ཡུལ་ལ་ལྟ་བར་འདོད་པ་དང་བཅས་པའི་སེམས, 'a mind with the wish to look at external objects'; Khenrab (bo-khenrab 4-16) likewise ལྟ་བར་འདོད་པ་དང་བཅས་པའི་སེམས. Here lta means looking/longing, not a philosophical 'view'; Hindi 'दृष्टि' (view) with the locked term misapplied reads as 'a mind possessed of a view' and drops the sense of longing for external objects.",
+    "fix": "बाह्य विषयों को देखने की लालसा से युक्त चित्त से गृहस्थों के साथ संसर्ग करेंगे"
+   }
+  ]
+ },
+ "4-22": {
+  "translation": "जो अतीत हो चुके और दसों दिशाओं के जो लोकनाथ हैं,\nतथा भविष्य में जो उत्पन्न होंगे, वे सभी इसी से उत्पन्न होते हैं।\nयह लोकशास्ता जिनों को जन्म देने वाली माता है,\nजो अन्य सत्त्वों के चित्त के आचरण को दर्शाती है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "यह लोकशास्ता जिनों को जन्म देने वाली माता है",
+    "evidence": "Tibetan འཇིག་རྟེན་སྟོན་པ་རྒྱལ་བ་རྣམས་ཀྱི་སྐྱེད་བྱེད་ཡུམ takes 'world-teacher' as the epithet of the Victors (the Mother gives birth to the Victors who are teachers of the world). Khenrab (bo-khenrab 4-22) says the Buddhas, having seen reality, teach others, and arise relying on the Mother, and Mipham (bo-mipham 4-22) has the Mother produce the Buddhas. The Hindi 'यह लोकशास्ता' makes the Mother herself the world-teacher, a wrong referent.",
+    "fix": "यह लोक के शास्ता जिनों को जन्म देने वाली माता है"
+   }
+  ]
+ },
+ "5-1": {
+  "translation": "पाँचवाँ परिच्छेद: मूर्धाभिसमय का प्रदर्शन। अर्हत् की भूमि और प्रत्येकबुद्ध के ज्ञान की, और त्रिधातु की वे स्वप्न में भी इच्छा नहीं करते, बुद्धों के दर्शन करते हुए जगत् के प्राणियों को धर्म का उपदेश देते हैं, इसे अविनिवर्तनीयता की भविष्यवाणी जानना चाहिए।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "बुद्धों के दर्शन करते हुए जगत् के प्राणियों को धर्म का उपदेश देते हैं",
+    "evidence": "Tibetan སངས་རྒྱས་རྣམས་མཐོང་འགྲོ་ལ་ཆོས་ཀྱང་སྟོན་བྱེད་པ: the bodhisattva sees the Buddhas who teach the Dharma to beings. bo-rangjung 5-1: སངས་རྒྱས་རྣམས་མཐོང་སྟེ་ཁྲི་ལ་བཞུགས་ནས་འགྲོ་བ་ལ་ཆོས་ཀྱང་སྟོན་པར་བྱེད་པ་རྨི་ལམ་དུ་མཐོང་བ; bo-khenrab 5-1: སངས་རྒྱས་དེ་རྣམས་ཀྱིས་འགྲོ་ལ་ཆོས་ཀྱང་སྟོན་པར་བྱེད་པ་བྱང་སེམས་གང་གིས་མཐོང་བ. The Buddhas are the teachers; english_academic: 'Seeing the Buddhas teaching the Dharma to beings'. The Hindi makes the bodhisattva (the subject of 'वे') the one who teaches the Dharma to beings.",
+    "fix": "बुद्धों को जगत् के प्राणियों को धर्म का उपदेश देते हुए देखते हैं"
+   }
+  ]
+ },
+ "5-61": {
+  "translation": "बुद्धपुत्रों, श्रावकों, प्रत्येकबुद्धों और देवों के,\nतथा जगत् के सभी प्राणियों के जितने भी सुख और आनन्द के धर्म हैं,\nवे सब श्रेष्ठ प्रज्ञापारमिता से ही उत्पन्न हुए हैं,\nफिर भी प्रज्ञा का न क्षय होता है और न वृद्धि होती है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "बुद्धपुत्रों, श्रावकों, प्रत्येकबुद्धों और देवों के, तथा जगत् के सभी प्राणियों के जितने भी सुख और आनन्द के धर्म हैं",
+    "evidence": "In the Tibetan \"སངས་རྒྱས་སྲས་དང་ཉན་ཐོས་རང་རྒྱལ་ལྷ་རྣམས་དང་། འགྲོ་བ་ཀུན་གྱི་བདེ་སྐྱིད་ཆོས་རྣམས་ཇི་སྙེད་པ། དེ་ཀུན་ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་མཆོག་ལས་བྱུང\" the buddha-sons, śrāvakas, pratyekabuddhas and gods are themselves items in the list of what arises from the perfection of wisdom, coordinated with (not owners of) the happiness-dharmas of all beings. Mipham 5-61 lists them as separate arisers and says \"ཤེར་ཕྱིན་ལས་སངས་རྒྱས་འབྱུང\"; Sanskrit has them as a nominative list (\"बुद्धसम श्रावकप्रत्ययाश् च मरुतश् च ... सुखसौख्यधर्माः\"). The Hindi genitive \"...के ... के ... धर्म\" makes the sons, śrāvakas etc. only possessors of happiness-dharmas, dropping the claim that they themselves arise from the perfection of wisdom.",
+    "fix": "बुद्धपुत्र, श्रावक, प्रत्येकबुद्ध और देव, तथा जगत् के सभी प्राणियों के सुख और आनन्द के जितने भी धर्म हैं,"
+   }
+  ]
+ },
+ "5-72": {
+  "translation": "उसी प्रकार, विद्वान् बोधिसत्त्व प्रीति और,\nसुख प्रदान करने वाले चार शान्त ध्यानों तथा समाधियों को प्राप्त करके,\nध्यान-सुख से युक्त ध्यान तथा समाधि की प्राप्ति को त्यागकर,\nजगत् के प्रति करुणा से युक्त हो पुनः कामधातु में प्रवेश करते हैं।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "प्रीति और, सुख प्रदान करने वाले चार शान्त ध्यानों",
+    "evidence": "Tibetan \"མཁས་པ་དགའ་བ་དང་། བདེ་སྦྱིན\" has the wise bodhisattvas as the ones who give joy and bliss (to beings); Mipham (bo-mipham 5-72): the bodhisattvas \"སེམས་ཅན་རྣམས་ལ་འཕྲལ་དུ་དགའ་བ་དང་ནམ་ཕུག་གི་བདེ་བ་སྦྱིན་པར་བྱེད་པ\"; Rangjung (5-71) likewise \"གཞན་ལ་བདེ་བ་སྦྱིན་པ\". The Hindi line break makes \"प्रदान करने वाले\" qualify the four dhyāna-samādhis, so the dhyānas become the givers and the beings (recipients) disappear. (The Sanskrit \"prīti-sukhadāṃ śāntāṃ samādhi\" allows that reading, but the Tibetan and commentaries do not.)",
+    "fix": "विद्वान् बोधिसत्त्व, जो (प्राणियों को) प्रीति और सुख प्रदान करते हैं, चार शान्त ध्यान-समाधियों को प्राप्त करके"
+   }
+  ]
+ },
+ "5-107": {
+  "translation": "तीन भव में अशेष जितने भी सत्त्व हैं,\nपूरी तरह विचार कर कि वे सभी\nलोकविद् बुद्धों, अर्हतों और प्रत्येकबुद्धों को\nअनन्त कल्पों तक दान दें और भली-भांति श्रावक की खोज करें;",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "पूरी तरह विचार कर कि वे सभी",
+    "evidence": "Tibetan 'ཡོངས་སུ་བརྟག་པ་བཟུང་སྟེ' does not mean 'having thoroughly considered'. bo-mipham 5-107 glosses 'ཡོངས་སུ་བརྟག་པ་མཐའ་བཟུང་གི་དཔེར་བྱས་ཏེ', i.e. taking the utmost limit of what can be reckoned as the example (English: 'Taking them as the utmost extent of what can be conceived'). The Hindi turns this into a mental act of deliberation and drops the sense of an extreme, limiting case.",
+    "fix": "गणना की चरम सीमा को दृष्टान्त बनाकर, यदि वे सभी"
+   }
+  ]
+ }
+}

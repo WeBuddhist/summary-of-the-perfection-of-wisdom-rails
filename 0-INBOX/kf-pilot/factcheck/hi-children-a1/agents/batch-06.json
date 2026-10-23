@@ -1,0 +1,308 @@
+{
+ "batch": "batch-06",
+ "segments": [
+  {
+   "id": "4-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-55",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "बुद्ध का यान रूपी इस सवारी में बैठकर",
+     "evidence": "Text says: whoever wants to be definitely liberated in this Buddha-vehicle. The phrase 'यान रूपी इस सवारी' is ungrammatical and doubles the vehicle image.",
+     "fix": "जो कोई बुद्ध के इस यान पर सवार होकर मुक्त होना चाहता है,"
+    }
+   ]
+  },
+  {
+   "id": "4-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-58",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "उनका पूरी तरह सजग रहना होता है",
+     "evidence": "Text says they are fully mindful/alert (samprajanya) while walking, strolling, lying and sitting; the Hindi phrasing is awkward and ungrammatical.",
+     "fix": "चलने, टहलने, सोने और बैठने में वे पूरी तरह सजग रहते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "4-59",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "उनके मन, वचन और शरीर शुद्ध होते हैं",
+     "evidence": "Academic translation says only 'the three are secluded and pure' without naming what the three are; the children's text specifies body, speech and mind.",
+     "fix": "उन तीनों की शुद्धता और एकान्त भी उनके साथ रहता है — या: वे तीनों तरह से शुद्ध और शांत होते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "4-60",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "बुरे कामों या किसी को वश में करने के लिए कभी शक्ति के शब्द नहीं बोलते",
+     "evidence": "Text names two kinds of mantras they do not use: mantras for fierce/wrathful actions and mantras for bringing women together (union); the children's text generalises the second to 'controlling anyone'.",
+     "fix": "वे उग्र कामों के लिए या दूसरों को अपने वश में करने के लिए कभी शक्ति के शब्द नहीं बोलते।"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "गुस्सा से नहीं भरता",
+     "evidence": "Ungrammatical postposition use ('गुस्से से' is correct).",
+     "fix": "उनका मन कभी गुस्से से नहीं भरता।"
+    }
+   ]
+  },
+  {
+   "id": "4-61",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "उनका मन हमेशा अच्छी राह पर लगा रहता है",
+     "evidence": "Text says their mind is always directed toward the teaching (shasana/bstan); 'अच्छी राह' loses the reference to the Buddha's teaching.",
+     "fix": "उनका मन हमेशा बुद्ध की शिक्षा की ओर लगा रहता है।"
+    }
+   ]
+  },
+  {
+   "id": "4-62",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "बिना किसी शक के हमेशा मेरु पर्वत की तरह पक्के रहते हैं",
+     "evidence": "Text says they are free of doubt about their own ground/stage and are always like Mount Meru; 'their own ground' is dropped.",
+     "fix": "अपनी भूमि के बारे में उन्हें कोई शक नहीं होता और वे हमेशा मेरु पर्वत की तरह अडिग रहते हैं।"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "बुरे लोगों वाले सीमा के इलाके",
+     "evidence": "Text says border regions and the lands of barbarian (mleccha) peoples; 'बुरे लोग' is a vague moral label not in the text.",
+     "fix": "सीमा के इलाके और दूर के जंगली लोगों के इलाके"
+    }
+   ]
+  },
+  {
+   "id": "4-63",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "इन ढेर की गहराई",
+     "evidence": "Ungrammatical plural ('ढेरों' needed).",
+     "fix": "इन ढेरों की गहराई का पता नहीं चलता।"
+    }
+   ]
+  },
+  {
+   "id": "4-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-65",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "तब एक ही दिन में उसके मन में जितने भागते विचार आते हैं। एक बोधि-वीर उतने ही युगों की भलाई पा लेता है।",
+     "evidence": "The comparison is split into a dangling clause and a separate sentence, making the 'as many... so many' structure hard to follow.",
+     "fix": "ऐसे आदमी के मन में एक ही दिन में जितने भागते विचार आते हैं, बोधि-वीर उतने ही युगों की भलाई पा लेता है।"
+    }
+   ]
+  },
+  {
+   "id": "4-66",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "बुद्ध कहते हैं:",
+     "evidence": "The segment names no speaker; the attribution to the Buddha is added.",
+     "fix": "(इस वाक्यांश को हटा दें) अगर कोई बोधि-वीर..."
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "लाखों युगों",
+     "evidence": "Text says many koti-thousands of aeons (billions); 'lakhs' understates the number.",
+     "fix": "अरबों युगों तक"
+    },
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "तो उसे बहुत पुण्य मिलता है",
+     "evidence": "Not stated in the segment; the text only says the giving and ethics do not reach a fraction of the merit of teaching.",
+     "fix": "(इस वाक्य को हटा दें)"
+    }
+   ]
+  },
+  {
+   "id": "4-67",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "इन तीन दुनियाएँ में",
+     "evidence": "Ungrammatical inflection of the locked term ('तीन दुनियाओं में').",
+     "fix": "इन तीन दुनियाओं में कुछ भी नहीं है।"
+    }
+   ]
+  },
+  {
+   "id": "4-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-69",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "वह हमेशा वैसा ही रहता है।",
+     "evidence": "Text only says the dharmadhatu neither decreases nor increases; 'always remains the same' is an added gloss.",
+     "fix": "(इस वाक्य को हटा दें)"
+    },
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Text says the teachings are well practised and well taught, as well as spoken by the Buddha; 'practised' is dropped.",
+     "fix": "बुद्ध ने जो शिक्षाएँ बताईं और जिन पर अच्छी तरह चला गया"
+    }
+   ]
+  },
+  {
+   "id": "4-70",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "कभी नहीं भटकते",
+     "evidence": "Text says they do not fall away/decline (ཉམས་པ་མེད, 'च्युत नहीं होते'); 'भटकना' means to wander.",
+     "fix": "कभी पीछे नहीं गिरते"
+    }
+   ]
+  },
+  {
+   "id": "4-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-74",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "और सभी अच्छे गुण पाकर",
+     "evidence": "Text says only that by gradually perfecting the virtues of goodness they become buddha; a second, redundant clause is added.",
+     "fix": "धीरे-धीरे अच्छाई के गुण पूरे करके बुद्ध बन जाते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "4-75",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "दुख से परे शान्ति को नहीं पकड़ते",
+     "evidence": "Text says they do not touch (reach and stay in) nirvana; 'पकड़ना' suggests grasping.",
+     "fix": "दुख से परे शान्ति में रुक नहीं जाते"
+    }
+   ]
+  },
+  {
+   "id": "4-76",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "मुझे दस शक्तियों से भविष्यवाणी मिलेगी",
+     "evidence": "'Ten powers' is the epithet of the Buddha who gives the prediction; the Hindi reads as though powers give it.",
+     "fix": "दस शक्तियों वाले बुद्ध से मुझे भविष्यवाणी मिलेगी"
+    }
+   ]
+  },
+  {
+   "id": "4-77",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "हिम्मत का कवच",
+     "evidence": "Text says only that they put on armour; the 'courage' gloss is added.",
+     "fix": "वे कवच पहन लेते हैं।"
+    }
+   ]
+  }
+ ]
+}

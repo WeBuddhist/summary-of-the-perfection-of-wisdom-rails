@@ -1,0 +1,184 @@
+{
+ "batch": "batch-15",
+ "segments": [
+  {
+   "id": "5-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-95",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "the qualities of certain awakening",
+     "evidence": "ངེས་པ in 'ཆོས་གང་ངེས་པའི་བྱང་ཆུབ་ཡོན་ཏན་འབྱུང་འགྱུར་བ' is explained by bo-mipham 5-95 as certainty (the dharma that definitely brings about the qualities of supreme awakening: 'ཐོབ་བྱ་བྱང་ཆུབ་མཆོག་གི་ཡོན་ཏན་འབྱུང་བར་འགྱུར་བ'); 'certain awakening' reads as a kind of awakening rather than the certainty of the causal result.",
+     "fix": "Whatever phenomena certainly cause the qualities of awakening to arise"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "the awakening of benefactors",
+     "evidence": "'ཕན་བྱེད' means those who benefit (others): bo-mipham 5-95 'ཕན་བྱེད་བྱང་སེམས་རྣམས'; bo-rangjung 5-95 'གཞན་ལ་ཕན་པར་བྱེད་པ་རྣམས'; Sanskrit hitaṃkarāṇām. 'Benefactors' suggests donors/patrons.",
+     "fix": "the awakening of those who benefit others"
+    }
+   ]
+  },
+  {
+   "id": "5-96",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "The wise should understand that they abide in the perfection of ethical discipline.",
+     "evidence": "In 'མཁས་པ་ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་གནས་རིག་པར་བྱ' the wise one (མཁས་པ) is the bodhisattva who abides, and is the one to be recognised as abiding. bo-mipham 5-96: 'དོན་ལ་མཁས་པ་དེ་ནི་ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་གནས་པར་རིགས་པར་བྱའོ'; bo-rangjung 5-96: 'མཁས་པ་ངེས་དོན་ཐེག་པ་ཆེན་པོའི་ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་གནས་པར་རིག་པར་བྱ'; Sanskrit 'sthitu śīlapāramita vedayitavya vijñaḥ' (nominative, gerundive). The English makes 'the wise' the knowers of a bodhisattva, changing who is wise and who abides.",
+     "fix": "that wise one should be understood as abiding in the perfection of ethical discipline (the skilled bodhisattva is to be recognised as abiding in the perfection of ethical discipline)"
+    }
+   ]
+  },
+  {
+   "id": "5-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-98",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Being without conceit because of it",
+     "evidence": "'དེ་ཡིས་རློམ་སེམས་མེད' means no conceit about / on account of the ethical discipline, not that discipline causes absence of conceit: bo-mipham 5-98 'ཚུལ་ཁྲིམས་དེ་ལ་མཚན་མར་བཟུང་བ་ཡིས་རློམ་སེམས་སུ་གྱུར་པ་མེད'; bo-khenrab 5-98 'ཚུལ་ཁྲིམས་དེ་ལ་བདེན་པར་ཞེན་པ་ཡིས་རློམ་སེམས་སུ་གྱུར་བ་མེད'; Sanskrit 'na ca tena manyati'.",
+     "fix": "Not becoming conceited on account of it, and not praising oneself"
+    }
+   ]
+  },
+  {
+   "id": "5-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-101",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Has no view regarding anything pleasant or unpleasant",
+     "evidence": "'ལྟ་བ་མེད' is explained as not regarding things as fixed signs / with attachment-aversion: bo-mipham 5-101 'དེ་དང་དེར་མཚན་མར་ལྟ་བ་མེད'; bo-rangjung 5-101 'ཆགས་སྡང་དུ་བལྟ་བ་མེད'; Sanskrit 'anapekṣaka' (without regard). 'Has no view' reads as a doctrinal view (dṛṣṭi).",
+     "fix": "Has no fixating regard for anything pleasant or unpleasant"
+    }
+   ]
+  },
+  {
+   "id": "5-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-107",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Taking them fully into consideration",
+     "evidence": "'ཡོངས་སུ་བརྟག་པ་བཟུང་སྟེ' is glossed as taking the limit/extent of what can be reckoned or imagined: bo-mipham 5-107 'ཡོངས་སུ་བརྟག་པ་མཐའ་བཟུང་གི་དཔེར་བྱས་ཏེ'; bo-rangjung 5-106 'ཡོངས་སུ་བརྟག་པའི་མཐའ་བཟུང་སྟེ'. It marks the maximal hypothetical case, not 'taking them into consideration'.",
+     "fix": "Taking them as the utmost extent of what can be conceived"
+    }
+   ]
+  },
+  {
+   "id": "5-108",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Rejoices in their basis of meritorious action",
+     "evidence": "'དེ་དག་བསོད་ནམས་བྱ་བའི་དངོས་ལ་ཡི་རང' refers to the meritorious bases of those beings of the preceding verse (bo-rangjung 5-108 'འཁོར་འདས་དེ་དག་གི་བསོད་ནམས་བྱ་བའི་དངོས་པོ་ལ་ཡིད་རང་ནས'; bo-mipham 5-107 'བཤད་མ་ཐག་པ་དེ་དག་གི་བསོད་ནམས་བྱ་བའི་དངོས་པོ་དེ་ལ་ཡི་རང'). After 'any bodhisattva', 'their' reads as the bodhisattva's own.",
+     "fix": "Rejoices in the bases of meritorious action of those beings"
+    }
+   ]
+  },
+  {
+   "id": "5-109",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "imitation glass jewels",
+     "evidence": "'ནོར་བུ་མཆིང་བུ' corresponds to Sanskrit 'kācasya maṇi' (glass jewel); 'imitation' is not in the Tibetan or Sanskrit, and 'glass' and 'imitation' double up.",
+     "fix": "a great heap of glass jewels"
+    }
+   ]
+  },
+  {
+   "id": "5-110",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Does not claim it as \"mine\"",
+     "evidence": "All three commentaries take what is not claimed as 'mine' to be the merit/result of the giving, while the object is dealt with separately by 'ཕངས་མེད': bo-mipham 5-110 'སྦྱིན་པའི་བསོད་ནམས་དེ་ལ་བདག་གིར་མི་བྱེད'; bo-rangjung 5-110 'སྦྱིན་པ་བྱིན་པའི་བསོད་ནམས་དེ་ལས་བདག་གིར་མི་བྱེད'; bo-khenrab 5-110 'སྦྱིན་པའི་འབྲས་བུ་དེ་ལ་བདག་གིར་མི་བྱེད'. 'It' after 'gifts' reads as the gift itself.",
+     "fix": "Does not claim the merit of it as \"mine\" and is unsparing of the entity"
+    }
+   ]
+  },
+  {
+   "id": "6-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "Chapter Six",
+     "evidence": "Tibetan 'སྐབས་དྲུག་པ' is 'sixth topic/occasion' (སྐབས), the heading of the sixth of the eight-fold sequence; the commentaries count in སྐབས (bo-rangjung 5-110 'སྐབས་བདུན་པ... བརྒྱད་པ'), not ལེའུ (chapter) which they use for chapter numbers (bo-khenrab 5-110 'ལེའུ'). 'Chapter Six' conflates the two numbering schemes.",
+     "fix": "Sixth topic: teaching the gradual path"
+    }
+   ]
+  }
+ ]
+}

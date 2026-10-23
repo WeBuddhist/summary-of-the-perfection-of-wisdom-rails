@@ -1,0 +1,713 @@
+{
+ "batch": "batch-10",
+ "terms": [
+  {
+   "term_id": "T010",
+   "bo": "འདུ་ཤེས",
+   "sanskrit": "saṃjñā",
+   "senses": [
+    {
+     "sense": "perception",
+     "occurrences": "all",
+     "academic": "想",
+     "children": "想法",
+     "basis": "style-sheet",
+     "reason": "Core term; aggregate name and word used outside the list."
+    }
+   ]
+  },
+  {
+   "term_id": "T023",
+   "bo": "བསམ་གཏན",
+   "sanskrit": "dhyāna",
+   "senses": [
+    {
+     "sense": "meditative concentration (the fourth perfection)",
+     "occurrences": "all",
+     "academic": "靜慮",
+     "children": "深度專注",
+     "basis": "style-sheet",
+     "reason": "Core term; fourth perfection per registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T036",
+   "bo": "སྟོང",
+   "sanskrit": "śūnya",
+   "senses": [
+    {
+     "sense": "empty (adjective or predicate)",
+     "occurrences": [
+      "1-8",
+      "4-78",
+      "5-15",
+      "5-16",
+      "5-43"
+     ],
+     "academic": "空",
+     "children": "空的",
+     "basis": "style-sheet",
+     "reason": "Core term; predicate sense."
+    },
+    {
+     "sense": "emptiness (noun)",
+     "occurrences": [
+      "2-2",
+      "4-89",
+      "5-56"
+     ],
+     "academic": "空性",
+     "children": "空性",
+     "basis": "style-sheet",
+     "reason": "Core term; noun sense."
+    }
+   ]
+  },
+  {
+   "term_id": "T049",
+   "bo": "རྣམ་ཤེས",
+   "sanskrit": "vijñāna",
+   "senses": [
+    {
+     "sense": "consciousness (fifth aggregate)",
+     "occurrences": "all",
+     "academic": "識",
+     "children": "覺知",
+     "basis": "english-pivot",
+     "reason": "Policy 14 fixes 識 for the fifth aggregate; child word follows English \"awareness\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T062",
+   "bo": "སེམས་ཅན་འདུ་ཤེས",
+   "sanskrit": "sattvasaṃjñā",
+   "senses": [
+    {
+     "sense": "perception of sentient beings",
+     "occurrences": "all",
+     "academic": "有情想",
+     "children": "眾生的想法",
+     "basis": "style-sheet",
+     "reason": "Policy 14 cites 有情想; parts 有情/眾生 and 想/想法 from core terms."
+    }
+   ]
+  },
+  {
+   "term_id": "T075",
+   "bo": "འཛམ་བུའི་གླིང",
+   "sanskrit": "jambudvīpa",
+   "senses": [
+    {
+     "sense": "the continent Jambudvīpa",
+     "occurrences": "all",
+     "academic": "南贍部洲",
+     "children": "南贍部洲",
+     "basis": "style-sheet",
+     "reason": "Policy 11 fixes the established name for འཛམ་བུའི་གླིང."
+    }
+   ]
+  },
+  {
+   "term_id": "T088",
+   "bo": "རྣམ་པར་འདྲེན་པ",
+   "sanskrit": "vināyaka",
+   "senses": [
+    {
+     "sense": "epithet of the Buddhas",
+     "occurrences": "all",
+     "academic": "導師",
+     "children": "導師",
+     "basis": "style-sheet",
+     "reason": "Policy 8: every Tibetan \"Guide\" epithet is 導師, everyday word for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T101",
+   "bo": "འགྲོ་དོན",
+   "sanskrit": "jagadartha",
+   "senses": [
+    {
+     "sense": "welfare of beings",
+     "occurrences": "all",
+     "academic": "眾生利益",
+     "children": "眾生的好處",
+     "basis": "english-pivot",
+     "reason": "འགྲོ་བ 眾生 plus དོན benefit; child phrase follows \"good of beings\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T114",
+   "bo": "སངས་རྒྱས་བྱང་ཆུབ",
+   "sanskrit": "buddhabodhi",
+   "senses": [
+    {
+     "sense": "awakening of a Buddha",
+     "occurrences": "all",
+     "academic": "佛菩提",
+     "children": "佛陀的覺悟",
+     "basis": "style-sheet",
+     "reason": "སངས་རྒྱས 佛 plus བྱང་ཆུབ 菩提; children 佛陀 and 覺悟."
+    }
+   ]
+  },
+  {
+   "term_id": "T127",
+   "bo": "མཚན་མེད",
+   "sanskrit": "animitta",
+   "senses": [
+    {
+     "sense": "signlessness (one of three doors)",
+     "occurrences": "all",
+     "academic": "無相",
+     "children": "沒有記號",
+     "basis": "style-sheet",
+     "reason": "Core term མཚན་མ: 無相 and 沒有記號 per core table."
+    }
+   ]
+  },
+  {
+   "term_id": "T140",
+   "bo": "རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "omniscience of all aspects",
+     "occurrences": "all",
+     "academic": "一切相智",
+     "children": "以各種方式通曉一切",
+     "basis": "style-sheet",
+     "reason": "Policy 12 fixed three-knowledges name."
+    }
+   ]
+  },
+  {
+   "term_id": "T153",
+   "bo": "གང་ཟག",
+   "sanskrit": "pudgala",
+   "senses": [
+    {
+     "sense": "person",
+     "occurrences": "all",
+     "academic": "人",
+     "children": "人",
+     "basis": "zero-shot",
+     "reason": "Plain word fits the verse \"four persons\"; English gloss is simply person."
+    }
+   ]
+  },
+  {
+   "term_id": "T166",
+   "bo": "བྱང་ཆུབ་ཡོན་ཏན",
+   "sanskrit": "bodhiguṇa",
+   "senses": [
+    {
+     "sense": "qualities of awakening",
+     "occurrences": "all",
+     "academic": "菩提功德",
+     "children": "覺悟的美好品質",
+     "basis": "style-sheet",
+     "reason": "Policy 18 example; 覺悟 and 美好的品質 from core table for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T179",
+   "bo": "བྱང་ཆུབ་དམ་པ",
+   "sanskrit": "varabodhi",
+   "senses": [
+    {
+     "sense": "supreme awakening",
+     "occurrences": "all",
+     "academic": "勝菩提",
+     "children": "最高的覺悟",
+     "basis": "new",
+     "reason": "དམ་པ \"supreme\" kept apart from མཆོག 殊勝菩提; children reuses the sheet phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T192",
+   "bo": "ཀུན་མཁྱེན",
+   "sanskrit": "sarvajñatā",
+   "senses": [
+    {
+     "sense": "omniscience",
+     "occurrences": "all",
+     "academic": "一切智",
+     "children": "無所不知",
+     "basis": "style-sheet",
+     "reason": "Core term for omniscience; Gemini 一切智智 refused."
+    }
+   ]
+  },
+  {
+   "term_id": "T205",
+   "bo": "ང་རྒྱལ",
+   "sanskrit": "māna",
+   "senses": [
+    {
+     "sense": "pride",
+     "occurrences": "all",
+     "academic": "慢",
+     "children": "驕傲",
+     "basis": "new",
+     "reason": "Established term for māna; child word is plain \"proud\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T218",
+   "bo": "བདག་ཏུ་འདུ་ཤེས",
+   "sanskrit": "ātmasaṃjñā",
+   "senses": [
+    {
+     "sense": "perception of a self",
+     "occurrences": "all",
+     "academic": "我想",
+     "children": "「我」的想法",
+     "basis": "english-pivot",
+     "reason": "བདག self plus འདུ་ཤེས 想 (policy 14 pattern); child uses 想法."
+    }
+   ]
+  },
+  {
+   "term_id": "T231",
+   "bo": "འཕགས་པ་འཇམ་དཔལ",
+   "sanskrit": "āryamañjuśrī",
+   "senses": [
+    {
+     "sense": "name of the bodhisattva Mañjuśrī",
+     "occurrences": "all",
+     "academic": "聖文殊師利",
+     "children": "聖文殊",
+     "basis": "style-sheet",
+     "reason": "Policy 10 gives 聖 for འཕགས་པ; policy 11 names 文殊師利, kids 文殊."
+    }
+   ]
+  },
+  {
+   "term_id": "T244",
+   "bo": "མཉམ་པར་བཞག",
+   "sanskrit": "samādhita",
+   "senses": [
+    {
+     "sense": "meditative equipoise",
+     "occurrences": "all",
+     "academic": "入定",
+     "children": "安住於平靜",
+     "basis": "english-pivot",
+     "reason": "入定 is the common established word; child phrase follows \"resting in calm\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T257",
+   "bo": "བྱང་ཆུབ་ཐེག་ཆེན",
+   "sanskrit": "bodhiyāna",
+   "senses": [
+    {
+     "sense": "Great Vehicle of Awakening",
+     "occurrences": "all",
+     "academic": "菩提大乘",
+     "children": "覺悟的大乘",
+     "basis": "style-sheet",
+     "reason": "Parts: 菩提 and 大乘; child 覺悟 and 大乘 per core table and policy 17."
+    }
+   ]
+  },
+  {
+   "term_id": "T270",
+   "bo": "བདེན",
+   "sanskrit": "satya",
+   "senses": [
+    {
+     "sense": "truth",
+     "occurrences": "all",
+     "academic": "真實",
+     "children": "真理",
+     "basis": "english-pivot",
+     "reason": "Plain word for བདེན; keeps བདེན་པའི་བྱིན་རླབས compound readable."
+    }
+   ]
+  },
+  {
+   "term_id": "T283",
+   "bo": "བདེ་བར་གཤེགས་ཀྱི་ཡུམ",
+   "sanskrit": "sugatamātṛ",
+   "senses": [
+    {
+     "sense": "Mother of the Sugatas (epithet of the perfection of wisdom)",
+     "occurrences": "all",
+     "academic": "善逝之母",
+     "children": "走向安樂的人的母親",
+     "basis": "style-sheet",
+     "reason": "Policy 9: owner named, so 〈owner〉之母; children use the sheet child phrase for the owner."
+    }
+   ]
+  },
+  {
+   "term_id": "T296",
+   "bo": "དགེ་ཆོས",
+   "sanskrit": "kuśaladharma",
+   "senses": [
+    {
+     "sense": "virtuous qualities",
+     "occurrences": "all",
+     "academic": "善法",
+     "children": "善良的特質",
+     "basis": "style-sheet",
+     "reason": "Policy 6: 善法 after དགེ་; children 特質 for quality-ཆོས."
+    }
+   ]
+  },
+  {
+   "term_id": "T309",
+   "bo": "དམ་ཆོས",
+   "sanskrit": "sudharma",
+   "senses": [
+    {
+     "sense": "true Dharma",
+     "occurrences": "all",
+     "academic": "正法",
+     "children": "真正的佛法",
+     "basis": "style-sheet",
+     "reason": "Policy 6 lists 正法 among fixed collocations; child uses 佛法 for the teaching."
+    }
+   ]
+  },
+  {
+   "term_id": "T322",
+   "bo": "སྐྱབས་མེད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "without refuge",
+     "occurrences": "all",
+     "academic": "無歸依",
+     "children": "沒有庇護",
+     "basis": "english-pivot",
+     "reason": "སྐྱབས refuge as 歸依 (CBETA spelling) with 無 per policy 16; child follows English."
+    }
+   ]
+  },
+  {
+   "term_id": "T335",
+   "bo": "ལྷ་རྒྱལ་བརྒྱ་བྱིན",
+   "sanskrit": "śakra devarāja",
+   "senses": [
+    {
+     "sense": "Śakra, king of the gods",
+     "occurrences": "all",
+     "academic": "天王帝釋",
+     "children": "天神之王帝釋",
+     "basis": "style-sheet",
+     "reason": "Policy 11 fixes 帝釋 for བརྒྱ་བྱིན; ལྷ་རྒྱལ is \"king of gods\" before it."
+    }
+   ]
+  },
+  {
+   "term_id": "T348",
+   "bo": "ཆོས་ཀྱི་དམ་པ",
+   "sanskrit": "dharmaśreṣṭha",
+   "senses": [
+    {
+     "sense": "sublime Dharma",
+     "occurrences": "all",
+     "academic": "殊勝佛法",
+     "children": "最好的佛法",
+     "basis": "style-sheet",
+     "reason": "Teaching sense per English gloss, so 佛法 (policy 6) with 殊勝 for དམ་པ."
+    }
+   ]
+  },
+  {
+   "term_id": "T361",
+   "bo": "མུ་སྟེགས་ཅན",
+   "sanskrit": "tīrthika",
+   "senses": [
+    {
+     "sense": "non-Buddhist",
+     "occurrences": "all",
+     "academic": "外道",
+     "children": "追隨其他道路的人",
+     "basis": "english-pivot",
+     "reason": "Established term for tīrthika; child phrase follows \"follower of another path\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T374",
+   "bo": "བླ་མ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "teacher (guru)",
+     "occurrences": "all",
+     "academic": "上師",
+     "children": "老師",
+     "basis": "english-pivot",
+     "reason": "Established term for guru; child uses everyday \"teacher\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T387",
+   "bo": "ཐེ་ཚོམ",
+   "sanskrit": "kāṅkṣā",
+   "senses": [
+    {
+     "sense": "doubt",
+     "occurrences": "all",
+     "academic": "疑惑",
+     "children": "懷疑",
+     "basis": "zero-shot",
+     "reason": "Gemini 懷疑 for children; academic uses established compound 疑惑."
+    }
+   ]
+  },
+  {
+   "term_id": "T400",
+   "bo": "དགེ་བཅུའི་ལས་ཀྱི་ལམ",
+   "sanskrit": "daśakuśalakarmapatha",
+   "senses": [
+    {
+     "sense": "path of the ten virtuous actions",
+     "occurrences": "all",
+     "academic": "十善業道",
+     "children": "十種好行為的道路",
+     "basis": "english-pivot",
+     "reason": "Established compound for daśakuśalakarmapatha; child phrase follows English."
+    }
+   ]
+  },
+  {
+   "term_id": "T413",
+   "bo": "མིང་ཙམ",
+   "sanskrit": "nāmamātra",
+   "senses": [
+    {
+     "sense": "merely a name",
+     "occurrences": "all",
+     "academic": "唯名",
+     "children": "只是名稱",
+     "basis": "english-pivot",
+     "reason": "Established for nāmamātra; child phrase follows \"just a name\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T426",
+   "bo": "བདེན་པའི་བྱིན་རླབས",
+   "sanskrit": "satyādhiṣṭhāna",
+   "senses": [
+    {
+     "sense": "blessing of truth",
+     "occurrences": "all",
+     "academic": "真實加持",
+     "children": "真理的祝福",
+     "basis": "english-pivot",
+     "reason": "བདེན 真實 plus བྱིན་རླབས 加持; child uses plain 祝福 for blessing."
+    }
+   ]
+  },
+  {
+   "term_id": "T439",
+   "bo": "སྣང",
+   "sanskrit": "obhāsa",
+   "senses": [
+    {
+     "sense": "light",
+     "occurrences": "all",
+     "academic": "光明",
+     "children": "光亮",
+     "basis": "english-pivot",
+     "reason": "Established for obhāsa; child word follows English \"light\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T452",
+   "bo": "དགྲོལ",
+   "sanskrit": "parimocayati",
+   "senses": [
+    {
+     "sense": "liberate",
+     "occurrences": "all",
+     "academic": "度脫",
+     "children": "解救",
+     "basis": "english-pivot",
+     "reason": "Verb \"liberate\"; 度脫 avoids ཐར་པ 解脫; child uses 解救."
+    }
+   ]
+  },
+  {
+   "term_id": "T465",
+   "bo": "སློབ་པ་པོ",
+   "sanskrit": "śikṣaka",
+   "senses": [
+    {
+     "sense": "trainee",
+     "occurrences": "all",
+     "academic": "修學者",
+     "children": "學習的人",
+     "basis": "zero-shot",
+     "reason": "Gemini 修學者 suits trainee; child phrase follows English \"learner\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T478",
+   "bo": "རེ་རབ",
+   "sanskrit": "meru",
+   "senses": [
+    {
+     "sense": "Mount Meru",
+     "occurrences": "all",
+     "academic": "須彌山",
+     "children": "須彌山",
+     "basis": "style-sheet",
+     "reason": "Policy 11 fixes the established name; no change for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T491",
+   "bo": "ཐལ་མོ་སྦྱར་བ",
+   "sanskrit": "añjalipuṭa",
+   "senses": [
+    {
+     "sense": "join palms",
+     "occurrences": "all",
+     "academic": "合掌",
+     "children": "雙手合十",
+     "basis": "english-pivot",
+     "reason": "Established gesture word; child uses the everyday equivalent."
+    }
+   ]
+  },
+  {
+   "term_id": "T504",
+   "bo": "ཚུལ་སྒོ",
+   "sanskrit": "nayadvāra",
+   "senses": [
+    {
+     "sense": "gateway",
+     "occurrences": "all",
+     "academic": "理趣門",
+     "children": "入口",
+     "basis": "new",
+     "reason": "ཚུལ as 理趣 plus སྒོ 門; no firm canon form, so new. Child follows \"gateway\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T517",
+   "bo": "གཟུགས་མེད་ཁམས",
+   "sanskrit": "ārūpyadhātu",
+   "senses": [
+    {
+     "sense": "formless realm",
+     "occurrences": "all",
+     "academic": "無色界",
+     "children": "沒有形體的領域",
+     "basis": "style-sheet",
+     "reason": "Policy 16 builds privative from base; ཁམས 界 and 領域 per core table."
+    }
+   ]
+  },
+  {
+   "term_id": "T530",
+   "bo": "སེམས་དཔའ",
+   "sanskrit": "sattva",
+   "senses": [
+    {
+     "sense": "bodhisattva (truncated form)",
+     "occurrences": "all",
+     "academic": "菩薩",
+     "children": "菩薩",
+     "basis": "style-sheet",
+     "reason": "Policy 15: truncated form is the same word as བྱང་ཆུབ་སེམས་དཔའ; Gemini 勇識 refused."
+    }
+   ]
+  },
+  {
+   "term_id": "T543",
+   "bo": "འཇིག་རྟེན་མཁྱེན",
+   "sanskrit": "lokavid",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "世間解",
+     "children": "通曉世間的人",
+     "basis": "new",
+     "reason": "Established epithet lokavid in the ten titles; child phrase follows \"Knower of the World\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T556",
+   "bo": "ཁྲིམས་འཆལ",
+   "sanskrit": "duḥśīla",
+   "senses": [
+    {
+     "sense": "lacking ethical discipline",
+     "occurrences": "all",
+     "academic": "破戒",
+     "children": "缺乏良好品行",
+     "basis": "english-pivot",
+     "reason": "Established for duḥśīla; child phrase builds on ཚུལ་ཁྲིམས 良好品行."
+    }
+   ]
+  },
+  {
+   "term_id": "T569",
+   "bo": "གླིང་བཞི",
+   "sanskrit": "catvāri dvīpa",
+   "senses": [
+    {
+     "sense": "four continents",
+     "occurrences": "all",
+     "academic": "四大洲",
+     "children": "四大洲",
+     "basis": "zero-shot",
+     "reason": "Gemini 四洲 expanded to established 四大洲; no gloss needed for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T582",
+   "bo": "དུད་འགྲོའི་འགྲོ་བ",
+   "sanskrit": "tiryaggati",
+   "senses": [
+    {
+     "sense": "animal existence",
+     "occurrences": "all",
+     "academic": "畜生道",
+     "children": "當動物的一生",
+     "basis": "english-pivot",
+     "reason": "Established gati term; child phrase follows \"life as an animal\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T595",
+   "bo": "དགེ་འདུན་རྒྱུད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "lineage of the Saṅgha",
+     "occurrences": "all",
+     "academic": "僧伽傳承",
+     "children": "僧團的傳承",
+     "basis": "english-pivot",
+     "reason": "Established 僧伽 plus 傳承 for རྒྱུད; child phrase follows \"lineage of the community\"."
+    }
+   ]
+  }
+ ]
+}

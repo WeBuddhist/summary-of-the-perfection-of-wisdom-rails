@@ -1,0 +1,2062 @@
+[
+ {
+  "id": "0-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-10",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "शान्ति में स्थित है",
+    "evidence": "Tibetan བདག་ཞིར་གནས་པ་ ('abides at peace in/as oneself'); bo-mipham 1-10 glosses བདག༷་གི་རྒྱུད་ཉེ་བར་ཞི༷་བར་གནས་པ ('whose own mindstream abides in peace'), and Sanskrit has ātma-śānti. The Hindi drops the 'own/within oneself' element; english_academic has 'at peace within themselves'.",
+    "fix": "अपने भीतर शान्त होकर स्थित है"
+   }
+  ]
+ },
+ {
+  "id": "1-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-12",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "निश्चित ही निर्याण प्राप्त करता है",
+    "evidence": "Tibetan ངེས་པར་འབྱུང་ means 'definitely emerges' (from extremes/saṃsāra: bo-mipham 1-12 མཐའ་ཐམས་ཅད་ལས་ངེས་པར་འབྱུང་བར་འགྱུར་རོ; bo-rangjung 1-10 འཁོར་བ་ལས་ངེས་པར་འབྱུང་). Hindi 'निर्याण' also commonly means departure/death and does not convey 'emerging', so the sense is obscured.",
+    "fix": "निश्चित ही (भव से) निःसृत हो जाता है"
+   }
+  ]
+ },
+ {
+  "id": "1-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-20",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "दुःख से पार करता है",
+    "evidence": "Tibetan 'མྱ་ངན་ཟློ' is 'mya ngan' (sorrow/nirvāṇa; Mipham 1-20 glosses it 'མྱ་ངན་ལས་ཟློ་བ་སྟེ་འདའ་བར་བྱེད་པ', i.e. brings beyond sorrow/nirvāṇa; Khenrab 1-20 same). The Hindi renders it with 'दुःख', which is the locked rendering of 'སྡུག་བསྔལ' (suffering), so the two different Tibetan terms are conflated.",
+    "fix": "वह सभी सत्त्वों को शोक से पार करता है"
+   },
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "अप्रमेय विमान",
+    "evidence": "'གཞལ་མེད་ཁང་ཆེན' is an immeasurable great palace/mansion (Mipham 1-20 'གཞལ་མེད་ཁང་ཆེན་དང་འདྲ་བ'; Rangjung 'ལྷའི་གཞལ་མེད་ཁང་ཆེན'). In modern Hindi 'विमान' mainly means aircraft, so the image is easily misread.",
+    "fix": "एक महान् अप्रमेय प्रासाद (विमान)"
+   }
+  ]
+ },
+ {
+  "id": "1-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-22",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "वे असंस्कृत और निष्प्रपञ्च हैं",
+    "evidence": "The plural 'वे' directly follows 'त्रिकाल विशुद्ध हैं', so it reads as the three times being unconditioned and free from elaboration. The Tibetan 'གང་དག་ ... དེ་ནི་འདུས་མ་བྱས་ཡིན་སྤྲོས་མེད' refers to the bodhisattva (Mipham 1-22: 'གང་དག་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱ་བ་དེ་ནི་ ... འདུས་མ་བྱས་ཡིན'; Rangjung 1-21: one who realizes the emptiness of the three times).",
+    "fix": "वह (बोधिसत्त्व) असंस्कृत और निष्प्रपञ्च है"
+   }
+  ]
+ },
+ {
+  "id": "1-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-4",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जैसे इस पार से उस पार जाने का घाट न देखने के समान",
+    "evidence": "'དཔེར་ན ... མི་མཐོང་བཞིན' is a single comparison; the Hindi stacks 'जैसे' and 'के समान', which is ungrammatical. Mipham 2-4 explains it as seeing no landing to go from this shore to the other without a boat.",
+    "fix": "जैसे नाव के बिना इस पार से उस पार जाने का घाट दिखाई नहीं देता"
+   }
+  ]
+ },
+ {
+  "id": "2-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-12",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "प्रज्ञापारमिता की परम चर्या",
+    "evidence": "Tibetan ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་པ: མཆོག (supreme) qualifies the perfection of wisdom (Sanskrit प्रज्ञवरपारमिताय चर्या; bo-mipham 2-12 'ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མཆོག་ལ་སྤྱོད་པ'; bo-rangjung 2-12 'ཕ་རོལ་ཏུ་ཕྱིན་པའི་མཆོག་ལ་སྤྱོད་པ'). The Hindi moves 'supreme' onto the conduct (चर्या).",
+    "fix": "यह परम प्रज्ञापारमिता की चर्या है।"
+   }
+  ]
+ },
+ {
+  "id": "2-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-16",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "इसे पूर्णतः विचार में लेकर",
+    "evidence": "Tibetan ཡོངས་སུ་བརྟག་བཟུང་ is a hypothetical framing ('by way of supposition'); bo-khenrab 2-15 glosses it 'བརྟག་པ་མཐའ་བཟུང་གི་ཚུལ་གྱིས་དཔེར་བྱས་ན', bo-mipham 2-15 'དཔེར་བྱ་ན'. The Hindi adds an unexplained referent 'इसे' and 'विचार में लेकर' does not convey the supposition sense.",
+    "fix": "कल्पना के रूप में मान लें कि"
+   }
+  ]
+ },
+ {
+  "id": "2-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-23",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "अर्थात् शरीर-धातु",
+    "evidence": "Tibetan སངས་རྒྱས་རིང་བསྲེལ is rendered by its locked compound term बुद्ध-अवशेष; the gloss 'अर्थात् शरीर-धातु' (the locked rendering of the simple རིང་བསྲེལ) is not in the Tibetan or Sanskrit (बुद्धधातुः) and treats two locked terms as an equation.",
+    "fix": "बुद्ध-अवशेष"
+   }
+  ]
+ },
+ {
+  "id": "2-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-29",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "कल्पित में चर्या करता है",
+    "evidence": "Tibetan བཅོས་ལ་སྤྱོད་པ (Skt. pratirūpikā) means acting in a counterfeit/fabricated (བཅོས་མ) perfection of wisdom; bo-mipham 2-29 glosses it as ཤེར་ཕྱིན་བཅོས་མ, a counterfeit perfection of wisdom. Hindi 'कल्पित' suggests 'imagined' (parikalpita), a different notion, and drops the sense of a spurious imitation.",
+    "fix": "बनावटी (नकली) प्रज्ञापारमिता में चर्या करता है"
+   }
+  ]
+ },
+ {
+  "id": "2-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-31",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "गङ्गा नदी की बालुका-समान क्षेत्रों में",
+    "evidence": "Tibetan གངྒཱའི་ཀླུང་གི་བྱེ་སྙེད་ཞིང་ 'fields as numerous as the sands of the Ganges' (bo-khenrab 2-31: 'fields equal in number to the sand grains'). The Hindi genitive 'की' does not agree with 'क्षेत्रों' and 'बालुका-समान' drops the sense of number (སྙེད).",
+    "fix": "गङ्गा नदी की बालुका के बराबर संख्या वाले क्षेत्रों में"
+   }
+  ]
+ },
+ {
+  "id": "2-32",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "तथा प्रत्येकबुद्ध-बोधि और बुद्ध-बोधि का स्पर्श करते हैं",
+    "evidence": "The Tibetan last line རང་རྒྱལ་བྱང་ཆུབ་དང་ནི་སངས་རྒྱས་བྱང་ཆུབ་རེག has no stated subject. bo-mipham 2-32 and bo-khenrab 2-32 assign liberation to śrāvaka-lineage persons, pratyekabuddha awakening to those of middling faculty and buddha awakening to those of sharp faculty. The Hindi continues 'श्रावक' as subject, implying śrāvakas themselves attain Buddha-bodhi.",
+    "fix": "तथा कोई प्रत्येकबुद्ध-बोधि का और कोई बुद्ध-बोधि का स्पर्श करता है"
+   }
+  ]
+ },
+ {
+  "id": "2-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-34",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जब विद्वानों का जानने के लिए लोक में बोधिचित्त उत्पन्न होता है",
+    "evidence": "Tibetan མཁས་པ་ཤེས་ཕྱིར་འཇིག་རྟེན་བྱང་ཆུབ་སེམས་བྱུང་ན: bo-mipham 2-34 says the wise generate the mind of awakening in the world in order to attain omniscient wisdom. The Hindi genitive 'विद्वानों का' with an object-less 'जानने के लिए' is hard to parse and obscures who generates it.",
+    "fix": "जब विद्वानों में (सब कुछ) जानने के लिए लोक में बोधिचित्त उत्पन्न होता है"
+   }
+  ]
+ },
+ {
+  "id": "2-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-43",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "धर्म से धर्म की कभी परिणामना नहीं की जाती",
+    "evidence": "Tibetan ཆོས་ཀྱིས་ཆོས་ལ་ནམ་ཡང་མི་བསྔོ: a phenomenon never dedicates to a phenomenon (ལ marks the recipient). bo-mipham 2-43: ཆོས་ཀྱིས་ཆོས་ལ་ནམ་ཡང་མི་བསྔོ་བའམ་བསྔོ་རྒྱུ་མེད་པ; bo-khenrab 2-43: the dedicating phenomenon never dedicates virtue to the phenomenon that is the object. Hindi 'धर्म की परिणामना' reads as a phenomenon being dedicated, not dedicated to a phenomenon.",
+    "fix": "धर्म द्वारा धर्म के प्रति कभी परिणामना नहीं की जाती"
+   }
+  ]
+ },
+ {
+  "id": "2-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-51",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "सन्देह-रहित पण्डित था",
+    "evidence": "Tibetan 'ཕ་རོལ་ཕྱིན་འདིར་སྤྱོད་པ་མཁས་པ་སོམ་ཉི་མེད' says the bodhisattva was skilled (མཁས་པ) in practicing this perfection and without doubt; Mipham 2-51 glosses 'ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་དོན་ལ་མཁས་པ'. 'पण्डित' (the Sanskrit paṇḍita, 'learned person') reads as a status, not skill in practice, and the clause 'was a pandit' is awkward.",
+    "fix": "इस पारमिता के आचरण में कुशल और सन्देह-रहित था"
+   }
+  ]
+ },
+ {
+  "id": "2-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-6",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "भले ही मार्गदर्शकों द्वारा उनके लिए साक्षात् भविष्यवाणी न की गई हो, कि \"मैं शीघ्र ही बुद्ध-बोधि का स्पर्श करूँगा।\"",
+    "evidence": "Tibetan 'རྣམ་པར་འདྲེན་པས་མངོན་སུམ་ལུང་བསྟན་མ་གྱུར་ཀྱང་། ། སངས་རྒྱས་བྱང་ཆུབ་རིང་པོར་མི་ཐོགས་བདག་རེག་འགྱུར' (Skt 'yadyāpi saṃmukha na vyākṛtu nāyakena tathāpi spṛkṣyati nacireṇa buddhabodhim') states a concession followed by a main clause: even without a direct prophecy, they will before long touch buddha-awakening. The Hindi turns 'I will soon touch' into the content of the unmade prophecy ('prophecy that I will...'), so the main assertion (they will attain awakening soon, and know it, per bo-khenrab 4-6 'བདག་གིས་རེག་པའམ་ཐོབ་པར་འགྱུར་རོ་སྙམ་དུ་ཤེས་ཏེ') is lost.",
+    "fix": "भले ही मार्गदर्शक द्वारा उन्हें साक्षात् भविष्यवाणी न की गई हो, फिर भी वे \"मैं शीघ्र ही बुद्ध-बोधि का स्पर्श करूँगा\" ऐसा जानते हैं।"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "मार्गदर्शकों द्वारा",
+    "evidence": "Tibetan 'རྣམ་པར་འདྲེན་པས' and Skt 'nāyakena' are singular (the Guide); the Hindi plural changes the number.",
+    "fix": "मार्गदर्शक द्वारा"
+   }
+  ]
+ },
+ {
+  "id": "4-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-16",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "major",
+    "span": "दृष्टि से युक्त चित्त",
+    "evidence": "Tibetan ལྟ་དང་བཅས་པའི་སེམས renders Skt sāpekṣa-citta. Mipham (bo-mipham 4-16) glosses it ཕྱི་རོལ་ཡུལ་ལ་ལྟ་བར་འདོད་པ་དང་བཅས་པའི་སེམས, 'a mind with the wish to look at external objects'; Khenrab (bo-khenrab 4-16) likewise ལྟ་བར་འདོད་པ་དང་བཅས་པའི་སེམས. Here lta means looking/longing, not a philosophical 'view'; Hindi 'दृष्टि' (view) with the locked term misapplied reads as 'a mind possessed of a view' and drops the sense of longing for external objects.",
+    "fix": "बाह्य विषयों को देखने की लालसा से युक्त चित्त से गृहस्थों के साथ संसर्ग करेंगे"
+   }
+  ]
+ },
+ {
+  "id": "4-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-18",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जिनके द्वारा बहुत से भिक्षुओं को क्षुब्ध कर, इस प्रज्ञापारमिता को धारण न करने दिया जाए",
+    "evidence": "Tibetan གང་དག་གིས་ནི་དགེ་སློང་མང་དཀྲུགས་ནས། ཤེས་རབ་ཕ་རོལ་ཕྱིན་འདི་འཛིན་པར་མི་འགྱུར་བའི། means many monks are agitated and consequently do not uphold the perfection of wisdom (Skt samākulikṛtā ... na dhārayanti). The Hindi 'क्षुब्ध कर' (gerund) plus passive subjunctive 'धारण न करने दिया जाए' is ungrammatical/hard to parse and recasts the monks' non-upholding as something done to them.",
+    "fix": "जिनके कारण बहुत से भिक्षु क्षुब्ध होकर इस प्रज्ञापारमिता को धारण नहीं करते"
+   }
+  ]
+ },
+ {
+  "id": "4-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-20",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "परिग्रह",
+    "evidence": "Tibetan ཡོངས་སུ་འཛིན (Skt parigraha) means to take up, hold, support or protect (the Buddhas uphold these beings). In Hindi 'परिग्रह' ordinarily means possession/hoarding, so the line is easily misread.",
+    "fix": "उन्हें पूर्णतः धारण (संरक्षण) करने में संलग्न रहते हैं"
+   }
+  ]
+ },
+ {
+  "id": "4-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-22",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "यह लोकशास्ता जिनों को जन्म देने वाली माता है",
+    "evidence": "Tibetan འཇིག་རྟེན་སྟོན་པ་རྒྱལ་བ་རྣམས་ཀྱི་སྐྱེད་བྱེད་ཡུམ takes 'world-teacher' as the epithet of the Victors (the Mother gives birth to the Victors who are teachers of the world). Khenrab (bo-khenrab 4-22) says the Buddhas, having seen reality, teach others, and arise relying on the Mother, and Mipham (bo-mipham 4-22) has the Mother produce the Buddhas. The Hindi 'यह लोकशास्ता' makes the Mother herself the world-teacher, a wrong referent.",
+    "fix": "यह लोक के शास्ता जिनों को जन्म देने वाली माता है"
+   }
+  ]
+ },
+ {
+  "id": "4-23",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "यह एकरूपता ही",
+    "evidence": "Tibetan གཅིག་པ་ཉིད (Skt ekaiva) means 'oneness / one alone' of suchness. 'एकरूपता' means uniformity or sameness of form, which shifts the sense from the unity of suchness.",
+    "fix": "यह एक ही तथता है, भावरहित, अनन्य"
+   }
+  ]
+ },
+ {
+  "id": "4-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-26",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "तीर्थकों",
+    "evidence": "Tibetan མུ་སྟེགས་ཅན is locked to तीर्थिक. The Hindi form 'तीर्थकों' is a non-standard spelling that is neither the locked term nor an established word, and risks confusion with तीर्थंकर.",
+    "fix": "तीर्थिकों"
+   }
+  ]
+ },
+ {
+  "id": "4-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-32",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "उत्तम प्रज्ञापारमिता में संलग्न होता है",
+    "evidence": "Tibetan ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་མཆོག་ལ་བསམ་སྦྱོར་བ་ has both bsam (intention; Skt. āśaya) and sbyor (application; saṃprayoga); bo-rangjung 4-32 glosses བསམ་པ་དང་སྦྱོར་བ་ཡོད་པ. The Hindi renders only 'संलग्न' (application) and drops the intention.",
+    "fix": "उत्तम प्रज्ञापारमिता के प्रति आशय और प्रयोग से युक्त होता है"
+   }
+  ]
+ },
+ {
+  "id": "4-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-35",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "यदि उपाय के वे गुण प्रज्ञा द्वारा पूर्णतः गृहीत हों, तो वे",
+    "evidence": "Tibetan དེ་དག་ཐབས་ཀྱི་ཡོན་ཏན་ཤེས་རབ་ཡོངས་ཟིན་ན། — དེ་དག 'those (bodhisattvas)' is the agent; bo-khenrab 4-35 says 'their (དེ་དག་གི) qualities of means such as faith and compassion, embraced by wisdom ... they swiftly attain'. In the Hindi 'वे' in the main clause can be read as the qualities rather than the persons.",
+    "fix": "यदि उनके उपाय के गुण प्रज्ञा द्वारा पूर्णतः गृहीत हों, तो वे (बोधिसत्त्व) परम अद्भुत सुगत-बोधि को शीघ्र ही प्राप्त कर लेते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "4-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-42",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "श्रद्धालु",
+    "evidence": "Tibetan བླ་མ་གུས་ལྡན་ means 'endowed with respect/reverence' for the master (Skt. gurugaurava); bo-mipham 4-42 བླ་མ་ལ་གུས་པ་དང་ལྡན་པ. 'श्रद्धालु' (faithful, དད་པ) is a different term; faith (དད་པ) is only added in bo-khenrab's gloss.",
+    "fix": "गुरु के प्रति आदर से युक्त"
+   }
+  ]
+ },
+ {
+  "id": "4-43",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "विद्वानों के गुण उनसे ही उत्पन्न होते हैं",
+    "evidence": "Tibetan མཁས་པའི་ཡོན་ཏན་དེ་ལས་འབྱུང་ : 'that' refers to relying on the spiritual friend; bo-mipham 4-43 'མཁས་པའི་ཡོན་ཏན་ཐམས་ཅད་དགེ་བའི་བཤེས་གཉེན་དེ་ལས་འབྱུང་' (all qualities of skill arise from that spiritual friend); bo-khenrab 4-43 likewise. In the Hindi 'उनसे' can be taken as the learned themselves, making the sentence circular, and the spiritual friend is not named before the next line.",
+    "fix": "विद्वत्ता के गुण उन कल्याणमित्रों से ही उत्पन्न होते हैं,"
+   }
+  ]
+ },
+ {
+  "id": "4-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-47",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "होते हैं。",
+    "evidence": "The line ends with the ideographic full stop '。' instead of the Devanagari danda; typographical error with no Tibetan counterpart.",
+    "fix": "होते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "4-48",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "अल्प-चिन्ता की",
+    "evidence": "Tibetan ཐུགས་ཁྲལ་ཆུང་བར་མཛད (Skt. alpotsuka) is, per bo-rangjung 4-48, the Buddha's reluctance to teach (quoting 'who is taught will not understand, I shall stay silent in the forest'). 'अल्प-चिन्ता' (little worry) can be read as unconcern or as slight anxiety rather than disinclination to take the trouble to teach.",
+    "fix": "उन्होंने (इसे बताने में) अल्प-उत्साह, अर्थात् अनिच्छा, अपनाई"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "न जाना जाता है और न प्राप्त होने योग्य है",
+    "evidence": "Tibetan སུས་ཀྱང་རྟོགས་པ་མེད་ཅིང་ཐོབ་པར་འགྱུར་མེད་པ states as fact that no one realizes it and no one attains it (Skt. na ca kenacid adhigato na ca prāpuṇanti; bo-mipham 4-48 'སུས་ཀྱང་རྟོགས་པ་མེད་ཅིང་འབྲས་བུའི་དུས་ན་ཐོབ་པར་འགྱུར་བའང་མེད'). The Hindi 'प्राप्त होने योग्य' introduces a modal 'attainable' and 'न जाना जाता' weakens 'realized'.",
+    "fix": "इसे किसी ने साक्षात् नहीं जाना है और न कोई इसे प्राप्त करता है"
+   }
+  ]
+ },
+ {
+  "id": "4-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-58",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "एक युगमात्रा तक देखते हुए",
+    "evidence": "Tibetan གཉའ་ཤིང་གང་ཙམ་ལྟ་ཞིང་འགྲོ (Sanskrit yugamātra-prekṣiṇaḥ) means looking only as far as the length of a yoke (a short distance ahead). 'युगमात्रा' reads as a measure of an age/era (yuga) and obscures that 'yoke' is meant; no commentary passage glosses it differently.",
+    "fix": "केवल एक जुए (गाड़ी के जुए) भर की दूरी तक देखते हुए"
+   }
+  ]
+ },
+ {
+  "id": "4-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-76",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "ऐसा अहङ्कार नहीं होता",
+    "evidence": "Tibetan 'རློམ་སེམས་མེད' (rlom sems med) renders the concept the glossary locks as 'अभिमान' (used for རློམ་སེམས in 4-70); 'अहङ्कार' is a different term and breaks consistency across the text. Mipham 4-70 glosses it as conceit/presumption (རློམ་པའི་སེམས).",
+    "fix": "उनमें ऐसा अभिमान नहीं होता"
+   }
+  ]
+ },
+ {
+  "id": "4-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-80",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-83",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जगत् के प्राणियों में सत्त्वों को जानने वाले प्रणिधान के आश्रय से",
+    "evidence": "Tibetan 'འགྲོ་ལ་སེམས་ཅན་ཤེས་པའི་སྨོན་ལམ་རྟེན་ཅན་གྱིས'. Mipham 4-83 ('འགྲོ་བ་རྣམས་ལ་སེམས་ཅན་གྱི་ཐ་སྙད་དང་དོན་དམ་པའི་རང་བཞིན་ཤེས་པའི...སྨོན་ལམ') and Rangjung 4-82 ('འགྲོ་བ་ལ་སེམས་ཅན་གྱི་རང་བཞིན་ཤེས་ན...སྨོན་ལམ') show the sense: for beings, an aspiration grounded in knowing the nature of sentient beings. The Hindi 'प्राणियों में सत्त्वों को' is redundant and hard to parse.",
+    "fix": "जगत् के प्राणियों के प्रति, सत्त्वों के स्वभाव को जानने वाले प्रणिधान के आश्रय से"
+   }
+  ]
+ },
+ {
+  "id": "4-84",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-89",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-90",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-92",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-93",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-94",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-95",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "उज्ज्वल बोधिसत्त्व",
+    "evidence": "Tibetan བྱང་ཆུབ་སེམས་དཔའ་གསལ་ཏེ; Mipham (4-95) glosses it as བློ་གསལ་བར་གྱུར་ (becoming clear/lucid in mind) and Khenrab (4-95) as བློ་གསལ་བ་སྟེ་མཁས་པར་གྱུར་བ (clear-minded, i.e. skilled); Sanskrit vidu = wise. 'उज्ज्वल' (radiant, bright) reads as a physical/moral brightness, not lucidity of intellect.",
+    "fix": "स्पष्टबुद्धि बोधिसत्त्व"
+   }
+  ]
+ },
+ {
+  "id": "4-96",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-97",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "बोधिसत्त्व, उन्हें भी नाम से प्रज्ञप्त किया जा सकता है",
+    "evidence": "Tibetan དེ་ནི་མིང་གིས་ཀྱང་ནི་གདགས་པར་ནུས་པ་ཡིན: 'even by a name' (ཀྱང་ attaches to མིང་གིས) and the bodhisattva who practises the doors of liberation is the subject. The Hindi has a singular 'बोधिसत्त्व' resumed by plural 'उन्हें', and भी is placed so it reads 'they too' rather than 'even by a name'.",
+    "fix": "विमोक्ष-द्वारों में चर्या करने वाले बोधिसत्त्व को भी नाम से प्रज्ञप्त किया जा सकता है"
+   }
+  ]
+ },
+ {
+  "id": "4-98",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-1",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "बुद्धों के दर्शन करते हुए जगत् के प्राणियों को धर्म का उपदेश देते हैं",
+    "evidence": "Tibetan སངས་རྒྱས་རྣམས་མཐོང་འགྲོ་ལ་ཆོས་ཀྱང་སྟོན་བྱེད་པ: the bodhisattva sees the Buddhas who teach the Dharma to beings. bo-rangjung 5-1: སངས་རྒྱས་རྣམས་མཐོང་སྟེ་ཁྲི་ལ་བཞུགས་ནས་འགྲོ་བ་ལ་ཆོས་ཀྱང་སྟོན་པར་བྱེད་པ་རྨི་ལམ་དུ་མཐོང་བ; bo-khenrab 5-1: སངས་རྒྱས་དེ་རྣམས་ཀྱིས་འགྲོ་ལ་ཆོས་ཀྱང་སྟོན་པར་བྱེད་པ་བྱང་སེམས་གང་གིས་མཐོང་བ. The Buddhas are the teachers; english_academic: 'Seeing the Buddhas teaching the Dharma to beings'. The Hindi makes the bodhisattva (the subject of 'वे') the one who teaches the Dharma to beings.",
+    "fix": "बुद्धों को जगत् के प्राणियों को धर्म का उपदेश देते हुए देखते हैं"
+   },
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अविनिवर्तनीयता की भविष्यवाणी",
+    "evidence": "Locked term མི་ལྡོག་ལུང་བསྟན is to be rendered 'अविवर्तनीयता की भविष्यवाणी'; the translation writes the spelling 'अविनिवर्तनीय(ता)' assembled from the shorter lock མི་ལྡོག, not the locked compound rendering.",
+    "fix": "अविवर्तनीयता की भविष्यवाणी"
+   }
+  ]
+ },
+ {
+  "id": "5-2",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अविनिवर्तनीयता की भविष्यवाणी",
+    "evidence": "Locked term མི་ལྡོག་ལུང་བསྟན is to be rendered 'अविवर्तनीयता की भविष्यवाणी'; the translation writes the spelling 'अविनिवर्तनीय(ता)' assembled from the shorter lock མི་ལྡོག, not the locked compound rendering.",
+    "fix": "अविवर्तनीयता की भविष्यवाणी"
+   }
+  ]
+ },
+ {
+  "id": "5-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अविनिवर्तनीय की भविष्यवाणी",
+    "evidence": "Locked term མི་ལྡོག་ལུང་བསྟན is to be rendered 'अविवर्तनीयता की भविष्यवाणी'; the translation writes the spelling 'अविनिवर्तनीय(ता)' assembled from the shorter lock མི་ལྡོག, not the locked compound rendering. The word is also cut to 'अविनिवर्तनीय' without 'ता', although Tibetan མི་ལྡོག་ལུང་བསྟན names the prophecy of irreversibility.",
+    "fix": "अविवर्तनीयता की भविष्यवाणी"
+   }
+  ]
+ },
+ {
+  "id": "5-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-5",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "सात पूर्वजों की परम्परा तक",
+    "evidence": "Tibetan ཁྱོད་ཀྱི་བདུན་མེས་རྒྱུད་ཀྱི་བར; bo-mipham 5-5 expands it as མི་རབས་བདུན་གྱི་མེས་པོ་ཚུན་ཆད་ཀྱི་རྒྱུད (the lineage back through seven generations of ancestors), and bo-khenrab 5-5 likewise མི་རབས་བདུན་གྱི་མེས་པོ. 'सात पूर्वज' counts seven ancestors, not seven generations of the lineage.",
+    "fix": "सात पीढ़ियों के पूर्वजों तक की वंश-परम्परा"
+   }
+  ]
+ },
+ {
+  "id": "5-6",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "पूर्णतः आविष्ट",
+    "evidence": "Tibetan བདུད་ཀྱིས་ཡོངས་སུ་བསླང་ (Sanskrit paryutthita): bo-mipham 5-5 བདུད་ཀྱིས་རློམ་སེམས་ཡོངས་སུ་བསླང་ and bo-mipham 5-7 བདུད་ཀྱིས་རྒྱུད་ཡོངས་སུ་བསླད་པའམ་བསྐྱོད་པར་བྱས (Māra stirred up/disturbed their mind-stream). The sense is incited or stirred up by Māra (english_academic: 'incited'); 'आविष्ट' means possessed, entered by, which is stronger and a different idea.",
+    "fix": "मार द्वारा पूर्णतः उकसाया हुआ"
+   }
+  ]
+ },
+ {
+  "id": "5-7",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "पूर्णतः आविष्ट",
+    "evidence": "Tibetan བདུད་ཀྱིས་ཡོངས་སུ་བསླང་; bo-mipham 5-7 and bo-khenrab 5-7 gloss it as བདུད་ཀྱིས་རྒྱུད་/སེམས་རྒྱུད་ཡོངས་སུ་བསླད་པའམ་བསྐྱོད་པར་བྱས (disturbed or stirred up by Māra). 'आविष्ट' (possessed) overstates it; 'incited' is the sense (english_academic).",
+    "fix": "मार द्वारा पूर्णतः उकसाया हुआ"
+   }
+  ]
+ },
+ {
+  "id": "5-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-16",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "अत्यन्त क्षुधित सत्त्व",
+    "evidence": "The Tibetan as printed reads ཡོངས་སུ་ལྟོགས་པ (hungry), which the Hindi follows, but the Sanskrit has parikalpayamāna (conceptualizing) and all three commentaries read it as ཡོངས་སུ་རྟོག་པ / ཡོངས་སུ་རྟོགས་པ (bo-mipham 5-16: ཚུལ་བཞིན་མ་ཡིན་པའི་ཡོངས་སུ་རྟོག་པ་ཅན་དུ་གྱུར་པའི་དབང་གིས་... ཟས་ལ་འདོད་པ་སྐྱེ་བར་བྱེད་; bo-rangjung 5-16; bo-khenrab 5-16). The approved English has 'fully conceptualizing'. The commentary reading is that wrong conceptualization produces craving for food (sense pleasures), not that beings are starving.",
+    "fix": "सत्त्व पूर्णतः परिकल्पना करते हुए भोजन (भोग) की लालसा करते हैं"
+   }
+  ]
+ },
+ {
+  "id": "5-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-18",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "इसमें कोई भी क्लेश या विशुद्ध नहीं होता है",
+    "evidence": "Tibetan འདི་ལ་གང་ཡང་ཉོན་མོངས་རྣམ་དག་འགྱུར་མེད་པར; Sanskrit na hi atra kaścid yo kliśyate śudhyate vā: nothing/no one becomes afflicted or purified. The Hindi makes 'क्लेश' the grammatical subject ('no affliction or pure occurs'), which is hard to parse and obscures that the verbs are 'becomes afflicted' and 'becomes purified'.",
+    "fix": "इसमें कोई भी न क्लिष्ट होता है और न विशुद्ध होता है"
+   }
+  ]
+ },
+ {
+  "id": "5-19",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जगत् के प्राणी के अर्थ में उस सबकी बोधि के हेतु के रूप में परिणामना करें",
+    "evidence": "Tibetan ཀུན་ཀྱང་འགྲོ་བའི་དོན་དུ་བྱང་ཆུབ་རྒྱུར་བསྔོ་ཡང: 'dedicate all of it as a cause of awakening for the sake of beings'. The Hindi uses the singular 'प्राणी' for the collective འགྲོ་བ (beings), and 'उस सबकी' is awkward/ambiguous as to what is dedicated (the generosity), making the clause hard to parse.",
+    "fix": "और उस सबको जगत् के प्राणियों के हित के लिए बोधि के हेतु के रूप में परिणत करें"
+   }
+  ]
+ },
+ {
+  "id": "5-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-33",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "द्वेष-दोष युक्त चित्त",
+    "evidence": "Tibetan ཐབ་སྐྱོན་ལྡན་སེམས (Skt khila-doṣa-yukta) means a mind with the fault of barrenness; bo-mipham 5-33 glosses it as རྒྱུད་མ་རུང་པ་དགེ་བའི་ས་བོན་མི་འཕེལ་བའི་ཐ་བ་ལྟ་བུ་སྐྱོན་དང་ལྡན་པའི་སེམས, a mind like barren ground in which seeds of virtue do not grow. 'द्वेष' (hatred) is not what the term says (the anger is the cause, not the meaning of the term).",
+    "fix": "ऊसर-भूमि जैसे दोष से युक्त चित्त के जितने क्षण होते हैं"
+   }
+  ]
+ },
+ {
+  "id": "5-34",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "वे अलग-अलग अपना दोष स्वीकार करते हैं",
+    "evidence": "སོ་སོར་འཆགས་པ (Skt pratideśayati) is the fixed term for confessing a fault; bo-mipham 5-34 and bo-khenrab 5-34 use སོ་སོར་འཆགས་པར་བྱེད་པ for confession of the wrongdoing, not doing so 'separately/individually'. 'अलग-अलग' misreads སོ་སོར as 'individually' and suggests several persons confessing separately.",
+    "fix": "वे अपने दोष की प्रतिदेशना (दोष-स्वीकार) करते हैं"
+   }
+  ]
+ },
+ {
+  "id": "5-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-36",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "प्राप्त करने के लिए",
+    "evidence": "Tibetan མཉེས་བྱ་ཕྱིར (Skt ārādhiteṣu) means 'in order to please/propitiate' the qualities of a Buddha; bo-rangjung 5-36 reads སངས་རྒྱས་ཀྱི་ཆོས་ཀྱིས་མཉེས་པར་བྱ་བའི་ཕྱིར, and bo-mipham 5-36 also gives སངས་རྒྱས་མཉེས་པའམ་དགྱེས་པར་བྱེད་པ as an alternative reading. 'Obtain' is only the first of Mipham's two readings and does not render མཉེས.",
+    "fix": "बुद्ध-गुणों को प्रसन्न/आराधित करने के लिए"
+   }
+  ]
+ },
+ {
+  "id": "5-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-50",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "पूर्णतः शरीर धारण कर",
+    "evidence": "ཡོངས་སུ་བརྟག་པ་བཟུང་སྟེ (Skt parikalpa) is not 'taking on a body'; bo-rangjung 5-50 glosses it ཡོངས་སུ་བརྟག་པའི་བསམ་པ་བཟུང་སྟེ, taking up the thought/intention (of becoming Māras), and bo-mipham 5-50 frames it as a hypothetical (དཔེར་ན། གལ་ཏེ་བདུད་དུ་གྱུར་ལ). 'शरीर धारण' is added content.",
+    "fix": "यदि वे सभी (मार बनने का) संकल्प/आशय धारण कर मार बन जाएँ"
+   },
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "उस कुशल के लिए",
+    "evidence": "The Tibetan མཁས་ལ་བར་ཆད་བྱ་མི་ནུས refers to the skilled bodhisattva (bo-mipham 5-50: བྱང་ཆུབ་སེམས་དཔའ་མཁས་པ་དེ་ལ). Since 'कुशल' is the locked rendering of དགེ་བ (virtue) and 'उस' has no antecedent, 'उस कुशल' can be read as 'that virtue/wholesome act'.",
+    "fix": "उस मेधावी (कुशल) बोधिसत्त्व के लिए"
+   }
+  ]
+ },
+ {
+  "id": "5-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-52",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "विशुद्ध आशय से इसे सिद्ध करने में निरन्तर यत्नशील होता है",
+    "evidence": "Tibetan \"བསམ་པ་ཐག་པས་བསྒྲུབ་པར་མངོན་པར་བརྩོན་བྱེད་ན\" says: strives to accomplish it with firm/sincere intent (Rangjung 5-52: \"འདུན་པའི་བསམ་པ་ཐག་པའི་སྒོ་ནས་བསྒྲུབ་པར་བྱེད་པ་ལ་མངོན་པར་བརྩོན་པར་བྱེད\"). \"ཐག་པ\" is firmness/sincerity, not \"purity\" (विशुद्ध), and nothing in the Tibetan corresponds to \"निरन्तर\" (continuously).",
+    "fix": "सुदृढ़ आशय से इसे सिद्ध करने के लिए उद्यम करता है"
+   }
+  ]
+ },
+ {
+  "id": "5-53",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "तो मन्त्र-बल से अकाल-पुष्पों से युक्त कर वह अधिष्ठित करता है",
+    "evidence": "Tibetan \"སྔགས་མཐུས་དུས་མིན་མེ་ཏོག་ལྡན་ཞིང་བྱིན་གྱིས་རློབ\" has an implied object that is made to bear out-of-season flowers and is then empowered (Rangjung 5-53: \"ཤིང་སྐམ་པོ་བྱིན་གྱིས་རློབ་པར་བྱེད\"; Mipham 5-53: gardens, groves \"མེ་ཏོག་...དང་ལྡན་ཞིང་...བྱིན་གྱིས་རློབ\"). The Hindi \"युक्त कर ... अधिष्ठित करता है\" leaves the object of both verbs unstated, so it is hard to parse what is made flower-bearing and empowered.",
+    "fix": "तो मन्त्र-बल से (उस स्थान को) अकाल में पुष्पों से युक्त कर अधिष्ठित करता है"
+   }
+  ]
+ },
+ {
+  "id": "5-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-61",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "बुद्धपुत्रों, श्रावकों, प्रत्येकबुद्धों और देवों के, तथा जगत् के सभी प्राणियों के जितने भी सुख और आनन्द के धर्म हैं",
+    "evidence": "In the Tibetan \"སངས་རྒྱས་སྲས་དང་ཉན་ཐོས་རང་རྒྱལ་ལྷ་རྣམས་དང་། འགྲོ་བ་ཀུན་གྱི་བདེ་སྐྱིད་ཆོས་རྣམས་ཇི་སྙེད་པ། དེ་ཀུན་ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་མཆོག་ལས་བྱུང\" the buddha-sons, śrāvakas, pratyekabuddhas and gods are themselves items in the list of what arises from the perfection of wisdom, coordinated with (not owners of) the happiness-dharmas of all beings. Mipham 5-61 lists them as separate arisers and says \"ཤེར་ཕྱིན་ལས་སངས་རྒྱས་འབྱུང\"; Sanskrit has them as a nominative list (\"बुद्धसम श्रावकप्रत्ययाश् च मरुतश् च ... सुखसौख्यधर्माः\"). The Hindi genitive \"...के ... के ... धर्म\" makes the sons, śrāvakas etc. only possessors of happiness-dharmas, dropping the claim that they themselves arise from the perfection of wisdom.",
+    "fix": "बुद्धपुत्र, श्रावक, प्रत्येकबुद्ध और देव, तथा जगत् के सभी प्राणियों के सुख और आनन्द के जितने भी धर्म हैं,"
+   }
+  ]
+ },
+ {
+  "id": "5-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-63",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "ज्ञान के नयद्वार, उपाय और मूल जितने भी हैं",
+    "evidence": "Tibetan \"ཡེ་ཤེས་ཚུལ་སྒོ་ཐབས་དང་རྩ་བ་ཇི་སྙེད་པ\" lists wisdom (ཡེ་ཤེས) as its own item alongside approach/gateway, means and root; Mipham 5-63 distinguishes the buddha-wisdom (\"ཡེ་ཤེས\") from the path of meditation (\"ཚུལ\"), seeing path (\"སྒོ\"), preparation path (\"ཐབས\") and accumulation path (\"རྩ་བ\"). The Hindi genitive \"ज्ञान के नयद्वार\" fuses ज्ञान into a modifier of नयद्वार, so ज्ञान is no longer a separate item (English academic lists them separately).",
+    "fix": "ज्ञान, नयद्वार, उपाय और मूल जितने भी हैं"
+   }
+  ]
+ },
+ {
+  "id": "5-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-69",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "मूर्खों के बाल-गुणों में",
+    "evidence": "Tibetan \"བྱིས་པའི་ཆོས་མི་གནས\" is a single locked unit (བྱིས་པའི་ཆོས = बाल-गुण). The translation stacks the separate locked rendering of བྱིས་པ (\"मूर्ख\") on top, giving a redundant \"मूर्खों के बाल-गुणों\" (\"the child-qualities of fools\"); the Tibetan says only the qualities/dharmas of the childish (Mipham 5-69: \"བྱིས་པའི་ཆོས་ལ་མི་གནས\").",
+    "fix": "बाल-गुणों में स्थित नहीं होते"
+   }
+  ]
+ },
+ {
+  "id": "5-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-72",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "प्रीति और, सुख प्रदान करने वाले चार शान्त ध्यानों",
+    "evidence": "Tibetan \"མཁས་པ་དགའ་བ་དང་། བདེ་སྦྱིན\" has the wise bodhisattvas as the ones who give joy and bliss (to beings); Mipham (bo-mipham 5-72): the bodhisattvas \"སེམས་ཅན་རྣམས་ལ་འཕྲལ་དུ་དགའ་བ་དང་ནམ་ཕུག་གི་བདེ་བ་སྦྱིན་པར་བྱེད་པ\"; Rangjung (5-71) likewise \"གཞན་ལ་བདེ་བ་སྦྱིན་པ\". The Hindi line break makes \"प्रदान करने वाले\" qualify the four dhyāna-samādhis, so the dhyānas become the givers and the beings (recipients) disappear. (The Sanskrit \"prīti-sukhadāṃ śāntāṃ samādhi\" allows that reading, but the Tibetan and commentaries do not.)",
+    "fix": "विद्वान् बोधिसत्त्व, जो (प्राणियों को) प्रीति और सुख प्रदान करते हैं, चार शान्त ध्यान-समाधियों को प्राप्त करके"
+   }
+  ]
+ },
+ {
+  "id": "5-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-75",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "प्रत्यक्ष उद्योग करते हुए",
+    "evidence": "Tibetan \"མངོན་བརྩོན\" (མངོན་པར་བརྩོན་པ, Skt abhiyukta) means to strive earnestly/devote oneself; \"प्रत्यक्ष\" (directly perceptible/manifest) does not convey this and reads oddly with \"उद्योग\". Mipham 5-75 glosses it as taking up the armour of effort for others.",
+    "fix": "वीर्यपारमिता में तत्परता से लगे हुए विचरण करता है"
+   }
+  ]
+ },
+ {
+  "id": "5-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-78",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "प्रत्यक्ष उद्योग करें",
+    "evidence": "Tibetan \"མངོན་པར་བརྩོན\" (Skt abhiyukta) means to strive earnestly / be devoted; \"प्रत्यक्ष\" misleadingly suggests \"directly/visibly\". Mipham 5-78 \"ཉིན་དང་མཚན་དུ་མངོན་པར་བརྩོན་པར་བྱ\".",
+    "fix": "दिन-रात तत्परता से लगे रहें"
+   }
+  ]
+ },
+ {
+  "id": "5-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-80",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अज्ञानी बोधिसत्त्व",
+    "evidence": "Tibetan \"མི་མཁས\" is \"unskilled\", and Mipham 5-80 and Khenrab 5-80 specify \"ཐབས་ལ་མི་མཁས་པ\" (unskilled in means), not ignorant; \"अज्ञानी\" shifts the sense to lack of knowledge.",
+    "fix": "उपाय-कौशल से रहित (अकुशल) बोधिसत्त्व"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "दीर्घकाल की संज्ञा कर दुःखपूर्वक बोधि का साधन करता है",
+    "evidence": "Tibetan \"རིང་བར་འདུ་ཤེས་སྡུག་བསྔལ་བྱང་ཆུབ་སྒྲུབ\": the bodhisattva has the perception (འདུ་ཤེས) of it being long and of it being suffering (Mipham 5-80 \"སྡུག་བསྔལ་བའི་འདུ་ཤེས\"). \"संज्ञा कर\" is awkward and \"दुःखपूर्वक\" turns the perception of suffering into an adverb, obscuring the second saṃjñā.",
+    "fix": "यदि वह (उस काल को) दीर्घ और (साधना को) दुःखमय मानने की संज्ञा रखते हुए बोधि का साधन करता है"
+   }
+  ]
+ },
+ {
+  "id": "5-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-83",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-84",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-87",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "लोकविद्,\nबुद्धों, अर्हतों",
+    "evidence": "Tibetan \"འཇིག་རྟེན་མཁྱེན། སངས་རྒྱས་རྣམས་དང་...\" and Mipham 5-87 \"འཇིག་རྟེན་མཁྱེན་པ་སངས་རྒྱས་རྣམས་\" make \"knower of the world\" an epithet of the Buddhas, not a separate recipient. In the Hindi, a singular \"लोकविद्\" separated by a comma and line break reads as a distinct fourth recipient.",
+    "fix": "लोकविद् बुद्धों, अर्हतों और प्रत्येकबुद्धों को"
+   }
+  ]
+ },
+ {
+  "id": "5-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-89",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-90",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-92",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-93",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-94",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-95",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-96",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-97",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-98",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-99",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-100",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-101",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "दृष्टिरहित",
+    "evidence": "Tibetan 'སྡུག་དང་མི་སྡུག་ཀུན་ལ་ལྟ་བ་མེད་པ' (Sanskrit anapekṣaka) means not regarding/fixating on pleasant and unpleasant. bo-mipham 5-101 glosses it 'དེ་དང་དེར་མཚན་མར་ལྟ་བ་མེད་པ' (no regarding them as signs) and bo-rangjung 5-101 'ཆགས་སྡང་དུ་བལྟ་བ་མེད་པ' (no looking with attachment or aversion). Hindi 'दृष्टिरहित' reads as 'without views' or 'blind', which is a different meaning.",
+    "fix": "प्रिय और अप्रिय सभी के प्रति अपेक्षा-रहित (आसक्ति या द्वेष की दृष्टि से न देखने वाला) होता है"
+   }
+  ]
+ },
+ {
+  "id": "5-102",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-103",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-104",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-105",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-106",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-107",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "पूरी तरह विचार कर कि वे सभी",
+    "evidence": "Tibetan 'ཡོངས་སུ་བརྟག་པ་བཟུང་སྟེ' does not mean 'having thoroughly considered'. bo-mipham 5-107 glosses 'ཡོངས་སུ་བརྟག་པ་མཐའ་བཟུང་གི་དཔེར་བྱས་ཏེ', i.e. taking the utmost limit of what can be reckoned as the example (English: 'Taking them as the utmost extent of what can be conceived'). The Hindi turns this into a mental act of deliberation and drops the sense of an extreme, limiting case.",
+    "fix": "गणना की चरम सीमा को दृष्टान्त बनाकर, यदि वे सभी"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "भली-भांति श्रावक की खोज करें",
+    "evidence": "Tibetan 'ཉན་ཐོས་ལེགས་ཚོལ་' means properly seeking (the state of) a śrāvaka; bo-mipham 5-107 'ཉན་ཐོས་ཀྱི་བྱང་ཆུབ་ལེགས་པར་ཚོལ་བ' (properly seeking the śrāvaka's awakening). Hindi 'श्रावक की खोज' can be read as searching for a śrāvaka (a person).",
+    "fix": "श्रावक-बोधि की भली-भाँति खोज करें"
+   },
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "दान दें और भली-भांति श्रावक की खोज करें;",
+    "evidence": "The Tibetan ends 'ཉན་ཐོས་ལེགས་ཚོལ་ན' with the conditional 'ན' (bo-mipham 5-107 'ཡིན་ན'), so the verse is a protasis ('if ... give ... and seek'), completed in 5-108. The Hindi has no 'यदि' and uses the subjunctive 'दें ... करें', which reads as an optative or imperative.",
+    "fix": "यदि वे ... अनन्त कल्पों तक दान दें और श्रावक-बोधि की भली-भाँति खोज करें,"
+   }
+  ]
+ },
+ {
+  "id": "5-108",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-109",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-110",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "वस्तु के प्रति खेद नहीं करता",
+    "evidence": "Tibetan 'དངོས་པོ་ཕངས་མེད' means unsparing, with no grudging or clinging to the object; Sanskrit 'न च वस्तुप्रेम'. bo-mipham 5-110 'ཕངས་པ་མེད་པར ... ཤིན་ཏུ་མ་ཆགས་པ' (not attached at all), bo-rangjung 5-110 'མི་འཕངས་སེར་སྣ་མེད', bo-khenrab 5-110 'ཆགས་པ་དང་འཕངས་པ་མེད་པ'. Hindi 'खेद' means regret or sorrow, which is not the sense of attachment or stinginess.",
+    "fix": "वस्तु के प्रति कृपणता या आसक्ति नहीं रखता"
+   }
+  ]
+ },
+ {
+  "id": "6-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-4",
+  "verdict": "pass",
+  "issues": []
+ }
+]

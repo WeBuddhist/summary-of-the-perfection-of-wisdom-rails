@@ -1,0 +1,45 @@
+{
+ "2-33": {
+  "translation": "If a tree has no sprout, it will never grow in the world. Without a tree, how could branches, leaves, flowers, and fruit ever appear? It is the same without the wish to awaken. Without it, a Victorious One would never appear in the world. And without their awakening, how could the good fruits, like Shakra, Brahma, and the listeners, ever appear?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "Without a tree, how could branches, leaves, flowers, and fruit ever appear?",
+    "evidence": "The question is: without a sprout, a tree never emerges, so how could branches, leaves, flowers and fruits emerge on it? The children's text replaces the sprout with the tree, losing the sprout-to-tree analogy for the wish to awaken.",
+    "fix": "If a tree has no sprout, it never grows in the world. Then how could branches, leaves, flowers, and fruit ever appear on it?"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "And without their awakening, how could the good fruits, like Shakra, Brahma, and the listeners, ever appear?",
+    "evidence": "The analogy is: without the mind of awakening (wish to awaken), a Victor does not emerge, so how could the fruits (Shakra, Brahma, listeners) emerge. The children's text swaps the wish to awaken for 'their awakening' and adds 'good'.",
+    "fix": "And without the wish to awaken, a Victorious One does not appear, so how could the fruits, like Shakra, Brahma, and the listeners, ever appear?"
+   }
+  ]
+ },
+ "4-48": {
+  "translation": "This teaching of the Guides is deep and hard to see. No one can just figure it out or reach it. So, when the Kind Helper reached awakening, he paused. He thought, \"Who among all the living beings will understand this?\"",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "No one can just figure it out or reach it.",
+    "evidence": "No one realizes it, and there is no attaining of it. The children's text turns 'not realized/no attaining' into 'cannot easily figure out or reach', which changes the logic.",
+    "fix": "No one has realized it, and there is nothing to be reached."
+   }
+  ]
+ },
+ "5-35": {
+  "translation": "When doing their training, some might cling to the training itself, but that is not so here. They do not grasp at a learner or at the things to train in. They do not think of training and not training as two different things. Anyone who practices like this is training in a Buddha's qualities.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "They do not think of training and not training as two different things.",
+    "evidence": "The text says one does not conceptualize either of the two, training and non-training (མི་རྟོག); it does not say they are not seen as two different things.",
+    "fix": "They do not hold on to the ideas of training or not training."
+   }
+  ]
+ }
+}

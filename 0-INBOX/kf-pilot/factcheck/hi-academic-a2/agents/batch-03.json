@@ -1,0 +1,127 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "5-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-34",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "वे अपना दोष स्वीकार करते हैं और भविष्य के लिए भी संयम करते हैं, तथा उसमें आनन्दित नहीं होते, वे इन बुद्ध-गुणों में शिक्षा लेते हैं।",
+     "evidence": "Line 1 has the Buddhas as subject (སངས་རྒྱས་བཟོད་པའི་ཕ་རོལ་ཕྱིན་པས་བྱང་ཆུབ་རེག), but the actions in lines 2-4 (སེམས་འདི་བཟང་བ་མིན་སྙམ་དྲན་པ་སྐྱེད། སོ་སོར་འཆགས། སྡོམ་བྱེད། དགའ་བར་མི་བྱེད། དེ་ནི་སངས་རྒྱས་ཆོས་འདིར་སློབ) belong to the practitioner (bodhisattva) who recognises his angry mind as bad. bo-mipham 5-34 and bo-khenrab 5-34 gloss: the Buddhas touch awakening through patience, whereas 'this angry mind of mine is not good' (བདག་གི་ཁྲོ་བའི་སེམས་འདི་ནི་བཟང་བ་མིན་). The Hindi bare 'वे' continues from 'बुद्ध' and so reads as the Buddhas confessing and training in Buddha-qualities.",
+     "fix": "जो साधक \"यह चित्त उत्तम नहीं है\" ऐसा विचार कर स्मृति उत्पन्न करता है, अपना दोष स्वीकार करता है, भविष्य के लिए संयम करता है और उसमें आनन्दित नहीं होता, वह इन बुद्ध-गुणों में शिक्षा ले रहा है।"
+    }
+   ]
+  },
+  {
+   "id": "5-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-52",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "उस भद्र को सर्वज्ञता में प्रविष्ट जानना चाहिए",
+     "evidence": "The Tibetan 'དེས་པ ... ཞུགས་རིག་བྱ' (read as ངེས་པ, 'definitely') is glossed by bo-rangjung 5-52 as 'ངེས་པར་ཞུགས་པར་རིག་པར་བྱ' and by bo-khenrab 5-52 as 'ངེས་པ་ཡི་བྱང་ཆུབ་སེམས་དཔའ་'. The word expresses certainty ('should be known to have definitely entered omniscience'); it is not an honorific. The Hindi adds an epithet 'भद्र' and loses the certainty. Sanskrit has only vedītavyo abhiprasthitu.",
+     "fix": "उस बोधिसत्त्व को निश्चय ही सर्वज्ञता में प्रविष्ट जानना चाहिए"
+    }
+   ]
+  },
+  {
+   "id": "5-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-78",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "आशारहित चित्त से",
+     "evidence": "Tibetan རེ་བ་མེད་སེམས is glossed by bo-mipham 5-78 as 'ལན་དང་རྣམ་སྨིན་ལ་རེ་བ་མེད་པའི་སེམས' (no expectation of reward or ripened result); Sanskrit niṣpratikāṅkṣacitto. Hindi 'आशारहित' also means hopeless or despondent, a reading the Tibetan excludes (the next lines are about joyful, tireless effort).",
+     "fix": "प्रतिफल की अपेक्षा से रहित चित्त से"
+    }
+   ]
+  },
+  {
+   "id": "5-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-107",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "भली-भांति श्रावक की खोज करें",
+     "evidence": "Tibetan 'ཉན་ཐོས་ལེགས་ཚོལ' means to seek well the awakening of the śrāvakas as the result of the giving. bo-mipham 5-107: 'དེའི་འབྲས་བུ་ཉན་ཐོས་ཀྱི་བྱང་ཆུབ་ལེགས་པར་ཚོལ་བ'; bo-khenrab 5-106: 'སྦྱིན་པའི་འབྲས་བུ་ཉན་ཐོས་ཀྱི་བྱང་ཆུབ་ལེགས་པར་ཚོལ'. The Hindi 'श्रावक की खोज' reads as searching for a śrāvaka (a person) and drops the goal of śrāvaka awakening, changing the referent.",
+     "fix": "और (उस दान के फल के रूप में) श्रावक की बोधि की भली-भाँति खोज करें"
+    }
+   ]
+  },
+  {
+   "id": "5-110",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

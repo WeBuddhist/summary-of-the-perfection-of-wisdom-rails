@@ -1,0 +1,732 @@
+{
+ "batch": "batch-12",
+ "terms": [
+  {
+   "term_id": "T012",
+   "bo": "དགྲ་བཅོམ",
+   "sanskrit": "arhat",
+   "senses": [
+    {
+     "sense": "arhat",
+     "occurrences": "all",
+     "academic": "arhat",
+     "children": "worthy one",
+     "basis": "style-sheet",
+     "reason": "Core term and policy 23; kept Sanskrit in academic, children use \"worthy one\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T025",
+   "bo": "སྟོང་པ",
+   "sanskrit": "śūnya",
+   "senses": [
+    {
+     "sense": "empty (adjective or predicate)",
+     "occurrences": [
+      "1-7",
+      "2-30",
+      "4-68",
+      "4-91"
+     ],
+     "academic": "empty",
+     "children": "empty",
+     "basis": "style-sheet",
+     "reason": "Policy 14: phenomena or merit described as empty."
+    },
+    {
+     "sense": "emptiness (noun)",
+     "occurrences": [
+      "4-24",
+      "4-75",
+      "4-84",
+      "4-96",
+      "4-98",
+      "5-26",
+      "5-51",
+      "5-88"
+     ],
+     "academic": "emptiness",
+     "children": "emptiness",
+     "basis": "style-sheet",
+     "reason": "Policy 14: noun; samādhi of emptiness, practice emptiness, dwell in emptiness, Dharma of emptiness."
+    }
+   ]
+  },
+  {
+   "term_id": "T038",
+   "bo": "ཐབས",
+   "sanskrit": "upāya",
+   "senses": [
+    {
+     "sense": "skillful means",
+     "occurrences": "all",
+     "academic": "skillful means",
+     "children": "clever ways",
+     "basis": "style-sheet",
+     "reason": "Core term ཐབས; both machines say \"skillful means\" (6 each); American spelling."
+    }
+   ]
+  },
+  {
+   "term_id": "T051",
+   "bo": "ཚོར",
+   "sanskrit": "vedanā",
+   "senses": [
+    {
+     "sense": "feeling",
+     "occurrences": "all",
+     "academic": "feeling",
+     "children": "feeling",
+     "basis": "style-sheet",
+     "reason": "Policy 19: ཚོར covers ཚོར་བ; both machines say \"feeling\" (6 of 6)."
+    }
+   ]
+  },
+  {
+   "term_id": "T064",
+   "bo": "ས",
+   "sanskrit": "bhūmi",
+   "senses": [
+    {
+     "sense": "stage",
+     "occurrences": [
+      "2-2",
+      "2-7",
+      "4-4",
+      "4-15"
+     ],
+     "academic": "stage",
+     "children": "level",
+     "basis": "style-sheet",
+     "reason": "Policy 42: ས as bhūmi, stage of an arhat or a Buddha."
+    },
+    {
+     "sense": "birthplace",
+     "occurrences": [
+      "4-13"
+     ],
+     "academic": "birthplace",
+     "children": "birthplace",
+     "basis": "gm",
+     "reason": "In the list name, lineage, ས, clan; the place one comes from, not a bhūmi."
+    }
+   ]
+  },
+  {
+   "term_id": "T077",
+   "bo": "དགེ་བའི་བཤེས",
+   "sanskrit": "kalyāṇamitra",
+   "senses": [
+    {
+     "sense": "spiritual friend",
+     "occurrences": "all",
+     "academic": "spiritual friend",
+     "children": "wise friend",
+     "basis": "style-sheet",
+     "reason": "Core term དགེ་བའི་བཤེས; both machines \"spiritual friend(s)\"; children's \"wise friend\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T090",
+   "bo": "རྣལ་འབྱོར་པ",
+   "sanskrit": "yogin",
+   "senses": [
+    {
+     "sense": "yogin",
+     "occurrences": "all",
+     "academic": "yogin",
+     "children": "meditator",
+     "basis": "gm",
+     "reason": "Policy 33 keeps \"yogin\" (Gemini); children cannot use Sanskrit, so a plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T103",
+   "bo": "ཆགས་པ",
+   "sanskrit": "saṅga",
+   "senses": [
+    {
+     "sense": "attachment",
+     "occurrences": "all",
+     "academic": "attachment",
+     "children": "clinging",
+     "basis": "both",
+     "reason": "Both machines say \"attachment\"; children's \"clinging\" is plain and keeps the sense."
+    }
+   ]
+  },
+  {
+   "term_id": "T116",
+   "bo": "ཡོངས་སུ་བསྔོ་བ",
+   "sanskrit": "pariṇāma",
+   "senses": [
+    {
+     "sense": "dedicate",
+     "occurrences": "all",
+     "academic": "dedicate",
+     "children": "dedicate",
+     "basis": "style-sheet",
+     "reason": "Policies 47-48: verbal term recorded as base form \"dedicate\"; translator inflects."
+    }
+   ]
+  },
+  {
+   "term_id": "T129",
+   "bo": "དབང་པོ",
+   "sanskrit": "indriya",
+   "senses": [
+    {
+     "sense": "faculty",
+     "occurrences": "all",
+     "academic": "faculty",
+     "children": "ability",
+     "basis": "both",
+     "reason": "Policy 45: \"faculty\" (both machines \"faculties\"); children's \"ability\" is new, distinct from \"power\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T142",
+   "bo": "ཆོས་ཀྱི་རང་བཞིན",
+   "sanskrit": "dharmaprakṛti",
+   "senses": [
+    {
+     "sense": "nature of phenomena",
+     "occurrences": "all",
+     "academic": "nature of phenomena",
+     "children": "nature of things",
+     "basis": "style-sheet",
+     "reason": "Policy 10: ཆོས་ཀྱི་རང་བཞིན is \"nature of phenomena\"; children's follows ཆོས \"things\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T155",
+   "bo": "རྐྱེན་རྟོགས",
+   "sanskrit": "pratyekabuddha",
+   "senses": [
+    {
+     "sense": "pratyekabuddha",
+     "occurrences": "all",
+     "academic": "pratyekabuddha",
+     "children": "solitary Buddha",
+     "basis": "style-sheet",
+     "reason": "Policy 23: variant of རང་རྒྱལ, one term; children's \"solitary Buddha\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T168",
+   "bo": "སྟོང་པ་ཉིད",
+   "sanskrit": "śūnyatā",
+   "senses": [
+    {
+     "sense": "emptiness",
+     "occurrences": "all",
+     "academic": "emptiness",
+     "children": "emptiness",
+     "basis": "style-sheet",
+     "reason": "Policy 14: སྟོང་པ་ཉིད is \"emptiness\" in both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T181",
+   "bo": "རབ་འབྱོར",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "Subhūti",
+     "occurrences": "all",
+     "academic": "Subhūti",
+     "children": "Subhuti",
+     "basis": "style-sheet",
+     "reason": "Policy 30: proper name, IAST academic, no diacritics for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T194",
+   "bo": "དཀར་པོའི་ཡོན་ཏན",
+   "sanskrit": "śuklaguṇa",
+   "senses": [
+    {
+     "sense": "virtuous quality",
+     "occurrences": "all",
+     "academic": "virtuous quality",
+     "children": "quality of goodness",
+     "basis": "dm",
+     "reason": "Policy 46: དཀར་པོའི་ཡོན་ཏན is \"virtuous qualities\" (DharmaMitra); children's new, not \"white\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T207",
+   "bo": "རྣམ་ཐར",
+   "sanskrit": "vimokṣa",
+   "senses": [
+    {
+     "sense": "liberation",
+     "occurrences": "all",
+     "academic": "liberation",
+     "children": "freedom",
+     "basis": "both",
+     "reason": "Both machines \"liberation(s)\"; policy 16 uses \"liberation\"; children's \"freedom\" is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T220",
+   "bo": "སེམས་བསྐྱེད",
+   "sanskrit": "cittotpāda",
+   "senses": [
+    {
+     "sense": "generation of the mind",
+     "occurrences": "all",
+     "academic": "generation of the mind",
+     "children": "making the wish to awaken",
+     "basis": "style-sheet",
+     "reason": "Policy 40: སེམས་བསྐྱེད is \"generation of the mind\"; children's follows \"wish to awaken\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T233",
+   "bo": "བཅོམ་ལྡན་འདས",
+   "sanskrit": "bhagavat",
+   "senses": [
+    {
+     "sense": "Blessed One",
+     "occurrences": "all",
+     "academic": "Blessed One",
+     "children": "Blessed One",
+     "basis": "style-sheet",
+     "reason": "Policy 27: epithet of the Buddha, capitalised, in both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T246",
+   "bo": "སྣ་ཚོགས་འདུ་ཤེས",
+   "sanskrit": "nānātvasaṃjñā",
+   "senses": [
+    {
+     "sense": "diverse perception",
+     "occurrences": "all",
+     "academic": "diverse perception",
+     "children": "different idea",
+     "basis": "both",
+     "reason": "Both machines \"diverse perceptions\"; perception per policy 20; children's uses \"idea\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T259",
+   "bo": "ཕྱི་མཐའ",
+   "sanskrit": "aparānta",
+   "senses": [
+    {
+     "sense": "later limit",
+     "occurrences": "all",
+     "academic": "later limit",
+     "children": "later end",
+     "basis": "dm",
+     "reason": "Matches the earlier limit it pairs with; Gemini \"future limit\" risks clashing with the three times."
+    }
+   ]
+  },
+  {
+   "term_id": "T272",
+   "bo": "སློབ་མི་སློབ",
+   "sanskrit": "śikṣā-aśikṣā",
+   "senses": [
+    {
+     "sense": "training and non-training",
+     "occurrences": "all",
+     "academic": "training and non-training",
+     "children": "learning and not learning",
+     "basis": "dm",
+     "reason": "Sanskrit is śikṣā-aśikṣa, not \"no-more-training\"; training per T467."
+    }
+   ]
+  },
+  {
+   "term_id": "T285",
+   "bo": "སྨན་པའི་རྒྱལ་པོ",
+   "sanskrit": "vaidyarāja",
+   "senses": [
+    {
+     "sense": "king of physicians",
+     "occurrences": "all",
+     "academic": "king of physicians",
+     "children": "king of healers",
+     "basis": "both",
+     "reason": "Both machines \"kings of physicians\"; children's \"healers\" is plain."
+    }
+   ]
+  },
+  {
+   "term_id": "T298",
+   "bo": "རོ་གཅིག",
+   "sanskrit": "ekarasa",
+   "senses": [
+    {
+     "sense": "one taste",
+     "occurrences": "all",
+     "academic": "one taste",
+     "children": "one taste",
+     "basis": "both",
+     "reason": "Both machines \"one taste\"; a plain two-word phrase kept for both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T311",
+   "bo": "སློབ",
+   "sanskrit": "śaikṣa",
+   "senses": [
+    {
+     "sense": "one in training",
+     "occurrences": "all",
+     "academic": "one in training",
+     "children": "learner",
+     "basis": "dm",
+     "reason": "DharmaMitra \"those in training\" is more exact than Gemini \"learners\" (children's word)."
+    }
+   ]
+  },
+  {
+   "term_id": "T324",
+   "bo": "རྒྱལ་བའི་ཡུམ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "Mother of the Victors",
+     "occurrences": "all",
+     "academic": "Mother of the Victors",
+     "children": "Mother of the Victorious Ones",
+     "basis": "style-sheet",
+     "reason": "Policy 8: Mother epithet with Victors; children's Victor is \"Victorious One\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T337",
+   "bo": "རྫུ་འཕྲུལ་རྐང་པ",
+   "sanskrit": "ṛddhipāda",
+   "senses": [
+    {
+     "sense": "base of miraculous power",
+     "occurrences": "all",
+     "academic": "base of miraculous power",
+     "children": "base of magical power",
+     "basis": "both",
+     "reason": "Both machines \"bases of miraculous power\" (policy 45); children's \"magical power\" is plain."
+    }
+   ]
+  },
+  {
+   "term_id": "T350",
+   "bo": "བར་དུ་གཅོད་པ",
+   "sanskrit": "antarāya",
+   "senses": [
+    {
+     "sense": "obstacle",
+     "occurrences": "all",
+     "academic": "obstacle",
+     "children": "obstacle",
+     "basis": "both",
+     "reason": "Both machines \"obstacles\"; plain English word fits both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T363",
+   "bo": "སྲེད་པ",
+   "sanskrit": "tṛṣṇā",
+   "senses": [
+    {
+     "sense": "craving",
+     "occurrences": "all",
+     "academic": "craving",
+     "children": "strong wanting",
+     "basis": "both",
+     "reason": "Both machines \"craving\"; children's phrase avoids a heavy word but keeps the idea."
+    }
+   ]
+  },
+  {
+   "term_id": "T376",
+   "bo": "དང་པོའི་ལས་ཅན",
+   "sanskrit": "ādikarmika",
+   "senses": [
+    {
+     "sense": "beginner",
+     "occurrences": "all",
+     "academic": "beginner",
+     "children": "beginner",
+     "basis": "both",
+     "reason": "Both machines \"beginners\"; plain English word for both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T389",
+   "bo": "ཡུལ",
+   "sanskrit": "viṣaya",
+   "senses": [
+    {
+     "sense": "sense object",
+     "occurrences": "all",
+     "academic": "sense object",
+     "children": "thing we sense",
+     "basis": "both",
+     "reason": "Both machines \"sense objects\"; children's plain phrase keeps the sense."
+    }
+   ]
+  },
+  {
+   "term_id": "T402",
+   "bo": "ཤེས་བཞིན",
+   "sanskrit": "saṃprajanya",
+   "senses": [
+    {
+     "sense": "alertness",
+     "occurrences": "all",
+     "academic": "alertness",
+     "children": "staying alert",
+     "basis": "dm",
+     "reason": "\"Alertness\" is shorter and clearer than \"clear comprehension\"; used for ཤེས་བཞིན every time."
+    }
+   ]
+  },
+  {
+   "term_id": "T415",
+   "bo": "རྫུ་འཕྲུལ་སྟོབས",
+   "sanskrit": "ṛddhibala",
+   "senses": [
+    {
+     "sense": "power of miracles",
+     "occurrences": "all",
+     "academic": "power of miracles",
+     "children": "power of magic",
+     "basis": "both",
+     "reason": "Both machines \"power of miracles\"; head word \"power\" keeps it apart from \"miraculous power\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T428",
+   "bo": "སེམས་ཅན་སྨིན",
+   "sanskrit": "sattvaparipācana",
+   "senses": [
+    {
+     "sense": "ripening of sentient beings",
+     "occurrences": "all",
+     "academic": "ripening of sentient beings",
+     "children": "helping living beings grow",
+     "basis": "dm",
+     "reason": "Noun phrase from DharmaMitra; sentient beings per policy 39, children's \"living beings\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T441",
+   "bo": "བདག་གི་ཆོས",
+   "sanskrit": "dharma",
+   "senses": [
+    {
+     "sense": "phenomena of self",
+     "occurrences": "all",
+     "academic": "phenomena of self",
+     "children": "things of a self",
+     "basis": "gm",
+     "reason": "Built on parts per policy 37: self plus phenomena; DharmaMitra \"mine\" loses ཆོས."
+    }
+   ]
+  },
+  {
+   "term_id": "T454",
+   "bo": "བག་མེད",
+   "sanskrit": "pramāda",
+   "senses": [
+    {
+     "sense": "careless",
+     "occurrences": "all",
+     "academic": "careless",
+     "children": "careless",
+     "basis": "both",
+     "reason": "Both machines \"careless\"; plain English adjective for both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T467",
+   "bo": "བསླབ",
+   "sanskrit": "śikṣā",
+   "senses": [
+    {
+     "sense": "training",
+     "occurrences": "all",
+     "academic": "training",
+     "children": "training",
+     "basis": "both",
+     "reason": "Both machines \"training\"; policy 12 keeps it apart from ethical discipline."
+    }
+   ]
+  },
+  {
+   "term_id": "T480",
+   "bo": "རྒྱལ་བའི་ཡོན་ཏན",
+   "sanskrit": "jinaguṇa",
+   "senses": [
+    {
+     "sense": "quality of the Victors",
+     "occurrences": "all",
+     "academic": "quality of the Victors",
+     "children": "good quality of the Victorious Ones",
+     "basis": "style-sheet",
+     "reason": "Compound of ཡོན་ཏན \"quality\" and རྒྱལ་བ \"Victor\" (core terms); Gemini \"Victorious Ones\" only for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T493",
+   "bo": "རྒྱུ་རྣམ་བཞི",
+   "sanskrit": "catuḥkāraṇa",
+   "senses": [
+    {
+     "sense": "four causes",
+     "occurrences": "all",
+     "academic": "four causes",
+     "children": "four causes",
+     "basis": "both",
+     "reason": "Both machines \"four causes\"; plain numeral plus noun."
+    }
+   ]
+  },
+  {
+   "term_id": "T506",
+   "bo": "རྟེན་ཅིང་འབྲེལ་འབྱུང",
+   "sanskrit": "pratītyasamutpāda",
+   "senses": [
+    {
+     "sense": "dependent origination",
+     "occurrences": "all",
+     "academic": "dependent origination",
+     "children": "arising from causes together",
+     "basis": "both",
+     "reason": "Both machines \"dependent origination\"; children's phrase explains it in plain words."
+    }
+   ]
+  },
+  {
+   "term_id": "T519",
+   "bo": "དགའ་བ",
+   "sanskrit": "prīti",
+   "senses": [
+    {
+     "sense": "joy",
+     "occurrences": "all",
+     "academic": "joy",
+     "children": "joy",
+     "basis": "both",
+     "reason": "Both machines \"joy\"; everyday word for both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T532",
+   "bo": "འཁོར",
+   "sanskrit": "saṃsāra",
+   "senses": [
+    {
+     "sense": "saṃsāra",
+     "occurrences": "all",
+     "academic": "saṃsāra",
+     "children": "cycle of rebirth",
+     "basis": "style-sheet",
+     "reason": "Policy 34: འཁོར is \"saṃsāra\" (not \"cyclic existence\"); core term འཁོར་བ children's."
+    }
+   ]
+  },
+  {
+   "term_id": "T545",
+   "bo": "མཐུ་སྟོབས",
+   "sanskrit": "prabhāva",
+   "senses": [
+    {
+     "sense": "power and strength",
+     "occurrences": "all",
+     "academic": "power and strength",
+     "children": "great strength",
+     "basis": "gm",
+     "reason": "\"Power and strength\" keeps མཐུ་སྟོབས distinct from སྟོབས \"power\"; children's new."
+    }
+   ]
+  },
+  {
+   "term_id": "T558",
+   "bo": "སྡོམ་མིན",
+   "sanskrit": "asaṃvara",
+   "senses": [
+    {
+     "sense": "non-restraint",
+     "occurrences": "all",
+     "academic": "non-restraint",
+     "children": "not holding back",
+     "basis": "gm",
+     "reason": "Gemini \"non-restraint\" fits the \"non-\" pattern (policy 52); children's plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T571",
+   "bo": "རྣམ་པར་སྨིན",
+   "sanskrit": "vipāka",
+   "senses": [
+    {
+     "sense": "ripening result",
+     "occurrences": "all",
+     "academic": "ripening result",
+     "children": "result that ripens",
+     "basis": "gm",
+     "reason": "Gemini \"ripening result\" keeps the ripening stem; DharmaMitra \"karmic maturation\" adds a gloss."
+    }
+   ]
+  },
+  {
+   "term_id": "T584",
+   "bo": "དལ་བ",
+   "sanskrit": "kṣaṇa",
+   "senses": [
+    {
+     "sense": "leisure",
+     "occurrences": "all",
+     "academic": "leisure",
+     "children": "freedom to practice",
+     "basis": "style-sheet",
+     "reason": "Policy 49: དལ་བ is \"leisure\" (both machines); children's phrase is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T597",
+   "bo": "བྱང་ཆུབ་ལམ",
+   "sanskrit": "bodhimārga",
+   "senses": [
+    {
+     "sense": "path to awakening",
+     "occurrences": "all",
+     "academic": "path to awakening",
+     "children": "path to awakening",
+     "basis": "both",
+     "reason": "Both machines \"path to awakening\"; awakening per policy 1."
+    }
+   ]
+  }
+ ]
+}

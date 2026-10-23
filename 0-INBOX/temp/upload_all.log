@@ -1,0 +1,724 @@
+################ step 1/9: Tibetan, translation of the Sanskrit
+--- dry run
+OK    1-SOURCES/Translations/bo-ratnagunasancayagatha.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/bo-ratnagunasancayagatha.lint.json
+  WARN author 'སྟོན་པ་བཅོམ་ལྡན་འདས།': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped
+  WARN translator 'རྒྱ་གར་གྱི་མཁན་པོ་བིདྷ་ཀ་ར་སིང་ཧ། · ཞུ་ཆེན་གྱི་ལོཙཚ་བ་བན་དེ་དཔལ་བརྩེགས།': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped
+  WARN contributions: author/translator missing — ignored
+OK    /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/bo-ratnagunasancayagatha.lint.json  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-ratnagunasancayagatha.text.json
+OK    1-SOURCES/Translations/bo-ratnagunasancayagatha.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-ratnagunasancayagatha.edition.json
+  content length   : 54215 chars
+  segments         : 308
+  headings (toc)   : 10
+    verse: 308
+OK    1-SOURCES/Translations/bo-ratnagunasancayagatha.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-ratnagunasancayagatha.toc.json
+  top sections     : 1
+  toc nodes        : 10
+  max depth        : 1
+OK    1-SOURCES/Translations/bo-ratnagunasancayagatha.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-ratnagunasancayagatha.alignment.json
+  alignments       : 307
+== lint ==
+
+== parse ==
+
+== checks ==
+  transclusion alignment: 307 pairs; 307/308 segments aligned; unaligned: ['8-1']
+  live root PjNu42nbrR7yrGKKlL2aM: 373 segments, every alignment target present ✓
+  54215 chars, 308 segments, 307 alignment pairs, toc: 1 root section + 9 subsections
+
+== DRY RUN ==
+  text      POST https://library.webuddhist.com/v2/texts  (1046 bytes)  -> create
+  edition   POST https://library.webuddhist.com/v2/texts/{text_id}/editions  (214256 bytes)  -> create
+  alignment PUT  https://library.webuddhist.com/v2/editions/PjNu42nbrR7yrGKKlL2aM/alignments/{edition_id}  (22692 bytes)  -> put
+  toc       POST https://library.webuddhist.com/v2/editions/{edition_id}/table-of-contents  (1571 bytes)  -> create
+
+dry run: nothing sent, frontmatter untouched. Re-run with --execute after confirmation.
+--- execute
+  WARN contributions: author/translator missing — ignored
+OK    /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/bo-ratnagunasancayagatha.lint.json  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-ratnagunasancayagatha.text.json
+OK    1-SOURCES/Translations/bo-ratnagunasancayagatha.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-ratnagunasancayagatha.edition.json
+  content length   : 54215 chars
+  segments         : 308
+  headings (toc)   : 10
+    verse: 308
+OK    1-SOURCES/Translations/bo-ratnagunasancayagatha.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-ratnagunasancayagatha.toc.json
+  top sections     : 1
+  toc nodes        : 10
+  max depth        : 1
+OK    1-SOURCES/Translations/bo-ratnagunasancayagatha.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-ratnagunasancayagatha.alignment.json
+  alignments       : 307
+== lint == (skipped, reusing bo-ratnagunasancayagatha.lint.json)
+
+== parse ==
+
+== checks ==
+  transclusion alignment: 307 pairs; 307/308 segments aligned; unaligned: ['8-1']
+  live root PjNu42nbrR7yrGKKlL2aM: 373 segments, every alignment target present ✓
+  54215 chars, 308 segments, 307 alignment pairs, toc: 1 root section + 9 subsections
+
+== EXECUTE ==
+  text      POST https://library.webuddhist.com/v2/texts  (1046 bytes)  -> create
+  edition   POST https://library.webuddhist.com/v2/texts/{text_id}/editions  (214256 bytes)  -> create
+  alignment PUT  https://library.webuddhist.com/v2/editions/PjNu42nbrR7yrGKKlL2aM/alignments/{edition_id}  (22692 bytes)  -> put
+  toc       POST https://library.webuddhist.com/v2/editions/{edition_id}/table-of-contents  (1571 bytes)  -> create
+  PATCHED bo-ratnagunasancayagatha.md: text_id = U5FlKUlLLtS1zo4n0EGZL
+  text_id    U5FlKUlLLtS1zo4n0EGZL
+  PATCHED bo-ratnagunasancayagatha.md: edition_id = fYnGwQC4fH8Fa37vLUiXD
+  edition_id fYnGwQC4fH8Fa37vLUiXD  (54215 chars, 308 segments)
+  PATCHED bo-ratnagunasancayagatha.md: aligned_to_edition_id = PjNu42nbrR7yrGKKlL2aM
+  aligned    307 pairs -> PjNu42nbrR7yrGKKlL2aM
+  PATCHED bo-ratnagunasancayagatha.md: toc_id = kNcLwkdKvMvS6qBNwQCIj
+  toc_id     kNcLwkdKvMvS6qBNwQCIj  (1 root section + 9 subsections)
+
+done. ledger: /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/upload_ledger.json
+--- verify
+text_id U5FlKUlLLtS1zo4n0EGZL  edition_id fYnGwQC4fH8Fa37vLUiXD
+  text: title={'en': 'Verses on the Collection of the Precious Qualities of the Perfection of Wisdom', 'bo': 'ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྡུད་པ་ཚིགས་སུ་བཅད་པ།'} lang=bo translation_of=415kqyNhR8qC6d7R1dhpB editions=['fYnGwQC4fH8Fa37vLUiXD']
+  edition segments: 308  ['0-1', '0-2', '0-3', '0-4'] … ['8-3', '8-4']
+  alignment root->this: 307 pairs, identity over every segment: False
+  toc kNcLwkdKvMvS6qBNwQCIj: 1 root section(s), 9 subsections: ཀླད་ཀྱི་དོན། | རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་བསྟན། ། | ལམ་ཐམས་ཅད་ཤེས་པ་ཉིད་བསྟན། ། | གཞི་ཐམས་ཅད་ཤེས་པ་བསྟན་པ། | རྣམ་པ་ཀུན་མངོན་པར་རྫོགས་པར་རྟོགས་པ་བསྟན་པ། | རྩེ་མོ་མངོན་པར་རྫོགས་པར་རྟོགས་པ་བསྟན་པ། | མཐར་གྱིས་པ་བསྟན་པ། | སྐད་ཅིག་མ་གཅིག་ལ་མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་པར་བསྟན་པ། | ཆོས་སྐུ་བསྟན་པ།
+################ step 2/9: Chinese, translation of the Tibetan
+--- dry run
+OK    1-SOURCES/Translations/zh-ratnagunasancayagatha.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/zh-ratnagunasancayagatha.lint.json
+  WARN contributions: author/translator missing — ignored for now
+  WARN alt_titles: missing — ignored for now
+  WARN alt_titles: missing — ignored
+  WARN contributions: author/translator missing — ignored
+OK    /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/zh-ratnagunasancayagatha.lint.json  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/zh-ratnagunasancayagatha.text.json
+OK    1-SOURCES/Translations/zh-ratnagunasancayagatha.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/zh-ratnagunasancayagatha.edition.json
+  content length   : 9210 chars
+  segments         : 333
+  headings (toc)   : 10
+    verse: 333
+OK    1-SOURCES/Translations/zh-ratnagunasancayagatha.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/zh-ratnagunasancayagatha.toc.json
+  top sections     : 1
+  toc nodes        : 10
+  max depth        : 1
+OK    1-SOURCES/Translations/zh-ratnagunasancayagatha.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/zh-ratnagunasancayagatha.alignment.json
+  alignments       : 308
+== lint ==
+
+== parse ==
+
+== checks ==
+  transclusion alignment: 308 pairs; 301/333 segments aligned; unaligned: ['0-3', '2-12', '2-21', '2-29', '2-39', '2-49', '2-57', '3-4', '3-7', '4-11', '4-22', '4-32', '4-45', '4-54', '4-61', '4-69', '4-78', '4-82', '4-87', '5-4', '5-13', '5-27', '5-28', '5-33', '5-40', '5-47', '5-56', '5-66', '5-74', '5-89', '5-104', '5-123']
+  live root fYnGwQC4fH8Fa37vLUiXD: 308 segments, every alignment target present ✓
+  9210 chars, 333 segments, 308 alignment pairs, toc: 1 root section + 9 subsections
+
+== DRY RUN ==
+  text      POST https://library.webuddhist.com/v2/texts  (176 bytes)  -> create
+  edition   POST https://library.webuddhist.com/v2/texts/{text_id}/editions  (82406 bytes)  -> create
+  alignment PUT  https://library.webuddhist.com/v2/editions/fYnGwQC4fH8Fa37vLUiXD/alignments/{edition_id}  (22746 bytes)  -> put
+  toc       POST https://library.webuddhist.com/v2/editions/{edition_id}/table-of-contents  (753 bytes)  -> create
+
+dry run: nothing sent, frontmatter untouched. Re-run with --execute after confirmation.
+--- execute
+  WARN alt_titles: missing — ignored
+  WARN contributions: author/translator missing — ignored
+OK    /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/zh-ratnagunasancayagatha.lint.json  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/zh-ratnagunasancayagatha.text.json
+OK    1-SOURCES/Translations/zh-ratnagunasancayagatha.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/zh-ratnagunasancayagatha.edition.json
+  content length   : 9210 chars
+  segments         : 333
+  headings (toc)   : 10
+    verse: 333
+OK    1-SOURCES/Translations/zh-ratnagunasancayagatha.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/zh-ratnagunasancayagatha.toc.json
+  top sections     : 1
+  toc nodes        : 10
+  max depth        : 1
+OK    1-SOURCES/Translations/zh-ratnagunasancayagatha.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/zh-ratnagunasancayagatha.alignment.json
+  alignments       : 308
+== lint == (skipped, reusing zh-ratnagunasancayagatha.lint.json)
+
+== parse ==
+
+== checks ==
+  transclusion alignment: 308 pairs; 301/333 segments aligned; unaligned: ['0-3', '2-12', '2-21', '2-29', '2-39', '2-49', '2-57', '3-4', '3-7', '4-11', '4-22', '4-32', '4-45', '4-54', '4-61', '4-69', '4-78', '4-82', '4-87', '5-4', '5-13', '5-27', '5-28', '5-33', '5-40', '5-47', '5-56', '5-66', '5-74', '5-89', '5-104', '5-123']
+  live root fYnGwQC4fH8Fa37vLUiXD: 308 segments, every alignment target present ✓
+  9210 chars, 333 segments, 308 alignment pairs, toc: 1 root section + 9 subsections
+
+== EXECUTE ==
+  text      POST https://library.webuddhist.com/v2/texts  (176 bytes)  -> create
+  edition   POST https://library.webuddhist.com/v2/texts/{text_id}/editions  (82406 bytes)  -> create
+  alignment PUT  https://library.webuddhist.com/v2/editions/fYnGwQC4fH8Fa37vLUiXD/alignments/{edition_id}  (22746 bytes)  -> put
+  toc       POST https://library.webuddhist.com/v2/editions/{edition_id}/table-of-contents  (753 bytes)  -> create
+  PATCHED zh-ratnagunasancayagatha.md: text_id = qMxinYMnDVjKLQVkFoJJY
+  text_id    qMxinYMnDVjKLQVkFoJJY
+  PATCHED zh-ratnagunasancayagatha.md: edition_id = npFewC3fvrdxQHofZIAi4
+  edition_id npFewC3fvrdxQHofZIAi4  (9210 chars, 333 segments)
+  PATCHED zh-ratnagunasancayagatha.md: aligned_to_edition_id = fYnGwQC4fH8Fa37vLUiXD
+  aligned    308 pairs -> fYnGwQC4fH8Fa37vLUiXD
+  PATCHED zh-ratnagunasancayagatha.md: toc_id = 7y8cP0r7Yw3TJeft4GecE
+  toc_id     7y8cP0r7Yw3TJeft4GecE  (1 root section + 9 subsections)
+
+done. ledger: /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/upload_ledger.json
+--- verify
+text_id qMxinYMnDVjKLQVkFoJJY  edition_id npFewC3fvrdxQHofZIAi4
+  text: title={'zh': '佛母寶德藏般若波羅蜜經'} lang=zh translation_of=U5FlKUlLLtS1zo4n0EGZL editions=['npFewC3fvrdxQHofZIAi4']
+  edition segments: 333  ['0-1', '0-2', '0-3', '0-4'] … ['7-1', '8-1']
+  alignment root->this: 308 pairs, identity over every segment: False
+  toc 7y8cP0r7Yw3TJeft4GecE: 1 root section(s), 9 subsections: 序分 | 一切相智 | 道相智 | 一切智 | 一切相現觀 | 頂現觀 | 漸次 | 一剎那證菩提 | 法身
+################ step 3/9: Mipham commentary, commentary of the Tibetan
+--- dry run
+== lint ==
+OK    1-SOURCES/Commentaries/bo-mipham-lekshe.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/linter-commentary/output/bo-mipham-lekshe.lint.json
+  PATCHED source: commentary_of: (missing) -> 'U5FlKUlLLtS1zo4n0EGZL'
+
+== parse ==
+OK    /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/linter-commentary/output/bo-mipham-lekshe.lint.json  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/parser-commentary/output/bo-mipham-lekshe/bo-mipham-lekshe.text.json
+OK    1-SOURCES/Commentaries/bo-mipham-lekshe.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/parser-commentary/output/bo-mipham-lekshe/bo-mipham-lekshe.edition.json
+  content length   : 243674 chars
+  segments         : 487
+  headings (toc)   : 454
+    paragraph: 487
+OK    1-SOURCES/Commentaries/bo-mipham-lekshe.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/parser-commentary/output/bo-mipham-lekshe/bo-mipham-lekshe.toc.json
+  top sections     : 1
+  toc nodes        : 454
+  max depth        : 5
+OK    1-SOURCES/Commentaries/bo-mipham-lekshe.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/parser-commentary/output/bo-mipham-lekshe/bo-mipham-lekshe.alignment.json
+  alignments       : 591
+
+== checks ==
+  live root fYnGwQC4fH8Fa37vLUiXD: 308 segments, every alignment target present ✓
+  live root U5FlKUlLLtS1zo4n0EGZL: 0 existing commentar(ies), no duplicate of this one ✓
+  243674 chars, 487 segments (487 paragraph, 0 verse)
+  toc: 1 root section, 454 nodes; alignment: 591 pairs (483 commentary segments -> 306 root segments)
+  footnotes: none in the source
+
+== DRY RUN ==  host https://library.webuddhist.com
+  commentary of root text U5FlKUlLLtS1zo4n0EGZL (edition fYnGwQC4fH8Fa37vLUiXD); language bo
+  text      POST https://library.webuddhist.com/v2/texts  (1414 bytes)  -> create
+  edition   POST https://library.webuddhist.com/v2/texts/{text_id}/editions  (769329 bytes)  -> create
+  toc       POST https://library.webuddhist.com/v2/editions/{edition_id}/table-of-contents  (64793 bytes)  -> create
+  alignment PUT  https://library.webuddhist.com/v2/editions/{edition_id}/alignments/fYnGwQC4fH8Fa37vLUiXD  (44121 bytes)  -> put
+
+dry run: nothing sent, frontmatter untouched by this script. Re-run with --execute after confirmation.
+--- execute
+== lint == (skipped, reusing bo-mipham-lekshe.lint.json)
+
+== parse ==
+OK    /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/linter-commentary/output/bo-mipham-lekshe.lint.json  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/parser-commentary/output/bo-mipham-lekshe/bo-mipham-lekshe.text.json
+OK    1-SOURCES/Commentaries/bo-mipham-lekshe.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/parser-commentary/output/bo-mipham-lekshe/bo-mipham-lekshe.edition.json
+  content length   : 243674 chars
+  segments         : 487
+  headings (toc)   : 454
+    paragraph: 487
+OK    1-SOURCES/Commentaries/bo-mipham-lekshe.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/parser-commentary/output/bo-mipham-lekshe/bo-mipham-lekshe.toc.json
+  top sections     : 1
+  toc nodes        : 454
+  max depth        : 5
+OK    1-SOURCES/Commentaries/bo-mipham-lekshe.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/parser-commentary/output/bo-mipham-lekshe/bo-mipham-lekshe.alignment.json
+  alignments       : 591
+
+== checks ==
+  live root fYnGwQC4fH8Fa37vLUiXD: 308 segments, every alignment target present ✓
+  live root U5FlKUlLLtS1zo4n0EGZL: 0 existing commentar(ies), no duplicate of this one ✓
+  243674 chars, 487 segments (487 paragraph, 0 verse)
+  toc: 1 root section, 454 nodes; alignment: 591 pairs (483 commentary segments -> 306 root segments)
+  footnotes: none in the source
+
+== EXECUTE ==  host https://library.webuddhist.com
+  commentary of root text U5FlKUlLLtS1zo4n0EGZL (edition fYnGwQC4fH8Fa37vLUiXD); language bo
+  text      POST https://library.webuddhist.com/v2/texts  (1414 bytes)  -> create
+  edition   POST https://library.webuddhist.com/v2/texts/{text_id}/editions  (769329 bytes)  -> create
+  toc       POST https://library.webuddhist.com/v2/editions/{edition_id}/table-of-contents  (64793 bytes)  -> create
+  alignment PUT  https://library.webuddhist.com/v2/editions/{edition_id}/alignments/fYnGwQC4fH8Fa37vLUiXD  (44121 bytes)  -> put
+  PATCHED bo-mipham-lekshe.md: text_id = 6X1M2KQ9hE6QAT66zI7wA
+  text_id    6X1M2KQ9hE6QAT66zI7wA
+  PATCHED bo-mipham-lekshe.md: edition_id = YCKyUC49HFugzN4pc6Vil
+  edition_id YCKyUC49HFugzN4pc6Vil  (243674 chars, 487 segments)
+  PATCHED bo-mipham-lekshe.md: toc_id = 6sHUDb85GwtKzbWI2yS3i
+  toc_id     6sHUDb85GwtKzbWI2yS3i  (454 nodes)
+  PATCHED bo-mipham-lekshe.md: aligned_to_edition_id = fYnGwQC4fH8Fa37vLUiXD
+  aligned    591 pairs -> root edition fYnGwQC4fH8Fa37vLUiXD
+
+done. ledger: /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/commentary-upload/scripts/upload_ledger.json
+verify with: --verify
+--- verify
+text_id 6X1M2KQ9hE6QAT66zI7wA  edition_id YCKyUC49HFugzN4pc6Vil  toc_id 6sHUDb85GwtKzbWI2yS3i  root U5FlKUlLLtS1zo4n0EGZL/fYnGwQC4fH8Fa37vLUiXD
+  text: lang=bo commentary_of=U5FlKUlLLtS1zo4n0EGZL translation_of=None editions=['YCKyUC49HFugzN4pc6Vil']
+  edition segments: 487  ['0-1', '0-2', '0-3', '1-1'] … ['2-1', '2-2']
+  alignment YCKyUC49HFugzN4pc6Vil -> root fYnGwQC4fH8Fa37vLUiXD: 591 pairs  [('1-2', '0-2'), ('1-3', '0-2'), ('1-4', '0-2')]
+  toc 6sHUDb85GwtKzbWI2yS3i: 454 nodes
+################ step 4/9: Rangjung Dorje tika, commentary of the Tibetan
+--- dry run
+== lint ==
+OK    1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/linter-commentary/output/bo-rangjung-dorje-tika.lint.json
+  WARN contributions: author/translator missing — ignored for now
+  PATCHED source: commentary_of: (missing) -> 'U5FlKUlLLtS1zo4n0EGZL'
+
+== parse ==
+  WARN contributions: author/translator missing — ignored
+OK    /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/linter-commentary/output/bo-rangjung-dorje-tika.lint.json  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/parser-commentary/output/bo-rangjung-dorje-tika/bo-rangjung-dorje-tika.text.json
+OK    1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/parser-commentary/output/bo-rangjung-dorje-tika/bo-rangjung-dorje-tika.edition.json
+  content length   : 135322 chars
+  segments         : 323
+  headings (toc)   : 318
+    paragraph: 323
+OK    1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/parser-commentary/output/bo-rangjung-dorje-tika/bo-rangjung-dorje-tika.toc.json
+  top sections     : 1
+  toc nodes        : 318
+  max depth        : 5
+OK    1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/parser-commentary/output/bo-rangjung-dorje-tika/bo-rangjung-dorje-tika.alignment.json
+  alignments       : 474
+
+== checks ==
+  live root fYnGwQC4fH8Fa37vLUiXD: 308 segments, every alignment target present ✓
+  live root U5FlKUlLLtS1zo4n0EGZL: 1 existing commentar(ies), no duplicate of this one ✓
+  135322 chars, 323 segments (323 paragraph, 0 verse)
+  toc: 1 root section, 318 nodes; alignment: 474 pairs (321 commentary segments -> 305 root segments)
+  footnotes: none in the source
+
+== DRY RUN ==  host https://library.webuddhist.com
+  commentary of root text U5FlKUlLLtS1zo4n0EGZL (edition fYnGwQC4fH8Fa37vLUiXD); language bo
+  text      POST https://library.webuddhist.com/v2/texts  (1225 bytes)  -> create
+  edition   POST https://library.webuddhist.com/v2/texts/{text_id}/editions  (429862 bytes)  -> create
+  toc       POST https://library.webuddhist.com/v2/editions/{edition_id}/table-of-contents  (46170 bytes)  -> create
+  alignment PUT  https://library.webuddhist.com/v2/editions/{edition_id}/alignments/fYnGwQC4fH8Fa37vLUiXD  (35326 bytes)  -> put
+
+dry run: nothing sent, frontmatter untouched by this script. Re-run with --execute after confirmation.
+--- execute
+== lint == (skipped, reusing bo-rangjung-dorje-tika.lint.json)
+
+== parse ==
+  WARN contributions: author/translator missing — ignored
+OK    /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/linter-commentary/output/bo-rangjung-dorje-tika.lint.json  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/parser-commentary/output/bo-rangjung-dorje-tika/bo-rangjung-dorje-tika.text.json
+OK    1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/parser-commentary/output/bo-rangjung-dorje-tika/bo-rangjung-dorje-tika.edition.json
+  content length   : 135322 chars
+  segments         : 323
+  headings (toc)   : 318
+    paragraph: 323
+OK    1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/parser-commentary/output/bo-rangjung-dorje-tika/bo-rangjung-dorje-tika.toc.json
+  top sections     : 1
+  toc nodes        : 318
+  max depth        : 5
+OK    1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/scripts/parser-commentary/output/bo-rangjung-dorje-tika/bo-rangjung-dorje-tika.alignment.json
+  alignments       : 474
+
+== checks ==
+  live root fYnGwQC4fH8Fa37vLUiXD: 308 segments, every alignment target present ✓
+  live root U5FlKUlLLtS1zo4n0EGZL: 1 existing commentar(ies), no duplicate of this one ✓
+  135322 chars, 323 segments (323 paragraph, 0 verse)
+  toc: 1 root section, 318 nodes; alignment: 474 pairs (321 commentary segments -> 305 root segments)
+  footnotes: none in the source
+
+== EXECUTE ==  host https://library.webuddhist.com
+  commentary of root text U5FlKUlLLtS1zo4n0EGZL (edition fYnGwQC4fH8Fa37vLUiXD); language bo
+  text      POST https://library.webuddhist.com/v2/texts  (1225 bytes)  -> create
+  edition   POST https://library.webuddhist.com/v2/texts/{text_id}/editions  (429862 bytes)  -> create
+  toc       POST https://library.webuddhist.com/v2/editions/{edition_id}/table-of-contents  (46170 bytes)  -> create
+  alignment PUT  https://library.webuddhist.com/v2/editions/{edition_id}/alignments/fYnGwQC4fH8Fa37vLUiXD  (35326 bytes)  -> put
+  PATCHED bo-rangjung-dorje-tika.md: text_id = Tk0SWpg6ptoBZyWot3DmU
+  text_id    Tk0SWpg6ptoBZyWot3DmU
+  PATCHED bo-rangjung-dorje-tika.md: edition_id = ci7Jb2KSZmoa85SM4uO55
+  edition_id ci7Jb2KSZmoa85SM4uO55  (135322 chars, 323 segments)
+  PATCHED bo-rangjung-dorje-tika.md: toc_id = hviXQcWbT80LtZ8g29zFg
+  toc_id     hviXQcWbT80LtZ8g29zFg  (318 nodes)
+  PATCHED bo-rangjung-dorje-tika.md: aligned_to_edition_id = fYnGwQC4fH8Fa37vLUiXD
+  aligned    474 pairs -> root edition fYnGwQC4fH8Fa37vLUiXD
+
+done. ledger: /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/commentary-upload/scripts/upload_ledger.json
+verify with: --verify
+--- verify
+text_id Tk0SWpg6ptoBZyWot3DmU  edition_id ci7Jb2KSZmoa85SM4uO55  toc_id hviXQcWbT80LtZ8g29zFg  root U5FlKUlLLtS1zo4n0EGZL/fYnGwQC4fH8Fa37vLUiXD
+  text: lang=bo commentary_of=U5FlKUlLLtS1zo4n0EGZL translation_of=None editions=['ci7Jb2KSZmoa85SM4uO55']
+  edition segments: 323  ['0-1', '0-2', '0-3', '0-4'] … ['2-317', '2-318']
+  alignment ci7Jb2KSZmoa85SM4uO55 -> root fYnGwQC4fH8Fa37vLUiXD: 474 pairs  [('0-3', '0-2'), ('0-4', '0-2'), ('1-1', '0-3')]
+  toc hviXQcWbT80LtZ8g29zFg: 318 nodes
+################ step 5/9: English root (DharmaMitra), translation of the Tibetan
+--- dry run
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en/bo-ratnagunasancayagatha-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/bo-ratnagunasancayagatha-en.lint.json
+  WARN alt_titles: missing — ignored for now
+  WARN translator 'dharmamitra cat-translate v1': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped
+  WARN alt_titles: missing — ignored
+  WARN contributions: author/translator missing — ignored
+OK    /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/bo-ratnagunasancayagatha-en.lint.json  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-ratnagunasancayagatha-en.text.json
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en/bo-ratnagunasancayagatha-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-ratnagunasancayagatha-en.edition.json
+  content length   : 79359 chars
+  segments         : 308
+  headings (toc)   : 10
+    verse: 308
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en/bo-ratnagunasancayagatha-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-ratnagunasancayagatha-en.toc.json
+  top sections     : 1
+  toc nodes        : 10
+  max depth        : 1
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en/bo-ratnagunasancayagatha-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-ratnagunasancayagatha-en.alignment.json
+  alignments       : 308
+== lint ==
+
+== parse ==
+
+== checks ==
+  live root fYnGwQC4fH8Fa37vLUiXD: 308 segments, references identical to this edition ✓
+  79359 chars, 308 segments, 308 alignment pairs, toc: 1 root section + 9 subsections
+
+== DRY RUN ==
+  text      POST https://library.webuddhist.com/v2/texts  (188 bytes)  -> create
+  edition   POST https://library.webuddhist.com/v2/texts/{text_id}/editions  (133908 bytes)  -> create
+  alignment PUT  https://library.webuddhist.com/v2/editions/fYnGwQC4fH8Fa37vLUiXD/alignments/{edition_id}  (22722 bytes)  -> put
+  toc       POST https://library.webuddhist.com/v2/editions/{edition_id}/table-of-contents  (1016 bytes)  -> create
+
+dry run: nothing sent, frontmatter untouched. Re-run with --execute after confirmation.
+--- execute
+  WARN alt_titles: missing — ignored
+  WARN contributions: author/translator missing — ignored
+OK    /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/bo-ratnagunasancayagatha-en.lint.json  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-ratnagunasancayagatha-en.text.json
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en/bo-ratnagunasancayagatha-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-ratnagunasancayagatha-en.edition.json
+  content length   : 79359 chars
+  segments         : 308
+  headings (toc)   : 10
+    verse: 308
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en/bo-ratnagunasancayagatha-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-ratnagunasancayagatha-en.toc.json
+  top sections     : 1
+  toc nodes        : 10
+  max depth        : 1
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en/bo-ratnagunasancayagatha-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-ratnagunasancayagatha-en.alignment.json
+  alignments       : 308
+== lint == (skipped, reusing bo-ratnagunasancayagatha-en.lint.json)
+
+== parse ==
+
+== checks ==
+  live root fYnGwQC4fH8Fa37vLUiXD: 308 segments, references identical to this edition ✓
+  79359 chars, 308 segments, 308 alignment pairs, toc: 1 root section + 9 subsections
+
+== EXECUTE ==
+  text      POST https://library.webuddhist.com/v2/texts  (188 bytes)  -> create
+  edition   POST https://library.webuddhist.com/v2/texts/{text_id}/editions  (133908 bytes)  -> create
+  alignment PUT  https://library.webuddhist.com/v2/editions/fYnGwQC4fH8Fa37vLUiXD/alignments/{edition_id}  (22722 bytes)  -> put
+  toc       POST https://library.webuddhist.com/v2/editions/{edition_id}/table-of-contents  (1016 bytes)  -> create
+  PATCHED bo-ratnagunasancayagatha-en.md: text_id = x4sV82WrJU2ZNgcSDakXy
+  text_id    x4sV82WrJU2ZNgcSDakXy
+  PATCHED bo-ratnagunasancayagatha-en.md: edition_id = rOTNpCrYZuiFiNEx9tent
+  edition_id rOTNpCrYZuiFiNEx9tent  (79359 chars, 308 segments)
+  PATCHED bo-ratnagunasancayagatha-en.md: aligned_to_edition_id = fYnGwQC4fH8Fa37vLUiXD
+  aligned    308 pairs -> fYnGwQC4fH8Fa37vLUiXD
+  PATCHED bo-ratnagunasancayagatha-en.md: toc_id = 3r7gyeQHHH2PPw7Foms15
+  toc_id     3r7gyeQHHH2PPw7Foms15  (1 root section + 9 subsections)
+
+done. ledger: /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/upload_ledger.json
+--- verify
+text_id x4sV82WrJU2ZNgcSDakXy  edition_id rOTNpCrYZuiFiNEx9tent
+  text: title={'en': 'The Verse Summary of the Perfection of Wisdom'} lang=en translation_of=U5FlKUlLLtS1zo4n0EGZL editions=['rOTNpCrYZuiFiNEx9tent']
+  edition segments: 308  ['0-1', '0-2', '0-3', '0-4'] … ['8-3', '8-4']
+  alignment root->this: 308 pairs, identity over every segment: True
+  toc 3r7gyeQHHH2PPw7Foms15: 1 root section(s), 9 subsections: Introductory meaning | Teaching of omniscience | Teaching of the knowledge of all paths | Teaching of the knowledge of all bases | Teaching of the complete realization of all aspects | Teaching of the peak of complete realization | Teaching of the gradual path | Teaching of complete enlightenment in a single instant | Teaching of the Dharmakāya
+################ step 6/9: Mipham English (DharmaMitra)
+--- dry run
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-mipham-lekshe-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/bo-mipham-lekshe-en.lint.json
+  WARN alt_titles: missing — ignored for now
+  WARN translator 'dharmamitra cat-translate v1': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped
+  WARN alt_titles: missing — ignored
+  WARN contributions: author/translator missing — ignored
+OK    /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/bo-mipham-lekshe-en.lint.json  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-mipham-lekshe-en.text.json
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-mipham-lekshe-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-mipham-lekshe-en.edition.json
+  content length   : 333890 chars
+  segments         : 487
+  headings (toc)   : 454
+    paragraph: 457
+    verse: 30
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-mipham-lekshe-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-mipham-lekshe-en.toc.json
+  top sections     : 1
+  toc nodes        : 454
+  max depth        : 5
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-mipham-lekshe-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-mipham-lekshe-en.alignment.json
+  alignments       : 487
+== lint ==
+
+== parse ==
+
+== checks ==
+  live root YCKyUC49HFugzN4pc6Vil: 487 segments, references identical to this edition ✓
+  333890 chars, 487 segments, 487 alignment pairs, toc: 1 root section + 2 subsections
+
+== DRY RUN ==
+  text      POST https://library.webuddhist.com/v2/texts  (285 bytes)  -> create
+  edition   POST https://library.webuddhist.com/v2/texts/{text_id}/editions  (384408 bytes)  -> create
+  alignment PUT  https://library.webuddhist.com/v2/editions/YCKyUC49HFugzN4pc6Vil/alignments/{edition_id}  (36792 bytes)  -> put
+  toc       POST https://library.webuddhist.com/v2/editions/{edition_id}/table-of-contents  (48360 bytes)  -> create
+
+dry run: nothing sent, frontmatter untouched. Re-run with --execute after confirmation.
+--- execute
+  WARN alt_titles: missing — ignored
+  WARN contributions: author/translator missing — ignored
+OK    /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/bo-mipham-lekshe-en.lint.json  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-mipham-lekshe-en.text.json
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-mipham-lekshe-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-mipham-lekshe-en.edition.json
+  content length   : 333890 chars
+  segments         : 487
+  headings (toc)   : 454
+    paragraph: 457
+    verse: 30
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-mipham-lekshe-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-mipham-lekshe-en.toc.json
+  top sections     : 1
+  toc nodes        : 454
+  max depth        : 5
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-mipham-lekshe-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-mipham-lekshe-en.alignment.json
+  alignments       : 487
+== lint == (skipped, reusing bo-mipham-lekshe-en.lint.json)
+
+== parse ==
+
+== checks ==
+  live root YCKyUC49HFugzN4pc6Vil: 487 segments, references identical to this edition ✓
+  333890 chars, 487 segments, 487 alignment pairs, toc: 1 root section + 2 subsections
+
+== EXECUTE ==
+  text      POST https://library.webuddhist.com/v2/texts  (285 bytes)  -> create
+  edition   POST https://library.webuddhist.com/v2/texts/{text_id}/editions  (384408 bytes)  -> create
+  alignment PUT  https://library.webuddhist.com/v2/editions/YCKyUC49HFugzN4pc6Vil/alignments/{edition_id}  (36792 bytes)  -> put
+  toc       POST https://library.webuddhist.com/v2/editions/{edition_id}/table-of-contents  (48360 bytes)  -> create
+  PATCHED bo-mipham-lekshe-en.md: text_id = ytUpFTMxObCKEtHD93GKm
+  text_id    ytUpFTMxObCKEtHD93GKm
+  PATCHED bo-mipham-lekshe-en.md: edition_id = vAIkLwU0PXTHuhgu2MCmG
+  edition_id vAIkLwU0PXTHuhgu2MCmG  (333890 chars, 487 segments)
+  PATCHED bo-mipham-lekshe-en.md: aligned_to_edition_id = YCKyUC49HFugzN4pc6Vil
+  aligned    487 pairs -> YCKyUC49HFugzN4pc6Vil
+  PATCHED bo-mipham-lekshe-en.md: toc_id = kRMqyxcrrANX6UJn8gfpR
+  toc_id     kRMqyxcrrANX6UJn8gfpR  (1 root section + 2 subsections)
+
+done. ledger: /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/upload_ledger.json
+--- verify
+text_id ytUpFTMxObCKEtHD93GKm  edition_id vAIkLwU0PXTHuhgu2MCmG
+  text: title={'en': "Mipham's Commentary on the Precious Qualities: An Eloquent Explanation for Entering the Unmistaken Intent of the Mother of the Victorious Ones"} lang=en translation_of=6X1M2KQ9hE6QAT66zI7wA editions=['vAIkLwU0PXTHuhgu2MCmG']
+  edition segments: 487  ['0-1', '0-2', '0-3', '1-1'] … ['2-1', '2-2']
+  alignment root->this: 487 pairs, identity over every segment: True
+  toc kRMqyxcrrANX6UJn8gfpR: 1 root section(s), 2 subsections: An explanation according to the method of explicitly taught emptiness. | Explanation according to the clear realization of the implicitly taught path
+################ step 7/9: Mipham Chinese (DharmaMitra)
+--- dry run
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-mipham-lekshe-zh.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/bo-mipham-lekshe-zh.lint.json
+  WARN alt_titles: missing — ignored for now
+  WARN translator 'dharmamitra cat-translate v1': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped
+  WARN alt_titles: missing — ignored
+  WARN contributions: author/translator missing — ignored
+OK    /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/bo-mipham-lekshe-zh.lint.json  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-mipham-lekshe-zh.text.json
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-mipham-lekshe-zh.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-mipham-lekshe-zh.edition.json
+  content length   : 76426 chars
+  segments         : 487
+  headings (toc)   : 454
+    paragraph: 433
+    verse: 54
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-mipham-lekshe-zh.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-mipham-lekshe-zh.toc.json
+  top sections     : 1
+  toc nodes        : 454
+  max depth        : 5
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-mipham-lekshe-zh.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-mipham-lekshe-zh.alignment.json
+  alignments       : 487
+== lint ==
+
+== parse ==
+
+== checks ==
+  live root YCKyUC49HFugzN4pc6Vil: 487 segments, references identical to this edition ✓
+  76426 chars, 487 segments, 487 alignment pairs, toc: 1 root section + 2 subsections
+
+== DRY RUN ==
+  text      POST https://library.webuddhist.com/v2/texts  (209 bytes)  -> create
+  edition   POST https://library.webuddhist.com/v2/texts/{text_id}/editions  (273326 bytes)  -> create
+  alignment PUT  https://library.webuddhist.com/v2/editions/YCKyUC49HFugzN4pc6Vil/alignments/{edition_id}  (36792 bytes)  -> put
+  toc       POST https://library.webuddhist.com/v2/editions/{edition_id}/table-of-contents  (38097 bytes)  -> create
+
+dry run: nothing sent, frontmatter untouched. Re-run with --execute after confirmation.
+--- execute
+  WARN alt_titles: missing — ignored
+  WARN contributions: author/translator missing — ignored
+OK    /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/bo-mipham-lekshe-zh.lint.json  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-mipham-lekshe-zh.text.json
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-mipham-lekshe-zh.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-mipham-lekshe-zh.edition.json
+  content length   : 76426 chars
+  segments         : 487
+  headings (toc)   : 454
+    paragraph: 433
+    verse: 54
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-mipham-lekshe-zh.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-mipham-lekshe-zh.toc.json
+  top sections     : 1
+  toc nodes        : 454
+  max depth        : 5
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-mipham-lekshe-zh.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-mipham-lekshe-zh.alignment.json
+  alignments       : 487
+== lint == (skipped, reusing bo-mipham-lekshe-zh.lint.json)
+
+== parse ==
+
+== checks ==
+  live root YCKyUC49HFugzN4pc6Vil: 487 segments, references identical to this edition ✓
+  76426 chars, 487 segments, 487 alignment pairs, toc: 1 root section + 2 subsections
+
+== EXECUTE ==
+  text      POST https://library.webuddhist.com/v2/texts  (209 bytes)  -> create
+  edition   POST https://library.webuddhist.com/v2/texts/{text_id}/editions  (273326 bytes)  -> create
+  alignment PUT  https://library.webuddhist.com/v2/editions/YCKyUC49HFugzN4pc6Vil/alignments/{edition_id}  (36792 bytes)  -> put
+  toc       POST https://library.webuddhist.com/v2/editions/{edition_id}/table-of-contents  (38097 bytes)  -> create
+  PATCHED bo-mipham-lekshe-zh.md: text_id = elc7z1WjSJAjFj6uEL91C
+  text_id    elc7z1WjSJAjFj6uEL91C
+  PATCHED bo-mipham-lekshe-zh.md: edition_id = DalByNCUPchXcpDYTBGqC
+  edition_id DalByNCUPchXcpDYTBGqC  (76426 chars, 487 segments)
+  PATCHED bo-mipham-lekshe-zh.md: aligned_to_edition_id = YCKyUC49HFugzN4pc6Vil
+  aligned    487 pairs -> YCKyUC49HFugzN4pc6Vil
+  PATCHED bo-mipham-lekshe-zh.md: toc_id = 7VOeXyBrJ9YD2wAoQB2Yp
+  toc_id     7VOeXyBrJ9YD2wAoQB2Yp  (1 root section + 2 subsections)
+
+done. ledger: /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/upload_ledger.json
+--- verify
+text_id elc7z1WjSJAjFj6uEL91C  edition_id DalByNCUPchXcpDYTBGqC
+  text: title={'zh': '寶德藏般若波羅蜜經釋：趣入佛母真實意趣之善說'} lang=zh translation_of=6X1M2KQ9hE6QAT66zI7wA editions=['DalByNCUPchXcpDYTBGqC']
+  edition segments: 487  ['0-1', '0-2', '0-3', '1-1'] … ['2-1', '2-2']
+  alignment root->this: 487 pairs, identity over every segment: True
+  toc 7VOeXyBrJ9YD2wAoQB2Yp: 1 root section(s), 2 subsections: 依據顯說空性之理而作解釋 | 依隱義所顯之道之現觀而作解釋
+################ step 8/9: Rangjung Dorje English (DharmaMitra)
+--- dry run
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-rangjung-dorje-tika-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/bo-rangjung-dorje-tika-en.lint.json
+  WARN alt_titles: missing — ignored for now
+  WARN translator 'dharmamitra cat-translate v1': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped
+  WARN alt_titles: missing — ignored
+  WARN contributions: author/translator missing — ignored
+OK    /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/bo-rangjung-dorje-tika-en.lint.json  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-rangjung-dorje-tika-en.text.json
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-rangjung-dorje-tika-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-rangjung-dorje-tika-en.edition.json
+  content length   : 188643 chars
+  segments         : 323
+  headings (toc)   : 318
+    paragraph: 312
+    verse: 11
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-rangjung-dorje-tika-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-rangjung-dorje-tika-en.toc.json
+  top sections     : 1
+  toc nodes        : 318
+  max depth        : 5
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-rangjung-dorje-tika-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-rangjung-dorje-tika-en.alignment.json
+  alignments       : 323
+== lint ==
+
+== parse ==
+
+== checks ==
+  live root ci7Jb2KSZmoa85SM4uO55: 323 segments, references identical to this edition ✓
+  188643 chars, 323 segments, 323 alignment pairs, toc: 1 root section + 2 subsections
+
+== DRY RUN ==
+  text      POST https://library.webuddhist.com/v2/texts  (259 bytes)  -> create
+  edition   POST https://library.webuddhist.com/v2/texts/{text_id}/editions  (223029 bytes)  -> create
+  alignment PUT  https://library.webuddhist.com/v2/editions/ci7Jb2KSZmoa85SM4uO55/alignments/{edition_id}  (24328 bytes)  -> put
+  toc       POST https://library.webuddhist.com/v2/editions/{edition_id}/table-of-contents  (33014 bytes)  -> create
+
+dry run: nothing sent, frontmatter untouched. Re-run with --execute after confirmation.
+--- execute
+  WARN alt_titles: missing — ignored
+  WARN contributions: author/translator missing — ignored
+OK    /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/bo-rangjung-dorje-tika-en.lint.json  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-rangjung-dorje-tika-en.text.json
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-rangjung-dorje-tika-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-rangjung-dorje-tika-en.edition.json
+  content length   : 188643 chars
+  segments         : 323
+  headings (toc)   : 318
+    paragraph: 312
+    verse: 11
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-rangjung-dorje-tika-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-rangjung-dorje-tika-en.toc.json
+  top sections     : 1
+  toc nodes        : 318
+  max depth        : 5
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-rangjung-dorje-tika-en.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-rangjung-dorje-tika-en.alignment.json
+  alignments       : 323
+== lint == (skipped, reusing bo-rangjung-dorje-tika-en.lint.json)
+
+== parse ==
+
+== checks ==
+  live root ci7Jb2KSZmoa85SM4uO55: 323 segments, references identical to this edition ✓
+  188643 chars, 323 segments, 323 alignment pairs, toc: 1 root section + 2 subsections
+
+== EXECUTE ==
+  text      POST https://library.webuddhist.com/v2/texts  (259 bytes)  -> create
+  edition   POST https://library.webuddhist.com/v2/texts/{text_id}/editions  (223029 bytes)  -> create
+  alignment PUT  https://library.webuddhist.com/v2/editions/ci7Jb2KSZmoa85SM4uO55/alignments/{edition_id}  (24328 bytes)  -> put
+  toc       POST https://library.webuddhist.com/v2/editions/{edition_id}/table-of-contents  (33014 bytes)  -> create
+  PATCHED bo-rangjung-dorje-tika-en.md: text_id = WKNfDzpOMNI8revkm0LJu
+  text_id    WKNfDzpOMNI8revkm0LJu
+  PATCHED bo-rangjung-dorje-tika-en.md: edition_id = 8sbTy5AL6YS6RFtzOCe5Y
+  edition_id 8sbTy5AL6YS6RFtzOCe5Y  (188643 chars, 323 segments)
+  PATCHED bo-rangjung-dorje-tika-en.md: aligned_to_edition_id = ci7Jb2KSZmoa85SM4uO55
+  aligned    323 pairs -> ci7Jb2KSZmoa85SM4uO55
+  PATCHED bo-rangjung-dorje-tika-en.md: toc_id = QagIjqA9LEwU5Ru7ayGQu
+  toc_id     QagIjqA9LEwU5Ru7ayGQu  (1 root section + 2 subsections)
+
+done. ledger: /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/upload_ledger.json
+--- verify
+text_id WKNfDzpOMNI8revkm0LJu  edition_id 8sbTy5AL6YS6RFtzOCe5Y
+  text: title={'en': 'The Ocean of Perfection: A Commentary on the Verse Summary of the Perfection of Wisdom, Like a Wish-Fulfilling Jewel'} lang=en translation_of=Tk0SWpg6ptoBZyWot3DmU editions=['8sbTy5AL6YS6RFtzOCe5Y']
+  edition segments: 323  ['0-1', '0-2', '0-3', '0-4'] … ['2-317', '2-318']
+  alignment root->this: 323 pairs, identity over every segment: True
+  toc QagIjqA9LEwU5Ru7ayGQu: 1 root section(s), 2 subsections: The perfect narrative context as the cause for the arising of the sutra. | The perfect nature of the sutra that is spoken.
+################ step 9/9: Rangjung Dorje Chinese (DharmaMitra)
+--- dry run
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-rangjung-dorje-tika-zh.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/bo-rangjung-dorje-tika-zh.lint.json
+  WARN alt_titles: missing — ignored for now
+  WARN translator 'dharmamitra cat-translate v1': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped
+  WARN alt_titles: missing — ignored
+  WARN contributions: author/translator missing — ignored
+OK    /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/bo-rangjung-dorje-tika-zh.lint.json  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-rangjung-dorje-tika-zh.text.json
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-rangjung-dorje-tika-zh.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-rangjung-dorje-tika-zh.edition.json
+  content length   : 43590 chars
+  segments         : 323
+  headings (toc)   : 318
+    paragraph: 315
+    verse: 8
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-rangjung-dorje-tika-zh.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-rangjung-dorje-tika-zh.toc.json
+  top sections     : 1
+  toc nodes        : 318
+  max depth        : 5
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-rangjung-dorje-tika-zh.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-rangjung-dorje-tika-zh.alignment.json
+  alignments       : 323
+== lint ==
+
+== parse ==
+
+== checks ==
+  live root ci7Jb2KSZmoa85SM4uO55: 323 segments, references identical to this edition ✓
+  43590 chars, 323 segments, 323 alignment pairs, toc: 1 root section + 2 subsections
+
+== DRY RUN ==
+  text      POST https://library.webuddhist.com/v2/texts  (215 bytes)  -> create
+  edition   POST https://library.webuddhist.com/v2/texts/{text_id}/editions  (159719 bytes)  -> create
+  alignment PUT  https://library.webuddhist.com/v2/editions/ci7Jb2KSZmoa85SM4uO55/alignments/{edition_id}  (24328 bytes)  -> put
+  toc       POST https://library.webuddhist.com/v2/editions/{edition_id}/table-of-contents  (26659 bytes)  -> create
+
+dry run: nothing sent, frontmatter untouched. Re-run with --execute after confirmation.
+--- execute
+  WARN alt_titles: missing — ignored
+  WARN contributions: author/translator missing — ignored
+OK    /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/bo-rangjung-dorje-tika-zh.lint.json  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-rangjung-dorje-tika-zh.text.json
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-rangjung-dorje-tika-zh.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-rangjung-dorje-tika-zh.edition.json
+  content length   : 43590 chars
+  segments         : 323
+  headings (toc)   : 318
+    paragraph: 315
+    verse: 8
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-rangjung-dorje-tika-zh.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-rangjung-dorje-tika-zh.toc.json
+  top sections     : 1
+  toc nodes        : 318
+  max depth        : 5
+OK    3-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-rangjung-dorje-tika-zh.md  ->  /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/bo-rangjung-dorje-tika-zh.alignment.json
+  alignments       : 323
+== lint == (skipped, reusing bo-rangjung-dorje-tika-zh.lint.json)
+
+== parse ==
+
+== checks ==
+  live root ci7Jb2KSZmoa85SM4uO55: 323 segments, references identical to this edition ✓
+  43590 chars, 323 segments, 323 alignment pairs, toc: 1 root section + 2 subsections
+
+== EXECUTE ==
+  text      POST https://library.webuddhist.com/v2/texts  (215 bytes)  -> create
+  edition   POST https://library.webuddhist.com/v2/texts/{text_id}/editions  (159719 bytes)  -> create
+  alignment PUT  https://library.webuddhist.com/v2/editions/ci7Jb2KSZmoa85SM4uO55/alignments/{edition_id}  (24328 bytes)  -> put
+  toc       POST https://library.webuddhist.com/v2/editions/{edition_id}/table-of-contents  (26659 bytes)  -> create
+  PATCHED bo-rangjung-dorje-tika-zh.md: text_id = Hj9RURs1AvjzaCaQkqZeu
+  text_id    Hj9RURs1AvjzaCaQkqZeu
+  PATCHED bo-rangjung-dorje-tika-zh.md: edition_id = wQerm7hxIHB2PuR7Wjwq9
+  edition_id wQerm7hxIHB2PuR7Wjwq9  (43590 chars, 323 segments)
+  PATCHED bo-rangjung-dorje-tika-zh.md: aligned_to_edition_id = ci7Jb2KSZmoa85SM4uO55
+  aligned    323 pairs -> ci7Jb2KSZmoa85SM4uO55
+  PATCHED bo-rangjung-dorje-tika-zh.md: toc_id = k8Y8IKdyVKbE3lzxkmZVT
+  toc_id     k8Y8IKdyVKbE3lzxkmZVT  (1 root section + 2 subsections)
+
+done. ledger: /Users/tashitsering/Desktop/work/Obsidian/summary-of-the-perfection-of-wisdom-rails/4-SYSTEM/Skills/translation-upload/scripts/upload_ledger.json
+--- verify
+text_id Hj9RURs1AvjzaCaQkqZeu  edition_id wQerm7hxIHB2PuR7Wjwq9
+  text: title={'zh': '聖般若波羅蜜多攝頌釋論：如意寶珠般若波羅蜜多大海'} lang=zh translation_of=Tk0SWpg6ptoBZyWot3DmU editions=['wQerm7hxIHB2PuR7Wjwq9']
+  edition segments: 323  ['0-1', '0-2', '0-3', '0-4'] … ['2-317', '2-318']
+  alignment root->this: 323 pairs, identity over every segment: True
+  toc k8Y8IKdyVKbE3lzxkmZVT: 1 root section(s), 2 subsections: 經教緣起之圓滿序分 | 所說經教之圓滿自性
+ALL UPLOADS DONE 2026-10-04 15:52:24

@@ -1,0 +1,524 @@
+{
+ "segments": [
+  {
+   "id": "4-64",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "任何菩薩若如是已成甚深",
+      "explanation": "The depth applies to the dharma being realized, not to the Bodhisattva."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "六塵十二界",
+      "explanation": "The text lists aggregates, elements, and sense sources without specifying numbers; standardly there are 18 elements, not 12."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "無蘊寧有所得福",
+      "explanation": "Reverses the meaning by suggesting no merit is obtained, whereas the source asks what merit could be greater than this."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "趨入",
+      "explanation": "The Tibetan \"ཟབ་གྱུར་ཅིང་\" means \"has become [deep]\", modifying the dharma, not the action of \"entering\" it."
+     },
+     {
+      "category": "fluency",
+      "severity": "major",
+      "span": "諸蘊與，\n界處",
+      "explanation": "Leaving the conjunction \"與\" (and) dangling at the end of the line breaks Chinese syntactic rules."
+     },
+     {
+      "category": "fluency",
+      "severity": "major",
+      "span": "無有證悟此法者",
+      "explanation": "Without punctuation, this naturally reads as \"there is no one who realizes this dharma\", changing the sentence structure."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-75",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "不求",
+      "explanation": "The Tibetan \"མི་རེག་\" means \"does not touch\" (i.e., does not actualize), rather than \"does not seek\"."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "4-82",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "行持",
+      "explanation": "\"ལས་ལ་སྤྱོད་པ་\" means to experience or consume the results of karma, not to \"practice\" (行持) it."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "虛空廣大為所依",
+      "explanation": "The text instructs to consider how space itself relies on nothing, rather than viewing space as a vast support."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "風水火地皆依住",
+      "explanation": "The Tibetan specifies a chain of dependence (wind on space, water on wind...) and does not mention fire."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "世間眾生得快樂",
+      "explanation": "Fabricates \"beings attain happiness,\" ignoring the Tibetan which discusses beings experiencing the results of their karma."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "虛空無意住非住",
+      "explanation": "The Tibetan instructs to consider what space depends on (nothing), not that space has no intention to abide."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-86",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "習之不住經多歲 射法久習得盡妙 一一箭發無不中",
+      "explanation": "Completely ignores the analogy of shooting successive arrows to keep the first one in the air, replacing it with a description of achieving perfect accuracy."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-2",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "知",
+      "explanation": "Omits that this occurs \"in a dream\" (རྨི་ལམ་ན་), which is a key condition in the source text."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "名不退地應授記",
+      "explanation": "The text says \"should be known as prophesied as irreversible,\" not that he \"should be prophesied\" or that this is the \"irreversible ground\"."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-8",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "善逝之子說此即寂靜",
+      "explanation": "The commentaries clarify this means \"This is taught to be the solitude of the sons of the Sugata,\" not that the sons of the Sugata are the ones saying it."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "我說是名為菩薩",
+      "explanation": "Completely omits the key concept of \"solitude\" or \"isolation\" (དབེན་པ་), which is the central theme of this stanza."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-11",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "傲慢",
+      "explanation": "The term \"དྲོད་སྙོམ་\" means to measure, judge, or evaluate others (Sanskrit: tulyayati), not \"arrogance\"."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "一念如秤名菩薩",
+      "explanation": "Misinterprets the line. It should mean a bodhisattva who measures/judges others ruins himself, not that having a mind like a scale makes one a bodhisattva."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-20",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "行般若功無為故",
+      "explanation": "The Tibetan says \"Therefore, one should always engage in wisdom without laziness,\" not that the merit of Prajna is unconditioned."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-31",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/addition",
+      "severity": "major",
+      "span": "於晝夜分或",
+      "explanation": "The Tibetan does not mention \"day and night\" (晝夜分)."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "精勤",
+      "explanation": "The Tibetan says Mara becomes \"supremely joyful\" (མཆོག་ཏུ་ཉམས་བདེར་འགྱུར་), not that he \"exerts effort\" (精勤)."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "菩薩是遠於佛智",
+      "explanation": "Omits that this is Mara's thought (སྙམ) and that he thinks \"those two\" (དེ་གཉིས་) will be far from the Buddha's wisdom."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-39",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "如是行持般若殊勝智者，\n說",
+      "explanation": "The text means \"It is taught that all perfections of the wise ones are included here,\" not that the wise ones themselves say this."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "有人具諸根",
+      "explanation": "Adds 'someone possessing faculties', whereas the Tibetan merely says 'if the life faculty is stopped'."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "亦行一切波羅蜜",
+      "explanation": "Omits that all perfections are \"subsumed/included\" (འདུས་པ་) in wisdom and that this is \"taught\" (གསུངས)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-46",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "為世間說證菩提",
+      "explanation": "Mistranslates the negative thought \"never think: having realized awakening I will liberate beings\" as \"preach awakening to the world\"."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "乃至種種所作事",
+      "explanation": "Omits \"various births\" from the Tibetan text."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "悉無著",
+      "explanation": "Translates \"non-conceptualization\" (rnam par mi rtog) as \"unattached\" (無著), which misrepresents the meaning."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-49",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "天人",
+      "explanation": "Adds \"humans\" to the text; the Tibetan only specifies \"hosts of gods\"."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "亦得功德鬘供養",
+      "explanation": "Changes the subject. The Tibetan states that the Buddhas express praises, but this translation says the Bodhisattva receives offerings."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-61",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "佛",
+      "explanation": "Translates \"Sons of the Buddhas\" (Bodhisattvas) simply as \"Buddhas\", changing the subject entirely."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "世間",
+      "explanation": "Translates \"all beings\" (འགྲོ་བ་ཀུན་) as \"world\" (世間)."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-68",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "未生諸天生北洲",
+      "explanation": "Invents \"born in Uttarakuru (Northern continent)\", completely misunderstanding the analogy."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "見彼境界而求生",
+      "explanation": "Translates \"having seen those fully possessed objects\" as \"seeks rebirth there\"."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "作彼住已而復還",
+      "explanation": "Omits the main point of the analogy: that they \"do not develop attachment\" upon returning."
+     }
+    ],
+    "C": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "天界之，\n殊勝天城",
+      "explanation": "The punctuation awkwardly splits the noun phrase, impeding readability."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-75",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "一向",
+      "explanation": "Adds the word \"always\" (一向), which is not in the source text."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "如僕事主心專注",
+      "explanation": "Omits key details of the maidservant analogy: that she is \"water-carrying\" and \"without autonomy\"."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Entirely omits the fourth line of the Tibetan segment (\"Likewise the heroes act under the control of beings\")."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-80",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "大智菩薩",
+      "explanation": "Reverses the meaning by translating \"unskillful bodhisattva\" (མི་མཁས་) as \"greatly wise bodhisattva\"."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "久修苦行為菩提",
+      "explanation": "Misses the specific condition \"with the perception of it being long and with suffering\", changing it to \"long practices asceticism\"."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "不離精進波羅蜜 無懈怠心終得證",
+      "explanation": "Reverses the conclusion: the text says they lose diligence and become lazy, but this says they never lose diligence."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "痛苦修持菩提",
+      "explanation": "Translates \"with the perception of suffering\" slightly inaccurately as \"painfully practice\"."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-88",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "菩薩得清淨",
+      "explanation": "Omits \"body\" (lus), translating simply as the Bodhisattva becoming pure."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "三十二相到彼岸",
+      "explanation": "Translates \"boundless\" (pāra) as \"paramita/other shore\" and completely misses \"power/strength\"."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "聞法信受而調伏",
+      "explanation": "Completely invents text, replacing the key action \"proclaims the supreme Dharma, emptiness\" with \"hear the dharma and are tamed\"."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-95",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "決定",
+      "explanation": "Translates \"nges pa\" literally as \"definitely\", missing its context denoting \"noble ones\" (sūrata)."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "欲證菩提功德法",
+      "explanation": "Misinterprets the subject clause, translating \"dharmas that produce bodhi qualities\" as \"desiring to realize bodhi qualities\"."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "持戒具足行利樂",
+      "explanation": "Misses the definitional structure \"this is the meaning of morality\", translating it instead as \"endowed with morality, acts for benefit\"."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "若行毀破於尸羅 是則滅壞於菩提",
+      "explanation": "Reverses the logic: the text defines whatever destroys awakening as flawed morality, while the translation states that breaking morality destroys awakening."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "決定",
+      "explanation": "Translates \"nges pa\" literally as \"definitely\", missing its context denoting \"noble ones\" (sūrata)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-106",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "名大智者為一切",
+      "explanation": "Mistranslates \"give away everything\", rendering it confusingly as \"is called a great wise one for everything\"."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-1",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits the chapter title present in the provided Tibetan source."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "菩薩此法得圓滿",
+      "explanation": "Adds a line that is not present in the strictly provided Tibetan segment."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  }
+ ]
+}

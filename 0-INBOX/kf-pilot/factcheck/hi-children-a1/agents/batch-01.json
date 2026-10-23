@@ -1,0 +1,239 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "0-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "वे उसे समझते हैं",
+     "evidence": "Academic translation: having realized it directly (sakshat karke), they teach as they learned; 'understand' loses the direct realization.",
+     "fix": "उसे खुद अनुभव करके जैसा सीखा है वैसा ही सिखाते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "1-4",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "जिसे सबसे बड़ी पूर्ण प्रज्ञा नहीं मिलती है। जिसे बोधि-वीर नहीं मिलता और बोधि पाने की इच्छा भी नहीं मिलती है।",
+     "evidence": "Text says perfect wisdom, bodhisattva and the wish for awakening are not apprehended (anupalabdha, not found as real things). 'Does not get/find' reads as the person lacking wisdom or failing to attain it.",
+     "fix": "जो सबसे बड़ी पूर्ण प्रज्ञा को भी असली चीज़ की तरह नहीं पकड़ता, बोधि-वीर को भी नहीं, और बोधि पाने की इच्छा को भी नहीं।"
+    }
+   ]
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-6",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "—",
+     "evidence": "Academic translation: through the knowledge of the wanderer Shreni, the unfindable aggregates are dissolved/destroyed (vinasha); the children's text drops the dissolution and only says the aggregates are not found.",
+     "fix": "जैसे श्रेणिक नाम के घूमने वाले साधक के ज्ञान से ढेर सच में न मिलकर बिखर जाते हैं।"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "दुख से परे शान्ति को पकड़कर नहीं रुकता। वह हमेशा प्रज्ञा में टिका रहता है।",
+     "evidence": "Text: he does not touch nirvana; he abides in wisdom. 'Clinging and stopping' and 'always' are not in the source.",
+     "fix": "वह दुख से परे शान्ति को छूता नहीं, वह प्रज्ञा में टिका रहता है।"
+    }
+   ]
+  },
+  {
+   "id": "1-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-8",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "उसे कभी न जन्मा हुआ स्थान पर विश्वास नहीं है।",
+     "evidence": "Ungrammatical postposition; source: not faithful/trusting toward the unborn state.",
+     "fix": "उसे कभी न जन्मे हुए स्थान पर भरोसा नहीं है।"
+    }
+   ]
+  },
+  {
+   "id": "1-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "सिर्फ प्रज्ञा का सहारा लेता है",
+     "evidence": "Source: relies on wisdom; there is no 'only'.",
+     "fix": "प्रज्ञा का सहारा लेता है"
+    }
+   ]
+  },
+  {
+   "id": "1-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "किसी बुरा दोस्त के साथ",
+     "evidence": "Ungrammatical agreement (locked term inflected wrongly); source: one who keeps bad friends.",
+     "fix": "किसी बुरे दोस्त के साथ"
+    }
+   ]
+  },
+  {
+   "id": "1-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "सबके लिए मोह खत्म करना चाहता है",
+     "evidence": "Locked term for attachment (chags pa) is 'चिपके रहना'; 'मोह' is used instead, and 'for everyone' blurs 'attachment to all things'.",
+     "fix": "वह सब चीज़ों से चिपके रहना खत्म करना चाहता है।"
+    }
+   ]
+  },
+  {
+   "id": "1-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "गलत और बड़ी सोच",
+     "evidence": "Academic translation: 'great views' of the realm of beings; 'wrong' is not stated.",
+     "fix": "जीवों के क्षेत्र की बड़ी-बड़ी मान्यताओं को काट देता है"
+    }
+   ]
+  },
+  {
+   "id": "1-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "असल में कोई नहीं मरा।",
+     "evidence": "This explanatory sentence is not in the source; the text only gives the simile.",
+     "fix": "(यह वाक्य हटा दें।)"
+    },
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "भीड़ ... उनके सिर काट देता है",
+     "evidence": "Source: millions of heads of a vast crowd are cut off; the number is lost.",
+     "fix": "जादू से बड़ी भीड़ बनाता है और करोड़ों सिर काट देता है।"
+    }
+   ]
+  },
+  {
+   "id": "1-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-21",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "किसी दिशा में नहीं जाना होता",
+     "evidence": "Source: going in any direction is not found/apprehended; 'no need to go' changes this slightly.",
+     "fix": "किसी दिशा में जाना मिलता ही नहीं"
+    }
+   ]
+  },
+  {
+   "id": "1-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-24",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

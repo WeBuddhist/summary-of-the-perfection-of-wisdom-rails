@@ -1,0 +1,1414 @@
+[
+ {
+  "term_id": "T005",
+  "bo": "སེམས་ཅན",
+  "count": 55,
+  "occurrences": [
+   "1-20",
+   "1-23",
+   "1-24",
+   "1-25",
+   "2-10",
+   "2-12",
+   "2-16",
+   "2-18",
+   "2-31",
+   "2-34",
+   "2-42",
+   "2-50",
+   "4-2",
+   "4-20",
+   "4-22",
+   "4-25",
+   "4-29",
+   "4-48",
+   "4-49",
+   "4-82",
+   "4-83",
+   "4-93",
+   "5-2",
+   "5-8",
+   "5-16",
+   "5-19",
+   "5-21",
+   "5-22",
+   "5-27",
+   "5-28",
+   "5-42",
+   "5-50",
+   "5-51",
+   "5-57",
+   "5-62",
+   "5-70",
+   "5-75",
+   "5-78",
+   "5-79",
+   "5-85",
+   "5-88",
+   "5-89",
+   "5-90",
+   "5-93",
+   "5-98",
+   "5-99",
+   "5-100",
+   "5-101",
+   "5-104",
+   "5-105",
+   "5-107",
+   "5-108",
+   "6-1",
+   "8-1",
+   "8-2"
+  ],
+  "dm": {
+   "sentient beings": 40,
+   "beings": 6,
+   "sentient being": 3,
+   "Sentient beings": 3,
+   "being": 2,
+   "person": 1
+  },
+  "gm": {
+   "sentient beings": 44,
+   "beings": 4,
+   "sentient being": 3,
+   "Sentient beings": 2,
+   "being": 1,
+   "Beings": 1
+  },
+  "examples": [
+   {
+    "id": "1-20",
+    "bo": "ཅི་ཕྱིར་འདི་ནི་བྱང་ཆུབ་ཐེག་ཆེན་བྱ་ཞེ་ན། ། དེ་གང་ཞོན་ནས་སེམས་ཅན་ཐམས་ཅད་མྱ་ངན་ཟློ། ། ཐེག་པ་འདི་ནི་མཁའ་འདྲ་གཞལ་མེད་ཁང་ཆེན་ཏེ། ། དགའ་སྐྱིད་བདེ་བ་མངོན་པར་འཐོབ་བྱེད་ཐེག་པའི་མཆོག། །",
+    "dm": "If one asks, \"Why is this called the Great Vehicle of Awakening?\" It is because by mounting it, one delivers all sentient beings from suffering. This vehicle is a vast celestial palace, as immense as space; It is the supreme vehicle, the means for fully attaining joy, delight, and bliss.",
+    "gm": "Why is this called the Great Vehicle of Awakening? Mounting it, all sentient beings pass beyond sorrow. This vehicle is a great immeasurable palace like space, The supreme vehicle, which brings about the attainment of joy, happiness, and bliss.",
+    "sa": "किं कारणं अयु प्रवुच्यति बोधियानो यत्रारुहित्व स निर्वापयि सर्वसत्त्वान् । आकाशतुल्य अयु यान महाविमानो सुखसौख्यक्षेमभिप्रापणु यानश्रेष्ठो ॥"
+   },
+   {
+    "id": "2-12",
+    "bo": "གལ་ཏེ་སྟོན་པས་ཀྱང་ནི་བྱེ་སྙེད་ཀྱི། ། བསྐལ་པར་བཞུགས་ཏེ་སེམས་ཅན་ཞེས་སྒྲ་ཡོངས་བསྒྲགས་ཀྱང་། ། གཟོད་ནས་དག་པས་སེམས་ཅན་སྐྱེ་བར་ག་ལ་འགྱུར། ། འདི་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་པ་ཡིན། །",
+    "dm": "Even if the Teacher were to remain for as many eons As there are grains of sand in the Ganges and proclaim the word \"sentient being,\" Since they are pure from the beginning, how could a sentient being ever be born? This is the practice of the supreme perfection of wisdom.",
+    "gm": "Even if the Teacher were to remain for as many Aeons as there are grains of sand, and proclaim the word \"sentient being,\" Since they are pure from the very beginning, how could a sentient being arise? This is the practice of the supreme perfection of wisdom.",
+    "sa": "सचि गङ्गवालुकसमानि स्थिहित्व कल्पां सत्त्वेति शब्द परिकीर्तयि नायकोऽयम् । सत्त्वस्य्’ उपादु कुतु भेष्यति आदिशुद्धो एषा स प्रज्ञवरपारमिताय चर्या ॥"
+   },
+   {
+    "id": "2-31",
+    "bo": "ལ་ལས་གང་གāའི་ཀླུང་གི་བྱེ་སྙེད་ཞིང་རྣམས་ན། ། སེམས་ཅན་ཇི་སྙེད་འཁོད་ཀུན་དགྲ་བཅོམ་ཉིད་བཏུལ་བས། ། གང་གིས་ཤེས་རབ་ཕ་རོལ་ཕྱིན་འདི་ཡིག་བྲིས་ཏེ། ། སེམས་ཅན་མཆོག་ལ་གླེགས་བྱིན་བསོད་ནམས་ཁྱད་པར་འཕགས། །",
+    "dm": "If someone were to take as many sentient beings as there are grains of sand in the Ganges, And, having disciplined them all, establish them in the state of an arhat, Compared to one who writes down this perfection of wisdom, And gives the text to a supreme being, the merit of the latter is far more sublime.",
+    "gm": "Compared to someone who, in fields as numerous as the sands of the river Ganges, Tames all however many beings reside there to arhatship, Whoever writes down this perfection of wisdom And gives the book to supreme beings has particularly exalted merit.",
+    "sa": "यावन्ति गङ्गनदिवालिकतुल्यक्षेत्रे तावन्ति सत्त्व अरहन्ति विनेय कश्चित् । यश् चैव प्रज्ञ इम पारमिता लिखित्वा परसत्त्वि पुस्तकु ददेय विशिष्टपुण्यः ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T018",
+  "bo": "བདུད",
+  "count": 16,
+  "occurrences": [
+   "1-17",
+   "2-14",
+   "4-12",
+   "4-13",
+   "4-16",
+   "4-18",
+   "4-20",
+   "4-59",
+   "5-5",
+   "5-6",
+   "5-7",
+   "5-10",
+   "5-29",
+   "5-31",
+   "5-32",
+   "5-50"
+  ],
+  "dm": {
+   "Māra": 11,
+   "Māras": 3,
+   "Mara": 2
+  },
+  "gm": {
+   "Māra": 13,
+   "Māras": 2,
+   "Mara": 1
+  },
+  "examples": [
+   {
+    "id": "1-17",
+    "bo": "གཏོང་བ་ཆེ་དང་བློ་ཆེ་བ་དང་མཐུ་ཆེ་དང་། ། རྒྱལ་བ་རྣམས་ཀྱི་ཐེག་ཆེན་མཆོག་ལ་ཞུགས་པ་དང་། ། གོ་ཆ་ཆེན་པོ་བགོས་ཤིང་བདུད་ཀྱི་སྒྱུ་འདུལ་བ། ། དེ་ཡི་ཕྱིར་ན་སེམས་དཔའ་ཆེ་ཞེས་རབ་ཏུ་བརྗོད། །",
+    "dm": "Possessing great generosity, great intelligence, and great power, They have entered the supreme Great Vehicle of the Victors; Clad in great armor, they subdue the illusions of Māra; For that reason, they are truly called \"great beings.\"",
+    "gm": "Great giving, great intelligence, and great power, Entering into the supreme Great Vehicle of the Jinas, Donning the great armor and subduing the illusions of Mara; Therefore they are proclaimed to be a \"great being.\"",
+    "sa": "महनायको महतबुद्धि महानुभावो महयान उत्तमजिनान समाधिरूढो । महता सनद्धु नमुचिं शठ धर्षयिष्ये महसत्त्व तेन हि प्रवुच्यति कारणेन ॥"
+   },
+   {
+    "id": "2-14",
+    "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་གང་ལ་མགོན་སྤྱོད་པ། ། འདི་ནི་གང་ཞིག་གུས་བྱས་འཛིན་དང་ཆུབ་བྱེད་པ། ། དེ་ལ་དུག་དང་མཚོན་དང་མེ་དང་ཆུས་མི་ཚུགས། ། བདུད་དང་བདུད་ཀྱི་ཕྱོགས་ཀྱིས་གླགས་ཀྱང་རྙེད་མི་འགྱུར། །",
+    "dm": "Whoever, as a protector, practices this perfection of wisdom, And whoever holds and masters it with devotion, Will not be harmed by poison, weapons, fire, or water; Mara and the factions of Mara will find no opportunity to harm them.",
+    "gm": "The perfection of wisdom, in which the Protectors practice— Whoever respects, apprehends, and masters it, Will not be harmed by poison, weapons, fire, or water, And Māra and the factions of Māra will find no opportunity against them.",
+    "sa": "य इमां ग्रहीष्यति पर्यापुणती स नित्यं प्रज्ञाय पारमित यत्र चरन्ति नाथाः । विष वह्नि शस्त्र उदकं न क्रमाति तस्यो ओतारु मारु न च विन्दति मारपक्षो ॥"
+   },
+   {
+    "id": "4-12",
+    "bo": "རྒྱལ་བའི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་འདི་ཡིག་འདྲི་ཚེ། ། སྤོབས་པ་ཐ་དད་རྣམ་པ་དུ་མ་འབྱུང་འགྱུར་ཞིང་། ། འགྲོ་བའི་དོན་མ་བྱས་པར་གློག་བཞིན་མྱུར་དུ་ཡང་། ། ཡོངས་སུ་ཉམས་པར་འགྱུར་བ་འདི་ནི་བདུད་ཀྱི་ལས། །",
+    "dm": "When writing down this Perfection of Wisdom of the Victors, Various and diverse kinds of flashes of inspiration will arise; Yet if, without having benefited sentient beings, they vanish as swiftly as lightning, This complete deterioration is the work of Māra.",
+    "gm": "When copying this perfection of wisdom of the Victors, Various differing modes of confidence will arise; Yet without accomplishing the benefit of beings, swiftly like lightning, They will completely fade away; this is the work of Māra.",
+    "sa": "प्रतिभान नेक विविधानि उपपद्यिष्यन्ति लिखमान प्रज्ञ इमु पारमिता जिनानाम् । युत शीघ्र विद्युत यथा परिहायिष्यन्ति अकरित्व अर्थ जगती इमु मारकर्म ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T031",
+  "bo": "ལུང་བསྟན",
+  "count": 10,
+  "occurrences": [
+   "1-10",
+   "2-13",
+   "4-6",
+   "4-56",
+   "4-76",
+   "5-1",
+   "5-2",
+   "5-3",
+   "5-4",
+   "5-33"
+  ],
+  "dm": {
+   "prophecy": 6,
+   "prophesied": 4
+  },
+  "gm": {
+   "prophesied": 8,
+   "prophecy": 1
+  },
+  "examples": [
+   {
+    "id": "1-10",
+    "bo": "བྱང་ཆུབ་སེམས་གང་དེ་ལྟར་འདིར་བདག་ཞིར་གནས་པ། ། དེ་ནི་སྔོན་གྱི་དེ་བཞིན་གཤེགས་པས་ལུང་བསྟན་ཡིན། ། བདག་ནི་མཉམ་པར་བཞག་ཅེའམ་ལངས་ཞེས་རློམ་སེམས་མེད། ། ཅི་ཕྱིར་ཞེ་ན་ཆོས་ཀྱི་རང་བཞིན་ཡོངས་ཤེས་ཕྱིར། །",
+    "dm": "Any bodhisattva who abides here in peace in this way, Has been prophesied by the Tathāgatas of the past. They have no conceit of thinking, \"I am in meditative equipoise,\" or \"I have arisen,\" Why is that? Because the nature of phenomena is fully understood.",
+    "gm": "Whatever bodhisattva dwells here thus in peace, Is prophesied by the Tathāgatas of the past. They have no conceited thought, \"I am in meditative equipoise\" or \"I have arisen.\" Why is this? Because they completely understand the nature of phenomena.",
+    "sa": "एवात्मशान्ति विहरन्निह बोधिसत्त्वो सो व्याकृतो पुरमकेहि तथागतेहि । न च मन्यते अहु समाधितु व्युत्थितो वा कस्मार्थ धर्मप्रकृतिं परिजानयित्वा ॥"
+   },
+   {
+    "id": "4-6",
+    "bo": "དེ་ལྟར་བྱང་ཆུབ་དམ་པར་རབ་ཞུགས་རྒྱལ་བ་ཡི། ། ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་འདི་མཉན་རིག་པར་བྱ། ། རྣམ་པར་འདྲེན་པས་མངོན་སུམ་ལུང་བསྟན་མ་གྱུར་ཀྱང་། ། སངས་རྒྱས་བྱང་ཆུབ་རིང་པོར་མི་ཐོགས་བདག་རེག་འགྱུར། །",
+    "dm": "Likewise, those who have truly entered into supreme awakening should understand that by hearing This Perfection of Wisdom of the Victors, Even if they have not received a direct prophecy from the Guide, \"Before long, I shall touch the awakening of a Buddha.\"",
+    "gm": "Likewise, one who has fully entered supreme enlightenment Should be known as hearing this perfection of wisdom of the Victors; Even if they have not been directly prophesied by the Leaders, They think, 'Before long, I will touch the enlightenment of the Buddhas.'",
+    "sa": "एमेव बोधिवरप्रस्थितु वेदितव्यो श्रुणमाण प्रज्ञ इमि पारमिता जिनानाम् । यद्यापि संमुख न व्याकृतु नायकेनो तथपि स्पृशिष्यति नचिरेण हु बुद्धबोधिम् ॥"
+   },
+   {
+    "id": "4-56",
+    "bo": "འཇིག་རྟེན་མགོན་ལ་གནས་བརྟན་རབ་འབྱོར་ཡོངས་ཞུས་པ། ། ཡོན་ཏན་རྒྱ་མཚོ་ཉོན་མོངས་མ་མཆིས་རྟགས་བསྟན་གསོལ། ། མཐུ་ཆེ་བ་དག་ཇི་ལྟར་སླར་ལྡོག་མི་འགྱུར་བ། ། དེ་ལྟར་ཡོན་ཏན་ཕྱོགས་ཙམ་རྒྱལ་བས་ལུང་བསྟན་གསོལ། །",
+    "dm": "Thus did the elder Subhūti request of the Protector of the World: \"Please explain the signs of the ocean of qualities free from afflictions, And how those of great power do not turn back; O Victor, please grant a prophecy regarding even a mere portion of such qualities.\"",
+    "gm": "The elder Subhūti thoroughly requested the Protector of the World: \"Ocean of Qualities, please teach the signs of those free from afflictions. How those of great power will not turn back again— Thus, may the Victor explain just a fraction of their qualities.\"",
+    "sa": "स्थविरो सुभूति परिपृच्छति लोकनाथं अरणाय लिङ्ग भणही गुणसागराणाम् । अविवर्तिया यथ भवन्ति महानुभावा तां व्याकुरुष्व जिनगुणान प्रदेशमात्रम् ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T044",
+  "bo": "བརྩོན་འགྲུས",
+  "count": 7,
+  "occurrences": [
+   "2-26",
+   "4-44",
+   "5-75",
+   "5-81",
+   "5-83",
+   "5-85",
+   "6-3"
+  ],
+  "dm": {
+   "diligence": 4,
+   "perseverance": 2,
+   "diligent effort": 1
+  },
+  "gm": {
+   "diligence": 6,
+   "joyous effort": 1
+  },
+  "examples": [
+   {
+    "id": "2-26",
+    "bo": "སྦྱིན་པ་སྦྱིན་པའི་སྔོན་དུ་འགྲོ་བ་ཤེས་རབ་སྟེ། ། ཚུལ་ཁྲིམས་བཟོད་པ་བརྩོན་འགྲུས་བསམ་གཏན་དེ་བཞིན་ནོ། ། དགེ་ཆོས་ཆུད་མི་གཟན་ཕྱིར་ཡོངས་སུ་འཛིན་པ་ཡིན། ། འདི་ནི་ཆོས་རྣམས་ཐམས་ཅད་ཚུལ་གཅིག་སྟོན་པར་བྱེད། །",
+    "dm": "Wisdom is the precursor to the practice of generosity, And likewise for ethical discipline, patience, diligence, and meditative concentration. It is the total sustainer that prevents virtuous qualities from being lost; This demonstrates the single nature of all phenomena.",
+    "gm": "Wisdom is what precedes giving; Ethical discipline, patience, joyous effort, and concentration are likewise. In order that virtuous dharmas are not wasted, it fully upholds them. This demonstrates all dharmas as having a single way.",
+    "sa": "पूर्वंगमा भवतु दानु ददन्तु प्रज्ञा शीले च क्षान्ति तथ वीर्य तथैव ध्याने । परिग्राहिका कुशलधर्म-अविप्रणाशे एका च सा अपि निदर्शयि सर्वधर्मान् ॥"
+   },
+   {
+    "id": "4-44",
+    "bo": "སྦྱིན་དང་ཚུལ་ཁྲིམས་བཟོད་དང་དེ་བཞིན་བརྩོན་འགྲུས་དང་། ། བསམ་གཏན་ཤེས་རབ་བྱང་ཆུབ་ཡོངས་སུ་བསྔོ་བར་གྱིས། ། བྱང་ཆུབ་ཕུང་པོར་ཞེན་ནས་མཆོག་འཛིན་མ་བྱེད་ཅེས། ། དང་པོའི་ལས་ཅན་དེ་ལ་དེ་སྐད་བསྟན་པར་བྱ། །",
+    "dm": "Dedicate generosity, ethical discipline, patience, as well as diligence, Meditative concentration, and wisdom toward awakening. Do not harbor a superior conceit by clinging to the aggregates of awakening; Thus should it be taught to those who are beginners.",
+    "gm": "\"Completely dedicate generosity, discipline, patience, as well as diligence, Concentration, and wisdom to enlightenment. Do not hold supreme views by being attached to enlightenment or the aggregates\"— They should instruct beginners in that way.",
+    "sa": "दानं च शीलमपि क्षान्ति तथैव वीर्यं ध्यानानि प्रज्ञ परिणामयितव्य बोधौ । न च बोधिस्कन्ध विमृशित्व परामृशेया ये आदिकर्मिक न देशयितव्य एवम् ॥"
+   },
+   {
+    "id": "5-75",
+    "bo": "སེམས་ཅན་གང་ཟག་གཞན་ཕྱིར་སེམས་དཔའ་རྣམ་དག་པ། ། བརྩོན་འགྲུས་ཕ་རོལ་ཕྱིན་ལ་མངོན་བརྩོན་རྣམ་པར་སྤྱོད། ། དཔེར་ན་བྲན་མོ་ཆུ་ཆུན་དབང་མེད་རྗེ་བོའི་དབང་། ། དེ་བཞིན་དཔའ་རྣམས་སེམས་ཅན་ཀུན་གྱི་དབང་གིས་འགྲོ། །",
+    "dm": "For the sake of other beings and persons, the bodhisattva of pure intention Applies themselves with diligent exertion to the perfection of perseverance. For example, just as a female slave carrying water is powerless and under the control of her master, So too do the heroic beings proceed under the control of all sentient beings.",
+    "gm": "For the sake of other sentient beings and persons, the perfectly pure bodhisattva Manifestly exerts themselves and acts in the perfection of diligence; For example, a servant woman drawing water has no power of her own, but is under the power of her master; Similarly, the heroes act under the power of all sentient beings.",
+    "sa": "परसत्त्वपुद्गलनिदान विशुद्धसत्त्वा विचरन्ति वीर्यबलपारमिताभियुक्ताः । यथ कुम्भदासि अवशावश भर्तिकस्य तथ सर्वसत्त्ववशतामुपयान्ति धीराः ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T057",
+  "bo": "ཚོར་བ",
+  "count": 5,
+  "occurrences": [
+   "1-5",
+   "1-8",
+   "1-19",
+   "3-3",
+   "4-28"
+  ],
+  "dm": {
+   "feeling": 4,
+   "feelings": 1
+  },
+  "gm": {
+   "feeling": 4,
+   "feelings": 1
+  },
+  "examples": [
+   {
+    "id": "1-5",
+    "bo": "གཟུགས་མེད་ཚོར་བ་མེད་ཅིང་འདུ་ཤེས་སེམས་པ་མེད། ། དེ་ལ་རྣམ་ཤེས་གནས་ནི་རྡུལ་ཙམ་ཡོད་མ་ཡིན། ། དེ་ཆོས་ཀུན་ལ་མི་གནས་གནས་པ་མེད་པར་སྤྱོད། ། ཡོངས་སུ་གཟུང་མེད་བདེ་གཤེགས་རྣམས་ཀྱི་བྱང་ཆུབ་འཐོབ། །",
+    "dm": "There is no form, no feeling, no perception, and no intention; Within those, there is not even an atom's worth of a station for consciousness. They do not dwell on any phenomena, but practice without a dwelling place; Without grasping, they attain the awakening of the Sugatas.",
+    "gm": "There is no form, no feeling, no perception, and no volition; Consciousness does not dwell in them even slightly. Not dwelling in all phenomena, they practice without dwelling, And without grasping, they attain the awakening of the Sugatas.",
+    "sa": "न च रुप वेदन न संज्ञ न चेतना च विज्ञान स्थानु अणुमात्र न भोन्ति तस्य । सो सर्वधर्म-अस्थितो अनिकेतचारी अपरीरिगृहीत लभते सुगतान बोधिम् ॥"
+   },
+   {
+    "id": "4-28",
+    "bo": "གཟུགས་རྣམས་མི་མཐོང་ཚོར་བ་དག་ཀྱང་མི་མཐོང་ཞིང་། ། འདུ་ཤེས་མཐོང་བ་མེད་ལ་སེམས་པ་མི་མཐོང་ཞིང་། ། གང་ལ་རྣམ་པར་ཤེས་དང་སེམས་ཡིད་མཐོང་མེད་པ། ། འདི་ནི་ཆོས་མཐོང་ཡིན་ཞེས་དེ་བཞིན་གཤེགས་པས་བསྟན། །",
+    "dm": "One does not see forms, nor does one see feelings, One does not see perceptions, nor does one see intentions, That in which consciousness, mind, and intellect are not seen— The Tathāgata taught that this is \"seeing the Dharma.\"",
+    "gm": "Not seeing forms, and also not seeing feelings, Not seeing perceptions, and not seeing formations, For whom consciousness, mind, and intellect are not seen— The Tathāgata has taught that this is seeing the dharma.",
+    "sa": "रूपस्य दर्शनु अदर्शनु वेदनाये संज्ञाय दर्शनु अदर्शनु चेतनाये । विज्ञानचित्तमनुदर्शनु यत्र नास्ति अय धर्मदर्शनु निदिष्टु तथागतेन ॥"
+   },
+   {
+    "id": "1-8",
+    "bo": "གལ་ཏེ་མི་ཤེས་བཞིན་དུ་གཟུགས་སུ་འདུ་ཤེས་ཤིང་། ། ཚོར་བ་སེམས་པ་རྣམ་ཤེས་ཕུང་པོར་སྤྱོད་བྱེད་ཅིང་། ། ཕུང་འདི་སྟོང་ཞེས་རྟོག་ནའང་བྱང་ཆུབ་སེམས་དཔའ་ནི། ། མཚན་མ་ལ་སྤྱོད་སྐྱེ་མེད་གནས་ལ་དད་མ་ཡིན། །",
+    "dm": "If, while lacking such knowledge, one perceives form, And engages with the aggregates of feeling, volition, and consciousness, Even if one conceptualizes that \"these aggregates are empty,\" that bodhisattva Is still practicing with signs and lacks faith in the state of non-arising.",
+    "gm": "If, lacking understanding, one perceives form, And practices regarding the aggregates of feeling, volition, and consciousness, Even if they think \"these aggregates are empty,\" the bodhisattva Practices in signs, and does not have faith in the unborn state.",
+    "sa": "सचि रुप संज्ञ अपि वेदन चेतना च विज्ञान स्कन्ध चरती अप्रजानमानो । इमि स्कन्ध शून्य परिकल्पयि बोधिसत्त्वो चरती निमित्तअनुपादपदे असक्तो ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T070",
+  "bo": "རྗེས་སུ་ཡི་རང",
+  "count": 5,
+  "occurrences": [
+   "2-38",
+   "2-41",
+   "2-45",
+   "5-41",
+   "5-109"
+  ],
+  "dm": {
+   "rejoicing": 2,
+   "rejoices": 2,
+   "rejoice": 1
+  },
+  "gm": {
+   "rejoicing": 3,
+   "rejoices": 1,
+   "Rejoicing": 1
+  },
+  "examples": [
+   {
+    "id": "2-38",
+    "bo": "ཉན་ཐོས་ཚོགས་རྣམས་ཇི་སྙེད་སྦྱིན་དང་ཚུལ་ཁྲིམས་དང་། ། བསྒོམ་དང་རབ་ཏུ་ལྡན་པའི་བསོད་ནམས་ཚོགས་བསྐྱེད་པའང་། ། བྱང་ཆུབ་སེམས་དཔའི་རྗེས་སུ་ཡི་རང་སེམས་གཅིག་ལ། ། ཉན་ཐོས་ཚོགས་ཀྱི་བསོད་ནམས་ཕུང་པོས་ཆར་མི་ཕོད། །",
+    "dm": "However much the hosts of śrāvakas generate a mass of merit Through being endowed with generosity, ethical discipline, and meditation, It cannot match even a fraction of a bodhisattva’s single thought of rejoicing; The mass of merit of the śrāvaka hosts cannot match even a fraction of that.",
+    "gm": "Even if however many hosts of śrāvakas generate collections of merit, Fully endowed with generosity, ethical discipline, and meditation, Compared to a single mind of rejoicing of a bodhisattva, The heap of merit of the hosts of śrāvakas cannot match it.",
+    "sa": "यावन्ति श्रावकगणाः प्रसवन्ति पुण्यं दानं च शीलमपि भावनसंप्रयुक्तम् । स हि बोधिसत्त्व अनुमोदन एकचित्ते न च सर्वश्रावकगणे सिय पुण्यस्कन्धो ॥"
+   },
+   {
+    "id": "2-41",
+    "bo": "གང་ཡང་སངས་རྒྱས་སྲས་རྣམས་དང་ནི་ཉན་ཐོས་དང་། ། སློབ་དང་མི་སློབ་དགེ་བ་ཟག་བཅས་ཟག་མེད་པ། ། བསྡུས་ནས་བྱང་ཆུབ་སེམས་དཔའ་རྗེས་སུ་ཡི་རང་ཞིང་། ། འགྲོ་བའི་དོན་རྒྱུ་བྱང་ཆུབ་ཕྱིར་ནི་ཐམས་ཅད་བསྔོ། །",
+    "dm": "And whatever virtues—both contaminated and uncontaminated— Of the Buddha’s sons, the śrāvakas, those in training, and those beyond training, The bodhisattva gathers together and rejoices in, And dedicates it all toward enlightenment for the sake of the welfare of beings.",
+    "gm": "And whatever [virtues] of the sons of the buddhas, and the śrāvakas, The virtues of learners and non-learners, with defilements and without defilements, Having gathered them, the bodhisattva rejoices, And dedicates them all for the sake of awakening, as a cause for the benefit of wandering beings.",
+    "sa": "यश् चैव बुद्धतनयान(च) श्रावकाणां शैक्ष अशैक्ष कुशलास्रव नास्रवाश्च । परिपिण्डयित्व अनुमोदयि बोधिसत्त्वो सर्वं च नामयि जगार्थनिदान बोधि ॥"
+   },
+   {
+    "id": "2-45",
+    "bo": "དེ་ལྟས་འདི་ལྟར་ཡོངས་སུ་བསྔོ་བ་བསླབ་བྱ་སྟེ། ། ཇི་ལྟར་རྒྱལ་བ་དེ་དག་དགེ་བ་དེ་མཁྱེན་པའི། ། རྣམ་པ་གང་ཡིན་འབྱུང་གང་མཚན་ཉིད་གང་ཡིན་ལ། ། རྗེས་སུ་ཡི་རང་དེ་ལྟ་དེ་ལྟར་ཡོངས་སུ་བསྔོ། །",
+    "dm": "Therefore, one should train in dedication in this way: Whatever the nature, the source, and the characteristics of that virtue Are as known by those Victors, One should rejoice in it and dedicate it in exactly that same way.",
+    "gm": "Therefore, one should train in dedicating in this way: Just as those Victors know that virtue— Whatever its aspect, whatever its origin, whatever its defining characteristic— Rejoicing in it, one perfectly dedicates it in exactly that way.",
+    "sa": "तस्मा हु नामपरिणामन शिक्षितव्या यथ ते जिना कुशल एव प्रजानयन्ति । यज्जातियोऽयं प्रभवो यदलक्षणं च अनुमोदमी तथ तथा परिणामयामि ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T083",
+  "bo": "ཐམས་ཅད་མཁྱེན་པ་ཉིད",
+  "count": 4,
+  "occurrences": [
+   "2-8",
+   "2-28",
+   "5-52",
+   "5-84"
+  ],
+  "dm": {
+   "omniscience": 4
+  },
+  "gm": {
+   "omniscience": 4
+  },
+  "examples": [
+   {
+    "id": "2-8",
+    "bo": "གཟུགས་འཕེལ་ཡོངས་སུ་ཉམས་དང་ཡོངས་སུ་གཟུང་ཕྱིར་མིན། ། ཆོས་རྣམས་སྣ་ཚོགས་ཡོངས་སུ་གཟུང་ཕྱིར་མི་སློབ་པར། ། སློབ་ཅིང་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ཀྱང་ཡོངས་འཛིན་ལ། ། ངེས་འབྱུང་གང་ཡིན་འདི་ནི་ཡོན་ཏན་དགའ་བའི་སློབ། །",
+    "dm": "It is not for the sake of the increase, decrease, or grasping of form; Nor is it for the sake of grasping the various phenomena that one trains. While training, one also grasps omniscience itself; This very transcendence is the training of those who delight in excellence.",
+    "gm": "It is not for the sake of the increase, complete deterioration, or complete apprehension of form; Not training for the sake of completely apprehending various dharmas, Yet training and completely apprehending omniscience itself— Whatever definite emergence this is, this is the training that rejoices in qualities.",
+    "sa": "न च रुपवृद्धिपरिहाणिपरिग्रहाये न च शिक्षति विविधधर्मपरिग्रहाये । सर्वज्ञतां च परिगृह्णति शिक्षमाणो निर्यायती य इय शिक्ष गुणे रतानाम् ॥"
+   },
+   {
+    "id": "2-28",
+    "bo": "དེ་བཞིན་རྒྱལ་བའི་ཕ་རོལ་ཕྱིན་ལྔ་འདི་དག་ཀྱང་། ། ཤེས་རབ་ཕ་རོལ་ཕྱིན་པའི་མིང་ཉིད་ཐོབ་པར་འགྱུར། ། ཐམས་ཅད་མཁྱེན་པ་ཉིད་ཕྱིར་ཡོངས་སུ་བསྔོས་བྱས་ན། ། བྱང་ཆུབ་ཅེས་བྱར་དྲུག་པོ་འདི་ཀུན་རོ་གཅིག་འགྱུར། །",
+    "dm": "In the same way, these five perfections of the Victors Also acquire the very name of the perfection of wisdom. When they are fully dedicated for the sake of omniscience, All these six become of one taste, known as \"awakening.\"",
+    "gm": "Likewise, these five perfections of the Victors also Will attain the very name of the perfection of wisdom. When fully dedicated for the sake of omniscience, All these six become of one taste, called awakening.",
+    "sa": "एमेव पञ्च इमि पारमिता जिनानां प्रज्ञाय पारमित नामतया भवन्ति । सर्वज्ञताय परिणामयमाण सर्वे षडपीह एकनयम् अर्छति बोधिनामा ॥"
+   },
+   {
+    "id": "5-52",
+    "bo": "དེ་བཞིན་གཤེགས་ཡུམ་ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་འདི། ། འཆད་ཚེ་བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་མོས་བྱེད་ཅིང་། ། བསམ་པ་ཐག་པས་བསྒྲུབ་པར་མངོན་པར་བརྩོན་བྱེད་ན། ། དེས་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ལ་ཞུགས་རིག་བྱ། །",
+    "dm": "When this perfection of wisdom, the Mother of the Tathāgatas, is taught, Any bodhisattva who feels devotion and, with sincere resolve, Applies themselves with effort to its realization, Should be known as one who has entered into omniscience itself.",
+    "gm": "This perfection of wisdom, the mother of the Tathāgatas, When it is taught, whichever bodhisattva aspires to it, And clearly exerts themselves to accomplish it with sincere intent, That noble one should be known to have entered into omniscience.",
+    "sa": "यो बोधिसत्त्व अधिमुच्यति भाष्यमाणाम् इम प्रज्ञपारमित मात तथागतानाम् । प्रतिपत्तिया च अभियुज्यति आशयेन सर्वज्ञताय अभिप्रस्थितु वेदितव्यो ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T096",
+  "bo": "རྣལ་འབྱོར",
+  "count": 4,
+  "occurrences": [
+   "4-62",
+   "5-6",
+   "5-24",
+   "5-69"
+  ],
+  "dm": {
+   "yoga": 4
+  },
+  "gm": {
+   "yoga": 3,
+   "yogas": 1
+  },
+  "examples": [
+   {
+    "id": "4-62",
+    "bo": "མཐའ་འཁོབ་ཀླ་ཀློའི་སྐྱེ་བོའི་ཡུལ་མཐའ་རྣམ་པར་སྤངས། ། རང་གིས་ལ་དོགས་མེད་རྟག་ཏུ་རི་རབ་འདྲ། ། ཆོས་ཕྱིར་སྲོག་ཀྱང་འདོར་ཞིང་རྣལ་འབྱོར་རབ་ཏུ་བརྩོན། ། མི་ལྡོག་རྟགས་ནི་འདི་དག་ཡིན་པར་ཤེས་པར་བྱ། །",
+    "dm": "They have completely avoided the borderlands and the regions of barbarian peoples. They are never uncertain about their own stage, remaining as steadfast as Mount Meru. They would even sacrifice their lives for the sake of the Dharma and are devoted to the diligence of yoga. One should know that these are the signs of the state of non-retrogression.",
+    "gm": "They completely abandon the borderlands of uncivilized border-dwellers. Without self-doubt, they are always like Mount Sumeru. Giving up even their lives for the sake of the dharma, they vividly strive in yoga. One should know that these are the signs of an irreversible one.",
+    "sa": "प्रत्यन्तम्लेच्छजनवर्जित-अन्तदेशाः स्वकभूमि काङ्क्षविगताः सद मेरुकल्पाः । धर्मार्थ जीवित त्यजन्ति प्रयुक्तयोगा अविवर्तियान इमि लिङ्ग प्रजानितव्या ॥"
+   },
+   {
+    "id": "5-6",
+    "bo": "སྦྱངས་སྡོམ་རྣལ་འབྱོར་ལྡན་པ་ཅི་འདྲ་འབྱུང་འགྱུར་ལ། ། ཁྱོད་སྔོན་ཡོན་ཏན་ཚུལ་ཡང་འདི་འདྲའོ་ཞེས་བརྗོད་དོ། ། དེ་སྐད་གང་ཐོས་རློམ་སེམས་བྱང་ཆུབ་སེམས་དཔའ་ནི། ། བདུད་ཀྱིས་ཡོངས་སུ་བསླང་ཞིང་བློ་ཆུང་རིག་པར་བྱ། །",
+    "dm": "\"And such will be the nature of your future ascetic discipline and yoga; Your former qualities were also like this,\" he declares. Any bodhisattva who, upon hearing such words, becomes conceited, Should be known as one of small intelligence who has been instigated by Māra.",
+    "gm": "\"Whatever ascetic practices, vows, and yogas you will possess, Your past qualities and conduct were also like this,\" he says. Whatever bodhisattva hears such words and becomes conceited, Should be known as fully incited by Māra and having small intelligence.",
+    "sa": "धुतवृत्त यादृशु स भेष्यति युक्तयोगी पूर्वं पि तुभ्य इमि आसि गुणोवरूपा । यो एव श्रुत्व अभिमन्यति बोधिसत्त्वो ज्ञातव्यु मारु पर्युत्थितु अल्पबुद्धिः ॥"
+   },
+   {
+    "id": "5-24",
+    "bo": "དེ་ལྟར་བྱང་ཆུབ་མཆོག་ཞུགས་རིན་ཆེན་ལྟ་བུ་ཡི། ། ཤེས་རབ་ཕ་རོལ་ཕྱིན་ལ་རྣལ་འབྱོར་དོར་མི་བྱ། ། རིན་ཆེན་རྙེད་ནས་བླངས་ཏེ་རབ་ཏུ་བརྩོན་དཀྲིས་ནས། ། མྱུར་དུ་འགྲོ་བར་བྱེད་པ་ཞི་བར་འགྱུར་བ་བཞིན། །",
+    "dm": "In this way, those who have entered supreme enlightenment should never abandon The yoga of the perfection of wisdom, which is like a precious jewel. Just as one who finds a jewel, takes it up, and wraps it with great care, Will quickly travel on and reach a state of peace.",
+    "gm": "Likewise, one entered into supreme awakening should not abandon yoga In the jewel-like perfection of wisdom; Having found and taken the jewel, one should thoroughly apply exertion, Swiftly progressing, just as one becomes pacified.",
+    "sa": "एमेव बोधिवरप्रस्थित रत्नतुल्यो प्रज्ञाय पारमित योगु न रिञ्चितव्यो । रतनं व लब्ध्व गृहमाणु अभिन्नसत्त्वो अनुबुद्धयति त्वरितो शिवमभ्युपैति ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T109",
+  "bo": "དམིགས་པ",
+  "count": 3,
+  "occurrences": [
+   "2-10",
+   "2-42",
+   "2-44"
+  ],
+  "dm": {
+   "objective referents": 1,
+   "object of observation": 1,
+   "focusing on": 1
+  },
+  "gm": {
+   "objects of apprehension": 1,
+   "apprehensions": 1,
+   "apprehending": 1
+  },
+  "examples": [
+   {
+    "id": "2-10",
+    "bo": "དམིགས་པ་རྣམས་ཀྱི་རང་བཞིན་དེ་ནི་ཕ་མཐའ་མེད། ། སེམས་ཅན་རང་བཞིན་གང་ཡིན་དེ་ཡང་ཕ་མཐའ་མེད། ། ནམ་མཁའི་ཁམས་ཀྱི་རང་བཞིན་དེ་ཡང་ཕ་མཐའ་མེད། ། འཇིག་རྟེན་མཁྱེན་པའི་ཤེས་རབ་དེ་ཡང་ཕ་མཐའ་མེད། །",
+    "dm": "The nature of all objective referents is boundless; Whatever the nature of sentient beings is, that too is boundless. The nature of the expanse of space is also boundless; The wisdom of the Knower of the World is also boundless.",
+    "gm": "The nature of objects of apprehension is boundless; Whatever the nature of sentient beings is, that too is boundless; The nature of the realm of space is also boundless; The wisdom of the Knower of the World is also boundless.",
+    "sa": "आरम्बणान प्रकृती स अ(न)न्तपारा सत्त्वान या च प्रकृती स अनन्तपारा । आकाशधातुप्रकृती स अनन्तपारा प्रज्ञा पि लोकविदुनां स अनन्तपारा ॥"
+   },
+   {
+    "id": "2-42",
+    "bo": "ཡོངས་བསྔོ་གལ་ཏེ་སེམས་སུ་འདུ་ཤེས་འབྱུང་འགྱུར་ཞིང་། ། བྱང་ཆུབ་འདུ་ཤེས་ཡོངས་བསྔོ་སེམས་ཅན་འདུ་ཤེས་ན། ། འདུ་ཤེས་ཕྱིར་ན་ལྟ་གནས་སེམས་ནི་གསུམ་ལ་ཆགས། ། དམིགས་པ་ཡོད་པས་ཡོངས་སུ་བསྔོ་བར་ཆུད་མ་ཡིན། །",
+    "dm": "If, while dedicating, the notion of a mind arises, Or the notion of enlightenment, or the notion of sentient beings, Then because of such notions, one dwells in views and the mind is attached to the three; Because there is an object of observation, it is not a perfect dedication.",
+    "gm": "If, when dedicating, the notion of 'mind' arises, If there is the notion of awakening, the notion of dedicating, and the notion of sentient beings, Because of these notions, residing in views, the mind is attached to the three; Since there are apprehensions, it does not amount to dedication.",
+    "sa": "परिणामयन्तु यदि वर्तति चित्तसंज्ञा तथ बोधिसत्त्वपरिणामन सत्त्वसंज्ञा । संज्ञाय दृष्टिस्थितु चित्त त्रिसङ्गयुक्तो परिणामितं न भवती उपलभ्यमानम् ॥"
+   },
+   {
+    "id": "2-44",
+    "bo": "གལ་ཏེ་མཚན་མར་བྱེད་ན་དེ་ནི་བསྔོ་མ་ཡིན། ། ཇི་སྟེ་མཚན་མ་མེད་ན་བྱང་ཆུབ་བསྔོ་བ་ཡིན། ། ཇི་ལྟར་དུག་དང་འདྲེས་པའི་ཁ་ཟས་བཟང་ཟ་བ། ། དཀར་པོའི་ཆོས་ལ་དམིགས་པའང་དེ་འདྲར་རྒྱལ་བས་གསུངས། །",
+    "dm": "If one conceives of it in terms of signs, that is not a dedication. If there are no signs, that is the dedication to enlightenment. Just as eating fine food that has been mixed with poison, The Victor has taught that focusing on virtuous qualities is the same.",
+    "gm": "If one acts upon signs, that is not dedication; But if there are no signs, it is dedication to awakening. Just like eating excellent food mixed with poison, The Victor has declared that apprehending white dharmas is like that.",
+    "sa": "सचि सो निमित्त कुरुते न च मानयाति अथ आनिमित्त परिणामित भोन्ति बोधौ । विषसृष्ट भोजनु यथैव क्रियाप्रणीतो तथ शुक्लधर्मौपलम्भ जिनेन उक्तो ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T122",
+  "bo": "རྣམ་པར་མི་རྟོག",
+  "count": 3,
+  "occurrences": [
+   "4-10",
+   "5-46",
+   "5-60"
+  ],
+  "dm": {
+   "non-conceptuality": 1,
+   "without conceptualization": 1,
+   "non-conceptual": 1
+  },
+  "gm": {
+   "Non-conceptualizing": 1,
+   "without conceptualizing": 1,
+   "does not conceptualize": 1
+  },
+  "examples": [
+   {
+    "id": "4-10",
+    "bo": "གང་ཞིག་འདིར་སྤྱོད་སངས་རྒྱས་ཆོས་རྣམས་མི་རྟོག་སྟེ། ། སྟོབས་དང་རྫུ་འཕྲུལ་རྐང་པ་བྱང་ཆུབ་ཞི་མི་རྟོག། ། རྣམ་པར་མི་རྟོག་རྟོག་བྲལ་བྱིན་གྱི་རླབས་ཀྱིས་སྤྱོད། ། འདི་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་པ་ཡིན། །",
+    "dm": "Whoever practices here does not conceptualize the Buddha-qualities, Nor do they conceptualize the powers, the bases of miraculous power, awakening, or peace. They practice through the blessing of non-conceptuality, free from mental construction; This is the practice of the supreme Perfection of Wisdom.",
+    "gm": "Whoever practices here does not conceptualize the qualities of a Buddha; They do not conceptualize the powers, the bases of miraculous power, or peaceful enlightenment; Non-conceptualizing and free from concepts, they practice through blessing; This is the practice of the supreme perfection of wisdom.",
+    "sa": "चरमाणु यो न इह कल्पयि बुद्धधर्मां बल ऋद्धिपाद न च कल्पयि बोधि शान्ताम् । अविकल्पकल्पविगतोऽधिष्ठानचारी एषा स प्रज्ञवरपारमिताय चर्या ॥"
+   },
+   {
+    "id": "5-46",
+    "bo": "དེ་བཞིན་ཤེས་རབ་སྤྱོད་པ་ནམ་ཡང་འདི་སྙམ་དུ། ། བྱང་ཆུབ་རྟོགས་ནས་འགྲོ་བ་ཡོངས་སུ་དགྲོལ་མི་སེམས། ། སྐྱེ་བ་སྣ་ཚོགས་དང་ནི་བྱ་བ་མང་ལྡན་པ། ། སྒྱུ་མ་ལྟ་བུར་སྟོན་ཀྱང་རྣམ་པར་མི་རྟོག་སྤྱོད། །",
+    "dm": "In the same way, while practicing wisdom, it never occurs to one to think, \"Having realized awakening, I shall liberate all beings.\" Although they display various births and many activities, They practice without conceptualization, just like an illusion.",
+    "gm": "Likewise, those practicing wisdom never think thus: \"Having realized awakening, I will completely liberate beings\"; Though they demonstrate taking various births and having many activities, Like an illusion, they practice without conceptualizing.",
+    "sa": "एमेव प्रज्ञचरिते न कदाचि भोति बुद्धित्व बोधि जगती परिमोचयित्वा । आत्मोपपत्ति विविधां क्रियसंप्रयोगां दर्शेति मायसदृशो न विकल्पचारी ॥"
+   },
+   {
+    "id": "5-60",
+    "bo": "ཤིང་དང་འབྲས་བུ་མེ་ཏོག་ནགས་ཚལ་ཇི་སྙེད་པ། ། དེ་དག་ཐམས་ཅད་ས་ལས་ཡང་དག་འབྱུང་ཞིང་འཐོན། ། འོན་ཀྱང་ས་ལ་ཟད་པ་མེད་ཅིང་འཕེལ་བ་མེད། ། ཡོངས་སུ་མི་ཉམས་རྣམ་པར་མི་རྟོག་སྐྱོ་བ་མེད། །",
+    "dm": "Just as all the various trees, fruits, flowers, and forests All emerge and grow perfectly from the earth, Yet the earth is neither exhausted nor increased; It does not decline, it is non-conceptual, and it never tires.",
+    "gm": "However many trees, fruits, flowers, and forests there are, They all perfectly arise and come forth from the earth; Yet, the earth has no exhaustion and has no increase, Does not diminish, does not conceptualize, and has no weariness.",
+    "sa": "यावन्ति वृक्ष फलपुष्पवनस्पती या सर्वे च मेदिनिसमुद्गत प्रादुभूताः । न च मेदिनी क्षयमुपैति न चापि वृद्धिं न च खिद्यती न परिहायति निर्विकल्पा ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T135",
+  "bo": "ལེ་ལོ",
+  "count": 3,
+  "occurrences": [
+   "5-80",
+   "5-82",
+   "5-84"
+  ],
+  "dm": {
+   "lazy": 3
+  },
+  "gm": {
+   "lazy": 2,
+   "laziness": 1
+  },
+  "examples": [
+   {
+    "id": "5-80",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའ་མི་མཁས་བསྐལ་པ་བྱེ་བ་བགྲང་། ། གལ་ཏེ་རིང་བར་འདུ་ཤེས་སྡུག་བསྔལ་བྱང་ཆུབ་སྒྲུབ། ། ཡང་དག་ཆོས་སྒྲུབ་བྱེད་ཚེ་ཡུན་རིང་སྡུག་བསྔལ་འགྱུར། ། དེས་ནི་བརྩོན་འགྲུས་ཕ་རོལ་ཕྱིན་ཉམས་ལེ་ལོ་ཅན། །",
+    "dm": "If unskilled bodhisattvas count out tens of millions of eons, And, perceiving it as a long time, strive for enlightenment with a sense of hardship, They will suffer for a long duration while practicing the authentic Dharma. Such individuals are lazy, and their perfection of diligence declines.",
+    "gm": "The unwise bodhisattva counts tens of millions of eons; If they perceive them as long, they suffer in accomplishing awakening; When accomplishing the authentic dharma, they suffer for a long time; Their perfection of diligence diminishes and they possess laziness.",
+    "sa": "सचि कल्पकोटि गणये विदु बोधिसत्त्वो चिरसंज्ञ बोधि समुदानिय तेन दुःखे । चिरदुःख भेष्यति समाचरमाणु धर्मं ततु वीर्यपारमितहीन कुसीदरूपो ॥"
+   },
+   {
+    "id": "5-82",
+    "bo": "གལ་ཏེ་འགའ་ཞིག་འདི་སྐད་རི་རབ་རི་བཤིག་པའི། ། རྗེས་ལ་བྱང་ཆུབ་མཆོག་ཐོབ་འགྱུར་ཞེས་སྨྲ་བ་ལས། ། ཅི་སྟེ་སྐྱོ་བའི་བློ་སྐྱེད་ཚད་ཀྱང་སེམས་བྱེད་ན། ། དེ་ཚེ་བྱང་ཆུབ་སེམས་དཔའ་ལེ་ལོར་གྱུར་པ་ཡིན། །",
+    "dm": "If someone were to say, \"Only after demolishing Mount Meru Will you attain supreme enlightenment,\" and if one then Considers the extent of the weariness that would arise, At that moment, the bodhisattva has become lazy.",
+    "gm": "If someone says thus: \"After destroying Mount Meru, You will attain supreme awakening,\" If they then generate a weary mind and even think of its magnitude, At that time, the bodhisattva has become lazy.",
+    "sa": "सचि कश्चिद् एव वदयेय सुमेरुशैलं भिन्दित्व पश्च अधिगम्यसि अग्रबोधिम् । सचि खेदबुद्धि कुरुते च प्रमाणबुद्धिं कौसीद्यप्राप्त भवते तद बोधिसत्त्वो ॥"
+   },
+   {
+    "id": "5-84",
+    "bo": "འགྲོ་བ་ཡོངས་སུ་སྨིན་པར་བྱས་ནས་དོན་བྱ་ཞེས། ། གལ་ཏེ་ལུས་དང་ངག་དང་ཡིད་ཀྱིས་བརྩོན་བྱེད་ན། ། བདག་ཏུ་འདུ་ཤེས་གནས་པས་ལེ་ལོར་གྱུར་པ་སྟེ། ། ཐམས་ཅད་མཁྱེན་པ་ཉིད་ལས་རིང་འགྱུར་གནམ་ས་བཞིན། །",
+    "dm": "If, with the thought, \"I shall bring all beings to maturity and act for their benefit,\" One applies oneself with body, speech, and mind, Yet remains dwelling in the perception of a self, one has become lazy; They are as far from omniscience as the earth is from the sky.",
+    "gm": "Thinking, \"Having completely ripened beings, I will act for their benefit,\" If they exert themselves with body, speech, and mind, Because they abide in the perception of a self, they have become lazy, And they become as far from omniscience as the sky is from the earth.",
+    "sa": "सचि कायचित्तवचसा च पराक्रमेय्या परिपाचयित्व जगती करिष्यामि अर्थम् । कौसीद्यप्राप्त भवती स्थितु आत्मसंज्ञैः नैरात्मभावनविदूरि नभं व भूमेः ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T148",
+  "bo": "ལམ་ཐམས་ཅད་ཤེས་པ་ཉིད",
+  "count": 2,
+  "occurrences": [
+   "1-28",
+   "2-0"
+  ],
+  "dm": {
+   "knowledge of all paths": 2
+  },
+  "gm": {
+   "knowledge of all paths": 1,
+   "Knowledge of All Paths": 1
+  },
+  "examples": [
+   {
+    "id": "1-28",
+    "bo": "སྐབས་གཉིས་པ་ལམ་ཐམས་ཅད་ཤེས་པ་ཉིད་བསྟན། །",
+    "dm": "The second chapter, teaching the knowledge of all paths, is concluded.",
+    "gm": "The second chapter, teaching the knowledge of all paths.",
+    "sa": "२. शक्रपरिवर्त"
+   },
+   {
+    "id": "2-0",
+    "bo": "ལམ་ཐམས་ཅད་ཤེས་པ་ཉིད་བསྟན། །",
+    "dm": "Teaching of the knowledge of all paths",
+    "gm": "Teaching on the Knowledge of All Paths",
+    "sa": ""
+   }
+  ]
+ },
+ {
+  "term_id": "T161",
+  "bo": "མཆོད་རྟེན",
+  "count": 2,
+  "occurrences": [
+   "2-15",
+   "2-17"
+  ],
+  "dm": {
+   "stūpas": 2
+  },
+  "gm": {
+   "stūpas": 2
+  },
+  "examples": [
+   {
+    "id": "2-15",
+    "bo": "ལ་ལས་བདེ་གཤེགས་ཡོངས་སུ་མྱ་ངན་འདས་པ་ཡི། ། མཆོད་རྟེན་རིན་ཆེན་བདུན་ལས་བྱས་ཤིང་མཆོད་བྱེད་ལ།བདེ་བར་གཤེགས་པའི་མཆོད་རྟེན་དེ་དག་གངགāའི། ། བྱེ་མ་སྙེད་ཀྱིས་བྱེ་བ་ཕྲག་སྟོང་ཞིང་བཀང་སྟེ། །",
+    "dm": "Suppose someone were to make offerings to the stūpas Of the Sugatas who have passed into parinirvāṇa, constructing them of the seven precious gems, And were to fill a thousand million buddha-fields With as many stūpas of the Sugatas as there are grains of sand in the Ganges;",
+    "gm": "If someone, of the completely parinirvāṇized Sugata, Were to build stūpas from the seven precious things and make offerings, and with those stūpas of the Sugata, as numerous as the Ganges' Sands, were to fill thousands of millions of fields;",
+    "sa": "परिनिर्वृतस्य सुगतस्य करेय्य स्तूपां पूजेय सप्तरतनामयु कश्चिद् एव । तेहि प्रपूर्ण सिय क्षेत्रसहस्रकोट्यो यथ गङ्गवालिकसमैः सुगतस्य स्तूपैः ॥"
+   },
+   {
+    "id": "2-17",
+    "bo": "གང་ཞིག་གང་ལས་རྣམ་འདྲེན་སྟོབས་བཅུ་འབྱུང་འགྱུར་བ། ། བདེ་བར་གཤེགས་ཀྱི་ཡུམ་འདི་གླེགས་བམ་ལ་བྲིས་ཏེ། ། འཆང་ཞིང་མེ་ཏོག་བྱུག་པས་བསྟི་སྟང་བྱེད་གྱུར་ན། ། མཆོད་རྟེན་བྱས་མཆོད་བསོད་ནམས་དེས་ནི་ཆར་མི་ཕོད། །",
+    "dm": "Yet someone were to write down in a book this Mother of the Sugatas, From whom the Ten Powers of the Guides arise, And, bearing it, were to honor it with flowers and ointments, The merit of having worshiped stūpas would not approach even a fraction of that.",
+    "gm": "Whoever, regarding that from which the Guides of ten powers will arise, Writes this Mother of the Sugatas in a book, Retains it, and pays reverence with flowers and ointments, The merit of building stūpas and making offerings cannot match a fraction of that.",
+    "sa": "यश् चो इमां सुगतमात लिखित्व पुस्ते यत उत्पती दशबलान विनायकानाम् । धारेयि सत्करयि पुष्पविलेपनेहि कल पुण्य भोन्ति न स स्तूपि करित्व पूजाम् ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T174",
+  "bo": "བྱང་ཆུབ་ཞི་བ",
+  "count": 2,
+  "occurrences": [
+   "2-51",
+   "4-72"
+  ],
+  "dm": {
+   "peace of awakening": 1,
+   "Peaceful enlightenment": 1
+  },
+  "gm": {
+   "peaceful awakening": 2
+  },
+  "examples": [
+   {
+    "id": "2-51",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་སྔོན་ཆད་སྤྱོད་པའི་ཚེ། ། ཕ་རོལ་ཕྱིན་འདིར་སྤྱོད་པ་མཁས་པ་སོམ་ཉི་མེད། ། ཐོས་མ་ཐག་ཏུ་དེས་ནི་སྟོན་པའི་འདུ་ཤེས་སྐྱེད། ། དེས་ནི་བྱང་ཆུབ་ཞི་བ་མྱུར་དུ་རྟོགས་པར་འགྱུར། །",
+    "dm": "Any bodhisattva who, while practicing in the past, Practiced this perfection skillfully and without doubt, Will, upon hearing this, immediately perceive it as the Teacher, And will quickly realize the peace of awakening.",
+    "gm": "When a bodhisattva practiced previously, The wise one practicing this perfection has no doubt. As soon as they hear it, they give rise to the notion of the Teacher; They will swiftly realize peaceful awakening.",
+    "sa": "यो बोधिसत्त्व वरपारमितेति चीर्णो परिचारिका य न च काङ्क्षति पण्डितेहि । सह श्रुत्व तस्य पुन भेष्यति शास्तृसंज्ञा सो वा लघू अनुबुधिष्यति बोधि शान्ताम् ॥"
+   },
+   {
+    "id": "4-72",
+    "bo": "དང་པོའི་སེམས་ཀྱིས་བྱང་ཆུབ་མཆོག་རེག་མ་ཡིན་ལ། ། དེ་མེད་པར་ཡང་དེ་ལ་རེག་པར་ནུས་མ་ཡིན། ། ཐ་མའི་སེམས་ཀྱིས་བྱང་ཆུབ་ཞི་བ་ཐོབ་མིན་ལ། ། དེ་མེད་པར་ཡང་དེ་ཐོབ་ནུས་པ་མ་ཡིན་ནོ། །",
+    "dm": "Supreme enlightenment is not reached by the initial mind, Yet without that initial mind, it cannot be reached. Peaceful enlightenment is not attained by the final mind, Yet without that, it is also impossible to attain it.",
+    "gm": "By the first mind, supreme awakening is not touched, Yet without it, one is not able to touch it. By the final mind, peaceful awakening is not attained, Yet without it, one is not able to attain it.",
+    "sa": "प्रथमेव चित्त स्पृशती न च अग्रबोधिम् असता न तस्य स्पृशता पुन शक्य भोन्ति । न च चित्त पश्चिम शिवाम् अनुप्रापुणाति असता न तस्य पुन प्रापणनाय शक्यम् ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T187",
+  "bo": "གནས",
+  "count": 2,
+  "occurrences": [
+   "4-45",
+   "4-49"
+  ],
+  "dm": {
+   "dwelling place": 1,
+   "foundations": 1
+  },
+  "gm": {
+   "resting place": 1,
+   "resting places": 1
+  },
+  "examples": [
+   {
+    "id": "4-45",
+    "bo": "དེ་ལྟར་སྤྱོད་པ་ལེགས་མཚོ་སྨྲ་བའི་ཟླ་བ་རྣམས། ། འགྲོ་བའི་སྐྱབས་དང་དཔུང་གཉེན་དང་ནི་གནས་ཡིན་ཏེ། ། རྟེན་དང་བློ་དང་གླིང་དང་ཡོངས་འདྲེན་དོན་འདོད་པ། ། གསལ་བྱེད་སྒྲོན་མ་ཆོས་མཆོག་སྨྲ་བ་མི་འཁྲུགས་ཡིན། །",
+    "dm": "Those who practice in that way are the moons of speakers who live an excellent life; They are the refuge, the protector, and the dwelling place of beings. They are the support, the intellect, the island, and the guide for those seeking benefit, The illuminator, the lamp, the unshakeable speaker of the supreme Dharma.",
+    "gm": "Practicing thus, those oceans of goodness, moons of speech, Are the refuge, the defender, and the resting place of beings; They are the support, the mind, the island, and the supreme guides seeking their welfare; They are illuminating lamps, speakers of the supreme dharma, and are unperturbed.",
+    "sa": "एवं चरन्त गुणसागर वादिचन्द्राः त्राणा भवन्ति जगती शरणा च लेना । गति बुद्धि द्वीप परिणायक अर्थकामाः प्रद्योत उल्क वरधर्मकथी अक्षोभ्याः ॥"
+   },
+   {
+    "id": "4-49",
+    "bo": "སེམས་ཅན་རྣམས་ནི་གནས་ལ་དགའ་ཞིང་ཡུལ་རྣམས་འདོད། ། འཛིན་ལ་གནས་ཤིང་མི་མཁས་བླུན་རྨོངས་མུན་པ་བཞིན། ། ཐོབ་པར་བྱ་བའི་ཆོས་ནི་གནས་མེད་འཛིན་མེད་དེ། ། དེས་ན་འཇིག་རྟེན་དག་དང་རྩད་པ་འབྱུང་བ་ཡིན། །",
+    "dm": "Sentient beings delight in foundations and desire sense objects; Abiding in grasping, they are unskilled, foolish, and deluded like darkness. The phenomena to be attained are without foundation and without grasping; Therefore, conflict with the world arises.",
+    "gm": "Beings delight in resting places and desire sense objects; Abiding in grasping, the unwise are foolish and obscured like darkness. The dharma to be attained is without resting place and without grasping; Therefore, conflict arises with the worlds.",
+    "sa": "सत्त्वश् च आलयरतो विषयाभिलाषी स्थित अग्रहे अबुध यो महअन्धभूतो । धर्मो अनालयु अनाग्रहु प्रापितव्यो लोकेन सार्ध अयु विग्रहु प्रादुभूतो ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T200",
+  "bo": "སྟོང་ཉིད",
+  "count": 2,
+  "occurrences": [
+   "4-87",
+   "4-93"
+  ],
+  "dm": {
+   "emptiness": 2
+  },
+  "gm": {
+   "emptiness": 2
+  },
+  "examples": [
+   {
+    "id": "4-87",
+    "bo": "དེ་ལྟར་ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་མཆོག་སྤྱོད་པ། ། ཤེས་རབ་ཐབས་སྟོབས་རྫུ་འཕྲུལ་གྱིས་ནི་རྣམ་སྤྱོད་པ། ། དེ་དག་དགེ་བའི་རྩ་བ་ཇི་སྲིད་མ་རྫོགས་པ། ། དེ་སྲིད་སྟོང་ཉིད་དམ་པ་དེ་ནི་ཐོབ་མི་བྱེད། །",
+    "dm": "In this way, those who practice the supreme perfection of wisdom, Acting through wisdom, skillful means, strength, and miraculous powers, As long as their roots of virtue are not yet complete, So long will they not attain that supreme emptiness.",
+    "gm": "Likewise, engaging in the supreme perfection of wisdom, Thoroughly practicing by means of the power of wisdom, skillful means, and miracles, As long as their roots of virtue are not perfected, For that long they do not attain that supreme emptiness.",
+    "sa": "एमेव प्रज्ञवरपारमितां चरन्तो प्रज्ञा उपाय बल ऋद्धि विचारमाणो । तावन् न तां परमशून्यत प्रापुणोति यावन् न ते कुशलमूल भवन्ति पूर्णाः ॥"
+   },
+   {
+    "id": "4-93",
+    "bo": "དེ་བཞིན་བྱང་ཆུབ་སེམས་དཔའ་སྟོང་ཉིད་རིན་ཆེན་གྱི། ། གླིང་དུ་སོང་སྟེ་བསམ་གཏན་དབང་བོ་སྟོབས་ཐོབ་པ། ། མྱ་ངན་འདས་ལ་རེག་པ་འབའ་ཞིག་མངོན་དགའ་ཞིང་། ། སེམས་ཅན་སྡུག་བསྔལ་ཡིད་དུ་འཇོག་པར་འགྱུར་མ་ཡིན། །",
+    "dm": "So too, the bodhisattva who has gone to the jewel island of emptiness, Having attained the meditative concentrations, faculties, and powers, Does not take delight in merely touching nirvana alone, And does not leave the suffering of sentient beings behind.",
+    "gm": "Likewise, a bodhisattva who has gone to the jewel island of emptiness, And attained the powers of the faculties of concentration, Does not merely delight in touching nirvāṇa, And leave sentient beings in suffering.",
+    "sa": "एमेव शून्यत व्रजित्वन रत्नद्वीपं लब्ध्वान ध्यान बल इन्द्रिय बोधिसत्त्वो । किंचापि निर्वृति स्पृशेदभिनन्दमानो अपि सर्वसत्त्व दुखिता मनसी भवन्ति ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T213",
+  "bo": "མ་རིག",
+  "count": 2,
+  "occurrences": [
+   "5-62",
+   "5-64"
+  ],
+  "dm": {
+   "ignorance": 2
+  },
+  "gm": {
+   "ignorance": 2
+  },
+  "examples": [
+   {
+    "id": "5-62",
+    "bo": "སེམས་ཅན་ཐ་མ་འབྲིང་དང་མཆོག་གྱུར་ཇི་སྙེད་པ། ། དེ་ཀུན་མ་རིག་ལས་བྱུང་བདེ་བར་གཤེགས་པས་གསུངས། ། རྐྱེན་རྣམས་ཚོགས་ནས་སྡུག་བསྔལ་འཁྲུལ་འཁོར་རབ་ཏུ་འབྱུང་། ། མ་རིག་འཁྲུལ་འཁོར་དེ་ནི་ཟད་མེད་འཕེལ་བ་མེད། །",
+    "dm": "However many sentient beings there are—the lesser, the middling, and the superior— The Sugata taught that they all arise from ignorance. When conditions assemble, the machine of suffering fully emerges; That machine of ignorance neither exhausts nor increases.",
+    "gm": "However many inferior, middling, and supreme sentient beings there are, The Sugatas have taught that they all arise from ignorance; When conditions come together, the machine of suffering perfectly arises, Yet that machine of ignorance has no exhaustion and no increase.",
+    "sa": "यावन्त सत्त्व मृदुमध्यमुत्कृष्ट लोके सर्वे अविद्यप्रभवा सुगतेन उक्ताः । सामग्रिप्रत्ययु प्रवर्तति दुःखयन्त्रो न च यन्त्र क्षीयति अविद्य न चापि वृद्धिः ॥"
+   },
+   {
+    "id": "5-64",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་རྟེན་ཅིང་འབྲེལ་འབྱུང་ལ། ། སྐྱེ་མེད་ཟད་པ་མེད་པར་ཤེས་རབ་འདི་ཤེས་ཏེ། ། ཉི་མ་སྤྲིན་མེད་འོད་ཟེར་འཕྲོ་བས་མུན་བསལ་ལྟར། ། མ་རིག་ཐིབས་པོ་བཅོམ་ནས་རང་བྱུང་ཐོབ་པར་འགྱུར། །",
+    "dm": "Any bodhisattva who, regarding dependent origination, Understands this wisdom to be without birth and without exhaustion, Just as the cloudless sun dispels darkness by radiating its beams of light, Will, by destroying the dense gloom of ignorance, attain the self-arisen state.",
+    "gm": "Whichever bodhisattva, with regard to dependent origination, Knows this wisdom as unborn and unexhausted, Just as the cloudless sun dispels darkness by emitting rays of light, Having destroyed dense ignorance, will attain the state of the Self-Arisen.",
+    "sa": "यो तु प्रतीत्यसमुत्पादु अनुद्भवाये इमु प्रज्ञ अक्षयत बुध्यति बोधिसत्त्वो । सो सूर्य अभ्रपटले यथ मुक्तरश्मी विधमित्वविद्यपटलं भवते स्वयंभूः ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T226",
+  "bo": "ཁྲིམས",
+  "count": 2,
+  "occurrences": [
+   "5-101",
+   "6-2"
+  ],
+  "dm": {
+   "morality": 1,
+   "ethical discipline": 1
+  },
+  "gm": {
+   "discipline": 2
+  },
+  "examples": [
+   {
+    "id": "5-101",
+    "bo": "སེམས་ཅན་དག་པ་གང་ཞིག་དེ་ལྟར་ཁྲིམས་ལྡན་པ། ། སྡུག་དང་མི་སྡུག་ཀུན་ལ་ལྟ་བ་མེད་པ་ཡིན། ། མགོ་དང་རྐང་ལག་གཏོང་ཞིང་ཞུམ་པའི་སེམས་ཀྱང་མེད། ། བདོག་པ་ཐམས་ཅད་གཏོང་ཞིང་རྟག་ཏུ་ཞེན་པ་མེད། །",
+    "dm": "Any pure being who possesses such morality as this, Is without bias toward anything pleasant or unpleasant. They give away their heads, hands, and feet without a trace of discouragement; They give away all their possessions, remaining forever free from attachment.",
+    "gm": "Any pure sentient being who thus possesses discipline Has no view of anything as pleasant or unpleasant. Giving away their head, hands, and feet, they have no shrinking mind; Giving away all their possessions, they are always free from clinging.",
+    "sa": "यो एवशीलसमन्वागतु निष्प्रपञ्चो अनपेक्षको भवति सर्वप्रियाप्रियेषु । शिरहस्तपाद त्यजमान अदीनचित्तो सर्वास्तित्यागि भवते सततं अलीनो ॥"
+   },
+   {
+    "id": "6-2",
+    "bo": "ཁྲིམས་ཀྱིས་དུད་འགྲོའི་འགྲོ་བ་དུ་མའི་ངོ་བོ་དང་། ། མི་ཁོམ་བརྒྱད་སྤོང་དེ་ཡིས་དལ་བ་རྟག་ཏུ་རྙེད། ། བཟོད་པས་གཟུགས་བཟང་དམ་པ་རྒྱ་ཆེན་ཐོབ་འགྱུར་ཏེ། ། གསེར་མདོག་སྡུག་ཅིང་འགྲོ་བས་ལྟ་བའི་འོས་སུ་འགྱུར། །",
+    "dm": "Through ethical discipline, one abandons the various states of animal existence, And by abandoning the eight unfree states, one always finds leisure. Through patience, one will attain a sublime, vast, and beautiful form; With a lovely golden complexion, one becomes worthy of being beheld by all beings.",
+    "gm": "By discipline, the nature of the manifold destinies of animals and The eight unfree states are abandoned, and leisure is always found. By patience, a fine, supreme, and vast form will be obtained, Golden-colored, beautiful, and worthy to be looked at by beings.",
+    "sa": "शीलेन तीर्यगति वर्जयि नेकरुपाम् अष्टौ च अक्षण क्षणां लभते स नित्यम् । क्षान्तीय रुप लभते परमं उदारं सुवर्णच्छवि प्रियु जगस्य उदीक्षणीयो ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T239",
+  "bo": "སྤྱོད་པ",
+  "count": 1,
+  "occurrences": [
+   "0-4"
+  ],
+  "dm": {
+   "conduct": 1
+  },
+  "gm": {
+   "practice": 1
+  },
+  "examples": [
+   {
+    "id": "0-4",
+    "bo": "དགའ་དང་གུས་དང་དད་པའི་མཆོག་ནི་ཉེར་བཞག་སྟེ། ། སྒྲིབ་པ་ཉོན་མོངས་བསལ་ནས་དྲི་མ་ལས་འདས་པ། ། འགྲོ་དོན་མངོན་ཞུགས་དེས་པའི་ཤེས་རབ་ཕ་རོལ་ཕྱིན། ། གང་ལ་དཔའ་རྣམས་སྤྱོད་པ་དེ་ནི་མཉན་པར་གྱིས། །",
+    "dm": "Establishing the highest joy, respect, and faith, Having cleared away the obscurations of the afflictions and transcended all stains, Listen to this perfection of wisdom of the noble ones, who are dedicated to the welfare of beings, And to that which is the conduct of the heroic ones.",
+    "gm": "Having established supreme joy, respect, and faith, Having removed obscurations and afflictions and passed beyond stains, The perfection of wisdom of the gentle ones engaged in the benefit of beings, Listen to that in which the heroes practice.",
+    "sa": "पर प्रेम गौरव प्रसाद उपस्थपित्वा प्रजहित्व आवरण क्लेशमलातिक्रान्ताः । शृणुता जगार्थमभिप्रस्थित सुरव्रतानां प्रज्ञाय पारमित यत्र चरन्ति शूराः ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T252",
+  "bo": "སེམས་ཅན་ཚོགས",
+  "count": 1,
+  "occurrences": [
+   "1-16"
+  ],
+  "dm": {
+   "sentient beings": 1
+  },
+  "gm": {
+   "sentient beings": 1
+  },
+  "examples": [
+   {
+    "id": "1-16",
+    "bo": "ཅི་ཕྱིར་འདི་ནི་སེམས་དཔའ་ཆེ་ཞེས་བྱ་ཞེ་ན། ། སེམས་ཅན་ཚོགས་རྣམས་མང་པོའི་མཆོག་ཏུ་གྱུར་པ་དང་།སེམས་ཅན་ཁམས་ཀྱི་ལྟ་རྣམས་ཆེན་པོ་གཅོད་པ་སྟེ། ། དེ་ཕྱིར་སེམས་དཔའ་ཆེན་པོ་ཞེས་ནི་རབ་བརྗོད་དོ། །",
+    "dm": "If one asks, \"Why is this one called a 'great being' (mahāsattva)?\" Because they have become the foremost among the vast assembly of sentient beings, And because they sever the great thicket of views within the realm of sentient beings; For that reason, they are truly called a \"great being.\"",
+    "gm": "Why are they called a \"great being\"? Because they become the supreme among great multitudes of sentient beings, and sever the great views of the realms of sentient beings; Therefore, they are proclaimed to be a \"great being.\"",
+    "sa": "महसत्त्व सोऽथ केनोच्यति कारणेन महताय अत्र अयु भेष्यति सत्त्वराशेः । दृष्टीगतां महति छिन्दति सत्त्वधातोः महसत्त्व तेन हि प्रवुच्यति कारणेन ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T265",
+  "bo": "རང་རྒྱལ་ས",
+  "count": 1,
+  "occurrences": [
+   "2-2"
+  ],
+  "dm": {
+   "stage of a pratyekabuddha": 1
+  },
+  "gm": {
+   "level of a pratyekabuddha": 1
+  },
+  "examples": [
+   {
+    "id": "2-2",
+    "bo": "རྟག་དང་མི་རྟག་བདེ་དང་སྡུག་བསྔལ་སྡུག་མི་སྡུག། ། བདག་དང་བདག་མེད་དེ་བཞིན་ཉིད་དང་དེ་བཞིན་སྟོང་། ། འབྲས་བུ་ཐོབ་དང་དགྲ་བཅོམ་ས་ལ་མི་གནས་ཤིང་། ། རང་རྒྱལ་ས་དང་དེ་བཞིན་སངས་རྒྱས་སར་མི་གནས། །",
+    "dm": "Permanent and impermanent, happiness and suffering, pleasant and unpleasant, Self and selflessness, suchness and likewise emptiness; One does not dwell in the attainment of the fruit or the stage of an arhat, Nor does one dwell in the stage of a pratyekabuddha or likewise the stage of a buddha.",
+    "gm": "Permanent and impermanent, happiness and suffering, attractive and unattractive, Self and selflessness, suchness and likewise emptiness, Attaining the fruit, and not abiding in the level of an arhat, Not abiding in the level of a pratyekabuddha, and likewise not in the level of a buddha.",
+    "sa": "नित्यम् अनित्यसुखदुःखशुभाशुभं ति आत्मन्य् अनात्मि तथता तथ शून्यतायाम् । फलप्राप्तिताय अथितो अरहन्तभूमौ प्रत्येकभूमिस्थितो तथ बुद्धभूमौ ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T278",
+  "bo": "སྐྱེས་མཆོག",
+  "count": 1,
+  "occurrences": [
+   "2-13"
+  ],
+  "dm": {
+   "Supreme Being": 1
+  },
+  "gm": {
+   "supreme being": 1
+  },
+  "examples": [
+   {
+    "id": "2-13",
+    "bo": "གང་ཚེ་ང་ནི་ཕ་རོལ་ཕྱིན་པ་མཆོག་འདི་དང་། ། འཐུན་པར་སྨྲ་གྱུར་དེ་ཚེ་སྔོན་གྱི་སྐྱེས་མཆོག་གིས། ། མ་འོངས་པ་ཡི་དུས་ན་སངས་རྒྱས་འགྱུར་རོ་ཞེས། ། ང་ལུང་བསྟན་པར་གྱུར་ཅེས་རྒྱལ་བ་དེ་སྐད་གསུང་། །",
+    "dm": "When I spoke in accordance with this supreme perfection, At that time, the Supreme Being of the past prophesied, Saying, \"In a future time, you will become a Buddha,\" Thus the Conqueror spoke, saying that I had been prophesied.",
+    "gm": "When I, with this supreme perfection of wisdom, Spoke in conformity, at that time the supreme being of the past, Saying, \"In a future time you will become a buddha\"— \"I was prophesied,\" thus the Victorious One declared.",
+    "sa": "एवं जिनो भणति अप्रतिकूलभाणी यद् अहं इमाय वरपारमिताय आसी । तद व्याकृतोऽहु परापुरुषोत्तमेन बुद्धो भविष्यसि अनागत-अध्वनस्मिन् ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T291",
+  "bo": "གང་གā",
+  "count": 1,
+  "occurrences": [
+   "2-22"
+  ],
+  "dm": {
+   "Ganges": 1
+  },
+  "gm": {
+   "Ganges": 1
+  },
+  "examples": [
+   {
+    "id": "2-22",
+    "bo": "རྒྱལ་བས་བརྒྱ་བྱིན་དྲི་བ་ཡོངས་དྲིས་ལན་གསོལ་པ། ། གལ་ཏེ་གང་གāའི་བྱེ་སྙེད་སངས་རྒྱས་ཞིང་གྱུར་ལ། ། དེ་ཀུན་རྒྱལ་བའི་རིང་བསྲེལ་བྱུང་བུར་བལྟམས་གྱུར་ཀྱང་། ། བདག་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་འདི་ཉིད་ལེན། །",
+    "dm": "The Victor, having been asked a question by Śakra, replied: If there were Buddha-fields as numerous as the sands of the Ganges, And all of them were filled to the brim with the relics of the Victors, I would still take this very Perfection of Wisdom.",
+    "gm": "The Victor fully asked Śakra a question, and he replied: \"Even if there were buddha-fields as numerous as the sands of the Ganges, And all of them were filled to the brim with the relics of the Victors, I would take this very perfection of wisdom.",
+    "sa": "शक्रो जिनेन परिपृच्छितु प्रश्नमाहु सचि गङ्गवालिकसमा सिय बुद्धक्षेत्राः । जिनधातु सर्वि परिपूरित चूडिबद्धा इमम् एव प्रज्ञवरपारमिताहु गृह्णे ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T304",
+  "bo": "ཀླུ",
+  "count": 1,
+  "occurrences": [
+   "2-35"
+  ],
+  "dm": {
+   "Nagas": 1
+  },
+  "gm": {
+   "nāga": 1
+  },
+  "examples": [
+   {
+    "id": "2-35",
+    "bo": "དཔེར་ན་མ་དྲོས་མཚོ་ལ་ཀླུ་བདག་མེད་གྱུར་ན། ། འཛམ་བུའི་གླིང་འདིར་ཆུ་ཀླུང་འབབ་པར་ག་ལ་འགྱུར། ། ཆུ་ཀླུང་མེད་ན་མེ་ཏོག་འབྲས་བུ་འབྱུང་མི་འགྱུར། ། རྒྱ་མཚོ་ལ་ཡང་རིན་ཆེན་གཟུགས་མང་མེད་པར་འགྱུར། །",
+    "dm": "For example, if the Lord of Nagas were not present in Lake Anavatapta, How could the rivers ever flow here in Jambudvīpa? If there were no rivers, flowers and fruits would not grow, And the great ocean, too, would lack its many precious forms.",
+    "gm": "For example, if there were no nāga lord at Lake Anavatapta, How could rivers flow here in Jambudvīpa? If there were no rivers, flowers and fruits would not emerge, And the ocean would also not have many forms of jewels.",
+    "sa": "यथ नोपतप्त असतो भुजगाधिपस्य कुत नद्यप्रस्रवु भवेदिह जम्बुद्वीपे । असता नदीय फलपुष्प न संभवेयुः न च सागराण रतना भवि नैकरूपाः ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T317",
+  "bo": "དཀར་པོའི་ཆོས",
+  "count": 1,
+  "occurrences": [
+   "2-44"
+  ],
+  "dm": {
+   "virtuous qualities": 1
+  },
+  "gm": {
+   "white dharmas": 1
+  },
+  "examples": [
+   {
+    "id": "2-44",
+    "bo": "གལ་ཏེ་མཚན་མར་བྱེད་ན་དེ་ནི་བསྔོ་མ་ཡིན། ། ཇི་སྟེ་མཚན་མ་མེད་ན་བྱང་ཆུབ་བསྔོ་བ་ཡིན། ། ཇི་ལྟར་དུག་དང་འདྲེས་པའི་ཁ་ཟས་བཟང་ཟ་བ། ། དཀར་པོའི་ཆོས་ལ་དམིགས་པའང་དེ་འདྲར་རྒྱལ་བས་གསུངས། །",
+    "dm": "If one conceives of it in terms of signs, that is not a dedication. If there are no signs, that is the dedication to enlightenment. Just as eating fine food that has been mixed with poison, The Victor has taught that focusing on virtuous qualities is the same.",
+    "gm": "If one acts upon signs, that is not dedication; But if there are no signs, it is dedication to awakening. Just like eating excellent food mixed with poison, The Victor has declared that apprehending white dharmas is like that.",
+    "sa": "सचि सो निमित्त कुरुते न च मानयाति अथ आनिमित्त परिणामित भोन्ति बोधौ । विषसृष्ट भोजनु यथैव क्रियाप्रणीतो तथ शुक्लधर्मौपलम्भ जिनेन उक्तो ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T330",
+  "bo": "མིང་དང་གཟུགས",
+  "count": 1,
+  "occurrences": [
+   "3-2"
+  ],
+  "dm": {
+   "name and form": 1
+  },
+  "gm": {
+   "name and form": 1
+  },
+  "examples": [
+   {
+    "id": "3-2",
+    "bo": "འགྲོ་བ་འདི་དག་མིང་དང་གཟུགས་ཀྱི་འདམ་ལ་ཆགས། ། རླུང་གི་འཁོར་ལོ་ལྟ་བུའི་འཁོར་བའི་འཁོར་ལོར་འཁྱམ། ། འགྲོ་བ་འཁྲུལ་པ་རི་དགས་རྒྱར་ཆུད་འདྲར་ཤེས་ནས། ། ཤེས་རབ་ལྡན་པ་མཁའ་ལ་བྱ་བཞིན་རྣམ་པར་རྒྱུ། །",
+    "dm": "These beings are stuck in the mire of name and form; They wander in the wheel of cyclic existence, which is like a wheel driven by wind. Knowing that deluded beings are like deer caught in a snare, Those endowed with wisdom move through the sky like birds.",
+    "gm": "These wandering beings are attached to the mud of name and form; They wander in the wheel of samsara like a wheel of wind. Knowing that deluded beings are like deer caught in a snare, The wise one roams like a bird in the sky.",
+    "sa": "नामेव रूपि जगती अयु पङ्कसक्ता संसारचक्रि भ्रमतेऽनिलचक्रतुल्ये । जानित्व भ्रान्तु जगती मृगवागुरेव आकाश पक्षिसदृशा विचरन्ति प्रज्ञाः ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T343",
+  "bo": "རིགས",
+  "count": 1,
+  "occurrences": [
+   "4-13"
+  ],
+  "dm": {
+   "family": 1
+  },
+  "gm": {
+   "lineage": 1
+  },
+  "examples": [
+   {
+    "id": "4-13",
+    "bo": "འདི་བཤད་ཚེ་ན་ཁ་ཅིག་སོམ་ཉི་ཟ་འགྱུར་ཏེ། ། འདྲེན་པས་འདིར་ནི་བདག་གི་མིང་ཡང་ཡོངས་མ་བརྗོད། ། རིགས་དང་ས་དང་རུས་ཀྱང་ཡོངས་སུ་མ་བརྗོད་ཅེས། ། འདི་ནི་ཉམ་པར་མི་འགྱུར་སྤོང་འགྱུར་བདུད་ཀྱི་ལས། །",
+    "dm": "When this is explained, some will harbor doubts, thinking: \"The Leader has not even mentioned my name here; He has not mentioned my family, my level, or my lineage.\" This is the work of Māra, causing them to reject it rather than listen.",
+    "gm": "When this is taught, some will harbor doubts, thinking, 'The Leader has not fully pronounced my name here, Nor fully pronounced my lineage, birthplace, or clan.' They will not listen and will abandon it; this is the work of Māra.",
+    "sa": "काङ्क्षा च केषचि भविष्यति भाषमाणे न ममात्र नाम परिकीर्तितु नायकेन । न च जाति भूमि परिकीर्तितु नापि गोत्रं न च सो श्रुणिष्यति क्षिपिष्यति मारकर्म ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T356",
+  "bo": "དངོས་བྲལ",
+  "count": 1,
+  "occurrences": [
+   "4-23"
+  ],
+  "dm": {
+   "devoid of entities": 1
+  },
+  "gm": {
+   "devoid of entities": 1
+  },
+  "examples": [
+   {
+    "id": "4-23",
+    "bo": "འཇིག་རྟེན་དེ་བཞིན་ཉིད་དང་དགྲ་བཅོམ་དེ་བཞིན་ཉིད། ། རང་རྒྱལ་དེ་བཞིན་ཉིད་དང་རྒྱལ་སྲས་དེ་བཞིན་ཉིད། ། གཅིག་པ་ཉིད་དེ་དངོས་བྲལ་གཞན་མིན་དེ་བཞིན་ཉིད། ། ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་དེ་བཞིན་གཤེགས་པས་མཁྱེན། །",
+    "dm": "The suchness of the world and the suchness of the Arhats, The suchness of the Pratyekabuddhas and the suchness of the Bodhisattvas— These are a single suchness, devoid of entities, a non-dual suchness; The Tathāgata knows this Perfection of Wisdom.",
+    "gm": "The suchness of the world and the suchness of the arhats, The suchness of the pratyekabuddhas and the suchness of the sons of the Victors: Are oneness, devoid of entities, not other; they are suchness; The perfection of wisdom is known by the Tathāgata.",
+    "sa": "लोकस्य या तथत या तथतार्हतानां । प्रत्येकबुद्धतथता तथता जिनानाम् । एकैव भावविगता तथता अनन्या प्रज्ञाय पारमित बुद्ध तथागतेन ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T369",
+  "bo": "རྒྱལ་པ",
+  "count": 1,
+  "occurrences": [
+   "4-32"
+  ],
+  "dm": {
+   "Victors": 1
+  },
+  "gm": {
+   "Victors": 1
+  },
+  "examples": [
+   {
+    "id": "4-32",
+    "bo": "གང་ལ་བདེ་གཤེགས་བྱང་ཆུབ་སེམས་དཔའ་དད་བརྟན་ཡོད། ། ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་མཆོག་ལ་བསམ་སྦྱོར་བ། ། ཉན་ཐོས་རང་རྒྱལ་ས་གཉིས་ཤིན་ཏུ་འདས་བྱས་ནས། ། ཟིལ་གྱིས་མི་ནོན་རྒྱལ་པའི་བྱང་ཆུབ་མྱུར་དུ་ཐོབ། །",
+    "dm": "Those who have firm faith in the Sugatas and bodhisattvas, And whose intentions are focused on the supreme perfection of wisdom, Having completely transcended the two levels of the śrāvakas and pratyekabuddhas, May they swiftly attain the unassailable awakening of the Victors.",
+    "gm": "Whichever bodhisattva has firm faith in the Sugata, And applies their mind to the supreme perfection of wisdom, Having entirely transcended the two grounds of the śrāvakas and pratyekabuddhas, Will quickly attain the unconquerable enlightenment of the Victors.",
+    "sa": "यस्यामि श्रद्ध सुगते दृढ बोधिसत्त्वो वरप्रज्ञपारमित आशयसंप्रयोगो । अतिक्रम्य भूमिद्वय श्रावकप्रत्ययानां लघु प्राप्स्यते अनभिभू(तु) जिनान बोधिम् ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T382",
+  "bo": "ཆོས་མཆོག",
+  "count": 1,
+  "occurrences": [
+   "4-45"
+  ],
+  "dm": {
+   "supreme Dharma": 1
+  },
+  "gm": {
+   "supreme dharma": 1
+  },
+  "examples": [
+   {
+    "id": "4-45",
+    "bo": "དེ་ལྟར་སྤྱོད་པ་ལེགས་མཚོ་སྨྲ་བའི་ཟླ་བ་རྣམས། ། འགྲོ་བའི་སྐྱབས་དང་དཔུང་གཉེན་དང་ནི་གནས་ཡིན་ཏེ། ། རྟེན་དང་བློ་དང་གླིང་དང་ཡོངས་འདྲེན་དོན་འདོད་པ། ། གསལ་བྱེད་སྒྲོན་མ་ཆོས་མཆོག་སྨྲ་བ་མི་འཁྲུགས་ཡིན། །",
+    "dm": "Those who practice in that way are the moons of speakers who live an excellent life; They are the refuge, the protector, and the dwelling place of beings. They are the support, the intellect, the island, and the guide for those seeking benefit, The illuminator, the lamp, the unshakeable speaker of the supreme Dharma.",
+    "gm": "Practicing thus, those oceans of goodness, moons of speech, Are the refuge, the defender, and the resting place of beings; They are the support, the mind, the island, and the supreme guides seeking their welfare; They are illuminating lamps, speakers of the supreme dharma, and are unperturbed.",
+    "sa": "एवं चरन्त गुणसागर वादिचन्द्राः त्राणा भवन्ति जगती शरणा च लेना । गति बुद्धि द्वीप परिणायक अर्थकामाः प्रद्योत उल्क वरधर्मकथी अक्षोभ्याः ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T395",
+  "bo": "གནས་བརྟན",
+  "count": 1,
+  "occurrences": [
+   "4-56"
+  ],
+  "dm": {
+   "elder": 1
+  },
+  "gm": {
+   "elder": 1
+  },
+  "examples": [
+   {
+    "id": "4-56",
+    "bo": "འཇིག་རྟེན་མགོན་ལ་གནས་བརྟན་རབ་འབྱོར་ཡོངས་ཞུས་པ། ། ཡོན་ཏན་རྒྱ་མཚོ་ཉོན་མོངས་མ་མཆིས་རྟགས་བསྟན་གསོལ། ། མཐུ་ཆེ་བ་དག་ཇི་ལྟར་སླར་ལྡོག་མི་འགྱུར་བ། ། དེ་ལྟར་ཡོན་ཏན་ཕྱོགས་ཙམ་རྒྱལ་བས་ལུང་བསྟན་གསོལ། །",
+    "dm": "Thus did the elder Subhūti request of the Protector of the World: \"Please explain the signs of the ocean of qualities free from afflictions, And how those of great power do not turn back; O Victor, please grant a prophecy regarding even a mere portion of such qualities.\"",
+    "gm": "The elder Subhūti thoroughly requested the Protector of the World: \"Ocean of Qualities, please teach the signs of those free from afflictions. How those of great power will not turn back again— Thus, may the Victor explain just a fraction of their qualities.\"",
+    "sa": "स्थविरो सुभूति परिपृच्छति लोकनाथं अरणाय लिङ्ग भणही गुणसागराणाम् । अविवर्तिया यथ भवन्ति महानुभावा तां व्याकुरुष्व जिनगुणान प्रदेशमात्रम् ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T408",
+  "bo": "དོན་དམ",
+  "count": 1,
+  "occurrences": [
+   "4-64"
+  ],
+  "dm": {
+   "ultimate": 1
+  },
+  "gm": {
+   "ultimate": 1
+  },
+  "examples": [
+   {
+    "id": "4-64",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའ་གང་ཞིག་དེ་ལྟར་ཟབ་གྱུར་ཅིང་། ། ཐེག་པ་དོན་དམ་ཆགས་མེད་གང་ལ་ཕུང་པོ་དང་། ། ཁམས་དང་སྐྱེ་མཆེད་ཡོད་མིན་ཆོས་འདི་རྟོགས་པ་དེའི། ། བསོད་ནམས་ཡང་དག་གྲུབ་པ་དེ་ལས་ཅི་ཞིག་ཡོད། །",
+    "dm": "Any bodhisattva who has become profound in that way, And who realizes this Dharma—the ultimate, unattached vehicle in which aggregates, Elements, and sense sources do not exist— What could there be that is a more perfect accomplishment of merit than that?",
+    "gm": "For any bodhisattva who realizes this profound Vehicle, ultimate and unattached, wherein the aggregates, Elements, and sense-sources do not exist— What perfectly accomplished merit is there beyond that?",
+    "sa": "यो बोधिसत्त्व इमु बुध्यति एव धर्मां गम्भीरयानपरमार्थनिरुपलेपान् । यस्मिन् न स्कन्ध न पि आयतनं न धातु किं वा स्वपुण्यसमुदागमु किंचि तस्य ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T421",
+  "bo": "ངན་སོང",
+  "count": 1,
+  "occurrences": [
+   "5-2"
+  ],
+  "dm": {
+   "lower realms": 1
+  },
+  "gm": {
+   "lower realms": 1
+  },
+  "examples": [
+   {
+    "id": "5-2",
+    "bo": "རྨི་ལམ་ན་ནི་སེམས་ཅན་ངན་སོང་གསུམ་གནས་མཐོང་། ། སྐད་ཅིག་དེ་ལ་ངན་སོང་རྒྱུན་གཅད་སྨོན་ལམ་འདེབས། ། བདེན་པའི་བྱིན་གྱིས་བརླབས་ཀྱིས་མེ་ཡི་ཕུང་པོ་ཞི། ། དེ་ནི་མི་ལྡོག་ལུང་བསྟན་ཡིན་པར་རིག་པར་བྱ། །",
+    "dm": "If, in a dream, one sees sentient beings dwelling in the three lower realms, And in that very moment makes a prayer to cut the continuum of the lower realms, And pacifies a mass of fire through the power of the blessing of truth— One should understand that this is the prophecy of non-retrogression.",
+    "gm": "In a dream, seeing sentient beings abiding in the three lower realms, In that instant they make aspirations to cut off the stream of the lower realms. Through the blessing of truth, the masses of fire are pacified; They should be known as irreversible and prophesied.",
+    "sa": "त्रि-अपायप्राप्तु सुपिनस्मि विदित्व सत्त्वान् प्रणिधेति तत्क्षण अपाय उच्छोषयेयम् । सत्याधिष्ठानि प्रशमेति स चाग्निस्कन्धम् अविवर्तियेति अयु व्याकृतु वेदितव्यो ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T434",
+  "bo": "དགེ་བའི་བཤེས་གཉེན",
+  "count": 1,
+  "occurrences": [
+   "5-12"
+  ],
+  "dm": {
+   "spiritual friend": 1
+  },
+  "gm": {
+   "spiritual friends": 1
+  },
+  "examples": [
+   {
+    "id": "5-12",
+    "bo": "དེ་ལྟ་བས་ན་བྱང་ཆུབ་དམ་པ་ཚོལ་བ་ཡིས། ། བསམ་པ་དྲག་ལྡན་མཁས་པས་ང་རྒྱལ་ངེས་བཅོམ་སྟེ། ། ནད་པའི་ཚོགས་ཀྱིས་གསོ་ཕྱིར་སྨན་པ་སྟེན་པ་ལྟར། ། གཡེལ་པ་མེད་པར་དགེ་བའི་བཤེས་གཉེན་བསྟེན་པར་བྱ། །",
+    "dm": "Therefore, those who seek supreme enlightenment, Being wise and possessing intense resolve, should utterly conquer pride; Just as a multitude of the sick rely on a physician for healing, One should rely on a spiritual friend without any distraction.",
+    "gm": "Therefore, one who seeks holy awakening, A wise one possessing strong intention, having definitely destroyed pride, Just as a multitude of sick people rely on a doctor to be cured, Should rely on spiritual friends without wavering.",
+    "sa": "तस्मा हु मानु निहनित्वन पण्डितेन गुरुआशयेन वरबोधि गवेषमाणः । वैद्यो व आतुर स्वरोगचिकित्सनार्थं कल्याणमित्र भजितव्य अतन्द्रितेन ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T447",
+  "bo": "བྱང་ཆུབ་རྒྱུ",
+  "count": 1,
+  "occurrences": [
+   "5-19"
+  ],
+  "dm": {
+   "cause for awakening": 1
+  },
+  "gm": {
+   "cause for awakening": 1
+  },
+  "examples": [
+   {
+    "id": "5-19",
+    "bo": "འཛམ་བུའི་གླིང་ན་སེམས་ཅན་ཇི་སྙེད་མ་ལུས་པ། ། དེ་དག་ཐམས་ཅད་བྱང་ཆུབ་མཆོག་ཏུ་སེམས་བསྐྱེད་ནས། ། ལོ་སྟོང་བྱེ་བ་མང་པོར་སྦྱིན་པ་བྱིན་བྱས་ལ། ། ཀུན་ཀྱང་འགྲོ་བའི་དོན་དུ་བྱང་ཆུབ་རྒྱུར་བསྔོ་ཡང་། །",
+    "dm": "However many sentient beings there are throughout Jambudvīpa without exception, If all of them were to generate the mind of supreme enlightenment, And were to practice generosity for many tens of millions of millennia, And were to dedicate it all as a cause for awakening for the sake of all beings,",
+    "gm": "However many sentient beings there are in Jambudvīpa without exception, If all of them, having generated the mind toward supreme awakening, Were to give gifts for many tens of millions of thousands of years, And dedicate it all as a cause for awakening for the benefit of beings;",
+    "sa": "यावन्त सत्त्व निखिले इह जम्बुद्विपे ते सर्वि बोधिवरचित्त उपादयित्वा । दानं ददित्व बहुवर्षसहस्रकोटीः सर्वं च नामयि जगार्थनिदान बोधौ ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T460",
+  "bo": "ཤ་ཟ",
+  "count": 1,
+  "occurrences": [
+   "5-32"
+  ],
+  "dm": {
+   "flesh-eating demons": 1
+  },
+  "gm": {
+   "flesh-eating demons": 1
+  },
+  "examples": [
+   {
+    "id": "5-32",
+    "bo": "དེ་གཉིས་རིང་དུ་འགྱུར་ཞིང་ཤ་ཟ་འདྲ་བར་འགྱུར། ། གཉི་ག་རང་གི་དམ་བཅས་ཉམས་བར་བྱེད་པར་འགྱུར། ། སྡང་ཞིང་བཟོད་དང་བྲལ་ལ་བྱང་ཆུབ་ག་ལ་ཡོད། ། དེ་ཚེ་བདུད་རྣམས་ཕྱོགས་དང་བཅས་ཏེ་དགའ་བར་འགྱུར། །",
+    "dm": "Both are distant and will become like flesh-eating demons; Both will cause their own commitments to degenerate. How can there be awakening for those who are hostile and devoid of patience? At that time, the Māras and their factions will be delighted.",
+    "gm": "\"Those two will become distant, and they will become like flesh-eating demons; Both will cause their own promises to degenerate. How can there be awakening for those who are hostile and devoid of patience?\" At that time, the Māras along with their factions will become joyful.",
+    "sa": "उभि एति दूरि भविष्यन्ति पिशाचतुल्या उभि एति आत्म करिष्यन्ति प्रतिज्ञहानिम् । दुष्टान क्षान्तिविकलान कुतोऽस्ति बोधि तद मारु तुष्टु भवती नमुचीसपक्षो ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T473",
+  "bo": "འཇིག་ཚོགས་ལྟ་བ",
+  "count": 1,
+  "occurrences": [
+   "5-38"
+  ],
+  "dm": {
+   "view of the transitory collection": 1
+  },
+  "gm": {
+   "view of the transitory collection": 1
+  },
+  "examples": [
+   {
+    "id": "5-38",
+    "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་ལ་བསླབ་པར་བྱས་རྣམས་ཀྱི། ། ཕ་རོལ་ཕྱིན་པ་ཐམས་ཅད་འདིར་ནི་འདུས་པར་འགྱུར། ། འཇིག་ཚོགས་ལྟ་བར་ལྟ་བ་དྲུག་ཅུ་གཉིས་འདུས་ལྟར། ། དེ་བཞིན་ཕ་རོལ་ཕྱིན་པ་འདི་དག་འདུས་པར་གསུངས། །",
+    "dm": "For those who have trained in the perfection of wisdom, All the perfections are gathered within this. Just as the sixty-two views are contained within the view of the transitory collection, So too, it is taught that all these perfections are contained within this one.",
+    "gm": "For those who have trained in the perfection of wisdom, All perfections come to be included herein. Just as the sixty-two views are included within the view of the transitory collection, Likewise, these perfections are taught to be included (herein).",
+    "sa": "प्रज्ञाय पारमित शिक्षित संस्कृतानां सर्वेष पारमित भोन्तिह संगृहीताः । सत्कायदृष्टि यथ षष्टि दुवे च दृष्टी अन्तर्गतास्तथमि पारमिता भवन्ति ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T486",
+  "bo": "སངས་རྒྱས་སྤྲུལ་པ",
+  "count": 1,
+  "occurrences": [
+   "5-47"
+  ],
+  "dm": {
+   "phantom buddha": 1
+  },
+  "gm": {
+   "emanation of a Buddha": 1
+  },
+  "examples": [
+   {
+    "id": "5-47",
+    "bo": "དཔེར་ན་སངས་རྒྱས་སྤྲུལ་པ་སངས་རྒྱས་མཛད་པ་བྱེད། ། བྱེད་པ་དེ་ལ་དྲེགས་པ་ཅུང་ཟད་སྐྱེ་མི་འགྱུར། ། དེ་བཞིན་ཤེས་རབ་སྤྱོད་མཁས་བྱང་ཆུབ་སེམས་དཔའ་ཡང་། ། སྤྲུལ་པ་སྒྱུ་མ་བཞིན་དུ་བྱ་བ་ཐམས་ཅད་སྟོན། །",
+    "dm": "For example, a phantom buddha performs the deeds of a buddha, Yet not even a trace of pride arises in that performance. Likewise, the bodhisattva who is skilled in the practice of wisdom Displays all activities just like a magical emanation.",
+    "gm": "For example, an emanation of a Buddha performs the deeds of a Buddha, And in doing so, not even a little pride arises; Likewise, the wise bodhisattvas practicing wisdom Demonstrate all activities like an emanation or an illusion.",
+    "sa": "यथ बुद्ध निर्मित करोति च बुद्धकार्यं न च तस्युपद्यति मदो करमाणु किंचित् । एमेव प्रज्ञचरितो विदु बोधिसत्त्वो दर्शेति सर्व क्रिय निर्मितमायतुल्यम् ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T499",
+  "bo": "ཆོས་ཀྱི་སྦྱིན་པ",
+  "count": 1,
+  "occurrences": [
+   "5-57"
+  ],
+  "dm": {
+   "gift of Dharma": 1
+  },
+  "gm": {
+   "gift of Dharma": 1
+  },
+  "examples": [
+   {
+    "id": "5-57",
+    "bo": "སེམས་ཅན་ཀུན་གྱི་ཡོན་ཏན་མཆོག་ཏུ་འགྲོ་བ་དང་། ། སངས་རྒྱས་ཡེ་ཤེས་མཆོག་ཏུ་རྨད་བྱུང་མཆོག་རེག་དང་། ། ཆོས་ཀྱི་སྦྱིན་པ་རབ་མཆོག་དམ་པ་སྦྱིན་འདོད་གང་། ། ཕན་མཛད་རྣམས་ཀྱི་གནས་མཆོག་འདི་ལ་བསྟེན་པར་གྱིས། །",
+    "dm": "Those who wish to attain the supreme qualities of all beings, To touch the most marvelous and supreme primordial wisdom of the Buddha, And to bestow the most excellent and holy gift of Dharma, Should rely upon this supreme state of the benefactors.",
+    "gm": "To go to the supreme qualities of all sentient beings, And to touch the supremely marvelous, supreme Buddha-wisdom, Whosoever desires to give the supreme, holy gift of Dharma, Rely on this supreme dwelling of those who bring benefit!",
+    "sa": "यो सर्वसत्त्वगुण-अग्रतु गन्तुकामो अग्रं स्पृशेय परमाद्भुत बुद्धज्ञानम् । अग्रं ददेय वर उत्तमधर्मदानम् इमु अग्रु सेवतु विहारु हितंकराणाम् ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T512",
+  "bo": "ལྷ་ཡི་གྲོང་ཁྱེར",
+  "count": 1,
+  "occurrences": [
+   "5-68"
+  ],
+  "dm": {
+   "city of the gods": 1
+  },
+  "gm": {
+   "city of the gods": 1
+  },
+  "examples": [
+   {
+    "id": "5-68",
+    "bo": "དཔེར་ན་འཛམ་གླིང་མི་ཞིག་སྔོན་ཆད་ལྷ་ཡུལ་གྱི། ། ལྷ་ཡི་གྲོང་ཁྱེར་མཆོག་ཏུ་མ་ཕྱིན་ཕྱིས་སོང་སྟེ། ། དེ་ནི་ཡོངས་སུ་བཟུང་བའི་ཡུལ་དེ་རྣམས་མཐོང་ནས། ། ཕྱིར་འདིར་འོང་བར་གྱུར་ན་ཆགས་པར་མི་བྱེད་ལྟར། །",
+    "dm": "For example, it is like a person of Jambudvīpa who had never before Reached the supreme city of the gods, but later goes there; Having seen those lands that are fully possessed there, Just as one who returns here does not become attached,",
+    "gm": "For example, if a man of Jambudvīpa who previously Had not gone to the supreme city of the gods of the divine realm were to go later, Having seen those completely possessed objects, When he returns here, he does not become attached to them;",
+    "sa": "यथ जम्बुद्वीपक मनुष्य अलब्धपूर्वा दिवि देवौत्तमपुरा अनुप्रापुणेया । पश्यित्व ते विषय तत्र परिगृहीता पुनरागमेय न च निश्रयु तत्र कुर्यात् ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T525",
+  "bo": "དྲི",
+  "count": 1,
+  "occurrences": [
+   "5-74"
+  ],
+  "dm": {
+   "smells": 1
+  },
+  "gm": {
+   "smells": 1
+  },
+  "examples": [
+   {
+    "id": "5-74",
+    "bo": "གཞན་ཡང་གཟུགས་དང་སྒྲ་དང་དེ་བཞིན་དྲི་དང་རོ། ། རེག་དང་འདོད་ཡོན་ལྔ་ལ་མངོན་པར་བརྩོན་གྱུར་ཀྱང་། ། དགྲ་བཅོམ་རང་རྒྱལ་ཐེག་བྲལ་བྱང་ཆུབ་སེམས་དགའ་ན། ། དཔའ་བོ་རྟག་ཏུ་མཉམ་གཞག་ཡིན་པར་ཤེས་པར་བྱ། །",
+    "dm": "Furthermore, even though they are intensely engaged with the five sensory qualities— Forms, sounds, smells, tastes, and textures— If they take joy in the Bodhicitta that is free from the vehicles of the Arhats and Pratyekabuddhas, Know that these heroes are always in meditative equipoise.",
+    "gm": "Moreover, forms and sounds, and likewise smells and tastes, Touches, and the five qualities of desire, even if they exert themselves in these, If they are free from the vehicles of the arhat and pratyekabuddha and delight in the mind of awakening, The hero should be known to be constantly in meditative equipoise.",
+    "sa": "किंचापि रूपम् अपि शब्द तथैव गन्धो रस स्पर्श कामगुण पञ्चभि युक्त भोगी । रहप्रत्ययान विगतोऽनन्तबोधिसत्त्वो सततं समाहितु प्रजानयितव्य शूरो ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T538",
+  "bo": "བརྩོན་འགྲུས་ཕ་རོལ་ཕྱེན",
+  "count": 1,
+  "occurrences": [
+   "5-85"
+  ],
+  "dm": {
+   "perfection of perseverance": 1
+  },
+  "gm": {
+   "perfection of diligence": 1
+  },
+  "examples": [
+   {
+    "id": "5-85",
+    "bo": "གང་ཚེ་ལུས་དང་སེམས་དང་སེམས་ཅན་འདུ་ཤེས་མེད། ། འདུ་ཤེས་རྣམ་པར་ལོག་ནས་གཉིས་སུ་མེད་ཆོས་སྤྱོད། ། འདི་ནི་བྱང་ཆུབ་ཞི་བ་མི་ཉམས་མཆོག་འདོད་པའི། ། བརྩོན་འགྲུས་ཕ་རོལ་ཕྱེན་ཅེས་ཕན་པ་མཛད་པས་གསུངས། །",
+    "dm": "When they have no perception of a body, a mind, or a sentient being, And having turned back from perceptions, they practice the non-dual Dharma— This is what the Benefactor called the perfection of perseverance For those who desire the supreme, undeterred, and peaceful awakening.",
+    "gm": "Whenever there is no perception of body, mind, and sentient beings, And having completely turned away from perception, one practices the non-dual dharma, For one who desires the supreme, unwaning, peaceful awakening, This was taught by the Benefactor to be the perfection of diligence.",
+    "sa": "यस्मिन् न कायु न पि चित्त न सत्त्वसंज्ञा संज्ञाविवर्ति स्थितु अद्वयधर्मचारी । अयु वीर्यपारमित उक्त हितंकरेण आकाङ्क्षमाणु शिवम् अच्युतम् अग्रबोधिम् ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T551",
+  "bo": "འཕགས་པའི་དགེ་འདུན",
+  "count": 1,
+  "occurrences": [
+   "5-96"
+  ],
+  "dm": {
+   "noble Sangha": 1
+  },
+  "gm": {
+   "noble Sangha": 1
+  },
+  "examples": [
+   {
+    "id": "5-96",
+    "bo": "གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་འདོད་ཡོན་ལྔ་སྤྱོད་ཀྱང་། ། སངས་རྒྱས་ཆོས་དང་འཕགས་པའི་དགེ་འདུན་སྐྱབས་སོང་སྟེ། ། སངས་རྒྱས་འགྲུབ་བྱ་སྙམ་དུ་ཀུན་མཁྱེན་ཡིད་བྱེད་ན། ། མཁས་པ་ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་གནས་རིག་པར་བྱ། །",
+    "dm": "Even if a bodhisattva indulges in the five objects of sensory desire, If they have gone for refuge to the Buddha, the Dharma, and the noble Sangha, And maintain the mental orientation toward omniscience, thinking, \"I must achieve buddhahood,\" The wise should understand that they abide in the perfection of ethical discipline.",
+    "gm": "Even if a bodhisattva enjoys the five sensory pleasures, If they have taken refuge in the Buddha, Dharma, and the noble Sangha, And direct their mind toward omniscience, thinking, \"I will accomplish buddhahood!\" The wise one should be known as abiding in the perfection of discipline.",
+    "sa": "यदि पञ्च कामगुण भुञ्जति बोधिसत्त्वो बुद्धं च धर्म शरणागतु आर्यसंघम् । सर्वज्ञता च मनसी भविष्यामि बुद्धो स्थितु शीलपारमित वेदयितव्य विज्ञो ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T564",
+  "bo": "ཡི་དགས",
+  "count": 1,
+  "occurrences": [
+   "5-103"
+  ],
+  "dm": {
+   "hungry ghosts": 1
+  },
+  "gm": {
+   "hungry ghosts": 1
+  },
+  "examples": [
+   {
+    "id": "5-103",
+    "bo": "བདག་ཏུ་འདུ་ཤེས་དངོས་ལ་བདག་གིར་འཛིན་པས་ཆག། ། བླུན་པོ་རྣམས་ལ་གཏོང་བའི་བློ་ལྟ་ག་ལ་ཡོད། ། སེར་སྣ་ཅན་ནི་ཡི་དགས་གནས་སུ་སྐྱེ་བར་འགྱུར། ། ཅི་སྟེ་མིར་སྐྱེས་ན་ཡང་དེ་ཚེ་དབུལ་པོར་འགྱུར། །",
+    "dm": "Those who grasp at the actual perception of a self and hold things as \"mine\" are attached; How could fools like these ever have the intention to give? Those who are stingy will be born in the realm of hungry ghosts; Even if they are born as humans, they will be destitute at that time.",
+    "gm": "Perceiving a self, one is attached to things through grasping them as \"mine\"; How could fools have the mind of generosity? Miserly ones will be born in the realm of hungry ghosts; Or even if they are born as humans, they will then be impoverished.",
+    "sa": "अहसंज्ञतस्तु ममता भवते च रागो कुतु त्यागबुद्धि भविष्यति सा मुहानाम् । मात्सर्य प्रेत भवते उपपद्ययाती अथवा मनुष्य तद भोति दरिद्ररूपो ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T577",
+  "bo": "སྦྱིན་པའི་ཕུང་པོ",
+  "count": 1,
+  "occurrences": [
+   "5-109"
+  ],
+  "dm": {
+   "heaps of generosity": 1
+  },
+  "gm": {
+   "heaps of giving": 1
+  },
+  "examples": [
+   {
+    "id": "5-109",
+    "bo": "ནོར་བུ་མཆིང་བུའི་ཕུང་པོ་ཆེན་པོར་གྱུར་པ་ཡང་། ། རིན་ཆེན་བཻḍūརྱ་གཅིག་དེ་ཀུན་ཟིལ་གྱིས་གནོན། ། དེ་བཞིན་འགྲོ་ཀུན་སྦྱིན་པའི་ཕུང་པོ་རྒྱ་ཆེན་ཀུན། ། རྗེས་སུ་ཡི་རང་བྱང་ཆུབ་སེམས་དཔས་ཟིལ་གྱིས་གནོན། །",
+    "dm": "Even a massive heap of ordinary glass trinkets Is outshone by a single precious lapis lazuli gem; Likewise, all the vast heaps of generosity of all beings Are outshone by a bodhisattva who rejoices.",
+    "gm": "Even a great heap of imitation glass jewels Is completely outshone by a single precious lapis lazuli; Likewise, all the vast heaps of giving of all beings Are outshone by the rejoicing bodhisattva.",
+    "sa": "काचस्य वा मणिन राशि सिया महन्तो वैडूर्यरत्न अभिभोति स सर्व एको । एमेव सर्वजगती पृथु दानस्कन्धो अभिभोति सर्वपरिणामकु बोधिसत्त्वो ॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T590",
+  "bo": "ཆོས་སྐུ",
+  "count": 1,
+  "occurrences": [
+   "8-0"
+  ],
+  "dm": {
+   "Dharmakāya": 1
+  },
+  "gm": {
+   "Dharmakāya": 1
+  },
+  "examples": [
+   {
+    "id": "8-0",
+    "bo": "ཆོས་སྐུ་བསྟན་པ།",
+    "dm": "Teaching of the Dharmakāya",
+    "gm": "Teaching on the Dharmakāya",
+    "sa": ""
+   }
+  ]
+ }
+]

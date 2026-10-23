@@ -1,0 +1,129 @@
+{
+ "2-30": {
+  "translation": "Where form is not, feeling is not, and perception is not apprehended,\nConsciousness is not, and volition is not apprehended,\nAnd all phenomena are fully known as unborn and empty—\nThis is the practice of the supreme perfection of wisdom.",
+  "issues": [
+   {
+    "type": "doctrinal",
+    "severity": "major",
+    "span": "Where form is not, feeling is not",
+    "evidence": "གཟུགས་མིན་ཚོར་མིན་ parallels མི་དམིགས་ and is explained as non-apprehension / non-clinging, not as non-existence: Mipham 2-30 གཟུགས་སུ་མངོན་པར་ཞེན་པ་མིན་པ ... ཚོར་བར་མིན་; Khenrab 2-30 གཟུགས་སུ་བདེན་པར་མེད་ན་མེད་པར་ཞེན་པ་མིན་པ (one does not cling even to its non-existence); Skt na rūpa ... upalabdhiḥ (nothing apprehended). The English 'form is not, feeling is not' asserts that form and feeling do not exist, a nihilist reading the commentaries explicitly exclude.",
+    "fix": "Where one does not take anything as form or feeling, and perception is not apprehended"
+   }
+  ]
+ },
+ "2-34": {
+  "translation": "When the sun's disk radiates its web of light,\nAt that time sentient beings exert themselves in their work; likewise,\nWhen the mind of awakening emerges in the world for the sake of the knowledge of the wise,\nThrough primordial wisdom sentient beings become endowed with qualities.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "for the sake of the knowledge of the wise",
+    "evidence": "མཁས་པ་ཤེས་ཕྱིར : the wise (མཁས་པ) are the agents who generate the mind of awakening in order to attain knowledge. Mipham 2-34: མཁས་པ་དག་གིས་...ཡེ་ཤེས་ཐོབ་པའི་ཕྱིར་འཇིག་རྟེན་དུ་...སེམས་བསྐྱེད་པ་བྱུང་ན; Khenrab 2-34: མཁས་པ་བདག་གིས་...ཡེ་ཤེས་ཐོབ་པའི་ཕྱིར་...བྱང་ཆུབ་ཀྱི་སེམས་...བསྐྱེད་པ་བྱུང་ན. The English turns the wise into possessors of the knowledge and drops that the wise generate the mind in order to know/attain omniscient wisdom.",
+    "fix": "When the wise give rise in the world to the mind of awakening in order to know (to attain primordial wisdom)"
+   }
+  ]
+ },
+ "2-39": {
+  "translation": "Whatever tens of millions of hundreds of billions of Buddhas of the past,\nAnd those who resided in infinite many thousands of tens of millions of fields,\nAnd whatever Protectors of the World have passed into nirvāṇa,\nWho taught the jewel Dharma in order to exhaust suffering—",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "those who resided",
+    "evidence": "གང་བཞུགས་ is present: Buddhas who currently abide in the fields. Mipham 2-39 says of these ད་ལྟར་འཚོ་ཞིང་གཞེས་ཏེ ... ཆོས་སྟོན་པ; Khenrab 2-39 ད་ལྟར་འཚོ་ཞིང་བཞེས་...བཞུགས་པ; Skt tiṣṭhanti. The past tense 'resided' merges them with the past Buddhas of line 1.",
+    "fix": "those who abide (dwell)"
+   }
+  ]
+ },
+ "4-16": {
+  "translation": "Desiring honor and desiring gain,\nWith a mind accompanied by views, they become intimate with households;\nHaving forsaken the Dharma, they will engage in non-Dharma activities;\nHaving discarded the path, going on a wrong path—this is the work of Māra.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "With a mind accompanied by views",
+    "evidence": "ལྟ་དང་བཅས་པའི་སེམས here means a mind with longing to look at (external objects), not doctrinal \"views\". Mipham (bo-mipham 4-16): \"ཕྱི་རོལ་ཡུལ་ལ་ལྟ་བར་འདོད་པ་དང་བཅས་པའི་སེམས\"; Khenrab (bo-khenrab 4-16): \"གཟུགས་དང་ཡུལ་གྱི་བཀོད་པ་སྣ་ཚོགས་ལ་ལྟ་བར་འདོད་པ་དང་བཅས་པའི་སེམས\". Sanskrit \"sāpekṣacitta\" (mind with longing/expectation). \"Views\" suggests wrong views (a different doctrinal category).",
+    "fix": "With a mind that longs to look at external objects (a mind full of longing)"
+   }
+  ]
+ },
+ "4-65": {
+  "translation": "For example, a man who engages in the phenomena of desire,\nHaving made an appointment with a woman, failing to meet her—\nHowever many conceptual thoughts his mind engages in for a single day,\nFor that many eons, the bodhisattva will achieve attainment.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "major",
+    "span": "For that many eons, the bodhisattva will achieve attainment.",
+    "evidence": "Tibetan 'དེ་སྙེད་བསྐལ་པར་བྱང་ཆུབ་སེམས་དཔས་ཐོབ་པར་འགྱུར'. Mipham (bo-mipham 4-65) 'དེ་སྙེད་ཀྱི་བསྐལ་པར་བསགས་པའི་དགེ་བ་ཡང་...བྱང་ཆུབ་སེམས་དཔས་ཐོབ་པར་འགྱུར', Rangjung (bo-rangjung 4-64) '...བསྐལ་པར...བསྒྲུབ་པའི་བསོད་ནམས་ཅི་ཡོད་པ་དེ་བྱང་ཆུབ་སེམས་དཔའ་ཐོབ་པར་འགྱུར', Khenrab (bo-khenrab 4-65) likewise: what the bodhisattva obtains is the virtue/merit accumulated over that many eons. The English leaves the object of 'attain' out, so the comparison (a day of practice yields eons of merit) is lost.",
+    "fix": "the bodhisattva will obtain the merit accumulated over that many eons."
+   }
+  ]
+ },
+ "5-17": {
+  "translation": "For example, just as poison is aroused by the perception of suspicion, Even if that poison has not entered inside, one will faint; Likewise, the foolish, asserting self and what belongs to self, Through the perception of that self, truly impermanent, are born and die.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "just as poison is aroused by the perception of suspicion",
+    "evidence": "དུག་བསླང་བ is \"takes/swallows poison\" (bo-rangjung 5-17 reads དུག་བླངས་པ; bo-mipham 5-17: \"thinking 'the poison has gone inside'\"; Skt viṣasaṃjñata abhyupaiti). The poison is not \"aroused\"; a person, on suspecting, believes they have taken poison.",
+    "fix": "just as one who, through a suspicious perception, thinks they have taken poison"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "Through the perception of that self, truly impermanent,",
+    "evidence": "The line says the perception of that self is unreal (ཡང་དག་མིན, Skt abhūto), not that the self is \"truly impermanent\": bo-mipham 5-17 བདག་ཅེས་བྱ་བའི་ཡུལ་དེར་འདུ་ཤེས་པ་ཡང་དག་པ་མིན་པའི་རྟོག་པ་འབྱུང་ཞིང་ ... སྐྱེ་ཞིང་འཆི; bo-khenrab 5-17 the same (བདེན་པར་འདུ་ཤེས་པ་ཡང་དག་པ་མིན་པའི་ཀུན་རྟོག). Skt also has sadā \"always\": they are always born and die. The English wrongly predicates impermanence of the self.",
+    "fix": "through the unreal perception of that self, are continually born and die"
+   }
+  ]
+ },
+ "5-18": {
+  "translation": "Just as there is grasping, so is complete affliction taught; Not apprehending self and what belongs to self is said to be complete purification; In this, without anything becoming an affliction or completely pure, The bodhisattva realizes the perfection of wisdom.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "without anything becoming an affliction or completely pure",
+    "evidence": "འདི་ལ་གང་ཡང་ཉོན་མོངས་རྣམ་དག་འགྱུར་མེད་པ means that in this (ultimate reality) no one/nothing becomes afflicted or purified (Skt na hy atra kaścid yo kliśyati śudhyate vā; bo-mipham 5-18 གང་ཟག་གང་ཡང་ཉོན་མོངས་པར་གྱུར་པ་དང་ ... རྣམ་པར་དག་པ་ཉིད་དུ་འགྱུར་བ་ཡང་མེད་པ). The English makes affliction itself the thing that something \"becomes\", obscuring that there is no one who is afflicted or purified.",
+    "fix": "in this, there is nothing that becomes afflicted or purified,"
+   }
+  ]
+ },
+ "5-64": {
+  "translation": "Any bodhisattva who, regarding dependent origination,\nKnows this wisdom to be unborn and unexhausted,\nJust as a cloudless sun dispels darkness by radiating light,\nWill destroy dense ignorance and attain the self-arisen state.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "Knows this wisdom to be unborn and unexhausted",
+    "evidence": "What is unborn and inexhaustible is dependent origination (རྟེན་ཅིང་འབྲེལ་འབྱུང་), which the wisdom knows: bo-mipham 5-64 རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བའི་ཆོས་འདི་ལ ... སྐྱེ་བ་མེད་པ་དང་ཟད་པ་མེད་པར ... ཤེས་རབ ... ཤེས་པར་བྱས་ཏེ; bo-rangjung 5-62 ངོ་བོ་རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་ལ། རང་བཞིན་སྐྱེ་བ་མེད་པ་དང་ཟད་ཅིང་འགག་པ་མེད་པར་ཤེས་པའི་ཤེས་རབ་འདི་ཤེས. The English makes the wisdom itself the thing known as unborn.",
+    "fix": "Knows dependent origination to be unborn and unexhausted, through this wisdom"
+   }
+  ]
+ },
+ "5-72": {
+  "translation": "Likewise, the wise bodhisattva, having attained the four peaceful\nSamādhis of meditative concentration that bestow joy and bliss,\nRelinquishes the attainment of the samādhis of meditative concentration endowed with the bliss of meditative concentration,\nAnd endowed with compassion for beings, enters again into the desire realm.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "the four peaceful\nSamādhis of meditative concentration that bestow joy and bliss",
+    "evidence": "The Tibetan has དགའ་བ་དང་། བདེ་སྦྱིན་ as a predicate of the wise bodhisattvas (བྱང་ཆུབ་སེམས་དཔའ་མཁས་པ་), not a relative clause on the samādhis. All three commentaries read the bodhisattvas as the ones who give joy and bliss: bo-mipham 5-72 བྱང་ཆུབ་སེམས་དཔའ་མཁས་པ་སེམས་ཅན་རྣམས་ལ་འཕྲལ་དུ་དགའ་བ་དང་ནམ་ཕུག་གི་བདེ་བ་སྦྱིན་པར་བྱེད་པ་དེ་དག་; bo-rangjung 5-71 གཞན་ལ་བདེ་བ་སྦྱིན་པ་; bo-khenrab 5-71 སེམས་ཅན་རྣམས་ལ་གནས་སྐབས་སུ་དགའ་བ་དང་ནམ་ཕུག་གི་བདེ་བ་སྦྱིན་པར་བྱེད་པ་. The English makes the samādhis the givers of joy and bliss (following the Sanskrit prīti-sukhadāṃ), so the bodhisattvas' giving of joy and bliss to beings is lost.",
+    "fix": "Likewise, wise bodhisattvas, who bestow joy and bliss, having attained the four peaceful samādhis of meditative concentration,"
+   }
+  ]
+ },
+ "5-96": {
+  "translation": "Even if a bodhisattva enjoys the sensory pleasure of the five qualities of desire,\nIf they have gone for refuge to the Buddha, the Dharma, and the noble Sangha,\nAnd direct their mind toward omniscience, thinking, \"I will accomplish the state of a Buddha,\"\nThe wise should understand that they abide in the perfection of ethical discipline.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "The wise should understand that they abide in the perfection of ethical discipline.",
+    "evidence": "In 'མཁས་པ་ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་གནས་རིག་པར་བྱ' the wise one (མཁས་པ) is the bodhisattva who abides, and is the one to be recognised as abiding. bo-mipham 5-96: 'དོན་ལ་མཁས་པ་དེ་ནི་ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་གནས་པར་རིགས་པར་བྱའོ'; bo-rangjung 5-96: 'མཁས་པ་ངེས་དོན་ཐེག་པ་ཆེན་པོའི་ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་གནས་པར་རིག་པར་བྱ'; Sanskrit 'sthitu śīlapāramita vedayitavya vijñaḥ' (nominative, gerundive). The English makes 'the wise' the knowers of a bodhisattva, changing who is wise and who abides.",
+    "fix": "that wise one should be understood as abiding in the perfection of ethical discipline (the skilled bodhisattva is to be recognised as abiding in the perfection of ethical discipline)"
+   }
+  ]
+ }
+}

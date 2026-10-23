@@ -1,0 +1,192 @@
+{
+ "batch": "batch-13",
+ "segments": [
+  {
+   "id": "5-52",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "That noble one should be known to have entered into omniscience",
+     "evidence": "The Tibetan has no 'noble'; དེས་པ (ངེས་པ, 'definitely') is rendered in bo-rangjung 5-52 as ངེས་པར་ཞུགས་པར་རིག་པར་བྱ ('should be known to have definitely entered'). The English adds 'noble one' and drops the sense of certainty.",
+     "fix": "That one should be known to have definitely entered omniscience."
+    }
+   ]
+  },
+  {
+   "id": "5-53",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "bestows a blessing",
+     "evidence": "བྱིན་གྱིས་རློབ in this context (bo-mipham 5-53, bo-khenrab 5-53: ཚལ་ལ་སོགས་པ་ཇི་ལྟར་འདོད་པར་བྱིན་གྱིས་རློབ་ཅིང་སྣང་བར་བྱེད་) means empowering/transforming the place so it appears as wished (Sanskrit adhiṣṭhāna, 'mantra-bala-adhiṣṭhāna'), not bestowing a blessing on someone; the object is also left out.",
+     "fix": "and empowers the place as he wishes"
+    }
+   ]
+  },
+  {
+   "id": "5-54",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "those who desire peace",
+     "evidence": "ཞི་འདོད: bo-mipham 5-54 glosses it as གཞན་སེམས་ཅན་རྣམས་ཀྱི་སྡུག་བསྔལ་ཞི་བར་འདོད་པ, desiring the pacification of other beings' suffering, so 'peace' for oneself is not meant; the English allows a self-interested reading.",
+     "fix": "those who desire the pacification of beings' suffering"
+    }
+   ]
+  },
+  {
+   "id": "5-55",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Their dwellings in peaceful samādhi, profoundly peaceful and endowed with bliss, Is the supreme",
+     "evidence": "The subject of 'is the supreme' (གནས་པ་འདི་ནི ... མཆོག་དང་གོང་ན་མེད་པ་ཡིན) is 'this dwelling' (the bodhisattva's, bo-mipham 5-55 བྱང་ཆུབ་སེམས་དཔའི་གནས་པ་འདི), but the English makes the plural 'Their dwellings' the grammatical subject of a singular verb after a dash, obscuring the structure.",
+     "fix": "This dwelling is the supreme and unsurpassed among all the dwellings of śrāvakas and pratyekabuddhas in peaceful samādhi, profoundly peaceful and endowed with bliss, however many there are."
+    }
+   ]
+  },
+  {
+   "id": "5-56",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "do not suffocate and die",
+     "evidence": "འཚུབས་ཏེ་འཆི་བ་མེད means 'are not disturbed/agitated and die'; bo-mipham 5-55 and bo-khenrab 5-56 explain ཆུས་རྣ་བ་དང་སྣ་སོགས་འཚུབས་ ('the ears, nose etc. are disturbed by water'). 'Suffocate' is a narrower gloss not in the text.",
+     "fix": "are not disturbed and killed"
+    }
+   ]
+  },
+  {
+   "id": "5-57",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "reach the supreme qualities of all sentient beings",
+     "evidence": "སེམས་ཅན་ཀུན་གྱི་ཡོན་ཏན་མཆོག་ཏུ་འགྲོ་བ means to become supreme among all sentient beings' qualities (bo-mipham 5-57: ཡོན་ཏན་ཇི་ཡོད་པ་ཐམས་ཅད་ཀྱི་མཆོག་ཏུ་འགྲོ་བ་ཉིད་དུ་འདོད་པ; Sanskrit sarvasattvaguṇa-agratu gantukāmo). The English reads 'supreme' as modifying the qualities.",
+     "fix": "reach the pinnacle of the qualities of all sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "5-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-63",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "gateways, skillful means, and roots of primordial wisdom",
+     "evidence": "The Tibetan lists five items: ཡེ་ཤེས, ཚུལ, སྒོ, ཐབས, རྩ་བ (bo-mipham 5-63: Buddha's wisdom; meditation path; seeing path; preparation path; accumulation path as root; bo-rangjung 5-62 similarly). The English makes 'of primordial wisdom' govern all three nouns and loses 'primordial wisdom' as the first item.",
+     "fix": "However many primordial wisdoms, approaches, gateways, skillful means, and roots there are"
+    }
+   ]
+  },
+  {
+   "id": "5-64",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "Knows this wisdom to be unborn and unexhausted",
+     "evidence": "What is unborn and inexhaustible is dependent origination (རྟེན་ཅིང་འབྲེལ་འབྱུང་), which the wisdom knows: bo-mipham 5-64 རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བའི་ཆོས་འདི་ལ ... སྐྱེ་བ་མེད་པ་དང་ཟད་པ་མེད་པར ... ཤེས་རབ ... ཤེས་པར་བྱས་ཏེ; bo-rangjung 5-62 ངོ་བོ་རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་ལ། རང་བཞིན་སྐྱེ་བ་མེད་པ་དང་ཟད་ཅིང་འགག་པ་མེད་པར་ཤེས་པའི་ཤེས་རབ་འདི་ཤེས. The English makes the wisdom itself the thing known as unborn.",
+     "fix": "Knows dependent origination to be unborn and unexhausted, through this wisdom"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Just as a cloudless sun dispels darkness by radiating light, Will destroy dense ignorance",
+     "evidence": "The simile (ལྟར) is left without a connected main clause; the English line 'Just as ... Will destroy' is a fragment relative to the preceding lines.",
+     "fix": "Just as a cloudless sun dispels darkness by radiating light, so such a one destroys dense ignorance and attains the self-arisen."
+    }
+   ]
+  },
+  {
+   "id": "5-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-67",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "they are signless",
+     "evidence": "མཚན་མ་མེད means no signs are apprehended in that samādhi: bo-mipham 5-67 ཤེས་རབ་ཀྱིས་དེ་ལ་མཚན་མ་མེད་པར་རྟོགས་སོ, bo-rangjung 5-67 མཚན་མར་འཛིན་པའི་སྒོ་ནས་རོ་མྱང་བ་མེད. The English predicates 'signless' of the persons.",
+     "fix": "they are without signs (they do not apprehend signs)"
+    }
+   ]
+  },
+  {
+   "id": "5-68",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "those fully possessed objects",
+     "evidence": "ཡོངས་སུ་བཟུང་བའི་ཡུལ་ refers to the pleasing places (mansions, gardens) held by the gods: bo-mipham 5-68 ལྷ་རྣམས་ཀྱིས་ཡོངས་སུ་བཟུང་བའི་ཁང་བཟང་དང་སྐྱེད་མོས་ཚལ་ལ་སོགས་པའི་ཡུལ་ཡིད་དུ་འོང་བ. 'Fully possessed objects' is opaque and omits the gods as holders; the singular 'person' is also followed by plural 'They'.",
+     "fix": "those realms held by the gods; (and) he does not become attached when he returns here"
+    }
+   ]
+  },
+  {
+   "id": "5-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-71",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

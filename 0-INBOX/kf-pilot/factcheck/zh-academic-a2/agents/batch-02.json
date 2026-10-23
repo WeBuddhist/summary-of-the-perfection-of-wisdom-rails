@@ -1,0 +1,129 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "4-23",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "如來藉由般若波羅蜜多而了知此真如",
+     "evidence": "The Tibetan line is 'shes rab pha rol phyin pa de bzhin gshegs pas mkhyen': the perfection of wisdom is the object known by the Tathagata (so also the approved English). The Chinese turns it into an instrumental ('by means of the perfection of wisdom, the Tathagata knows this suchness') and supplies 'this suchness' as object. This is a possible reading (Skt prajñāya pāramita ... tathāgatena; bo-rangjung 4-22 'relying on the perfection of wisdom, the Tathagata knows as it is'), but it is not what the Tibetan says on its face and bo-mipham 4-22 glosses the perfection of wisdom itself as the nature of all phenomena that the Tathagata knows.",
+     "fix": "如來了知般若波羅蜜多。"
+    }
+   ]
+  },
+  {
+   "id": "4-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-93",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "並非僅喜悅於觸涅槃，而將有情置於受苦之心",
+     "evidence": "Tibetan 'mya ngan 'das la reg pa 'ba' zhig mngon dga' zhing / sems can sdug bsngal yid du 'jog par 'gyur ma yin': the negation ('gyur ma yin) covers both clauses, i.e. the bodhisattva neither delights in touching nirvana for himself alone nor leaves beings in suffering (bo-mipham 4-92, bo-khenrab 4-92: does not leave other beings in a mind tormented by suffering). In the Chinese, '並非...，而...' can be read as 'not merely X, but rather does Y', i.e. as if the bodhisattva does place beings in suffering; 置於受苦之心 is also obscure.",
+     "fix": "既不獨自僅喜悅於觸證涅槃，亦不棄有情於苦中"
+    }
+   ]
+  },
+  {
+   "id": "4-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "若於廣達五百由旬山谷中，充滿毒蛇之處安住多個千萬年，不知此遠離之彼菩薩",
+     "evidence": "Tibetan 'gnas byed kyang ... mi shes pa'i byang chub sems dpa' de' is concessive: even if a bodhisattva stays physically secluded for many tens of millions of years, he who does not know this (inner) solitude acquires superior pride (bo-mipham 5-9, bo-rangjung 5-9: bodily solitude alone yields pride). The Chinese opens with a plain conditional 若, losing the concession, and adds 毒 to 'snakes' (Tib. sbrul; bo-mipham's 'gdug pa'i sbrul' is a gloss).",
+     "fix": "縱使於廣達五百由旬、滿布蛇類的山谷中安住多個千萬年，不知此遠離之彼菩薩"
+    }
+   ]
+  },
+  {
+   "id": "5-11",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

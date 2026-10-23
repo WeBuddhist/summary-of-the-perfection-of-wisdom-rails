@@ -1,0 +1,145 @@
+{
+ "batch": "batch-13",
+ "segments": [
+  {
+   "id": "5-52",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "彼賢善者",
+     "evidence": "The Tibetan line ends 'དེས་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ལ་ཞུགས་རིག་བྱ', and the Sanskrit has only 'veditavyo' (it should be known) of the bodhisattva already mentioned; bo-rangjung 5-52 glosses it as 'དེ་ལྟ་བུའི་བསམ་སྦྱོར་དང་ལྡན་པ' (one possessing such motivation and application). Nothing says 'virtuous/good'; 賢善 is an added epithet.",
+     "fix": "應知彼已趣入於一切智"
+    }
+   ]
+  },
+  {
+   "id": "5-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-54",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "能證之法",
+     "evidence": "'དོགས་པར་བྱེད' in the parallel list 'འཆད་པར་བྱེད' (expounder), 'ཆོས་འདོད་' (one desiring Dharma), 'ལྟ་བར་བྱེད' (viewer) names an agent (Sanskrit 'budhyaka', one who awakens/realizes; bo-mipham 5-54 lists these as persons). 能證之法 reads it as a dharma that realizes, not an agent, and breaks the parallel with 宣說者、欲求佛法者、見者.",
+     "fix": "能證者"
+    }
+   ]
+  },
+  {
+   "id": "5-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-56",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "亦不溺死",
+     "evidence": "Tibetan 'འཚུབས་ཏེ་འཆི་བ་མེད' = is not agitated/disturbed and does not die (Sanskrit 'na mriyate'; bo-khenrab 5-56 says the fish's ears and nose are disturbed yet it does not die). 溺死 (drown) introduces a different image and drops 'agitated'.",
+     "fix": "亦不因擾動而死亡"
+    }
+   ]
+  },
+  {
+   "id": "5-57",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "以佛法作最上勝妙之法施者",
+     "evidence": "Tibetan 'ཆོས་ཀྱི་སྦྱིན་པ་རབ་མཆོག་དམ་པ་སྦྱིན་འདོད་གང' = whoever wishes to give the supreme, holy gift of Dharma (法施). 'ཆོས' is part of the compound 'ཆོས་ཀྱི་སྦྱིན་པ'; the rendering adds a separate instrument 以佛法 ('with the Buddha-Dharma') that the Tibetan and Sanskrit ('uttamadharmadānam') do not have.",
+     "fix": "欲行最上殊勝之法施者"
+    }
+   ]
+  },
+  {
+   "id": "5-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-68",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "遍所攝受之對境",
+     "evidence": "Tibetan 'ཡོངས་སུ་བཟུང་བའི་ཡུལ་དེ་རྣམས' = those realms/places that are held (possessed) by the gods (Sanskrit 'viṣaya tatra parigṛhītā'; english_academic: 'realms held by the gods'). 遍所攝受之對境 is hard to parse and obscures that the realms are the gods' possessions.",
+     "fix": "諸天所攝有之彼等境域"
+    }
+   ]
+  },
+  {
+   "id": "5-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-71",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

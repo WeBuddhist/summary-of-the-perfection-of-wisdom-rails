@@ -1,0 +1,217 @@
+{
+ "batch": "batch-06",
+ "segments": [
+  {
+   "id": "4-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-51",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "所有事物的事物真正的樣貌，還是得勝者的事物真正的樣貌；這個事物的事物真正的樣貌",
+     "evidence": "Academic: the suchness of all dharmas, of the Victors, and of this dharma; the repeated locked term makes \"事物的事物真正的樣貌\" tangled for ages 8-12.",
+     "fix": "所有事物真正的樣貌，還是得勝者真正的樣貌；這個教法真正的樣貌，這一切全都沒有差別。"
+    }
+   ]
+  },
+  {
+   "id": "4-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-54",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "他們在世間也一直抱著廣大的願望",
+     "evidence": "Academic: the practitioner who perfects the five perfections over many eons and always relies on boundless vast aspirations falls to the Hearer level without skillful means and wisdom; \"他們\" is unclear and could be read as the Victors, who do not fall.",
+     "fix": "修行的人雖然經過許多漫長的時代才修成這五種圓滿，也一直抱著廣大的願望。可是，如果沒有巧妙的方法，又缺少智慧，他們就會掉下來，變成聽法的弟子。"
+    }
+   ]
+  },
+  {
+   "id": "4-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-59",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "他們的行為、說話和想法這三者都很清淨",
+     "evidence": "Academic says only \"the three are secluded and pure\" (三者遠離且清淨); it does not name body, speech and mind.",
+     "fix": "他們把自己打理得很乾淨，穿著乾淨的衣服；那三者也都遠離過失、很清淨。"
+    }
+   ]
+  },
+  {
+   "id": "4-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-63",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "找不到這些身心的組成部分的盡頭",
+     "evidence": "Academic: one cannot find the bottom (底) of the aggregates, like probing the sea floor with an arrow; \"盡頭\" (end) loses the depth image.",
+     "fix": "根本找不到這些身心的組成部分的底部。"
+    }
+   ]
+  },
+  {
+   "id": "4-64",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "doctrinal",
+     "severity": "minor",
+     "span": "在最深的真理中學習不執著的乘。他明白這裡沒有身心的組成部分，沒有元素，也沒有感官之門",
+     "evidence": "Academic: in the vehicle of non-attachment in the ultimate sense, aggregates, elements and sense-bases do not exist; the \"ultimately\" scope is not clearly tied to the absence, so it may read as the aggregates simply not existing.",
+     "fix": "在最深的真理裡，他明白身心的組成部分、元素和感官之門都不是真的存在。"
+    }
+   ]
+  },
+  {
+   "id": "4-65",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "追求想要的事物的男人",
+     "evidence": "Academic: a man who engages in the dharma of desire/lust (貪欲法) who arranged to meet a woman; \"想要的事物\" loses the desire/lust meaning.",
+     "fix": "一個被慾望牽動的男人"
+    }
+   ]
+  },
+  {
+   "id": "4-66",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "可是，如果有人為大家講解包含圓滿的智慧的佛法。這講解的好處",
+     "evidence": "The \"如果\" clause is left as a sentence fragment, so the comparison is tangled for children.",
+     "fix": "可是，如果有人為大家講解包含圓滿的智慧的佛法，這講解的好處，遠遠超過前面的慷慨與良好品行。"
+    }
+   ]
+  },
+  {
+   "id": "4-67",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "接著他為大家講解清淨的佛法",
+     "evidence": "Academic: the bodhisattva rises from that meditation (從彼出定) and then teaches the stainless dharma; \"rising from meditation\" is dropped.",
+     "fix": "菩薩好好練習了智慧，從禪修中起來後，為大家講解清淨的佛法。"
+    }
+   ]
+  },
+  {
+   "id": "4-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-73",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "即使這個念頭過去了，覺悟也不會因此消失",
+     "evidence": "Academic: even though the first mind has ceased, it is not that there is no bodhi (bodhi still arises from it); \"消失\" implies bodhi already existed and is lost.",
+     "fix": "即使這個念頭過去了，覺悟還是會從它長出來，不是沒有覺悟。"
+    }
+   ]
+  },
+  {
+   "id": "4-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-77",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

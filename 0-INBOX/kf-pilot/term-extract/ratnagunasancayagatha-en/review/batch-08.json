@@ -1,0 +1,528 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "4-50",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-51",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 2,
+      "bo_fixed": "ཆོས"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "4-52",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-53",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-54",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-55",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སངས་རྒྱས",
+      "reason": "Part of compound",
+      "dm": "Buddha",
+      "gm": "Buddha"
+     },
+     {
+      "bo": "ཐེག་པ",
+      "reason": "Part of compound",
+      "dm": "vehicle",
+      "gm": "vehicle"
+     }
+    ]
+   },
+   {
+    "id": "4-56",
+    "drop": [
+     {
+      "n": 6,
+      "reason": "Ordinary verb phrase"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-57",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འདུ་ཤེས",
+      "reason": "Part of compound",
+      "dm": "perception",
+      "gm": "perceptions"
+     },
+     {
+      "bo": "དགེ་བཅུ",
+      "reason": "Part of compound",
+      "dm": "ten virtuous actions",
+      "gm": "ten virtuous actions"
+     }
+    ]
+   },
+   {
+    "id": "4-58",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འགྲོ",
+      "reason": "Technical term for beings",
+      "dm": "beings",
+      "gm": "beings"
+     }
+    ]
+   },
+   {
+    "id": "4-59",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བསམ་གཏན",
+      "reason": "Part of compound",
+      "dm": "concentrations",
+      "gm": "dhyānas"
+     }
+    ]
+   },
+   {
+    "id": "4-60",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྔགས",
+      "reason": "Technical term",
+      "dm": "spells",
+      "gm": "mantras"
+     },
+     {
+      "bo": "ཁྲོ་བ",
+      "reason": "Technical term",
+      "dm": "anger",
+      "gm": "anger"
+     }
+    ]
+   },
+   {
+    "id": "4-61",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Part of compound",
+      "dm": "wisdom",
+      "gm": "wisdom"
+     },
+     {
+      "bo": "འདོད་པ",
+      "reason": "Technical term",
+      "dm": "desire",
+      "gm": "desire"
+     }
+    ]
+   },
+   {
+    "id": "4-62",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-63",
+    "drop": [
+     {
+      "n": 8,
+      "reason": "Used as an ordinary adverb here"
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Technical term",
+      "dm": "wisdom",
+      "gm": "wisdom"
+     }
+    ]
+   },
+   {
+    "id": "4-64",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཆོས",
+      "reason": "Technical term",
+      "dm": "Dharma",
+      "gm": null
+     }
+    ]
+   },
+   {
+    "id": "4-65",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཆོས",
+      "reason": "Technical term",
+      "dm": null,
+      "gm": "phenomena"
+     }
+    ]
+   },
+   {
+    "id": "4-66",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 4,
+      "bo_fixed": "སྦྱིན"
+     }
+    ],
+    "add": [
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Part of compound",
+      "dm": "wisdom",
+      "gm": "wisdom"
+     }
+    ]
+   },
+   {
+    "id": "4-67",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Not a fixed technical term, just modified wisdom"
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Technical term",
+      "dm": "wisdom",
+      "gm": "wisdom"
+     },
+     {
+      "bo": "འགྲོ་བ",
+      "reason": "Technical term",
+      "dm": "beings",
+      "gm": "beings"
+     }
+    ]
+   },
+   {
+    "id": "4-68",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-69",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-70",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Part of compound",
+      "dm": "awakening",
+      "gm": "awakening"
+     }
+    ]
+   },
+   {
+    "id": "4-71",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-72",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Part of compound",
+      "dm": "enlightenment",
+      "gm": "awakening"
+     },
+     {
+      "bo": "སེམས",
+      "reason": "Part of compound",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "4-73",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Part of compound",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "4-74",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Part of compound",
+      "dm": "enlightenment",
+      "gm": "awakening"
+     },
+     {
+      "bo": "སེམས",
+      "reason": "Part of compound",
+      "dm": "mind",
+      "gm": "mind"
+     },
+     {
+      "bo": "ཡོན་ཏན",
+      "reason": "Part of compound",
+      "dm": "qualities",
+      "gm": "virtues"
+     }
+    ]
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "4-56",
+    "bo": "སླར་ལྡོག་མི་འགྱུར་བ",
+    "reason": "Ordinary verb phrase"
+   },
+   {
+    "id": "4-63",
+    "bo": "རང་བཞིན",
+    "reason": "Used as an ordinary adverb here"
+   },
+   {
+    "id": "4-67",
+    "bo": "ཤེས་རབ་མཆོག",
+    "reason": "Not a fixed technical term, just modified wisdom"
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "4-51",
+    "bo": "ཆོས་ཀུན",
+    "bo_fixed": "ཆོས"
+   },
+   {
+    "id": "4-66",
+    "bo": "སྦྱིན་བྱེད",
+    "bo_fixed": "སྦྱིན"
+   }
+  ],
+  "add": [
+   {
+    "id": "4-55",
+    "bo": "སངས་རྒྱས",
+    "dm": "Buddha",
+    "gm": "Buddha",
+    "reason": "Part of compound"
+   },
+   {
+    "id": "4-55",
+    "bo": "ཐེག་པ",
+    "dm": "vehicle",
+    "gm": "vehicle",
+    "reason": "Part of compound"
+   },
+   {
+    "id": "4-57",
+    "bo": "འདུ་ཤེས",
+    "dm": "perception",
+    "gm": "perceptions",
+    "reason": "Part of compound"
+   },
+   {
+    "id": "4-57",
+    "bo": "དགེ་བཅུ",
+    "dm": "ten virtuous actions",
+    "gm": "ten virtuous actions",
+    "reason": "Part of compound"
+   },
+   {
+    "id": "4-58",
+    "bo": "འགྲོ",
+    "dm": "beings",
+    "gm": "beings",
+    "reason": "Technical term for beings"
+   },
+   {
+    "id": "4-59",
+    "bo": "བསམ་གཏན",
+    "dm": "concentrations",
+    "gm": "dhyānas",
+    "reason": "Part of compound"
+   },
+   {
+    "id": "4-60",
+    "bo": "སྔགས",
+    "dm": "spells",
+    "gm": "mantras",
+    "reason": "Technical term"
+   },
+   {
+    "id": "4-60",
+    "bo": "ཁྲོ་བ",
+    "dm": "anger",
+    "gm": "anger",
+    "reason": "Technical term"
+   },
+   {
+    "id": "4-61",
+    "bo": "ཤེས་རབ",
+    "dm": "wisdom",
+    "gm": "wisdom",
+    "reason": "Part of compound"
+   },
+   {
+    "id": "4-61",
+    "bo": "འདོད་པ",
+    "dm": "desire",
+    "gm": "desire",
+    "reason": "Technical term"
+   },
+   {
+    "id": "4-63",
+    "bo": "ཤེས་རབ",
+    "dm": "wisdom",
+    "gm": "wisdom",
+    "reason": "Technical term"
+   },
+   {
+    "id": "4-64",
+    "bo": "ཆོས",
+    "dm": "Dharma",
+    "gm": null,
+    "reason": "Technical term"
+   },
+   {
+    "id": "4-65",
+    "bo": "ཆོས",
+    "dm": null,
+    "gm": "phenomena",
+    "reason": "Technical term"
+   },
+   {
+    "id": "4-66",
+    "bo": "ཤེས་རབ",
+    "dm": "wisdom",
+    "gm": "wisdom",
+    "reason": "Part of compound"
+   },
+   {
+    "id": "4-67",
+    "bo": "ཤེས་རབ",
+    "dm": "wisdom",
+    "gm": "wisdom",
+    "reason": "Technical term"
+   },
+   {
+    "id": "4-67",
+    "bo": "འགྲོ་བ",
+    "dm": "beings",
+    "gm": "beings",
+    "reason": "Technical term"
+   },
+   {
+    "id": "4-70",
+    "bo": "བྱང་ཆུབ",
+    "dm": "awakening",
+    "gm": "awakening",
+    "reason": "Part of compound"
+   },
+   {
+    "id": "4-72",
+    "bo": "བྱང་ཆུབ",
+    "dm": "enlightenment",
+    "gm": "awakening",
+    "reason": "Part of compound"
+   },
+   {
+    "id": "4-72",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Part of compound"
+   },
+   {
+    "id": "4-73",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Part of compound"
+   },
+   {
+    "id": "4-74",
+    "bo": "བྱང་ཆུབ",
+    "dm": "enlightenment",
+    "gm": "awakening",
+    "reason": "Part of compound"
+   },
+   {
+    "id": "4-74",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Part of compound"
+   },
+   {
+    "id": "4-74",
+    "bo": "ཡོན་ཏན",
+    "dm": "qualities",
+    "gm": "virtues",
+    "reason": "Part of compound"
+   }
+  ]
+ }
+}

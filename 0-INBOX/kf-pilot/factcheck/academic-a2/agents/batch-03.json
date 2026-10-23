@@ -1,0 +1,145 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "4-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-48",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Felt little inclination, thinking",
+     "evidence": "Tibetan \"ཐུགས་ཁྲལ་ཆུང་བར་མཛད\" (little concern/exertion); bo-mipham 4-48 states the object: \"ཆོས་སྟོན་པ་ལ་ཐུགས་ཁྲལ་ཆུང་བར་མཛད\" (little concern for teaching the Dharma); Sanskrit \"alpotsuko\". The English leaves open what he was disinclined toward.",
+     "fix": "Felt little inclination to teach, thinking, \"Who among the masses of sentient beings will understand?\""
+    }
+   ]
+  },
+  {
+   "id": "4-52",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "form",
+     "severity": "minor",
+     "span": "Endowed with skillful means, must apply themselves to the perfection of wisdom; / Without this wisdom, the mother of the Guides, they will not attain it.",
+     "evidence": "The Tibetan given has three lines (ending \"ཐབས་དང་ལྡན་པས་ཤེས་རབ་ཕ་འདྲེན་པའི་ཤེས་རབ་མེད་ན་ཐོབ་པར་འགྱུར་མ་ཡིན\"), with the words \"ཕ[་རོལ་ཕྱིན་པ]\" and \"ཡུམ\" not fully written; the English has four lines and supplies \"perfection of wisdom\" and \"mother\" from the Sanskrit pāda division and from bo-mipham 4-52 (\"འདྲེན་པ་རྒྱལ་བའི་ཡུམ་ཤེས་རབ་ཀྱི་ཕར་ཕྱིན\") and bo-khenrab 4-52. Line count differs from the Tibetan, and the supplied words are not marked as supplied.",
+     "fix": "Endowed with skillful means, one must apply oneself to the [perfection of] wisdom; without this wisdom, [the mother] of the Guides, it will not be attained."
+    }
+   ]
+  },
+  {
+   "id": "4-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-98",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "when thoroughly questioned about their conduct and faculties,",
+     "evidence": "Tibetan \"སྤྱོད་པ་དང་ནི་དབང་པོ་ཡོངས་དྲིས་ལ\" has an unstated questioner; the questions concern the conduct and faculties of the irreversible (bo-mipham 4-98: someone asks \"བྱང་ཆུབ་སེམས་དཔའ་གང་ལ ... སྤྱོད་པ་ཇི་ལྟ་བུ་ཡིན་པ་དང་ ... དབང་པོ ... ཡོངས་སུ་དྲིས་པ་ལ\"; bo-rangjung 4-98: asked about the irreversible's conduct, faculties and signs). The English participle attaches to the bodhisattva (\"a bodhisattva ... questioned about their conduct\"), suggesting he is asked about his own conduct.",
+     "fix": "If, when someone thoroughly asks about conduct and faculties, a bodhisattva does not fully teach the Dharma of emptiness and signlessness,"
+    }
+   ]
+  },
+  {
+   "id": "5-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Sentient beings, fully conceptualizing, desire food,",
+     "evidence": "The Tibetan as given reads \"སེམས་ཅན་ཡོངས་སུ་ལྟོགས་པ་ཟས་ལ་འདོད་བྱེད\" (ལྟོགས་པ = hungry, \"utterly hungry\"). The English follows the reading \"ཡོངས་སུ་རྟོག་པ/རྟོགས་པ\" (conceptualizing) found in bo-mipham 5-16, bo-rangjung 5-16, bo-khenrab 5-16 and Sanskrit \"parikalpayamāna\". The departure from the Tibetan wording is not flagged.",
+     "fix": "Sentient beings, fully conceptualizing [Tib. text: \"utterly hungry\"], desire food,"
+    }
+   ]
+  },
+  {
+   "id": "5-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "In this, there is nothing that becomes afflicted or completely pure, / And the bodhisattva realizes the perfection of wisdom.",
+     "evidence": "Tibetan \"འདི་ལ་གང་ཡང་ཉོན་མོངས་རྣམ་དག་འགྱུར་མེད་པར། བྱང་ཆུབ་སེམས་དཔས ... རྟོགས\" uses the adverbial \"མེད་པར\" (with/as there being none): the bodhisattva realizes the perfection of wisdom in the mode that nothing is afflicted or purified (bo-mipham 5-18: \"...ཡང་མེད་པར་བྱང་ཆུབ་སེམས་དཔས ... རྗེས་སུ་རྟོགས་པར་གྱུར\"). The English coordinating \"And\" loses this link.",
+     "fix": "In this, there being nothing that becomes afflicted or completely pure, the bodhisattva realizes the perfection of wisdom."
+    }
+   ]
+  },
+  {
+   "id": "5-19",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

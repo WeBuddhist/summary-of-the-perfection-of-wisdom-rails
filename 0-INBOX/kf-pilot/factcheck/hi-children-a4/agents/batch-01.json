@@ -1,0 +1,44 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "4-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "कुछ लोग",
+     "evidence": "The Tibetan and the academic translation give no explicit subject ('will desire honour and gain...'); 'some people' narrows the subject, though the meaning is largely intact.",
+     "fix": "भविष्य में लोग सम्मान और लाभ की इच्छा करेंगे।"
+    }
+   ]
+  },
+  {
+   "id": "7-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Academic translation says 'the showing/teaching (pradarshana, bstan) of full awakening in one moment'; the children's text drops the idea that the chapter shows/teaches this.",
+     "fix": "सातवाँ अध्याय: एक पल में पूर्ण बोधि कैसे मिलती है, यह दिखाया गया है।"
+    }
+   ]
+  },
+  {
+   "id": "8-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "आठवाँ अध्याय: शिक्षा का शरीर।",
+     "evidence": "Academic translation: 'Eighth chapter: the showing/teaching of the Dharmakaya'; the idea of 'showing' (bstan) is dropped from the heading.",
+     "fix": "आठवाँ अध्याय: शिक्षा के शरीर का दिखाया जाना।"
+    }
+   ]
+  }
+ ]
+}

@@ -11,9 +11,9 @@ source: https://cbetaonline.dila.edu.tw/zh/T0229
 other_ids:
 - 'Dzongsar: phakpadoepa Tibetan-Chinese alignment doc'
 source_description: Dzongsar Google Doc (Chinese side of the Tibetan-Chinese row alignment), exported as phakpadoepa-root-zh(bo-zh).md. Title from its first row (佛母寶德藏般若波羅蜜經卷上, without the fascicle marker 卷上). A translation aligned to the Tibetan; no metadata sheet, translator not recorded upstream.
-text_id: null
-edition_id: null
-toc_id: null
+text_id: qMxinYMnDVjKLQVkFoJJY
+edition_id: npFewC3fvrdxQHofZIAi4
+toc_id: 7y8cP0r7Yw3TJeft4GecE
 raw_sources:
 - file: 0-INBOX/raw-data/phakpadoepa-root-zh(bo-zh).md
   sha1: 13d951e24f38620132c9dc2bdc6d349df4e50eef
@@ -27,6 +27,7 @@ intake:
   date: '2026-10-04'
   annotations: 1-SOURCES/Annotations/zh-ratnagunasancayagatha.annotations.json
 covers_verses: 0-1–8-2
+aligned_to_edition_id: fYnGwQC4fH8Fa37vLUiXD
 ---
 
 # 佛母寶德藏般若波羅蜜經 ^0

@@ -1,0 +1,47 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Commentaries/bo-khenrab-jamyang-norbu-dronme.md",
+  "validated_at": "2026-10-04T11:16:19.700032+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: 'U5FlKUlLLtS1zo4n0EGZL'",
+    "root_text: '1-SOURCES/Translations/bo-ratnagunasancayagatha.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://library.bdrc.io/show/bdr:WA1KG802?tabs=bdr:MW1KG802,bdr:W1KG802'",
+    "toc: 144 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པ་ཚིགས་སུ་བཅད་པའི་འགྲེལ་པ་ཟབ་མོ་རྟེན་འབྱུང་གི་དེ་ཁོ་ན་ཉིད་གསལ་བར་བྱེད་པའི་ནོར་བུའི་སྒྲོན་མེ་སྐལ་བཟང་རེ་སྐོང་།",
+      "en": "Khenrab Jamyang, Commentary on the Verses of the Precious Qualities Collection"
+    },
+    "alt_titles": [
+      {
+        "bo": "མཁྱེན་རབ་འཇམ་དབྱངས་བློ་བཟང་འཕྲིན་ལས། སྡུད་པའི་འགྲེལ་པ།"
+      },
+      {
+        "bo": "ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པ་ཚིགས་སུ་བཅད་པའི་འགྲེལ་བ་ཟབ་མོ་རྟེན་འབྱུང་གི་དེ་ཁོ་ན་ཉིད་གསལ་བར་བྱེད་པའི་ནོར་བུའི་སྒྲོན་མ་སྐལ་བཟང་རེ་སྐོང་ཞེས་བྱ་བ་བཞུགས་སོ།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": "U5FlKUlLLtS1zo4n0EGZL",
+    "translation_of": null,
+    "category_id": "uGpinx0GZlvU1uw44RyYS",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P1KG803"
+      }
+    ],
+    "tag_ids": null
+  }
+}

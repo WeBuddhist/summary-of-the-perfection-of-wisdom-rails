@@ -1,0 +1,145 @@
+{
+ "batch": "batch-04",
+ "segments": [
+  {
+   "id": "2-29",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "कल्पित में चर्या करता है",
+     "evidence": "Tibetan བཅོས་ལ་སྤྱོད་པ (Skt. pratirūpikā) means acting in a counterfeit/fabricated (བཅོས་མ) perfection of wisdom; bo-mipham 2-29 glosses it as ཤེར་ཕྱིན་བཅོས་མ, a counterfeit perfection of wisdom. Hindi 'कल्पित' suggests 'imagined' (parikalpita), a different notion, and drops the sense of a spurious imitation.",
+     "fix": "बनावटी (नकली) प्रज्ञापारमिता में चर्या करता है"
+    }
+   ]
+  },
+  {
+   "id": "2-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-31",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "गङ्गा नदी की बालुका-समान क्षेत्रों में",
+     "evidence": "Tibetan གངྒཱའི་ཀླུང་གི་བྱེ་སྙེད་ཞིང་ 'fields as numerous as the sands of the Ganges' (bo-khenrab 2-31: 'fields equal in number to the sand grains'). The Hindi genitive 'की' does not agree with 'क्षेत्रों' and 'बालुका-समान' drops the sense of number (སྙེད).",
+     "fix": "गङ्गा नदी की बालुका के बराबर संख्या वाले क्षेत्रों में"
+    }
+   ]
+  },
+  {
+   "id": "2-32",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "तथा प्रत्येकबुद्ध-बोधि और बुद्ध-बोधि का स्पर्श करते हैं",
+     "evidence": "The Tibetan last line རང་རྒྱལ་བྱང་ཆུབ་དང་ནི་སངས་རྒྱས་བྱང་ཆུབ་རེག has no stated subject. bo-mipham 2-32 and bo-khenrab 2-32 assign liberation to śrāvaka-lineage persons, pratyekabuddha awakening to those of middling faculty and buddha awakening to those of sharp faculty. The Hindi continues 'श्रावक' as subject, implying śrāvakas themselves attain Buddha-bodhi.",
+     "fix": "तथा कोई प्रत्येकबुद्ध-बोधि का और कोई बुद्ध-बोधि का स्पर्श करता है"
+    }
+   ]
+  },
+  {
+   "id": "2-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-34",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "जब विद्वानों का जानने के लिए लोक में बोधिचित्त उत्पन्न होता है",
+     "evidence": "Tibetan མཁས་པ་ཤེས་ཕྱིར་འཇིག་རྟེན་བྱང་ཆུབ་སེམས་བྱུང་ན: bo-mipham 2-34 says the wise generate the mind of awakening in the world in order to attain omniscient wisdom. The Hindi genitive 'विद्वानों का' with an object-less 'जानने के लिए' is hard to parse and obscures who generates it.",
+     "fix": "जब विद्वानों में (सब कुछ) जानने के लिए लोक में बोधिचित्त उत्पन्न होता है"
+    }
+   ]
+  },
+  {
+   "id": "2-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-43",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "धर्म से धर्म की कभी परिणामना नहीं की जाती",
+     "evidence": "Tibetan ཆོས་ཀྱིས་ཆོས་ལ་ནམ་ཡང་མི་བསྔོ: a phenomenon never dedicates to a phenomenon (ལ marks the recipient). bo-mipham 2-43: ཆོས་ཀྱིས་ཆོས་ལ་ནམ་ཡང་མི་བསྔོ་བའམ་བསྔོ་རྒྱུ་མེད་པ; bo-khenrab 2-43: the dedicating phenomenon never dedicates virtue to the phenomenon that is the object. Hindi 'धर्म की परिणामना' reads as a phenomenon being dedicated, not dedicated to a phenomenon.",
+     "fix": "धर्म द्वारा धर्म के प्रति कभी परिणामना नहीं की जाती"
+    }
+   ]
+  },
+  {
+   "id": "2-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-48",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "batch": "calibration",
+ "segments": [
+  {
+   "id": "1-11",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "वे भी उपलब्ध होते हैं",
+     "evidence": "Tibetan \"དམིགས་པར་མི་འགྱུར\" means \"do not become objects of apprehension / are not apprehended\" (Sanskrit \"नो चापि सो लभति\"); the translation affirms apprehension, reversing the negation.",
+     "fix": "जिन धर्मों में वह आचरण करता है, वे भी उपलब्ध नहीं होते"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "सुगतों की प्रज्ञा में आचरण करता है",
+     "evidence": "Tibetan \"བདེ་གཤེགས་རྣམས་ཀྱི་ཤེས་རབ་སྤྱོད\" and Sanskrit \"चरति सुगतान प्रज्ञां\" take prajna as the object practised (genitive: of the Sugatas), not a place \"in which\" one practises.",
+     "fix": "सुगतों की प्रज्ञा का आचरण करता है"
+    }
+   ]
+  },
+  {
+   "id": "1-14",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "वह जिनों की माता को सुनकर भयभीत हो जाता है",
+     "evidence": "Tibetan \"སྐྲག་པར་ཡོང་མི་འགྱུར\" = \"will never become afraid\" (Sanskrit \"त्रासो न भेष्यति\"); the translation drops the negation and says he becomes frightened, reversing the verse and contradicting the contrast with the pāpamitra line.",
+     "fix": "वह जिनों की माता को सुनकर भयभीत नहीं होता"
+    }
+   ]
+  },
+  {
+   "id": "1-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "श्रेष्ठ व्यक्तियों",
+     "evidence": "Locked term for \"གང་ཟག་དམ་པ\" is \"श्रेष्ठ पुद्गल\"; \"व्यक्ति\" is used instead of \"पुद्गल\".",
+     "fix": "श्रेष्ठ पुद्गलों"
+    }
+   ]
+  },
+  {
+   "id": "1-23",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "सब प्राणियों को निर्वाण में स्थापित करने का संकल्प करता है",
+     "evidence": "No such clause in the Tibetan (\"སྐྱེ་མེད་རྣམ་པར་བསམས་ཏེ་འདི་ལྟར་སྤྱོད་བྱེད་ཅིང་། སྙིང་རྗེ་ཆེན་པོ་བསྐྱེད་ཀྱང་…\") or the Sanskrit; the commentaries (bo-mipham 1-23, bo-rangjung 1-23, bo-khenrab 1-23) do not mention a resolve to establish beings in nirvana. It also fragments the syntax: \"इस प्रकार आचरण करता है\" is the verb of the clause and \"महाकरुणा उत्पन्न करने पर भी\" follows directly.",
+     "fix": "अजात का विचार कर इस प्रकार आचरण करता है, (उक्त वाक्यांश हटाएँ)"
+    }
+   ]
+  },
+  {
+   "id": "1-24",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "यह परम प्रज्ञापारमिता में आचरण है",
+     "evidence": "Tibetan \"ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་མ་ཡིན\" = \"is NOT the practice of the supreme perfection of wisdom\" (Sanskrit \"न च एष प्रज्ञवरपारमिताय चर्या\"); the translation asserts the opposite, which also contradicts the conditional \"if one conceptualizes self and beings\".",
+     "fix": "यह परम प्रज्ञापारमिता का आचरण नहीं है"
+    }
+   ]
+  },
+  {
+   "id": "2-1",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "वह धर्मता में स्थित नहीं है",
+     "evidence": "Tibetan \"རྣམ་ཤེས་གང་མི་གནས་པ་ཆོས་ཉིད་གནས་པ་སྟེ\" = one who does not abide in consciousness DOES abide in dharmata (Sanskrit \"स्थितु धर्मतायां\"); the translation adds a negation, reversing the point of the verse.",
+     "fix": "वह धर्मता में स्थित है"
+    }
+   ]
+  },
+  {
+   "id": "2-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-7",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "अर्हद्भूमि में सीखता है, प्रत्येकबुद्धभूमि में भी",
+     "evidence": "Tibetan \"དགྲ་བཅོམ་ས་ལ་མི་སློབ་རྐྱེན་རྟོགས་ས་ལ་མིན\" = does NOT train in the arhat stage nor the pratyekabuddha stage (Sanskrit \"नार्हंमि शिक्षति न प्रत्ययबुद्धभूमौ\"); the translation affirms training there and contradicts the next line (trains for omniscience following Buddha qualities).",
+     "fix": "अर्हद्भूमि में नहीं सीखता, प्रत्येकबुद्धभूमि में भी नहीं"
+    }
+   ]
+  },
+  {
+   "id": "2-25",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "अवशेष",
+     "evidence": "Locked rendering of \"རིང་བསྲེལ\" is \"शरीर-धातु\"; \"अवशेष\" (remains) is vaguer and does not reflect \"धातु\" (Sanskrit \"जिनधातु\").",
+     "fix": "शरीर-धातुएँ"
+    }
+   ]
+  },
+  {
+   "id": "2-51",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "—",
+     "evidence": "Tibetan \"ཕ་རོལ་ཕྱིན་འདིར་སྤྱོད་པ་མཁས་པ་སོམ་ཉི་མེད\" says the bodhisattva is skilled AND without doubt (Sanskrit \"न च काङ्क्षति\"; bo-mipham 2-51: \"ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་དོན་ལ་མཁས་པ་དང་དེ་ལ་སོམས་ཉི་མེད\"); the translation omits \"without doubt\".",
+     "fix": "इस पारमिता के आचरण में कुशल और संशय-रहित था"
+    }
+   ]
+  },
+  {
+   "id": "4-1",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "देवराज ब्रह्मा",
+     "evidence": "Tibetan \"ལྷ་རྒྱལ་བརྒྱ་བྱིན\" and Sanskrit \"शक्रो … देवराजो\" name Śakra (Indra); locked rendering is \"देवराज शक्र\". Brahmā is a different deity (wrong referent).",
+     "fix": "देवराज शक्र"
+    }
+   ]
+  },
+  {
+   "id": "4-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-46",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "यह स्कन्ध, धातु और आयतनों का कवच है",
+     "evidence": "Tibetan \"ཕུང་པོ་ཁམས་དང་སྐྱེ་མཆེད་རྣམས་ཀྱི་གོ་ཆ་མིན\" = it is NOT the armor of aggregates, elements and sense bases (Sanskrit \"न च स्कन्धधातु न च आयतनैः सनद्धाः\"); the translation drops the negation.",
+     "fix": "यह स्कन्ध, धातु और आयतनों का कवच नहीं है"
+    }
+   ]
+  },
+  {
+   "id": "4-57",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "अन्य श्रमणों और ब्राह्मणों का आश्रय लेते हैं",
+     "evidence": "Tibetan \"དགེ་སྦྱོང་དག་དང་བྲམ་ཟེ་གཞན་ལ་རྟེན་མི་བྱེད\" = they do NOT rely on other śramaṇas and brahmins (Sanskrit \"न च अन्य ते श्रमण ब्राह्मण आश्रयन्ति\"); the negation is dropped.",
+     "fix": "अन्य श्रमणों और ब्राह्मणों का आश्रय नहीं लेते"
+    }
+   ]
+  },
+  {
+   "id": "4-66",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "सौ कल्पों तक",
+     "evidence": "Tibetan \"བསྐལ་མང་བྱེ་སྟོང\" = many (thousands of) tens of millions of kalpas (Sanskrit \"बहुकल्पसहस्रकोटयो\"); \"सौ कल्प\" is a wrong number and drastically reduces the quantity.",
+     "fix": "अनेक सहस्र कोटि कल्पों तक"
+    }
+   ]
+  },
+  {
+   "id": "4-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-71",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "भस्म हो जाती है",
+     "evidence": "Tibetan \"སྙིང་པོ་ཚིག་མིན\" = the wick is NOT burned by the first contact with the flame (Sanskrit \"न च दग्ध वर्ति\"); the translation says it is burned, contradicting the parallel lines 2-4, all of which state it is not burned.",
+     "fix": "भस्म नहीं होती"
+    }
+   ]
+  },
+  {
+   "id": "4-92",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "किसान",
+     "evidence": "Tibetan \"དེད་དཔོན\" = caravan leader / merchant (Sanskrit \"सार्थवाह\"); \"किसान\" (farmer) is a wrong referent, and a merchant is who travels to a jewel island.",
+     "fix": "सार्थवाह (व्यापारी-नायक)"
+    }
+   ]
+  },
+  {
+   "id": "5-4",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "नष्ट होने से",
+     "evidence": "Tibetan \"འབྱོར་པས\" = (through) the accomplishment / success of the various blessings of truth (Sanskrit \"समृद्ध्ययन्ति\"); the conceit arises from their success. \"नष्ट होने\" (being destroyed) reverses the meaning.",
+     "fix": "सिद्ध होने से"
+    }
+   ]
+  },
+  {
+   "id": "5-9",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "पचास योजन",
+     "evidence": "Tibetan \"དཔག་ཚད་ལྔ་བརྒྱ\" and Sanskrit \"पञ्चयोजनशते\" = five hundred yojanas; \"पचास\" (fifty) is a wrong number.",
+     "fix": "पाँच सौ योजन"
+    }
+   ]
+  },
+  {
+   "id": "5-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-24",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "परित्याग करना चाहिए",
+     "evidence": "Tibetan \"རྣལ་འབྱོར་དོར་མི་བྱ\" = should NOT abandon the yoga (Sanskrit \"योगु न रिञ्चितव्यो\"); the translation drops the negation and says one should abandon it, contradicting the jewel simile.",
+     "fix": "परित्याग नहीं करना चाहिए"
+    }
+   ]
+  },
+  {
+   "id": "5-47",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

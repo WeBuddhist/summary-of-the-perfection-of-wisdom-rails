@@ -1,0 +1,167 @@
+{
+ "batch": "batch-11",
+ "segments": [
+  {
+   "id": "5-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-16",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "doctrinal",
+     "severity": "major",
+     "span": "極度飢餓之有情希求於飲食",
+     "evidence": "Tibetan has སེམས་ཅན་ཡོངས་སུ་ལྟོགས་པ་ཟས་ལ་འདོད་བྱེད་, but all three commentaries read the word as full conceptualisation/misconception, not physical hunger: bo-mipham 5-16 \"ཚུལ་བཞིན་མ་ཡིན་པའི་ཡོངས་སུ་རྟོག་པ་ཅན་དུ་གྱུར་པ ... འདོད་པའི་ཡོན་ཏན་གྱི་ཟས་ལ་འདོད་པ་སྐྱེ་བར་བྱེད\", bo-rangjung 5-16 \"ཡོངས་སུ་རྟོགས་པས་འདོད་ཡོན་གྱི་ཟས་ལ་འདོད་པར་བྱེད\", bo-khenrab 5-16 similar; the Sanskrit has parikalpayamāna (conceptualising) and the approved English reads \"fully conceptualizing\". \"Food\" is the food of sense pleasures, not literal food; the translation instead says beings are extremely hungry.",
+     "fix": "有情由全面分別計執而貪求（欲樂之）食"
+    }
+   ]
+  },
+  {
+   "id": "5-17",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "因疑慮之想而引發中毒",
+     "evidence": "Tibetan དོགས་པའི་འདུ་ཤེས་ཀྱིས་ནི་དུག་བསླང་བ with next line \"the poison has not gone inside\". bo-mipham 5-17: \"དུག་ཁོང་དུ་སོང་ངོ་སྙམ་དུ་དུག་གི་རྟོག་པ་མངོན་གྱུར་དུ་སྐྱེས་པ\" and bo-khenrab 5-17 \"དུག་ཁོང་དུ་སོང་ངོ་སྙམ་པའི་རྣམ་རྟོག་མངོན་གྱུར་སྐྱེས\": the thought of having taken poison arises. \"引發中毒\" can be read as actually causing poisoning, which the next line denies.",
+     "fix": "因疑慮之想而生起已中毒之念"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "實為無常",
+     "evidence": "Tibetan ཡང་དག་མི་རྟག་ is glossed by the commentaries as an unreal (ཡང་དག་པ་མིན་པ) perception/conception of self: bo-mipham 5-17 \"བདག་ཅེས་བྱ་བའི་ཡུལ་དེར་འདུ་ཤེས་པ་ཡང་དག་པ་མིན་པའི་རྟོག་པ་འབྱུང་ཞིང་དེའི་དབང་གིས་སྲིད་པར་སྐྱེ་ཞིང་འཆི་བ\", bo-khenrab 5-17 \"ཡང་དག་པ་མིན་པའི་ཀུན་རྟོག\"; Sanskrit has sadā abhūto (constantly, unreal). The Chinese \"實為無常\" has no clear subject and drops the point that the self-perception is unreal, replacing it with \"truly impermanent\".",
+     "fix": "憑藉對彼我之不真實想，於無常中不斷生死"
+    }
+   ]
+  },
+  {
+   "id": "5-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "於此無有任何法轉為煩惱或完全清淨",
+     "evidence": "Tibetan འདི་ལ་གང་ཡང་ཉོན་མོངས་རྣམ་དག་འགྱུར་མེད་པར; ཉོན་མོངས་ is a verb (be afflicted), and the agent is a person: bo-mipham 5-18 \"གང་ཟག་གང་ཡང་ཉོན་མོངས་པར་གྱུར་པ་དང་ ... རྣམ་པར་དག་པ་ཉིད་དུ་འགྱུར་བ་ཡང་མེད་པར\"; Sanskrit kaścid yo kliśyate śudhyate vā. The Chinese makes a \"法\" turn into 煩惱 (a noun), which shifts the referent and the sense.",
+     "fix": "於此無有任何者被煩惱所染或成為完全清淨"
+    }
+   ]
+  },
+  {
+   "id": "5-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "The verse is concessive: the final particle ཡང་ in བྱང་ཆུབ་རྒྱུར་བསྔོ་ཡང་ (\"even if ... dedicate\"), explained in bo-rangjung 5-19 \"བསྔོ་ཡང༌། གང་ཟག་གང་ལ་ལ་ཞིག ... དེ་ལ་ ... ཆར་ཡང་མི་ཕོད\". The Chinese has no 縱使/即使, so the four lines read as a plain statement and the concession set up for the next verse is lost.",
+     "fix": "縱使南贍部洲所有一切有情無一例外"
+    }
+   ]
+  },
+  {
+   "id": "5-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-25",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "神鬼",
+     "evidence": "Tibetan སྲིན་བུ་མེ་ཁྱེར་ ... སྲོག་ཆགས་འབྱུང་པོ་ཐམས་ཅད་ lists creatures with faint light of their own (Sanskrit krimi-jyotika-prāṇa-bhūtām). bo-mipham 5-25: \"སྲིན་བུ་མེ་ཁྱེར་ ... རང་གི་ལུས་ཀྱི་འོད་ ... སྣང་བར་བྱེད་པ་སྲོག་ཆགས་འབྱུང་པོ་ཐམས་ཅད\"; bo-khenrab 5-25 \"རང་ལུས་ཀྱི་འོད་ཀྱིས་ཉེ་བསྐོར་གྱི་མུན་པ་ཙམ་སེལ་ནུས་པ་སྲོག་ཆགས་འབྱུང་པོ་ཐམས་ཅད\". These are living creatures, not gods and ghosts; \"神鬼\" adds a different class of beings and breaks the simile (fireflies/creatures map to beings, arhats).",
+     "fix": "一切螢火蟲與一切生靈"
+    }
+   ]
+  },
+  {
+   "id": "5-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-27",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "成為眾人之尊",
+     "evidence": "Tibetan ཀུན་གྱི་གཙོ་བོར་གྱུར་ཏེ: \"all\" refers to the other princes. bo-mipham 5-27 \"རྒྱལ་བའི་སྲས་ཀུན་གྱི་གཙོ་བོར་གྱུར་ཏེ\", bo-khenrab 5-27 \"རྒྱལ་པོའི་སྲས་ཀུན་གྱི་གཙོ་བོར་གྱུར་ཏེ\". The Chinese widens it to chief of all people.",
+     "fix": "成為諸王子之首"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "獲得方便安住王位",
+     "evidence": "Tibetan ཐབས་ཐོབ་གྱུར་ཏེ་རྒྱལ་སྲིད་གནས་ནས: bo-mipham 5-27 \"རྒྱལ་ས་ལ་དབང་བའི་ཐབས་ཐོབ་པར་གྱུར་ཏེ་རྒྱལ་སྲིད་ལ་གནས་པའི་རྒྱལ་པོར་གྱུར་ནས\", bo-khenrab 5-27 \"རྒྱལ་སྲིད་ཀྱི་ཐབས་ཐོབ་པར་གྱུར་ཏེ\": the means/power to rule the kingdom (enthronement), not skillful means in the Buddhist sense. Bare \"獲得方便\" is opaque and reads as upāya.",
+     "fix": "獲得執掌王權之方便而安住王位"
+    }
+   ]
+  },
+  {
+   "id": "5-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-31",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

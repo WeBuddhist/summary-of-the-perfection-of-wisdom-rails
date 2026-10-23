@@ -1,7 +1,8 @@
 ---
-title: Verses on the Collection of the Precious Qualities of the Perfection of Wisdom — DharmaMitra zero-shot (english)
+title: The Verse Summary of the Perfection of Wisdom
 track: DharmaMitra zero-shot (english)
 title_original: ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྡུད་པ་ཚིགས་སུ་བཅད་པ།
+title_source: "machine: DharmaMitra cat-translate of the work's own title block (^0-1), 2026-10-04; titles are unique per language on the library, so the Tibetan text's English title is not reused"
 language: English
 lang_tag: en
 file_type: translation
@@ -9,10 +10,10 @@ track_type: machine-baseline
 root_text: 1-SOURCES/Translations/bo-ratnagunasancayagatha.md
 translation_of_text_id: null
 translation_of_edition_id: null
-text_id:
-edition_id:
-toc_id:
-category_id: null
+text_id: x4sV82WrJU2ZNgcSDakXy
+edition_id: rOTNpCrYZuiFiNEx9tent
+toc_id: 3r7gyeQHHH2PPw7Foms15
+category_id: uGpinx0GZlvU1uw44RyYS
 license: public
 translator: dharmamitra cat-translate v1
 source: https://dharmamitra.org
@@ -24,7 +25,7 @@ endpoint: https://dharmamitra.org/api-search/cat-translate/v1/translate
 focus: tibetan
 context_blocks: 3
 batching: <=3 blocks/call, <=900 src chars, <=6000 payload chars
-style_instruction: "This is a section heading of the Tibetan Verse Summary of the Perfection of Wisdom (Ratnaguṇasañcayagāthā). Translate it into the target language as a short heading: one line only, no sentence, no commentary, no explanation, no quotation marks. Keep any leading numeral exactly as it is. Keep proper names in their standard Sanskrit forms."
+style_instruction: "Translate this passage of the Tibetan Verse Summary of the Perfection of Wisdom (Ratnaguṇasañcayagāthā, the Sūtra in Verse on the Precious Qualities) into clear, accurate English. Translate the whole passage completely and in the same order: do not summarise, shorten or omit anything, and keep the same number of lines as the source. Keep proper names in their standard Sanskrit forms (Subhūti, Śāriputra, Maitreya, Mañjuśrī, Rājagṛha) and established technical terms recognisable (prajñāpāramitā = perfection of wisdom, bodhisattva). Do not add commentary, notes, or explanation of your own."
 rails_used: none
 generated: 2026-10-04
 blocks_translated: 308
@@ -32,9 +33,10 @@ blocks_total: 308
 headings_translated: 9
 note: Machine baseline — not a rails-governed translation. Every line below is raw DharmaMitra `cat-translate` output, produced in small batches of adjacent blocks with no termbase, no verse-context rails, and no human review. It is a comparison baseline and a drafting aid only. See `about.md` in this folder.
 status: draft
+aligned_to_edition_id: fYnGwQC4fH8Fa37vLUiXD
 ---
 
-# Verses on the Collection of the Precious Qualities of the Perfection of Wisdom — DharmaMitra zero-shot (english) ^0
+# The Verse Summary of the Perfection of Wisdom ^0
 
 ![[bo-ratnagunasancayagatha#^0-1]]
 
@@ -1042,7 +1044,8 @@ It will surely meet with disaster and ruin. ^4-53
 
 ![[bo-ratnagunasancayagatha#^4-54]]
 
-Even if these five perfections of the Victors were practiced for many hundreds of billions of eons,
+Even if these five perfections of the Victors were practiced
+For many tens of billions of eons,
 And one constantly relied upon infinite and vast aspirations within the world,
 Without skillful means and separated from wisdom, one falls into the level of a śrāvaka. ^4-54
 
@@ -1103,9 +1106,10 @@ One should know that these are the signs of the state of non-retrogression. ^4-6
 
 ![[bo-ratnagunasancayagatha#^4-63]]
 
-Form, feeling, perception, volition, and consciousness are profound; by nature, they are signless and utterly peaceful.
-For example, just as one might seek to reach the bottom of the ocean with an arrow,
-When the aggregates are analyzed with wisdom, their bottom cannot be found. ^4-63
+Form, feeling, perception, volition, and consciousness,
+Are profound, by nature signless, and utterly peaceful.
+Just as one might seek to reach the bottom of the ocean with an arrow,
+When analyzed with wisdom, the depth of the aggregates cannot be found. ^4-63
 
 ![[bo-ratnagunasancayagatha#^4-64]]
 
@@ -1179,9 +1183,10 @@ It is not the case that awakening does not exist because that mind has ceased. ^
 
 ![[bo-ratnagunasancayagatha#^4-74]]
 
-Just as a water jar is gradually filled, little by little, from the first drop to the last,
-So too, the initial mind is the cause of supreme awakening;
-By gradually perfecting virtuous qualities, one becomes a Buddha. ^4-74
+Just as a water jar is gradually filled from the first drop to the last,
+Little by little, it is completely filled;
+So too, the initial mind is the cause of supreme enlightenment,
+And by gradually perfecting virtuous qualities, one becomes a Buddha. ^4-74
 
 ![[bo-ratnagunasancayagatha#^4-75]]
 
@@ -1269,9 +1274,10 @@ If that person so desires, the arrow will fall to the ground. ^4-86
 
 ![[bo-ratnagunasancayagatha#^4-87]]
 
-Likewise, those who practice the supreme perfection of wisdom,
-And who act through the power of wisdom, skillful means, and miraculous abilities,
-Will not attain that sublime emptiness as long as their roots of virtue are not yet complete. ^4-87
+In this way, those who practice the supreme perfection of wisdom,
+Acting through wisdom, skillful means, strength, and miraculous powers,
+As long as their roots of virtue are not yet complete,
+So long will they not attain that supreme emptiness. ^4-87
 
 ![[bo-ratnagunasancayagatha#^4-88]]
 
@@ -1397,8 +1403,9 @@ Should be known as one of small intelligence who has been instigated by Māra. ^
 
 ![[bo-ratnagunasancayagatha#^5-7]]
 
-A bodhisattva who frequents secluded villages, cities, mountain clefts,
-And remote forest hermitages, yet praises themselves and disparages others,
+Even if they frequent secluded villages, cities, mountain caves,
+And rely upon remote hermitages and forest retreats,
+A bodhisattva who praises themselves and disparages others
 Should be known as one of small intelligence who has been instigated by Māra. ^5-7
 
 ![[bo-ratnagunasancayagatha#^5-8]]
@@ -1508,14 +1515,17 @@ Should day and night apply themselves to the perfection of wisdom. ^5-22
 
 ![[bo-ratnagunasancayagatha#^5-23]]
 
-Just as a person who finds a supreme jewel they had never found before is filled with joy,
-But if, immediately after finding it, they become careless and lose it,
+Just as a person who finds a supreme jewel they had never found before,
+Is filled with joy at having found it at another time,
+If they become careless and lose it immediately after finding it,
 They will suffer constant longing for the jewel they have lost. ^5-23
 
 ![[bo-ratnagunasancayagatha#^5-24]]
 
-Likewise, those who have entered supreme enlightenment should never abandon their yoga of the perfection of wisdom, which is like a precious jewel.
-Just as one who finds a jewel, takes it up, wraps it carefully, and hurrying along, reaches a state of peace, ^5-24
+In this way, those who have entered supreme enlightenment should never abandon
+The yoga of the perfection of wisdom, which is like a precious jewel.
+Just as one who finds a jewel, takes it up, and wraps it with great care,
+Will quickly travel on and reach a state of peace. ^5-24
 
 ![[bo-ratnagunasancayagatha#^5-25]]
 
@@ -1708,9 +1718,10 @@ Acting exactly as one speaks, and possessing the blessings of the Sugatas. ^5-51
 
 ![[bo-ratnagunasancayagatha#^5-52]]
 
-When this Perfection of Wisdom, the Mother of the Tathāgatas, is being taught,
-Any bodhisattva who feels devotion and applies themselves with sincere resolve to its realization,
-Know that such a one has entered into omniscience itself. ^5-52
+When this perfection of wisdom, the Mother of the Tathāgatas, is taught,
+Any bodhisattva who feels devotion and, with sincere resolve,
+Applies themselves with effort to its realization,
+Should be known as one who has entered into omniscience itself. ^5-52
 
 ![[bo-ratnagunasancayagatha#^5-53]]
 
@@ -1917,8 +1928,9 @@ The wise and clear-minded should be known as having initiated diligence. ^5-81
 
 ![[bo-ratnagunasancayagatha#^5-82]]
 
-If someone were to say, "After you have demolished Mount Meru,
-You will attain supreme enlightenment," and if one then considers the extent of the weariness that would arise,
+If someone were to say, "Only after demolishing Mount Meru
+Will you attain supreme enlightenment," and if one then
+Considers the extent of the weariness that would arise,
 At that moment, the bodhisattva has become lazy. ^5-82
 
 ![[bo-ratnagunasancayagatha#^5-83]]
@@ -2077,9 +2089,10 @@ Than they would from acquiring those continents. ^5-104
 
 ![[bo-ratnagunasancayagatha#^5-105]]
 
-When wise and brilliant bodhisattvas give a gift, they think,
-"May this gift be given to every single sentient being throughout the three realms of existence,"
-And having given it, they dedicate it toward supreme enlightenment for the benefit of all beings. ^5-105
+The wise and luminous bodhisattva, thinking, "May this gift be given
+To all sentient beings throughout the three realms of existence,"
+Bestows the gift, and having done so,
+Dedicates it to supreme enlightenment for the benefit of all beings. ^5-105
 
 ![[bo-ratnagunasancayagatha#^5-106]]
 
@@ -2104,8 +2117,10 @@ By that complete dedication, one will outshine all living beings. ^5-108
 
 ![[bo-ratnagunasancayagatha#^5-109]]
 
-Just as a single precious lapis lazuli gem outshines a massive heap of ordinary glass trinkets,
-So too does the rejoicing of a bodhisattva outshine all the vast heaps of generosity of all beings. ^5-109
+Even a massive heap of ordinary glass trinkets
+Is outshone by a single precious lapis lazuli gem;
+Likewise, all the vast heaps of generosity of all beings
+Are outshone by a bodhisattva who rejoices. ^5-109
 
 ![[bo-ratnagunasancayagatha#^5-110]]
 
@@ -2174,4 +2189,4 @@ May the Noble Verses Summarizing the Perfection of Wisdom be complete. ^8-3
 
 ![[bo-ratnagunasancayagatha#^8-4]]
 
-Translated and finalized by the Indian preceptor Vidyākarasiṃha and the chief editor and translator, the monk Paltshek. ^8-4
+Translated, edited, and finalized by the Indian preceptor Vidyākarasiṃha and the chief editor and translator, the monk Paltshek. ^8-4

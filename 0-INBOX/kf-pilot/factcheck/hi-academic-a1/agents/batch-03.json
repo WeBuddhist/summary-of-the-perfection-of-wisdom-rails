@@ -1,0 +1,129 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "2-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-12",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "प्रज्ञापारमिता की परम चर्या",
+     "evidence": "Tibetan ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་པ: མཆོག (supreme) qualifies the perfection of wisdom (Sanskrit प्रज्ञवरपारमिताय चर्या; bo-mipham 2-12 'ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མཆོག་ལ་སྤྱོད་པ'; bo-rangjung 2-12 'ཕ་རོལ་ཏུ་ཕྱིན་པའི་མཆོག་ལ་སྤྱོད་པ'). The Hindi moves 'supreme' onto the conduct (चर्या).",
+     "fix": "यह परम प्रज्ञापारमिता की चर्या है।"
+    }
+   ]
+  },
+  {
+   "id": "2-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "इसे पूर्णतः विचार में लेकर",
+     "evidence": "Tibetan ཡོངས་སུ་བརྟག་བཟུང་ is a hypothetical framing ('by way of supposition'); bo-khenrab 2-15 glosses it 'བརྟག་པ་མཐའ་བཟུང་གི་ཚུལ་གྱིས་དཔེར་བྱས་ན', bo-mipham 2-15 'དཔེར་བྱ་ན'. The Hindi adds an unexplained referent 'इसे' and 'विचार में लेकर' does not convey the supposition sense.",
+     "fix": "कल्पना के रूप में मान लें कि"
+    }
+   ]
+  },
+  {
+   "id": "2-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-23",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "अर्थात् शरीर-धातु",
+     "evidence": "Tibetan སངས་རྒྱས་རིང་བསྲེལ is rendered by its locked compound term बुद्ध-अवशेष; the gloss 'अर्थात् शरीर-धातु' (the locked rendering of the simple རིང་བསྲེལ) is not in the Tibetan or Sanskrit (बुद्धधातुः) and treats two locked terms as an equation.",
+     "fix": "बुद्ध-अवशेष"
+    }
+   ]
+  },
+  {
+   "id": "2-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-28",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

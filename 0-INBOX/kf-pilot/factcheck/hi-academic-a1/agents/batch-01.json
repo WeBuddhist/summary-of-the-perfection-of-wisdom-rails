@@ -1,0 +1,121 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "0-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-10",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "शान्ति में स्थित है",
+     "evidence": "Tibetan བདག་ཞིར་གནས་པ་ ('abides at peace in/as oneself'); bo-mipham 1-10 glosses བདག༷་གི་རྒྱུད་ཉེ་བར་ཞི༷་བར་གནས་པ ('whose own mindstream abides in peace'), and Sanskrit has ātma-śānti. The Hindi drops the 'own/within oneself' element; english_academic has 'at peace within themselves'.",
+     "fix": "अपने भीतर शान्त होकर स्थित है"
+    }
+   ]
+  },
+  {
+   "id": "1-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-12",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "निश्चित ही निर्याण प्राप्त करता है",
+     "evidence": "Tibetan ངེས་པར་འབྱུང་ means 'definitely emerges' (from extremes/saṃsāra: bo-mipham 1-12 མཐའ་ཐམས་ཅད་ལས་ངེས་པར་འབྱུང་བར་འགྱུར་རོ; bo-rangjung 1-10 འཁོར་བ་ལས་ངེས་པར་འབྱུང་). Hindi 'निर्याण' also commonly means departure/death and does not convey 'emerging', so the sense is obscured.",
+     "fix": "निश्चित ही (भव से) निःसृत हो जाता है"
+    }
+   ]
+  },
+  {
+   "id": "1-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-16",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

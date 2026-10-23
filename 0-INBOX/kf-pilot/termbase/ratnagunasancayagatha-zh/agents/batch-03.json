@@ -1,0 +1,707 @@
+{
+ "batch": "batch-03",
+ "terms": [
+  {
+   "term_id": "T003",
+   "bo": "ཤེས་རབ",
+   "sanskrit": "prajñā",
+   "senses": [
+    {
+     "sense": "wisdom",
+     "occurrences": "all",
+     "academic": "般若",
+     "children": "智慧",
+     "basis": "style-sheet",
+     "reason": "Core term: ཤེས་རབ 般若 for academic, 智慧 for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T016",
+   "bo": "རང་རྒྱལ",
+   "sanskrit": "pratyekabuddha",
+   "senses": [
+    {
+     "sense": "pratyekabuddha",
+     "occurrences": "all",
+     "academic": "獨覺",
+     "children": "獨自覺悟的人",
+     "basis": "style-sheet",
+     "reason": "Core term རང་རྒྱལ; Gemini 緣覺 refused by policy 4."
+    }
+   ]
+  },
+  {
+   "term_id": "T029",
+   "bo": "ཏིང་འཛིན",
+   "sanskrit": "samādhi",
+   "senses": [
+    {
+     "sense": "samādhi",
+     "occurrences": "all",
+     "academic": "三摩地",
+     "children": "深度安定",
+     "basis": "style-sheet",
+     "reason": "Core term ཏིང་འཛིན 三摩地; children 深度安定 per style sheet."
+    }
+   ]
+  },
+  {
+   "term_id": "T042",
+   "bo": "བཟོད་པ",
+   "sanskrit": "kṣānti",
+   "senses": [
+    {
+     "sense": "patience",
+     "occurrences": "all",
+     "academic": "安忍",
+     "children": "耐心",
+     "basis": "style-sheet",
+     "reason": "Core term བཟོད་པ; registers fix 安忍."
+    }
+   ]
+  },
+  {
+   "term_id": "T055",
+   "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+   "sanskrit": "prajñāpāramitā",
+   "senses": [
+    {
+     "sense": "perfection of wisdom",
+     "occurrences": "all",
+     "academic": "般若波羅蜜多",
+     "children": "圓滿的智慧",
+     "basis": "style-sheet",
+     "reason": "Core term for the perfection of wisdom; all spelling variants share it."
+    }
+   ]
+  },
+  {
+   "term_id": "T068",
+   "bo": "ཞིང",
+   "sanskrit": "kṣetra",
+   "senses": [
+    {
+     "sense": "field",
+     "occurrences": "all",
+     "academic": "剎土",
+     "children": "國土",
+     "basis": "new",
+     "reason": "Kṣetra: 剎土 in CBETA spelling per policy 1; children 國土 for \"land\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T081",
+   "bo": "འདུས་བྱས",
+   "sanskrit": "saṃskṛta",
+   "senses": [
+    {
+     "sense": "conditioned",
+     "occurrences": "all",
+     "academic": "有為",
+     "children": "由原因造成的",
+     "basis": "style-sheet",
+     "reason": "Policy 16: 有為 for འདུས་བྱས; children phrase follows \"made by causes\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T094",
+   "bo": "ངན་སོང་གསུམ",
+   "sanskrit": "tri-apāya",
+   "senses": [
+    {
+     "sense": "three lower realms",
+     "occurrences": "all",
+     "academic": "三惡趣",
+     "children": "三個較低的去處",
+     "basis": "zero-shot",
+     "reason": "Established term for the three lower rebirths, matches Gemini; children phrase follows \"lower realms\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T107",
+   "bo": "འབྲས་བུ",
+   "sanskrit": "phala",
+   "senses": [
+    {
+     "sense": "fruit",
+     "occurrences": "all",
+     "academic": "果",
+     "children": "成果",
+     "basis": "zero-shot",
+     "reason": "Established 果 (as in 得果); Gemini agrees; 成果 is the plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T120",
+   "bo": "ཆོས་དབྱིངས",
+   "sanskrit": "dharmadhātu",
+   "senses": [
+    {
+     "sense": "dharmadhātu",
+     "occurrences": "all",
+     "academic": "法界",
+     "children": "一切事物的廣闊空間",
+     "basis": "style-sheet",
+     "reason": "Parts agree with table (法 + 界, policy 18); children follows \"expanse of all things\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T133",
+   "bo": "ཞི་བ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "peace",
+     "occurrences": "all",
+     "academic": "寂靜",
+     "children": "平靜",
+     "basis": "english-pivot",
+     "reason": "English \"peace\"; 寂靜 kept distinct from 寂滅 (nirvāṇa) and 靜慮."
+    }
+   ]
+  },
+  {
+   "term_id": "T146",
+   "bo": "སྤྲོས་མེད",
+   "sanskrit": "niṣprapañca",
+   "senses": [
+    {
+     "sense": "free from elaboration",
+     "occurrences": "all",
+     "academic": "無戲論",
+     "children": "沒有糾纏不清的念頭",
+     "basis": "style-sheet",
+     "reason": "Policy 16: privative 無 + established 戲論; children follows \"tangled thinking\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T159",
+   "bo": "འཇིག་རྟེན་མཁྱེན་པ",
+   "sanskrit": "lokavid",
+   "senses": [
+    {
+     "sense": "Knower of the World",
+     "occurrences": "all",
+     "academic": "世間解",
+     "children": "通曉世界的人",
+     "basis": "zero-shot",
+     "reason": "Established epithet lokavid; 世間 per style sheet; Gemini agrees."
+    }
+   ]
+  },
+  {
+   "term_id": "T172",
+   "bo": "ལྟ",
+   "sanskrit": "dṛṣṭi",
+   "senses": [
+    {
+     "sense": "view",
+     "occurrences": [
+      "2-42"
+     ],
+     "academic": "見",
+     "children": "看法",
+     "basis": "english-pivot",
+     "reason": "Established 見 for dṛṣṭi; children \"view\" as 看法."
+    },
+    {
+     "sense": "longing to look (at sense objects)",
+     "occurrences": [
+      "4-16"
+     ],
+     "academic": "貪看",
+     "children": "想到處看",
+     "basis": "new",
+     "reason": "Editor fix 2026-10-08: Mipham and Khenrab gloss ལྟ་དང་བཅས་པའི་སེམས at 4-16 as wanting to look at outer objects."
+    }
+   ]
+  },
+  {
+   "term_id": "T185",
+   "bo": "ས་གཉིས",
+   "sanskrit": "bhūmi-dvaya",
+   "senses": [
+    {
+     "sense": "two stages",
+     "occurrences": "all",
+     "academic": "二地",
+     "children": "兩個層次",
+     "basis": "english-pivot",
+     "reason": "Two stages (śrāvaka and pratyekabuddha); 二地 matches Gemini; children \"two levels\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T198",
+   "bo": "རྣམ་ཐར་སྒོ",
+   "sanskrit": "vimokṣa-dvāra",
+   "senses": [
+    {
+     "sense": "doors of liberation",
+     "occurrences": "all",
+     "academic": "解脫門",
+     "children": "通往自由的門",
+     "basis": "style-sheet",
+     "reason": "Policy 16: 解脫門 for the doors of liberation; children follows \"doors to freedom\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T211",
+   "bo": "བསླབ་པ",
+   "sanskrit": "śikṣā",
+   "senses": [
+    {
+     "sense": "training",
+     "occurrences": "all",
+     "academic": "學處",
+     "children": "學習",
+     "basis": "zero-shot",
+     "reason": "Gemini 學處 for the object of training; 學習 is the plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T224",
+   "bo": "དགེ་འདུན",
+   "sanskrit": "saṃgha",
+   "senses": [
+    {
+     "sense": "Sangha",
+     "occurrences": "all",
+     "academic": "僧伽",
+     "children": "僧團",
+     "basis": "english-pivot",
+     "reason": "Established 僧伽 for saṃgha; children 僧團 for \"the community\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T237",
+   "bo": "དྲི་མ",
+   "sanskrit": "mala",
+   "senses": [
+    {
+     "sense": "stain",
+     "occurrences": "all",
+     "academic": "垢",
+     "children": "污垢",
+     "basis": "english-pivot",
+     "reason": "Established 垢 for mala; 污垢 is the plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T250",
+   "bo": "ཆགས་མེད",
+   "sanskrit": "asaṅga",
+   "senses": [
+    {
+     "sense": "unattached",
+     "occurrences": "all",
+     "academic": "無著",
+     "children": "不執著",
+     "basis": "style-sheet",
+     "reason": "Policy 16: 無 for མེད; established 無著 for asaṅga; children \"not clinging\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T263",
+   "bo": "རང་བཞིན་མེད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "devoid of intrinsic nature",
+     "occurrences": "all",
+     "academic": "無自性",
+     "children": "沒有自己的本性",
+     "basis": "style-sheet",
+     "reason": "Policy 16: privative 無 + 自性; children follows \"nature of its own\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T276",
+   "bo": "བཀའ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "word",
+     "occurrences": "all",
+     "academic": "教言",
+     "children": "教誨",
+     "basis": "zero-shot",
+     "reason": "Gemini 教言 for the Buddha's word; 教誨 is the plain child word."
+    }
+   ]
+  },
+  {
+   "term_id": "T289",
+   "bo": "འཁོར་ལོས་སྒྱུར་རྒྱལ",
+   "sanskrit": "cakravartin",
+   "senses": [
+    {
+     "sense": "universal monarch",
+     "occurrences": "all",
+     "academic": "轉輪王",
+     "children": "統治全世界的君王",
+     "basis": "english-pivot",
+     "reason": "Established 轉輪王 for cakravartin; children follows \"ruler of the whole world\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T302",
+   "bo": "ཚངས་པ",
+   "sanskrit": "brahmā",
+   "senses": [
+    {
+     "sense": "Brahmā",
+     "occurrences": "all",
+     "academic": "梵天",
+     "children": "梵天",
+     "basis": "english-pivot",
+     "reason": "Established Chinese name for Brahmā; transparent for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T315",
+   "bo": "འགགས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "cease",
+     "occurrences": "all",
+     "academic": "滅",
+     "children": "停止",
+     "basis": "zero-shot",
+     "reason": "Gemini 滅 in \"already ceased\"; 停止 is the plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T328",
+   "bo": "རྒ་དང་ན་དང་འཆི་བ",
+   "sanskrit": "jarā-vyādhi-mṛtyu",
+   "senses": [
+    {
+     "sense": "aging, sickness, and death",
+     "occurrences": "all",
+     "academic": "老病死",
+     "children": "變老、生病和死亡",
+     "basis": "english-pivot",
+     "reason": "Established triad 老病死; children translates the English triad."
+    }
+   ]
+  },
+  {
+   "term_id": "T341",
+   "bo": "བར་དུ་གཅོད",
+   "sanskrit": "antarāya",
+   "senses": [
+    {
+     "sense": "obstacle",
+     "occurrences": "all",
+     "academic": "障礙",
+     "children": "阻礙",
+     "basis": "english-pivot",
+     "reason": "Established 障礙 for antarāya; 阻礙 is the plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T354",
+   "bo": "འཇིག་རྟེན་སྟོན་པ",
+   "sanskrit": "lokadarśika",
+   "senses": [
+    {
+     "sense": "Teacher of the World",
+     "occurrences": "all",
+     "academic": "世間大師",
+     "children": "世界的老師",
+     "basis": "style-sheet",
+     "reason": "Policy 8: སྟོན་པ is 大師, འཇིག་རྟེན is 世間; Gemini 導師 refused."
+    }
+   ]
+  },
+  {
+   "term_id": "T367",
+   "bo": "ཆོས་ཀུན",
+   "sanskrit": "sarva-dharma",
+   "senses": [
+    {
+     "sense": "all phenomena",
+     "occurrences": "all",
+     "academic": "一切法",
+     "children": "一切事物",
+     "basis": "style-sheet",
+     "reason": "ཆོས phenomena is 法; collective 一切法; children 事物."
+    }
+   ]
+  },
+  {
+   "term_id": "T380",
+   "bo": "ཡོངས་འདྲེན",
+   "sanskrit": "pariṇāyaka",
+   "senses": [
+    {
+     "sense": "Guide",
+     "occurrences": "all",
+     "academic": "導師",
+     "children": "導師",
+     "basis": "style-sheet",
+     "reason": "Policy 8: every Tibetan \"Guide\" epithet is 導師."
+    }
+   ]
+  },
+  {
+   "term_id": "T393",
+   "bo": "སངས་རྒྱས་ཐེག་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "Buddha vehicle",
+     "occurrences": "all",
+     "academic": "佛乘",
+     "children": "佛陀的乘",
+     "basis": "english-pivot",
+     "reason": "Established 佛乘; children keeps transparent 乘 with 佛陀."
+    }
+   ]
+  },
+  {
+   "term_id": "T406",
+   "bo": "འདོད་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "desire",
+     "occurrences": "all",
+     "academic": "欲",
+     "children": "慾望",
+     "basis": "zero-shot",
+     "reason": "Gemini 欲 for འདོད་པ; 慾望 is the plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T419",
+   "bo": "ལུང་མ་བསྟན",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "unprophesied",
+     "occurrences": "all",
+     "academic": "未得授記",
+     "children": "未被預言",
+     "basis": "english-pivot",
+     "reason": "English \"unprophesied\": not yet given a prediction of buddhahood (授記); children plain \"not predicted\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T432",
+   "bo": "བདུད་ཀྱི་སྤྱོད་ཡུལ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "domain of Māra",
+     "occurrences": "all",
+     "academic": "魔之行境",
+     "children": "魔王的地盤",
+     "basis": "style-sheet",
+     "reason": "བདུད is 魔 (children 魔王); སྤྱོད་ཡུལ is 行境; children phrase is plain."
+    }
+   ]
+  },
+  {
+   "term_id": "T445",
+   "bo": "རྣམ་དག",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "completely pure",
+     "occurrences": "all",
+     "academic": "完全清淨",
+     "children": "純淨",
+     "basis": "english-pivot",
+     "reason": "English \"completely pure\"; children \"pure\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T458",
+   "bo": "ལུས་སེམས་ངག",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "body, mind, and speech",
+     "occurrences": "all",
+     "academic": "身、心、語",
+     "children": "身體、心思和言語",
+     "basis": "english-pivot",
+     "reason": "Tibetan order body, mind, speech; children follows English pivot."
+    }
+   ]
+  },
+  {
+   "term_id": "T471",
+   "bo": "འོད་བྱེད",
+   "sanskrit": "prabhaṃkara",
+   "senses": [
+    {
+     "sense": "light-maker",
+     "occurrences": "all",
+     "academic": "作光者",
+     "children": "製造光明的人",
+     "basis": "new",
+     "reason": "Prabhaṃkara light-maker; Gemini 作光明; epithet form 作光者 proposed, ⚑ no firm canonical term."
+    }
+   ]
+  },
+  {
+   "term_id": "T484",
+   "bo": "ཉེ་བར་ཞི་བ",
+   "sanskrit": "upaśānta",
+   "senses": [
+    {
+     "sense": "total peace",
+     "occurrences": "all",
+     "academic": "極寂靜",
+     "children": "完全平靜",
+     "basis": "english-pivot",
+     "reason": "ཉེ་བར་ཞི་བ \"total peace\": 寂靜 with intensifier 極, kept apart from 完全清淨."
+    }
+   ]
+  },
+  {
+   "term_id": "T497",
+   "bo": "ཕ་རོལ་སོན་པ",
+   "sanskrit": "pāraga",
+   "senses": [
+    {
+     "sense": "reach the far shore",
+     "occurrences": "all",
+     "academic": "到彼岸",
+     "children": "到達對岸",
+     "basis": "zero-shot",
+     "reason": "Established 到彼岸 for pāraga, matches Gemini; children \"far shore\" as 對岸."
+    }
+   ]
+  },
+  {
+   "term_id": "T510",
+   "bo": "ཟག་པ",
+   "sanskrit": "āsrava",
+   "senses": [
+    {
+     "sense": "outflow",
+     "occurrences": "all",
+     "academic": "漏",
+     "children": "內心的缺點",
+     "basis": "english-pivot",
+     "reason": "Established 漏 for āsrava (盡漏); children phrase follows \"inner flaw\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T523",
+   "bo": "སངས་རྒྱས་ཡོན་ཏན",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "qualities of a Buddha",
+     "occurrences": "all",
+     "academic": "佛功德",
+     "children": "佛陀美好的品質",
+     "basis": "style-sheet",
+     "reason": "Compound of 佛 and 功德 per style sheet; children 佛陀 + 美好的品質."
+    }
+   ]
+  },
+  {
+   "term_id": "T536",
+   "bo": "ལུས་དང་ངག་དང་ཡིད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "body, speech, and mind",
+     "occurrences": "all",
+     "academic": "身語意",
+     "children": "身體、言語和心思",
+     "basis": "english-pivot",
+     "reason": "Established 身語意; children follows English order."
+    }
+   ]
+  },
+  {
+   "term_id": "T549",
+   "bo": "གཤིན་རྗེའི་འཇིག་རྟེན",
+   "sanskrit": "yamaloka",
+   "senses": [
+    {
+     "sense": "world of Yama",
+     "occurrences": "all",
+     "academic": "閻魔世間",
+     "children": "閻王的世界",
+     "basis": "english-pivot",
+     "reason": "Yama as 閻魔, འཇིག་རྟེན as 世間 (children 世界 per style sheet)."
+    }
+   ]
+  },
+  {
+   "term_id": "T562",
+   "bo": "སེར་སྣ",
+   "sanskrit": "matsarin",
+   "senses": [
+    {
+     "sense": "miserliness",
+     "occurrences": "all",
+     "academic": "慳吝",
+     "children": "吝嗇",
+     "basis": "english-pivot",
+     "reason": "Established 慳 for matsara; 吝嗇 is the plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T575",
+   "bo": "བསོད་ནམས་བྱ་བའི་དངོས",
+   "sanskrit": "puṇya-kriyā-vastu",
+   "senses": [
+    {
+     "sense": "basis of meritorious action",
+     "occurrences": "all",
+     "academic": "福德作事",
+     "children": "累積福氣的善事",
+     "basis": "new",
+     "reason": "Parts 福德 + 作 + 事 per policy 18; ⚑ established 福業事 uses 福, not table 福德."
+    }
+   ]
+  },
+  {
+   "term_id": "T588",
+   "bo": "མི་ཡི་ཁྱུ་མཆོག",
+   "sanskrit": "puruṣarṣabha",
+   "senses": [
+    {
+     "sense": "Supreme Leader of Humans",
+     "occurrences": "all",
+     "academic": "人中牛王",
+     "children": "人類中最傑出的領袖",
+     "basis": "new",
+     "reason": "Established epithet puruṣarṣabha; Gemini 人中勝尊 differs; children follows \"Supreme Leader\"."
+    }
+   ]
+  }
+ ]
+}

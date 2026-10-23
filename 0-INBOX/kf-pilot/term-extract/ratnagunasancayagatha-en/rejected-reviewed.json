@@ -1,0 +1,24 @@
+[
+ {
+  "id": "5-101",
+  "bo": "ཞུམ་པའི་སེམས",
+  "dm": "discouraged mind",
+  "gm": "shrinking mind",
+  "origin": "gemini-review",
+  "bo_ok": true,
+  "dm_ok": false,
+  "gm_ok": true,
+  "status": "disagree"
+ },
+ {
+  "id": "5-110",
+  "bo": "སྦྱིན་པ",
+  "dm": "gift",
+  "gm": "gifts",
+  "origin": "gemini-review",
+  "bo_ok": false,
+  "dm_ok": true,
+  "gm_ok": true,
+  "status": "disagree"
+ }
+]

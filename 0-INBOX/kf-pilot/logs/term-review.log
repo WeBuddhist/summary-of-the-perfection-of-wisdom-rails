@@ -1,0 +1,27 @@
+(anon):setopt:7: can't change option: monitor
+
+[[31mERROR[39m]: gitstatus failed to initialize.
+
+
+  Add the following parameter to ~/.zshrc for extra diagnostics on error:
+
+    GITSTATUS_LOG_LEVEL=DEBUG
+
+  Restart Zsh to retry gitstatus initialization:
+
+    [32mexec zsh[39m
+batch-01: drop=2 fix=2 add=0 tokens in/out/think=2661/337/3154
+batch-02: drop=7 fix=0 add=0 tokens in/out/think=14141/1302/4029
+batch-03: drop=0 fix=4 add=47 tokens in/out/think=14357/3467/13300
+batch-04: drop=2 fix=4 add=46 tokens in/out/think=14119/3724/10290
+batch-05: drop=0 fix=0 add=2 tokens in/out/think=3285/367/5697
+batch-06: drop=2 fix=5 add=25 tokens in/out/think=12168/2535/15103
+batch-07: drop=3 fix=2 add=3 tokens in/out/think=12063/1239/7409
+batch-08: drop=3 fix=2 add=23 tokens in/out/think=12116/2152/9301
+batch-09: drop=7 fix=2 add=1 tokens in/out/think=11897/1256/5842
+batch-10: drop=1 fix=3 add=0 tokens in/out/think=14786/1155/6650
+batch-11: drop=5 fix=0 add=4 tokens in/out/think=14274/1418/11478
+batch-12: drop=0 fix=0 add=6 tokens in/out/think=14333/1403/7028
+batch-13: drop=7 fix=2 add=44 tokens in/out/think=14351/3742/12708
+batch-14: drop=0 fix=4 add=0 tokens in/out/think=5214/557/4067
+{'drop': 39, 'fix_span': 30, 'add': 201}

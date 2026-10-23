@@ -1,0 +1,176 @@
+{
+ "batch": "batch-10",
+ "segments": [
+  {
+   "id": "4-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-95",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "उज्ज्वल बोधिसत्त्व",
+     "evidence": "Tibetan བྱང་ཆུབ་སེམས་དཔའ་གསལ་ཏེ; Mipham (4-95) glosses it as བློ་གསལ་བར་གྱུར་ (becoming clear/lucid in mind) and Khenrab (4-95) as བློ་གསལ་བ་སྟེ་མཁས་པར་གྱུར་བ (clear-minded, i.e. skilled); Sanskrit vidu = wise. 'उज्ज्वल' (radiant, bright) reads as a physical/moral brightness, not lucidity of intellect.",
+     "fix": "स्पष्टबुद्धि बोधिसत्त्व"
+    }
+   ]
+  },
+  {
+   "id": "4-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-97",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "बोधिसत्त्व, उन्हें भी नाम से प्रज्ञप्त किया जा सकता है",
+     "evidence": "Tibetan དེ་ནི་མིང་གིས་ཀྱང་ནི་གདགས་པར་ནུས་པ་ཡིན: 'even by a name' (ཀྱང་ attaches to མིང་གིས) and the bodhisattva who practises the doors of liberation is the subject. The Hindi has a singular 'बोधिसत्त्व' resumed by plural 'उन्हें', and भी is placed so it reads 'they too' rather than 'even by a name'.",
+     "fix": "विमोक्ष-द्वारों में चर्या करने वाले बोधिसत्त्व को भी नाम से प्रज्ञप्त किया जा सकता है"
+    }
+   ]
+  },
+  {
+   "id": "4-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-1",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "बुद्धों के दर्शन करते हुए जगत् के प्राणियों को धर्म का उपदेश देते हैं",
+     "evidence": "Tibetan སངས་རྒྱས་རྣམས་མཐོང་འགྲོ་ལ་ཆོས་ཀྱང་སྟོན་བྱེད་པ: the bodhisattva sees the Buddhas who teach the Dharma to beings. bo-rangjung 5-1: སངས་རྒྱས་རྣམས་མཐོང་སྟེ་ཁྲི་ལ་བཞུགས་ནས་འགྲོ་བ་ལ་ཆོས་ཀྱང་སྟོན་པར་བྱེད་པ་རྨི་ལམ་དུ་མཐོང་བ; bo-khenrab 5-1: སངས་རྒྱས་དེ་རྣམས་ཀྱིས་འགྲོ་ལ་ཆོས་ཀྱང་སྟོན་པར་བྱེད་པ་བྱང་སེམས་གང་གིས་མཐོང་བ. The Buddhas are the teachers; english_academic: 'Seeing the Buddhas teaching the Dharma to beings'. The Hindi makes the bodhisattva (the subject of 'वे') the one who teaches the Dharma to beings.",
+     "fix": "बुद्धों को जगत् के प्राणियों को धर्म का उपदेश देते हुए देखते हैं"
+    },
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "अविनिवर्तनीयता की भविष्यवाणी",
+     "evidence": "Locked term མི་ལྡོག་ལུང་བསྟན is to be rendered 'अविवर्तनीयता की भविष्यवाणी'; the translation writes the spelling 'अविनिवर्तनीय(ता)' assembled from the shorter lock མི་ལྡོག, not the locked compound rendering.",
+     "fix": "अविवर्तनीयता की भविष्यवाणी"
+    }
+   ]
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "अविनिवर्तनीयता की भविष्यवाणी",
+     "evidence": "Locked term མི་ལྡོག་ལུང་བསྟན is to be rendered 'अविवर्तनीयता की भविष्यवाणी'; the translation writes the spelling 'अविनिवर्तनीय(ता)' assembled from the shorter lock མི་ལྡོག, not the locked compound rendering.",
+     "fix": "अविवर्तनीयता की भविष्यवाणी"
+    }
+   ]
+  },
+  {
+   "id": "5-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "अविनिवर्तनीय की भविष्यवाणी",
+     "evidence": "Locked term མི་ལྡོག་ལུང་བསྟན is to be rendered 'अविवर्तनीयता की भविष्यवाणी'; the translation writes the spelling 'अविनिवर्तनीय(ता)' assembled from the shorter lock མི་ལྡོག, not the locked compound rendering. The word is also cut to 'अविनिवर्तनीय' without 'ता', although Tibetan མི་ལྡོག་ལུང་བསྟན names the prophecy of irreversibility.",
+     "fix": "अविवर्तनीयता की भविष्यवाणी"
+    }
+   ]
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "सात पूर्वजों की परम्परा तक",
+     "evidence": "Tibetan ཁྱོད་ཀྱི་བདུན་མེས་རྒྱུད་ཀྱི་བར; bo-mipham 5-5 expands it as མི་རབས་བདུན་གྱི་མེས་པོ་ཚུན་ཆད་ཀྱི་རྒྱུད (the lineage back through seven generations of ancestors), and bo-khenrab 5-5 likewise མི་རབས་བདུན་གྱི་མེས་པོ. 'सात पूर्वज' counts seven ancestors, not seven generations of the lineage.",
+     "fix": "सात पीढ़ियों के पूर्वजों तक की वंश-परम्परा"
+    }
+   ]
+  },
+  {
+   "id": "5-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "पूर्णतः आविष्ट",
+     "evidence": "Tibetan བདུད་ཀྱིས་ཡོངས་སུ་བསླང་ (Sanskrit paryutthita): bo-mipham 5-5 བདུད་ཀྱིས་རློམ་སེམས་ཡོངས་སུ་བསླང་ and bo-mipham 5-7 བདུད་ཀྱིས་རྒྱུད་ཡོངས་སུ་བསླད་པའམ་བསྐྱོད་པར་བྱས (Māra stirred up/disturbed their mind-stream). The sense is incited or stirred up by Māra (english_academic: 'incited'); 'आविष्ट' means possessed, entered by, which is stronger and a different idea.",
+     "fix": "मार द्वारा पूर्णतः उकसाया हुआ"
+    }
+   ]
+  },
+  {
+   "id": "5-7",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "पूर्णतः आविष्ट",
+     "evidence": "Tibetan བདུད་ཀྱིས་ཡོངས་སུ་བསླང་; bo-mipham 5-7 and bo-khenrab 5-7 gloss it as བདུད་ཀྱིས་རྒྱུད་/སེམས་རྒྱུད་ཡོངས་སུ་བསླད་པའམ་བསྐྱོད་པར་བྱས (disturbed or stirred up by Māra). 'आविष्ट' (possessed) overstates it; 'incited' is the sense (english_academic).",
+     "fix": "मार द्वारा पूर्णतः उकसाया हुआ"
+    }
+   ]
+  },
+  {
+   "id": "5-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-11",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

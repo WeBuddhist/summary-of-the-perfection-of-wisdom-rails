@@ -1,0 +1,201 @@
+{
+ "batch": "batch-04",
+ "segments": [
+  {
+   "id": "2-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "得勝者說：",
+     "evidence": "The academic translation gives no explicit speaker for the answer; it presents the verse as Indra's question followed by the teaching on not striving for the aggregates.",
+     "fix": "「對身心的組成部分和元素，連一點點微塵大的力氣都不花。不把力氣花在身心的組成部分上，這才是菩薩真正的努力。」（去掉「得勝者說」）"
+    }
+   ]
+  },
+  {
+   "id": "4-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "不去分辨",
+     "evidence": "The text says the practitioner does not conceptualize (rnam par mi rtog / 不分別) the Buddha's qualities, powers etc.; 'distinguish/tell apart' is a different, imprecise sense.",
+     "fix": "如果有人在修行時，不去執著想著佛陀的特質，不去執著想著力量、神奇力量的基礎，以及平靜的覺悟；"
+    }
+   ]
+  },
+  {
+   "id": "4-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "我先簡單告訴你們其中的一小部分吧",
+     "evidence": "Subhuti asks and the Teacher replies about the obstacles; the text does not address a plural audience.",
+     "fix": "我先簡單告訴你其中的一小部分吧。"
+    }
+   ]
+  },
+  {
+   "id": "4-12",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "可能會突然覺得自己很有口才",
+     "evidence": "The text says many different kinds of eloquence will arise; the children's text drops 'different kinds' and recasts it as merely feeling eloquent.",
+     "fix": "抄寫得勝者的圓滿的智慧時，可能會冒出各種不同的口才。"
+    }
+   ]
+  },
+  {
+   "id": "4-13",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "The academic translation lists three items the doubter says were not mentioned: caste/family (種姓), birthplace (生處) and clan (氏族); the children's text gives only two.",
+     "fix": "他們想：「導師沒有提到我的名字，也沒有說我的家族、出生的地方和氏族。」"
+    }
+   ]
+  },
+  {
+   "id": "4-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-16",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "帶著錯誤的看法去親近別人家",
+     "evidence": "The academic translation says they associate with laypeople's homes with a mind that desires to see outer things (欲求見外境之心); it does not say 'wrong views'. 'Wrong' is added and changes the fault described.",
+     "fix": "帶著想要看看外面事物的心，常常去親近別人家。"
+    }
+   ]
+  },
+  {
+   "id": "4-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-20",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "剛踏上這乘的眾生",
+     "evidence": "'乘' (the vehicle, i.e. the Great Vehicle) is left unexplained and is hard for ages 8-12.",
+     "fix": "剛踏上大乘這條路的眾生智慧還很小。"
+    }
+   ]
+  },
+  {
+   "id": "4-21",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

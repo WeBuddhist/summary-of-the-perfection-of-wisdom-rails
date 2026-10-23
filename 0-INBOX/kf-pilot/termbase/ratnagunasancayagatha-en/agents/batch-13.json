@@ -1,0 +1,695 @@
+{
+ "batch": "batch-13",
+ "terms": [
+  {
+   "term_id": "T013",
+   "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ",
+   "sanskrit": "prajñāpāramitā",
+   "senses": [
+    {
+     "sense": "the perfection of wisdom",
+     "occurrences": "all",
+     "academic": "perfection of wisdom",
+     "children": "perfect wisdom",
+     "basis": "style-sheet",
+     "reason": "Policies 5 and 7; lower case in running text, children's fixed exception."
+    }
+   ]
+  },
+  {
+   "term_id": "T026",
+   "bo": "ཡེ་ཤེས",
+   "sanskrit": "jñāna",
+   "senses": [
+    {
+     "sense": "primordial wisdom",
+     "occurrences": "all",
+     "academic": "primordial wisdom",
+     "children": "deep knowing",
+     "basis": "style-sheet",
+     "reason": "Style sheet row for ཡེ་ཤེས; policy 51 bans gnosis and pristine."
+    }
+   ]
+  },
+  {
+   "term_id": "T039",
+   "bo": "སྒྱུ་མ",
+   "sanskrit": "māyā",
+   "senses": [
+    {
+     "sense": "illusion",
+     "occurrences": "all",
+     "academic": "illusion",
+     "children": "illusion",
+     "basis": "both",
+     "reason": "Both machines use illusion; plain enough for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T052",
+   "bo": "ནམ་མཁའ",
+   "sanskrit": "ākāśa",
+   "senses": [
+    {
+     "sense": "space",
+     "occurrences": "all",
+     "academic": "space",
+     "children": "space",
+     "basis": "both",
+     "reason": "Both machines render space in all six occurrences."
+    }
+   ]
+  },
+  {
+   "term_id": "T065",
+   "bo": "ནམ་མཁའི་ཁམས",
+   "sanskrit": "ākāśadhātu",
+   "senses": [
+    {
+     "sense": "element of space",
+     "occurrences": "all",
+     "academic": "element of space",
+     "children": "element of space",
+     "basis": "style-sheet",
+     "reason": "Policy 41 sets ཁམས as element in this compound; majority of DharmaMitra."
+    }
+   ]
+  },
+  {
+   "term_id": "T078",
+   "bo": "བདག",
+   "sanskrit": "ātman",
+   "senses": [
+    {
+     "sense": "self",
+     "occurrences": "all",
+     "academic": "self",
+     "children": "self",
+     "basis": "both",
+     "reason": "Both machines use self; lower case in the headword, policy 36."
+    }
+   ]
+  },
+  {
+   "term_id": "T091",
+   "bo": "བདུད་ཀྱི་ལས",
+   "sanskrit": "mārakarma",
+   "senses": [
+    {
+     "sense": "work of Māra",
+     "occurrences": "all",
+     "academic": "work of Māra",
+     "children": "Mara's work",
+     "basis": "style-sheet",
+     "reason": "Policy 26 and core table row for བདུད་ཀྱི་ལས."
+    }
+   ]
+  },
+  {
+   "term_id": "T104",
+   "bo": "ཐེག་ཆེན",
+   "sanskrit": "mahāyāna",
+   "senses": [
+    {
+     "sense": "Great Vehicle",
+     "occurrences": "all",
+     "academic": "Great Vehicle",
+     "children": "Great Vehicle",
+     "basis": "style-sheet",
+     "reason": "Core table row for ཐེག་ཆེན; Gemini uses it throughout."
+    }
+   ]
+  },
+  {
+   "term_id": "T117",
+   "bo": "ཡོངས་སུ་བསྔོ",
+   "sanskrit": "pariṇāma",
+   "senses": [
+    {
+     "sense": "dedicate",
+     "occurrences": "all",
+     "academic": "dedicate",
+     "children": "dedicate",
+     "basis": "style-sheet",
+     "reason": "Policy 47: the variants share one base form."
+    }
+   ]
+  },
+  {
+   "term_id": "T130",
+   "bo": "མི་ལྡོག་ལུང་བསྟན",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "prophecy of irreversibility",
+     "occurrences": "all",
+     "academic": "prophecy of irreversibility",
+     "children": "prediction of never turning back",
+     "basis": "style-sheet",
+     "reason": "Policy 43 sets this form; children's builds on prediction and never turning back."
+    }
+   ]
+  },
+  {
+   "term_id": "T143",
+   "bo": "རྣམ་པར་ཤེས་པ",
+   "sanskrit": "vijñāna",
+   "senses": [
+    {
+     "sense": "consciousness",
+     "occurrences": "all",
+     "academic": "consciousness",
+     "children": "awareness",
+     "basis": "style-sheet",
+     "reason": "Policy 19 and core table row for རྣམ་ཤེས; both machines agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T156",
+   "bo": "རྐྱེན་རྟོགས་ས",
+   "sanskrit": "pratyekabuddhabhūmi",
+   "senses": [
+    {
+     "sense": "stage of a pratyekabuddha",
+     "occurrences": "all",
+     "academic": "stage of a pratyekabuddha",
+     "children": "level of a solitary Buddha",
+     "basis": "style-sheet",
+     "reason": "Policies 23 and 42; children's uses level and solitary Buddha."
+    }
+   ]
+  },
+  {
+   "term_id": "T169",
+   "bo": "རྒྱལ",
+   "sanskrit": "jina",
+   "senses": [
+    {
+     "sense": "Victor",
+     "occurrences": "all",
+     "academic": "Victor",
+     "children": "Victorious One",
+     "basis": "style-sheet",
+     "reason": "Policy 27 epithet of the Buddha; children's per core table."
+    }
+   ]
+  },
+  {
+   "term_id": "T182",
+   "bo": "དགེ་སློང",
+   "sanskrit": "bhikṣu",
+   "senses": [
+    {
+     "sense": "monk",
+     "occurrences": "all",
+     "academic": "monk",
+     "children": "monk",
+     "basis": "both",
+     "reason": "Both machines use monk; plain English term."
+    }
+   ]
+  },
+  {
+   "term_id": "T195",
+   "bo": "བདུད་བཞི",
+   "sanskrit": "catvāro māra",
+   "senses": [
+    {
+     "sense": "four Māras",
+     "occurrences": "all",
+     "academic": "four Māras",
+     "children": "four Maras",
+     "basis": "style-sheet",
+     "reason": "Policy 26: བདུད་བཞི is four Māras; children's without diacritic."
+    }
+   ]
+  },
+  {
+   "term_id": "T208",
+   "bo": "བདག་དང་བདག་གི",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "self and what belongs to self",
+     "occurrences": "all",
+     "academic": "self and what belongs to self",
+     "children": "self and what belongs to self",
+     "basis": "gm",
+     "reason": "Builds on self (བདག); DharmaMitra's quoted I and mine is avoided for consistency."
+    }
+   ]
+  },
+  {
+   "term_id": "T221",
+   "bo": "འཕགས་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "noble",
+     "occurrences": "all",
+     "academic": "noble",
+     "children": "noble",
+     "basis": "both",
+     "reason": "Both machines use noble at least once; Gemini's exalted is not used."
+    }
+   ]
+  },
+  {
+   "term_id": "T234",
+   "bo": "འཁོར་བཞི",
+   "sanskrit": "catasraḥ parṣadaḥ",
+   "senses": [
+    {
+     "sense": "four assemblies",
+     "occurrences": "all",
+     "academic": "four assemblies",
+     "children": "four assemblies",
+     "basis": "both",
+     "reason": "Both machines agree; four assemblies of listeners."
+    }
+   ]
+  },
+  {
+   "term_id": "T247",
+   "bo": "ལྷག་མཐོང",
+   "sanskrit": "vipaśyanā",
+   "senses": [
+    {
+     "sense": "special insight",
+     "occurrences": "all",
+     "academic": "special insight",
+     "children": "clear insight",
+     "basis": "dm",
+     "reason": "DharmaMitra's established equivalent; children's is new and plain."
+    }
+   ]
+  },
+  {
+   "term_id": "T260",
+   "bo": "སྡུག་བསྔལ་འདུ་ཤེས",
+   "sanskrit": "duḥkhasaṃjñā",
+   "senses": [
+    {
+     "sense": "perception of suffering",
+     "occurrences": "all",
+     "academic": "perception of suffering",
+     "children": "idea of suffering",
+     "basis": "style-sheet",
+     "reason": "Policy 20 and 37: perception, children's idea, plus suffering."
+    }
+   ]
+  },
+  {
+   "term_id": "T273",
+   "bo": "ངེས་འབྱུང",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "definite emergence",
+     "occurrences": "all",
+     "academic": "definite emergence",
+     "children": "way out",
+     "basis": "gm",
+     "reason": "Gemini's standard Buddhological rendering; children's is a new plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T286",
+   "bo": "སྨན་པ",
+   "sanskrit": "vaidya",
+   "senses": [
+    {
+     "sense": "physician",
+     "occurrences": "all",
+     "academic": "physician",
+     "children": "doctor",
+     "basis": "both",
+     "reason": "Both machines say physicians; children's uses doctor."
+    }
+   ]
+  },
+  {
+   "term_id": "T299",
+   "bo": "སྨྲ་མཆོག",
+   "sanskrit": "vādiśreṣṭha",
+   "senses": [
+    {
+     "sense": "supreme speaker",
+     "occurrences": "all",
+     "academic": "supreme speaker",
+     "children": "best speaker",
+     "basis": "both",
+     "reason": "Both machines agree on supreme speakers; children's plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T312",
+   "bo": "མི་སློབ",
+   "sanskrit": "aśaikṣa",
+   "senses": [
+    {
+     "sense": "one beyond training",
+     "occurrences": "all",
+     "academic": "one beyond training",
+     "children": "one who has finished learning",
+     "basis": "dm",
+     "reason": "Fits the training/learning pair; DharmaMitra's reading, Gemini's non-learner is opaque."
+    }
+   ]
+  },
+  {
+   "term_id": "T325",
+   "bo": "དག་པ",
+   "sanskrit": "śuddhi",
+   "senses": [
+    {
+     "sense": "purity",
+     "occurrences": "all",
+     "academic": "purity",
+     "children": "purity",
+     "basis": "both",
+     "reason": "Both machines use purity."
+    }
+   ]
+  },
+  {
+   "term_id": "T338",
+   "bo": "བྱིན་གྱི་རླབས",
+   "sanskrit": "adhiṣṭhāna",
+   "senses": [
+    {
+     "sense": "blessing",
+     "occurrences": "all",
+     "academic": "blessing",
+     "children": "blessing",
+     "basis": "both",
+     "reason": "Both machines use blessing."
+    }
+   ]
+  },
+  {
+   "term_id": "T351",
+   "bo": "ཕྱོགས་བཅུའི་སངས་རྒྱས",
+   "sanskrit": "daśadiśi buddha",
+   "senses": [
+    {
+     "sense": "Buddhas of the ten directions",
+     "occurrences": "all",
+     "academic": "Buddhas of the ten directions",
+     "children": "Buddhas of the ten directions",
+     "basis": "both",
+     "reason": "Both machines agree; Buddha capitalised, policy 29."
+    }
+   ]
+  },
+  {
+   "term_id": "T364",
+   "bo": "ཡིད",
+   "sanskrit": "manas",
+   "senses": [
+    {
+     "sense": "intellect",
+     "occurrences": "all",
+     "academic": "intellect",
+     "children": "thinking mind",
+     "basis": "both",
+     "reason": "Both machines use intellect; kept apart from སེམས mind; children's is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T377",
+   "bo": "དཔུང་གཉེན",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "defender",
+     "occurrences": "all",
+     "academic": "defender",
+     "children": "defender",
+     "basis": "gm",
+     "reason": "Gemini's defender keeps it apart from the capitalised epithet Protector (མགོན)."
+    }
+   ]
+  },
+  {
+   "term_id": "T390",
+   "bo": "འཛིན",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "grasping",
+     "occurrences": "all",
+     "academic": "grasping",
+     "children": "holding on",
+     "basis": "both",
+     "reason": "Both machines use grasping; children's is a plain equivalent."
+    }
+   ]
+  },
+  {
+   "term_id": "T403",
+   "bo": "ཁྱུ་མཆོག",
+   "sanskrit": "vṛṣabha",
+   "senses": [
+    {
+     "sense": "great bull",
+     "occurrences": "all",
+     "academic": "great bull",
+     "children": "great leader",
+     "basis": "dm",
+     "reason": "Keeps the bull image of Tibetan and Sanskrit; children's is plain."
+    }
+   ]
+  },
+  {
+   "term_id": "T416",
+   "bo": "ཆོ་འཕྲུལ",
+   "sanskrit": "prātihārya",
+   "senses": [
+    {
+     "sense": "miraculous display",
+     "occurrences": "all",
+     "academic": "miraculous display",
+     "children": "wonder",
+     "basis": "new",
+     "reason": "Distinct from རྫུ་འཕྲུལ miraculous power (policy 45); both machines differ."
+    }
+   ]
+  },
+  {
+   "term_id": "T429",
+   "bo": "བདེ་བར་གཤེགས་ཀྱི་སྲས",
+   "sanskrit": "sugatātmaja",
+   "senses": [
+    {
+     "sense": "son of the Sugata",
+     "occurrences": "all",
+     "academic": "son of the Sugata",
+     "children": "son of the Well-Gone One",
+     "basis": "gm",
+     "reason": "Policy 28 for Sugata; Gemini's sons of the Sugata, in head form."
+    }
+   ]
+  },
+  {
+   "term_id": "T442",
+   "bo": "ཡང་དག་མིན",
+   "sanskrit": "abhūta",
+   "senses": [
+    {
+     "sense": "unreal",
+     "occurrences": "all",
+     "academic": "unreal",
+     "children": "not real",
+     "basis": "both",
+     "reason": "Both machines use unreal; children's is plain."
+    }
+   ]
+  },
+  {
+   "term_id": "T455",
+   "bo": "ལྟ་བ",
+   "sanskrit": "dṛṣṭi",
+   "senses": [
+    {
+     "sense": "view",
+     "occurrences": "all",
+     "academic": "view",
+     "children": "view",
+     "basis": "both",
+     "reason": "Both machines use views."
+    }
+   ]
+  },
+  {
+   "term_id": "T468",
+   "bo": "སངས་རྒྱས་ཅོས",
+   "sanskrit": "buddhadharma",
+   "senses": [
+    {
+     "sense": "qualities of a Buddha",
+     "occurrences": "all",
+     "academic": "qualities of a Buddha",
+     "children": "a Buddha's qualities",
+     "basis": "style-sheet",
+     "reason": "Policy 10; ཅོས is a misspelling of ཆོས."
+    }
+   ]
+  },
+  {
+   "term_id": "T481",
+   "bo": "ཆོས་སྦྱིན",
+   "sanskrit": "dharmadāna",
+   "senses": [
+    {
+     "sense": "gift of Dharma",
+     "occurrences": "all",
+     "academic": "gift of Dharma",
+     "children": "gift of teaching",
+     "basis": "style-sheet",
+     "reason": "Policy 10: ཆོས་ཀྱི་སྦྱིན་པ is gift of Dharma; children's teaching."
+    }
+   ]
+  },
+  {
+   "term_id": "T494",
+   "bo": "བྱིན་བརླབས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "blessing",
+     "occurrences": "all",
+     "academic": "blessing",
+     "children": "blessing",
+     "basis": "both",
+     "reason": "Both machines use blessing; same as བྱིན་གྱི་རླབས."
+    }
+   ]
+  },
+  {
+   "term_id": "T507",
+   "bo": "རང་བྱུང",
+   "sanskrit": "svayaṃbhū",
+   "senses": [
+    {
+     "sense": "self-arisen",
+     "occurrences": "all",
+     "academic": "self-arisen",
+     "children": "arisen by itself",
+     "basis": "both",
+     "reason": "Both machines agree; children's is a plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T520",
+   "bo": "མཉམ་པར་མ་བཞག",
+   "sanskrit": "asamāhita",
+   "senses": [
+    {
+     "sense": "not in meditative equipoise",
+     "occurrences": "all",
+     "academic": "not in meditative equipoise",
+     "children": "not settled in meditation",
+     "basis": "gm",
+     "reason": "Gemini's reading matches the Sanskrit asamāhita; DharmaMitra's uncomposed is opaque."
+    }
+   ]
+  },
+  {
+   "term_id": "T533",
+   "bo": "ཞིང་སྦྱོང",
+   "sanskrit": "kṣetraparisodhana",
+   "senses": [
+    {
+     "sense": "purification of the field",
+     "occurrences": "all",
+     "academic": "purification of the field",
+     "children": "cleansing of the land",
+     "basis": "new",
+     "reason": "Builds on field (ཞིང); machines' realm clashes with policy 41."
+    }
+   ]
+  },
+  {
+   "term_id": "T546",
+   "bo": "ཙན་དན",
+   "sanskrit": "candana",
+   "senses": [
+    {
+     "sense": "sandalwood",
+     "occurrences": "all",
+     "academic": "sandalwood",
+     "children": "sandalwood",
+     "basis": "both",
+     "reason": "Both machines agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T559",
+   "bo": "ཚུལ་ཁྲིམས་སྡོམ་པ",
+   "sanskrit": "śīlasaṃvara",
+   "senses": [
+    {
+     "sense": "ethical discipline of restraint",
+     "occurrences": "all",
+     "academic": "ethical discipline of restraint",
+     "children": "good conduct of self-control",
+     "basis": "gm",
+     "reason": "Policy 12 ethical discipline; Gemini's word order; children's builds on good conduct."
+    }
+   ]
+  },
+  {
+   "term_id": "T572",
+   "bo": "སྲིད་པ་གསུམ",
+   "sanskrit": "tribhava",
+   "senses": [
+    {
+     "sense": "three states of existence",
+     "occurrences": "all",
+     "academic": "three states of existence",
+     "children": "three kinds of life",
+     "basis": "gm",
+     "reason": "Keeps it apart from ཁམས་གསུམ three realms (policy 41); Gemini's reading."
+    }
+   ]
+  },
+  {
+   "term_id": "T585",
+   "bo": "རྒྱལ་བའི་བང་མཛོད",
+   "sanskrit": "jinakośa",
+   "senses": [
+    {
+     "sense": "treasury of the Victors",
+     "occurrences": "all",
+     "academic": "treasury of the Victors",
+     "children": "treasury of the Victorious Ones",
+     "basis": "both",
+     "reason": "Both machines agree; policy 8 Victors."
+    }
+   ]
+  },
+  {
+   "term_id": "T598",
+   "bo": "ཡོན་ཏན་རིན་ཆེན་སྡུད་པ",
+   "sanskrit": "ratnaguṇasaṃcaya",
+   "senses": [
+    {
+     "sense": "title of the work",
+     "occurrences": "all",
+     "academic": "Collection of Precious Qualities",
+     "children": "Collection of Precious Qualities",
+     "basis": "both",
+     "reason": "Name of the work, capitalised; both machines agree; quality per policy 46."
+    }
+   ]
+  }
+ ]
+}

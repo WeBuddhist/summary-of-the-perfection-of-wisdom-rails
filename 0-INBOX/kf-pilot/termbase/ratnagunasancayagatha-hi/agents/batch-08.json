@@ -1,0 +1,713 @@
+{
+ "batch": "batch-08",
+ "terms": [
+  {
+   "term_id": "T008",
+   "bo": "རྒྱལ་བ",
+   "sanskrit": "jina",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "जिन",
+     "children": "विजेता",
+     "basis": "style-sheet",
+     "reason": "Style-sheet epithet of the Buddha; children's plain meaning victor."
+    }
+   ]
+  },
+  {
+   "term_id": "T021",
+   "bo": "བདེ་གཤེགས",
+   "sanskrit": "sugata",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "सुगत",
+     "children": "भली-भाँति गए हुए",
+     "basis": "style-sheet",
+     "reason": "Style-sheet epithet; children's literal gloss of Well-Gone One."
+    }
+   ]
+  },
+  {
+   "term_id": "T034",
+   "bo": "བྱང་ཆུབ་སེམས",
+   "sanskrit": "bodhicitta",
+   "senses": [
+    {
+     "sense": "mind of awakening",
+     "occurrences": [
+      "1-4",
+      "2-33",
+      "2-34",
+      "2-36",
+      "5-74"
+     ],
+     "academic": "बोधिचित्त",
+     "children": "बोधि पाने की इच्छा",
+     "basis": "style-sheet",
+     "reason": "Style-sheet: bodhi plus chitta; children spell out the wish."
+    },
+    {
+     "sense": "bodhisattva (metrical short form)",
+     "occurrences": [
+      "1-10",
+      "1-18",
+      "5-40"
+     ],
+     "academic": "बोधिसत्त्व",
+     "children": "बोधि-वीर",
+     "basis": "style-sheet",
+     "reason": "Metrical short form of bodhisattva; style-sheet bodhisattva rendering."
+    }
+   ]
+  },
+  {
+   "term_id": "T047",
+   "bo": "འགྲོ",
+   "sanskrit": "jagat",
+   "senses": [
+    {
+     "sense": "beings",
+     "occurrences": "all",
+     "academic": "जगत् के प्राणी",
+     "children": "प्राणी",
+     "basis": "style-sheet",
+     "reason": "Style-sheet rendering for beings of the world, kept apart from सत्त्व/जीव."
+    }
+   ]
+  },
+  {
+   "term_id": "T060",
+   "bo": "ཐེག་པ",
+   "sanskrit": "yāna",
+   "senses": [
+    {
+     "sense": "vehicle",
+     "occurrences": "all",
+     "academic": "यान",
+     "children": "सवारी",
+     "basis": "zero-shot",
+     "reason": "Gemini and established Buddhist usage यान; children's everyday word for a vehicle."
+    }
+   ]
+  },
+  {
+   "term_id": "T073",
+   "bo": "མཚན་མ་མེད",
+   "sanskrit": "animitta",
+   "senses": [
+    {
+     "sense": "signless",
+     "occurrences": "all",
+     "academic": "अनिमित्त",
+     "children": "बिना निशानियों वाला",
+     "basis": "english-pivot",
+     "reason": "Academic builds on निमित्त (register list); children's plain gloss of without signs."
+    }
+   ]
+  },
+  {
+   "term_id": "T086",
+   "bo": "སྙིང་རྗེ",
+   "sanskrit": "karuṇā",
+   "senses": [
+    {
+     "sense": "compassion",
+     "occurrences": "all",
+     "academic": "करुणा",
+     "children": "करुणा",
+     "basis": "zero-shot",
+     "reason": "Established Buddhist word, kept in both registers (everyday one-word loan)."
+    }
+   ]
+  },
+  {
+   "term_id": "T099",
+   "bo": "ལྷ",
+   "sanskrit": "deva",
+   "senses": [
+    {
+     "sense": "god",
+     "occurrences": "all",
+     "academic": "देव",
+     "children": "देवता",
+     "basis": "zero-shot",
+     "reason": "Gemini देव is established Buddhist usage for deva; children use everyday देवता."
+    }
+   ]
+  },
+  {
+   "term_id": "T112",
+   "bo": "རིང་བསྲེལ",
+   "sanskrit": "dhātu",
+   "senses": [
+    {
+     "sense": "relic of the Buddha",
+     "occurrences": "all",
+     "academic": "शरीर-धातु",
+     "children": "पवित्र अवशेष",
+     "basis": "new",
+     "reason": "Relic of the Buddha; शरीर-धातु follows Gemini and tradition, children's plain relic."
+    }
+   ]
+  },
+  {
+   "term_id": "T125",
+   "bo": "རི་རབ",
+   "sanskrit": "meru",
+   "senses": [
+    {
+     "sense": "Mount Meru",
+     "occurrences": "all",
+     "academic": "मेरु पर्वत",
+     "children": "मेरु पर्वत",
+     "basis": "style-sheet",
+     "reason": "Style-sheet policy 9 standard Hindi form of the place name; Gemini सुमेरु not used."
+    }
+   ]
+  },
+  {
+   "term_id": "T138",
+   "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྡུད་པ་ཚིགས་སུ་བཅད་པ",
+   "sanskrit": "ratnaguṇasaṃcayagāthā",
+   "senses": [
+    {
+     "sense": "title of the work",
+     "occurrences": "all",
+     "academic": "प्रज्ञापारमिता का गाथा-सार",
+     "children": "पूर्ण प्रज्ञा का पद्य-सार",
+     "basis": "style-sheet",
+     "reason": "Style-sheet title of the work, translated like the English."
+    }
+   ]
+  },
+  {
+   "term_id": "T151",
+   "bo": "སངས་རྒྱས་ས",
+   "sanskrit": "buddhabhūmi",
+   "senses": [
+    {
+     "sense": "stage of a Buddha",
+     "occurrences": "all",
+     "academic": "बुद्धभूमि",
+     "children": "बुद्ध का स्तर",
+     "basis": "style-sheet",
+     "reason": "Style-sheet: ས is भूमि, children's level; compound of Buddha plus stage."
+    }
+   ]
+  },
+  {
+   "term_id": "T164",
+   "bo": "བདེ་བར་གཤེགས",
+   "sanskrit": "sugata",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "सुगत",
+     "children": "भली-भाँति गए हुए",
+     "basis": "style-sheet",
+     "reason": "Same epithet as T021; style-sheet rendering used again."
+    }
+   ]
+  },
+  {
+   "term_id": "T177",
+   "bo": "རྣམ་གྲོལ",
+   "sanskrit": "vimukti",
+   "senses": [
+    {
+     "sense": "liberation",
+     "occurrences": "all",
+     "academic": "विमुक्ति",
+     "children": "आज़ादी",
+     "basis": "english-pivot",
+     "reason": "Liberation: established विमुक्ति from Sanskrit vimukti; children's freedom as आज़ादी."
+    }
+   ]
+  },
+  {
+   "term_id": "T190",
+   "bo": "བསམ་གཏན་བཞི",
+   "sanskrit": "caturdhyāna",
+   "senses": [
+    {
+     "sense": "four meditative concentrations",
+     "occurrences": "all",
+     "academic": "चार ध्यान",
+     "children": "चार तरह के गहरे ध्यान",
+     "basis": "style-sheet",
+     "reason": "Style-sheet ध्यान (गहरा ध्यान for children) with the number four."
+    }
+   ]
+  },
+  {
+   "term_id": "T203",
+   "bo": "རྩེ་མོ་མངོན་པར་རྫོགས་པར་རྟོགས་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "title of chapter five",
+     "occurrences": "all",
+     "academic": "मूर्धाभिसमय",
+     "children": "शिखर की पूरी समझ",
+     "basis": "style-sheet",
+     "reason": "Style-sheet title of chapter five; Gemini's अभिसम्बोध overridden per policy 11."
+    }
+   ]
+  },
+  {
+   "term_id": "T216",
+   "bo": "འདོད་པའི་ཁམས",
+   "sanskrit": "kāmadhātu",
+   "senses": [
+    {
+     "sense": "desire realm",
+     "occurrences": "all",
+     "academic": "कामधातु",
+     "children": "इच्छाओं का क्षेत्र",
+     "basis": "style-sheet",
+     "reason": "Policy 14: academic Sanskrit compound, children spelled out in plain words."
+    }
+   ]
+  },
+  {
+   "term_id": "T229",
+   "bo": "མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "title of chapter seven",
+     "occurrences": "all",
+     "academic": "अभिसम्बोधि",
+     "children": "पूर्ण बोधि",
+     "basis": "style-sheet",
+     "reason": "Style-sheet title of chapter seven; complete awakening, not अभिसमय."
+    }
+   ]
+  },
+  {
+   "term_id": "T242",
+   "bo": "ཉན་ཐོས་པ",
+   "sanskrit": "śrāvaka",
+   "senses": [
+    {
+     "sense": "listener of the Buddha",
+     "occurrences": "all",
+     "academic": "श्रावक",
+     "children": "श्रोता",
+     "basis": "style-sheet",
+     "reason": "Style-sheet rendering of follower of the Buddha; children's listener."
+    }
+   ]
+  },
+  {
+   "term_id": "T255",
+   "bo": "སེམས་དཔའ་ཆེ",
+   "sanskrit": "mahāsattva",
+   "senses": [
+    {
+     "sense": "great being",
+     "occurrences": "all",
+     "academic": "महासत्त्व",
+     "children": "महान वीर",
+     "basis": "english-pivot",
+     "reason": "Register list बोधिसत्त्व महासत्त्व; children's great hero, parallel to बोधि-वीर."
+    }
+   ]
+  },
+  {
+   "term_id": "T268",
+   "bo": "རང་སངས་རྒྱས",
+   "sanskrit": "pratyekabuddha",
+   "senses": [
+    {
+     "sense": "pratyekabuddha",
+     "occurrences": "all",
+     "academic": "प्रत्येकबुद्ध",
+     "children": "अकेला बुद्ध",
+     "basis": "style-sheet",
+     "reason": "Style-sheet rendering; Tibetan variant of རང་རྒྱལ, same Hindi."
+    }
+   ]
+  },
+  {
+   "term_id": "T281",
+   "bo": "ཡོངས་སུ་མྱ་ངན་འདས་པ",
+   "sanskrit": "parinirvṛta",
+   "senses": [
+    {
+     "sense": "passed into final nirvāṇa",
+     "occurrences": "all",
+     "academic": "परिनिर्वाण",
+     "children": "दुख से परे अन्तिम शान्ति",
+     "basis": "english-pivot",
+     "reason": "Final nirvāṇa; children's निर्वाण gloss (policy 12) plus अन्तिम."
+    }
+   ]
+  },
+  {
+   "term_id": "T294",
+   "bo": "ནོར་བུ་རིན་ཆེན",
+   "sanskrit": "maṇiratna",
+   "senses": [
+    {
+     "sense": "jewel",
+     "occurrences": "all",
+     "academic": "मणिरत्न",
+     "children": "कीमती रत्न",
+     "basis": "english-pivot",
+     "reason": "Precious jewel; Sanskrit maṇiratna as established compound, children's plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T307",
+   "bo": "མྱ་ངན་འདས་པ",
+   "sanskrit": "parinirvṛta",
+   "senses": [
+    {
+     "sense": "nirvāṇa",
+     "occurrences": "all",
+     "academic": "निर्वाण",
+     "children": "दुख से परे शान्ति",
+     "basis": "style-sheet",
+     "reason": "Policy 12 निर्वाण gloss for both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T320",
+   "bo": "དཀར་ནག་ཆོས",
+   "sanskrit": "kṛṣṇaśukla-dharma",
+   "senses": [
+    {
+     "sense": "white and black phenomena",
+     "occurrences": "all",
+     "academic": "शुक्ल और कृष्ण धर्म",
+     "children": "अच्छी और बुरी चीज़ें",
+     "basis": "english-pivot",
+     "reason": "Phenomena sense of ཆོས in a compound (policy 4); children's good and bad things."
+    }
+   ]
+  },
+  {
+   "term_id": "T333",
+   "bo": "རང་བཞིན་དག",
+   "sanskrit": "prakṛtiśuddha",
+   "senses": [
+    {
+     "sense": "naturally pure",
+     "occurrences": "all",
+     "academic": "स्वभाव से शुद्ध",
+     "children": "अपने स्वभाव से शुद्ध",
+     "basis": "zero-shot",
+     "reason": "Gemini's स्वभाव से शुद्ध matches the English naturally pure; children add अपने."
+    }
+   ]
+  },
+  {
+   "term_id": "T346",
+   "bo": "བསྟི་སྟང",
+   "sanskrit": "satkāra",
+   "senses": [
+    {
+     "sense": "honor",
+     "occurrences": "all",
+     "academic": "सत्कार",
+     "children": "सम्मान",
+     "basis": "zero-shot",
+     "reason": "Gemini सत्कार fits honor; children's respect as सम्मान."
+    }
+   ]
+  },
+  {
+   "term_id": "T359",
+   "bo": "རྒྱལ་སྲས་དེ་བཞིན་ཉིད",
+   "sanskrit": "jinatathatā",
+   "senses": [
+    {
+     "sense": "suchness of the Victors' heirs",
+     "occurrences": "all",
+     "academic": "जिनपुत्र-तथता",
+     "children": "विजेताओं की सन्तानों के लिए चीज़ों का असली रूप",
+     "basis": "style-sheet",
+     "reason": "Compound of जिनपुत्र plus तथता (policy 13); children's long English gloss."
+    }
+   ]
+  },
+  {
+   "term_id": "T372",
+   "bo": "དང་པོའི་ལས་ཀྱི་ས",
+   "sanskrit": "ādikarmabhūmi",
+   "senses": [
+    {
+     "sense": "stage of a beginner",
+     "occurrences": "all",
+     "academic": "आदिकर्मिक भूमि",
+     "children": "शुरुआती साधक का स्तर",
+     "basis": "english-pivot",
+     "reason": "Stage of a beginner; भूमि/स्तर per style-sheet for ས."
+    }
+   ]
+  },
+  {
+   "term_id": "T385",
+   "bo": "ཡོངས་སུ་བཟུང་བ",
+   "sanskrit": "aparigṛhīta",
+   "senses": [
+    {
+     "sense": "grasping",
+     "occurrences": "all",
+     "academic": "परिग्रह",
+     "children": "पकड़े रहना",
+     "basis": "zero-shot",
+     "reason": "Gemini परिग्रह for grasping; children's holding on as पकड़े रहना."
+    }
+   ]
+  },
+  {
+   "term_id": "T398",
+   "bo": "དགེ་སྦྱོང",
+   "sanskrit": "śramaṇa",
+   "senses": [
+    {
+     "sense": "ascetic",
+     "occurrences": "all",
+     "academic": "श्रमण",
+     "children": "घुमन्तू साधु",
+     "basis": "english-pivot",
+     "reason": "Śramaṇa kept in Sanskrit form (cf. ब्राह्मण); children's holy wanderer simplified."
+    }
+   ]
+  },
+  {
+   "term_id": "T411",
+   "bo": "སྙིང་པོ་མེད",
+   "sanskrit": "asāraka",
+   "senses": [
+    {
+     "sense": "without essence",
+     "occurrences": "all",
+     "academic": "निःसार",
+     "children": "बिना सार के",
+     "basis": "english-pivot",
+     "reason": "Without essence; visarga spelling per policy 2; children's without a core."
+    }
+   ]
+  },
+  {
+   "term_id": "T424",
+   "bo": "འབྱུང་པོའི་གདོན",
+   "sanskrit": "bhūtagraha",
+   "senses": [
+    {
+     "sense": "harmful spirit",
+     "occurrences": "all",
+     "academic": "भूतग्रह",
+     "children": "नुकसान करने वाला भूत",
+     "basis": "zero-shot",
+     "reason": "Gemini भूत-ग्रह is the Sanskrit term; children's harmful spirit as plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T437",
+   "bo": "གསལ",
+   "sanskrit": "obhāsa",
+   "senses": [
+    {
+     "sense": "illumination",
+     "occurrences": "all",
+     "academic": "आलोक",
+     "children": "उजाला",
+     "basis": "english-pivot",
+     "reason": "Illumination; Gemini's आलोक fits; children's brightness as उजाला."
+    }
+   ]
+  },
+  {
+   "term_id": "T450",
+   "bo": "ལྷ་མི",
+   "sanskrit": "devamanuja",
+   "senses": [
+    {
+     "sense": "gods and humans",
+     "occurrences": "all",
+     "academic": "देव और मनुष्य",
+     "children": "देवता और मनुष्य",
+     "basis": "style-sheet",
+     "reason": "Compound of T099 देव/देवता plus मनुष्य (policy 13)."
+    }
+   ]
+  },
+  {
+   "term_id": "T463",
+   "bo": "དྲན་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "mindfulness",
+     "occurrences": "all",
+     "academic": "स्मृति",
+     "children": "सावधानी से ध्यान देना",
+     "basis": "english-pivot",
+     "reason": "Mindfulness as established स्मृति (Gemini); children's careful attention."
+    }
+   ]
+  },
+  {
+   "term_id": "T476",
+   "bo": "མི་ལྡོག་བྱང་ཆུབ",
+   "sanskrit": "avivartika",
+   "senses": [
+    {
+     "sense": "irreversible awakening",
+     "occurrences": "all",
+     "academic": "अविनिवर्तनीय बोधि",
+     "children": "पीछे न लौटने वाली बोधि",
+     "basis": "zero-shot",
+     "reason": "Gemini अविनिवर्तनीय plus locked बोधि (policy 13); children's awakening with no turning back."
+    }
+   ]
+  },
+  {
+   "term_id": "T489",
+   "bo": "སྤྲུལ་པ",
+   "sanskrit": "nirmita",
+   "senses": [
+    {
+     "sense": "emanation",
+     "occurrences": "all",
+     "academic": "निर्मित",
+     "children": "जादुई रचना",
+     "basis": "english-pivot",
+     "reason": "Emanation: निर्मित from Sanskrit nirmita; children's magic creation."
+    }
+   ]
+  },
+  {
+   "term_id": "T502",
+   "bo": "ཆོས་མཛོད",
+   "sanskrit": "dharmakośa",
+   "senses": [
+    {
+     "sense": "treasury of the Dharma",
+     "occurrences": "all",
+     "academic": "धर्मकोश",
+     "children": "शिक्षा का ख़ज़ाना",
+     "basis": "style-sheet",
+     "reason": "Treasury of the Dharma; teaching sense, singular धर्म; children शिक्षा."
+    }
+   ]
+  },
+  {
+   "term_id": "T515",
+   "bo": "སེམས་ཅན་ཡོངས་སུ་སྨིན་བྱ",
+   "sanskrit": "sattvaparipācana",
+   "senses": [
+    {
+     "sense": "bring sentient beings to maturity",
+     "occurrences": "all",
+     "academic": "सत्त्वों को परिपक्व करना",
+     "children": "जीवों को परिपक्व बनाना",
+     "basis": "style-sheet",
+     "reason": "Built on सत्त्व/जीव (core term) plus परिपक्व, per policy 13."
+    }
+   ]
+  },
+  {
+   "term_id": "T528",
+   "bo": "ཐེག",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "vehicle",
+     "occurrences": "all",
+     "academic": "यान",
+     "children": "सवारी",
+     "basis": "zero-shot",
+     "reason": "Short form of ཐེག་པ; same Hindi as T060."
+    }
+   ]
+  },
+  {
+   "term_id": "T541",
+   "bo": "བྱང་ཆུང་སེམས་དཔའ",
+   "sanskrit": "bodhisattva",
+   "senses": [
+    {
+     "sense": "bodhisattva",
+     "occurrences": "all",
+     "academic": "बोधिसत्त्व",
+     "children": "बोधि-वीर",
+     "basis": "style-sheet",
+     "reason": "Misspelled variant of bodhisattva; style-sheet core term (policy 6)."
+    }
+   ]
+  },
+  {
+   "term_id": "T554",
+   "bo": "ང་ཡི་འདུ་ཤེས",
+   "sanskrit": "ahaṃsaṃjñā",
+   "senses": [
+    {
+     "sense": "perception of a self",
+     "occurrences": "all",
+     "academic": "'मैं' की संज्ञा",
+     "children": "'मैं' की धारणा",
+     "basis": "style-sheet",
+     "reason": "Built on संज्ञा/धारणा (core term འདུ་ཤེས) with 'I' (policy 13)."
+    }
+   ]
+  },
+  {
+   "term_id": "T567",
+   "bo": "བདག་གིར་འཛིན་པ",
+   "sanskrit": "mamatā",
+   "senses": [
+    {
+     "sense": "grasping as mine",
+     "occurrences": "all",
+     "academic": "ममकार",
+     "children": "चीज़ों को अपना समझना",
+     "basis": "english-pivot",
+     "reason": "Grasping at things as mine; ममकार (Gemini) academic, children's plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T580",
+   "bo": "ཡི་དགས་འགྲོ་བ",
+   "sanskrit": "pretagati",
+   "senses": [
+    {
+     "sense": "destiny of hungry ghosts",
+     "occurrences": "all",
+     "academic": "प्रेतगति",
+     "children": "भूखे प्रेत के रूप में जीवन",
+     "basis": "english-pivot",
+     "reason": "Destiny of hungry ghosts; established प्रेतगति, children's life as hungry ghost."
+    }
+   ]
+  },
+  {
+   "term_id": "T593",
+   "bo": "སངས་རྒྱས་རྒྱུད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "Buddha lineage",
+     "occurrences": "all",
+     "academic": "बुद्धवंश",
+     "children": "बुद्धों की परम्परा",
+     "basis": "zero-shot",
+     "reason": "Gemini बुद्धवंश with locked बुद्ध; children's line of Buddhas as परम्परा."
+    }
+   ]
+  }
+ ]
+}

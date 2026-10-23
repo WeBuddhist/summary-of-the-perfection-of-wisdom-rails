@@ -1,0 +1,256 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "1-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-1",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Chapter numbers/titles are not glossary terms."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-3",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Ordinary verb phrase meaning 'directly realized' or 'actualized'."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-4",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Ordinary verb (does not apprehend)."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-5",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-6",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-7",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-8",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-9",
+    "drop": [
+     {
+      "n": 9,
+      "reason": "Ordinary verb (apprehending)."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-10",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-11",
+    "drop": [
+     {
+      "n": 5,
+      "reason": "Ordinary verb phrase (do not apprehend)."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-12",
+    "drop": [
+     {
+      "n": 4,
+      "reason": "Ordinary verb (definitely emerge)."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-13",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-14",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-15",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-16",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-17",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-18",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-19",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-20",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-21",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-22",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-23",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-24",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-25",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-26",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-27",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "1-28",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Chapter titles and numbers are stock colophon wording, not glossary terms."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "1-1",
+    "bo": "སྐབས་དང་པོ",
+    "reason": "Chapter numbers/titles are not glossary terms."
+   },
+   {
+    "id": "1-3",
+    "bo": "མངོན་སུམ་བྱས",
+    "reason": "Ordinary verb phrase meaning 'directly realized' or 'actualized'."
+   },
+   {
+    "id": "1-4",
+    "bo": "མི་དམིགས",
+    "reason": "Ordinary verb (does not apprehend)."
+   },
+   {
+    "id": "1-9",
+    "bo": "མི་དམིགས",
+    "reason": "Ordinary verb (apprehending)."
+   },
+   {
+    "id": "1-11",
+    "bo": "དམིགས་པར་མི་འགྱུར",
+    "reason": "Ordinary verb phrase (do not apprehend)."
+   },
+   {
+    "id": "1-12",
+    "bo": "ངེས་པར་འབྱུང",
+    "reason": "Ordinary verb (definitely emerge)."
+   },
+   {
+    "id": "1-28",
+    "bo": "སྐབས་གཉིས་པ",
+    "reason": "Chapter titles and numbers are stock colophon wording, not glossary terms."
+   }
+  ],
+  "fix_span": [],
+  "add": []
+ }
+}

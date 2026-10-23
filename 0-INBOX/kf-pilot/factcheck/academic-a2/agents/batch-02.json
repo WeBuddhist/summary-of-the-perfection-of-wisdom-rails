@@ -1,0 +1,136 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "2-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-42",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Line 2 has a second ཡོངས་བསྔོ (“བྱང་ཆུབ་འདུ་ཤེས་ཡོངས་བསྔོ་སེམས་ཅན་འདུ་ཤེས”); bo-mipham 2-42 glosses it as the perception attached to the object of dedication (“ཡོངས་སུ་བསྔོ་ཡུལ་གྱི་སེམས་ཅན་དུ་འདུ་ཤེས”) and awakening as the basis of dedication (“བསྔོ་བའི་གནས་བྱང་ཆུབ”). The English renders ཡོངས་བསྔོ only once, in line 1.",
+     "fix": "And if there is the perception of awakening [as that to which one dedicates] and the perception of sentient beings [as those for whom one dedicates]"
+    }
+   ]
+  },
+  {
+   "id": "2-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "bodhisattva seeking awakening",
+     "evidence": "Tibetan has only བྱང་ཆུབ་སེམས་དཔའ (locked: bodhisattva); “seeking awakening” is an added gloss (bo-mipham 2-50: “བྱང་ཆུབ་སེམས་དཔའ་དམིགས་པ་ཅན”).",
+     "fix": "Such a bodhisattva"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "many billions of sentient beings",
+     "evidence": "Tibetan “ཁྲག་ཁྲིག་མང་” (many ཁྲག་ཁྲིག, niyuta; bo-mipham 2-50 “ཁྲག་ཁྲིག་མང་པོ”); the same number is rendered “hundreds of billions” elsewhere in this batch (2-39, 2-47), so “billions” understates and is inconsistent.",
+     "fix": "many hundreds of billions of sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "2-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "those fully entered into supreme awakening",
+     "evidence": "བྱང་ཆུབ་དམ་པར་རབ་ཞུགས = those who have set out/engaged on the path to supreme awakening (bo-khenrab 4-6: “བྱང་ཆུབ་དམ་པར་རབ་ཏུ་ཞུགས་པ”, who gradually enter through hearing/reflecting/meditating). “Entered into awakening” can be read as having attained it, which the last line (they will touch awakening before long) excludes.",
+     "fix": "those who have fully set out toward supreme awakening"
+    }
+   ]
+  },
+  {
+   "id": "4-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-37",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

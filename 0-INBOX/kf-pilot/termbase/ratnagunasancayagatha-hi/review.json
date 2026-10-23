@@ -1,0 +1,161 @@
+{
+ "terms": [
+  {
+   "term_id": "T002",
+   "sense": "phenomena",
+   "field": "academic",
+   "current": "धर्म (केवल बहुवचन/सर्व-/धर्मता आदि समासों में: सभी धर्म, धर्मों)",
+   "suggested": "धर्म",
+   "severity": "major",
+   "reason": "The glossary should contain the target rendering itself, not the parenthetical rules.",
+   "applied": true
+  },
+  {
+   "term_id": "T002",
+   "sense": "the Buddha's teaching",
+   "field": "academic",
+   "current": "धर्म (केवल एकवचन)",
+   "suggested": "धर्म",
+   "severity": "major",
+   "reason": "The glossary should contain the target rendering itself, not the parenthetical rules.",
+   "applied": true
+  },
+  {
+   "term_id": "T119",
+   "sense": "unit of distance",
+   "field": "children",
+   "current": "योजन (दूरी की पुरानी माप)",
+   "suggested": "योजन",
+   "severity": "major",
+   "reason": "Remove parenthetical glosses from target renderings.",
+   "applied": true
+  },
+  {
+   "term_id": "T180",
+   "sense": "non-phenomena",
+   "field": "academic",
+   "current": "अधर्मों",
+   "suggested": "अधर्म",
+   "severity": "major",
+   "reason": "Use the base form; 'अधर्मों' is an oblique plural.",
+   "applied": true
+  },
+  {
+   "term_id": "T283",
+   "sense": "Mother of the Sugatas (epithet of the perfection of wisdom)",
+   "field": "children",
+   "current": "भली-भाँति गए हुए बुद्धों की माता",
+   "suggested": "भली-भाँति गए हुओं की माँ",
+   "severity": "major",
+   "reason": "Align with T495 and use 'माँ' for Mother.",
+   "applied": true
+  },
+  {
+   "term_id": "T324",
+   "sense": "Mother of the Victors",
+   "field": "children",
+   "current": "विजेताओं की माता",
+   "suggested": "विजेताओं की माँ",
+   "severity": "minor",
+   "reason": "Align with the preferred kids' term 'माँ' for Mother (T085).",
+   "applied": true
+  },
+  {
+   "term_id": "T339",
+   "sense": "free from concepts",
+   "field": "academic",
+   "current": "विकल्परहित",
+   "suggested": "निर्विकल्प",
+   "severity": "minor",
+   "reason": "Align with T122 and T482 for consistency.",
+   "applied": true
+  },
+  {
+   "term_id": "T355",
+   "sense": "suchness of the world",
+   "field": "academic",
+   "current": "जगत् की तथता",
+   "suggested": "लोक-तथता",
+   "severity": "minor",
+   "reason": "Match T015 loka (लोक) and keep the compound structure.",
+   "applied": true
+  },
+  {
+   "term_id": "T414",
+   "sense": "final mind",
+   "field": "children",
+   "current": "आख़िरी मन",
+   "suggested": "आख़िरी विचार",
+   "severity": "minor",
+   "reason": "Align with T126 'पहला विचार' for consistency.",
+   "applied": true
+  },
+  {
+   "term_id": "T477",
+   "sense": "generation of the mind",
+   "field": "academic",
+   "current": "बोधिचित्त का उत्पाद",
+   "suggested": "चित्तोत्पाद",
+   "severity": "minor",
+   "reason": "Align with T220 and T310 and standard Sanskrit.",
+   "applied": true
+  },
+  {
+   "term_id": "T500",
+   "sense": "benefactor",
+   "field": "children",
+   "current": "मदद करने वाला",
+   "suggested": "भलाई करने वाला",
+   "severity": "minor",
+   "reason": "Align with T539 (hitaṃkara).",
+   "applied": true
+  },
+  {
+   "term_id": "T514",
+   "sense": "great being",
+   "field": "academic",
+   "current": "महासत्त्व",
+   "suggested": "महात्मन्",
+   "severity": "major",
+   "reason": "Matches Sanskrit mahātman.",
+   "applied": true
+  },
+  {
+   "term_id": "T543",
+   "sense": "epithet of the Buddha",
+   "field": "children",
+   "current": "दुनिया को जानने वाला",
+   "suggested": "दुनिया को जानने वाले",
+   "severity": "minor",
+   "reason": "Use honorific plural for consistency with T159.",
+   "applied": true
+  },
+  {
+   "term_id": "T556",
+   "sense": "lacking ethical discipline",
+   "field": "academic",
+   "current": "शील-रहित",
+   "suggested": "दुःशील",
+   "severity": "minor",
+   "reason": "Align with T136 and standard Sanskrit form.",
+   "applied": true
+  },
+  {
+   "term_id": "T582",
+   "sense": "animal existence",
+   "field": "children",
+   "current": "पशु के रूप में जीवन",
+   "suggested": "जानवर के रूप में जीवन",
+   "severity": "minor",
+   "reason": "Align with T548 where animal is 'जानवर'.",
+   "applied": true
+  }
+ ],
+ "policies": [
+  {
+   "policy": "Core terms",
+   "suggested": "In the Core terms table, Acad rendering for ཆོས (phenomena) should be 'धर्म' and for (the Buddha's teaching) 'धर्म'.",
+   "reason": "The table should contain only the final target rendering, not parenthetical translation rules."
+  }
+ ]
+}

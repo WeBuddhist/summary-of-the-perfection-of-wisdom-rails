@@ -1,0 +1,160 @@
+{
+ "batch": "batch-07",
+ "segments": [
+  {
+   "id": "4-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-32",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "उत्तम प्रज्ञापारमिता में संलग्न होता है",
+     "evidence": "Tibetan ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་མཆོག་ལ་བསམ་སྦྱོར་བ་ has both bsam (intention; Skt. āśaya) and sbyor (application; saṃprayoga); bo-rangjung 4-32 glosses བསམ་པ་དང་སྦྱོར་བ་ཡོད་པ. The Hindi renders only 'संलग्न' (application) and drops the intention.",
+     "fix": "उत्तम प्रज्ञापारमिता के प्रति आशय और प्रयोग से युक्त होता है"
+    }
+   ]
+  },
+  {
+   "id": "4-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-35",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "यदि उपाय के वे गुण प्रज्ञा द्वारा पूर्णतः गृहीत हों, तो वे",
+     "evidence": "Tibetan དེ་དག་ཐབས་ཀྱི་ཡོན་ཏན་ཤེས་རབ་ཡོངས་ཟིན་ན། — དེ་དག 'those (bodhisattvas)' is the agent; bo-khenrab 4-35 says 'their (དེ་དག་གི) qualities of means such as faith and compassion, embraced by wisdom ... they swiftly attain'. In the Hindi 'वे' in the main clause can be read as the qualities rather than the persons.",
+     "fix": "यदि उनके उपाय के गुण प्रज्ञा द्वारा पूर्णतः गृहीत हों, तो वे (बोधिसत्त्व) परम अद्भुत सुगत-बोधि को शीघ्र ही प्राप्त कर लेते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "4-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-42",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "श्रद्धालु",
+     "evidence": "Tibetan བླ་མ་གུས་ལྡན་ means 'endowed with respect/reverence' for the master (Skt. gurugaurava); bo-mipham 4-42 བླ་མ་ལ་གུས་པ་དང་ལྡན་པ. 'श्रद्धालु' (faithful, དད་པ) is a different term; faith (དད་པ) is only added in bo-khenrab's gloss.",
+     "fix": "गुरु के प्रति आदर से युक्त"
+    }
+   ]
+  },
+  {
+   "id": "4-43",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "विद्वानों के गुण उनसे ही उत्पन्न होते हैं",
+     "evidence": "Tibetan མཁས་པའི་ཡོན་ཏན་དེ་ལས་འབྱུང་ : 'that' refers to relying on the spiritual friend; bo-mipham 4-43 'མཁས་པའི་ཡོན་ཏན་ཐམས་ཅད་དགེ་བའི་བཤེས་གཉེན་དེ་ལས་འབྱུང་' (all qualities of skill arise from that spiritual friend); bo-khenrab 4-43 likewise. In the Hindi 'उनसे' can be taken as the learned themselves, making the sentence circular, and the spiritual friend is not named before the next line.",
+     "fix": "विद्वत्ता के गुण उन कल्याणमित्रों से ही उत्पन्न होते हैं,"
+    }
+   ]
+  },
+  {
+   "id": "4-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-47",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "होते हैं。",
+     "evidence": "The line ends with the ideographic full stop '。' instead of the Devanagari danda; typographical error with no Tibetan counterpart.",
+     "fix": "होते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "4-48",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "अल्प-चिन्ता की",
+     "evidence": "Tibetan ཐུགས་ཁྲལ་ཆུང་བར་མཛད (Skt. alpotsuka) is, per bo-rangjung 4-48, the Buddha's reluctance to teach (quoting 'who is taught will not understand, I shall stay silent in the forest'). 'अल्प-चिन्ता' (little worry) can be read as unconcern or as slight anxiety rather than disinclination to take the trouble to teach.",
+     "fix": "उन्होंने (इसे बताने में) अल्प-उत्साह, अर्थात् अनिच्छा, अपनाई"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "न जाना जाता है और न प्राप्त होने योग्य है",
+     "evidence": "Tibetan སུས་ཀྱང་རྟོགས་པ་མེད་ཅིང་ཐོབ་པར་འགྱུར་མེད་པ states as fact that no one realizes it and no one attains it (Skt. na ca kenacid adhigato na ca prāpuṇanti; bo-mipham 4-48 'སུས་ཀྱང་རྟོགས་པ་མེད་ཅིང་འབྲས་བུའི་དུས་ན་ཐོབ་པར་འགྱུར་བའང་མེད'). The Hindi 'प्राप्त होने योग्य' introduces a modal 'attainable' and 'न जाना जाता' weakens 'realized'.",
+     "fix": "इसे किसी ने साक्षात् नहीं जाना है और न कोई इसे प्राप्त करता है"
+    }
+   ]
+  },
+  {
+   "id": "4-49",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

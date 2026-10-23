@@ -1,0 +1,859 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "5-84",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Descriptive verb phrase, not a standard single glossary term."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལེ་ལོ",
+      "reason": "Buddhist technical term (laziness/kausīdya).",
+      "dm": "lazy",
+      "gm": "lazy"
+     },
+     {
+      "bo": "ལུས་དང་ངག་དང་ཡིད",
+      "reason": "Standard enumeration (body, speech, and mind).",
+      "dm": "body, speech, and mind",
+      "gm": "body, speech, and mind"
+     }
+    ]
+   },
+   {
+    "id": "5-85",
+    "drop": [
+     {
+      "n": 4,
+      "reason": "Descriptive phrase, not a fixed technical term."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བརྩོན་འགྲུས",
+      "reason": "Technical term (perseverance/diligence) part of the compound perfection of perseverance.",
+      "dm": "perseverance",
+      "gm": "diligence"
+     },
+     {
+      "bo": "ལུས",
+      "reason": "Technical term.",
+      "dm": "body",
+      "gm": "body"
+     },
+     {
+      "bo": "སེམས",
+      "reason": "Technical term.",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "5-86",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཚིག་རྩུབ",
+      "reason": "Technical term (harsh words), one of the ten unwholesome actions.",
+      "dm": "harsh words",
+      "gm": "harsh words"
+     },
+     {
+      "bo": "བཟོད་པ",
+      "reason": "Technical term (patience), extracted as part of perfection of patience but acts as a term on its own.",
+      "dm": "patience",
+      "gm": "patience"
+     }
+    ]
+   },
+   {
+    "id": "5-87",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-88",
+    "drop": [
+     {
+      "n": 4,
+      "reason": "Descriptive phrase, not a fixed title."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཆོས",
+      "reason": "Core Buddhist term.",
+      "dm": "Dharma",
+      "gm": "dharma"
+     }
+    ]
+   },
+   {
+    "id": "5-89",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཙན་དན",
+      "reason": "Proper name/material often used in fixed Buddhist examples.",
+      "dm": "sandalwood",
+      "gm": "sandalwood"
+     }
+    ]
+   },
+   {
+    "id": "5-90",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Core concept (enlightenment), nested within supreme enlightenment.",
+      "dm": "enlightenment",
+      "gm": "awakening"
+     },
+     {
+      "bo": "སེམས་ཅན",
+      "reason": "Core term (sentient beings), nested within realms of sentient beings.",
+      "dm": "sentient beings",
+      "gm": "sentient beings"
+     },
+     {
+      "bo": "དཔའ་བོ",
+      "reason": "Epithet often used for bodhisattvas (hero/śūra).",
+      "dm": "hero",
+      "gm": "hero"
+     }
+    ]
+   },
+   {
+    "id": "5-91",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 1,
+      "bo_fixed": "སེམས་དམྱལ"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "5-92",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བཟོད་པ",
+      "reason": "Nested term inside perfection of patience.",
+      "dm": "endure",
+      "gm": "endure"
+     }
+    ]
+   },
+   {
+    "id": "5-93",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཞི་བ",
+      "reason": "Technical term (peace/śānti).",
+      "dm": "peace",
+      "gm": "peace"
+     }
+    ]
+   },
+   {
+    "id": "5-94",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཞི་བ",
+      "reason": "Technical term (peaceful).",
+      "dm": "peaceful",
+      "gm": "peaceful"
+     }
+    ]
+   },
+   {
+    "id": "5-95",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-96",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 6,
+      "bo_fixed": "སྐྱབས"
+     }
+    ],
+    "add": [
+     {
+      "bo": "ཚུལ་ཁྲིམས",
+      "reason": "Nested term within perfection of ethical discipline.",
+      "dm": "ethical discipline",
+      "gm": "discipline"
+     },
+     {
+      "bo": "འདོད་ཡོན",
+      "reason": "Nested term within five objects of sensory desire.",
+      "dm": "sensory desire",
+      "gm": "sensory pleasures"
+     },
+     {
+      "bo": "དགེ་འདུན",
+      "reason": "Nested term within noble Sangha.",
+      "dm": "Sangha",
+      "gm": "Sangha"
+     },
+     {
+      "bo": "འཕགས་པ",
+      "reason": "Nested term within noble Sangha.",
+      "dm": "noble",
+      "gm": "noble"
+     }
+    ]
+   },
+   {
+    "id": "5-97",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Plain quantity/time measurement."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བསྐལ་པ",
+      "reason": "Buddhist technical time measure (eon).",
+      "dm": "eons",
+      "gm": "aeons"
+     }
+    ]
+   },
+   {
+    "id": "5-98",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Core term nested within supreme awakening.",
+      "dm": "awakening",
+      "gm": "awakening"
+     },
+     {
+      "bo": "སེམས་ཅན",
+      "reason": "Core term nested within perception of sentient beings.",
+      "dm": "sentient beings",
+      "gm": "sentient beings"
+     }
+    ]
+   },
+   {
+    "id": "5-99",
+    "drop": [
+     {
+      "n": 9,
+      "reason": "Descriptive phrase, not a standard fixed term."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཚུལ་ཁྲིམས་འཆལ",
+      "reason": "Technical phrase (broken discipline / unethical conduct).",
+      "dm": "lacking in ethical discipline",
+      "gm": "discipline is completely broken"
+     }
+    ]
+   },
+   {
+    "id": "5-100",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྡོམ་པ་མ་ཡིན",
+      "reason": "Technical term (non-restraint), parallel to སྡོམ་མིན.",
+      "dm": "lack of restraint",
+      "gm": "non-restraint"
+     },
+     {
+      "bo": "འདུ་ཤེས",
+      "reason": "Core term nested within perception of a self.",
+      "dm": "perception",
+      "gm": "perception"
+     },
+     {
+      "bo": "སེམས་ཅན",
+      "reason": "Core term nested within perception of a sentient being.",
+      "dm": "sentient being",
+      "gm": "sentient beings"
+     }
+    ]
+   },
+   {
+    "id": "5-101",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཁྲིམས་ལྡན",
+      "reason": "Fixed term for someone possessing moral discipline.",
+      "dm": "possesses such morality",
+      "gm": "possesses discipline"
+     },
+     {
+      "bo": "ཞུམ་པའི་སེམས",
+      "reason": "Technical emotional/mental state (discouraged/shrinking mind).",
+      "dm": "discouraged mind",
+      "gm": "shrinking mind"
+     },
+     {
+      "bo": "ཞེན་པ",
+      "reason": "Core concept (attachment/clinging).",
+      "dm": "attachment",
+      "gm": "clinging"
+     }
+    ]
+   },
+   {
+    "id": "5-102",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རང་བཞིན",
+      "reason": "Philosophical concept (nature / svabhāva).",
+      "dm": "nature",
+      "gm": "nature"
+     },
+     {
+      "bo": "ཞུམ་པའི་སེམས",
+      "reason": "Technical term (discouraged mind).",
+      "dm": "discouraged mind",
+      "gm": "shrinking mind"
+     }
+    ]
+   },
+   {
+    "id": "5-103",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བདག་གིར་འཛིན་པ",
+      "reason": "Buddhist technical concept (grasping as 'mine').",
+      "dm": "hold things as \"mine\"",
+      "gm": "grasping them as \"mine\""
+     },
+     {
+      "bo": "མི",
+      "reason": "One of the realms of existence (humans).",
+      "dm": "humans",
+      "gm": "humans"
+     }
+    ]
+   },
+   {
+    "id": "5-104",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-105",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འགྲོ་བ",
+      "reason": "Core term (beings).",
+      "dm": "beings",
+      "gm": "beings"
+     },
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Core term nested in supreme enlightenment.",
+      "dm": "enlightenment",
+      "gm": "awakening"
+     }
+    ]
+   },
+   {
+    "id": "5-106",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-107",
+    "drop": [
+     {
+      "n": 7,
+      "reason": "Descriptive time measurement, not a fixed standalone term."
+     },
+     {
+      "n": 9,
+      "reason": "Ordinary verb phrase (give gifts)."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བསྐལ་བ",
+      "reason": "Technical measure of time (eon/kalpa).",
+      "dm": "eons",
+      "gm": "eons"
+     }
+    ]
+   },
+   {
+    "id": "5-108",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བསོད་ནམས",
+      "reason": "Nested term (merit).",
+      "dm": "meritorious",
+      "gm": "meritorious"
+     },
+     {
+      "bo": "ཡོངས་སུ་བསྔོས",
+      "reason": "Technical action (full dedication of merit).",
+      "dm": "complete dedication",
+      "gm": "fully dedicating"
+     },
+     {
+      "bo": "འགྲོ་བ",
+      "reason": "Core term (living beings).",
+      "dm": "living beings",
+      "gm": "beings"
+     }
+    ]
+   },
+   {
+    "id": "5-109",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རྗེས་སུ་ཡི་རང",
+      "reason": "Formal Buddhist term for rejoicing (anumodanā).",
+      "dm": "rejoices",
+      "gm": "rejoicing"
+     },
+     {
+      "bo": "བཻḍūརྱ",
+      "reason": "Proper material consistently used in canonical similes (lapis lazuli).",
+      "dm": "lapis lazuli",
+      "gm": "lapis lazuli"
+     }
+    ]
+   },
+   {
+    "id": "5-110",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འགྲོ",
+      "reason": "Core term for transmigratory beings.",
+      "dm": "living beings",
+      "gm": "beings"
+     },
+     {
+      "bo": "སྦྱིན་པ",
+      "reason": "Core perfection / term (gift / giving).",
+      "dm": "gift",
+      "gm": "gifts"
+     },
+     {
+      "bo": "དངོས་པོ",
+      "reason": "Core philosophical term (object / entity).",
+      "dm": "object",
+      "gm": "entities"
+     }
+    ]
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "5-84",
+    "bo": "འགྲོ་བ་ཡོངས་སུ་སྨིན་པར་བྱས",
+    "reason": "Descriptive verb phrase, not a standard single glossary term."
+   },
+   {
+    "id": "5-85",
+    "bo": "བྱང་ཆུབ་ཞི་བ་མི་ཉམས་མཆོག",
+    "reason": "Descriptive phrase, not a fixed technical term."
+   },
+   {
+    "id": "5-88",
+    "bo": "ཆོས་རབ་སྟོང་པ",
+    "reason": "Descriptive phrase, not a fixed title."
+   },
+   {
+    "id": "5-97",
+    "bo": "བསྐལ་པ་བྱེ་བ",
+    "reason": "Plain quantity/time measurement."
+   },
+   {
+    "id": "5-99",
+    "bo": "ཡོངས་དག་ཚུལ་ཁྲིམས",
+    "reason": "Descriptive phrase, not a standard fixed term."
+   },
+   {
+    "id": "5-107",
+    "bo": "བསྐལ་བ་མཐའ་ཡས",
+    "reason": "Descriptive time measurement, not a fixed standalone term."
+   },
+   {
+    "id": "5-107",
+    "bo": "སྦྱིན་བྱིན",
+    "reason": "Ordinary verb phrase (give gifts)."
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "5-91",
+    "bo": "དམྱལ",
+    "bo_fixed": "སེམས་དམྱལ"
+   },
+   {
+    "id": "5-96",
+    "bo": "སྐྱབས་སོང",
+    "bo_fixed": "སྐྱབས"
+   }
+  ],
+  "add": [
+   {
+    "id": "5-84",
+    "bo": "ལེ་ལོ",
+    "dm": "lazy",
+    "gm": "lazy",
+    "reason": "Buddhist technical term (laziness/kausīdya)."
+   },
+   {
+    "id": "5-84",
+    "bo": "ལུས་དང་ངག་དང་ཡིད",
+    "dm": "body, speech, and mind",
+    "gm": "body, speech, and mind",
+    "reason": "Standard enumeration (body, speech, and mind)."
+   },
+   {
+    "id": "5-85",
+    "bo": "བརྩོན་འགྲུས",
+    "dm": "perseverance",
+    "gm": "diligence",
+    "reason": "Technical term (perseverance/diligence) part of the compound perfection of perseverance."
+   },
+   {
+    "id": "5-85",
+    "bo": "ལུས",
+    "dm": "body",
+    "gm": "body",
+    "reason": "Technical term."
+   },
+   {
+    "id": "5-85",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Technical term."
+   },
+   {
+    "id": "5-86",
+    "bo": "ཚིག་རྩུབ",
+    "dm": "harsh words",
+    "gm": "harsh words",
+    "reason": "Technical term (harsh words), one of the ten unwholesome actions."
+   },
+   {
+    "id": "5-86",
+    "bo": "བཟོད་པ",
+    "dm": "patience",
+    "gm": "patience",
+    "reason": "Technical term (patience), extracted as part of perfection of patience but acts as a term on its own."
+   },
+   {
+    "id": "5-88",
+    "bo": "ཆོས",
+    "dm": "Dharma",
+    "gm": "dharma",
+    "reason": "Core Buddhist term."
+   },
+   {
+    "id": "5-89",
+    "bo": "ཙན་དན",
+    "dm": "sandalwood",
+    "gm": "sandalwood",
+    "reason": "Proper name/material often used in fixed Buddhist examples."
+   },
+   {
+    "id": "5-90",
+    "bo": "བྱང་ཆུབ",
+    "dm": "enlightenment",
+    "gm": "awakening",
+    "reason": "Core concept (enlightenment), nested within supreme enlightenment."
+   },
+   {
+    "id": "5-90",
+    "bo": "སེམས་ཅན",
+    "dm": "sentient beings",
+    "gm": "sentient beings",
+    "reason": "Core term (sentient beings), nested within realms of sentient beings."
+   },
+   {
+    "id": "5-90",
+    "bo": "དཔའ་བོ",
+    "dm": "hero",
+    "gm": "hero",
+    "reason": "Epithet often used for bodhisattvas (hero/śūra)."
+   },
+   {
+    "id": "5-92",
+    "bo": "བཟོད་པ",
+    "dm": "endure",
+    "gm": "endure",
+    "reason": "Nested term inside perfection of patience."
+   },
+   {
+    "id": "5-93",
+    "bo": "ཞི་བ",
+    "dm": "peace",
+    "gm": "peace",
+    "reason": "Technical term (peace/śānti)."
+   },
+   {
+    "id": "5-94",
+    "bo": "ཞི་བ",
+    "dm": "peaceful",
+    "gm": "peaceful",
+    "reason": "Technical term (peaceful)."
+   },
+   {
+    "id": "5-96",
+    "bo": "ཚུལ་ཁྲིམས",
+    "dm": "ethical discipline",
+    "gm": "discipline",
+    "reason": "Nested term within perfection of ethical discipline."
+   },
+   {
+    "id": "5-96",
+    "bo": "འདོད་ཡོན",
+    "dm": "sensory desire",
+    "gm": "sensory pleasures",
+    "reason": "Nested term within five objects of sensory desire."
+   },
+   {
+    "id": "5-96",
+    "bo": "དགེ་འདུན",
+    "dm": "Sangha",
+    "gm": "Sangha",
+    "reason": "Nested term within noble Sangha."
+   },
+   {
+    "id": "5-96",
+    "bo": "འཕགས་པ",
+    "dm": "noble",
+    "gm": "noble",
+    "reason": "Nested term within noble Sangha."
+   },
+   {
+    "id": "5-97",
+    "bo": "བསྐལ་པ",
+    "dm": "eons",
+    "gm": "aeons",
+    "reason": "Buddhist technical time measure (eon)."
+   },
+   {
+    "id": "5-98",
+    "bo": "བྱང་ཆུབ",
+    "dm": "awakening",
+    "gm": "awakening",
+    "reason": "Core term nested within supreme awakening."
+   },
+   {
+    "id": "5-98",
+    "bo": "སེམས་ཅན",
+    "dm": "sentient beings",
+    "gm": "sentient beings",
+    "reason": "Core term nested within perception of sentient beings."
+   },
+   {
+    "id": "5-99",
+    "bo": "ཚུལ་ཁྲིམས་འཆལ",
+    "dm": "lacking in ethical discipline",
+    "gm": "discipline is completely broken",
+    "reason": "Technical phrase (broken discipline / unethical conduct)."
+   },
+   {
+    "id": "5-100",
+    "bo": "སྡོམ་པ་མ་ཡིན",
+    "dm": "lack of restraint",
+    "gm": "non-restraint",
+    "reason": "Technical term (non-restraint), parallel to སྡོམ་མིན."
+   },
+   {
+    "id": "5-100",
+    "bo": "འདུ་ཤེས",
+    "dm": "perception",
+    "gm": "perception",
+    "reason": "Core term nested within perception of a self."
+   },
+   {
+    "id": "5-100",
+    "bo": "སེམས་ཅན",
+    "dm": "sentient being",
+    "gm": "sentient beings",
+    "reason": "Core term nested within perception of a sentient being."
+   },
+   {
+    "id": "5-101",
+    "bo": "ཁྲིམས་ལྡན",
+    "dm": "possesses such morality",
+    "gm": "possesses discipline",
+    "reason": "Fixed term for someone possessing moral discipline."
+   },
+   {
+    "id": "5-101",
+    "bo": "ཞུམ་པའི་སེམས",
+    "dm": "discouraged mind",
+    "gm": "shrinking mind",
+    "reason": "Technical emotional/mental state (discouraged/shrinking mind)."
+   },
+   {
+    "id": "5-101",
+    "bo": "ཞེན་པ",
+    "dm": "attachment",
+    "gm": "clinging",
+    "reason": "Core concept (attachment/clinging)."
+   },
+   {
+    "id": "5-102",
+    "bo": "རང་བཞིན",
+    "dm": "nature",
+    "gm": "nature",
+    "reason": "Philosophical concept (nature / svabhāva)."
+   },
+   {
+    "id": "5-102",
+    "bo": "ཞུམ་པའི་སེམས",
+    "dm": "discouraged mind",
+    "gm": "shrinking mind",
+    "reason": "Technical term (discouraged mind)."
+   },
+   {
+    "id": "5-103",
+    "bo": "བདག་གིར་འཛིན་པ",
+    "dm": "hold things as \"mine\"",
+    "gm": "grasping them as \"mine\"",
+    "reason": "Buddhist technical concept (grasping as 'mine')."
+   },
+   {
+    "id": "5-103",
+    "bo": "མི",
+    "dm": "humans",
+    "gm": "humans",
+    "reason": "One of the realms of existence (humans)."
+   },
+   {
+    "id": "5-105",
+    "bo": "འགྲོ་བ",
+    "dm": "beings",
+    "gm": "beings",
+    "reason": "Core term (beings)."
+   },
+   {
+    "id": "5-105",
+    "bo": "བྱང་ཆུབ",
+    "dm": "enlightenment",
+    "gm": "awakening",
+    "reason": "Core term nested in supreme enlightenment."
+   },
+   {
+    "id": "5-107",
+    "bo": "བསྐལ་བ",
+    "dm": "eons",
+    "gm": "eons",
+    "reason": "Technical measure of time (eon/kalpa)."
+   },
+   {
+    "id": "5-108",
+    "bo": "བསོད་ནམས",
+    "dm": "meritorious",
+    "gm": "meritorious",
+    "reason": "Nested term (merit)."
+   },
+   {
+    "id": "5-108",
+    "bo": "ཡོངས་སུ་བསྔོས",
+    "dm": "complete dedication",
+    "gm": "fully dedicating",
+    "reason": "Technical action (full dedication of merit)."
+   },
+   {
+    "id": "5-108",
+    "bo": "འགྲོ་བ",
+    "dm": "living beings",
+    "gm": "beings",
+    "reason": "Core term (living beings)."
+   },
+   {
+    "id": "5-109",
+    "bo": "རྗེས་སུ་ཡི་རང",
+    "dm": "rejoices",
+    "gm": "rejoicing",
+    "reason": "Formal Buddhist term for rejoicing (anumodanā)."
+   },
+   {
+    "id": "5-109",
+    "bo": "བཻḍūརྱ",
+    "dm": "lapis lazuli",
+    "gm": "lapis lazuli",
+    "reason": "Proper material consistently used in canonical similes (lapis lazuli)."
+   },
+   {
+    "id": "5-110",
+    "bo": "འགྲོ",
+    "dm": "living beings",
+    "gm": "beings",
+    "reason": "Core term for transmigratory beings."
+   },
+   {
+    "id": "5-110",
+    "bo": "སྦྱིན་པ",
+    "dm": "gift",
+    "gm": "gifts",
+    "reason": "Core perfection / term (gift / giving)."
+   },
+   {
+    "id": "5-110",
+    "bo": "དངོས་པོ",
+    "dm": "object",
+    "gm": "entities",
+    "reason": "Core philosophical term (object / entity)."
+   }
+  ]
+ }
+}

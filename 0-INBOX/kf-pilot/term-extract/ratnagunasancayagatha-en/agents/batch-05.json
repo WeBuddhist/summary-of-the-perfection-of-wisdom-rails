@@ -1,0 +1,190 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "3-0",
+   "terms": [
+    {
+     "bo": "གཞི་ཐམས་ཅད་ཤེས་པ",
+     "dm": "knowledge of all bases",
+     "gm": "Knowledge of All Bases"
+    }
+   ]
+  },
+  {
+   "id": "3-1",
+   "terms": [
+    {
+     "bo": "གཞི་ཐམས་ཅད་ཤེས་པ",
+     "dm": "knowledge of all bases",
+     "gm": "knowledge of all bases"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "དཔའ་བོ",
+     "dm": "heroic practitioners",
+     "gm": "hero"
+    },
+    {
+     "bo": "ཁམས་གསུམ",
+     "dm": "three realms",
+     "gm": "three realms"
+    },
+    {
+     "bo": "རྣམ་པར་གྲོལ་བ",
+     "dm": "liberation",
+     "gm": "liberated"
+    },
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "སྐྱེ་བ",
+     "dm": "birth",
+     "gm": "birth"
+    },
+    {
+     "bo": "རྒ་དང་ན་དང་འཆི་བ",
+     "dm": "aging, sickness, and death",
+     "gm": "aging, sickness, and death"
+    },
+    {
+     "bo": "འཆི་འཕོ",
+     "dm": "passing away",
+     "gm": "death and transmigration"
+    }
+   ]
+  },
+  {
+   "id": "3-2",
+   "terms": [
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "beings",
+     "gm": "beings"
+    },
+    {
+     "bo": "མིང་དང་གཟུགས",
+     "dm": "name and form",
+     "gm": "name and form"
+    },
+    {
+     "bo": "འཁོར་བ",
+     "dm": "cyclic existence",
+     "gm": "samsara"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wise"
+    }
+   ]
+  },
+  {
+   "id": "3-3",
+   "terms": [
+    {
+     "bo": "གཟུགས",
+     "dm": "form",
+     "gm": "form"
+    },
+    {
+     "bo": "རྣམ་ཤེས",
+     "dm": "consciousness",
+     "gm": "consciousness"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    },
+    {
+     "bo": "ཚོར་བ",
+     "dm": "feeling",
+     "gm": "feeling"
+    },
+    {
+     "bo": "སེམས་པ",
+     "dm": "intention",
+     "gm": "volition"
+    },
+    {
+     "bo": "ཆགས་པ",
+     "dm": "attachments",
+     "gm": "attachment"
+    },
+    {
+     "bo": "བདེ་གཤེགས",
+     "dm": "Sugatas",
+     "gm": "Sugatas"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    }
+   ]
+  },
+  {
+   "id": "3-4",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཆགས་པ",
+     "dm": "attachment",
+     "gm": "attachment"
+    },
+    {
+     "bo": "སྒྲ་གཅན",
+     "dm": "Rāhu",
+     "gm": "Rāhu"
+    }
+   ]
+  },
+  {
+   "id": "3-5",
+   "terms": [
+    {
+     "bo": "ཆོས་རྣམས་ཐམས་ཅད",
+     "dm": "all phenomena",
+     "gm": "All dharmas"
+    },
+    {
+     "bo": "རང་བཞིན་དག",
+     "dm": "naturally pure",
+     "gm": "naturally pure"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "བྱེད་པ་པོ",
+     "dm": "agent",
+     "gm": "agent"
+    },
+    {
+     "bo": "མི་དམིགས",
+     "dm": "do not perceive",
+     "gm": "Not apprehending"
+    }
+   ]
+  }
+ ]
+}

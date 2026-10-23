@@ -1,0 +1,28 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "4-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "捨棄道步入歧路此乃魔事",
+     "evidence": "Tibetan ལམ་བོར་ལམ་གོལ་འགྲོ་བ། འདི་ནི་བདུད་ཀྱི་ལས། has two clauses (abandoning the path and going astray; 'this is the work of Mara'). The Chinese runs them together with no punctuation, unlike the other three lines, which makes the line harder to parse. The meaning is intact.",
+     "fix": "捨棄道而步入歧路，此乃魔事。"
+    }
+   ]
+  },
+  {
+   "id": "7-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-1",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

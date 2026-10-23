@@ -1,0 +1,128 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "2-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-51",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "सन्देह-रहित पण्डित था",
+     "evidence": "Tibetan 'ཕ་རོལ་ཕྱིན་འདིར་སྤྱོད་པ་མཁས་པ་སོམ་ཉི་མེད' says the bodhisattva was skilled (མཁས་པ) in practicing this perfection and without doubt; Mipham 2-51 glosses 'ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་དོན་ལ་མཁས་པ'. 'पण्डित' (the Sanskrit paṇḍita, 'learned person') reads as a status, not skill in practice, and the clause 'was a pandit' is awkward.",
+     "fix": "इस पारमिता के आचरण में कुशल और सन्देह-रहित था"
+    }
+   ]
+  },
+  {
+   "id": "2-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-6",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "भले ही मार्गदर्शकों द्वारा उनके लिए साक्षात् भविष्यवाणी न की गई हो, कि \"मैं शीघ्र ही बुद्ध-बोधि का स्पर्श करूँगा।\"",
+     "evidence": "Tibetan 'རྣམ་པར་འདྲེན་པས་མངོན་སུམ་ལུང་བསྟན་མ་གྱུར་ཀྱང་། ། སངས་རྒྱས་བྱང་ཆུབ་རིང་པོར་མི་ཐོགས་བདག་རེག་འགྱུར' (Skt 'yadyāpi saṃmukha na vyākṛtu nāyakena tathāpi spṛkṣyati nacireṇa buddhabodhim') states a concession followed by a main clause: even without a direct prophecy, they will before long touch buddha-awakening. The Hindi turns 'I will soon touch' into the content of the unmade prophecy ('prophecy that I will...'), so the main assertion (they will attain awakening soon, and know it, per bo-khenrab 4-6 'བདག་གིས་རེག་པའམ་ཐོབ་པར་འགྱུར་རོ་སྙམ་དུ་ཤེས་ཏེ') is lost.",
+     "fix": "भले ही मार्गदर्शक द्वारा उन्हें साक्षात् भविष्यवाणी न की गई हो, फिर भी वे \"मैं शीघ्र ही बुद्ध-बोधि का स्पर्श करूँगा\" ऐसा जानते हैं।"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "मार्गदर्शकों द्वारा",
+     "evidence": "Tibetan 'རྣམ་པར་འདྲེན་པས' and Skt 'nāyakena' are singular (the Guide); the Hindi plural changes the number.",
+     "fix": "मार्गदर्शक द्वारा"
+    }
+   ]
+  },
+  {
+   "id": "4-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-9",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

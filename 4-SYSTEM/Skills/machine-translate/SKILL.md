@@ -135,6 +135,8 @@ python3 4-SYSTEM/Skills/machine-translate/scripts/gm_translate.py --source "1-SO
 python3 4-SYSTEM/Skills/machine-translate/scripts/gm_translate.py --source "1-SOURCES/Text/<text>.md" --lang <label>
 ```
 
+For a commentary whose sa bcad puts a heading above almost every block, add `--cross-headings`: a batch may then span section boundaries (each block keeps its own id in the JSON, so alignment is unaffected) — Mipham's commentary drops from 458 calls to 95. Wrap long runs in `caffeinate -is` so a sleeping Mac does not hang the calls (added in this vault 2026-10-05; not yet upstream).
+
 Read the pilot back block by block against the Tibetan: line parity, script, mantras transliterated, names consistent, register recitable, imperatives/optatives (`ཤོག`, `གྱུར་ཅིག`) rendered as aspirations. A **systematic** defect means editing `style.md`; a **recurring term-level** error means a line in `glossary.tsv`; then re-run the affected blocks with `--force --only <ids>`.
 
 #### Step 3 — Translate the section headings
@@ -362,6 +364,10 @@ python3 4-SYSTEM/Skills/machine-translate/scripts/dm_translate.py \
 ```
 
 One call per `##` heading (level ≥ 2) under `HEADING_STYLE`; the H1 is never sent. For a large outline (a commentary's sa bcad runs to hundreds of headings) add `--heading-batch 15`: headings go 15 per call under the `[[n]]` marker protocol, and a group whose markers do not come back exactly — or whose segments are not one line each — is re-run one heading per call (added in this vault 2026-10-04; not yet upstream). Read the four-or-so results back: a short label, numeral kept, nothing added. Re-run one with `--headings --force --only <id>` if needed. These become the section titles of the translation's table of contents on upload.
+
+#### Step 3c — Commentaries that mark quoted root words (local, 2026-10-04)
+
+Some commentaries (Mipham's on the Sañcayagāthā) mark each quoted root word with the emphasis sign ༷ (U+0F37). DharmaMitra then copies those words in Tibetan script — in Chinese especially — instead of translating them. `--strip-marks` removes ༷ before sending (recorded per record as `source_marks_stripped`). A verse cited by its opening words ("X སོགས་") may still come back in Tibetan; give it a `--glossary` entry rendering the incipit by the opening line of the same verse in the vault's own translation of the root, citing the aligned block. Find leftovers with a scan for Tibetan script in the ledger's translations (excluding ༈). DharmaMitra calls also accept `DHARMAMITRA_API_KEY` from the environment (sent as `X-API-Key`; never stored in the vault).
 
 #### Step 4 — Verify the render
 

@@ -1,0 +1,276 @@
+{
+ "batch": "calibration",
+ "segments": [
+  {
+   "id": "1-11",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "亦有所緣取",
+     "evidence": "Tibetan line 3 says ཆོས་གང་སྤྱོད་པ་དེ་ཡང་དམིགས་པར་མི་འགྱུར \"whatever phenomena they practice are also not apprehended\" (Skt: no ca so labhati yatra carati dharmam). The translation affirms apprehension; negation lost.",
+     "fix": "亦不可緣取"
+    }
+   ]
+  },
+  {
+   "id": "1-14",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "必會心生恐懼",
+     "evidence": "Tibetan རྒྱལ་བ་རྣམས་ཀྱི་ཡུམ་ཐོས་སྐྲག་པར་ཡོང་མི་འགྱུར \"will never become afraid upon hearing the Mother of the Victors\" (Skt trāso na bheṣyati). The translation says they will surely feel fear; meaning reversed.",
+     "fix": "決不會心生恐懼"
+    }
+   ]
+  },
+  {
+   "id": "1-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "殊勝丈夫",
+     "evidence": "Locked rendering for གང་ཟག་དམ་པ is 殊勝士夫; the translation uses 丈夫.",
+     "fix": "殊勝士夫"
+    }
+   ]
+  },
+  {
+   "id": "1-23",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "且恆常救護眾生",
+     "evidence": "Tibetan སྙིང་རྗེ་ཆེན་པོ་བསྐྱེད་ཀྱང་སེམས་ཅན་འདུ་ཤེས་མེད only says that great compassion is generated without the perception of sentient beings (Skt mahatīṃ janeti karuṇāṃ na ca sattvasaṃjñā). Nothing corresponds to \"constantly protecting beings\".",
+     "fix": "雖生大悲而無有情想"
+    }
+   ]
+  },
+  {
+   "id": "1-24",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "這正是行持殊勝的般若波羅蜜多",
+     "evidence": "Tibetan last line ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཆོག་སྤྱོད་མ་ཡིན \"this is NOT the practice of the supreme perfection of wisdom\" (Skt na ca eṣā...); the verse describes a bodhisattva who conceptualizes self and beings. Negation dropped, meaning reversed.",
+     "fix": "這並非行持殊勝的般若波羅蜜多"
+    }
+   ]
+  },
+  {
+   "id": "2-1",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "凡是住於識者，即安住於法性",
+     "evidence": "Tibetan རྣམ་ཤེས་གང་མི་གནས་པ \"whoever does not abide in consciousness\" (Skt vijñāni yo na sthihate), parallel to the other four aggregates. The translation drops the negation.",
+     "fix": "凡是不住於識者，即安住於法性"
+    }
+   ]
+  },
+  {
+   "id": "2-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-7",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "亦學獨覺地",
+     "evidence": "Tibetan དགྲ་བཅོམ་ས་ལ་མི་སློབ་རྐྱེན་རྟོགས་ས་ལ་མིན \"does not train in the arhat stage, nor in the pratyekabuddha stage\" (Skt nārhaṃmi śikṣati na pratyayabuddhabhūmau). The translation says the bodhisattva does train in the pratyekabuddha stage.",
+     "fix": "亦不學獨覺地"
+    }
+   ]
+  },
+  {
+   "id": "2-25",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "遺骨",
+     "evidence": "Locked rendering for རིང་བསྲེལ is 舍利; the translation uses 遺骨 (remains/bones).",
+     "fix": "舍利"
+    }
+   ]
+  },
+  {
+   "id": "2-51",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "—",
+     "evidence": "Tibetan ཕ་རོལ་ཕྱིན་འདིར་སྤྱོད་པ་མཁས་པ་སོམ་ཉི་མེད \"skilled in practising this perfection, without doubt\". The translation renders only \"善巧修習\" and omits སོམ་ཉི་མེད. bo-mipham 2-51 explains: མཁས་པ་དང་དེ་ལ་སོམས་ཉི་མེད་པར་གྱུར་ནས; bo-rangjung 2-51 also has རྟོགས་པ་ལ་སོམ་ཉི་མེད་པ.",
+     "fix": "善巧修習此波羅蜜多而無疑惑"
+    }
+   ]
+  },
+  {
+   "id": "4-1",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "梵天王",
+     "evidence": "Tibetan ལྷ་རྒྱལ་བརྒྱ་བྱིན (Skt śakro devarājaḥ) is Śakra/Indra, locked rendering 天王帝釋. 梵天王 means Brahmā, a different deity.",
+     "fix": "天王帝釋"
+    }
+   ]
+  },
+  {
+   "id": "4-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-46",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "然此是蘊、界與處之鎧甲",
+     "evidence": "Tibetan ཕུང་པོ་ཁམས་དང་སྐྱེ་མཆེད་རྣམས་ཀྱི་གོ་ཆ་མིན \"it is NOT the armor of the aggregates, elements and sense bases\" (Skt na ca skandhadhātu na ca āyatanaiḥ sanaddhāḥ). The translation affirms it.",
+     "fix": "然此非蘊、界與處之鎧甲"
+    }
+   ]
+  },
+  {
+   "id": "4-57",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "依止其他沙門與婆羅門",
+     "evidence": "Tibetan དགེ་སྦྱོང་དག་དང་བྲམ་ཟེ་གཞན་ལ་རྟེན་མི་བྱེད \"do not rely on other śramaṇas and brahmins\" (Skt na ca anya te śramaṇa brāhmaṇa āśrayanti). The translation omits the negation.",
+     "fix": "不依止其他沙門與婆羅門"
+    }
+   ]
+  },
+  {
+   "id": "4-66",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "多百俱胝劫",
+     "evidence": "Tibetan བསྐྲལ་མང་བྱེ་སྟོང \"many thousands of ten-millions of eons\" (Skt kalpasahasrakoṭayaḥ); bo-mipham 4-66 བསྐལ་པ་མང་པོ་བྱེ་བ་སྟོང. The translation has hundreds (百) instead of thousands (千).",
+     "fix": "多千俱胝劫"
+    }
+   ]
+  },
+  {
+   "id": "4-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-71",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "若無最後火焰燈芯亦被焚",
+     "evidence": "Tibetan མེ་ལྕེ་ཐ་མ་མེད་པར་སྙིང་པོ་ཚིག་མིན་ལྟར \"without the final flame the wick is not burned\" (Skt asatā pi paścima na dahyati). The translation says the wick is burned, reversing the negation.",
+     "fix": "若無最後火焰燈芯亦不被焚"
+    }
+   ]
+  },
+  {
+   "id": "4-92",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "彼國王",
+     "evidence": "Tibetan དེད་དཔོན (Skt sārthavāha) is the caravan leader/merchant who went to the jewel island, not a king. bo-rangjung 2-51 parallel also calls him ཚོང་པ.",
+     "fix": "彼商主"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "並非獨自安樂生活，而將眾親友置於不悅",
+     "evidence": "Tibetan དེར་ནི་དེད་དཔོན་འབའ་ཞིག་བདེ་བར་འཚོ་བྱེད་ཅིང་གཉེན་བཤེས་ཚོགས་ཡིད་མི་བདེར་འཇོག་པ་མིན་པ་ལྟར: the negation covers both, \"does not live happily alone while leaving his relatives unhappy\". The translation's 並非…而… can be read as \"not alone happy, but rather makes relatives unhappy\".",
+     "fix": "彼商主不會獨自安樂度日而令眾親友不悅"
+    }
+   ]
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "因見到彼等種種真實加持",
+     "evidence": "Tibetan བདེན་པའི་བྱིན་རླབས་སྣ་ཚོགས་དག །འབྱོར་པས \"through the various blessings of truth being accomplished/attained\"; bo-mipham 5-4 གྲུབ་པའམ་འབྱོར་བར་གྱུར་པ, bo-rangjung 5-4 འབྱོར་ཅིང་གྲུབ་པས. The translation says \"seeing\" them, which shifts attainment to perception.",
+     "fix": "因彼等種種真實加持得以成就"
+    }
+   ]
+  },
+  {
+   "id": "5-9",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "五十由旬",
+     "evidence": "Tibetan དཔག་ཚད་ལྔ་བརྒྱ \"five hundred yojanas\" (Skt pañcayojanaśate); bo-mipham, bo-khenrab 5-8 དཔག་ཚད་ལྔ་བརྒྱ. Number wrong.",
+     "fix": "五百由旬"
+    }
+   ]
+  },
+  {
+   "id": "5-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-24",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "般若波羅蜜多瑜伽應當捨棄",
+     "evidence": "Tibetan ཤེས་རབ་ཕ་རོལ་ཕྱིན་ལ་རྣལ་འབྱོར་དོར་མི་བྱ \"should not abandon the yoga of the perfection of wisdom\" (Skt yogu na riñcitavyo). Negation lost; also the sentence is broken after 對於如寶之.",
+     "fix": "不應捨棄對如寶之般若波羅蜜多的瑜伽"
+    }
+   ]
+  },
+  {
+   "id": "5-47",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

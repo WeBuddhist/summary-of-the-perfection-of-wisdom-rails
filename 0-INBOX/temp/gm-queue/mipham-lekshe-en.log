@@ -1,0 +1,267 @@
+=== blocks pass 1 2026-10-05 15:32:50
+seeded 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/about.md
+source     : 1-SOURCES/Commentaries/bo-mipham-lekshe.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries
+reference  : none
+glossary   : none
+blocks     : 487 total, 0 already in ledger, 487 to do
+batching   : 459 calls for 487 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/459] ^0-1,^0-2,^0-3  (3 blk, 1292 src, 435 ctx) … 33.83s  Herein lies the excellent explanation titled Comment
+[2/459] ^1-1  (1 blk, 69 src, 3864 ctx) … === restarted with --cross-headings 2026-10-05 15:33:40
+=== blocks pass 1 2026-10-05 15:33:42
+source     : 1-SOURCES/Commentaries/bo-mipham-lekshe.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries
+reference  : none
+glossary   : none
+blocks     : 487 total, 3 already in ledger, 484 to do
+batching   : 95 calls for 484 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/95] ^1-1,^1-2,^1-3,^1-4,^1-5,^1-6,^1-7  (7 blk, 2112 src, 3864 ctx) … 55.0s  For the first, there are four parts: the meaning of 
+[2/95] ^1-8,^1-9,^1-10,^1-11  (4 blk, 2551 src, 5604 ctx) … 74.22s  The actual exhortation. First, it is taught by a sin
+[3/95] ^1-12,^1-13,^1-14,^1-15,^1-16,^1-17,^1-18,^1-19  (8 blk, 1222 src, 7478 ctx) … 73.01s  'If' one asks '"Why is that?"', 'whatever' 'system o
+[4/95] ^1-20,^1-21,^1-22,^1-23  (4 blk, 1346 src, 2745 ctx) … 78.02s  The ground being objectless. For the first, there ar
+[5/95] ^1-24  (1 blk, 3798 src, 4808 ctx) … 105.0s  For the first, the single stanza 'no form' etc.: Thu
+[6/95] ^1-25,^1-26,^1-27,^1-28,^1-29  (5 blk, 2382 src, 549 ctx) … 75.84s  Second, the example is taught in one verse, starting
+[7/95] ^1-30,^1-31,^1-32,^1-33,^1-34,^1-35  (6 blk, 2997 src, 6508 ctx) … 67.13s  Third, the meaning of the four lines starting with "
+[8/95] ^1-36,^1-37,^1-38,^1-39,^1-40,^1-41,^1-42,^1-43  (8 blk, 2381 src, 7827 ctx) … 43.4s  First, the meaning of the two lines starting with "[
+[9/95] ^1-44,^1-45,^1-46,^1-47,^1-48,^1-49  (6 blk, 2465 src, 5033 ctx) … 60.92s  First, the meaning of the single verse starting with
+[10/95] ^1-50,^1-51,^1-52,^1-53,^1-54,^1-55,^1-56  (7 blk, 2780 src, 6741 ctx) … 59.27s  First, the meaning of the single verse starting with
+[11/95] ^1-57,^1-58,^1-59,^1-60,^1-61,^1-62,^1-63,^1-64  (8 blk, 2530 src, 5739 ctx) … 56.13s  Second, the single verse starting with "If the perce
+[12/95] ^1-65,^1-66,^1-67,^1-68,^1-69  (5 blk, 1586 src, 4708 ctx) … 64.7s  First, there are two parts: not abiding in the bases
+[13/95] ^1-70,^1-71,^1-72  (3 blk, 2707 src, 4946 ctx) … 93.91s  benefits. Second, the benefits. The single verse sta
+[14/95] ^1-73,^1-74,^1-75,^1-76,^1-77  (5 blk, 2416 src, 8901 ctx) … 54.27s  Second, the single verse starting with "These four p
+[15/95] ^1-78,^1-79  (2 blk, 2268 src, 8576 ctx) … 63.99s  Teaching it as free from being one and different. Fi
+[16/95] ^1-80,^1-81,^1-82,^1-83  (4 blk, 1977 src, 8528 ctx) … 55.96s  Third, the single verse starting with "Perception is
+[17/95] ^1-84,^1-85,^1-86,^1-87,^1-88  (5 blk, 2148 src, 7539 ctx) … 61.4s  Second, the single verse starting with "When I...": 
+[18/95] ^1-89,^1-90,^1-91,^1-92,^1-93,^1-94,^1-95  (7 blk, 2822 src, 7657 ctx) … 118.65s  The benefits of worshipping it. First, the three ver
+[19/95] ^1-96,^1-97,^1-98,^1-99,^1-100,^1-101  (6 blk, 2309 src, 4212 ctx) … 92.18s  Second, the two lines starting with "Conditioned hap
+[20/95] ^1-102,^1-103,^1-104,^1-105  (4 blk, 2866 src, 6479 ctx) … 91.1s  Second, the three stanzas starting with "If you ask 
+[21/95] ^1-106,^1-107,^1-108,^1-109,^1-110,^1-111,^1-112,^1-113  (8 blk, 2235 src, 8755 ctx) … 85.96s  "Likewise", according to that example, "these" "five
+[22/95] ^1-114,^1-115,^1-116,^1-117,^1-118,^1-119,^1-120  (7 blk, 2407 src, 4907 ctx) … 65.62s  First, the one stanza starting with "Someone ... of 
+[23/95] ^1-121,^1-122,^1-123,^1-124,^1-125,^1-126,^1-127  (7 blk, 2759 src, 5541 ctx) … 87.65s  Second, the two stanzas starting with "For example, 
+[24/95] ^1-128,^1-129,^1-130,^1-131,^1-132,^1-133,^1-134  (7 blk, 2961 src, 4576 ctx) … 37.05s  Second, the basis for rejoicing and dedication: The 
+[25/95] ^1-135,^1-136,^1-137,^1-138,^1-139,^1-140,^1-141  (7 blk, 2949 src, 4976 ctx) …     ! 429 rate-limited; waiting 10s (attempt 1/6)
+37.9s  Third, the summary of the meaning of those two: the 
+[26/95] ^1-142,^1-143,^1-144,^1-145,^1-146,^1-147  (6 blk, 2729 src, 6427 ctx) … 53.93s  Second, the one stanza starting with "When wisdom": 
+[27/95] ^1-148,^1-149,^1-150,^1-151  (4 blk, 1508 src, 7571 ctx) … 30.0s  Second, the one stanza starting with "When previousl
+[28/95] ^1-152  (1 blk, 3327 src, 6159 ctx) … 99.35s  The essence of the completely pure wakefulness. Firs
+[29/95] ^1-153,^1-154,^1-155,^1-156,^1-157,^1-158,^1-159  (7 blk, 2692 src, 8935 ctx) … 93.82s  The function of that wakefulness of meditative equip
+[30/95] ^1-160,^1-161,^1-162,^1-163,^1-164,^1-165,^1-166  (7 blk, 2402 src, 7428 ctx) … 47.76s  Fourth, teaching the aspect of that wakefulness of m
+[31/95] ^1-167,^1-168,^1-169,^1-170  (4 blk, 2866 src, 5508 ctx) … 82.74s  First, there are two stanzas starting with "The path
+[32/95] ^1-171,^1-172,^1-173,^1-174,^1-175  (5 blk, 2762 src, 7843 ctx) … 42.96s  Third, the way of attaining the nirmāṇakāya. There i
+[33/95] ^1-176,^1-177,^1-178,^1-179,^1-180,^1-181,^1-182,^1-183  (8 blk, 2247 src, 7606 ctx) … 59.56s  First, there is one stanza starting with "Moon of sp
+[34/95] ^1-184,^1-185,^1-186,^1-187,^1-188,^1-189  (6 blk, 2918 src, 5102 ctx) … 32.73s  Second, there are two lines starting with "Having fo
+[35/95] ^1-190,^1-191,^1-192,^1-193,^1-194,^1-195,^1-196,^1-197  (8 blk, 2787 src, 7703 ctx) … 95.11s  Second, the reason for the occurrence of the work of
+[36/95] ^1-198,^1-199,^1-200,^1-201,^1-202,^1-203  (6 blk, 2984 src, 6310 ctx) … 102.53s  Second, there are three parts: joining to the knowle
+[37/95] ^1-204,^1-205,^1-206,^1-207,^1-208,^1-209  (6 blk, 1917 src, 8008 ctx) … 49.8s  Second, there are two parts: vanquishing what is not
+[38/95] ^1-210,^1-211,^1-212,^1-213,^1-214,^1-215  (6 blk, 2479 src, 5437 ctx) … 49.8s  Second, there is one stanza starting with "Seeing sp
+[39/95] ^1-216,^1-217,^1-218  (3 blk, 2207 src, 6823 ctx) … 56.25s  First, there is one stanza starting with "In whoever
+    ^1-216: 1 source lines -> 6 returned; re-running alone
+    ^1-216 solo 1/3 (want 1) … 52.01s -> 1 line(s)  OK
+    ^1-217: 1 source lines -> 2 returned; re-running alone
+    ^1-217 solo 1/3 (want 1) … 17.7s -> 1 line(s)  OK
+    ^1-218: 1 source lines -> 9 returned; re-running alone
+    ^1-218 solo 1/3 (want 1) … 100.6s -> 1 line(s)  OK
+[40/95] ^1-219,^1-220,^1-221,^1-222,^1-223,^1-224,^1-225  (7 blk, 2631 src, 8885 ctx) … 55.9s  Second, there are two stanzas starting with "For exa
+[41/95] ^1-226,^1-227,^1-228,^1-229  (4 blk, 2117 src, 5534 ctx) … 49.18s  First, there is one stanza starting with "bodhisattv
+[42/95] ^1-230,^1-231,^1-232,^1-233  (4 blk, 2812 src, 6412 ctx) … 91.86s  Second, there is one stanza starting with "Acting in
+[43/95] ^1-234,^1-235,^1-236  (3 blk, 2333 src, 7598 ctx) … 97.06s  Second, there is one stanza starting with "Those are
+[44/95] ^1-237,^1-238,^1-239,^1-240,^1-241  (5 blk, 2036 src, 6527 ctx) … 45.09s  Second, there is one stanza starting with "Sentient 
+[45/95] ^1-242,^1-243,^1-244,^1-245,^1-246,^1-247  (6 blk, 2525 src, 5896 ctx) … 44.97s  Second, there is one stanza starting with "The suchn
+[46/95] ^1-248,^1-249,^1-250,^1-251,^1-252,^1-253  (6 blk, 2987 src, 7046 ctx) … 66.63s  Second, there is one stanza starting with "Of the Ji
+[47/95] ^1-254  (1 blk, 1887 src, 8239 ctx) … 75.57s  Identifying the irreversible ones as indicated by si
+[48/95] ^1-255,^1-256  (2 blk, 2596 src, 7816 ctx) … 79.35s  "Making" things "clean" and "wearing" "clean" "cloth
+[49/95] ^1-257,^1-258,^1-259,^1-260,^1-261,^1-262,^1-263,^1-264  (8 blk, 1978 src, 7033 ctx) … 53.77s  With a mind that single-pointedly delights in the "o
+[50/95] ^1-265,^1-266,^1-267,^1-268,^1-269  (5 blk, 2633 src, 3382 ctx) … 64.75s  The first. "Bodhisattva" and so forth is one verse. 
+[51/95] ^1-270,^1-271,^1-272,^1-273,^1-274  (5 blk, 2981 src, 7206 ctx) … 85.13s  The fourth. "That merit, too" and so forth is one ve
+[52/95] ^1-275,^1-276,^1-277,^1-278,^1-279,^1-280,^1-281  (7 blk, 2873 src, 8312 ctx) … 65.18s  The second is abandoning objections conventionally. 
+[53/95] ^1-282,^1-283,^1-284,^1-285  (4 blk, 2249 src, 7558 ctx) … 45.12s  The second. "Having found a seed" and so forth is on
+[54/95] ^1-286,^1-287,^1-288,^1-289  (4 blk, 2814 src, 8792 ctx) … 73.31s  The first. "Empty, signless" and so forth is one ver
+[55/95] ^1-290,^1-291,^1-292  (3 blk, 2571 src, 7897 ctx) … 113.91s  The first. "Bodhisattvas" and so forth is one verse.
+[56/95] ^1-293  (1 blk, 4229 src, 7374 ctx) … 125.75s  When encountering that host of enemies, "that" "pers
+[57/95] ^1-294,^1-295,^1-296,^1-297  (4 blk, 2832 src, 549 ctx) … 57.57s  Second, two verses starting with "wind resting on sp
+[58/95] ^1-298,^1-299,^1-300,^1-301  (4 blk, 2925 src, 6915 ctx) … 51.17s  Fifth, two verses starting with "For example, a monk
+[59/95] ^1-302,^1-303,^1-304,^1-305,^1-306,^1-307  (6 blk, 2998 src, 7067 ctx) … 61.33s  Likewise, a bodhisattva who seeks the benefit and ha
+[60/95] ^1-308,^1-309,^1-310,^1-311,^1-312,^1-313  (6 blk, 2593 src, 7835 ctx) … 46.55s  Detailed explanation. Second, there are two: the sig
+[61/95] ^1-314,^1-315,^1-316,^1-317,^1-318,^1-319  (6 blk, 2751 src, 6837 ctx) … 53.17s  Second, two verses starting with "From the basis of 
+[62/95] ^1-320,^1-321,^1-322,^1-323,^1-324  (5 blk, 2309 src, 6982 ctx) … 56.45s  First, one verse starting with "Whoever [...] yojana
+[63/95] ^1-325,^1-326,^1-327,^1-328  (4 blk, 2001 src, 6749 ctx) … 64.97s  The brief teaching. First, one verse starting with "
+[64/95] ^1-329,^1-330,^1-331,^1-332,^1-333  (5 blk, 2239 src, 7687 ctx) … 50.22s  How the perfection of wisdom is a spiritual friend. 
+[65/95] ^1-334,^1-335,^1-336,^1-337,^1-338  (5 blk, 2801 src, 6577 ctx) … 74.75s  First, one verse starting with "Sentient beings, thr
+[66/95] ^1-339,^1-340,^1-341,^1-342,^1-343  (5 blk, 2961 src, 8086 ctx) … 77.23s  First, two verses starting with "In Jambudvīpa": To 
+[67/95] ^1-344,^1-345,^1-346  (3 blk, 2315 src, 8247 ctx) … 86.17s  First, two verses starting with "The sun and clouds"
+[68/95] ^1-347,^1-348,^1-349,^1-350,^1-351  (5 blk, 1855 src, 8783 ctx) … 94.35s  First, one verse starting with "At that time": "At" 
+[69/95] ^1-352  (1 blk, 2402 src, 5620 ctx) … 79.45s  First, two verses starting with "Whenever bodhisattv
+[70/95] ^1-353,^1-354,^1-355,^1-356,^1-357  (5 blk, 2512 src, 8725 ctx) … 55.17s  Second, one verse starting with "Has not obtained a 
+[71/95] ^1-358,^1-359,^1-360,^1-361  (4 blk, 2930 src, 6915 ctx) … 89.3s  Second, two verses starting with "Bodhisattva": "Who
+[72/95] ^1-362,^1-363,^1-364,^1-365  (4 blk, 2731 src, 8952 ctx) … 61.57s  Second, one verse starting with "For example, the li
+[73/95] ^1-366,^1-367,^1-368,^1-369,^1-370,^1-371  (6 blk, 2443 src, 7035 ctx) … 90.95s  Second, one verse starting with "Seeking virtue": Wh
+[74/95] ^1-372,^1-373,^1-374,^1-375  (4 blk, 2832 src, 6658 ctx) … 92.66s  First, two verses starting with "In the midst of peo
+[75/95] ^1-376,^1-377,^1-378,^1-379,^1-380,^1-381,^1-382  (7 blk, 2705 src, 7894 ctx) … 60.71s  First, one verse starting with "Skillful in practici
+[76/95] ^1-383,^1-384,^1-385  (3 blk, 1990 src, 5945 ctx) … 73.26s  First, two verses starting with "The dharmadhātu and
+[77/95] ^1-386,^1-387,^1-388,^1-389,^1-390  (5 blk, 2771 src, 7504 ctx) … 33.9s  Second, three verses starting with "the liberation o
+[78/95] ^1-391,^1-392,^1-393,^1-394  (4 blk, 2533 src, 8328 ctx) … 58.7s  First, one verse starting with "This is the dharma t
+[79/95] ^1-395,^1-396,^1-397  (3 blk, 2318 src, 8513 ctx) … 41.03s  Second, one verse starting with "Sons of the Buddhas
+[80/95] ^1-398,^1-399,^1-400,^1-401,^1-402  (5 blk, 2547 src, 8937 ctx) … 62.41s  Second, one verse starting with "The ways and doors 
+[81/95] ^1-403,^1-404,^1-405,^1-406,^1-407,^1-408,^1-409,^1-410  (8 blk, 2805 src, 7180 ctx) … 48.09s  First, one verse starting with "Possessing great pow
+[82/95] ^1-411,^1-412,^1-413,^1-414,^1-415,^1-416  (6 blk, 2465 src, 5302 ctx) … 70.78s  First, one verse starting with "The great being": Th
+[83/95] ^1-417,^1-418,^1-419,^1-420,^1-421,^1-422,^1-423,^1-424  (8 blk, 2856 src, 7042 ctx) … 73.57s  Second, one verse starting with "Furthermore, forms 
+[84/95] ^1-425,^1-426,^1-427,^1-428,^1-429,^1-430  (6 blk, 2515 src, 5350 ctx) … 60.61s  Second, one verse starting with "My bliss": Thus, be
+[85/95] ^1-431,^1-432,^1-433  (3 blk, 2461 src, 6921 ctx) … 65.62s  First, one verse starting with "Toward supreme awake
+[86/95] ^1-434,^1-435,^1-436,^1-437,^1-438,^1-439,^1-440  (7 blk, 2956 src, 6925 ctx) … 62.55s  First, one verse starting with "Beings thoroughly": 
+[87/95] ^1-441,^1-442,^1-443,^1-444,^1-445  (5 blk, 2333 src, 6296 ctx) … 48.91s  The patience of not being upset by harm. Regarding t
+[88/95] ^1-446,^1-447,^1-448,^1-449,^1-450,^1-451,^1-452  (7 blk, 2759 src, 7606 ctx) … 80.26s  The benefits of being endowed with supreme disciplin
+[89/95] ^1-453,^1-454,^1-455,^1-456,^1-457,^1-458,^1-459,^1-460  (8 blk, 2827 src, 5464 ctx) … 61.52s  Second, one verse starting with "If for ten million 
+[90/95] ^1-461,^1-462,^1-463,^1-464,^1-465,^1-466,^1-467  (7 blk, 2761 src, 5980 ctx) … 66.05s  First, two verses starting with "A pure sentient bei
+[91/95] ^1-468,^1-469,^1-470,^1-471,^1-472,^1-473,^1-474,^1-475  (8 blk, 2777 src, 5610 ctx) … 43.02s  Third, two lines starting with "Having given generos
+[92/95] ^1-476,^1-477  (2 blk, 2486 src, 6157 ctx) … 98.49s  The specific results of the path. First, sixteen lin
+[93/95] ^1-478,^1-479  (2 blk, 1987 src, 8214 ctx) … 58.16s  Second, one verse starting with "Having completely p
+[94/95] ^1-480,^1-481,^1-482,^2-1  (4 blk, 2247 src, 8998 ctx) … 41.62s  Third, concluding with the necessity for teaching in
+[95/95] ^2-2  (1 blk, 3802 src, 6203 ctx) … 90.58s  Here it is said: The jewel of the *Precious Summary 
+
+wrote 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/bo-mipham-lekshe-en.md  (487/487 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/work/bo-mipham-lekshe-en.jsonl
+calls  98 for 484 block(s) recorded this run
+SUMMARY {"text": "bo-mipham-lekshe", "lang_tag": "en", "blocks_total": 487, "blocks_done": 487, "new": 484, "calls": 98, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": null}
+=== headings pass 1 2026-10-05 17:25:27
+source     : 1-SOURCES/Commentaries/bo-mipham-lekshe.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default   mode=headings
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries
+reference  : none
+glossary   : none
+blocks     : 453 total, 0 already in ledger, 453 to do
+batching   : 57 calls for 453 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/57] ^1-0,^1-1-0,^1-2-0,^1-3-0,^1-3-1-0,^1-3-2-0,^1-3-2-1-0,^1-3-2-1-1-0  (8 blk, 136 src, 435 ctx) … 13.77s  Explanation According to the Approach of Emptiness E
+[2/57] ^1-3-2-1-2-0,^1-3-2-1-2-1-0,^1-3-2-1-2-2-0,^1-3-2-1-2-3-0,^1-3-2-2-0,^1-3-2-2-1-0,^1-3-2-2-1-1-0,^1-3-2-2-1-1-1-0  (8 blk, 185 src, 1265 ctx) … 17.64s  Incidentally Showing that Teaching the Dharma is the
+[3/57] ^1-3-2-2-1-1-1-1-0,^1-3-2-2-1-1-1-1-1-0,^1-3-2-2-1-1-1-1-1-1-0,^1-3-2-2-1-1-1-1-1-1-1-0,^1-3-2-2-1-1-1-1-1-1-1-1-0,^1-3-2-2-1-1-1-1-1-1-1-2-0,^1-3-2-2-1-1-1-1-1-1-1-2-1-0,^1-3-2-2-1-1-1-1-1-1-1-2-1-1-0  (8 blk, 153 src, 1356 ctx) … 19.82s  Detailed Explanation of the Support, the Dharma, and
+[4/57] ^1-3-2-2-1-1-1-1-1-1-1-2-1-2-0,^1-3-2-2-1-1-1-1-1-1-1-2-2-0,^1-3-2-2-1-1-1-1-1-1-1-2-2-1-0,^1-3-2-2-1-1-1-1-1-1-1-2-2-2-0,^1-3-2-2-1-1-1-1-1-1-1-2-2-3-0,^1-3-2-2-1-1-1-1-1-1-2-0,^1-3-2-2-1-1-1-1-1-1-3-0,^1-3-2-2-1-1-1-1-1-1-3-1-0  (8 blk, 175 src, 1469 ctx) … 20.77s  Example
+[5/57] ^1-3-2-2-1-1-1-1-1-1-3-2-0,^1-3-2-2-1-1-1-1-1-2-0,^1-3-2-2-1-1-1-1-1-2-1-0,^1-3-2-2-1-1-1-1-1-2-2-0,^1-3-2-2-1-1-1-1-1-3-0,^1-3-2-2-1-1-1-1-1-3-1-0,^1-3-2-2-1-1-1-1-1-3-2-0,^1-3-2-2-1-1-1-1-1-3-2-1-0  (8 blk, 196 src, 1584 ctx) … 15.46s  Example
+[6/57] ^1-3-2-2-1-1-1-1-1-3-2-2-0,^1-3-2-2-1-1-1-1-1-3-2-2-1-0,^1-3-2-2-1-1-1-1-1-3-2-2-2-0,^1-3-2-2-1-1-1-1-1-3-2-2-2-1-0,^1-3-2-2-1-1-1-1-1-3-2-2-2-2-0,^1-3-2-2-1-1-1-1-2-0,^1-3-2-2-1-1-1-1-2-1-0,^1-3-2-2-1-1-1-1-2-1-1-0  (8 blk, 168 src, 1546 ctx) … 16.99s  Great Armour
+[7/57] ^1-3-2-2-1-1-1-1-2-1-2-0,^1-3-2-2-1-1-1-1-2-2-0,^1-3-2-2-1-1-1-1-2-2-1-0,^1-3-2-2-1-1-1-1-2-2-1-1-0,^1-3-2-2-1-1-1-1-2-2-1-2-0,^1-3-2-2-1-1-1-1-2-2-1-2-1-0,^1-3-2-2-1-1-1-1-2-2-1-2-2-0,^1-3-2-2-1-1-1-1-2-2-3-0  (8 blk, 223 src, 1589 ctx) … 18.36s  Teaching That Ultimately These Are Not Apprehended
+[8/57] ^1-3-2-2-1-1-1-1-3-0,^1-3-2-2-1-1-1-2-0,^1-3-2-2-1-1-2-0,^1-3-2-2-1-1-2-1-0,^1-3-2-2-1-1-2-1-1-0,^1-3-2-2-1-1-2-1-1-1-0,^1-3-2-2-1-1-2-1-1-1-1-0,^1-3-2-2-1-1-2-1-1-1-1-1-0  (8 blk, 193 src, 1653 ctx) … 23.77s  Teaching the Result
+[9/57] ^1-3-2-2-1-1-2-1-1-1-1-2-0,^1-3-2-2-1-1-2-1-1-1-2-0,^1-3-2-2-1-1-2-1-1-2-0,^1-3-2-2-1-1-2-1-2-0,^1-3-2-2-1-1-2-1-2-1-0,^1-3-2-2-1-1-2-1-2-2-0,^1-3-2-2-1-1-2-1-2-3-0,^1-3-2-2-1-1-2-1-2-3-1-0  (8 blk, 190 src, 1507 ctx) … 20.19s  Non-Abiding in Attributes, Impermanence and So Forth
+[10/57] ^1-3-2-2-1-1-2-1-2-3-2-0,^1-3-2-2-1-1-2-2-0,^1-3-2-2-1-1-2-2-1-0,^1-3-2-2-1-1-2-2-2-0,^1-3-2-2-1-1-2-2-3-0,^1-3-2-2-1-1-2-2-4-0,^1-3-2-2-1-1-2-2-4-1-0,^1-3-2-2-1-1-2-2-4-2-0  (8 blk, 281 src, 1503 ctx) … 23.95s  Training in the Way of Not Training in All Phenomena
+[11/57] ^1-3-2-2-1-1-2-3-0,^1-3-2-2-1-1-2-3-1-0,^1-3-2-2-1-1-2-3-1-1-0,^1-3-2-2-1-1-2-3-1-2-0,^1-3-2-2-1-1-2-3-1-2-1-0,^1-3-2-2-1-1-2-3-1-2-2-0,^1-3-2-2-1-1-2-3-1-2-2-1-0,^1-3-2-2-1-1-2-3-1-2-2-1-1-0  (8 blk, 223 src, 1620 ctx) … 15.61s  Accumulating Merit Relying on That
+[12/57] ^1-3-2-2-1-1-2-3-1-2-2-1-1-1-0,^1-3-2-2-1-1-2-3-1-2-2-1-1-1-1-0,^1-3-2-2-1-1-2-3-1-2-2-1-1-1-2-0,^1-3-2-2-1-1-2-3-1-2-2-1-1-2-0,^1-3-2-2-1-1-2-3-1-2-2-1-2-0,^1-3-2-2-1-1-2-3-1-2-2-1-2-1-0,^1-3-2-2-1-1-2-3-1-2-2-1-2-2-0,^1-3-2-2-1-1-2-3-1-2-2-2-0  (8 blk, 310 src, 1542 ctx) … 39.69s  The Arising of the Happiness of Peace
+[13/57] ^1-3-2-2-1-1-2-3-1-2-2-2-1-0,^1-3-2-2-1-1-2-3-1-2-2-2-2-0,^1-3-2-2-1-1-2-3-1-2-2-3-0,^1-3-2-2-1-1-2-3-1-2-2-3-1-0,^1-3-2-2-1-1-2-3-1-2-2-3-2-0,^1-3-2-2-1-1-2-3-2-0,^1-3-2-2-1-1-2-3-2-1-0,^1-3-2-2-1-1-2-3-2-1-1-0  (8 blk, 241 src, 1883 ctx) … 18.71s  The Actual
+[14/57] ^1-3-2-2-1-1-2-3-2-1-2-0,^1-3-2-2-1-1-2-3-2-2-0,^1-3-2-2-1-1-2-3-2-2-1-0,^1-3-2-2-1-1-2-3-2-2-2-0,^1-3-2-2-1-1-2-3-2-2-2-1-0,^1-3-2-2-1-1-2-3-2-2-2-2-0,^1-3-2-2-1-1-2-3-2-2-2-2-1-0,^1-3-2-2-1-1-2-3-2-2-2-2-2-0  (8 blk, 194 src, 1698 ctx) … 23.36s  How to Explain the Authentic Perfection of Wisdom Th
+[15/57] ^1-3-2-2-1-1-2-3-2-2-2-2-2-1-0,^1-3-2-2-1-1-2-3-2-2-2-2-2-2-0,^1-3-2-2-1-1-2-4-0,^1-3-2-2-1-1-2-4-1-0,^1-3-2-2-1-1-2-4-1-1-0,^1-3-2-2-1-1-2-4-1-1-1-0,^1-3-2-2-1-1-2-4-1-1-1-1-0,^1-3-2-2-1-1-2-4-1-1-1-2-0  (8 blk, 224 src, 1550 ctx) … 27.05s  Illustrating the Example of Positive Concomitance th
+[16/57] ^1-3-2-2-1-1-2-4-1-1-2-0,^1-3-2-2-1-1-2-4-1-2-0,^1-3-2-2-1-1-2-4-1-2-1-0,^1-3-2-2-1-1-2-4-1-2-1-1-0,^1-3-2-2-1-1-2-4-1-2-1-1-1-0,^1-3-2-2-1-1-2-4-1-2-1-1-1-1-0,^1-3-2-2-1-1-2-4-1-2-1-1-1-2-0,^1-3-2-2-1-1-2-4-1-2-1-1-2-0  (8 blk, 229 src, 1551 ctx) … 20.96s  Showing the Common Basis of Rejoicing and Dedication
+[17/57] ^1-3-2-2-1-1-2-4-1-2-1-2-0,^1-3-2-2-1-1-2-4-1-2-2-0,^1-3-2-2-1-1-2-4-1-2-2-1-0,^1-3-2-2-1-1-2-4-1-2-2-2-0,^1-3-2-2-1-1-2-4-1-2-2-2-1-0,^1-3-2-2-1-1-2-4-1-2-2-2-1-1-0,^1-3-2-2-1-1-2-4-1-2-2-2-1-2-0,^1-3-2-2-1-1-2-4-1-2-2-2-2-0  (8 blk, 264 src, 1650 ctx) … 18.94s  Relative Dedication
+[18/57] ^1-3-2-2-1-1-2-4-1-2-2-2-2-1-0,^1-3-2-2-1-1-2-4-1-2-2-2-2-2-0,^1-3-2-2-1-1-2-4-1-3-0,^1-3-2-2-1-1-2-4-1-3-1-0,^1-3-2-2-1-1-2-4-1-3-2-0,^1-3-2-2-1-1-2-4-1-3-3-0,^1-3-2-2-1-1-2-4-2-0,^1-3-2-2-1-1-2-4-2-1-0  (8 blk, 276 src, 1789 ctx) … 16.93s  Teaching by Way of the Example of Space How One Is I
+[19/57] ^1-3-2-2-1-1-2-4-2-2-0,^1-3-2-2-1-1-2-4-2-2-1-0,^1-3-2-2-1-1-2-4-2-2-2-0,^1-3-2-2-1-1-2-4-2-3-0,^1-3-2-2-1-1-2-4-2-3-1-0,^1-3-2-2-1-1-2-4-2-3-2-0,^1-3-2-2-1-1-2-4-2-4-0,^1-3-2-2-1-1-3-0  (8 blk, 279 src, 1619 ctx) … 21.78s  The Function of Perfectly Pure Wisdom
+[20/57] ^1-3-2-2-1-1-3-1-0,^1-3-2-2-1-1-3-1-1-0,^1-3-2-2-1-1-3-1-2-0,^1-3-2-2-1-1-3-1-2-1-0,^1-3-2-2-1-1-3-1-2-2-0,^1-3-2-2-1-1-3-1-2-2-1-0,^1-3-2-2-1-1-3-1-2-2-2-0,^1-3-2-2-1-1-3-1-2-2-2-1-0  (8 blk, 261 src, 1721 ctx) … 20.59s  The Stages of Training in the Application
+[21/57] ^1-3-2-2-1-1-3-1-2-2-2-2-0,^1-3-2-2-1-1-3-1-2-2-2-3-0,^1-3-2-2-1-1-3-1-2-3-0,^1-3-2-2-1-1-3-1-2-3-1-0,^1-3-2-2-1-1-3-1-2-3-2-0,^1-3-2-2-1-1-3-1-3-0,^1-3-2-2-1-1-3-1-3-1-0,^1-3-2-2-1-1-3-1-3-2-0  (8 blk, 267 src, 1694 ctx) … 27.9s  The Quality of Obtaining the Saṃbhogakāya
+[22/57] ^1-3-2-2-1-1-3-1-3-2-1-0,^1-3-2-2-1-1-3-1-3-2-1-1-0,^1-3-2-2-1-1-3-1-3-2-1-1-1-0,^1-3-2-2-1-1-3-1-3-2-1-1-2-0,^1-3-2-2-1-1-3-1-3-2-1-2-0,^1-3-2-2-1-1-3-1-3-2-1-2-1-0,^1-3-2-2-1-1-3-1-3-2-1-2-2-0,^1-3-2-2-1-1-3-1-3-2-1-2-3-0  (8 blk, 246 src, 1702 ctx) … 32.23s  The Actual
+[23/57] ^1-3-2-2-1-1-3-1-3-2-1-3-0,^1-3-2-2-1-1-3-1-3-2-1-3-1-0,^1-3-2-2-1-1-3-1-3-2-1-3-2-0,^1-3-2-2-1-1-3-1-3-2-1-4-0,^1-3-2-2-1-1-3-1-3-2-2-0,^1-3-2-2-1-1-3-1-3-2-3-0,^1-3-2-2-1-1-3-1-3-2-3-1-0,^1-3-2-2-1-1-3-1-3-2-3-2-0  (8 blk, 261 src, 1810 ctx) … 19.62s  Lacking an Assembly for Teaching and Listening
+[24/57] ^1-3-2-2-1-1-3-1-3-2-3-2-1-0,^1-3-2-2-1-1-3-1-3-2-3-2-2-0,^1-3-2-2-1-1-3-1-4-0,^1-3-2-2-1-1-3-1-4-1-0,^1-3-2-2-1-1-3-1-4-2-0,^1-3-2-2-1-1-3-1-4-2-1-0,^1-3-2-2-1-1-3-1-4-2-1-1-0,^1-3-2-2-1-1-3-1-4-2-1-2-0  (8 blk, 266 src, 1688 ctx) … 21.48s  The Actual Meaning
+[25/57] ^1-3-2-2-1-1-3-1-4-2-2-0,^1-3-2-2-1-1-3-1-4-2-2-1-0,^1-3-2-2-1-1-3-1-4-2-2-2-0,^1-3-2-2-1-1-3-1-4-2-2-2-1-0,^1-3-2-2-1-1-3-1-4-2-2-2-2-0,^1-3-2-2-1-1-3-1-4-2-3-0,^1-3-2-2-1-1-3-1-4-2-3-1-0,^1-3-2-2-1-1-3-1-4-2-3-1-1-0  (8 blk, 236 src, 1802 ctx) … 19.72s  Applying to the Activity of the Result, Omniscience
+[26/57] ^1-3-2-2-1-1-3-1-4-2-3-1-2-0,^1-3-2-2-1-1-3-1-4-2-3-2-0,^1-3-2-2-1-1-3-1-4-2-3-2-1-0,^1-3-2-2-1-1-3-1-4-2-3-2-1-1-0,^1-3-2-2-1-1-3-1-4-2-3-2-1-2-0,^1-3-2-2-1-1-3-1-4-2-3-2-2-0,^1-3-2-2-1-1-3-1-4-2-3-2-2-1-0,^1-3-2-2-1-1-3-1-4-2-3-2-2-2-0  (8 blk, 197 src, 1627 ctx) … 19.05s  Example
+[27/57] ^1-3-2-2-1-1-3-1-4-2-3-2-2-2-1-0,^1-3-2-2-1-1-3-1-4-2-3-2-2-2-2-0,^1-3-2-2-1-1-3-1-4-2-3-2-2-2-3-0,^1-3-2-2-1-1-3-1-4-2-3-2-2-2-4-0,^1-3-2-2-1-1-3-1-5-0,^1-3-2-2-1-1-3-1-5-1-0,^1-3-2-2-1-1-3-1-5-1-1-0,^1-3-2-2-1-1-3-1-5-1-1-1-0  (8 blk, 202 src, 1690 ctx) … 19.83s  Sinking in Water
+[28/57] ^1-3-2-2-1-1-3-1-5-1-1-2-0,^1-3-2-2-1-1-3-1-5-1-2-0,^1-3-2-2-1-1-3-1-5-1-2-1-0,^1-3-2-2-1-1-3-1-5-1-2-2-0,^1-3-2-2-1-1-3-1-5-2-0,^1-3-2-2-1-1-3-1-5-2-1-0,^1-3-2-2-1-1-3-1-5-2-1-1-0,^1-3-2-2-1-1-3-1-5-2-1-2-0  (8 blk, 253 src, 1624 ctx) … 18.39s  The Reason One Must Rely in That Way
+[29/57] ^1-3-2-2-1-1-3-1-5-2-2-0,^1-3-2-2-1-1-3-1-5-2-2-1-0,^1-3-2-2-1-1-3-1-5-2-2-2-0,^1-3-2-2-1-1-3-2-0,^1-3-2-2-1-1-3-2-1-0,^1-3-2-2-1-1-3-2-1-1-0,^1-3-2-2-1-1-3-2-1-2-0,^1-3-2-2-1-1-3-2-2-0  (8 blk, 228 src, 1661 ctx) …     ! attempt 1/6 failed (The read operation timed out); retrying in 2s
+    ! attempt 2/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 4s
+    ! attempt 3/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 8s
+    ! attempt 4/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 16s
+    ! attempt 5/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 32s
+
+STOPPED: generateContent failed after 6 attempts: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Ledger is intact; re-run the same command to resume.
+
+wrote 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/bo-mipham-lekshe-en.md  (487/487 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/work/bo-mipham-lekshe-en.jsonl
+calls  28 for 224 block(s) recorded this run
+note   run stopped early (api); re-run to resume
+SUMMARY {"text": "bo-mipham-lekshe", "lang_tag": "en", "blocks_total": 453, "blocks_done": 487, "new": 224, "calls": 28, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": "api"}
+=== headings pass 2 2026-10-06 01:09:02
+source     : 1-SOURCES/Commentaries/bo-mipham-lekshe.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default   mode=headings
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries
+reference  : none
+glossary   : none
+blocks     : 453 total, 224 already in ledger, 229 to do
+batching   : 29 calls for 229 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/29] ^1-3-2-2-1-1-3-1-5-2-2-0,^1-3-2-2-1-1-3-1-5-2-2-1-0,^1-3-2-2-1-1-3-1-5-2-2-2-0,^1-3-2-2-1-1-3-2-0,^1-3-2-2-1-1-3-2-1-0,^1-3-2-2-1-1-3-2-1-1-0,^1-3-2-2-1-1-3-2-1-2-0,^1-3-2-2-1-1-3-2-2-0  (8 blk, 228 src, 1661 ctx) …     ! attempt 1/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 2s
+    ! attempt 2/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 4s
+    ! attempt 3/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 8s
+    ! attempt 4/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 16s
+    ! attempt 5/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 32s
+
+STOPPED: generateContent failed after 6 attempts: The read operation timed out
+Ledger is intact; re-run the same command to resume.
+
+wrote 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/bo-mipham-lekshe-en.md  (487/487 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/work/bo-mipham-lekshe-en.jsonl
+calls  0 for 0 block(s) recorded this run
+note   run stopped early (api); re-run to resume
+SUMMARY {"text": "bo-mipham-lekshe", "lang_tag": "en", "blocks_total": 453, "blocks_done": 487, "new": 0, "calls": 0, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": "api"}
+=== headings pass 3 2026-10-06 07:21:26
+source     : 1-SOURCES/Commentaries/bo-mipham-lekshe.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default   mode=headings
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries
+reference  : none
+glossary   : none
+blocks     : 453 total, 224 already in ledger, 229 to do
+batching   : 29 calls for 229 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/29] ^1-3-2-2-1-1-3-1-5-2-2-0,^1-3-2-2-1-1-3-1-5-2-2-1-0,^1-3-2-2-1-1-3-1-5-2-2-2-0,^1-3-2-2-1-1-3-2-0,^1-3-2-2-1-1-3-2-1-0,^1-3-2-2-1-1-3-2-1-1-0,^1-3-2-2-1-1-3-2-1-2-0,^1-3-2-2-1-1-3-2-2-0  (8 blk, 228 src, 1661 ctx) …     ! attempt 1/6 failed (The read operation timed out); retrying in 2s
+33.37s  Explanation That Such Conviction is Difficult
+[2/29] ^1-3-2-2-1-1-3-2-2-1-0,^1-3-2-2-1-1-3-2-2-2-0,^1-3-2-2-1-1-3-2-2-2-1-0,^1-3-2-2-1-1-3-2-2-2-1-1-0,^1-3-2-2-1-1-3-2-2-2-1-2-0,^1-3-2-2-1-1-3-2-2-2-2-0,^1-3-2-2-1-1-3-3-0,^1-3-2-2-1-1-3-3-1-0  (8 blk, 191 src, 1536 ctx) … 32.09s  Brief Indication
+[3/29] ^1-3-2-2-1-1-3-3-2-0,^1-3-2-2-1-1-3-3-2-1-0,^1-3-2-2-1-1-3-3-2-2-0,^1-3-2-2-1-1-3-3-2-2-1-0,^1-3-2-2-1-1-3-3-2-2-1-1-0,^1-3-2-2-1-1-3-3-2-2-1-1-1-0,^1-3-2-2-1-1-3-3-2-2-1-1-2-0,^1-3-2-2-1-1-3-3-2-2-1-1-2-1-0  (8 blk, 273 src, 1569 ctx) …     ! attempt 1/6 failed (<urlopen error [Errno 54] Connection reset by peer>); retrying in 2s
+48.62s  Detailed Explanation Through an Answer
+[4/29] ^1-3-2-2-1-1-3-3-2-2-1-1-2-1-1-0,^1-3-2-2-1-1-3-3-2-2-1-1-2-1-2-0,^1-3-2-2-1-1-3-3-2-2-1-1-2-1-2-1-0,^1-3-2-2-1-1-3-3-2-2-1-1-2-1-2-2-0,^1-3-2-2-1-1-3-3-2-2-1-1-2-1-2-3-0,^1-3-2-2-1-1-3-3-2-2-1-1-2-1-2-4-0,^1-3-2-2-1-1-3-3-2-2-1-1-2-2-0,^1-3-2-2-1-1-3-3-2-2-1-1-2-2-1-0  (8 blk, 269 src, 1692 ctx) …     ! attempt 1/6 failed (The read operation timed out); retrying in 2s
+    ! attempt 2/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 4s
+    ! attempt 3/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 8s
+    ! attempt 4/6 failed (<urlopen error [Errno 8] nodename nor servname provided, or not known>); retrying in 16s
+358.51s  Brief Indication
+[5/29] ^1-3-2-2-1-1-3-3-2-2-1-1-2-2-1-1-0,^1-3-2-2-1-1-3-3-2-2-1-1-2-2-1-2-0,^1-3-2-2-1-1-3-3-2-2-1-1-2-2-2-0,^1-3-2-2-1-1-3-3-2-2-1-1-2-2-2-1-0,^1-3-2-2-1-1-3-3-2-2-1-1-2-2-2-1-1-0,^1-3-2-2-1-1-3-3-2-2-1-1-2-2-2-1-2-0,^1-3-2-2-1-1-3-3-2-2-1-1-2-2-2-2-0,^1-3-2-2-1-1-3-3-2-2-1-1-2-2-2-2-1-0  (8 blk, 218 src, 1905 ctx) … 27.04s  Ultimately There Is No Decrease or Increase
+[6/29] ^1-3-2-2-1-1-3-3-2-2-1-1-2-2-2-2-1-1-0,^1-3-2-2-1-1-3-3-2-2-1-1-2-2-2-2-1-2-0,^1-3-2-2-1-1-3-3-2-2-1-1-2-2-2-2-2-0,^1-3-2-2-1-1-3-3-2-2-1-2-0,^1-3-2-2-1-1-3-3-2-2-1-2-1-0,^1-3-2-2-1-1-3-3-2-2-1-2-2-0,^1-3-2-2-1-1-3-3-2-2-2-0,^1-3-2-2-1-1-3-3-2-2-3-0  (8 blk, 236 src, 1714 ctx) … 23.18s  How It Is Not Unreasonable
+[7/29] ^1-3-2-2-1-1-3-3-2-2-3-1-0,^1-3-2-2-1-1-3-3-2-2-3-2-0,^1-3-2-2-1-1-3-3-2-2-3-2-1-0,^1-3-2-2-1-1-3-3-2-2-3-2-2-0,^1-3-2-2-1-1-3-3-2-2-3-2-3-0,^1-3-2-2-1-1-3-3-2-2-3-2-4-0,^1-3-2-2-1-1-3-3-2-2-3-2-5-0,^1-3-2-2-1-1-3-3-2-2-3-2-6-0  (8 blk, 287 src, 1620 ctx) … 29.8s  Brief Indication
+[8/29] ^1-3-2-2-1-1-3-3-2-2-3-2-7-0,^1-3-2-2-1-1-3-3-2-2-3-2-8-0,^1-3-2-2-1-1-3-3-2-2-3-3-0,^1-3-2-2-1-1-3-3-2-2-3-3-1-0,^1-3-2-2-1-1-3-3-2-2-3-3-2-0,^1-3-2-2-1-1-3-3-2-3-0,^1-3-2-2-1-1-3-3-2-3-1-0,^1-3-2-2-1-1-3-3-2-3-2-0  (8 blk, 220 src, 1935 ctx) … 16.48s  Accomplishing the Benefit and Happiness of Self and 
+[9/29] ^1-3-2-2-1-1-3-3-2-3-2-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-1-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-1-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-1-3-0,^1-3-2-2-1-1-3-3-2-3-2-2-1-3-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-1-3-2-0  (8 blk, 190 src, 1552 ctx) … 18.32s  Signs of the Irreversible One
+[10/29] ^1-3-2-2-1-1-3-3-2-3-2-2-1-3-2-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-1-3-2-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-1-3-2-2-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-1-3-2-2-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-1-3-2-2-2-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-1-3-2-2-2-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-1-0  (8 blk, 240 src, 1596 ctx) … 20.8s  Indicating Inner Solitude
+[11/29] ^1-3-2-2-1-1-3-3-2-3-2-2-2-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-1-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-1-2-0  (8 blk, 240 src, 1761 ctx) … 28.63s  Detailed Explanation
+[12/29] ^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-1-2-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-1-2-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-1-2-3-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-1-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-1-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-1-3-0  (8 blk, 262 src, 1803 ctx) … 15.71s  Actual Meaning
+[13/29] ^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-3-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-3-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-3-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-3-2-1-0  (8 blk, 253 src, 1914 ctx) … 18.48s  How to Strive by Way of an Example
+[14/29] ^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-3-2-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-3-2-2-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-3-2-2-1-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-3-2-2-1-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-3-2-2-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-3-2-2-2-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-3-2-2-2-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-3-2-2-2-2-1-0  (8 blk, 313 src, 1767 ctx) … 29.08s  Incidentally Teaching the Cause for the Opposite, Fi
+[15/29] ^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-3-2-2-2-2-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-4-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-4-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-4-1-1-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-4-1-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-4-2-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-5-0,^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-5-1-0  (8 blk, 216 src, 2042 ctx) … 17.2s  The Benefits of Knowing Thus
+[16/29] ^1-3-2-2-1-1-3-3-2-3-2-2-2-2-2-2-2-3-5-2-0,^1-3-2-2-1-1-3-4-0,^1-3-2-2-1-1-3-4-1-0,^1-3-2-2-1-1-3-4-1-1-0,^1-3-2-2-1-1-3-4-1-2-0,^1-3-2-2-1-1-3-4-2-0,^1-3-2-2-1-1-3-4-2-1-0,^1-3-2-2-1-1-3-4-2-2-0  (8 blk, 236 src, 1787 ctx) … 13.52s  The Reason for That
+[17/29] ^1-3-2-2-1-1-3-4-2-3-0,^1-3-2-2-1-1-3-4-3-0,^1-3-2-2-1-1-3-4-3-1-0,^1-3-2-2-1-1-3-4-3-2-0,^1-3-2-2-1-1-3-4-3-2-1-0,^1-3-2-2-1-1-3-4-3-2-2-0,^1-3-2-2-1-1-3-5-0,^1-3-2-2-1-1-3-5-1-0  (8 blk, 227 src, 1666 ctx) … 17.76s  Not Conceptualizing the Result Through the Example o
+[18/29] ^1-3-2-2-1-1-3-5-2-0,^1-3-2-2-1-1-3-5-2-1-0,^1-3-2-2-1-1-3-5-2-2-0,^1-3-2-2-1-1-3-5-3-0,^1-3-2-2-1-1-3-5-3-1-0,^1-3-2-2-1-1-3-5-3-2-0,^1-3-2-2-1-1-3-5-3-2-1-0,^1-3-2-2-1-1-3-5-3-2-2-0  (8 blk, 297 src, 1491 ctx) … 26.26s  The Supreme Among Abidings on the Path
+[19/29] ^1-3-2-2-1-1-3-5-3-2-2-1-0,^1-3-2-2-1-1-3-5-3-2-2-1-1-0,^1-3-2-2-1-1-3-5-3-2-2-1-2-0,^1-3-2-2-1-1-3-5-3-2-2-2-0,^1-3-2-2-1-1-3-5-3-2-2-2-1-0,^1-3-2-2-1-1-3-5-3-2-2-2-2-0,^1-3-2-2-1-1-3-5-3-2-3-0,^1-3-2-2-1-2-0  (8 blk, 263 src, 1686 ctx) … 20.45s  Explaining by Way of Outer Dependent Arising
+[20/29] ^1-3-2-2-1-2-1-0,^1-3-2-2-1-2-1-1-1-0,^1-3-2-2-1-2-1-1-2-0,^1-3-2-2-1-2-1-2-0,^1-3-2-2-1-2-1-2-1-0,^1-3-2-2-1-2-1-2-2-0,^1-3-2-2-1-2-1-2-2-1-0,^1-3-2-2-1-2-1-2-2-2-0  (8 blk, 182 src, 1727 ctx) … 14.07s  Explaining the Perfection of Concentration
+[21/29] ^1-3-2-2-1-2-1-3-0,^1-3-2-2-1-2-1-3-1-0,^1-3-2-2-1-2-1-3-2-0,^1-3-2-2-1-2-1-3-2-1-0,^1-3-2-2-1-2-1-3-2-2-0,^1-3-2-2-1-2-1-4-0,^1-3-2-2-1-2-1-4-1-0,^1-3-2-2-1-2-1-4-2-0  (8 blk, 195 src, 1461 ctx) … 13.68s  Engaging in the Benefit of Others through Being Free
+[22/29] ^1-3-2-2-1-2-2-0,^1-3-2-2-1-2-2-1-0,^1-3-2-2-1-2-2-1-1-0,^1-3-2-2-1-2-2-1-2-0,^1-3-2-2-1-2-2-1-2-1-0,^1-3-2-2-1-2-2-1-2-1-1-0,^1-3-2-2-1-2-2-1-2-1-2-0,^1-3-2-2-1-2-2-1-2-2-0  (8 blk, 199 src, 1502 ctx) … 16.17s  Explanation of the Perfection of Diligence
+[23/29] ^1-3-2-2-1-2-2-2-0,^1-3-2-2-1-2-2-2-1-0,^1-3-2-2-1-2-2-2-1-1-0,^1-3-2-2-1-2-2-2-1-1-1-0,^1-3-2-2-1-2-2-2-1-1-2-0,^1-3-2-2-1-2-2-2-1-1-2-1-0,^1-3-2-2-1-2-2-2-1-1-2-2-0,^1-3-2-2-1-2-2-3-0  (8 blk, 168 src, 1495 ctx) … 14.6s  Striving Without Discouragement
+[24/29] ^1-3-2-2-1-2-2-3-1-0,^1-3-2-2-1-2-2-3-2-0,^1-3-2-2-1-2-3-0,^1-3-2-2-1-2-3-1-0,^1-3-2-2-1-2-3-1-1-0,^1-3-2-2-1-2-3-1-2-0,^1-3-2-2-1-2-3-2-0,^1-3-2-2-1-2-3-2-1-0  (8 blk, 161 src, 1479 ctx) … 18.49s  What Is to Be Avoided
+[25/29] ^1-3-2-2-1-2-3-2-2-0,^1-3-2-2-1-2-3-3-0,^1-3-2-2-1-2-4-0,^1-3-2-2-1-2-4-1-0,^1-3-2-2-1-2-4-2-0,^1-3-2-2-1-2-4-2-1-0,^1-3-2-2-1-2-4-2-2-0,^1-3-2-2-1-2-4-2-2-1-0  (8 blk, 253 src, 1451 ctx) … 15.02s  The Result of Such Patience
+[26/29] ^1-3-2-2-1-2-4-2-2-2-0,^1-3-2-2-1-2-4-2-2-2-1-0,^1-3-2-2-1-2-4-2-2-2-2-0,^1-3-2-2-1-2-4-2-3-0,^1-3-2-2-1-2-4-2-3-1-0,^1-3-2-2-1-2-4-2-3-2-0,^1-3-2-2-1-2-4-2-3-2-1-0,^1-3-2-2-1-2-4-2-3-2-2-0  (8 blk, 152 src, 1574 ctx) … 17.87s  Detailed Explanation
+[27/29] ^1-3-2-2-1-2-5-0,^1-3-2-2-1-2-5-1-0,^1-3-2-2-1-2-5-1-1-0,^1-3-2-2-1-2-5-1-2-0,^1-3-2-2-1-2-5-1-3-0,^1-3-2-2-1-2-5-2-0,^1-3-2-2-1-2-5-2-1-0,^1-3-2-2-1-2-5-2-1-1-0  (8 blk, 295 src, 1507 ctx) … 22.85s  Explanation of the Perfection of Generosity
+[28/29] ^1-3-2-2-1-2-5-2-1-2-0,^1-3-2-2-1-2-5-2-1-3-0,^1-3-2-2-1-2-5-2-2-0,^1-3-2-2-1-2-5-2-2-1-0,^1-3-2-2-1-2-5-2-2-2-0,^1-3-2-2-1-2-5-2-2-2-1-0,^1-3-2-2-1-2-5-2-2-2-2-0,^1-3-2-2-2-0  (8 blk, 211 src, 1593 ctx) … 14.34s  Endowed with Complete Dedication through Skillful Me
+[29/29] ^1-3-2-2-2-1-0,^1-3-2-2-2-2-0,^1-3-2-3-0,^1-4-0,^2-0  (5 blk, 146 src, 1464 ctx) … 17.28s  The Result of the Specific Path
+
+wrote 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/bo-mipham-lekshe-en.md  (487/487 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/work/bo-mipham-lekshe-en.jsonl
+calls  29 for 229 block(s) recorded this run
+SUMMARY {"text": "bo-mipham-lekshe", "lang_tag": "en", "blocks_total": 453, "blocks_done": 487, "new": 229, "calls": 29, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": null}
+JOB DONE 2026-10-06 10:11:22
+=== restarted after sleep hang (caffeinate) 2026-10-06 10:43:43
+=== blocks pass 1 2026-10-06 10:43:44
+source     : 1-SOURCES/Commentaries/bo-mipham-lekshe.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries
+reference  : none
+glossary   : none
+blocks     : 487 total, 487 already in ledger, 0 to do
+nothing to translate; re-rendered 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/bo-mipham-lekshe-en.md
+SUMMARY {"text": "bo-mipham-lekshe", "lang_tag": "en", "blocks_total": 487, "blocks_done": 487, "new": 0, "calls": 0, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": null}
+=== headings pass 1 2026-10-06 10:43:44
+source     : 1-SOURCES/Commentaries/bo-mipham-lekshe.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default   mode=headings
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries
+reference  : none
+glossary   : none
+blocks     : 453 total, 453 already in ledger, 0 to do
+nothing to translate; re-rendered 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/bo-mipham-lekshe-en.md
+SUMMARY {"text": "bo-mipham-lekshe", "lang_tag": "en", "blocks_total": 453, "blocks_done": 453, "new": 0, "calls": 0, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": null}
+JOB DONE 2026-10-06 10:43:44

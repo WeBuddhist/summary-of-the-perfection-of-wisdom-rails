@@ -1,0 +1,267 @@
+{
+ "segments": [
+  {
+   "id": "0-4",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "जगत् के कल्याण में प्रवृत्त उस शांत प्रज्ञापारमिता का",
+      "explanation": "Engagement in beings' welfare and peacefulness belong to the persons addressed (per Mipham), not to the perfection of wisdom itself."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-6",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "अनुपलब्ध स्कन्धों का विनाश होता है",
+      "explanation": "Simile has no correlative linking it to the bodhisattva clause; the comparison and its relation to the next lines are unclear."
+     }
+    ],
+    "B": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "अनुपलब्ध स्कन्धों का विनाश होता है",
+      "explanation": "Simile has no correlative linking it to the bodhisattva clause; the comparison and its relation to the next lines are unclear."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-16",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "प्राणियों के विशाल समूह",
+      "explanation": "sems can rendered 'प्राणी' here but 'सत्त्व' in सत्त्व-धातु and महासत्त्व; inconsistent within the segment."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "1-25",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "जैसा आत्मन् है",
+      "explanation": "'आत्मन्' evokes the refuted Self; bdag here means the bodhisattva himself, lacking intrinsic nature."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "1-28",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "2-8",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "निर्याण",
+      "explanation": "Hindi 'निर्याण' suggests departure or death; nges 'byung means definite emergence (liberation)."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "2-21",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "2-27",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "छायाओं की संख्या बताए जाने के अतिरिक्त",
+      "explanation": "grangs is rnam grangs, a designation; commentaries say only the label 'shadow of a tree', not a count of shadows."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "उनकी छायाओं की संख्या बताने के अतिरिक्त",
+      "explanation": "grangs is rnam grangs, a designation; commentaries say only the label 'shadow of a tree', not a count of shadows."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "उनकी छाया अनेक नहीं होती",
+      "explanation": "sna tshogs means varied, not many; shifts the claim from absence of variety to number."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-30",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "2-40",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "बुद्ध-गुण",
+      "explanation": "sangs rgyas chos is buddha-dharmas (powers etc.); 'गुण' renders yon tan, a different term."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "2-50",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "यदि मैं जिन की प्रज्ञा की चर्या करूँ",
+      "explanation": "Intention is not marked as an attached thought; reads as if practising itself is the fault, and the clause structure is loose."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "2-53",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "4-6",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "प्रविष्ट हुए लोगों को",
+      "explanation": "Opening lines are garbled; unclear who should know what, obscuring the Tibetan 'one should know'."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "ऐसा वे जानते हैं",
+      "explanation": "Tibetan has the thought 'I will touch enlightenment' under 'should be known', not a statement that they know."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-10",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "बुद्ध-गुणों",
+      "explanation": "sangs rgyas chos is buddha-dharmas; 'गुण' renders yon tan, a different term."
+     },
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "निर्विकल्प और निर्विकल्प होकर",
+      "explanation": "Renders two distinct words (rnam par mi rtog, rtog bral) with the same word, creating redundancy."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-17",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "4-26",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "तीर्थकों",
+      "explanation": "Misspelling of तीर्थिकों; reads as तीर्थंकर-like and confuses the term for non-Buddhist teachers."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-36",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "4-44",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "4-48",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "अल्प-चिन्ता की",
+      "explanation": "thugs khral chung means little effort or inclination to teach; 'little worry' misleads."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "अर्थात् अनिच्छा",
+      "explanation": "Added gloss 'unwillingness' overstates; the Tibetan says only reduced effort or concern about teaching."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-57",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  }
+ ]
+}

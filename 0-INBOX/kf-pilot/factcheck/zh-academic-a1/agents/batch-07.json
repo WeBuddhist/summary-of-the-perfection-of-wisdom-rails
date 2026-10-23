@@ -1,0 +1,129 @@
+{
+ "batch": "batch-07",
+ "segments": [
+  {
+   "id": "4-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-45",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "為照明之燈",
+     "evidence": "Tibetan lists two separate epithets, \"གསལ་བྱེད་སྒྲོན་མ\" (illuminator, lamp); bo-mipham 4-45 glosses \"གསལ་བྱེད་དུ་གྱུར་པ\" (becoming the illuminator, by teaching person-selflessness) separately from \"ཆོས་ཀྱི་སྒྲོན་མ་ཆེན་པོ\" (the lamp, by teaching phenomena-selflessness). The Chinese fuses them into one \"照明之燈\", dropping the separate item.",
+     "fix": "為照明者、為燈"
+    }
+   ]
+  },
+  {
+   "id": "4-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "具不退轉、無動搖與不傾動之法性",
+     "evidence": "Tibetan ends \"མི་ལྡོག་གཡོ་བ་མེད་ཅིང་མི་འཁྲུགས་ཆོས་ཅན་ཡིན\"; \"ཆོས་ཅན\" (Skt. -dharmāḥ) here means 'of such a nature / possessing' (bo-mipham 4-46: \"མི་འཁྲུགས་པའི་ཆོས་ཅན་ཡིན\"; bo-rangjung 4-46: \"ཡོན་ཏན་གྱི་ཆོས་ཁྱད་པར་ཅན་དང་ལྡན་པས...\"), not dharmatā. 法性 is the locked rendering of ཆོས་ཉིད, so using it here suggests a different term, and it makes 'irreversible' and 'unwavering' appear as a 'nature' rather than predicates of the subjects.",
+     "fix": "不退轉、無動搖，且為不可擾動之本性者"
+    }
+   ]
+  },
+  {
+   "id": "4-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-48",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "少顧念",
+     "evidence": "Tibetan \"ཐུགས་ཁྲལ་ཆུང་བར་མཛད\" means he became reluctant or little disposed to teach; bo-mipham 4-48: \"ཆོས་སྟོན་པ་ལ་ཐུགས་ཁྲལ་ཆུང་བར་མཛད\" (little inclination toward teaching the Dharma); Skt. \"alpotsuko\". \"少顧念\" can be read as 'cared little about beings', which contradicts the compassionate benefactor named in the same verse.",
+     "fix": "於說法興致微薄"
+    }
+   ]
+  },
+  {
+   "id": "4-49",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

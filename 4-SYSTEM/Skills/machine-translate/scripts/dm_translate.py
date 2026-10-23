@@ -106,7 +106,7 @@ LANG_NAMES = {
 PRESERVE_FM_KEYS = [
     "title", "title_original", "title_attested", "title_source", "alt_titles",
     "translator", "license", "category_id", "edition_type", "source",
-    "bdrc_work_id", "text_id", "edition_id", "toc_id", "previous_edition_id",
+    "bdrc_work_id", "text_id", "edition_id", "toc_id", "aligned_to_edition_id", "previous_edition_id",
     "translation_of_text_id", "translation_of_edition_id",
     "imported_from", "import_note",
 ]
@@ -438,6 +438,17 @@ def build_body(batch, ctx, args):
 # ---------------------------------------------------------------- api
 
 
+def _api_headers():
+    """Request headers. DHARMAMITRA_API_KEY (environment only, never a file in
+    the vault) is sent as X-API-Key: a keyed account is not held to the public
+    endpoint's daily quota. Without it the public, rate-limited access is used."""
+    h = {"Content-Type": "application/json", "Accept": "application/json"}
+    key = os.environ.get("DHARMAMITRA_API_KEY", "").strip()
+    if key:
+        h["X-API-Key"] = key
+    return h
+
+
 def call_api(body, timeout, retries, verbose=False):
     """POST one block. Backs off hard on 429 — the endpoint is public and shared."""
     data = json.dumps(body, ensure_ascii=False).encode("utf-8")
@@ -445,7 +456,7 @@ def call_api(body, timeout, retries, verbose=False):
     for attempt in range(1, retries + 1):
         req = urllib.request.Request(
             ENDPOINT, data=data,
-            headers={"Content-Type": "application/json", "Accept": "application/json"},
+            headers=_api_headers(),
             method="POST",
         )
         try:
@@ -739,6 +750,11 @@ def main():
     p.add_argument("--heading-style", default=HEADING_STYLE,
                    help="style_instruction for --headings (default: HEADING_STYLE); append e.g. "
                         "a script requirement to match the rest of the track")
+    p.add_argument("--strip-marks", action="store_true",
+                   help="remove the Tibetan emphasis mark ༷ (U+0F37) from the source before sending. "
+                        "Commentaries mark quoted root words with it, and DharmaMitra then copies "
+                        "those words in Tibetan script instead of translating them. Recorded in the "
+                        "ledger as source_marks_stripped.")
     p.add_argument("--extra-fm", default=None,
                    help="JSON file of frontmatter keys to seed/override on render "
                         "(researched title, backend ids, import provenance)")
@@ -755,6 +771,10 @@ def main():
         print(f"note: source is outside 1-SOURCES/ ({src_path})", file=sys.stderr)
 
     meta, units = parse_source(src_path)
+    if args.strip_marks:
+        for u in units:
+            if u["kind"] == "block" and u.get("text"):
+                u["text"] = u["text"].replace("\u0f37", "")
     blocks = [u for u in units if u["kind"] == "block" and u["id"]]
 
     if args.list:
@@ -961,6 +981,7 @@ def main():
             "block_id": unit["id"],
             "heading": unit["heading"],
             "source": unit["text"],
+            **({"source_marks_stripped": True} if args.strip_marks else {}),
             "translation": translation,
             "target_language": args.lang,
             "focus": args.focus,

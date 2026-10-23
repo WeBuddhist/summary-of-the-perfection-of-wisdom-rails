@@ -1,0 +1,215 @@
+{
+ "terms": [
+  {
+   "term_id": "T061",
+   "sense": "not produced by causes",
+   "field": "children",
+   "current": "不由因緣造成",
+   "suggested": "不是由原因造成的",
+   "severity": "minor",
+   "reason": "Rule 17 consistency. T081 uses '原因' for causes. '不是由原因造成的' also aligns perfectly with T266.",
+   "applied": true
+  },
+  {
+   "term_id": "T070",
+   "sense": "rejoicing",
+   "field": "children",
+   "current": "替別人高興",
+   "suggested": "為別人高興",
+   "severity": "minor",
+   "reason": "Rule 17 consistency. T100 translates anumodana as '為別人高興'.",
+   "applied": true
+  },
+  {
+   "term_id": "T130",
+   "sense": "prophecy of irreversibility",
+   "field": "children",
+   "current": "絕不退回的預言",
+   "suggested": "永不退縮的預言",
+   "severity": "minor",
+   "reason": "Rule 17 consistency. T053 established '永不退縮' for irreversible.",
+   "applied": true
+  },
+  {
+   "term_id": "T185",
+   "sense": "two stages",
+   "field": "children",
+   "current": "兩個層次",
+   "suggested": "兩個階段",
+   "severity": "minor",
+   "reason": "Rule 17 consistency. T064 translates bhūmi as '階段' for children.",
+   "applied": true
+  },
+  {
+   "term_id": "T223",
+   "sense": "sensory pleasure",
+   "field": "academic",
+   "current": "妙欲",
+   "suggested": "欲功德",
+   "severity": "major",
+   "reason": "Policy 18 requires compounds to take their parts. kāmaguṇa is correctly translated as '欲功德' in T217 and T550.",
+   "applied": true
+  },
+  {
+   "term_id": "T255",
+   "sense": "great being",
+   "field": "children",
+   "current": "大菩薩",
+   "suggested": "偉大的勇士",
+   "severity": "minor",
+   "reason": "Rule 17 consistency. T251 translates mahāsattva as '偉大的勇士'.",
+   "applied": true
+  },
+  {
+   "term_id": "T271",
+   "sense": "irreversible",
+   "field": "children",
+   "current": "絕不回頭",
+   "suggested": "永不退縮",
+   "severity": "minor",
+   "reason": "Rule 17 consistency with T053 '永不退縮'.",
+   "applied": true
+  },
+  {
+   "term_id": "T293",
+   "sense": "relic of a Buddha",
+   "field": "children",
+   "current": "佛陀的舍利",
+   "suggested": "佛陀的遺骨",
+   "severity": "major",
+   "reason": "Policy 17 bans technical transliterations like '舍利' for children. T112 uses '遺骨'.",
+   "applied": true
+  },
+  {
+   "term_id": "T303",
+   "sense": "Lake Anavatapta",
+   "field": "children",
+   "current": "無熱惱湖",
+   "suggested": "無熱惱池",
+   "severity": "major",
+   "reason": "Policy 11 explicitly fixes the name as '無熱惱池' for both registers.",
+   "applied": true
+  },
+  {
+   "term_id": "T310",
+   "sense": "generate the mind",
+   "field": "children",
+   "current": "立下求覺悟的心願",
+   "suggested": "許下覺悟的心願",
+   "severity": "minor",
+   "reason": "Rule 17 consistency with T220 '許下覺悟的心願'.",
+   "applied": true
+  },
+  {
+   "term_id": "T350",
+   "sense": "obstacle",
+   "field": "children",
+   "current": "障礙",
+   "suggested": "阻礙",
+   "severity": "minor",
+   "reason": "Rule 17 requires an everyday phrase. T183 and T341 translate antarāya as '阻礙'.",
+   "applied": true
+  },
+  {
+   "term_id": "T418",
+   "sense": "irreversible stage",
+   "field": "children",
+   "current": "永不退步的階段",
+   "suggested": "永不退縮的階段",
+   "severity": "minor",
+   "reason": "Rule 17 consistency with T053 '永不退縮'.",
+   "applied": true
+  },
+  {
+   "term_id": "T426",
+   "sense": "blessing of truth",
+   "field": "children",
+   "current": "真理的祝福",
+   "suggested": "真實的祝福",
+   "severity": "minor",
+   "reason": "Rule 17 consistency with T422 and T425 which use '真實的祝福'.",
+   "applied": true
+  },
+  {
+   "term_id": "T428",
+   "sense": "ripening of sentient beings",
+   "field": "children",
+   "current": "幫助眾生成長",
+   "suggested": "幫助眾生成熟",
+   "severity": "minor",
+   "reason": "Rule 17 consistency with T515.",
+   "applied": true
+  },
+  {
+   "term_id": "T476",
+   "sense": "irreversible awakening",
+   "field": "children",
+   "current": "不再退轉的覺悟",
+   "suggested": "永不退縮的覺悟",
+   "severity": "major",
+   "reason": "Policy 17 bans technical terms like '退轉' in children's text. Should sync with T053 '永不退縮'.",
+   "applied": true
+  },
+  {
+   "term_id": "T532",
+   "sense": "saṃsāra",
+   "field": "children",
+   "current": "不斷重生的循環",
+   "suggested": "輪迴",
+   "severity": "minor",
+   "reason": "Rule 17 consistency with T176 which uses '輪迴', an allowed transparent everyday term.",
+   "applied": true
+  },
+  {
+   "term_id": "T543",
+   "sense": "epithet of the Buddha",
+   "field": "children",
+   "current": "通曉世間的人",
+   "suggested": "通曉世界的人",
+   "severity": "minor",
+   "reason": "Rule 17 consistency. The children's term for loka is '世界'. Syncs with T159.",
+   "applied": true
+  },
+  {
+   "term_id": "T557",
+   "sense": "perception of a self",
+   "field": "children",
+   "current": "自我的想法",
+   "suggested": "「我」的想法",
+   "severity": "minor",
+   "reason": "Rule 17 consistency with T218 and T554.",
+   "applied": true
+  },
+  {
+   "term_id": "T572",
+   "sense": "three states of existence",
+   "field": "children",
+   "current": "三種生命",
+   "suggested": "三種存在的領域",
+   "severity": "minor",
+   "reason": "Rule 17 consistency with T570.",
+   "applied": true
+  },
+  {
+   "term_id": "T573",
+   "sense": "eon",
+   "field": "children",
+   "current": "極長的時期",
+   "suggested": "漫長的時代",
+   "severity": "minor",
+   "reason": "Rule 17 consistency with T033.",
+   "applied": true
+  },
+  {
+   "term_id": "T591",
+   "sense": "Dharmakāya",
+   "field": "children",
+   "current": "法身",
+   "suggested": "佛法之身",
+   "severity": "minor",
+   "reason": "Rule 17 consistency with T590 '佛法之身'.",
+   "applied": true
+  }
+ ],
+ "policies": []
+}

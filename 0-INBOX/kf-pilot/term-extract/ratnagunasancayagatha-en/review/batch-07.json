@@ -1,0 +1,256 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "4-25",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-26",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-27",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 5,
+      "bo_fixed": "ཆོས"
+     }
+    ],
+    "add": [
+     {
+      "bo": "གཟུགས",
+      "reason": "Standard Buddhist term (rupa).",
+      "dm": "forms",
+      "gm": "forms"
+     }
+    ]
+   },
+   {
+    "id": "4-28",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Standard Buddhist term (citta).",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "4-29",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-30",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 5,
+      "bo_fixed": "ཆོས"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "4-31",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-32",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Ordinary adjective combined with faith."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-33",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-34",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-35",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-36",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-37",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-38",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-39",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-40",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-41",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-42",
+    "drop": [
+     {
+      "n": 7,
+      "reason": "Ordinary adjective combined with guru."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-43",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-44",
+    "drop": [
+     {
+      "n": 9,
+      "reason": "Not a standard technical compound; separates awakening and aggregates."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཕུང་པོ",
+      "reason": "Standard Buddhist term (skandha).",
+      "dm": "aggregates",
+      "gm": "aggregates"
+     }
+    ]
+   },
+   {
+    "id": "4-45",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-46",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-47",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-48",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-49",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "4-32",
+    "bo": "དད་བརྟན",
+    "reason": "Ordinary adjective combined with faith."
+   },
+   {
+    "id": "4-42",
+    "bo": "བླ་མ་མཁས་པ",
+    "reason": "Ordinary adjective combined with guru."
+   },
+   {
+    "id": "4-44",
+    "bo": "བྱང་ཆུབ་ཕུང་པོ",
+    "reason": "Not a standard technical compound; separates awakening and aggregates."
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "4-27",
+    "bo": "ཆོས་ཀྱང",
+    "bo_fixed": "ཆོས"
+   },
+   {
+    "id": "4-30",
+    "bo": "ཆོས་རྣམས",
+    "bo_fixed": "ཆོས"
+   }
+  ],
+  "add": [
+   {
+    "id": "4-27",
+    "bo": "གཟུགས",
+    "dm": "forms",
+    "gm": "forms",
+    "reason": "Standard Buddhist term (rupa)."
+   },
+   {
+    "id": "4-28",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Standard Buddhist term (citta)."
+   },
+   {
+    "id": "4-44",
+    "bo": "ཕུང་པོ",
+    "dm": "aggregates",
+    "gm": "aggregates",
+    "reason": "Standard Buddhist term (skandha)."
+   }
+  ]
+ }
+}

@@ -1,0 +1,900 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "1-0",
+   "terms": [
+    {
+     "bo": "རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད",
+     "dm": "omniscience",
+     "gm": "Knowledge of All Aspects"
+    }
+   ]
+  },
+  {
+   "id": "1-1",
+   "terms": [
+    {
+     "bo": "སྐབས་དང་པོ",
+     "dm": "first chapter",
+     "gm": "Chapter One"
+    },
+    {
+     "bo": "རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད",
+     "dm": "omniscience of all aspects",
+     "gm": "Knowledge of All Aspects"
+    },
+    {
+     "bo": "འཛམ་བུའི་གླིང་",
+     "dm": "Jambudvīpa",
+     "gm": "Jambudvīpa"
+    },
+    {
+     "bo": "ཀླུ་དབང་",
+     "dm": "Naga King",
+     "gm": "nāga king"
+    },
+    {
+     "bo": "ཀླུ་བདག",
+     "dm": "Lord of Nagas",
+     "gm": "lord of nāgas"
+    },
+    {
+     "bo": "མ་དྲོས་",
+     "dm": "Anavatapta",
+     "gm": "Anavatapta"
+    }
+   ]
+  },
+  {
+   "id": "1-2",
+   "terms": [
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victor",
+     "gm": "Jina"
+    },
+    {
+     "bo": "ཉན་ཐོས་པ",
+     "dm": "Śrāvakas",
+     "gm": "śrāvakas"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    }
+   ]
+  },
+  {
+   "id": "1-3",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victor",
+     "gm": "Jina"
+    },
+    {
+     "bo": "མངོན་སུམ་བྱས",
+     "dm": "directly realized",
+     "gm": "actualized"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    }
+   ]
+  },
+  {
+   "id": "1-4",
+   "terms": [
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "མི་དམིགས",
+     "dm": "does not apprehend",
+     "gm": "does not apprehend"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "mind of awakening",
+     "gm": "mind of awakening"
+    },
+    {
+     "bo": "བདེ་གཤེགས",
+     "dm": "Sugatas",
+     "gm": "Sugata"
+    }
+   ]
+  },
+  {
+   "id": "1-5",
+   "terms": [
+    {
+     "bo": "གཟུགས",
+     "dm": "form",
+     "gm": "form"
+    },
+    {
+     "bo": "ཚོར་བ",
+     "dm": "feeling",
+     "gm": "feeling"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    },
+    {
+     "bo": "སེམས་པ",
+     "dm": "intention",
+     "gm": "volition"
+    },
+    {
+     "bo": "རྣམ་ཤེས",
+     "dm": "consciousness",
+     "gm": "Consciousness"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "phenomena"
+    },
+    {
+     "bo": "བདེ་གཤེགས",
+     "dm": "Sugatas",
+     "gm": "Sugatas"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "awakening",
+     "gm": "awakening"
+    }
+   ]
+  },
+  {
+   "id": "1-6",
+   "terms": [
+    {
+     "bo": "ཀུན་ཏུ་རྒྱུ་བ",
+     "dm": "wandering mendicant",
+     "gm": "wanderer Śreṇika"
+    },
+    {
+     "bo": "ཕུང་པོ",
+     "dm": "aggregates",
+     "gm": "aggregates"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "phenomena"
+    },
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "nirvana",
+     "gm": "nirvāṇa"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    }
+   ]
+  },
+  {
+   "id": "1-7",
+   "terms": [
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "phenomena"
+    },
+    {
+     "bo": "སྟོང་པ",
+     "dm": "empty",
+     "gm": "empty"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "awakening",
+     "gm": "awakening"
+    }
+   ]
+  },
+  {
+   "id": "1-8",
+   "terms": [
+    {
+     "bo": "གཟུགས",
+     "dm": "form",
+     "gm": "form"
+    },
+    {
+     "bo": "ཚོར་བ",
+     "dm": "feeling",
+     "gm": "feeling"
+    },
+    {
+     "bo": "སེམས་པ",
+     "dm": "volition",
+     "gm": "volition"
+    },
+    {
+     "bo": "རྣམ་ཤེས",
+     "dm": "consciousness",
+     "gm": "consciousness"
+    },
+    {
+     "bo": "ཕུང་པོ",
+     "dm": "aggregates",
+     "gm": "aggregates"
+    },
+    {
+     "bo": "སྟོང་",
+     "dm": "empty",
+     "gm": "empty"
+    },
+    {
+     "bo": "མཚན་མ",
+     "dm": "signs",
+     "gm": "signs"
+    },
+    {
+     "bo": "སྐྱེ་མེད",
+     "dm": "non-arising",
+     "gm": "unborn"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    }
+   ]
+  },
+  {
+   "id": "1-9",
+   "terms": [
+    {
+     "bo": "གཟུགས",
+     "dm": "form",
+     "gm": "form"
+    },
+    {
+     "bo": "ཚོར",
+     "dm": "feeling",
+     "gm": "feeling"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    },
+    {
+     "bo": "སེམས་པ",
+     "dm": "intention",
+     "gm": "volition"
+    },
+    {
+     "bo": "རྣམ་པར་ཤེས",
+     "dm": "consciousness",
+     "gm": "consciousness"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "སྐྱེ་མེད",
+     "dm": "unborn",
+     "gm": "unborn"
+    },
+    {
+     "bo": "ཏིང་འཛིན",
+     "dm": "meditative stabilization",
+     "gm": "samādhi"
+    },
+    {
+     "bo": "མི་དམིགས",
+     "dm": "apprehending",
+     "gm": "apprehending"
+    }
+   ]
+  },
+  {
+   "id": "1-10",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgatas",
+     "gm": "Tathāgatas"
+    },
+    {
+     "bo": "ལུང་བསྟན",
+     "dm": "prophesied",
+     "gm": "prophesied"
+    },
+    {
+     "bo": "མཉམ་པར་བཞག",
+     "dm": "meditative equipoise",
+     "gm": "meditative equipoise"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་རང་བཞིན",
+     "dm": "nature of phenomena",
+     "gm": "nature of phenomena"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "phenomena"
+    }
+   ]
+  },
+  {
+   "id": "1-11",
+   "terms": [
+    {
+     "bo": "བདེ་གཤེགས",
+     "dm": "Sugatas",
+     "gm": "Sugatas"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "phenomena"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "དམིགས་པར་མི་འགྱུར",
+     "dm": "do not apprehend",
+     "gm": "not apprehended"
+    }
+   ]
+  },
+  {
+   "id": "1-12",
+   "terms": [
+    {
+     "bo": "བྱིས་པ",
+     "dm": "Foolish beings",
+     "gm": "Fools"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "phenomena"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ངེས་པར་འབྱུང་",
+     "dm": "definitely emerge",
+     "gm": "definitely emerge"
+    }
+   ]
+  },
+  {
+   "id": "1-13",
+   "terms": [
+    {
+     "bo": "ཕུང་པོ་ལྔ",
+     "dm": "five aggregates",
+     "gm": "five aggregates"
+    },
+    {
+     "bo": "སྒྱུ་མ",
+     "dm": "illusion",
+     "gm": "illusion"
+    },
+    {
+     "bo": "སྣ་ཚོགས་འདུ་ཤེས",
+     "dm": "diverse perceptions",
+     "gm": "diverse perceptions"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "1-14",
+   "terms": [
+    {
+     "bo": "དགེ་བའི་བཤེས",
+     "dm": "spiritual friends",
+     "gm": "spiritual friends"
+    },
+    {
+     "bo": "ལྷག་མཐོང་",
+     "dm": "special insight",
+     "gm": "profound insight"
+    },
+    {
+     "bo": "རྒྱལ་བ་རྣམས་ཀྱི་ཡུམ",
+     "dm": "Mother of the Victors",
+     "gm": "Mother of the Jinas"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victors",
+     "gm": "Jinas"
+    },
+    {
+     "bo": "སྡིག་པའི་གྲོགས",
+     "dm": "negative friends",
+     "gm": "bad friends"
+    }
+   ]
+  },
+  {
+   "id": "1-15",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཆགས་པ",
+     "dm": "attachment",
+     "gm": "attachment"
+    },
+    {
+     "bo": "ཆགས་མེད",
+     "dm": "unattached",
+     "gm": "unattached"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "awakening",
+     "gm": "awakening"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victors",
+     "gm": "Jinas"
+    }
+   ]
+  },
+  {
+   "id": "1-16",
+   "terms": [
+    {
+     "bo": "སེམས་དཔའ་ཆེན་པོ",
+     "dm": "great being",
+     "gm": "great being"
+    },
+    {
+     "bo": "སེམས་ཅན་ཚོགས",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "སེམས་ཅན་ཁམས",
+     "dm": "realm of sentient beings",
+     "gm": "realms of sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "1-17",
+   "terms": [
+    {
+     "bo": "གཏོང་བ",
+     "dm": "generosity",
+     "gm": "giving"
+    },
+    {
+     "bo": "ཐེག་ཆེན",
+     "dm": "Great Vehicle",
+     "gm": "Great Vehicle"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victors",
+     "gm": "Jinas"
+    },
+    {
+     "bo": "གོ་ཆ་ཆེན་པོ",
+     "dm": "great armor",
+     "gm": "great armor"
+    },
+    {
+     "bo": "བདུད",
+     "dm": "Māra",
+     "gm": "Mara"
+    },
+    {
+     "bo": "སེམས་དཔའ་ཆེ",
+     "dm": "great beings",
+     "gm": "great being"
+    }
+   ]
+  },
+  {
+   "id": "1-18",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    }
+   ]
+  },
+  {
+   "id": "1-19",
+   "terms": [
+    {
+     "bo": "གཟུགས",
+     "dm": "Form",
+     "gm": "Form"
+    },
+    {
+     "bo": "འདུ་ཤེས",
+     "dm": "perception",
+     "gm": "perception"
+    },
+    {
+     "bo": "ཚོར་བ",
+     "dm": "feeling",
+     "gm": "feeling"
+    },
+    {
+     "bo": "སེམས་པ",
+     "dm": "intention",
+     "gm": "volition"
+    },
+    {
+     "bo": "རྣམ་པར་ཤེས་པ",
+     "dm": "consciousness",
+     "gm": "consciousness"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "awakening",
+     "gm": "awakening"
+    },
+    {
+     "bo": "གང་ཟག་དམ་པ",
+     "dm": "holy beings",
+     "gm": "noble persons"
+    },
+    {
+     "bo": "གོ་ཆ",
+     "dm": "armor",
+     "gm": "armor"
+    }
+   ]
+  },
+  {
+   "id": "1-20",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་ཐེག་ཆེན",
+     "dm": "Great Vehicle of Awakening",
+     "gm": "Great Vehicle of Awakening"
+    },
+    {
+     "bo": "ཐེག་ཆེན",
+     "dm": "Great Vehicle",
+     "gm": "Great Vehicle"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཐེག་པ",
+     "dm": "vehicle",
+     "gm": "vehicle"
+    }
+   ]
+  },
+  {
+   "id": "1-21",
+   "terms": [
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "nirvāṇa",
+     "gm": "nirvana"
+    }
+   ]
+  },
+  {
+   "id": "1-22",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "Bodhisattvas"
+    },
+    {
+     "bo": "སྔོན་གྱི་མཐའ",
+     "dm": "prior limit",
+     "gm": "past limit"
+    },
+    {
+     "bo": "ཕྱི་མཐའ",
+     "dm": "later limit",
+     "gm": "future limit"
+    },
+    {
+     "bo": "དུས་གསུམ",
+     "dm": "three times",
+     "gm": "three times"
+    },
+    {
+     "bo": "འདུས་མ་བྱས",
+     "dm": "unconditioned",
+     "gm": "unconditioned"
+    },
+    {
+     "bo": "སྤྲོས་མེད",
+     "dm": "free from conceptual elaboration",
+     "gm": "free from conceptual proliferation"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "1-23",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattvas",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སྐྱེ་མེད",
+     "dm": "non-arising",
+     "gm": "non-arising"
+    },
+    {
+     "bo": "སྙིང་རྗེ་ཆེན་པོ",
+     "dm": "great compassion",
+     "gm": "great compassion"
+    },
+    {
+     "bo": "སེམས་ཅན་འདུ་ཤེས",
+     "dm": "perception of sentient beings",
+     "gm": "perception of sentient beings"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "1-24",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན་འདུ་ཤེས",
+     "dm": "perception of sentient beings",
+     "gm": "perception of sentient beings"
+    },
+    {
+     "bo": "སྡུག་བསྔལ་འདུ་ཤེས",
+     "dm": "perception of suffering",
+     "gm": "perception of suffering"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "beings",
+     "gm": "beings"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "1-25",
+   "terms": [
+    {
+     "bo": "བདག",
+     "dm": "oneself",
+     "gm": "oneself"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "dharmas"
+    },
+    {
+     "bo": "སྐྱེ་བ་མེད",
+     "dm": "non-arising",
+     "gm": "non-arising"
+    },
+    {
+     "bo": "སྐྱེ་བ",
+     "dm": "arising",
+     "gm": "arising"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "1-26",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "things",
+     "gm": "dharmas"
+    },
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "worlds",
+     "gm": "world"
+    },
+    {
+     "bo": "སྐྱེ་བ",
+     "dm": "arising",
+     "gm": "arising"
+    },
+    {
+     "bo": "ཡེ་ཤེས",
+     "dm": "primordial wisdom",
+     "gm": "pristine wisdom"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "1-27",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "མཉམ་ཉིད",
+     "dm": "equanimity",
+     "gm": "equality"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "dharmas"
+    },
+    {
+     "bo": "རང་བཞིན་མེད",
+     "dm": "devoid of intrinsic nature",
+     "gm": "without nature"
+    },
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "1-28",
+   "terms": [
+    {
+     "bo": "སྐབས་གཉིས་པ",
+     "dm": "second chapter",
+     "gm": "second chapter"
+    },
+    {
+     "bo": "ལམ་ཐམས་ཅད་ཤེས་པ་ཉིད",
+     "dm": "knowledge of all paths",
+     "gm": "knowledge of all paths"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,858 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "2-28",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Part of perfection of wisdom, a term on its own",
+      "dm": "wisdom",
+      "gm": "wisdom"
+     },
+     {
+      "bo": "ཕ་རོལ་ཕྱིན",
+      "reason": "Part of five perfections and perfection of wisdom, a term on its own",
+      "dm": "perfections",
+      "gm": "perfections"
+     }
+    ]
+   },
+   {
+    "id": "2-29",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 8,
+      "bo_fixed": "ཆོས"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "2-30",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 7,
+      "bo_fixed": "ཆོས"
+     }
+    ],
+    "add": [
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Part of perfection of wisdom, a term on its own",
+      "dm": "wisdom",
+      "gm": "wisdom"
+     },
+     {
+      "bo": "ཕ་རོལ་ཕྱིན",
+      "reason": "Part of perfection of wisdom, a term on its own",
+      "dm": "perfection",
+      "gm": "perfection"
+     }
+    ]
+   },
+   {
+    "id": "2-31",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Part of perfection of wisdom, a term on its own",
+      "dm": "wisdom",
+      "gm": "wisdom"
+     },
+     {
+      "bo": "ཕ་རོལ་ཕྱིན",
+      "reason": "Part of perfection of wisdom, a term on its own",
+      "dm": "perfection",
+      "gm": "perfection"
+     }
+    ]
+   },
+   {
+    "id": "2-32",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 2,
+      "bo_fixed": "ཆོས"
+     }
+    ],
+    "add": [
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Part of awakening of Pratyekabuddhas and Buddhas, a term on its own",
+      "dm": "awakening",
+      "gm": "awakening"
+     }
+    ]
+   },
+   {
+    "id": "2-33",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Part of mind of enlightenment, a term on its own",
+      "dm": "enlightenment",
+      "gm": "awakening"
+     },
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "A core Buddhist term (world / loka)",
+      "dm": "world",
+      "gm": "world"
+     }
+    ]
+   },
+   {
+    "id": "2-34",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Part of mind of enlightenment, a term on its own",
+      "dm": "enlightenment",
+      "gm": "awakening"
+     },
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "A core Buddhist term (world)",
+      "dm": "world",
+      "gm": "world"
+     },
+     {
+      "bo": "ཆོས",
+      "reason": "Core Buddhist term",
+      "dm": "Dharma",
+      "gm": "dharmas"
+     },
+     {
+      "bo": "ཡོན་ཏན",
+      "reason": "Core Buddhist term (qualities/guna)",
+      "dm": "qualities",
+      "gm": "virtuous"
+     }
+    ]
+   },
+   {
+    "id": "2-35",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཀླུ",
+      "reason": "Part of Lord of Nagas, a term on its own",
+      "dm": "Nagas",
+      "gm": "nāga"
+     },
+     {
+      "bo": "རིན་ཆེན",
+      "reason": "Common Buddhist term (jewel)",
+      "dm": "precious",
+      "gm": "jewels"
+     },
+     {
+      "bo": "གཟུགས",
+      "reason": "Core Buddhist term (form/rupa)",
+      "dm": "forms",
+      "gm": "forms"
+     }
+    ]
+   },
+   {
+    "id": "2-36",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "A core Buddhist term (world)",
+      "dm": "worlds",
+      "gm": "worlds"
+     },
+     {
+      "bo": "སངས་རྒྱས",
+      "reason": "Part of qualities of a Buddha, a term on its own",
+      "dm": "Buddha",
+      "gm": "buddha"
+     },
+     {
+      "bo": "ཆོས",
+      "reason": "Part of qualities of a Buddha / buddha-dharmas, a term on its own",
+      "dm": "qualities",
+      "gm": "dharmas"
+     }
+    ]
+   },
+   {
+    "id": "2-37",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "A core Buddhist term (world)",
+      "dm": "world",
+      "gm": "world"
+     },
+     {
+      "bo": "སྲོག་ཆགས",
+      "reason": "Term for beings / creatures",
+      "dm": "sentient beings",
+      "gm": "creatures"
+     }
+    ]
+   },
+   {
+    "id": "2-38",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Part of bodhisattva, a term on its own",
+      "dm": null,
+      "gm": null
+     }
+    ]
+   },
+   {
+    "id": "2-39",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "Part of protectors of the world, a term on its own",
+      "dm": "world",
+      "gm": "world"
+     },
+     {
+      "bo": "རིན་ཆེན",
+      "reason": "Common Buddhist term (jewel/precious)",
+      "dm": "precious",
+      "gm": "precious"
+     }
+    ]
+   },
+   {
+    "id": "2-40",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Part of phrase generating the aspiration for supreme enlightenment, a term on its own",
+      "dm": "enlightenment",
+      "gm": "awakening"
+     },
+     {
+      "bo": "ཐུགས་བསྐྱེད",
+      "reason": "Technical term (generating bodhicitta/aspiration)",
+      "dm": "generate the aspiration",
+      "gm": "generated the mind"
+     },
+     {
+      "bo": "ཆོས",
+      "reason": "Part of true Dharma, a term on its own",
+      "dm": "Dharma",
+      "gm": "dharma"
+     },
+     {
+      "bo": "སངས་རྒྱས",
+      "reason": "Part of Buddha-qualities, a term on its own",
+      "dm": "Buddha",
+      "gm": "buddha"
+     }
+    ]
+   },
+   {
+    "id": "2-41",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སངས་རྒྱས",
+      "reason": "Part of Buddha's sons, a term on its own",
+      "dm": "Buddha’s",
+      "gm": "buddhas"
+     }
+    ]
+   },
+   {
+    "id": "2-42",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-43",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Ordinary verb/adjective (exhausted)"
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བསྔོ",
+      "reason": "Technical act (dedicating/dedicates)",
+      "dm": "dedicates",
+      "gm": "dedicated"
+     }
+    ]
+   },
+   {
+    "id": "2-44",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Part of dedication to enlightenment, a term on its own",
+      "dm": "enlightenment",
+      "gm": "awakening"
+     },
+     {
+      "bo": "ཆོས",
+      "reason": "Part of virtuous qualities, a term on its own",
+      "dm": "qualities",
+      "gm": "dharmas"
+     }
+    ]
+   },
+   {
+    "id": "2-45",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡོངས་སུ་བསྔོ",
+      "reason": "Technical act of dedication",
+      "dm": "dedicate",
+      "gm": "dedicates"
+     },
+     {
+      "bo": "རྣམ་པ",
+      "reason": "Technical term (aspect/nature)",
+      "dm": "nature",
+      "gm": "aspect"
+     }
+    ]
+   },
+   {
+    "id": "2-46",
+    "drop": [
+     {
+      "n": 4,
+      "reason": "Ordinary adjective (poison-free) in a simile"
+     }
+    ],
+    "fix_span": [
+     {
+      "n": 3,
+      "bo_fixed": "ཡོངས་སུ་བསྔོ"
+     }
+    ],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "A core Buddhist term (world)",
+      "dm": "world",
+      "gm": "world"
+     }
+    ]
+   },
+   {
+    "id": "2-47",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཕ་རོལ་ཕྱིན",
+      "reason": "Part of five perfections, a term on its own",
+      "dm": "perfections",
+      "gm": "perfections"
+     }
+    ]
+   },
+   {
+    "id": "2-48",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-49",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཆོས",
+      "reason": "Part of white and black dharmas, a term on its own",
+      "dm": "dharmas",
+      "gm": "dharmas"
+     },
+     {
+      "bo": "ཕ་རོལ་ཕྱིན",
+      "reason": "Part of perfection of wisdom, a term on its own",
+      "dm": "perfection",
+      "gm": "perfection"
+     },
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "A core Buddhist term (world)",
+      "dm": "world",
+      "gm": "world"
+     }
+    ]
+   },
+   {
+    "id": "2-50",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Part of bodhisattva, a term on its own",
+      "dm": null,
+      "gm": null
+     },
+     {
+      "bo": "ཕ་རོལ་ཕྱིན",
+      "reason": "Part of perfection of wisdom, a term on its own",
+      "dm": "perfection",
+      "gm": "perfection"
+     }
+    ]
+   },
+   {
+    "id": "2-51",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Part of bodhisattva and peace of awakening, a term on its own",
+      "dm": "awakening",
+      "gm": "awakening"
+     }
+    ]
+   },
+   {
+    "id": "2-52",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས་རབ",
+      "reason": "Part of perfection of wisdom, a term on its own",
+      "dm": "wisdom",
+      "gm": "wisdom"
+     },
+     {
+      "bo": "ཕ་རོལ་ཕྱིན",
+      "reason": "Part of perfection of wisdom, a term on its own",
+      "dm": "perfection",
+      "gm": "perfection"
+     }
+    ]
+   },
+   {
+    "id": "2-53",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རིན་ཆེན",
+      "reason": "Common Buddhist term (jewels/precious)",
+      "dm": "jewels",
+      "gm": "jewels"
+     }
+    ]
+   },
+   {
+    "id": "2-54",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ནམ་མཁའ",
+      "reason": "Part of element of space, a term on its own",
+      "dm": "space",
+      "gm": "space"
+     }
+    ]
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "2-43",
+    "bo": "ཟད་པ",
+    "reason": "Ordinary verb/adjective (exhausted)"
+   },
+   {
+    "id": "2-46",
+    "bo": "དུག་མེད",
+    "reason": "Ordinary adjective (poison-free) in a simile"
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "2-29",
+    "bo": "ཆོས་རྣམས",
+    "bo_fixed": "ཆོས"
+   },
+   {
+    "id": "2-30",
+    "bo": "ཆོས་ཀུན",
+    "bo_fixed": "ཆོས"
+   },
+   {
+    "id": "2-32",
+    "bo": "ཆོས་རྣམས",
+    "bo_fixed": "ཆོས"
+   },
+   {
+    "id": "2-46",
+    "bo": "ཡོངས་སུ་བསྔོ་བྱེད",
+    "bo_fixed": "ཡོངས་སུ་བསྔོ"
+   }
+  ],
+  "add": [
+   {
+    "id": "2-28",
+    "bo": "ཤེས་རབ",
+    "dm": "wisdom",
+    "gm": "wisdom",
+    "reason": "Part of perfection of wisdom, a term on its own"
+   },
+   {
+    "id": "2-28",
+    "bo": "ཕ་རོལ་ཕྱིན",
+    "dm": "perfections",
+    "gm": "perfections",
+    "reason": "Part of five perfections and perfection of wisdom, a term on its own"
+   },
+   {
+    "id": "2-30",
+    "bo": "ཤེས་རབ",
+    "dm": "wisdom",
+    "gm": "wisdom",
+    "reason": "Part of perfection of wisdom, a term on its own"
+   },
+   {
+    "id": "2-30",
+    "bo": "ཕ་རོལ་ཕྱིན",
+    "dm": "perfection",
+    "gm": "perfection",
+    "reason": "Part of perfection of wisdom, a term on its own"
+   },
+   {
+    "id": "2-31",
+    "bo": "ཤེས་རབ",
+    "dm": "wisdom",
+    "gm": "wisdom",
+    "reason": "Part of perfection of wisdom, a term on its own"
+   },
+   {
+    "id": "2-31",
+    "bo": "ཕ་རོལ་ཕྱིན",
+    "dm": "perfection",
+    "gm": "perfection",
+    "reason": "Part of perfection of wisdom, a term on its own"
+   },
+   {
+    "id": "2-32",
+    "bo": "བྱང་ཆུབ",
+    "dm": "awakening",
+    "gm": "awakening",
+    "reason": "Part of awakening of Pratyekabuddhas and Buddhas, a term on its own"
+   },
+   {
+    "id": "2-33",
+    "bo": "བྱང་ཆུབ",
+    "dm": "enlightenment",
+    "gm": "awakening",
+    "reason": "Part of mind of enlightenment, a term on its own"
+   },
+   {
+    "id": "2-33",
+    "bo": "འཇིག་རྟེན",
+    "dm": "world",
+    "gm": "world",
+    "reason": "A core Buddhist term (world / loka)"
+   },
+   {
+    "id": "2-34",
+    "bo": "བྱང་ཆུབ",
+    "dm": "enlightenment",
+    "gm": "awakening",
+    "reason": "Part of mind of enlightenment, a term on its own"
+   },
+   {
+    "id": "2-34",
+    "bo": "འཇིག་རྟེན",
+    "dm": "world",
+    "gm": "world",
+    "reason": "A core Buddhist term (world)"
+   },
+   {
+    "id": "2-34",
+    "bo": "ཆོས",
+    "dm": "Dharma",
+    "gm": "dharmas",
+    "reason": "Core Buddhist term"
+   },
+   {
+    "id": "2-34",
+    "bo": "ཡོན་ཏན",
+    "dm": "qualities",
+    "gm": "virtuous",
+    "reason": "Core Buddhist term (qualities/guna)"
+   },
+   {
+    "id": "2-35",
+    "bo": "ཀླུ",
+    "dm": "Nagas",
+    "gm": "nāga",
+    "reason": "Part of Lord of Nagas, a term on its own"
+   },
+   {
+    "id": "2-35",
+    "bo": "རིན་ཆེན",
+    "dm": "precious",
+    "gm": "jewels",
+    "reason": "Common Buddhist term (jewel)"
+   },
+   {
+    "id": "2-35",
+    "bo": "གཟུགས",
+    "dm": "forms",
+    "gm": "forms",
+    "reason": "Core Buddhist term (form/rupa)"
+   },
+   {
+    "id": "2-36",
+    "bo": "འཇིག་རྟེན",
+    "dm": "worlds",
+    "gm": "worlds",
+    "reason": "A core Buddhist term (world)"
+   },
+   {
+    "id": "2-36",
+    "bo": "སངས་རྒྱས",
+    "dm": "Buddha",
+    "gm": "buddha",
+    "reason": "Part of qualities of a Buddha, a term on its own"
+   },
+   {
+    "id": "2-36",
+    "bo": "ཆོས",
+    "dm": "qualities",
+    "gm": "dharmas",
+    "reason": "Part of qualities of a Buddha / buddha-dharmas, a term on its own"
+   },
+   {
+    "id": "2-37",
+    "bo": "འཇིག་རྟེན",
+    "dm": "world",
+    "gm": "world",
+    "reason": "A core Buddhist term (world)"
+   },
+   {
+    "id": "2-37",
+    "bo": "སྲོག་ཆགས",
+    "dm": "sentient beings",
+    "gm": "creatures",
+    "reason": "Term for beings / creatures"
+   },
+   {
+    "id": "2-38",
+    "bo": "བྱང་ཆུབ",
+    "dm": null,
+    "gm": null,
+    "reason": "Part of bodhisattva, a term on its own"
+   },
+   {
+    "id": "2-39",
+    "bo": "འཇིག་རྟེན",
+    "dm": "world",
+    "gm": "world",
+    "reason": "Part of protectors of the world, a term on its own"
+   },
+   {
+    "id": "2-39",
+    "bo": "རིན་ཆེན",
+    "dm": "precious",
+    "gm": "precious",
+    "reason": "Common Buddhist term (jewel/precious)"
+   },
+   {
+    "id": "2-40",
+    "bo": "བྱང་ཆུབ",
+    "dm": "enlightenment",
+    "gm": "awakening",
+    "reason": "Part of phrase generating the aspiration for supreme enlightenment, a term on its own"
+   },
+   {
+    "id": "2-40",
+    "bo": "ཐུགས་བསྐྱེད",
+    "dm": "generate the aspiration",
+    "gm": "generated the mind",
+    "reason": "Technical term (generating bodhicitta/aspiration)"
+   },
+   {
+    "id": "2-40",
+    "bo": "ཆོས",
+    "dm": "Dharma",
+    "gm": "dharma",
+    "reason": "Part of true Dharma, a term on its own"
+   },
+   {
+    "id": "2-40",
+    "bo": "སངས་རྒྱས",
+    "dm": "Buddha",
+    "gm": "buddha",
+    "reason": "Part of Buddha-qualities, a term on its own"
+   },
+   {
+    "id": "2-41",
+    "bo": "སངས་རྒྱས",
+    "dm": "Buddha’s",
+    "gm": "buddhas",
+    "reason": "Part of Buddha's sons, a term on its own"
+   },
+   {
+    "id": "2-43",
+    "bo": "བསྔོ",
+    "dm": "dedicates",
+    "gm": "dedicated",
+    "reason": "Technical act (dedicating/dedicates)"
+   },
+   {
+    "id": "2-44",
+    "bo": "བྱང་ཆུབ",
+    "dm": "enlightenment",
+    "gm": "awakening",
+    "reason": "Part of dedication to enlightenment, a term on its own"
+   },
+   {
+    "id": "2-44",
+    "bo": "ཆོས",
+    "dm": "qualities",
+    "gm": "dharmas",
+    "reason": "Part of virtuous qualities, a term on its own"
+   },
+   {
+    "id": "2-45",
+    "bo": "ཡོངས་སུ་བསྔོ",
+    "dm": "dedicate",
+    "gm": "dedicates",
+    "reason": "Technical act of dedication"
+   },
+   {
+    "id": "2-45",
+    "bo": "རྣམ་པ",
+    "dm": "nature",
+    "gm": "aspect",
+    "reason": "Technical term (aspect/nature)"
+   },
+   {
+    "id": "2-46",
+    "bo": "འཇིག་རྟེན",
+    "dm": "world",
+    "gm": "world",
+    "reason": "A core Buddhist term (world)"
+   },
+   {
+    "id": "2-47",
+    "bo": "ཕ་རོལ་ཕྱིན",
+    "dm": "perfections",
+    "gm": "perfections",
+    "reason": "Part of five perfections, a term on its own"
+   },
+   {
+    "id": "2-49",
+    "bo": "ཆོས",
+    "dm": "dharmas",
+    "gm": "dharmas",
+    "reason": "Part of white and black dharmas, a term on its own"
+   },
+   {
+    "id": "2-49",
+    "bo": "ཕ་རོལ་ཕྱིན",
+    "dm": "perfection",
+    "gm": "perfection",
+    "reason": "Part of perfection of wisdom, a term on its own"
+   },
+   {
+    "id": "2-49",
+    "bo": "འཇིག་རྟེན",
+    "dm": "world",
+    "gm": "world",
+    "reason": "A core Buddhist term (world)"
+   },
+   {
+    "id": "2-50",
+    "bo": "བྱང་ཆུབ",
+    "dm": null,
+    "gm": null,
+    "reason": "Part of bodhisattva, a term on its own"
+   },
+   {
+    "id": "2-50",
+    "bo": "ཕ་རོལ་ཕྱིན",
+    "dm": "perfection",
+    "gm": "perfection",
+    "reason": "Part of perfection of wisdom, a term on its own"
+   },
+   {
+    "id": "2-51",
+    "bo": "བྱང་ཆུབ",
+    "dm": "awakening",
+    "gm": "awakening",
+    "reason": "Part of bodhisattva and peace of awakening, a term on its own"
+   },
+   {
+    "id": "2-52",
+    "bo": "ཤེས་རབ",
+    "dm": "wisdom",
+    "gm": "wisdom",
+    "reason": "Part of perfection of wisdom, a term on its own"
+   },
+   {
+    "id": "2-52",
+    "bo": "ཕ་རོལ་ཕྱིན",
+    "dm": "perfection",
+    "gm": "perfection",
+    "reason": "Part of perfection of wisdom, a term on its own"
+   },
+   {
+    "id": "2-53",
+    "bo": "རིན་ཆེན",
+    "dm": "jewels",
+    "gm": "jewels",
+    "reason": "Common Buddhist term (jewels/precious)"
+   },
+   {
+    "id": "2-54",
+    "bo": "ནམ་མཁའ",
+    "dm": "space",
+    "gm": "space",
+    "reason": "Part of element of space, a term on its own"
+   }
+  ]
+ }
+}

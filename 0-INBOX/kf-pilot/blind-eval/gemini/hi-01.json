@@ -1,0 +1,263 @@
+{
+ "segments": [
+  {
+   "id": "0-4",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "जो मल से अतीत है,\nजगत् के कल्याण में प्रवृत्त उस शांत",
+      "explanation": "These attributes describe the practitioners/gentle ones in the Tibetan, but the translation incorrectly modifies 'प्रज्ञापारमिता' (perfection of wisdom)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-6",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "1-16",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "विशाल समूह",
+      "explanation": "The Tibetan 'མང་པོའི་' means 'many' (अनेक), not 'huge' or 'vast' (विशाल)."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "1-25",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "मैं हूँ",
+      "explanation": "The Tibetan 'བདག་' refers to the 'self' (atman) or oneself, not the first-person speaker 'I' (मैं)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-28",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "मार्गज्ञता",
+      "explanation": "Omits the translation of 'ཐམས་ཅད་' (all/sarva), rendering it 'path-knowledge' instead of 'knowledge of all paths'."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "2-8",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "2-21",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "सभी गुण",
+      "explanation": "Omits 'ཆོས་' (dharmas) from the compound 'ཡོན་ཏན་ཆོས་' (qualities and dharmas)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-27",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "2-30",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "संस्कार",
+      "explanation": "The Tibetan 'སེམས་པ་' specifies 'cetanā' (volition/चेतना), not the general aggregate of formations 'saṃskāra' (संस्कार)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-40",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "हैं।",
+      "explanation": "The Tibetan stanza ends with 'དང་' (and), linking it to the next stanza; a full stop incorrectly leaves the relative clause dangling."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-50",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "major",
+      "span": "यदि मैं जिन की प्रज्ञा की चर्या करूँ, और दुःख से स्पृष्ट अनेक कोटि-नियुत सत्त्वों को मुक्त करने का विचार करूँ, सत्त्व-संज्ञा की परिकल्पना करने वाला जो बोधिसत्त्व है,",
+      "explanation": "The conditional clause lacks a proper main clause, making the sentence grammatically disjointed and difficult to parse."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "2-53",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "रिक्त-हस्त",
+      "explanation": "The candidate translates 'empty-handed' but omits the specific Tibetan term 'zong zad' meaning 'goods/capital exhausted'."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "4-6",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "जानना चाहिए कि, यद्यपि नायकों द्वारा उसे साक्षात् व्याकृत नहीं किया गया है, फिर भी \"मैं शीघ्र ही बुद्ध-बोधि का स्पर्श करूँगा।\"",
+      "explanation": "The first-person quote lacks an introductory verb like 'he thinks', causing an awkward grammatical shift after 'should know that'."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "परम बोधि में सम्यक् प्रविष्ट हुए लोगों को, जिनों की इस प्रज्ञापारमिता का श्रवण करने वाला जानना चाहिए;",
+      "explanation": "The syntax incorrectly swaps subject and object, falsely implying the hearer should know the people entered into supreme bodhi."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-10",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "निर्विकल्प और निर्विकल्प",
+      "explanation": "The candidate awkwardly repeats the same word to translate two distinct Tibetan terms, creating unnecessary redundancy."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-17",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "4-26",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "लोक में सिंहनाद करते हैं",
+      "explanation": "The candidate omits the translation of 'yang' (also), which is present in the source text."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-36",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "वह मार्ग में नष्ट नहीं होता, और नष्ट हुए बिना",
+      "explanation": "The candidate blindly translates a typo in the Tibetan source, failing to use commentaries to correct it, resulting in a redundant and incorrect rendering."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-44",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "बोधि के स्कन्धों में आसक्त होकर श्रेष्ठ का आग्रह मत करो",
+      "explanation": "The candidate mistranslates the syntax, creating 'skandhas of bodhi' and failing to recognize bodhi as the object of holding as supreme."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-48",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "अल्प-चिन्ता की",
+      "explanation": "The candidate translates 'alpotsuka' literally as 'worried less', which contextually misrepresents the Buddha's disinclination to teach."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": ", अर्थात् अनिच्छा,",
+      "explanation": "The candidate adds an explanatory gloss directly into the translation, which is not present in the source text."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-57",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  }
+ ]
+}

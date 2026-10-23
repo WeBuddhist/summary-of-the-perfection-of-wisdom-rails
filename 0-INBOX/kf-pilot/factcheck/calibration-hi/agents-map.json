@@ -1,0 +1,15 @@
+{
+ "session_dir": "/Users/tashitsering/.claude/projects/-Users-tashitsering-Desktop-work-Obsidian-KF-project/3603d884-eb7d-4373-b552-fe65ee7ea0e0",
+ "step": "calibration",
+ "text": "ratnagunasancayagatha",
+ "lang": "hi",
+ "variant": "academic",
+ "model": "sonnet",
+ "agents": {
+  "plant": "ab495539597bdbf38",
+  "check": "abcba1261f1ef1ed6"
+ },
+ "failed_network": {
+  "check": "a7eaca8cc7544bcb7"
+ }
+}

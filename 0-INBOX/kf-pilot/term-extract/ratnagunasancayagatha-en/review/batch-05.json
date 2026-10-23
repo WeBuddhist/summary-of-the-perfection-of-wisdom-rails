@@ -1,0 +1,76 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "3-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-3",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རྣམ་གྲོལ",
+      "reason": "Core Buddhist concept of liberation/emancipation, parallel to the un-abbreviated form in 3-1",
+      "dm": "liberated",
+      "gm": "Liberated"
+     }
+    ]
+   },
+   {
+    "id": "3-4",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-5",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཆོས",
+      "reason": "Core doctrinal concept (dharma) that occurs both inside the compound 'all phenomena' and independently in the same segment",
+      "dm": "phenomena",
+      "gm": "dharmas"
+     }
+    ]
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "3-3",
+    "bo": "རྣམ་གྲོལ",
+    "dm": "liberated",
+    "gm": "Liberated",
+    "reason": "Core Buddhist concept of liberation/emancipation, parallel to the un-abbreviated form in 3-1"
+   },
+   {
+    "id": "3-5",
+    "bo": "ཆོས",
+    "dm": "phenomena",
+    "gm": "dharmas",
+    "reason": "Core doctrinal concept (dharma) that occurs both inside the compound 'all phenomena' and independently in the same segment"
+   }
+  ]
+ }
+}

@@ -1,0 +1,233 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "5-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "वह असल में दुनिया की उलझनों में ही फँसा रहता है",
+     "evidence": "The text says he stays in saṃsarga (mixing/association with others, 'संसर्ग'), not entangled in worldly troubles in general.",
+     "fix": "वह असल में लोगों से घुलने-मिलने में ही लगा रहता है।"
+    }
+   ]
+  },
+  {
+   "id": "5-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "ऐसे लोगों को परख कर बुरा कहता है",
+     "evidence": "Academic translation: the bodhisattva who 'measures' (judges) them falls; it does not say he calls them bad.",
+     "fix": "जो बोधि-वीर ऐसे लोगों को नापता-तौलता है, वह खुद ही नीचे गिर जाता है।"
+    }
+   ]
+  },
+  {
+   "id": "5-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "उसी तरह बाकी सब चीज़ें भी हैं। जब कोई अच्छी तरह जान लेता है कि सब चीज़ें खाली और बिना निशानियों वाली हैं। तब",
+     "evidence": "Academic translation is one connected conditional (just as ... so all dharmas ... if one knows ... then); the children's text breaks it into incomplete fragments.",
+     "fix": "जिस तरह पूर्ण प्रज्ञा अपनी किसी खास पहचान से खाली है, उसी तरह बाकी सब चीज़ें भी खाली हैं। जब कोई यह अच्छी तरह जान लेता है कि सब चीज़ें खाली और बिना निशानियों वाली हैं, तब"
+    }
+   ]
+  },
+  {
+   "id": "5-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "जो लोग बार-बार जन्म का चक्र से चिपके हैं",
+     "evidence": "Ungrammatical use of the locked term; the text says those with minds attached to saṃsāra keep wandering.",
+     "fix": "जो लोग बार-बार जन्म के चक्र से चिपके हैं"
+    }
+   ]
+  },
+  {
+   "id": "5-17",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "वे हमेशा बदलने वाला होकर जन्मते और मरते हैं",
+     "evidence": "Ungrammatical; the text says that through this false notion of self they are impermanent, being born and dying.",
+     "fix": "इस झूठी धारणा से वे हमेशा बदलने वाले बनकर जन्मते और मरते रहते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "5-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "करोड़ों सालों तक",
+     "evidence": "Tibetan/academic: many kotis of thousands of years (thousand x ten million x many), so 'crores of years' understates the number.",
+     "fix": "हज़ारों करोड़ सालों तक"
+    }
+   ]
+  },
+  {
+   "id": "5-20",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "इसके बराबर नहीं हो सकती",
+     "evidence": "Academic translation: the merit of the heap of giving does not equal even a fraction (part) of this; 'even a part' is lost.",
+     "fix": "उस उदारता से जमा की हुई अच्छाई इसके एक छोटे-से हिस्से के बराबर भी नहीं हो सकती।"
+    }
+   ]
+  },
+  {
+   "id": "5-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-24",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "अपनी जगह पहुँचकर",
+     "evidence": "The text says only that the one who goes swiftly attains peace/calm; 'reaching his own place' is not there.",
+     "fix": "फिर वह तेज़ी से चलकर शान्ति पाता है।"
+    }
+   ]
+  },
+  {
+   "id": "5-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-29",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "चारों दिशाओं में",
+     "evidence": "Text says 'the directions' (दिशाओं) are set ablaze; the number four is not stated.",
+     "fix": "वह दिशाओं में आग लगाता है"
+    }
+   ]
+  },
+  {
+   "id": "5-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-34",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "तो सावधानी से ध्यान देना चाहिए ... जो बुरे कामों में मज़ा नहीं लेते, वे ही बुद्ध के गुण सीखते हैं",
+     "evidence": "The verse describes what the bodhisattvas do (they generate mindfulness, confess, restrain, and do not delight in that state); the children's text turns it into advice and adds exclusivity ('only those').",
+     "fix": "वे सावधानी से ध्यान देते हैं कि यह मन ठीक नहीं है। वे अपनी भूल मान लेते हैं, आगे के लिए खुद को रोकते हैं और उस बुरे मन में खुश नहीं होते। इस तरह वे यहाँ बुद्ध के गुण सीखते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "5-35",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "किसी भी नियम को ज़िद से नहीं पकड़ता",
+     "evidence": "Locked term for बསླབ་པ (training) is 'अभ्यास'; 'नियम' is used instead, and 'ज़िद से' is added; the text says he accepts no training at all.",
+     "fix": "जो अभ्यास करते समय किसी भी अभ्यास को सच्चा मानकर नहीं पकड़ता।"
+    }
+   ]
+  }
+ ]
+}

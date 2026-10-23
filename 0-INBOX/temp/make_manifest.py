@@ -663,7 +663,9 @@ def main():
         w["frontmatter"] = {
             "title": w["title"], "alt_titles": [x for x in alts(m, own_title) if x.strip(" །") + "།" != w["title"]],
             "title_in_english": g(m, "title_long_clean", "en") or g(m, "title_short", "en"),
-            "author": g(m, "author"), "author_in_english": g(m, "author", "en"),
+            "author": g(m, "author"),
+            # BDRC id tag so the library credits Khenrab Jamyang (person P1KG803, Kharnang Yangtrul); vault owner, 2026-10-04
+            "author_in_english": g(m, "author", "en") + (" [bdrc:P1KG803]" if i == "4" else ""),
             "registered_id": rid, "language": "Tibetan", "lang_tag": "bo", "file_type": "commentary",
             "root_text": ROOT_FILE, "verse_id_format": "section-paragraph", "category_id": CATEGORY_ID, "license": LICENSE,
             "source": g(m, "source"), "other_ids": [f"Dzongsar: phakpadoepa comm-{i}"],

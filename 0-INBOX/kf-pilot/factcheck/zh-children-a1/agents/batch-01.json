@@ -1,0 +1,208 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "0-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "0-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "請你們帶著開心、恭敬和最大的信任。我們要消除阻礙和心裡的煩惱",
+     "evidence": "The verses describe the state of those who have generated joy, respect and supreme faith and eliminated obscurations and afflictions; the children's text turns this into a request to the listeners and a 'we must' resolve, shifting speaker and mood.",
+     "fix": "你們已經生起了開心、恭敬和最大的信任，也消除了阻礙和心裡的煩惱，超越了一切污垢。"
+    }
+   ]
+  },
+  {
+   "id": "1-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "得勝者的聽法的弟子們",
+     "evidence": "Awkward stacked possessives ('得勝者的聽法的弟子們'); source says the Victor's hearers (śrāvakas) teach whatever Dharma.",
+     "fix": "得勝者的弟子們，也就是聽法的弟子，無論講了多少佛法，"
+    }
+   ]
+  },
+  {
+   "id": "1-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "固定不變的形體和感受",
+     "evidence": "Academic translation: form, feeling, perception and volition cannot be found; no qualifier 'fixed/unchanging' is in the text.",
+     "fix": "我們找不到形體和感受，也找不到想法和意願。"
+    }
+   ]
+  },
+  {
+   "id": "1-6",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "他就不會急著進入超越憂傷的安寧",
+     "evidence": "Academic: the bodhisattva does not touch/realize nirvana (and abides in wisdom); 'not hurrying to enter' turns a negation of touching nirvana into a timing matter and implies he will enter later.",
+     "fix": "他不會去碰觸超越憂傷的安寧，而是安穩地停留在智慧之中。"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "徹底放下了",
+     "evidence": "Academic: the unapprehendable aggregates are thoroughly destroyed/dissolved (rnam par 'jig pa), not merely 'let go of'.",
+     "fix": "徹底看穿並消除了那些抓不住的身心的組成部分"
+    }
+   ]
+  },
+  {
+   "id": "1-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-11",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "什麼都不去抓取，才是真正的練習",
+     "evidence": "Academic: he knows that 'non-practice is practice' (無所行持即是行持); the children's text replaces this with 'not grasping at anything is the real practice', losing the stated point.",
+     "fix": "因為他深深明白，沒有任何可練習的東西，這樣才是真正的練習。"
+    }
+   ]
+  },
+  {
+   "id": "1-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "我們的形體、想法、感受、意願和覺知，其實沒有被綁住。它們沒有被解開，也不是真的存在。",
+     "evidence": "Academic: form, perception, feeling, volition and consciousness are neither bound nor liberated, and do not (truly) exist; 'our' is added and 'not truly existing' on its own risks sounding as if one's body and mind are nothing.",
+     "fix": "形體、想法、感受、意願和覺知，既沒有被綁住，也沒有被解開，本來就沒有可以抓住的真實樣子。"
+    }
+   ]
+  },
+  {
+   "id": "1-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-21",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "不管去哪個方向，心裡都沒有執著",
+     "evidence": "Academic: no direction of going can be apprehended/found (去向無所緣取); the children's text says the mind has no attachment, shifting from 'no destination found' to 'no clinging'.",
+     "fix": "搭上這個乘，不管往哪個方向去，都找不到真正要去的地方。"
+    }
+   ]
+  },
+  {
+   "id": "1-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-24",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

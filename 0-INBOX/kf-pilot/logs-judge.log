@@ -1,0 +1,47 @@
+judgements to make=188 calls=24
+  pass 1 en-academic 1-4..1-22 ok
+  pass 1 en-academic 2-29..2-47 ok
+  pass 1 en-academic 2-2..2-16 ok
+  pass 1 en-academic 2-48..4-6 ok
+  pass 1 en-academic 4-12..4-37 ok
+  pass 1 en-academic 4-77..5-15 ok
+  pass 1 en-academic 4-45..4-69 ok
+  pass 1 en-academic 5-16..5-33 ok
+  pass 1 en-academic 5-57..5-74 ok
+  pass 1 en-academic 5-76..5-96 ok
+  pass 1 en-academic 5-36..5-56 ok
+  pass 1 en-academic 5-98..6-1 ok
+  pass 2 en-academic 2-2..2-16 ok
+  pass 2 en-academic 1-4..1-22 ok
+  pass 2 en-academic 2-29..2-47 ok
+  pass 2 en-academic 2-48..4-6 ok
+  pass 2 en-academic 4-12..4-37 ok
+  pass 2 en-academic 4-45..4-69 ok
+  pass 2 en-academic 4-77..5-15 ok
+  pass 2 en-academic 5-16..5-33 ok
+  pass 2 en-academic 5-57..5-74 ok
+  pass 2 en-academic 5-36..5-56 ok
+  pass 2 en-academic 5-76..5-96 ok
+  pass 2 en-academic 5-98..6-1 ok
+pairs=94; passes disagreed on 21 (counted as tie)
+| Track | Pairs | Fixed version better | Tie | Original better |
+|---|---|---|---|---|
+| en-academic | 94 | 51 (54%) | 25 (27%) | 18 (19%) |
+| all | 94 | 51 (54%) | 25 (27%) | 18 (19%) |
+  reverted en-academic 2-29
+  reverted en-academic 2-32
+  reverted en-academic 2-48
+  reverted en-academic 4-4
+  reverted en-academic 4-5
+  reverted en-academic 4-23
+  reverted en-academic 4-37
+  reverted en-academic 4-81
+  reverted en-academic 4-52
+  reverted en-academic 4-53
+  reverted en-academic 5-76
+  reverted en-academic 5-36
+  reverted en-academic 5-37
+  reverted en-academic 5-52
+  reverted en-academic 5-54
+  reverted en-academic 5-56
+reverted 16 minor-only fixes the judge rated worse

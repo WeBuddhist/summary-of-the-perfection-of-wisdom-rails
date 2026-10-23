@@ -1,0 +1,345 @@
+{
+ "batch": "batch-14",
+ "segments": [
+  {
+   "id": "6-0",
+   "terms": [
+    {
+     "bo": "མཐར་གྱིས་པ",
+     "dm": "gradual path",
+     "gm": "Gradual Approach"
+    }
+   ]
+  },
+  {
+   "id": "6-1",
+   "terms": [
+    {
+     "bo": "མཐར་གྱིས་པ",
+     "dm": "gradual path",
+     "gm": "Gradual Training"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "generosity",
+     "gm": "giving"
+    },
+    {
+     "bo": "ཡི་དགས་འགྲོ་བ",
+     "dm": "realm of hungry spirits",
+     "gm": "destiny of hungry ghosts"
+    },
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཡོངས་སྨིན་བྱེད",
+     "dm": "full maturity",
+     "gm": "fully ripen"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "6-2",
+   "terms": [
+    {
+     "bo": "ཁྲིམས",
+     "dm": "ethical discipline",
+     "gm": "discipline"
+    },
+    {
+     "bo": "དུད་འགྲོའི་འགྲོ་བ",
+     "dm": "animal existence",
+     "gm": "destinies of animals"
+    },
+    {
+     "bo": "མི་ཁོམ་བརྒྱད",
+     "dm": "eight unfree states",
+     "gm": "eight unfree states"
+    },
+    {
+     "bo": "དལ་བ",
+     "dm": "leisure",
+     "gm": "leisure"
+    },
+    {
+     "bo": "བཟོད་པ",
+     "dm": "patience",
+     "gm": "patience"
+    }
+   ]
+  },
+  {
+   "id": "6-3",
+   "terms": [
+    {
+     "bo": "བརྩོན་འགྲུས",
+     "dm": "diligence",
+     "gm": "diligence"
+    },
+    {
+     "bo": "དཀར་པོའི་ཡོན་ཏན",
+     "dm": "virtuous qualities",
+     "gm": "pure qualities"
+    },
+    {
+     "bo": "ཡེ་ཤེས",
+     "dm": "primordial wisdom",
+     "gm": "pristine wisdom"
+    },
+    {
+     "bo": "རྒྱལ་བའི་བང་མཛོད",
+     "dm": "treasury of the Victors",
+     "gm": "treasury of the Victors"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victors",
+     "gm": "Victors"
+    },
+    {
+     "bo": "བསམ་གཏན",
+     "dm": "meditative concentration",
+     "gm": "concentration"
+    },
+    {
+     "bo": "རིག",
+     "dm": "knowledge",
+     "gm": "knowledge"
+    },
+    {
+     "bo": "མངོན་པར་ཤེས",
+     "dm": "supernormal powers",
+     "gm": "superknowledges"
+    },
+    {
+     "bo": "ཏིང་འཛིན",
+     "dm": "meditative absorption",
+     "gm": "samadhi"
+    }
+   ]
+  },
+  {
+   "id": "6-4",
+   "terms": [
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་རང་བཞིན",
+     "dm": "nature of phenomena",
+     "gm": "nature of phenomena"
+    },
+    {
+     "bo": "ཁམས་གསུམ",
+     "dm": "three realms",
+     "gm": "three realms"
+    },
+    {
+     "bo": "མི་ཡི་ཁྱུ་མཆོག",
+     "dm": "preeminent leader among men",
+     "gm": "supreme leader of humans"
+    },
+    {
+     "bo": "འཁོར་ལོ་རིན་ཆེན",
+     "dm": "precious wheel",
+     "gm": "precious wheel"
+    },
+    {
+     "bo": "ཆོས་ཀྱང",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "འགྲོ་ལ",
+     "dm": "beings",
+     "gm": "beings"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "7-0",
+   "terms": [
+    {
+     "bo": "སྐད་ཅིག་མ་གཅིག",
+     "dm": "single instant",
+     "gm": "Single Moment"
+    },
+    {
+     "bo": "མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་པ",
+     "dm": "complete enlightenment",
+     "gm": "Complete Awakening"
+    }
+   ]
+  },
+  {
+   "id": "7-1",
+   "terms": [
+    {
+     "bo": "སྐད་ཅིག་མ་གཅིག",
+     "dm": "single instant",
+     "gm": "Single Moment"
+    },
+    {
+     "bo": "མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་པ",
+     "dm": "complete enlightenment",
+     "gm": "Complete Awakening"
+    },
+    {
+     "bo": "ཆོས་འདི",
+     "dm": "phenomena",
+     "gm": "dharmas"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    }
+   ]
+  },
+  {
+   "id": "8-0",
+   "terms": [
+    {
+     "bo": "ཆོས་སྐུ",
+     "dm": "Dharmakāya",
+     "gm": "Dharmakāya"
+    }
+   ]
+  },
+  {
+   "id": "8-1",
+   "terms": [
+    {
+     "bo": "ཆོས་ཀྱི་སྐུ",
+     "dm": "Dharmakāya",
+     "gm": "Dharmakāya"
+    },
+    {
+     "bo": "ཡོངས་དག་ཞིང",
+     "dm": "pure realm",
+     "gm": "perfectly pure fields"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "སངས་རྒྱས་རྒྱུད",
+     "dm": "lineage of the Buddha",
+     "gm": "Buddha lineage"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་རྒྱུད",
+     "dm": "lineage of the Dharma",
+     "gm": "Dharma lineage"
+    },
+    {
+     "bo": "དགེ་འདུན་རྒྱུད",
+     "dm": "lineage of the Saṅgha",
+     "gm": "Sangha lineage"
+    },
+    {
+     "bo": "དགེ་འདུན",
+     "dm": "Saṅgha",
+     "gm": "Sangha"
+    },
+    {
+     "bo": "ཆོས་ཀུན",
+     "dm": "all phenomena",
+     "gm": "all dharmas"
+    }
+   ]
+  },
+  {
+   "id": "8-2",
+   "terms": [
+    {
+     "bo": "སྨན་པའི་མཆོག",
+     "dm": "supreme physician",
+     "gm": "supreme physician"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "བྱང་ཆུབ་ལམ",
+     "dm": "path to awakening",
+     "gm": "path to awakening"
+    },
+    {
+     "bo": "ཡོན་ཏན་རིན་ཆེན་སྡུད་པ",
+     "dm": "Collection of Precious Qualities",
+     "gm": "Collection of Precious Qualities"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "8-3",
+   "terms": [
+    {
+     "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྡུད་པ་ཚིགས་སུ་བཅད་པ",
+     "dm": "Noble Verses Summarizing the Perfection of Wisdom",
+     "gm": "Noble Verses on the Collection of the Perfection of Wisdom"
+    },
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "Perfection of Wisdom",
+     "gm": "Perfection of Wisdom"
+    }
+   ]
+  },
+  {
+   "id": "8-4",
+   "terms": [
+    {
+     "bo": "བིདྷ་ཀ་ར་སིང་ཧ",
+     "dm": "Vidyākarasiṃha",
+     "gm": "Vidyākarasiṃha"
+    },
+    {
+     "bo": "དཔལ་བརྩེགས",
+     "dm": "Paltshek",
+     "gm": "Paltsek"
+    }
+   ]
+  }
+ ]
+}

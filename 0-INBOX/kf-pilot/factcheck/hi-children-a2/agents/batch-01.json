@@ -1,0 +1,28 @@
+{"batch": "batch-01", "segments": [
+{"id": "1-4", "verdict": "pass", "issues": [
+ {"type": "fluency", "severity": "minor", "span": "जो सबसे बड़ी पूर्ण प्रज्ञा को भी असली चीज़ की तरह नहीं पकड़ता। जो बोधि-वीर को भी नहीं, और बोधि पाने की इच्छा को भी नहीं पकड़ता।", "evidence": "The academic translation is a single 'for whom X, Y and Z are not apprehended ... that bodhisattva practises prajna' sentence; the children's text splits it into several 'who ...' fragments without a main verb until the last line, which is hard for ages 8-12 to follow. Meaning is intact.", "fix": "जो बोधि-वीर सबसे बड़ी पूर्ण प्रज्ञा, बोधि-वीर और बोधि पाने की इच्छा को असली चीज़ की तरह नहीं पकड़ता, और यह सुनकर उसे न उलझन होती है न डर, वही भली-भाँति गए हुए की प्रज्ञा पर चलता है।"}
+]},
+{"id": "1-6", "verdict": "pass", "issues": [
+ {"type": "mistranslation", "severity": "minor", "span": "दुख से परे शान्ति को पकड़कर नहीं रुकता", "evidence": "The Tibetan and academic translation say the bodhisattva 'does not touch' nirvana (mya ngan 'das la mi reg); 'does not stay clinging to it' changes the image to an interpretation.", "fix": "वह दुख से परे शान्ति को छूता नहीं।"},
+ {"type": "addition", "severity": "minor", "span": "हमेशा", "evidence": "The text says only that he 'abides in prajna' (shes rab gnas); 'always' is not stated.", "fix": "वह प्रज्ञा में टिका रहता है।"},
+ {"type": "fluency", "severity": "minor", "span": "ढेर सच में न मिलकर बिखर जाते हैं", "evidence": "The academic translation says the unapprehended aggregates are destroyed/dissolved; the phrase 'not really found, they scatter' is awkward for children.", "fix": "ढेर, जो असल में कहीं मिलते ही नहीं, बिखर जाते हैं।"}
+]},
+{"id": "2-12", "verdict": "pass", "issues": []},
+{"id": "2-17", "verdict": "pass", "issues": [
+ {"type": "mistranslation", "severity": "minor", "span": "इसकी बराबरी नहीं कर सकती", "evidence": "Academic translation: the merit of worship by building a stupa 'cannot compare even to a fraction (one part)' of it (ཆར་མི་ཕོད); the 'even a fraction' degree is lost.", "fix": "पवित्र स्मारक बनाकर पूजने से मिली जमा की हुई अच्छाई इसके एक छोटे-से हिस्से के बराबर भी नहीं है।"},
+ {"type": "mistranslation", "severity": "minor", "span": "जो कोई ... रखेगा। और फूलों तथा सुगन्ध से उसका सम्मान करेगा।", "evidence": "The verse is conditional ('if one writes, holds and honours ... ') and 'विलेपन'/anointing is rendered 'सुगन्ध'; the children's text states these as plain future facts.", "fix": "अगर कोई 'भली-भाँति गए हुओं की माँ' को किताब में लिखकर अपने पास रखे और फूलों तथा लेप से उसका सम्मान करे, तो ..."}
+]},
+{"id": "2-18", "verdict": "pass", "issues": []},
+{"id": "4-6", "verdict": "pass", "issues": []},
+{"id": "4-16", "verdict": "pass", "issues": [
+ {"type": "fluency", "severity": "minor", "span": "बाहर की चीज़ें देखने की चाह भरे नज़रिये से", "evidence": "Academic: 'with a mind full of longing to look at external objects'; the compound 'चाह भरे नज़रिये' is tangled and unclear for children.", "fix": "बाहर की चीज़ें देखने की चाह वाले मन से"}
+]},
+{"id": "4-91", "verdict": "pass", "issues": [
+ {"type": "fluency", "severity": "minor", "span": "वह चीज़ों को खाली, बिना निशानी के होना और बिना इच्छा के मानता है।", "evidence": "Academic: he contemplates dharmas as empty, signless and wishless; the list mixes adjectives and noun phrases ('बिना निशानी के होना') ungrammatically, and 'मानता है' is weaker than 'contemplates/reflects'.", "fix": "वह चीज़ों के बारे में सोचता है कि वे खाली हैं, बिना निशानी की हैं और बिना इच्छा की हैं।"}
+]},
+{"id": "5-42", "verdict": "pass", "issues": []},
+{"id": "5-90", "verdict": "pass", "issues": [
+ {"type": "fluency", "severity": "minor", "span": "अपने धैर्य से वह वीर पूरी दुनिया में सब पूज्य साधकों, अकेले बुद्धों और जीवों के क्षेत्र से आगे निकल जाता है।", "evidence": "Academic: through patience toward the whole world he overcomes the arhats, pratyekabuddhas and all the many realms of beings; the long sentence with a stacked list is hard for ages 8-12 and the scope ('towards the whole world') is blurred.", "fix": "वह वीर पूरी दुनिया के प्रति धैर्य रखने से सब पूज्य साधकों, अकेले बुद्धों और जीवों के पूरे क्षेत्र से आगे निकल जाता है।"}
+]},
+{"id": "5-99", "verdict": "pass", "issues": []}
+]}

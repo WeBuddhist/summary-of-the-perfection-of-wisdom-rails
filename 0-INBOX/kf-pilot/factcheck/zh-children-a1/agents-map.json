@@ -1,0 +1,35 @@
+{
+ "session_dir": "/Users/tashitsering/.claude/projects/-Users-tashitsering-Desktop-work-Obsidian-KF-project/3603d884-eb7d-4373-b552-fe65ee7ea0e0",
+ "step": "factcheck",
+ "text": "ratnagunasancayagatha",
+ "lang": "zh",
+ "variant": "children",
+ "attempt": 1,
+ "model": "sonnet",
+ "agents": {
+  "batch-01": "a4b95024d335e19bb",
+  "batch-02": "a418b8299ec7c9836",
+  "batch-03": "ab6174025d37e9761",
+  "batch-04": "af3025ac25c685138",
+  "batch-05": "aa2d0c2c0bf71ca5d",
+  "batch-06": "a3b7e476c041f05f9",
+  "batch-07": "a28cfca0f2ef3d1c4",
+  "batch-08": "a3f04db40ed1bb47e",
+  "batch-09": "a942de837fb494861",
+  "batch-10": "a6323cabd6a92edea",
+  "batch-11": "a1014254ae91e0f4d"
+ },
+ "failed_network": {
+  "batch-01": "a5d62d25dd32492f1",
+  "batch-02": "af9b31916a3a800f5",
+  "batch-03": "a84804f4274542280",
+  "batch-04": "abf57664203a20023",
+  "batch-05": "a3e00785f6a6a68ee",
+  "batch-06": "a24af30f1005d56a9",
+  "batch-07": "a706d307c85ca7e41",
+  "batch-08": "a05f3e27fedcadb34",
+  "batch-09": "a8ab48678a4f956a8",
+  "batch-10": "a5894c0da4049efe6",
+  "batch-11": "ac195f8b3fa4489e8"
+ }
+}

@@ -1,7 +1,8 @@
 ---
-title: "'Commentary on Precious Qualities: Entering the True Intent of the Buddha''s Mother' — DharmaMitra zero-shot (modern chinese)"
+title: 寶德藏般若波羅蜜經釋：趣入佛母真實意趣之善說
 track: DharmaMitra zero-shot (modern chinese)
 title_original: ཡོན་ཏན་རིན་ཆེན་སྡུད་པའི་འགྲེལ་པ་རྒྱལ་བའི་ཡུམ་གྱི་དགོངས་དོན་ལ་ཕྱིན་ཅི་མ་ལོག་པར་འཇུག་པའི་ལེགས་བཤད།
+title_source: "machine: DharmaMitra cat-translate of the work's own title block (^0-1), 2026-10-04; titles are unique per language on the library, so the Tibetan text's English title is not reused"
 language: Chinese
 lang_tag: zh
 file_type: translation
@@ -9,9 +10,10 @@ track_type: machine-baseline
 root_text: 1-SOURCES/Commentaries/bo-mipham-lekshe.md
 translation_of_text_id: null
 translation_of_edition_id: null
-text_id:
-edition_id:
-toc_id:
+text_id: elc7z1WjSJAjFj6uEL91C
+edition_id: DalByNCUPchXcpDYTBGqC
+toc_id: 7VOeXyBrJ9YD2wAoQB2Yp
+aligned_to_edition_id: YCKyUC49HFugzN4pc6Vil
 category_id: uGpinx0GZlvU1uw44RyYS
 license: public
 translator: dharmamitra cat-translate v1
@@ -23,8 +25,8 @@ generator: dharmamitra cat-translate v1
 endpoint: https://dharmamitra.org/api-search/cat-translate/v1/translate
 focus: tibetan
 context_blocks: 3
-batching: <=3 blocks/call, <=900 src chars, <=6000 payload chars
-style_instruction: "This is a section heading from the topical outline (sa bcad) of a Tibetan Buddhist commentary on the Verse Summary of the Perfection of Wisdom. Translate it into modern written Chinese in Traditional characters as a short heading: one line only, no sentence, no commentary, no explanation, no quotation marks. Keep any leading numeral exactly as it is. Use established Chinese Buddhist terms."
+batching: <=1 blocks/call, <=900 src chars, <=6000 payload chars
+style_instruction: "Translate this passage of a Tibetan Buddhist commentary on the Verse Summary of the Perfection of Wisdom (Ratnaguṇasañcayagāthā, 佛母寶德藏般若波羅蜜經) into clear modern written Chinese in Traditional characters. Translate the whole passage completely and in the same order: do not summarise, shorten or omit anything, and keep the same number of lines as the source. Use plain modern vocabulary and grammar, not classical Chinese. Use the established Chinese Buddhist terms where they exist (般若波羅蜜多, 菩薩, 須菩提, 舍利子, 彌勒, 空性). Where the commentary quotes or glosses words of the root verses, keep those quoted words recognisable. Never write Tibetan script in the translation: render every quoted word or phrase of the root verses in Chinese, inside 「」, and never repeat the Tibetan original. Use full-width Chinese punctuation. Do not add commentary, notes, or explanation of your own."
 rails_used: none
 generated: 2026-10-04
 blocks_translated: 487
@@ -34,7 +36,7 @@ note: Machine baseline — not a rails-governed translation. Every line below is
 status: draft
 ---
 
-# 'Commentary on Precious Qualities: Entering the True Intent of the Buddha''s Mother' — DharmaMitra zero-shot (modern chinese) ^0
+# 寶德藏般若波羅蜜經釋：趣入佛母真實意趣之善說 ^0
 
 ![[bo-mipham-lekshe#^0-1]]
 
@@ -626,21 +628,21 @@ status: draft
 
 ![[bo-mipham-lekshe#^1-94]]
 
-生起僅僅寂滅之安樂。第一部分，即「རྒྱལ་བའི་ཤེས་རབ་」（勝者之般若）等兩句偈頌。此「རྒྱལ་བའི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་」（勝者般若波羅蜜多）即是「རིག་སྔགས་ཆེན་པོ་」（大明咒）或「རིག་སྔགས་བླ་ན་མེད་པ་」（無上明咒）。關於「རིག་སྔགས་」（明咒，vidyā/mantra），依據「མནྟྲ」（mantra）之語義，意指藉由明覺與智慧而能迅速救護；在所有此類明咒之方便法門中，此法最為殊勝，因為它能使眾生無量界中，所有屬於心之憂惱與身之痛苦的一切現象，皆能永恆地「ཞི་བར་བྱེད་པ」（寂滅）。此即成為「རྒྱལ་པོ་བླ་ན་མེད་པར་གྱུར་པ་」（無上之王）。 ^1-94
+生起僅僅寂滅之安樂。第一部分，即「大明般若諸佛母」等二句。此「大明般若諸佛母」之波羅蜜多，乃是大明咒或無上明咒。所謂「明咒」，依據mantra之語義，意指藉由明覺與智慧而能輕易救護；在所有此類明咒之方便中，此法最為殊勝，因為它能使無量眾生界中，一切屬於心之憂惱與身之痛苦的現象，皆能永恆寂滅。此即成為無上之明咒王。 ^1-94
 
 ###### 三世諸佛示現大寂滅果位之理 ^1-3-2-2-1-1-2-3-1-2-2-1-1-1-2-0
 
 ![[bo-mipham-lekshe#^1-95]]
 
-第二部分，即「གང་དག་ཕན་」（凡利益）等兩句偈頌。凡是致力於利益一切眾生，並具備慈悲心、實踐普賢行願的菩薩們，在修習此「རིག་སྔགས་ཆེན་པོ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་」（大明咒般若波羅蜜多）之後，這些智者將於未來之世，證得無上正等菩提而成就佛果。
-生起世間與寂滅二者之安樂的方式。 ^1-95
+第二部分，即「行般若行利有情」等二句。凡是透過實踐而利益一切眾生，且具備慈悲心、修持普賢行願的菩薩們，亦皆須學習此大明咒——般若波羅蜜多；經由此學習而通達者，彼等將於未來之時，證得無上正等正覺而成佛。
+生起世間與寂滅二者之安樂。 ^1-95
 
 ###### 世間與寂滅二者安樂生起之理 ^1-3-2-2-1-1-2-3-1-2-2-1-1-2-0
 
 ![[bo-mipham-lekshe#^1-96]]
 
-第二部分，即「འདུས་བྱས་བདེ་དང་」（有為之安樂）等兩句偈頌。所謂「འདུས་བྱས་འཁོར་བའི་བདེ་བ་」（有為輪迴之安樂）與「འདུས་མ་བྱས་རྣམ་གྲོལ་གྱི་བདེ་བ་」（無為解脫之安樂），應當了知，這一切輪迴與涅槃的安樂，皆是從作為一切諸法之基礎或心要的「ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་」（般若波羅蜜多）所生起。
-以此為例進行說明。 ^1-96
+第二部分，即「有為無為諸快樂」等二句。所謂「有為」輪迴之安樂，以及「無為」解脫之安樂，凡此輪迴與涅槃之安樂，皆應了知是從此如諸法之基石或心髓般的般若波羅蜜多中生起。
+舉其譬喻。 ^1-96
 
 ###### 舉例說明 ^1-3-2-2-1-1-2-3-1-2-2-1-2-0
 
@@ -652,13 +654,13 @@ status: draft
 
 ![[bo-mipham-lekshe#^1-98]]
 
-第一部分，即「ས་བོན་བཏབ་ནས་」（播下種子）等一偈。關於作為一切道與果之功德基礎的譬喻，正如「ས་བོན་བཏབ་ནས་ས་ལ་གནས་ཏེ་མྱུ་གུ་སོགས་འབྱུང་བར་འགྱུར་བ་དེ་དག」（播下種子，依於大地，而生長出芽苗等），在獲得各自的因與緣之聚合後，顯現出多種形態，同樣地，一切五「ཕ་རོལ་ཏུ་ཕྱིན་པ་」（波羅蜜多）之道，以及一切「བྱང་ཆུབ་」（菩提）果之功德，皆是從「ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་」（般若波羅蜜多）所生。若能以「འཁོར་གསུམ་མི་རྟོག་པའི་ཤེས་རབ་」（三輪體空之般若）攝持布施等行，便能成為正確的修行之道，且與其究竟之果，構成互為因果、缺一不可的關聯。此外，從證悟「དེ་ཁོ་ན་ཉིད་」（真如）的般若中，能成就「རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་」（一切相智）；藉由該智慧，能無誤地開示因果諸法，從而直接或間接地生起一切善根。 ^1-98
+第一，關於「譬如大地植諸種」等一偈。若要說明作為一切道與果之功德的基礎，其譬喻為何：譬如種子播下後，安住於大地之中，隨即生出芽苗等物，這些芽苗在獲得各自的因緣聚合後，便會顯現出多種形態；同樣地，五波羅蜜多之道以及一切證得菩提之果的功德，皆是從般若波羅蜜多中生起。若能以三輪體空之般若攝持布施等善行，便能成為真實的正道，且此道與最終之果，若無般若則無法生起，故兩者互為關聯。此外，藉由證悟真實義之般若，便能成就一切種智；而以此智慧，能無誤地開示一切因果之法，由此直接或間接地，便能生起一切善根。 ^1-98
 
 ###### 以轉輪聖王為喻說明一切功德隨順此理之理 ^1-3-2-2-1-1-2-3-1-2-2-1-2-2-0
 
 ![[bo-mipham-lekshe#^1-99]]
 
-第二部分，即「འཁོར་ལོས་སྒྱུར་རྒྱལ་」（轉輪聖王）等一偈。正如「འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོ་ལམ་གང་ཞིག་ནས་ནི་རྟག་ཏུ་འགྲོ་བ་ཡི་ལམ་དེ་ཉིད་ནས་རྒྱལ་སྲིད་རིན་པོ་ཆེ་བདུན་དང་དཔུང་གི་ཚོགས་བཞི་པོ་ཀུན་ཀྱང་འགྲོ་བ་བཞིན་དུ」（轉輪聖王所行之處，七寶與四軍亦隨之而行），在補特伽羅的相續與修道階段中，凡是存在或運行「རྒྱལ་བའི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་」（諸佛般若波羅蜜多）之處，一切作為因的「འཁོར་གསུམ་དག་པའི་དགེ་རྩ」（三輪清淨之善根）以及作為果的「ལམ་དང་འབྲས་བུའི་ཡོན་ཏན་གྱི་ཆོས」（道與果之功德諸法）皆會隨之而行；因為證悟此般若，便能攝持並增長一切白法，直至圓滿究竟。 ^1-99
+第二，關於「又如輪王出行時」等一偈。正如轉輪聖王恆常行進於哪一條道路，其七寶與四軍亦隨之而行；同樣地，在修行者的心續與修道階段中，凡是有此「大明般若諸佛母」存在或運作之處，一切因位三輪清淨之善根，以及果位之法，即一切道與果之功德，皆會隨之而行。因為證悟此般若，便能攝持並增長一切白法，直至圓滿究竟。 ^1-99
 
 ###### 修學佛母而獲供養舍利等之理 ^1-3-2-2-1-1-2-3-1-2-2-2-0
 
@@ -670,13 +672,13 @@ status: draft
 
 ![[bo-mipham-lekshe#^1-101]]
 
-第一部分，即「རྒྱལ་བས་བརྒྱ་བྱིན་」（佛陀對帝釋天）等一偈。佛陀對帝釋天提出詢問並給予回答，內容為：若有等同恆河沙數之佛國土，且此等國土皆以佛陀舍利填滿，毫無空隙，堆積如山；若將此與書寫於經卷之般若波羅蜜多二者相比，應當選擇何者？帝釋天，我將選擇此書寫般若波羅蜜多之經卷。 ^1-101
+第一，關於「帝釋有疑問佛曰」等一偈。這是佛陀向帝釋提出問題，而帝釋所作的回答：若有恆河沙數般多的佛國土，且這些國土中皆充滿了佛陀的舍利，堆疊得滿滿當當、毫無空隙；若將此與書寫於經卷中的「般若波羅蜜多」兩者相比，問應當選擇哪一個？帝釋回答說：我會選擇這部書寫於經卷中的「般若波羅蜜多」。 ^1-101
 
 ###### 以譬喻說明其緣由 ^1-3-2-2-1-1-2-3-1-2-2-2-2-0
 
 ![[bo-mipham-lekshe#^1-102]]
 
-第二部分，即「ཅི་སླད་ཅེ་ན」（何故）等三偈。若問：既然透過供養舍利等方式，能產生無盡的福德，為何還要捨棄那些數量眾多的舍利，而選擇此般若波羅蜜多呢？這並非是我對舍利不恭敬，我對舍利亦極為恭敬；然而選擇般若波羅蜜多的原因在於，正是因為有此般若，才使得那些舍利成為值得供養的對象。譬如，依止國王的人，亦會受到他人的禮敬；同樣地，具備大功德的佛陀舍利，也是依止般若波羅蜜多才成為那樣的。若問：既然佛陀已入涅槃，現前已無作為，那麼般若波羅蜜多憑藉什麼力量，使得舍利成為值得供養的對象呢？譬如，能賜予所欲、具足一切功德且價值無量的如意寶，被安置在匣子等容器之中，世人對該容器亦會生起恭敬；即便如意寶已從容器中取出，人們見到曾安置如意寶的匣子，仍會心生歡喜，認為這是安置如意寶的容器，與其他容器不同，並對該容器生起如是功德之感，這其實是源於如意寶的緣故。同樣地，正是因為般若波羅蜜多這一殊勝珍寶的功德，使得佛陀雖已入涅槃，但作為其容器般的舍利，亦能獲得供養。基於此種道理，任何希求並欲受持佛陀無量功德的人，都應當受持此般若波羅蜜多，因為它能使人解脫一切相的束縛與障礙，是無上的解脫本質。 ^1-102
+第二，關於「如是了知般若已」等三偈。為何放著能產生無盡福德、數量眾多的舍利不去供養，反而要選擇這部「般若波羅蜜多」呢？這並非是我對佛陀舍利不恭敬，我當然是恭敬的，但之所以選擇「般若波羅蜜多」，其理由在於：正是因為有此般若的薰習，才使得那些舍利成為值得供養的對象。譬如依附於國王的人，也能因此獲得他人的禮遇；同樣地，佛陀舍利之所以具備廣大功德，也是因為依止了「般若波羅蜜多」才得以成就。若問：既然佛陀已入涅槃，如今已無造作，那麼依憑「般若波羅蜜多」的力量，舍利又如何能受供養呢？這就像如意寶珠具備能賜予一切所求的功德，且價值無量，無論將其置於何種容器或寶匣之中，在世間都是值得禮敬的；即便寶珠是從容器中取出，人們對於曾經盛裝寶珠的寶匣，仍會因為想到「這是盛裝如意寶珠的容器」而感到歡喜，並視其與眾不同，而寶匣之所以能獲得那樣的功德，正是源於那顆如意寶珠。同樣地，正是因為「般若波羅蜜多」這無上寶珠的功德，使得即便佛陀已入涅槃，其如同容器般的舍利也能獲得供養。基於這個道理，任何渴望並希求受持佛陀無量功德的人，都應當受持這部「般若波羅蜜多」，因為它能使人解脫一切相的束縛與障礙，是無上的解脫本質。 ^1-102
 
 ###### 修學佛母使餘善根轉為波羅蜜多之理 ^1-3-2-2-1-1-2-3-1-2-2-3-0
 

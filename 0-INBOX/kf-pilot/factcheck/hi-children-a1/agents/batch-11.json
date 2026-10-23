@@ -1,0 +1,249 @@
+{
+ "batch": "batch-11",
+ "segments": [
+  {
+   "id": "5-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-93",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "दस शक्तियाँ वाले मार्ग पर टिके रहने से",
+     "evidence": "Academic: because of abiding in the range (gochara) of the Ten Powers; the children's phrase is ungrammatical and turns \"range of the Ten Powers\" into a vague \"path\".",
+     "fix": "दस शक्तियों के दायरे में टिके रहने से"
+    }
+   ]
+  },
+  {
+   "id": "5-94",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "शान्ति देने वाली उत्तम बोधि के लिए सब कुछ समर्पित करना चाहता है",
+     "evidence": "Academic: dedicates (parinamana) to the supreme bodhi that is of the nature of peace; the text does not say bodhi \"gives\" peace, nor \"everything\", nor merely \"wants\" to dedicate.",
+     "fix": "जो शान्ति-रूप उत्तम बोधि के लिए अपना अच्छा काम समर्पित करता है"
+    }
+   ]
+  },
+  {
+   "id": "5-95",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "अच्छे गुण वालों के अच्छा आचरण का अर्थ है",
+     "evidence": "Ungrammatical (\"अच्छा आचरण का\"); academic: this is the meaning of good conduct of those endowed with such qualities.",
+     "fix": "अच्छे गुण वालों के अच्छे आचरण का यही अर्थ है"
+    }
+   ]
+  },
+  {
+   "id": "5-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-97",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "इस तरह की बोधि पाने की इच्छा जगाना",
+     "evidence": "Academic: that mental generation (of the wish for arhat/pratyekabuddha state) is heavier than a defeat; \"this kind of bodhi\" is vague and could be read as the bodhisattva's aspiration being the fault.",
+     "fix": "अरहत या अकेला बुद्ध बनने की ऐसी इच्छा जगाना"
+    }
+   ]
+  },
+  {
+   "id": "5-98",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Academic: he is not proud \"because of it\" (his keeping of conduct and dedication); the children's text drops that the pride would be about his own good conduct.",
+     "fix": "उसमें इस आचरण के कारण अपने को बड़ा समझना नहीं होता"
+    }
+   ]
+  },
+  {
+   "id": "5-99",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "सुभूति,",
+     "evidence": "No addressee is named in the Tibetan or the academic translation; the name Subhuti is invented.",
+     "fix": "अगर कोई बोधि-वीर विजेताओं का रास्ता अपनाकर चलता है"
+    }
+   ]
+  },
+  {
+   "id": "5-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-101",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "कोई भेद नहीं करता",
+     "evidence": "Academic: he is free of expectation/dependence (apeksha-rahita) toward all, dear and not dear; \"makes no distinction\" is a different idea.",
+     "fix": "वह प्यारी और न प्यारी लगने वाली सभी चीज़ों से कोई उम्मीद नहीं रखता"
+    }
+   ]
+  },
+  {
+   "id": "5-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-106",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Academic: even a little giving becomes much and immeasurable (apramey); \"immeasurable\" is dropped.",
+     "fix": "उसका थोड़ा दान भी बहुत और अनगिनत हो जाता है"
+    }
+   ]
+  },
+  {
+   "id": "5-107",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "मान लो कि तीन तरह के जीवन में रहने वाले सभी जीव एक साथ मिल जाएँ",
+     "evidence": "Academic: taking all beings of the three existences without remainder to the utmost limit of imagination; the children's text drops this and adds \"come together\" and \"with a sincere mind\".",
+     "fix": "मान लो कि तीन तरह के जीवन के सारे जीव, कल्पना की आख़िरी हद तक, हों"
+    }
+   ]
+  },
+  {
+   "id": "5-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-110",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "उस वस्तु से कोई लगाव या कंजूसी नहीं रखता",
+     "evidence": "Academic: he does not make it \"mine\" (mamakara) and has no stinginess or attachment to the object; also the gift is to the beings of the world (plural), not \"a being\".",
+     "fix": "उसे \"मेरा\" नहीं मानता और उस वस्तु से कंजूसी या लगाव नहीं रखता"
+    }
+   ]
+  },
+  {
+   "id": "6-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "अभ्यास करते समय उसे बहुत सारे सुख मिलते हैं",
+     "evidence": "Academic: during practice he obtains endless and abundant enjoyments/possessions (bhoga), not \"pleasures\"; \"endless\" is lost.",
+     "fix": "अभ्यास करते समय उसे अनन्त और बहुत सारे भोग मिलते हैं"
+    }
+   ]
+  },
+  {
+   "id": "6-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "बुरी इच्छाओं को छोड़ देता है",
+     "evidence": "Academic: he gives up the blameworthy sense pleasures (kamaguna), not \"bad wishes\".",
+     "fix": "निन्दनीय इन्द्रियों के सुखों को छोड़ देता है"
+    }
+   ]
+  },
+  {
+   "id": "6-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "इसका नाम 'अनमोल अच्छे गुणों का संग्रह' है",
+     "evidence": "Academic: the name is \"Ratnagunasamcaya\" (the) path to awakening; the words \"bodhi path\" in the title are dropped.",
+     "fix": "इसका नाम 'अनमोल अच्छे गुणों का संग्रह', यानी बोधि का रास्ता है"
+    }
+   ]
+  },
+  {
+   "id": "8-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-4",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

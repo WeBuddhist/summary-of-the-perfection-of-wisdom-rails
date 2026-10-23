@@ -1,1 +1,113 @@
-{}
+{
+  "bo-khenrab-jamyang-norbu-dronme": {
+    "aligned_to_edition_id": "fYnGwQC4fH8Fa37vLUiXD",
+    "edition_id": "XrpxAzolbpvumskOMRgPE",
+    "file_type": "commentary",
+    "lang_tag": "bo",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "XXt9Dk1Vq8DC6WC5Rc7r3",
+        "ts": "2026-10-04T16:46:28"
+      },
+      {
+        "chars": 320465,
+        "edition_id": "XrpxAzolbpvumskOMRgPE",
+        "segments": 349,
+        "step": "edition",
+        "ts": "2026-10-04T16:46:30"
+      },
+      {
+        "nodes": 144,
+        "step": "toc",
+        "toc_id": "HvuKeHcej5Ibq92g3tP5U",
+        "ts": "2026-10-04T16:46:31"
+      },
+      {
+        "pairs": 461,
+        "root_edition_id": "fYnGwQC4fH8Fa37vLUiXD",
+        "step": "alignment",
+        "ts": "2026-10-04T16:46:44"
+      }
+    ],
+    "root_edition_id": "fYnGwQC4fH8Fa37vLUiXD",
+    "root_text_id": "U5FlKUlLLtS1zo4n0EGZL",
+    "source_file": "1-SOURCES/Commentaries/bo-khenrab-jamyang-norbu-dronme.md",
+    "text_id": "XXt9Dk1Vq8DC6WC5Rc7r3",
+    "toc_id": "HvuKeHcej5Ibq92g3tP5U"
+  },
+  "bo-mipham-lekshe": {
+    "aligned_to_edition_id": "fYnGwQC4fH8Fa37vLUiXD",
+    "edition_id": "YCKyUC49HFugzN4pc6Vil",
+    "file_type": "commentary",
+    "lang_tag": "bo",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "6X1M2KQ9hE6QAT66zI7wA",
+        "ts": "2026-10-04T15:48:19"
+      },
+      {
+        "chars": 243674,
+        "edition_id": "YCKyUC49HFugzN4pc6Vil",
+        "segments": 487,
+        "step": "edition",
+        "ts": "2026-10-04T15:48:20"
+      },
+      {
+        "nodes": 454,
+        "step": "toc",
+        "toc_id": "6sHUDb85GwtKzbWI2yS3i",
+        "ts": "2026-10-04T15:48:22"
+      },
+      {
+        "pairs": 591,
+        "root_edition_id": "fYnGwQC4fH8Fa37vLUiXD",
+        "step": "alignment",
+        "ts": "2026-10-04T15:48:23"
+      }
+    ],
+    "root_edition_id": "fYnGwQC4fH8Fa37vLUiXD",
+    "root_text_id": "U5FlKUlLLtS1zo4n0EGZL",
+    "source_file": "1-SOURCES/Commentaries/bo-mipham-lekshe.md",
+    "text_id": "6X1M2KQ9hE6QAT66zI7wA",
+    "toc_id": "6sHUDb85GwtKzbWI2yS3i"
+  },
+  "bo-rangjung-dorje-tika": {
+    "aligned_to_edition_id": "fYnGwQC4fH8Fa37vLUiXD",
+    "edition_id": "ci7Jb2KSZmoa85SM4uO55",
+    "file_type": "commentary",
+    "lang_tag": "bo",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "Tk0SWpg6ptoBZyWot3DmU",
+        "ts": "2026-10-04T15:49:05"
+      },
+      {
+        "chars": 135322,
+        "edition_id": "ci7Jb2KSZmoa85SM4uO55",
+        "segments": 323,
+        "step": "edition",
+        "ts": "2026-10-04T15:49:07"
+      },
+      {
+        "nodes": 318,
+        "step": "toc",
+        "toc_id": "hviXQcWbT80LtZ8g29zFg",
+        "ts": "2026-10-04T15:49:08"
+      },
+      {
+        "pairs": 474,
+        "root_edition_id": "fYnGwQC4fH8Fa37vLUiXD",
+        "step": "alignment",
+        "ts": "2026-10-04T15:49:10"
+      }
+    ],
+    "root_edition_id": "fYnGwQC4fH8Fa37vLUiXD",
+    "root_text_id": "U5FlKUlLLtS1zo4n0EGZL",
+    "source_file": "1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md",
+    "text_id": "Tk0SWpg6ptoBZyWot3DmU",
+    "toc_id": "hviXQcWbT80LtZ8g29zFg"
+  }
+}

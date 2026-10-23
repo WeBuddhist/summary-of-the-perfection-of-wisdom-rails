@@ -1,0 +1,168 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "2-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "魔與魔黨等黨類",
+     "evidence": "Tibetan \"བདུད་དང་བདུད་ཀྱི་ཕྱོགས་ཀྱིས\" is simply \"Māra and Māra's faction\" (locked: བདུད་ཀྱི་ཕྱོགས = 魔黨). The translation stacks the locked terms for བདུད་ཀྱི་ཕྱོགས (魔黨) and ཕྱོགས (黨類) and adds \"等\", producing a redundant, slightly list-like phrase not in the Tibetan.",
+     "fix": "魔與魔黨亦無法尋得其可乘之機"
+    }
+   ]
+  },
+  {
+   "id": "2-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-16",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "於三世供養一劫或更長時",
+     "evidence": "Tibetan \"བྱུག་པས་དུས་གསུམ་བསྐལ་པའམ་དེ་བས་ལྷག་མཆོད\" — དུས་གསུམ here is the three times of the day, not the three times past/present/future. bo-mipham 2-15 glosses it \"ཉིན་མཚན་རེ་རེ་ཞིང་དུས་གསུམ་དུ་མ་ཆག་པར\" (at three times every day and night without break), and bo-rangjung 2-15 \"དུས་སྔ་དྲོ་གུང་ཕྱི་དྲོ་གསུམ\" (morning, noon, afternoon). english_academic has \"three times of each day\". Rendering with the locked 三世 changes the meaning of the offering schedule (the locked term does not fit this context).",
+     "fix": "於每日三時供養一劫或更長時"
+    },
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "遍計假定",
+     "evidence": "Tibetan \"ཡོངས་སུ་བརྟག་བཟུང་\" is glossed in bo-mipham 2-15 as \"ཡོངས་སུ་བརྟག་པ་བཟུང་བའི་དཔེར་བྱ་ན\" (taking it as a supposition/example). 遍計 is the Yogācāra technical term for parikalpita (imputation), which misleads here; the sense is a hypothetical supposition.",
+     "fix": "設想"
+    }
+   ]
+  },
+  {
+   "id": "2-17",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "亦即佛母",
+     "evidence": "Tibetan \"བདེ་བར་གཤེགས་ཀྱི་ཡུམ་འདི\" is just \"this Mother of the Sugatas\" (locked: 善逝之母); the added \"亦即佛母\" (from the separate locked entry ཡུམ) is not in the Tibetan and redundant.",
+     "fix": "將此善逝之母書寫於經卷"
+    }
+   ]
+  },
+  {
+   "id": "2-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-20",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "獲得聚合完全生出眾多形色",
+     "evidence": "Tibetan \"ཚོགས་པ་རྙེད་ནས་རྣམ་མང་གཟུགས་དག་རྣམ་པར་སྐྱེ\": bo-mipham 2-20 specifies \"རང་རང་གི་རྒྱུ་དང་རྐྱེན་གྱི་ཚོགས་པ་རྙེད་ནས\" (obtaining the assembly of their respective causes and conditions); bo-khenrab 2-20 likewise. \"獲得聚合\" leaves the assembled thing unspecified, and \"完全\" is added for རྣམ་པར་ (which here only means \"arise/grow\", Skt. virohanti).",
+     "fix": "遇得因緣聚合，眾多形色即得生起"
+    }
+   ]
+  },
+  {
+   "id": "2-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "縱使化為如恆河沙數之佛剎土",
+     "evidence": "Locked: སངས་རྒྱས་ཞིང = 佛剎 (the translation uses 佛剎土, mixing in ཞིང = 剎土). Also \"化為\" (transformed into) adds a notion of transformation; bo-mipham 2-22 reads \"སངས་རྒྱས་ཀྱི་ཞིང་དུ་གྱུར་པ\" simply as \"being buddha-fields equal in number to the Ganges sands\".",
+     "fix": "縱使有如恆河沙數之佛剎"
+    }
+   ]
+  },
+  {
+   "id": "2-23",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "然因遍修般若之故而受供養",
+     "evidence": "Tibetan \"ཤེས་རབ་ཡོངས་སུ་བསྒོམས་པས་མཆོད་པར་བགྱིད\" has Śakra as the agent (\"I make offerings\"). bo-mipham 2-23 explains \"ཤེས་རབ་འདི་ལྟ་བུས་ཡོངས་སུ་བསྒོས་པས་སྐུ་གདུང་དེ་དག་ཀྱང་མཆོད་པར་བགྱིད་པའི་འོས་སུ་གྱུར\" and bo-khenrab 2-23 \"ཡོངས་སུ་ཟིན་ཅིང་བསྒོས་པས\", i.e. the relics are pervaded by wisdom. The translation drops the first-person agent and leaves unclear who cultivates wisdom (the relics are the object permeated by it).",
+     "fix": "然因（舍利）為般若所遍熏，故我供養之"
+    }
+   ]
+  },
+  {
+   "id": "2-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-27",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "千萬樹木",
+     "evidence": "Tibetan \"ཤིང་རྣམས་བྱེ་བ་སྟོང་\" is thousands of koṭis (Skt. sahasrakoṭī; bo-mipham 2-27 \"བྱེ་བ་སྟོང་ཕྲག་དུ་མ\"). 千萬 is only ten million and understates the number; elsewhere (2-15) the translation correctly uses 千俱胝 for བྱེ་བ་ཕྲག་སྟོང.",
+     "fix": "千俱胝樹木"
+    }
+   ]
+  },
+  {
+   "id": "2-28",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

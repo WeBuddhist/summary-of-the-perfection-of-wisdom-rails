@@ -1,0 +1,209 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "4-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "生下了世界的老師、大師與得勝者",
+     "evidence": "The Tibetan/academic text names one group in apposition: the teachers of the world, the victors. The children's text reads as three separate kinds of beings.",
+     "fix": "她就像母親一樣，生下了得勝者，也就是世界的老師、大師。"
+    }
+   ]
+  },
+  {
+   "id": "4-23",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "（也就是得勝者的孩子眼中事物的真正樣貌）",
+     "evidence": "The parenthetical repeats the same phrase, and the long list of four 'true nature' phrases is hard for ages 8-12. Meaning is intact.",
+     "fix": "把四種人眼中的樣貌分成短句列出，並刪去括號裡重複的解釋。"
+    }
+   ]
+  },
+  {
+   "id": "4-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-31",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "菩薩了解事物的本性也是這樣。他哪裡都不去",
+     "evidence": "The subject that goes nowhere yet gathers all qualities of the buddha grounds is the bodhisattva's dharmata (nature of things). The children's text makes the bodhisattva the one who 'understands' it and adds that idea.",
+     "fix": "菩薩的本性（事物的本性）也是這樣，哪裡都不去，卻能收集佛的階段所有的美好的品質。"
+    }
+   ]
+  },
+  {
+   "id": "4-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-35",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "這些巧妙的方法的美好的品質",
+     "evidence": "Stacked possessives are tangled for children; the academic text says the qualities of skillful means are fully embraced by wisdom.",
+     "fix": "如果這些靠巧妙的方法得來的美好品質，都被智慧完全包住、守護著。"
+    }
+   ]
+  },
+  {
+   "id": "4-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-37",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "超越前面的兩個階段",
+     "evidence": "The two grounds are the hearers' and solitary realizers' grounds; 'front two stages' leaves them unidentified and adds 'front'.",
+     "fix": "就能完全超越聽法的弟子和獨自覺悟的人這兩個階段。"
+    }
+   ]
+  },
+  {
+   "id": "4-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-39",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "如果沒有智慧，就會失去覺悟",
+     "evidence": "The text says that without wisdom one quickly falls away from awakening; the speed is dropped.",
+     "fix": "如果沒有智慧，很快就會失去覺悟。"
+    }
+   ]
+  },
+  {
+   "id": "4-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-44",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "也不要執著於最高的",
+     "evidence": "'Do not cling to awakening as a heap/aggregate and make it supreme' is one prohibition; the children's text splits it and leaves 'the highest' dangling and unclear.",
+     "fix": "不要把覺悟當成一堆東西來貪戀，也不要把它當成最高的而緊抓不放。"
+    }
+   ]
+  },
+  {
+   "id": "4-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "他們沒有關於三乘的想法",
+     "evidence": "'Three vehicles' is left unexplained for ages 8-12; the text says they have no fixed notion of the three paths.",
+     "fix": "他們不會緊抓著聽法的弟子、獨自覺悟的人和菩薩這三條道路的想法。"
+    }
+   ]
+  },
+  {
+   "id": "4-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-49",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

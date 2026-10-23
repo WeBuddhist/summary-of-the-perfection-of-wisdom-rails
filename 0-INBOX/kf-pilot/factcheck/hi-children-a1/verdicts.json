@@ -1,0 +1,2736 @@
+[
+ {
+  "id": "0-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "वे उसे समझते हैं",
+    "evidence": "Academic translation: having realized it directly (sakshat karke), they teach as they learned; 'understand' loses the direct realization.",
+    "fix": "उसे खुद अनुभव करके जैसा सीखा है वैसा ही सिखाते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "1-4",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "जिसे सबसे बड़ी पूर्ण प्रज्ञा नहीं मिलती है। जिसे बोधि-वीर नहीं मिलता और बोधि पाने की इच्छा भी नहीं मिलती है।",
+    "evidence": "Text says perfect wisdom, bodhisattva and the wish for awakening are not apprehended (anupalabdha, not found as real things). 'Does not get/find' reads as the person lacking wisdom or failing to attain it.",
+    "fix": "जो सबसे बड़ी पूर्ण प्रज्ञा को भी असली चीज़ की तरह नहीं पकड़ता, बोधि-वीर को भी नहीं, और बोधि पाने की इच्छा को भी नहीं।"
+   }
+  ]
+ },
+ {
+  "id": "1-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-6",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "major",
+    "span": "—",
+    "evidence": "Academic translation: through the knowledge of the wanderer Shreni, the unfindable aggregates are dissolved/destroyed (vinasha); the children's text drops the dissolution and only says the aggregates are not found.",
+    "fix": "जैसे श्रेणिक नाम के घूमने वाले साधक के ज्ञान से ढेर सच में न मिलकर बिखर जाते हैं।"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "दुख से परे शान्ति को पकड़कर नहीं रुकता। वह हमेशा प्रज्ञा में टिका रहता है।",
+    "evidence": "Text: he does not touch nirvana; he abides in wisdom. 'Clinging and stopping' and 'always' are not in the source.",
+    "fix": "वह दुख से परे शान्ति को छूता नहीं, वह प्रज्ञा में टिका रहता है।"
+   }
+  ]
+ },
+ {
+  "id": "1-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-8",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उसे कभी न जन्मा हुआ स्थान पर विश्वास नहीं है।",
+    "evidence": "Ungrammatical postposition; source: not faithful/trusting toward the unborn state.",
+    "fix": "उसे कभी न जन्मे हुए स्थान पर भरोसा नहीं है।"
+   }
+  ]
+ },
+ {
+  "id": "1-9",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "सिर्फ प्रज्ञा का सहारा लेता है",
+    "evidence": "Source: relies on wisdom; there is no 'only'.",
+    "fix": "प्रज्ञा का सहारा लेता है"
+   }
+  ]
+ },
+ {
+  "id": "1-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-14",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "किसी बुरा दोस्त के साथ",
+    "evidence": "Ungrammatical agreement (locked term inflected wrongly); source: one who keeps bad friends.",
+    "fix": "किसी बुरे दोस्त के साथ"
+   }
+  ]
+ },
+ {
+  "id": "1-15",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "सबके लिए मोह खत्म करना चाहता है",
+    "evidence": "Locked term for attachment (chags pa) is 'चिपके रहना'; 'मोह' is used instead, and 'for everyone' blurs 'attachment to all things'.",
+    "fix": "वह सब चीज़ों से चिपके रहना खत्म करना चाहता है।"
+   }
+  ]
+ },
+ {
+  "id": "1-16",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "गलत और बड़ी सोच",
+    "evidence": "Academic translation: 'great views' of the realm of beings; 'wrong' is not stated.",
+    "fix": "जीवों के क्षेत्र की बड़ी-बड़ी मान्यताओं को काट देता है"
+   }
+  ]
+ },
+ {
+  "id": "1-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-18",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "असल में कोई नहीं मरा।",
+    "evidence": "This explanatory sentence is not in the source; the text only gives the simile.",
+    "fix": "(यह वाक्य हटा दें।)"
+   },
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "भीड़ ... उनके सिर काट देता है",
+    "evidence": "Source: millions of heads of a vast crowd are cut off; the number is lost.",
+    "fix": "जादू से बड़ी भीड़ बनाता है और करोड़ों सिर काट देता है।"
+   }
+  ]
+ },
+ {
+  "id": "1-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-21",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "किसी दिशा में नहीं जाना होता",
+    "evidence": "Source: going in any direction is not found/apprehended; 'no need to go' changes this slightly.",
+    "fix": "किसी दिशा में जाना मिलता ही नहीं"
+   }
+  ]
+ },
+ {
+  "id": "1-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-27",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "एक जैसापन में टिका हुआ",
+    "evidence": "Grammatically awkward: the abstract locked term is used with 'में' without an inflected form.",
+    "fix": "उसे प्रज्ञा वाला और एक जैसेपन में टिका हुआ समझना चाहिए।"
+   }
+  ]
+ },
+ {
+  "id": "1-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-1",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "यही प्रज्ञा की सच्ची पूर्णता है",
+    "evidence": "The verse ends with a single statement 'this is the supreme practice of the Perfection of Wisdom'; the second clause splits the term and repeats the point as if a separate claim.",
+    "fix": "यह सबसे श्रेष्ठ पूर्ण प्रज्ञा का आचरण है।"
+   }
+  ]
+ },
+ {
+  "id": "2-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "ही सबसे सही है",
+    "evidence": "The text says this non-abiding abiding is what the Victor called 'abiding'; it does not call it 'the most correct'.",
+    "fix": "इस तरह बिना ठहरे ठहरना ही असली ठहरना है।"
+   }
+  ]
+ },
+ {
+  "id": "2-4",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "कुछ अकेला बुद्ध या शिक्षा का राजा बनना चाहते हैं",
+    "evidence": "Subject and object are unclear: 'कुछ' reads as an adjective of 'अकेला बुद्ध'; the text says some wish to become a solitary buddha and likewise a king of the teaching.",
+    "fix": "कुछ लोग अकेला बुद्ध या शिक्षा का राजा बनना चाहते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "2-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-7",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "पूज्य साधक का स्तर नहीं सीखते",
+    "evidence": "The text says the bodhisattva does not train IN (aiming at) the arhat level or the solitary-buddha level; 'does not learn the level' is imprecise, and the plural verb does not match the singular subject.",
+    "fix": "इस तरह चलने वाला समझदार बोधि-वीर पूज्य साधक के स्तर में नहीं सीखता, अकेले बुद्ध के स्तर में भी नहीं।"
+   }
+  ]
+ },
+ {
+  "id": "2-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-12",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "नए जीव कैसे पैदा होंगे",
+    "evidence": "The text asks how beings could arise at all, since they are pure from the beginning (no arising of beings). 'New beings' wrongly implies beings exist and only new ones fail to be born.",
+    "fix": "फिर भी जीव कैसे पैदा होंगे? वे तो शुरू से ही शुद्ध हैं।"
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "यही सच्ची पूर्णता है",
+    "evidence": "The verse ends with a single statement 'this is the supreme practice of the Perfection of Wisdom'; the extra sentence repeats it as a separate claim.",
+    "fix": "यह पूर्ण प्रज्ञा का सबसे उत्तम अभ्यास है।"
+   }
+  ]
+ },
+ {
+  "id": "2-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-15",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "करोड़ों भूमियों",
+    "evidence": "The text says 'ten-millions of thousands' (koti-sahasra) of fields, as many as the sand of the Ganges; the 'thousand' is lost.",
+    "fix": "गङ्गा की रेत जितनी करोड़ों-हज़ारों भूमियों को भर दे।"
+   }
+  ]
+ },
+ {
+  "id": "2-16",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "वे यह पूजा बीता हुआ, आज का और आने वाला समय, या एक युग से भी ज़्यादा समय तक करते रहें",
+    "evidence": "The three times (past, present, future) are inserted as if they were durations, making the sentence confusing; the text says they make offerings at the three times, for a whole eon or even longer.",
+    "fix": "वे बीते हुए, आज के और आने वाले समय में एक युग तक, या उससे भी ज़्यादा समय तक पूजा करते रहें।"
+   }
+  ]
+ },
+ {
+  "id": "2-17",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "उसे बहुत फल मिलता है",
+    "evidence": "The text does not say the person receives 'much fruit'; it only says the merit of stupa-worship is not even a fraction of the merit of honouring this book. 'फल' is also the locked term for the result of the path, not for merit.",
+    "fix": "जो कोई भली-भाँति गए हुओं की माँ को किताब में लिखकर पास रखता है और फूल चढ़ाकर आदर करता है, उसकी जमा की हुई अच्छाई के एक छोटे हिस्से के बराबर भी पवित्र स्मारक की पूजा की अच्छाई नहीं है।"
+   }
+  ]
+ },
+ {
+  "id": "2-18",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "जीवों का क्षेत्र शांत करती है और जीवों के दुख को मिटाती है",
+    "evidence": "The text says it pacifies the sorrow and suffering of the many realms of beings; the children's text makes the realm itself what is calmed and drops sorrow.",
+    "fix": "यह जीवों के कई क्षेत्रों के शोक और दुख को शांत करती है।"
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "वे सबसे महान डॉक्टर बने, और वे इलाज करने वालों का राजा बन गए",
+    "evidence": "The single phrase 'unsurpassed king of physicians' is rendered twice, as if two separate achievements.",
+    "fix": "जानने के शब्द सीखकर वे इलाज करने वालों के सबसे महान राजा बन गए।"
+   }
+  ]
+ },
+ {
+  "id": "2-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-23",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "मैं शरीर का अवशेष का आदर नहीं करता",
+    "evidence": "Ungrammatical, and the singular does not match the plural verb later ('होते हैं').",
+    "fix": "ऐसा नहीं है कि मैं शरीर के अवशेषों का आदर नहीं करता।"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "क्योंकि वे प्रज्ञा से जुड़े होते हैं",
+    "evidence": "The text says they are honoured because prajna has been fully cultivated (meditated on); 'connected with prajna' loses this.",
+    "fix": "बल्कि प्रज्ञा को पूरी तरह अपनाने के कारण ही उनकी पूजा की जाती है।"
+   }
+  ]
+ },
+ {
+  "id": "2-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-25",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "एक और बात होती है",
+    "evidence": "The academic translation says the relics of the Victors are honoured even after their nirvana because of the qualities of perfect wisdom; 'another thing happens' is vague filler that blurs this cause.",
+    "fix": "इसी तरह सबसे अच्छी पूर्ण प्रज्ञा के अच्छे गुणों के कारण, विजेताओं के दुख से परे शान्ति पा लेने के बाद भी उनके पवित्र अवशेषों की पूजा होती है।"
+   }
+  ]
+ },
+ {
+  "id": "2-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-27",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "लेकिन हम उनकी छायाओं को सिर्फ गिन सकते हैं",
+    "evidence": "The Tibetan/academic text says the shadows are not diverse and have no distinctions apart from being counted as shadows; 'we can only count them' shifts the point to our ability.",
+    "fix": "छायाओं में गिनती के सिवा और कोई फ़र्क नहीं होता। वे अलग-अलग तरह की नहीं होतीं।"
+   }
+  ]
+ },
+ {
+  "id": "2-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-29",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "वह एक बनावटी रास्ते पर चलता है",
+    "evidence": "The text says he practises a counterfeit/artificial perfection of wisdom; the children's text turns this into just a 'path' and drops the wisdom-perfection.",
+    "fix": "ऐसा करके वह नकली पूर्ण प्रज्ञा का अभ्यास करता है।"
+   }
+  ]
+ },
+ {
+  "id": "2-30",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जहाँ धारणा का न पाना हो। जहाँ जागरूकता नहीं है और जहाँ इरादे का न पाना हो।",
+    "evidence": "Sentence fragments with the awkward construction 'न पाना' are hard for ages 8-12; the academic text has one running sentence ending in the practice of perfect wisdom.",
+    "fix": "जहाँ न रूप है, न अनुभूति, और न धारणा मिलती है; न जागरूकता है, और न इरादा मिलता है। जहाँ सभी चीज़ों को 'कभी न जन्मा हुआ' और 'खाली' के रूप में ठीक से जाना जाता है, वही सबसे अच्छी पूर्ण प्रज्ञा का अभ्यास है।"
+   }
+  ]
+ },
+ {
+  "id": "2-31",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "किसी अच्छे जीव को दे",
+    "evidence": "Tibetan sems can mchog / academic 'श्रेष्ठ सत्त्व' means an excellent/supreme being, not merely a good one.",
+    "fix": "किसी सबसे श्रेष्ठ जीव को दे"
+   }
+  ]
+ },
+ {
+  "id": "2-32",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "अपने आप में",
+    "evidence": "Neither the Tibetan nor the academic translation says 'in themselves'; it states that all things are taught as emptiness.",
+    "fix": "वे सिखाते हैं कि सभी चीज़ें खालीपन हैं।"
+   }
+  ]
+ },
+ {
+  "id": "2-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-38",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "सुभूति,",
+    "evidence": "No addressee is named in the Tibetan or the academic translation.",
+    "fix": "(हटा दें) सारे श्रोता अपनी उदारता, अच्छे आचरण और ध्यान-अभ्यास से बहुत सी जमा की हुई अच्छाई बनाते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "2-39",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "सुभूति,",
+    "evidence": "No addressee is named in the Tibetan or the academic translation.",
+    "fix": "बीते समय में करोड़ों बुद्ध हुए।"
+   }
+  ]
+ },
+ {
+  "id": "2-40",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "जो भी पूर्णता और बुद्ध के गुण हैं",
+    "evidence": "The text says the merit is accompanied by (endowed with) the perfections, and the Buddha-qualities are listed alongside; the children's text turns the perfections into a separate item.",
+    "fix": "जो पूर्णताओं से जुड़ी है, और जो भी बुद्ध के गुण हैं—"
+   }
+  ]
+ },
+ {
+  "id": "2-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-42",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "सुभूति,",
+    "evidence": "No addressee is named in the Tibetan or the academic translation.",
+    "fix": "अगर समर्पित करते समय मन में यह धारणा आए कि मन, बोधि और जीव सच में हैं, तो..."
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "सच में हैं ... गलत नज़रिया",
+    "evidence": "The academic translation says only that a perception of mind, bodhi and beings arises and the mind abiding in a view clings to the three; 'truly exist' and 'wrong' are added glosses.",
+    "fix": "तो मन अपने नज़रिये में अटक जाता है और इन तीनों से चिपक जाता है।"
+   }
+  ]
+ },
+ {
+  "id": "2-43",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "एक चीज़ दूसरी चीज़ को कभी समर्पित नहीं की जा सकती",
+    "evidence": "The text says a thing never dedicates to a thing (agent and object); the passive wording is unclear, and the opening conditional is left as fragments.",
+    "fix": "कोई चीज़ कभी किसी दूसरी चीज़ को समर्पित नहीं करती। अगर कोई यह जान ले, तो उसका इस तरह अच्छे से समझना ही सच में समर्पित करना है।"
+   }
+  ]
+ },
+ {
+  "id": "2-44",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अच्छी बातों और गुणों को",
+    "evidence": "The locked term for dkar po'i chos is 'अच्छी बातें'; adding 'गुणों' double-renders it with the other sense of chos.",
+    "fix": "अच्छी बातों को पकड़ने का सहारा बनाना"
+   }
+  ]
+ },
+ {
+  "id": "2-45",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "उसे देखकर खुश होना चाहिए",
+    "evidence": "The text says to rejoice and dedicate just as the Victors know the goodness; 'seeing it' loses the standard of the Victors' knowing, and the first sentence is left as a fragment.",
+    "fix": "वे विजेता उस अच्छाई को जैसे जानते हैं, वह जिस तरह की है, जहाँ से आई है और उसकी जो खास पहचान है, उसी के अनुसार खुश होना चाहिए और उसी तरह उसे समर्पित करना चाहिए।"
+   }
+  ]
+ },
+ {
+  "id": "2-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-48",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "इनाम",
+    "evidence": "The text says the painter does not get his wage/payment; 'reward' (prize) is not the same as pay for work done.",
+    "fix": "तब तक चित्र बनाने वाले को मेहनताना नहीं मिलेगा।"
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "सुंदर",
+    "evidence": "The text says only a finished painting without eyes; 'beautiful' is added.",
+    "fix": "जैसे एक चित्र पूरा बन गया हो, लेकिन उसमें आँखें न हों।"
+   }
+  ]
+ },
+ {
+  "id": "2-49",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "कोई भी चीज़ें — चाहे वह कारणों से बना हो या कारणों से न बना हो, या अच्छी और बुरी चीज़ें हों — उनका एक कण भी न पाना होता है",
+    "evidence": "Long, tangled sentence with number/gender disagreement (चीज़ें ... वह ... बना); the academic text states that conditioned, unconditioned, white and black dharmas are not found even as an atom.",
+    "fix": "जब प्रज्ञा से जाँचने पर कारणों से बनी, कारणों से न बनी, अच्छी या बुरी, किसी भी चीज़ का एक कण भी नहीं मिलता, तब..."
+   }
+  ]
+ },
+ {
+  "id": "2-50",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "इसे सच्ची पूर्णता नहीं माना जाता।",
+    "evidence": "The text ends with 'this is not the practice of the supreme perfect wisdom'; the extra sentence about 'true perfection' repeats the point with a different claim.",
+    "fix": "(हटा दें)"
+   }
+  ]
+ },
+ {
+  "id": "2-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-52",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "बिना विश्राम का नरक",
+    "evidence": "Ungrammatical; the locked term is 'बिना विश्राम का नरक' but it needs a plain relative form.",
+    "fix": "बिना विश्राम वाले नरक में गिर जाता है"
+   }
+  ]
+ },
+ {
+  "id": "2-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-1",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "फिर भी वह मुक्ति नहीं लेता है",
+    "evidence": "The text says liberation is not attained/he is not liberated (विमुक्ति प्राप्त नहीं होती); 'नहीं लेता' makes it sound like a choice not to take liberation.",
+    "fix": "फिर भी उसे मुक्ति नहीं मिलती।"
+   }
+  ]
+ },
+ {
+  "id": "3-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-4",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "पूज्य साधक का स्तर या अकेले बुद्ध का स्तर में नहीं मिलती",
+    "evidence": "Ungrammatical postposition after the locked terms (the text: not in the arhat level, nor in the pratyekabuddha level).",
+    "fix": "यह तसल्ली पूज्य साधक के स्तर या अकेले बुद्ध के स्तर में नहीं मिलती।"
+   }
+  ]
+ },
+ {
+  "id": "4-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-6",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "वे विजेता की इस पूर्ण प्रज्ञा को सुनते हैं",
+    "evidence": "The text infers from hearing this Perfection of Wisdom that the hearer should be known as one who has entered supreme bodhi (श्रवण करने वाला जानना चाहिए); the children's text only states that those who have entered also listen, losing the 'hearing is the sign' logic.",
+    "fix": "जो विजेता की इस पूर्ण प्रज्ञा को सुनता है, उसे सबसे ऊँची बोधि के रास्ते पर चल पड़ा हुआ जानना चाहिए।"
+   }
+  ]
+ },
+ {
+  "id": "4-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-9",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "वह चीज़ें, जो चीज़ें नहीं हैं और सब चीज़ों का विस्तार भी नहीं देखता है",
+    "evidence": "Tangled phrasing of the three objects not seen: dharma, non-dharma, dharmadhatu.",
+    "fix": "वह न चीज़ों को देखता है, न उनके न होने को, और न सब चीज़ों के विस्तार को।"
+   }
+  ]
+ },
+ {
+  "id": "4-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-11",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "बोलने वालों का चाँद जैसे बुद्ध से",
+    "evidence": "'वादिचन्द्र' is an epithet of the Buddha; 'जैसे' garbles it and the epithet is left unexplained.",
+    "fix": "बोलने वालों के चाँद कहलाने वाले बुद्ध से सुभूति ने पूछा,"
+   }
+  ]
+ },
+ {
+  "id": "4-12",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "The text says many different kinds of eloquence arise (अनेक प्रकार के भिन्न-भिन्न प्रतिभान); the children's text drops 'many different kinds' and leaves 'उनके' without a clear referent.",
+    "fix": "विजेता की इस पूर्ण प्रज्ञा को लिखते समय तरह-तरह की चतुराई से बोलना पैदा होगा।"
+   }
+  ]
+ },
+ {
+  "id": "4-13",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "The text lists three things not named: family (कुल), birthplace (जन्मस्थान) and lineage (गोत्र); the lineage item is dropped.",
+    "fix": "मेरे परिवार, जन्म की जगह और वंश के बारे में भी नहीं बताया।"
+   }
+  ]
+ },
+ {
+  "id": "4-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-15",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "पूज्य साधक का स्तर से बोधि को खोजे",
+    "evidence": "Ungrammatical postposition after the locked term.",
+    "fix": "पूज्य साधक के स्तर से बोधि को खोजे"
+   }
+  ]
+ },
+ {
+  "id": "4-16",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "ग़लत नज़रिया रखकर",
+    "evidence": "The text says they mingle with householders with a mind that craves looking at outer objects (बाह्य विषयों पर दृष्टि डालने की लालसा); the children's text turns this into 'wrong view', which the segment does not say.",
+    "fix": "वे बाहर की चीज़ें देखने की चाह भरे नज़रिये से गृहस्थों के साथ मेलजोल बढ़ाएँगे।"
+   }
+  ]
+ },
+ {
+  "id": "4-17",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "The text says they go eager (इच्छुक) as well as faithful; the eagerness is dropped.",
+    "fix": "जो लोग बड़ी चाह और श्रद्धा के साथ यह सबसे अच्छी शिक्षा सुनने जाते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "4-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-21",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "दस दिशाएँ हों या कोई दुनिया का क्षेत्र, दसों दिशाओं की दुनियाओं के बुद्ध",
+    "evidence": "Redundant, tangled repetition of the locked terms; the text simply says the buddhas of the world-systems of the ten directions.",
+    "fix": "उसी तरह, दसों दिशाओं की दुनियाओं के बुद्ध भी माँ जैसी इस पवित्र प्रज्ञा का ध्यान रखते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "4-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-27",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "साफ़ दिखाता है。",
+    "evidence": "The final sentence ends with a Chinese full stop instead of the Devanagari danda.",
+    "fix": "वह हर शिक्षा को भी साफ़ दिखाता है।"
+   }
+  ]
+ },
+ {
+  "id": "4-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-30",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "श्रोता की सब चीज़ें पूर्ण प्रज्ञा ही करती है",
+    "evidence": "Academic: all the dharmas of the hearers (shravakas) are accomplished by the Perfection of Wisdom; the plural and the object of 'doing' are lost, so the phrase is confusing.",
+    "fix": "बुद्ध के सारे काम और श्रोताओं की जितनी भी चीज़ें हैं, उन सबको पूर्ण प्रज्ञा ही करती है।"
+   }
+  ]
+ },
+ {
+  "id": "4-31",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "पर वह बुद्ध के स्तर के सभी अच्छे गुण जमा कर लेता है",
+    "evidence": "In the source it is the bodhisattva's dharmata (true nature) that gathers all the qualities of the buddha-level; the children's text makes the bodhisattva the gatherer.",
+    "fix": "पर वह असली स्वभाव बुद्ध के स्तर के सभी अच्छे गुण जमा कर लेता है।"
+   }
+  ]
+ },
+ {
+  "id": "4-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-36",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "तब पानी बिना गिरे आराम से घर पहुँच जाता है",
+    "evidence": "Academic: the one carrying it, not destroyed, reaches home comfortably; it is the jar/carrier that arrives intact, not the water.",
+    "fix": "तब घड़ा बिना टूटे आराम से घर पहुँच जाता है।"
+   }
+  ]
+ },
+ {
+  "id": "4-37",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "तो वह जल्दी ही हार जाएगा",
+    "evidence": "Academic: if devoid of wisdom he is quickly ruined/destroyed; 'हार जाएगा' means losing a contest and is imprecise.",
+    "fix": "तो वह जल्दी ही गिर जाएगा।"
+   }
+  ]
+ },
+ {
+  "id": "4-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-43",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "क्योंकि गुरुओं से ही अच्छे गुण मिलते हैं",
+    "evidence": "Academic: the qualities of the wise arise from them (the good friends); the children's text says qualities are received from gurus.",
+    "fix": "क्योंकि समझदार लोगों के अच्छे गुण इन्हीं से पैदा होते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "4-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-46",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "एक बहुत मुश्किल कवच पहनना जानते हैं",
+    "evidence": "Academic: they put on a hard-to-wear armour; not that they 'know how to' wear it.",
+    "fix": "एक बहुत मुश्किल कवच पहनते हैं।"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "इन्द्रियों का द्वार से बना कवच",
+    "evidence": "Ungrammatical phrase; the armour is not of heaps, elements and sense-doors.",
+    "fix": "यह कवच ढेर, तत्त्व और इन्द्रियों के द्वारों का नहीं है।"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "वे कभी पीछे न हटने वाला, न डगमगाने वाला और शांत स्वभाव रखते हैं",
+    "evidence": "Plural subject with singular adjectives, ungrammatical; academic: irreversible, unshaken and of unperturbed nature.",
+    "fix": "वे कभी पीछे नहीं हटते, कभी नहीं डगमगाते और उनका स्वभाव शांत रहता है।"
+   }
+  ]
+ },
+ {
+  "id": "4-47",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "समझना चाहिए。",
+    "evidence": "The last sentence ends with a Chinese full stop instead of the Devanagari danda.",
+    "fix": "उन्हें दूसरों के अधीन न रहने वाला और कभी पीछे न हटने वाला समझना चाहिए।"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "ऐसे धर्म से जुड़े होते हैं",
+    "evidence": "Unexplained Sanskrit-derived word 'धर्म' for ages 8-12; elsewhere chos is rendered 'शिक्षा'.",
+    "fix": "वे ऐसी शिक्षा से जुड़े होते हैं"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "शक, चिंता या दुविधा",
+    "evidence": "Academic: doubt, wavering and indecision; 'चिंता' (worry) is not what the text says.",
+    "fix": "शक, उलझन या दुविधा"
+   }
+  ]
+ },
+ {
+  "id": "4-48",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "शुरू में उन्होंने इसे सिखाने की इच्छा नहीं की",
+    "evidence": "Academic: he adopted low zeal, i.e. unwillingness; 'at first' and 'to teach' are not stated in the segment.",
+    "fix": "उन्होंने इसमें ज़्यादा उत्साह नहीं दिखाया, यानी उनका मन नहीं हुआ।"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "न ही कोई इसे पा सकता है",
+    "evidence": "Academic: no one attains it (a statement of fact); 'can attain' turns it into impossibility.",
+    "fix": "न ही कोई इसे पाता है।"
+   }
+  ]
+ },
+ {
+  "id": "4-49",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "वे अँधेरे में खड़े मूर्खों की तरह नासमझ हैं",
+    "evidence": "Academic: ignorant and foolish, deluded like darkness; the simile is darkness, not fools standing in it.",
+    "fix": "वे अनजान और मूर्ख हैं, अँधेरे की तरह नासमझ।"
+   }
+  ]
+ },
+ {
+  "id": "4-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-55",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "बुद्ध का यान रूपी इस सवारी में बैठकर",
+    "evidence": "Text says: whoever wants to be definitely liberated in this Buddha-vehicle. The phrase 'यान रूपी इस सवारी' is ungrammatical and doubles the vehicle image.",
+    "fix": "जो कोई बुद्ध के इस यान पर सवार होकर मुक्त होना चाहता है,"
+   }
+  ]
+ },
+ {
+  "id": "4-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-58",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उनका पूरी तरह सजग रहना होता है",
+    "evidence": "Text says they are fully mindful/alert (samprajanya) while walking, strolling, lying and sitting; the Hindi phrasing is awkward and ungrammatical.",
+    "fix": "चलने, टहलने, सोने और बैठने में वे पूरी तरह सजग रहते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "4-59",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "उनके मन, वचन और शरीर शुद्ध होते हैं",
+    "evidence": "Academic translation says only 'the three are secluded and pure' without naming what the three are; the children's text specifies body, speech and mind.",
+    "fix": "उन तीनों की शुद्धता और एकान्त भी उनके साथ रहता है — या: वे तीनों तरह से शुद्ध और शांत होते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "4-60",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "बुरे कामों या किसी को वश में करने के लिए कभी शक्ति के शब्द नहीं बोलते",
+    "evidence": "Text names two kinds of mantras they do not use: mantras for fierce/wrathful actions and mantras for bringing women together (union); the children's text generalises the second to 'controlling anyone'.",
+    "fix": "वे उग्र कामों के लिए या दूसरों को अपने वश में करने के लिए कभी शक्ति के शब्द नहीं बोलते।"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "गुस्सा से नहीं भरता",
+    "evidence": "Ungrammatical postposition use ('गुस्से से' is correct).",
+    "fix": "उनका मन कभी गुस्से से नहीं भरता।"
+   }
+  ]
+ },
+ {
+  "id": "4-61",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "उनका मन हमेशा अच्छी राह पर लगा रहता है",
+    "evidence": "Text says their mind is always directed toward the teaching (shasana/bstan); 'अच्छी राह' loses the reference to the Buddha's teaching.",
+    "fix": "उनका मन हमेशा बुद्ध की शिक्षा की ओर लगा रहता है।"
+   }
+  ]
+ },
+ {
+  "id": "4-62",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "बिना किसी शक के हमेशा मेरु पर्वत की तरह पक्के रहते हैं",
+    "evidence": "Text says they are free of doubt about their own ground/stage and are always like Mount Meru; 'their own ground' is dropped.",
+    "fix": "अपनी भूमि के बारे में उन्हें कोई शक नहीं होता और वे हमेशा मेरु पर्वत की तरह अडिग रहते हैं।"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "बुरे लोगों वाले सीमा के इलाके",
+    "evidence": "Text says border regions and the lands of barbarian (mleccha) peoples; 'बुरे लोग' is a vague moral label not in the text.",
+    "fix": "सीमा के इलाके और दूर के जंगली लोगों के इलाके"
+   }
+  ]
+ },
+ {
+  "id": "4-63",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "इन ढेर की गहराई",
+    "evidence": "Ungrammatical plural ('ढेरों' needed).",
+    "fix": "इन ढेरों की गहराई का पता नहीं चलता।"
+   }
+  ]
+ },
+ {
+  "id": "4-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-65",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "तब एक ही दिन में उसके मन में जितने भागते विचार आते हैं। एक बोधि-वीर उतने ही युगों की भलाई पा लेता है।",
+    "evidence": "The comparison is split into a dangling clause and a separate sentence, making the 'as many... so many' structure hard to follow.",
+    "fix": "ऐसे आदमी के मन में एक ही दिन में जितने भागते विचार आते हैं, बोधि-वीर उतने ही युगों की भलाई पा लेता है।"
+   }
+  ]
+ },
+ {
+  "id": "4-66",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "बुद्ध कहते हैं:",
+    "evidence": "The segment names no speaker; the attribution to the Buddha is added.",
+    "fix": "(इस वाक्यांश को हटा दें) अगर कोई बोधि-वीर..."
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "लाखों युगों",
+    "evidence": "Text says many koti-thousands of aeons (billions); 'lakhs' understates the number.",
+    "fix": "अरबों युगों तक"
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "तो उसे बहुत पुण्य मिलता है",
+    "evidence": "Not stated in the segment; the text only says the giving and ethics do not reach a fraction of the merit of teaching.",
+    "fix": "(इस वाक्य को हटा दें)"
+   }
+  ]
+ },
+ {
+  "id": "4-67",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "इन तीन दुनियाएँ में",
+    "evidence": "Ungrammatical inflection of the locked term ('तीन दुनियाओं में').",
+    "fix": "इन तीन दुनियाओं में कुछ भी नहीं है।"
+   }
+  ]
+ },
+ {
+  "id": "4-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-69",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "वह हमेशा वैसा ही रहता है।",
+    "evidence": "Text only says the dharmadhatu neither decreases nor increases; 'always remains the same' is an added gloss.",
+    "fix": "(इस वाक्य को हटा दें)"
+   },
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Text says the teachings are well practised and well taught, as well as spoken by the Buddha; 'practised' is dropped.",
+    "fix": "बुद्ध ने जो शिक्षाएँ बताईं और जिन पर अच्छी तरह चला गया"
+   }
+  ]
+ },
+ {
+  "id": "4-70",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "कभी नहीं भटकते",
+    "evidence": "Text says they do not fall away/decline (ཉམས་པ་མེད, 'च्युत नहीं होते'); 'भटकना' means to wander.",
+    "fix": "कभी पीछे नहीं गिरते"
+   }
+  ]
+ },
+ {
+  "id": "4-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-74",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "और सभी अच्छे गुण पाकर",
+    "evidence": "Text says only that by gradually perfecting the virtues of goodness they become buddha; a second, redundant clause is added.",
+    "fix": "धीरे-धीरे अच्छाई के गुण पूरे करके बुद्ध बन जाते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "4-75",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "दुख से परे शान्ति को नहीं पकड़ते",
+    "evidence": "Text says they do not touch (reach and stay in) nirvana; 'पकड़ना' suggests grasping.",
+    "fix": "दुख से परे शान्ति में रुक नहीं जाते"
+   }
+  ]
+ },
+ {
+  "id": "4-76",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "मुझे दस शक्तियों से भविष्यवाणी मिलेगी",
+    "evidence": "'Ten powers' is the epithet of the Buddha who gives the prediction; the Hindi reads as though powers give it.",
+    "fix": "दस शक्तियों वाले बुद्ध से मुझे भविष्यवाणी मिलेगी"
+   }
+  ]
+ },
+ {
+  "id": "4-77",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "हिम्मत का कवच",
+    "evidence": "Text says only that they put on armour; the 'courage' gloss is added.",
+    "fix": "वे कवच पहन लेते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "4-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-80",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-81",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "दोनों रास्तों को पार कर लेता है",
+    "evidence": "The text says he fully passes beyond the 'two grounds' (the grounds of the hearers and solitary buddhas), not two 'paths'.",
+    "fix": "वह चार मारों को और अर्हत् तथा अकेला बुद्ध की दोनों मंज़िलों को पार कर जाता है।"
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "अभी बोधि को नहीं छूता",
+    "evidence": "The text says he does not touch awakening; 'अभी' (not yet) adds a timing that is not there.",
+    "fix": "पर बोधि को नहीं छूता।"
+   }
+  ]
+ },
+ {
+  "id": "4-82",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "जीव जो भी करते हैं, उनके किए हुए काम भी ऐसे ही टिके होते हैं",
+    "evidence": "The text says the cause of beings' engaging in karma is likewise supported in the same way; the children's line is circular and loses the 'cause/basis' point.",
+    "fix": "जीवों के काम करने की वजह भी इसी तरह किसी सहारे पर टिकी है।"
+   }
+  ]
+ },
+ {
+  "id": "4-83",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-84",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "वे बिना निशान वाले होकर रहते हैं और पूरी शान्ति से अपना काम करते हैं",
+    "evidence": "The text says they abide in the signless and practise peace and supreme peace; 'अपना काम करते हैं' is vague and 'बिना निशान वाले होकर' makes the bodhisattva itself signless.",
+    "fix": "वे बिना निशान वाले में टिककर शान्ति और सबसे ऊँची शान्ति का अभ्यास करते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "4-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-87",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "उस सच्चे खालीपन में जाकर नहीं रुकते",
+    "evidence": "The text says they do not attain (obtain) that supreme emptiness until their roots of goodness are complete; 'not stopping in it' is a different claim and 'सच्चे' is added.",
+    "fix": "तब तक वे उस सबसे ऊँचे खालीपन को पा नहीं लेते।"
+   }
+  ]
+ },
+ {
+  "id": "4-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-89",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "गहरा ज्ञान और जादुई शक्ति पाकर",
+    "evidence": "The text says they have reached the perfection (pāramitā, full mastery) of knowledge and magical power, not merely obtained them.",
+    "fix": "गहरे ज्ञान और जादुई शक्ति में पूरी तरह निपुण होकर"
+   }
+  ]
+ },
+ {
+  "id": "4-90",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-91",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "वह केवल दुख से परे शान्ति को नहीं छूता, बल्कि सभी चीज़ों को देखता है",
+    "evidence": "The text says he does not touch nirvana at all and also sees dharmas; adding 'केवल' ('not only touch nirvana') implies he does touch it.",
+    "fix": "वह दुख से परे शान्ति को नहीं छूता और फिर भी चीज़ों को देखता रहता है।"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उनका बिना निशानी के होना और बिना इच्छा के होना मानता है",
+    "evidence": "Tangled phrasing; the text says he contemplates all things as empty, signless and wishless.",
+    "fix": "वह सोचता है कि सब चीज़ें खाली हैं, बिना निशानी की हैं और बिना इच्छा की हैं।"
+   }
+  ]
+ },
+ {
+  "id": "4-92",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-93",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "केवल दुख से परे शान्ति को पाकर अकेला खुश नहीं होता",
+    "evidence": "The text says he does not take sole delight in merely touching nirvana; 'अकेला' (alone) shifts the meaning toward the merchant image.",
+    "fix": "वह सिर्फ़ दुख से परे शान्ति को छूकर उसी में मगन नहीं हो जाता।"
+   }
+  ]
+ },
+ {
+  "id": "4-94",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-95",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "क्योंकि वह रास्ता अच्छी तरह जानता है",
+    "evidence": "The text lists 'knows the manner of the path' as a further quality, not as the reason for not abiding.",
+    "fix": "और वह रास्ते का तरीका अच्छी तरह जानता है।"
+   }
+  ]
+ },
+ {
+  "id": "4-96",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "सुभूति,",
+    "evidence": "The academic translation and the Tibetan have no address to Subhuti in this verse.",
+    "fix": "\"सुभूति,\" हटा दें और वाक्य सीधे शुरू करें।"
+   }
+  ]
+ },
+ {
+  "id": "4-97",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "सुभूति,",
+    "evidence": "The academic translation and the Tibetan have no address to Subhuti in this verse.",
+    "fix": "\"सुभूति,\" हटा दें और वाक्य सीधे शुरू करें।"
+   }
+  ]
+ },
+ {
+  "id": "4-98",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "सुभूति,",
+    "evidence": "The academic translation and the Tibetan have no address to Subhuti in this verse.",
+    "fix": "\"सुभूति,\" हटा दें और वाक्य सीधे शुरू करें।"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "कभी पीछे न लौटने का स्तर की शिक्षा",
+    "evidence": "Ungrammatical genitive.",
+    "fix": "कभी पीछे न लौटने के स्तर की शिक्षा"
+   }
+  ]
+ },
+ {
+  "id": "5-1",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "सुभूति,",
+    "evidence": "The academic translation and the Tibetan have no address to Subhuti in this verse.",
+    "fix": "\"सुभूति,\" हटा दें और वाक्य सीधे शुरू करें।"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "इसे कभी पीछे न हटने वाला साधक बनने के लिए, कभी पीछे न हटने की भविष्यवाणी समझना चाहिए",
+    "evidence": "The text says this is to be known as the prophecy of non-regression; 'बनने के लिए' garbles it and 'साधक' is used for both the arhat and the bodhisattva.",
+    "fix": "इसे कभी पीछे न हटने की भविष्यवाणी समझना चाहिए।"
+   }
+  ]
+ },
+ {
+  "id": "5-2",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "उन निचले लोक के दुखों को हमेशा के लिए ख़त्म करने की इच्छा करता है",
+    "evidence": "The text says he aspires to cut the stream (continuum) of bad rebirths; 'दुखों' and 'हमेशा के लिए' are not in it.",
+    "fix": "वह उन निचले लोकों में जन्म लेने का सिलसिला काट देने की इच्छा करता है।"
+   }
+  ]
+ },
+ {
+  "id": "5-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "सुभूति,",
+    "evidence": "The academic translation and the Tibetan have no address to Subhuti in this verse.",
+    "fix": "\"सुभूति,\" हटा दें और वाक्य सीधे शुरू करें।"
+   }
+  ]
+ },
+ {
+  "id": "5-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-5",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "सुभूति,",
+    "evidence": "The academic translation and the Tibetan have no address to Subhuti in this verse.",
+    "fix": "\"सुभूति,\" हटा दें और वाक्य सीधे शुरू करें।"
+   }
+  ]
+ },
+ {
+  "id": "5-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-9",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "वह असल में दुनिया की उलझनों में ही फँसा रहता है",
+    "evidence": "The text says he stays in saṃsarga (mixing/association with others, 'संसर्ग'), not entangled in worldly troubles in general.",
+    "fix": "वह असल में लोगों से घुलने-मिलने में ही लगा रहता है।"
+   }
+  ]
+ },
+ {
+  "id": "5-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-11",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "ऐसे लोगों को परख कर बुरा कहता है",
+    "evidence": "Academic translation: the bodhisattva who 'measures' (judges) them falls; it does not say he calls them bad.",
+    "fix": "जो बोधि-वीर ऐसे लोगों को नापता-तौलता है, वह खुद ही नीचे गिर जाता है।"
+   }
+  ]
+ },
+ {
+  "id": "5-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-15",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उसी तरह बाकी सब चीज़ें भी हैं। जब कोई अच्छी तरह जान लेता है कि सब चीज़ें खाली और बिना निशानियों वाली हैं। तब",
+    "evidence": "Academic translation is one connected conditional (just as ... so all dharmas ... if one knows ... then); the children's text breaks it into incomplete fragments.",
+    "fix": "जिस तरह पूर्ण प्रज्ञा अपनी किसी खास पहचान से खाली है, उसी तरह बाकी सब चीज़ें भी खाली हैं। जब कोई यह अच्छी तरह जान लेता है कि सब चीज़ें खाली और बिना निशानियों वाली हैं, तब"
+   }
+  ]
+ },
+ {
+  "id": "5-16",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जो लोग बार-बार जन्म का चक्र से चिपके हैं",
+    "evidence": "Ungrammatical use of the locked term; the text says those with minds attached to saṃsāra keep wandering.",
+    "fix": "जो लोग बार-बार जन्म के चक्र से चिपके हैं"
+   }
+  ]
+ },
+ {
+  "id": "5-17",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "वे हमेशा बदलने वाला होकर जन्मते और मरते हैं",
+    "evidence": "Ungrammatical; the text says that through this false notion of self they are impermanent, being born and dying.",
+    "fix": "इस झूठी धारणा से वे हमेशा बदलने वाले बनकर जन्मते और मरते रहते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "5-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-19",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "करोड़ों सालों तक",
+    "evidence": "Tibetan/academic: many kotis of thousands of years (thousand x ten million x many), so 'crores of years' understates the number.",
+    "fix": "हज़ारों करोड़ सालों तक"
+   }
+  ]
+ },
+ {
+  "id": "5-20",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "इसके बराबर नहीं हो सकती",
+    "evidence": "Academic translation: the merit of the heap of giving does not equal even a fraction (part) of this; 'even a part' is lost.",
+    "fix": "उस उदारता से जमा की हुई अच्छाई इसके एक छोटे-से हिस्से के बराबर भी नहीं हो सकती।"
+   }
+  ]
+ },
+ {
+  "id": "5-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-24",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "अपनी जगह पहुँचकर",
+    "evidence": "The text says only that the one who goes swiftly attains peace/calm; 'reaching his own place' is not there.",
+    "fix": "फिर वह तेज़ी से चलकर शान्ति पाता है।"
+   }
+  ]
+ },
+ {
+  "id": "5-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-29",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "चारों दिशाओं में",
+    "evidence": "Text says 'the directions' (दिशाओं) are set ablaze; the number four is not stated.",
+    "fix": "वह दिशाओं में आग लगाता है"
+   }
+  ]
+ },
+ {
+  "id": "5-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-34",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "तो सावधानी से ध्यान देना चाहिए ... जो बुरे कामों में मज़ा नहीं लेते, वे ही बुद्ध के गुण सीखते हैं",
+    "evidence": "The verse describes what the bodhisattvas do (they generate mindfulness, confess, restrain, and do not delight in that state); the children's text turns it into advice and adds exclusivity ('only those').",
+    "fix": "वे सावधानी से ध्यान देते हैं कि यह मन ठीक नहीं है। वे अपनी भूल मान लेते हैं, आगे के लिए खुद को रोकते हैं और उस बुरे मन में खुश नहीं होते। इस तरह वे यहाँ बुद्ध के गुण सीखते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "5-35",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "किसी भी नियम को ज़िद से नहीं पकड़ता",
+    "evidence": "Locked term for बསླབ་པ (training) is 'अभ्यास'; 'नियम' is used instead, and 'ज़िद से' is added; the text says he accepts no training at all.",
+    "fix": "जो अभ्यास करते समय किसी भी अभ्यास को सच्चा मानकर नहीं पकड़ता।"
+   }
+  ]
+ },
+ {
+  "id": "5-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-38",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "बुद्ध ने कहा है कि",
+    "evidence": "The text says the perfections 'are said' to be gathered here; no speaker is named in the academic translation.",
+    "fix": "कहा गया है कि ठीक वैसे ही बाकी सब पूर्णता इसी में समा जाती हैं।"
+   }
+  ]
+ },
+ {
+  "id": "5-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-41",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "वे जब बोधि पाने की इच्छा जगाना शुरू करते हैं, तो जो लोग उन्हें देखकर दिल से खुश होना सीखते हैं",
+    "evidence": "The verse says: those who rejoice from the heart in the arising of the aspiration of those who have entered irreversible bodhi; the children's sentence is tangled and 'learn to rejoice' is not in the text.",
+    "fix": "जो लोग पीछे न लौटने वाली बोधि के रास्ते पर चल पड़े हैं, उनके बोधि पाने की इच्छा जगाने पर जो दिल से खुश होते हैं, उनकी अच्छाई बहुत बड़ी होती है।"
+   }
+  ]
+ },
+ {
+  "id": "5-42",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "अच्छाई और दूसरों का भला चाहने वाले जितने भी जीव हैं, वे उन सभी की जमा की हुई अच्छाई का ढेर देखकर भी खुश होना सीखते हैं",
+    "evidence": "The beings who seek virtue and benefit are the owners of the merit-heaps; the bodhisattvas rejoice in the merit of all of them. The children's text makes those beings themselves the ones who rejoice and then become like the victors and teach.",
+    "fix": "अच्छाई और दूसरों का भला चाहने वाले जितने भी जीव हैं, बोधि-वीर उन सभी की जमा की हुई अच्छाई के ढेर में भी खुश होते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "5-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-44",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "कोई भी उन्हें पकड़ या पा नहीं सकता",
+    "evidence": "What is not found by anyone is the opposition/conflict between space element and space (no such opposition exists), not space itself.",
+    "fix": "ऐसा कोई झगड़ा है ही नहीं, और किसी को वह कहीं मिलता भी नहीं।"
+   }
+  ]
+ },
+ {
+  "id": "5-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-46",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "स्वीकार करता है",
+    "evidence": "The text says he is endowed with various births and many deeds and shows them like illusion; 'accepts' is not stated.",
+    "fix": "वह कई तरह के जन्म लेता और बहुत से काम करता दिखता है।"
+   }
+  ]
+ },
+ {
+  "id": "5-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-50",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "उस होशियार व्यक्ति के रास्ते में",
+    "evidence": "The one who cannot be obstructed is the wise bodhisattva; the children's text drops that it is the bodhisattva and also loses 'as many' emanations as beings.",
+    "fix": "उस होशियार बोधि-वीर के रास्ते में कोई रुकावट नहीं डाल सकते।"
+   }
+  ]
+ },
+ {
+  "id": "5-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-58",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जब मार्गदर्शक इन सभी अभ्यासों के बारे में बताते हैं। तब यह अभ्यास",
+    "evidence": "One conditional sentence ('when the guide fully teaches the trainings, this training is supreme and unsurpassed') is split into broken fragments, and 'unsurpassed' is lost.",
+    "fix": "जब मार्गदर्शक सभी अभ्यास बताते हैं, तब यह अभ्यास बाकी सबसे श्रेष्ठ और सबसे ऊँचा होता है।"
+   }
+  ]
+ },
+ {
+  "id": "5-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-61",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "बुद्ध की संतान, श्रोता, अकेला बुद्ध और देवता।",
+    "evidence": "The verse lists the Buddha's children, shravakas, pratyekabuddhas and gods together with all beings' happiness-dharmas as all arising from supreme perfect wisdom; the children's text leaves the list as a dangling fragment not tied to the verb.",
+    "fix": "बुद्ध की संतान, श्रोता, अकेला बुद्ध, देवता और सभी प्राणियों की खुशी की जितनी भी चीज़ें हैं, वे सब सबसे अच्छी पूर्ण प्रज्ञा से ही पैदा हुई हैं।"
+   }
+  ]
+ },
+ {
+  "id": "5-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-64",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "अपने आप पैदा हुआ अवस्था",
+    "evidence": "Ungrammatical gender agreement with 'अवस्था'; the locked term is 'अपने आप पैदा हुआ'.",
+    "fix": "फिर वह अपने आप पैदा हुई अवस्था को पा लेगा।"
+   }
+  ]
+ },
+ {
+  "id": "5-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-78",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "बिना किसी दुःख के",
+    "evidence": "Tibetan skyo med / academic 'बिना किसी खेद के' means without weariness or discouragement, not without suffering; 'दुःख' is the locked rendering of sdug bsngal, a different word.",
+    "fix": "बिना थके और बिना ऊबे उनकी सेवा में लगे रहो।"
+   }
+  ]
+ },
+ {
+  "id": "5-79",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "ज़रा भी दुःख पैदा नहीं होता",
+    "evidence": "Tibetan skyo ba / academic 'खेद' means discouragement or weariness, not suffering; 'दुख' is the locked term for sdug bsngal.",
+    "fix": "अगर उसके मन में ज़रा भी थकान या ऊब पैदा नहीं होती"
+   }
+  ]
+ },
+ {
+  "id": "5-80",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "एक नासमझ बोधि-वीर",
+    "evidence": "Tibetan mi mkhas pa / academic 'उपाय-कौशल से रहित' means unskilled in method; 'नासमझ' is the locked term for bya ba (childish/foolish), a different word, and the point about lacking skill is lost.",
+    "fix": "एक बोधि-वीर जिसे सही तरीका नहीं आता, करोड़ों 'युग' गिनता रहता है।"
+   }
+  ]
+ },
+ {
+  "id": "5-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-83",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-84",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "तैयार करके",
+    "evidence": "Tibetan yongs su smin par byas / academic 'पूर्णतः परिपक्व करके' is the same ripening idea rendered 'परिपक्व बनाना' elsewhere (5-70); 'तैयार करके' loses it.",
+    "fix": "मैं सभी जीवों को परिपक्व बनाकर उनका भला करूँगा।"
+   }
+  ]
+ },
+ {
+  "id": "5-85",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Academic and Tibetan describe the bodhi as 'शान्त, अच्युत (mi nyams, unfailing) और उत्तम'; the children's text drops 'अच्युत'.",
+    "fix": "शान्त, कभी न घटने वाली और उत्तम बोधि चाहने वालों की यही लगातार मेहनत की पूर्णता है।"
+   }
+  ]
+ },
+ {
+  "id": "5-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-89",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "एक जैसा और बराबर प्यार भरा भाव",
+    "evidence": "Academic 'सम और तुल्य चित्त' means an even, equal mind (equanimity) toward both; 'प्यार भरा' adds love, which the text does not say.",
+    "fix": "एक जैसा और बराबर शान्त मन ही रखना चाहिए।"
+   }
+  ]
+ },
+ {
+  "id": "5-90",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "फिर वह बोधि पाने की इच्छा जगाना सीखता है और उसे सबसे ऊँची बोधि के लिए समर्पित करता है",
+    "evidence": "Academic: 'यदि' (if) he dedicates that generated aspiration to supreme bodhi, then his patience overcomes arhats etc. The condition is lost (turned into a plain sequence) and 'सीखता है' (learns) is added; the text says he has generated it and dedicates it.",
+    "fix": "अगर वह बोधि पाने की इच्छा जगाकर उसे सबसे ऊँची बोधि के लिए समर्पित कर दे, तो अपने धैर्य से वह वीर सब पूज्य साधकों, अकेले बुद्धों और जीवों के पूरे क्षेत्र से आगे निकल जाता है।"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "अपने इस धैर्य से वह वीर पूरी दुनिया में महान बन जाता है",
+    "evidence": "Tibetan: the hero's patience toward all the world (जगत् के प्रति क्षान्ति) overcomes the arhats, pratyekabuddhas and beings; it does not say he becomes great in the world.",
+    "fix": "वह वीर पूरी दुनिया के प्रति धैर्य रखता है।"
+   }
+  ]
+ },
+ {
+  "id": "5-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-92",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-93",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "दस शक्तियाँ वाले मार्ग पर टिके रहने से",
+    "evidence": "Academic: because of abiding in the range (gochara) of the Ten Powers; the children's phrase is ungrammatical and turns \"range of the Ten Powers\" into a vague \"path\".",
+    "fix": "दस शक्तियों के दायरे में टिके रहने से"
+   }
+  ]
+ },
+ {
+  "id": "5-94",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "शान्ति देने वाली उत्तम बोधि के लिए सब कुछ समर्पित करना चाहता है",
+    "evidence": "Academic: dedicates (parinamana) to the supreme bodhi that is of the nature of peace; the text does not say bodhi \"gives\" peace, nor \"everything\", nor merely \"wants\" to dedicate.",
+    "fix": "जो शान्ति-रूप उत्तम बोधि के लिए अपना अच्छा काम समर्पित करता है"
+   }
+  ]
+ },
+ {
+  "id": "5-95",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "अच्छे गुण वालों के अच्छा आचरण का अर्थ है",
+    "evidence": "Ungrammatical (\"अच्छा आचरण का\"); academic: this is the meaning of good conduct of those endowed with such qualities.",
+    "fix": "अच्छे गुण वालों के अच्छे आचरण का यही अर्थ है"
+   }
+  ]
+ },
+ {
+  "id": "5-96",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-97",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "इस तरह की बोधि पाने की इच्छा जगाना",
+    "evidence": "Academic: that mental generation (of the wish for arhat/pratyekabuddha state) is heavier than a defeat; \"this kind of bodhi\" is vague and could be read as the bodhisattva's aspiration being the fault.",
+    "fix": "अरहत या अकेला बुद्ध बनने की ऐसी इच्छा जगाना"
+   }
+  ]
+ },
+ {
+  "id": "5-98",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Academic: he is not proud \"because of it\" (his keeping of conduct and dedication); the children's text drops that the pride would be about his own good conduct.",
+    "fix": "उसमें इस आचरण के कारण अपने को बड़ा समझना नहीं होता"
+   }
+  ]
+ },
+ {
+  "id": "5-99",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "सुभूति,",
+    "evidence": "No addressee is named in the Tibetan or the academic translation; the name Subhuti is invented.",
+    "fix": "अगर कोई बोधि-वीर विजेताओं का रास्ता अपनाकर चलता है"
+   }
+  ]
+ },
+ {
+  "id": "5-100",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-101",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "कोई भेद नहीं करता",
+    "evidence": "Academic: he is free of expectation/dependence (apeksha-rahita) toward all, dear and not dear; \"makes no distinction\" is a different idea.",
+    "fix": "वह प्यारी और न प्यारी लगने वाली सभी चीज़ों से कोई उम्मीद नहीं रखता"
+   }
+  ]
+ },
+ {
+  "id": "5-102",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-103",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-104",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-105",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-106",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Academic: even a little giving becomes much and immeasurable (apramey); \"immeasurable\" is dropped.",
+    "fix": "उसका थोड़ा दान भी बहुत और अनगिनत हो जाता है"
+   }
+  ]
+ },
+ {
+  "id": "5-107",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "मान लो कि तीन तरह के जीवन में रहने वाले सभी जीव एक साथ मिल जाएँ",
+    "evidence": "Academic: taking all beings of the three existences without remainder to the utmost limit of imagination; the children's text drops this and adds \"come together\" and \"with a sincere mind\".",
+    "fix": "मान लो कि तीन तरह के जीवन के सारे जीव, कल्पना की आख़िरी हद तक, हों"
+   }
+  ]
+ },
+ {
+  "id": "5-108",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-109",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-110",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "उस वस्तु से कोई लगाव या कंजूसी नहीं रखता",
+    "evidence": "Academic: he does not make it \"mine\" (mamakara) and has no stinginess or attachment to the object; also the gift is to the beings of the world (plural), not \"a being\".",
+    "fix": "उसे \"मेरा\" नहीं मानता और उस वस्तु से कंजूसी या लगाव नहीं रखता"
+   }
+  ]
+ },
+ {
+  "id": "6-1",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "अभ्यास करते समय उसे बहुत सारे सुख मिलते हैं",
+    "evidence": "Academic: during practice he obtains endless and abundant enjoyments/possessions (bhoga), not \"pleasures\"; \"endless\" is lost.",
+    "fix": "अभ्यास करते समय उसे अनन्त और बहुत सारे भोग मिलते हैं"
+   }
+  ]
+ },
+ {
+  "id": "6-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "बुरी इच्छाओं को छोड़ देता है",
+    "evidence": "Academic: he gives up the blameworthy sense pleasures (kamaguna), not \"bad wishes\".",
+    "fix": "निन्दनीय इन्द्रियों के सुखों को छोड़ देता है"
+   }
+  ]
+ },
+ {
+  "id": "6-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-2",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "इसका नाम 'अनमोल अच्छे गुणों का संग्रह' है",
+    "evidence": "Academic: the name is \"Ratnagunasamcaya\" (the) path to awakening; the words \"bodhi path\" in the title are dropped.",
+    "fix": "इसका नाम 'अनमोल अच्छे गुणों का संग्रह', यानी बोधि का रास्ता है"
+   }
+  ]
+ },
+ {
+  "id": "8-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-4",
+  "verdict": "pass",
+  "issues": []
+ }
+]

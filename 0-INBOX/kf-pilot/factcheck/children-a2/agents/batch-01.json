@@ -1,0 +1,10 @@
+{"batch": "batch-01", "segments": [
+{"id": "2-33", "verdict": "pass", "issues": [
+{"type": "mistranslation", "severity": "minor", "span": "Without a Victorious One, how could the fruits—like Shakra, Brahma, and listeners—ever appear?", "evidence": "The text says: without the mind of awakening, how could the fruits (Shakra, Brahma, and shravakas) emerge. The fruits depend on the wish to awaken, not on the Victorious One as a middle step; the second question is parallel to the first (sprout / tree-and-fruit).", "fix": "In the same way, without the wish to awaken, a Victorious One would never appear in the world. So how could the fruits—Shakra, Brahma, and listeners—ever appear?"}
+]},
+{"id": "4-48", "verdict": "fail", "issues": [
+{"type": "mistranslation", "severity": "major", "span": "there is nothing to be reached", "evidence": "Academic: 'It is not realized by anyone, nor is there any attaining of it' - no one attains it. The children's wording says there is no thing to attain, a different claim (and one that could be read as a doctrinal statement the verse does not make).", "fix": "No one has realized it, and no one has reached it."},
+{"type": "omission", "severity": "minor", "span": "he paused", "evidence": "Academic: the Kind Helper 'felt little inclination' (to teach), thinking 'Who among the masses of sentient beings will understand?' - a reluctance, not just a pause.", "fix": "he felt little wish to teach it."}
+]},
+{"id": "5-35", "verdict": "pass", "issues": []}
+]}

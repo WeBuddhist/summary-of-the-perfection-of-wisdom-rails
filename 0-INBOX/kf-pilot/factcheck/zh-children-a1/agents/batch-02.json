@@ -1,0 +1,231 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "1-25",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "明白自己是什麼樣子，就會明白所有的眾生也是這個樣子",
+     "evidence": "The verse says that knowing how oneself is, all beings are likewise, and knowing how beings are, all things are likewise (sameness). The children's text turns this into a cause-and-effect 'if you understand X, you will understand Y'.",
+     "fix": "知道自己是什麼樣子，所有的眾生也是這個樣子；知道眾生是什麼樣子，所有的事物也是這個樣子。"
+    }
+   ]
+  },
+  {
+   "id": "1-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "只要對這一切不再執著出現和消失",
+     "evidence": "Academic translation: having cut off (abandoned) arising and ceasing with respect to all of them; 'no longer cling' softens 'abandon' and adds a conditional 'as long as'.",
+     "fix": "對這一切都不再有出現和消失的想法，就能得到最特別、永遠不死的深刻的領悟。"
+    }
+   ]
+  },
+  {
+   "id": "1-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-8",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "去尋找這樣的出路",
+     "evidence": "Academic translation: 'whatever is this definite emergence (出離) is the training of those who delight in good qualities' — a statement, not an instruction to go and look for a way out.",
+     "fix": "這樣的學習就是出路。喜愛美好的品質的人，就會這樣學習。"
+    }
+   ]
+  },
+  {
+   "id": "2-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-13",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "當我為大家講解這無比珍貴的圓滿時",
+     "evidence": "Source says 'when I spoke in accord with (相順宣說) this supreme perfection'; there is no audience ('for everyone') and no 'explaining'.",
+     "fix": "當我照著這最崇高的圓滿來說法時"
+    }
+   ]
+  },
+  {
+   "id": "2-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "守護者們都在學習這圓滿的智慧",
+     "evidence": "Academic translation: the perfection of wisdom in which the protectors practise/conduct themselves (行持), not merely 'study'.",
+     "fix": "守護者們都在實踐這圓滿的智慧。"
+    },
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "不管從哪一邊攻擊",
+     "evidence": "The source only says the Mara and Mara's side cannot find an opening; 'from whichever side they attack' is not in it.",
+     "fix": "就連魔王和魔王一方的同夥，也找不到他的弱點。"
+    }
+   ]
+  },
+  {
+   "id": "2-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "為了紀念",
+     "evidence": "Academic translation: making offerings (作供養) to the Sugata who has passed into nirvana, not commemorating.",
+     "fix": "為了供養已經得到最終超越憂傷的安寧、走向安樂的人"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "千百萬個國土",
+     "evidence": "Source: a thousand koti (千俱胝) of lands, a much larger number than 'thousands of millions'.",
+     "fix": "裝滿了數不清的國土（千俱胝個國土）"
+    }
+   ]
+  },
+  {
+   "id": "2-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Source lists three offerings: celestial flowers, excellent incense and ointment/scented paste (塗香). The children's text mentions only flowers and 'the most fragrant incense'; the ointment is dropped.",
+     "fix": "他們只用天上的花朵、最香的香和香膏獻上供養。"
+    }
+   ]
+  },
+  {
+   "id": "2-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-18",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "受到像國王一樣的尊敬",
+     "evidence": "The source only says they became the supreme 'king of physicians'; the idea of being respected like a king is not in the verse or the academic translation.",
+     "fix": "才成為最了不起的醫生中的王。"
+    }
+   ]
+  },
+  {
+   "id": "2-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "那些為別人帶來好處和慈悲的人",
+     "evidence": "Academic translation: those who practise (行持) with benefit and compassion — the practitioners act with these, they do not 'bring compassion to others'.",
+     "fix": "那些帶著好處他人的心和慈悲去行動的人"
+    }
+   ]
+  },
+  {
+   "id": "2-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-24",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

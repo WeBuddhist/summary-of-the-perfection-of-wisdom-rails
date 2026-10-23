@@ -1,0 +1,159 @@
+{
+ "batch": "batch-12",
+ "segments": [
+  {
+   "id": "5-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-33",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "possessing the fault of hostility",
+     "evidence": "Tibetan \"ཐབ་སྐྱོན་ལྡན་སེམས་ཀྱི་སྐད་ཅིག\" renders Skt khila-doṣa; bo-mipham 5-33 glosses it as a mind-stream \"རྒྱུད་མ་རུང་པ་དགེ་བའི་ས་བོན་མི་འཕེལ་བའི་ཐ་བ་ལྟ་བུ་སྐྱོན་དང་ལྡན་པའི་སེམས\" (unfit, barren like ground where seeds of virtue do not grow), not simply hostility; the anger/dispute is the cause stated in the preceding lines.",
+     "fix": "possessing the fault of barrenness"
+    }
+   ]
+  },
+  {
+   "id": "5-34",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "\"Buddhas touch awakening through the perfection of patience.\"",
+     "evidence": "Quotation marks enclose only line 1 and then a second quotation opens in line 2, so the premise \"སངས་རྒྱས་བཟོད་པའི་ཕ་རོལ་ཕྱིན་པས་བྱང་ཆུབ་རེག\" reads as thought content. bo-mipham 5-34 and bo-khenrab 5-34 treat it as a stated fact (if buddhas touch awakening through patience, then this angry mind is not good); only \"སེམས་འདི་བཟང་བ་མིན\" is the thought.",
+     "fix": "Buddhas touch awakening through the perfection of patience;"
+    },
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "confess individually",
+     "evidence": "\"སོ་སོར་འཆགས་པ\" is the locked term and is rendered \"confess\"; bo-mipham 5-34 \"སྡིག་པའི་དངོས་པོ་དེ་སོ་སོར་འཆགས་པར་བྱེད\" and bo-khenrab 5-34 give no sense of confessing \"individually\".",
+     "fix": "They confess"
+    }
+   ]
+  },
+  {
+   "id": "5-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-36",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "In order to obtain the qualities of a Buddha",
+     "evidence": "Tibetan \"སངས་རྒྱས་ཅོས་མཉེས་བྱ་ཕྱིར\" says \"in order to please\" (མཉེས); bo-rangjung 5-36 reads \"སངས་རྒྱས་ཀྱི་ཆོས་ཀྱིས་མཉེས་པར་བྱ་བའི་ཕྱིར\", and bo-mipham 5-36 notes this reading (\"སངས་རྒྱས་མཉེས་པའམ་དགྱེས་པར་བྱེད་པའི་ཆོས\"), though bo-mipham and bo-khenrab prefer \"obtain\" (བརྙེས་པ). The English follows only the secondary reading and drops the verb of the Tibetan.",
+     "fix": "In order to please the Buddhas by the qualities of a Buddha, they train in this"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Will never become one with degenerate training or faulty ethical discipline",
+     "evidence": "\"བསླབ་ཉམས་ཚུལ་ཁྲིམས་འཆལ་མི་འགྱུར\" means they will not come to have degenerated training or corrupt discipline (bo-mipham 5-36 \"བསླབ་པ་ལས་ཉམས་པ་དང་ཚུལ་ཁྲིམས་འཆལ་བར་མི་འགྱུར\"); \"become one with\" suggests union.",
+     "fix": "Will never become one whose training degenerates or whose ethical discipline is faulty"
+    }
+   ]
+  },
+  {
+   "id": "5-37",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Just as, when overwhelmed by the rays of the sun moving in the sky, / Darkness does not remain in the space before it.",
+     "evidence": "Tibetan \"ཟིལ་གནོན་པའི། མདུན་གྱི་བར་སྣང་ལ\" makes the space before the sun the thing overpowered by the rays; bo-mipham 5-36 \"ཟིལ་གྱིས་གནོན་པར་གྱུར་པའི་མདུན་གྱི་བར་སྣང་ལ་ནི་མུན་པ་གཏན་མི་གནས\". The English leaves the overwhelmed party unspecified.",
+     "fix": "Just as darkness does not remain in the space before the sun moving in the sky, overpowered by its rays."
+    }
+   ]
+  },
+  {
+   "id": "5-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "were to assume forms and become Māras",
+     "evidence": "Tibetan \"ཡོངས་སུ་བརྟག་པ་བཟུང་སྟེ་བདུད་གྱུར་ལ\" has no word for \"forms\"; bo-rangjung 5-50 glosses it \"ཡོངས་སུ་བརྟག་པའི་བསམ་པ་བཟུང་སྟེ། བདུད་དུ་གྱུར་པ\" (taking up the intention, then becoming Māras); Skt \"parikalpa bhaveyu māraḥ\".",
+     "fix": "were to take up the intention and become Māras"
+    }
+   ]
+  },
+  {
+   "id": "5-51",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,160 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "4-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-52",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Without the wisdom of the Guides",
+     "evidence": "Tibetan 'ཤེས་རབ་ཕ་འདྲེན་པའི་ཤེས་རབ་མེད་ན'. Mipham (bo-mipham 4-52) and Khenrab (bo-khenrab 4-52) both gloss 'འདྲེན་པ' as 'རྒྱལ་བའི་ཡུམ་ཤེས་རབ་ཀྱི་ཕར་ཕྱིན' (the Victors' mother, the perfection of wisdom), i.e. the wisdom meant is the perfection of wisdom itself as mother of the Guides, not the Guides' own wisdom; the English 'wisdom of the Guides' invites the latter reading.",
+     "fix": "Without this wisdom, the mother of the Guides, they will not attain it."
+    }
+   ]
+  },
+  {
+   "id": "4-53",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "It will surely meet with ruin there.",
+     "evidence": "Tibetan 'ཉམ་ཉེས་གྱུར་པ་ཡིན'. Mipham (bo-mipham 4-53) and Khenrab (bo-khenrab 4-52) gloss it as 'ཉམས་ཉེས ... ལུས་རྨས་པ' (harm, injury to the body, wounding); 'ruin' overstates this and is not what the commentaries describe.",
+     "fix": "it will suffer harm (injury) there."
+    }
+   ]
+  },
+  {
+   "id": "4-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-60",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "nor mantras for union with women",
+     "evidence": "Tibetan 'བུད་མེད་སྦྱོར་སྔགས་མིན'. Mipham (bo-mipham 4-60) glosses 'བུད་མེད་དབང་དུ་བྱེད་པའམ་རང་དབང་དུ་སྦྱོར་བའི་སྔགས' and Khenrab (bo-khenrab 4-60) 'བུད་མེད་དབང་དུ་སྡུད་པའམ་རང་དབང་དུ་སྦྱོར་བའི་སྔགས': mantras to subjugate women or bring them under one's control (Skt strīprayoga-mantra), not mantras for sexual union.",
+     "fix": "nor mantras for bringing women under one's control."
+    }
+   ]
+  },
+  {
+   "id": "4-61",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "Utterly secluded in the perfection of wisdom",
+     "evidence": "Skt 'pravivikta prajñavarapāramitābhiyuktāḥ' (secluded, devoted to the perfection of wisdom). Mipham (bo-mipham 4-60) 'རབ་ཏུ་དབེན་པའི་སྒོ་ནས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མཆོག་ལ་བརྩོན་པ' and Rangjung (bo-rangjung 4-59) '...ཕ་རོལ་ཏུ་ཕྱིན་པ་མཆོག་ལ་བརྩོན་པ': they are secluded and strive at the perfection of wisdom; the English drops the striving and makes seclusion occur 'in' it.",
+     "fix": "Utterly secluded, devoted to the perfection of wisdom,"
+    }
+   ]
+  },
+  {
+   "id": "4-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-65",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "For that many eons, the bodhisattva will achieve attainment.",
+     "evidence": "Tibetan 'དེ་སྙེད་བསྐལ་པར་བྱང་ཆུབ་སེམས་དཔས་ཐོབ་པར་འགྱུར'. Mipham (bo-mipham 4-65) 'དེ་སྙེད་ཀྱི་བསྐལ་པར་བསགས་པའི་དགེ་བ་ཡང་...བྱང་ཆུབ་སེམས་དཔས་ཐོབ་པར་འགྱུར', Rangjung (bo-rangjung 4-64) '...བསྐལ་པར...བསྒྲུབ་པའི་བསོད་ནམས་ཅི་ཡོད་པ་དེ་བྱང་ཆུབ་སེམས་དཔའ་ཐོབ་པར་འགྱུར', Khenrab (bo-khenrab 4-65) likewise: what the bodhisattva obtains is the virtue/merit accumulated over that many eons. The English leaves the object of 'attain' out, so the comparison (a day of practice yields eons of merit) is lost.",
+     "fix": "the bodhisattva will obtain the merit accumulated over that many eons."
+    }
+   ]
+  },
+  {
+   "id": "4-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-69",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "thoroughly practiced",
+     "evidence": "Tibetan 'རབ་ཏུ་སྤྱོད་ཅིང་རབ་བསྟན་པའི་'; Skt 'prayukta prakāśita'. Mipham (bo-mipham 4-69) 'དེའི་དོན་རབ་ཏུ་རྒྱས་པར་སྦྱོར་ཞིང་བསྟན་པ' and Rangjung (bo-rangjung 4-69) 'རྒྱས་པར་...སྒྲུབ་བྱེད་ཀྱིས་ཀྱང་རབ་ཏུ་བསྟན' show the Buddhas elaborating and setting forth the meaning at length, not the Dharmas being 'practiced' by someone.",
+     "fix": "extensively set forth"
+    },
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "many tens of billions of eons",
+     "evidence": "Tibetan 'བསྐལ་པ་བྱེ་བ་ཁྲག་ཁྲིག་མང་བོར' is the identical phrase rendered in 4-54 as 'many tens of millions and hundreds of billions of eons'; the same number phrase should receive one rendering across the text.",
+     "fix": "many tens of millions and hundreds of billions of eons"
+    }
+   ]
+  }
+ ]
+}

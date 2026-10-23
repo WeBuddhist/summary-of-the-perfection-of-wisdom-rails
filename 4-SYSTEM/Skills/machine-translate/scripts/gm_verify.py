@@ -109,8 +109,9 @@ def main():
     mismatches = []
     for f in files:
         stem = f.name[: -(len(tag) + 4)]
-        src = VAULT / "1-SOURCES" / "Text" / f"{stem}.md"
-        if not src.exists():
+        src = next((VAULT / "1-SOURCES" / d / f"{stem}.md" for d in ("Text", "Translations", "Commentaries")
+                    if (VAULT / "1-SOURCES" / d / f"{stem}.md").exists()), None)
+        if src is None:
             mismatches.append((f.name, "no source"))
             continue
         ids_src = re.findall(r"\^([A-Za-z0-9-]+)\s*$", src.read_text(encoding="utf-8"), re.M)

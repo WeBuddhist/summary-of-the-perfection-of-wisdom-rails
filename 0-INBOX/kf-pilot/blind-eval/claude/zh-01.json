@@ -1,0 +1,458 @@
+{
+ "segments": [
+  {
+   "id": "0-4",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Joy and respect (dga' dang gus) are missing; only faith is partly rendered."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "當行智度彼岸行",
+      "explanation": "Tibetan says listen (mnyan par gyis); candidate says practise."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "聖者",
+      "explanation": "dpes pa is gentle/peaceful (Mipham), not noble one."
+     },
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "勇識菩薩們",
+      "explanation": "'勇識' is an odd, apparently garbled rendering of dpa' (hero)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-6",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "菩薩若求出家智",
+      "explanation": "The Śreṇika/wanderer simile is lost; replaced by a bodhisattva seeking renunciant knowledge."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "照見五蘊無實相",
+      "explanation": "Aggregates being destroyed without observation is turned into seeing them as unreal."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "知此不求於寂靜",
+      "explanation": "'Does not touch nirvana' becomes 'does not seek quiescence'."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "彼是菩薩之行智",
+      "explanation": "'Abides in wisdom' becomes 'the bodhisattva's practice-wisdom'."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "1-16",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "得第一義眾生中",
+      "explanation": "'Supreme among beings' is rendered with 第一義 (ultimate truth), misrepresenting the sense."
+     },
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "得第一義眾生中",
+      "explanation": "Phrase is garbled and hard to parse."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "1-25",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "生滅無二無分別",
+      "explanation": "Tibetan: non-arising and arising both unconceptualised; candidate says arising-ceasing nondual, changing the pair."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-28",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "The chapter statement 'teaching the knowledge of the path' is not rendered."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "major",
+      "span": "佛母寶德藏般若伽陀帝釋品第二歡喜地攝布施波羅蜜伽陀",
+      "explanation": "Adds work title and bhūmi/pāramitā classification absent from the Tibetan."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-8",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "fluency",
+      "severity": "major",
+      "span": "若此功德出離者",
+      "explanation": "Line is unfinished and the verse's conclusion (the training of those delighting in qualities) is lost."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "學不受色不增減",
+      "explanation": "Form's growth, decline and grasping are compressed into an unclear phrase."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "2-21",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "七寶四兵為導從",
+      "explanation": "The jewels and army go along the road; they do not lead or escort."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "若依佛母最上行",
+      "explanation": "The PP 'going' from whom qualities go becomes 'relying on'; 'supreme conduct' is added."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "2-27",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "千萬樹木",
+      "explanation": "Thousand koṭi is understated as ten million."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "雖一一樹影皆別",
+      "explanation": "Says each tree's shadow differs, contradicting that shadows have no variety or distinctions."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-30",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "是法無得",
+      "explanation": "'No attainment' is not in the Tibetan."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "無色無受想行識",
+      "explanation": "Non-observation of perception and volition is turned into flat non-existence of the aggregates."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "若非色非受亦不緣想",
+      "explanation": "'In which' (gang la) is lost; reads as an odd conditional."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-40",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "major",
+      "span": "以功德施佛菩提 菩薩之施皆無相",
+      "explanation": "Dedication and signless giving are not in the Tibetan segment."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "至成正覺及入滅",
+      "explanation": "Tibetan says until the guides' sacred Dharma is exhausted, not until enlightenment and nirvana."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Merit of the victors, the pāramitās and the buddha-dharmas are missing."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-50",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "菩薩諦信行佛行",
+      "explanation": "'I shall practise the Victor's wisdom' becomes faith in practising buddha conduct."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-53",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "不能信重諸佛母",
+      "explanation": "Imperative to have faith in the Victors' mother is turned into inability to trust her."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "如商入海",
+      "explanation": "Merchant goes to a jewel island, not into the sea."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "4-6",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "fluency",
+      "severity": "major",
+      "span": "如是善入殊勝菩提諸勝者之，應當了知聽聞",
+      "explanation": "'諸勝者之' is misplaced; the Victors' wisdom perfection is not clearly connected, and the sentence is hard to parse."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-10",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "離思非思無相行",
+      "explanation": "Practising by blessing (byin gyis rlabs) is lost and 'signless' is added."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Bodhi is dropped from 'powers, bases of miracles, peaceful bodhi'."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-17",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "當於法師深信重",
+      "explanation": "Tibetan: listeners leave displeased on learning the preacher is busy; candidate says trust the preacher deeply."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "major",
+      "span": "法師知魔不應著 身適悅及不適悅",
+      "explanation": "Adds demons and bodily comfort not in the Tibetan."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "The listeners' joylessness and departure upon seeing the preacher occupied is missing."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-26",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "major",
+      "span": "邪魔",
+      "explanation": "Demons are not in the Tibetan; only tīrthikas are frightened."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "'Fearless' (lion and human lion) is omitted."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "4-36",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Safe arrival home is not rendered."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-44",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "critical",
+      "span": "勿為初地如是說",
+      "explanation": "Tibetan says teach beginners thus; candidate says do not teach, reversing the instruction."
+     },
+     {
+      "category": "terminology",
+      "severity": "major",
+      "span": "初地",
+      "explanation": "Beginner (las dang po pa) is rendered as the first bhūmi."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "佛蘊非有不可求",
+      "explanation": "Instruction not to cling to bodhi as a heap becomes an assertion that the buddha-aggregate is non-existent."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "莫貪著蘊為菩提",
+      "explanation": "Direction reversed: Tibetan is clinging to bodhi as an aggregate, not aggregates as bodhi."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "4-48",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "此非初心眾生知",
+      "explanation": "Candidate claims beginner beings cannot know it; Tibetan says the Buddha wondered who could know."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "The Buddha's reduced inclination to teach (thugs khral chung) is missing."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "4-57",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/addition",
+      "severity": "major",
+      "span": "如山谷響聲相應",
+      "explanation": "The echo simile is not in the Tibetan."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Speaking reasonable words (rigs pa ldan tshig smra) is not rendered."
+     }
+    ],
+    "C": []
+   }
+  }
+ ]
+}

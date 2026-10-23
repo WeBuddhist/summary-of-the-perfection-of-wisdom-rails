@@ -1,0 +1,695 @@
+{
+ "batch": "batch-13",
+ "terms": [
+  {
+   "term_id": "T013",
+   "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ",
+   "sanskrit": "prajñāpāramitā",
+   "senses": [
+    {
+     "sense": "the perfection of wisdom",
+     "occurrences": "all",
+     "academic": "般若波羅蜜多",
+     "children": "圓滿的智慧",
+     "basis": "style-sheet",
+     "reason": "Core term; spelling variants share it."
+    }
+   ]
+  },
+  {
+   "term_id": "T026",
+   "bo": "ཡེ་ཤེས",
+   "sanskrit": "jñāna",
+   "senses": [
+    {
+     "sense": "primordial wisdom",
+     "occurrences": "all",
+     "academic": "本智",
+     "children": "深刻的領悟",
+     "basis": "style-sheet",
+     "reason": "Core term for jñāna, apart from 般若."
+    }
+   ]
+  },
+  {
+   "term_id": "T039",
+   "bo": "སྒྱུ་མ",
+   "sanskrit": "māyā",
+   "senses": [
+    {
+     "sense": "illusion",
+     "occurrences": "all",
+     "academic": "幻化",
+     "children": "幻象",
+     "basis": "new",
+     "reason": "Not in sheet; 幻化 is the established word for māyā; child takes Gemini 幻象."
+    }
+   ]
+  },
+  {
+   "term_id": "T052",
+   "bo": "ནམ་མཁའ",
+   "sanskrit": "ākāśa",
+   "senses": [
+    {
+     "sense": "space",
+     "occurrences": "all",
+     "academic": "虛空",
+     "children": "虛空",
+     "basis": "english-pivot",
+     "reason": "Established for ākāśa; transparent, and 天空 would mean sky only."
+    }
+   ]
+  },
+  {
+   "term_id": "T065",
+   "bo": "ནམ་མཁའི་ཁམས",
+   "sanskrit": "ākāśadhātu",
+   "senses": [
+    {
+     "sense": "element of space",
+     "occurrences": "all",
+     "academic": "虛空界",
+     "children": "虛空的元素",
+     "basis": "style-sheet",
+     "reason": "虛空 plus 界 (element); child adds 元素 per sheet."
+    }
+   ]
+  },
+  {
+   "term_id": "T078",
+   "bo": "བདག",
+   "sanskrit": "ātman",
+   "senses": [
+    {
+     "sense": "self",
+     "occurrences": "all",
+     "academic": "我",
+     "children": "自己",
+     "basis": "english-pivot",
+     "reason": "Established for ātman, as in 無我; child uses plain 自己."
+    }
+   ]
+  },
+  {
+   "term_id": "T091",
+   "bo": "བདུད་ཀྱི་ལས",
+   "sanskrit": "mārakarma",
+   "senses": [
+    {
+     "sense": "work of Māra",
+     "occurrences": "all",
+     "academic": "魔事",
+     "children": "魔王的作為",
+     "basis": "style-sheet",
+     "reason": "Policy 魔事 for བདུད་ཀྱི་ལས; child builds on 魔王."
+    }
+   ]
+  },
+  {
+   "term_id": "T104",
+   "bo": "ཐེག་ཆེན",
+   "sanskrit": "mahāyāna",
+   "senses": [
+    {
+     "sense": "Great Vehicle",
+     "occurrences": "all",
+     "academic": "大乘",
+     "children": "大乘",
+     "basis": "style-sheet",
+     "reason": "Sheet lists 大乘 as transparent for children; established."
+    }
+   ]
+  },
+  {
+   "term_id": "T117",
+   "bo": "ཡོངས་སུ་བསྔོ",
+   "sanskrit": "pariṇāma",
+   "senses": [
+    {
+     "sense": "dedicate",
+     "occurrences": "all",
+     "academic": "迴向",
+     "children": "奉獻",
+     "basis": "style-sheet",
+     "reason": "Core term བསྔོ with its variants."
+    }
+   ]
+  },
+  {
+   "term_id": "T130",
+   "bo": "མི་ལྡོག་ལུང་བསྟན",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "prophecy of irreversibility",
+     "occurrences": "all",
+     "academic": "不退轉授記",
+     "children": "絕不退回的預言",
+     "basis": "english-pivot",
+     "reason": "不退轉 is established for avinivartanīya; child follows the English \"never turning back\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T143",
+   "bo": "རྣམ་པར་ཤེས་པ",
+   "sanskrit": "vijñāna",
+   "senses": [
+    {
+     "sense": "consciousness",
+     "occurrences": "all",
+     "academic": "識",
+     "children": "覺知",
+     "basis": "style-sheet",
+     "reason": "Aggregate name 識 per policy 14; child follows English \"awareness\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T156",
+   "bo": "རྐྱེན་རྟོགས་ས",
+   "sanskrit": "pratyekabuddhabhūmi",
+   "senses": [
+    {
+     "sense": "stage of a pratyekabuddha",
+     "occurrences": "all",
+     "academic": "獨覺地",
+     "children": "獨自覺悟的人的階段",
+     "basis": "style-sheet",
+     "reason": "Built on 獨覺 (core term); 地 for bhūmi; Gemini 緣覺 refused."
+    }
+   ]
+  },
+  {
+   "term_id": "T169",
+   "bo": "རྒྱལ",
+   "sanskrit": "jina",
+   "senses": [
+    {
+     "sense": "Victor",
+     "occurrences": "all",
+     "academic": "勝者",
+     "children": "得勝者",
+     "basis": "style-sheet",
+     "reason": "Core term རྒྱལ་བ epithet."
+    }
+   ]
+  },
+  {
+   "term_id": "T182",
+   "bo": "དགེ་སློང",
+   "sanskrit": "bhikṣu",
+   "senses": [
+    {
+     "sense": "monk",
+     "occurrences": "all",
+     "academic": "比丘",
+     "children": "僧人",
+     "basis": "english-pivot",
+     "reason": "Established for bhikṣu; child plain word for monk."
+    }
+   ]
+  },
+  {
+   "term_id": "T195",
+   "bo": "བདུད་བཞི",
+   "sanskrit": "catvāro māra",
+   "senses": [
+    {
+     "sense": "four Māras",
+     "occurrences": "all",
+     "academic": "四魔",
+     "children": "四個魔王",
+     "basis": "style-sheet",
+     "reason": "Number plus 魔 (core term); child uses 魔王."
+    }
+   ]
+  },
+  {
+   "term_id": "T208",
+   "bo": "བདག་དང་བདག་གི",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "self and what belongs to self",
+     "occurrences": "all",
+     "academic": "我與我所",
+     "children": "自己和屬於自己的東西",
+     "basis": "english-pivot",
+     "reason": "Established pair ātman/ātmīya; child spells it out plainly."
+    }
+   ]
+  },
+  {
+   "term_id": "T221",
+   "bo": "འཕགས་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "noble",
+     "occurrences": "all",
+     "academic": "聖",
+     "children": "高尚",
+     "basis": "style-sheet",
+     "reason": "Policy 10 fixes 聖 for འཕགས་པ; child follows English \"noble\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T234",
+   "bo": "འཁོར་བཞི",
+   "sanskrit": "catasraḥ parṣadaḥ",
+   "senses": [
+    {
+     "sense": "four assemblies",
+     "occurrences": "all",
+     "academic": "四眾",
+     "children": "四類聽眾",
+     "basis": "english-pivot",
+     "reason": "Established for the four assemblies; child spells out the audience."
+    }
+   ]
+  },
+  {
+   "term_id": "T247",
+   "bo": "ལྷག་མཐོང",
+   "sanskrit": "vipaśyanā",
+   "senses": [
+    {
+     "sense": "special insight",
+     "occurrences": "all",
+     "academic": "勝觀",
+     "children": "清晰的洞察",
+     "basis": "english-pivot",
+     "reason": "勝觀 is the Tibetan-derived Chinese for vipaśyanā; child follows English."
+    }
+   ]
+  },
+  {
+   "term_id": "T260",
+   "bo": "སྡུག་བསྔལ་འདུ་ཤེས",
+   "sanskrit": "duḥkhasaṃjñā",
+   "senses": [
+    {
+     "sense": "perception of suffering",
+     "occurrences": "all",
+     "academic": "苦想",
+     "children": "痛苦的想法",
+     "basis": "style-sheet",
+     "reason": "苦 plus 想 per core terms སྡུག་བསྔལ and འདུ་ཤེས."
+    }
+   ]
+  },
+  {
+   "term_id": "T273",
+   "bo": "ངེས་འབྱུང",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "definite emergence",
+     "occurrences": "all",
+     "academic": "出離",
+     "children": "出路",
+     "basis": "english-pivot",
+     "reason": "Established for niḥsaraṇa; child \"way out\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T286",
+   "bo": "སྨན་པ",
+   "sanskrit": "vaidya",
+   "senses": [
+    {
+     "sense": "physician",
+     "occurrences": "all",
+     "academic": "醫師",
+     "children": "醫生",
+     "basis": "english-pivot",
+     "reason": "Plain word for physician; no sheet entry."
+    }
+   ]
+  },
+  {
+   "term_id": "T299",
+   "bo": "སྨྲ་མཆོག",
+   "sanskrit": "vādiśreṣṭha",
+   "senses": [
+    {
+     "sense": "supreme speaker",
+     "occurrences": "all",
+     "academic": "殊勝說者",
+     "children": "最會說話的人",
+     "basis": "new",
+     "reason": "མཆོག is 殊勝 per sheet; 說者 for སྨྲ་བ; child follows English."
+    }
+   ]
+  },
+  {
+   "term_id": "T312",
+   "bo": "མི་སློབ",
+   "sanskrit": "aśaikṣa",
+   "senses": [
+    {
+     "sense": "one beyond training",
+     "occurrences": "all",
+     "academic": "無學",
+     "children": "學成的人",
+     "basis": "english-pivot",
+     "reason": "無學 is established for aśaikṣa; child phrase from English."
+    }
+   ]
+  },
+  {
+   "term_id": "T325",
+   "bo": "དག་པ",
+   "sanskrit": "śuddhi",
+   "senses": [
+    {
+     "sense": "purity",
+     "occurrences": "all",
+     "academic": "清淨",
+     "children": "純淨",
+     "basis": "english-pivot",
+     "reason": "Established for śuddhi; child plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T338",
+   "bo": "བྱིན་གྱི་རླབས",
+   "sanskrit": "adhiṣṭhāna",
+   "senses": [
+    {
+     "sense": "blessing",
+     "occurrences": "all",
+     "academic": "加持",
+     "children": "祝福",
+     "basis": "english-pivot",
+     "reason": "Established for adhiṣṭhāna; child follows English \"blessing\"; shared with T494."
+    }
+   ]
+  },
+  {
+   "term_id": "T351",
+   "bo": "ཕྱོགས་བཅུའི་སངས་རྒྱས",
+   "sanskrit": "daśadiśi buddha",
+   "senses": [
+    {
+     "sense": "Buddhas of the ten directions",
+     "occurrences": "all",
+     "academic": "十方諸佛",
+     "children": "十個方向的佛陀",
+     "basis": "style-sheet",
+     "reason": "十方 plus 佛 (core term); child uses 佛陀."
+    }
+   ]
+  },
+  {
+   "term_id": "T364",
+   "bo": "ཡིད",
+   "sanskrit": "manas",
+   "senses": [
+    {
+     "sense": "intellect",
+     "occurrences": "all",
+     "academic": "意",
+     "children": "思考的心",
+     "basis": "english-pivot",
+     "reason": "意 is the established manas; child follows \"thinking mind\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T377",
+   "bo": "དཔུང་གཉེན",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "defender",
+     "occurrences": "all",
+     "academic": "守護者",
+     "children": "保護者",
+     "basis": "new",
+     "reason": "Not in sheet; Gemini 親友 misreads the term; best candidate from English \"defender\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T390",
+   "bo": "འཛིན",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "grasping",
+     "occurrences": "all",
+     "academic": "執取",
+     "children": "緊抓不放",
+     "basis": "english-pivot",
+     "reason": "Established for grasping; bare noun form; child follows \"holding on\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T403",
+   "bo": "ཁྱུ་མཆོག",
+   "sanskrit": "vṛṣabha",
+   "senses": [
+    {
+     "sense": "great bull",
+     "occurrences": "all",
+     "academic": "牛王",
+     "children": "偉大的領袖",
+     "basis": "english-pivot",
+     "reason": "牛王 is the established epithet (vṛṣabha); child follows English."
+    }
+   ]
+  },
+  {
+   "term_id": "T416",
+   "bo": "ཆོ་འཕྲུལ",
+   "sanskrit": "prātihārya",
+   "senses": [
+    {
+     "sense": "miraculous display",
+     "occurrences": "all",
+     "academic": "神變",
+     "children": "奇蹟",
+     "basis": "english-pivot",
+     "reason": "神變 is established for prātihārya; child follows \"wonder\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T429",
+   "bo": "བདེ་བར་གཤེགས་ཀྱི་སྲས",
+   "sanskrit": "sugatātmaja",
+   "senses": [
+    {
+     "sense": "son of the Sugata",
+     "occurrences": "all",
+     "academic": "善逝之子",
+     "children": "走向安樂的人的兒子",
+     "basis": "style-sheet",
+     "reason": "Built on བདེ་གཤེགས core term 善逝 and its child phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T442",
+   "bo": "ཡང་དག་མིན",
+   "sanskrit": "abhūta",
+   "senses": [
+    {
+     "sense": "unreal",
+     "occurrences": "all",
+     "academic": "不真實",
+     "children": "不是真的",
+     "basis": "english-pivot",
+     "reason": "Negated 真實 for abhūta; child follows English \"not real\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T455",
+   "bo": "ལྟ་བ",
+   "sanskrit": "dṛṣṭi",
+   "senses": [
+    {
+     "sense": "view",
+     "occurrences": "all",
+     "academic": "見",
+     "children": "看法",
+     "basis": "english-pivot",
+     "reason": "Established for dṛṣṭi; child plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T468",
+   "bo": "སངས་རྒྱས་ཅོས",
+   "sanskrit": "buddhadharma",
+   "senses": [
+    {
+     "sense": "qualities of a Buddha",
+     "occurrences": "all",
+     "academic": "佛功德",
+     "children": "佛陀的特質",
+     "basis": "style-sheet",
+     "reason": "Sense is quality-ཆོས, so 功德 per policy 6; 佛法 refused; ཅོས is a misspelling."
+    }
+   ]
+  },
+  {
+   "term_id": "T481",
+   "bo": "ཆོས་སྦྱིན",
+   "sanskrit": "dharmadāna",
+   "senses": [
+    {
+     "sense": "gift of Dharma",
+     "occurrences": "all",
+     "academic": "法施",
+     "children": "佛法的禮物",
+     "basis": "style-sheet",
+     "reason": "法施 is a fixed collocation in policy 6; child follows \"gift of teaching\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T494",
+   "bo": "བྱིན་བརླབས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "blessing",
+     "occurrences": "all",
+     "academic": "加持",
+     "children": "祝福",
+     "basis": "english-pivot",
+     "reason": "Same term as T338; one rendering for blessing."
+    }
+   ]
+  },
+  {
+   "term_id": "T507",
+   "bo": "རང་བྱུང",
+   "sanskrit": "svayaṃbhū",
+   "senses": [
+    {
+     "sense": "self-arisen",
+     "occurrences": "all",
+     "academic": "自生",
+     "children": "自己產生",
+     "basis": "english-pivot",
+     "reason": "自生 is established for svayaṃbhū; child follows \"arisen by itself\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T520",
+   "bo": "མཉམ་པར་མ་བཞག",
+   "sanskrit": "asamāhita",
+   "senses": [
+    {
+     "sense": "not in meditative equipoise",
+     "occurrences": "all",
+     "academic": "未等引",
+     "children": "沒有安定於禪修",
+     "basis": "english-pivot",
+     "reason": "等引 is the Tibetan-derived equipoise word (samāhita); child follows English."
+    }
+   ]
+  },
+  {
+   "term_id": "T533",
+   "bo": "ཞིང་སྦྱོང",
+   "sanskrit": "kṣetraparisodhana",
+   "senses": [
+    {
+     "sense": "purification of the field",
+     "occurrences": "all",
+     "academic": "淨剎土",
+     "children": "淨化佛國",
+     "basis": "english-pivot",
+     "reason": "剎土 is CBETA spelling per policy 1; ཞིང་ is field/land."
+    }
+   ]
+  },
+  {
+   "term_id": "T546",
+   "bo": "ཙན་དན",
+   "sanskrit": "candana",
+   "senses": [
+    {
+     "sense": "sandalwood",
+     "occurrences": "all",
+     "academic": "旃檀",
+     "children": "檀香",
+     "basis": "zero-shot",
+     "reason": "Gemini 旃檀 is the established form of candana; child plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T559",
+   "bo": "ཚུལ་ཁྲིམས་སྡོམ་པ",
+   "sanskrit": "śīlasaṃvara",
+   "senses": [
+    {
+     "sense": "ethical discipline of restraint",
+     "occurrences": "all",
+     "academic": "持戒律儀",
+     "children": "自我約束的良好品行",
+     "basis": "style-sheet",
+     "reason": "ཚུལ་ཁྲིམས 持戒 plus སྡོམ་པ 律儀 in Tibetan order; child builds on 良好品行."
+    }
+   ]
+  },
+  {
+   "term_id": "T572",
+   "bo": "སྲིད་པ་གསུམ",
+   "sanskrit": "tribhava",
+   "senses": [
+    {
+     "sense": "three states of existence",
+     "occurrences": "all",
+     "academic": "三有",
+     "children": "三種生命",
+     "basis": "english-pivot",
+     "reason": "三有 is established for tribhava; child follows English \"three kinds of life\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T585",
+   "bo": "རྒྱལ་བའི་བང་མཛོད",
+   "sanskrit": "jinakośa",
+   "senses": [
+    {
+     "sense": "treasury of the Victors",
+     "occurrences": "all",
+     "academic": "勝者之寶庫",
+     "children": "得勝者的寶庫",
+     "basis": "style-sheet",
+     "reason": "勝者 (core term) plus བང་མཛོད treasury; child uses 得勝者."
+    }
+   ]
+  },
+  {
+   "term_id": "T598",
+   "bo": "ཡོན་ཏན་རིན་ཆེན་སྡུད་པ",
+   "sanskrit": "ratnaguṇasaṃcaya",
+   "senses": [
+    {
+     "sense": "title of the work",
+     "occurrences": "all",
+     "academic": "《寶德藏》",
+     "children": "《珍貴的美好品質集》",
+     "basis": "style-sheet",
+     "reason": "Policy 10 fixes 寶德藏 for ratnaguṇasaṃcaya; child spells out parts with 美好的品質."
+    }
+   ]
+  }
+ ]
+}

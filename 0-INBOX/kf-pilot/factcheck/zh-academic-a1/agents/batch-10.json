@@ -1,0 +1,137 @@
+{
+ "batch": "batch-10",
+ "segments": [
+  {
+   "id": "4-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-93",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "珍寶之",
+     "evidence": "Tibetan \"རིན་ཆེན་གྱི། གླིང་དུ་སོང་སྟེ\" is the same jewel-island (རིན་ཆེན་གླིང) rendered 寶洲 in 4-92 and 4-94 (locked term); here it appears as 珍寶之洲, breaking term consistency (Mipham 4-92 also reads \"རིན་ཆེན་གྱི་གླིང\" for the same image).",
+     "fix": "前往空性寶洲"
+    }
+   ]
+  },
+  {
+   "id": "4-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-96",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "以慈相繫眾生後",
+     "evidence": "Tibetan \"འགྲོ་ལ་བྱམས་པས་རྗེས་སུ་འབྲེལ་བྱས་ནས\" (Mipham 4-96: བྱམས་པ་ཆེན་པོས་བཟུང་བའི་སྒོ་ནས་རྗེས་སུ་འབྲེལ་བར་བྱས) means \"being accompanied/held by loving-kindness toward beings\"; 慈相 can be read as a noun \"sign of loving-kindness\", colliding with 相 = nimitta in the very next line (無相).",
+     "fix": "以慈而與眾生相隨相繫之後"
+    }
+   ]
+  },
+  {
+   "id": "4-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "千萬年",
+     "evidence": "Tibetan \"ལོ་མང་བྱེ་བ\" = \"many ten-millions of years\" (Sanskrit bahuvarṣakoṭī; Khenrab 5-8 \"ལོ་མང་པོ་བྱེའི་བར་དུ\"). 千萬年 states a single koṭi (10 million) and drops \"many\".",
+     "fix": "多個千萬年"
+    }
+   ]
+  },
+  {
+   "id": "5-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "遠離二乘之心",
+     "evidence": "Tibetan \"ཐེག་པ་གཉིས་ཀྱི་སེམས་བྲལ\" uses བྲལ (be free of), not དབེན་པ; 遠離 is the locked rendering of དབེན་པ (seclusion), used in the next line, so the same word here blurs two different Tibetan terms.",
+     "fix": "離二乘之心"
+    }
+   ]
+  }
+ ]
+}

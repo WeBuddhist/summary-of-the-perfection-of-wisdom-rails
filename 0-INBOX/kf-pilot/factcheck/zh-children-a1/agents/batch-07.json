@@ -1,0 +1,215 @@
+{
+ "batch": "batch-07",
+ "segments": [
+  {
+   "id": "4-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-80",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "妻兒",
+     "evidence": "The text mentions parents and wife only; no children.",
+     "fix": "他帶著父母和妻子一起出門。"
+    },
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "來保護大家",
+     "evidence": "The text says he emanates many brave men; it does not state the purpose (protection).",
+     "fix": "這時，他變出許多勇敢的人。"
+    }
+   ]
+  },
+  {
+   "id": "4-81",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "卻不急著去接觸覺悟",
+     "evidence": "The text says the bodhisattva does not touch (realize) enlightenment; 'not in a hurry' turns a negation into a delay, implying he will soon do so.",
+     "fix": "卻不去接觸覺悟。"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "完全打敗了四個魔王",
+     "evidence": "The text says the bodhisattva has completely transcended the four maras, not defeated them.",
+     "fix": "他們完全超越了四個魔王。"
+    }
+   ]
+  },
+  {
+   "id": "4-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-83",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "也不會只停留在空性之中",
+     "evidence": "The text says the bodhisattva does not abide in emptiness at all; 'only' weakens this.",
+     "fix": "也不會停留在空性之中。"
+    }
+   ]
+  },
+  {
+   "id": "4-84",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "認取",
+     "evidence": "'Not meditating on signs'; 認取 is a hard word for ages 8-12.",
+     "fix": "他在這段期間完全不去想著任何記號。"
+    }
+   ]
+  },
+  {
+   "id": "4-85",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "也不去追求任何記號",
+     "evidence": "The text says he does not practice/engage in signs, not that he does not seek them.",
+     "fix": "也不照著任何記號去行動。"
+    }
+   ]
+  },
+  {
+   "id": "4-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-91",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "卻不會獨自進入超越憂傷的安寧",
+     "evidence": "The text says the bodhisattva does not touch nirvana at all; 'alone' adds the idea that he might enter it together with others.",
+     "fix": "卻不去接觸超越憂傷的安寧。"
+    }
+   ]
+  },
+  {
+   "id": "4-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "以為自己能給出各種真實的祝福",
+     "evidence": "The text says arrogance arises because he has accomplished the various true blessings, not because he merely believes he can give them.",
+     "fix": "有人成就了各種真實的祝福，就產生了自大。"
+    }
+   ]
+  },
+  {
+   "id": "5-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-7",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

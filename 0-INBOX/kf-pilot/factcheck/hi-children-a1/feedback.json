@@ -1,0 +1,134 @@
+{
+ "1-4": {
+  "translation": "जिसे सबसे बड़ी पूर्ण प्रज्ञा नहीं मिलती है। जिसे बोधि-वीर नहीं मिलता और बोधि पाने की इच्छा भी नहीं मिलती है। यह बात सुनकर जिसे कोई डर या उलझन नहीं होती। ऐसा बोधि-वीर भली-भाँति गए हुए की प्रज्ञा पर चलता है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "जिसे सबसे बड़ी पूर्ण प्रज्ञा नहीं मिलती है। जिसे बोधि-वीर नहीं मिलता और बोधि पाने की इच्छा भी नहीं मिलती है।",
+    "evidence": "Text says perfect wisdom, bodhisattva and the wish for awakening are not apprehended (anupalabdha, not found as real things). 'Does not get/find' reads as the person lacking wisdom or failing to attain it.",
+    "fix": "जो सबसे बड़ी पूर्ण प्रज्ञा को भी असली चीज़ की तरह नहीं पकड़ता, बोधि-वीर को भी नहीं, और बोधि पाने की इच्छा को भी नहीं।"
+   }
+  ]
+ },
+ "1-6": {
+  "translation": "जैसे श्रेणिक नाम का एक घूमने वाला साधक अपने ज्ञान से समझता है। वह देखता है कि ढेर सच में नहीं मिलते। जो बोधि-वीर इसी तरह चीज़ें समझता है, वह दुख से परे शान्ति को पकड़कर नहीं रुकता। वह हमेशा प्रज्ञा में टिका रहता है।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "major",
+    "span": "—",
+    "evidence": "Academic translation: through the knowledge of the wanderer Shreni, the unfindable aggregates are dissolved/destroyed (vinasha); the children's text drops the dissolution and only says the aggregates are not found.",
+    "fix": "जैसे श्रेणिक नाम के घूमने वाले साधक के ज्ञान से ढेर सच में न मिलकर बिखर जाते हैं।"
+   }
+  ]
+ },
+ "2-12": {
+  "translation": "अगर शिक्षक रेत के कणों जितने युग तक रहें। वे लगातार 'जीव' शब्द कहते रहें। फिर भी नए जीव कैसे पैदा होंगे? वे तो शुरू से ही शुद्ध हैं। यही पूर्ण प्रज्ञा का सबसे उत्तम अभ्यास है। यही सच्ची पूर्णता है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "नए जीव कैसे पैदा होंगे",
+    "evidence": "The text asks how beings could arise at all, since they are pure from the beginning (no arising of beings). 'New beings' wrongly implies beings exist and only new ones fail to be born.",
+    "fix": "फिर भी जीव कैसे पैदा होंगे? वे तो शुरू से ही शुद्ध हैं।"
+   }
+  ]
+ },
+ "2-17": {
+  "translation": "इसी से मार्गदर्शक की दस शक्तियाँ पैदा होती हैं। जो कोई भली-भाँति गए हुओं की माँ को किताब में लिखकर पास रखता है, और फूल चढ़ाकर आदर करता है, उसे बहुत फल मिलता है। अगर कोई भली-भाँति गए हुए की याद में पवित्र स्मारक बनाकर पूजा करे, तो उसकी जमा की हुई अच्छाई भी इस किताब की पूजा के सामने कुछ नहीं है।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "उसे बहुत फल मिलता है",
+    "evidence": "The text does not say the person receives 'much fruit'; it only says the merit of stupa-worship is not even a fraction of the merit of honouring this book. 'फल' is also the locked term for the result of the path, not for merit.",
+    "fix": "जो कोई भली-भाँति गए हुओं की माँ को किताब में लिखकर पास रखता है और फूल चढ़ाकर आदर करता है, उसकी जमा की हुई अच्छाई के एक छोटे हिस्से के बराबर भी पवित्र स्मारक की पूजा की अच्छाई नहीं है।"
+   }
+  ]
+ },
+ "2-18": {
+  "translation": "विजेता की यह पूर्ण प्रज्ञा ज्ञान का महान मन्त्र है। प्रज्ञा की यह पूर्णता जीवों का क्षेत्र शांत करती है और जीवों के दुख को मिटाती है। बीते हुए समय के और दस दिशाओं की दुनिया के रक्षक इसी से सीखते हैं। जानने के शब्द सीखकर वे सबसे महान डॉक्टर बने, और वे इलाज करने वालों का राजा बन गए।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "जीवों का क्षेत्र शांत करती है और जीवों के दुख को मिटाती है",
+    "evidence": "The text says it pacifies the sorrow and suffering of the many realms of beings; the children's text makes the realm itself what is calmed and drops sorrow.",
+    "fix": "यह जीवों के कई क्षेत्रों के शोक और दुख को शांत करती है।"
+   }
+  ]
+ },
+ "4-6": {
+  "translation": "इसी तरह, जो लोग सबसे ऊँची बोधि के रास्ते पर अच्छे से चल पड़े हैं, वे विजेता की इस पूर्ण प्रज्ञा को सुनते हैं। भले ही किसी मार्गदर्शक ने उनके लिए सामने से भविष्यवाणी न की हो। फिर भी वे जानते हैं, 'मैं बहुत जल्दी बुद्ध की बोधि को पा लूँगा।'",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "वे विजेता की इस पूर्ण प्रज्ञा को सुनते हैं",
+    "evidence": "The text infers from hearing this Perfection of Wisdom that the hearer should be known as one who has entered supreme bodhi (श्रवण करने वाला जानना चाहिए); the children's text only states that those who have entered also listen, losing the 'hearing is the sign' logic.",
+    "fix": "जो विजेता की इस पूर्ण प्रज्ञा को सुनता है, उसे सबसे ऊँची बोधि के रास्ते पर चल पड़ा हुआ जानना चाहिए।"
+   }
+  ]
+ },
+ "4-16": {
+  "translation": "वे सम्मान और लाभ चाहेंगे। ग़लत नज़रिया रखकर वे गृहस्थों के साथ मेलजोल बढ़ाएँगे। वे शिक्षा को छोड़कर शिक्षा के विरुद्ध काम करेंगे। वे सही रास्ता छोड़कर ग़लत रास्ता पकड़ लेंगे। यह मार का काम है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "ग़लत नज़रिया रखकर",
+    "evidence": "The text says they mingle with householders with a mind that craves looking at outer objects (बाह्य विषयों पर दृष्टि डालने की लालसा); the children's text turns this into 'wrong view', which the segment does not say.",
+    "fix": "वे बाहर की चीज़ें देखने की चाह भरे नज़रिये से गृहस्थों के साथ मेलजोल बढ़ाएँगे।"
+   }
+  ]
+ },
+ "4-91": {
+  "translation": "इसी तरह, करुणा से भरा समझदार बोधि-वीर चतुर तरीके और प्रज्ञा की दो छतरियों को पकड़ता है। वह सोचता है कि सभी चीज़ें खाली हैं, उनका बिना निशानी के होना और बिना इच्छा के होना मानता है। वह केवल दुख से परे शान्ति को नहीं छूता, बल्कि सभी चीज़ों को देखता है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "वह केवल दुख से परे शान्ति को नहीं छूता, बल्कि सभी चीज़ों को देखता है",
+    "evidence": "The text says he does not touch nirvana at all and also sees dharmas; adding 'केवल' ('not only touch nirvana') implies he does touch it.",
+    "fix": "वह दुख से परे शान्ति को नहीं छूता और फिर भी चीज़ों को देखता रहता है।"
+   }
+  ]
+ },
+ "5-42": {
+  "translation": "अच्छाई और दूसरों का भला चाहने वाले जितने भी जीव हैं, वे उन सभी की जमा की हुई अच्छाई का ढेर देखकर भी खुश होना सीखते हैं। इसी कारण वे विजेताओं के अच्छे गुण पा लेते हैं। फिर वे सबका दुख दूर करने के लिए दुनिया को शिक्षा का उपहार देते हैं।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "अच्छाई और दूसरों का भला चाहने वाले जितने भी जीव हैं, वे उन सभी की जमा की हुई अच्छाई का ढेर देखकर भी खुश होना सीखते हैं",
+    "evidence": "The beings who seek virtue and benefit are the owners of the merit-heaps; the bodhisattvas rejoice in the merit of all of them. The children's text makes those beings themselves the ones who rejoice and then become like the victors and teach.",
+    "fix": "अच्छाई और दूसरों का भला चाहने वाले जितने भी जीव हैं, बोधि-वीर उन सभी की जमा की हुई अच्छाई के ढेर में भी खुश होते हैं।"
+   }
+  ]
+ },
+ "5-90": {
+  "translation": "ज्ञानी बोधि-वीर इस तरह धैर्य रखता है। फिर वह बोधि पाने की इच्छा जगाना सीखता है और उसे सबसे ऊँची बोधि के लिए समर्पित करता है। अपने इस धैर्य से वह वीर पूरी दुनिया में महान बन जाता है। वह सभी पूज्य साधकों, अकेले बुद्धों और जीवों का क्षेत्र जितना भी विशाल है, उन सबसे आगे निकल जाता है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "फिर वह बोधि पाने की इच्छा जगाना सीखता है और उसे सबसे ऊँची बोधि के लिए समर्पित करता है",
+    "evidence": "Academic: 'यदि' (if) he dedicates that generated aspiration to supreme bodhi, then his patience overcomes arhats etc. The condition is lost (turned into a plain sequence) and 'सीखता है' (learns) is added; the text says he has generated it and dedicates it.",
+    "fix": "अगर वह बोधि पाने की इच्छा जगाकर उसे सबसे ऊँची बोधि के लिए समर्पित कर दे, तो अपने धैर्य से वह वीर सब पूज्य साधकों, अकेले बुद्धों और जीवों के पूरे क्षेत्र से आगे निकल जाता है।"
+   }
+  ]
+ },
+ "5-99": {
+  "translation": "सुभूति, अगर कोई बोधि-वीर विजेताओं का रास्ता अपनाकर चलता है और यह धारणा बनाता है कि 'ये जीव अच्छे आचरण वाले हैं और ये अच्छे आचरण से रहित हैं', तो वह ख़ुद बहुत ही अच्छे आचरण से रहित है। ऐसा सोचने से उसका अपना अच्छा आचरण टूट जाता है और उसमें सचमुच का अच्छा आचरण नहीं बचता।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "सुभूति,",
+    "evidence": "No addressee is named in the Tibetan or the academic translation; the name Subhuti is invented.",
+    "fix": "अगर कोई बोधि-वीर विजेताओं का रास्ता अपनाकर चलता है"
+   }
+  ]
+ }
+}

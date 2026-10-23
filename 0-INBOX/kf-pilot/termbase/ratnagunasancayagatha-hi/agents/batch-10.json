@@ -1,0 +1,713 @@
+{
+ "batch": "batch-10",
+ "terms": [
+  {
+   "term_id": "T010",
+   "bo": "འདུ་ཤེས",
+   "sanskrit": "saṃjñā",
+   "senses": [
+    {
+     "sense": "perception",
+     "occurrences": "all",
+     "academic": "संज्ञा",
+     "children": "धारणा",
+     "basis": "style-sheet",
+     "reason": "Core term T-perception: aggregate name; kids धारणा."
+    }
+   ]
+  },
+  {
+   "term_id": "T023",
+   "bo": "བསམ་གཏན",
+   "sanskrit": "dhyāna",
+   "senses": [
+    {
+     "sense": "meditative concentration (the fourth perfection)",
+     "occurrences": "all",
+     "academic": "ध्यान",
+     "children": "गहरा ध्यान",
+     "basis": "style-sheet",
+     "reason": "Core term: fourth perfection; kids deep focus."
+    }
+   ]
+  },
+  {
+   "term_id": "T036",
+   "bo": "སྟོང",
+   "sanskrit": "śūnya",
+   "senses": [
+    {
+     "sense": "empty (adjective or predicate)",
+     "occurrences": [
+      "1-8",
+      "4-78",
+      "5-15",
+      "5-16",
+      "5-43"
+     ],
+     "academic": "शून्य",
+     "children": "खाली",
+     "basis": "style-sheet",
+     "reason": "Core term, adjective/predicate; kids खाली."
+    },
+    {
+     "sense": "emptiness (noun)",
+     "occurrences": [
+      "2-2",
+      "4-89",
+      "5-56"
+     ],
+     "academic": "शून्यता",
+     "children": "खालीपन",
+     "basis": "style-sheet",
+     "reason": "Core term, noun; kids खालीपन."
+    }
+   ]
+  },
+  {
+   "term_id": "T049",
+   "bo": "རྣམ་ཤེས",
+   "sanskrit": "vijñāna",
+   "senses": [
+    {
+     "sense": "consciousness (fifth aggregate)",
+     "occurrences": "all",
+     "academic": "विज्ञान",
+     "children": "जागरूकता",
+     "basis": "english-pivot",
+     "reason": "Policy 6: རྣམ་ཤེས = विज्ञान; kids awareness as जागरूकता."
+    }
+   ]
+  },
+  {
+   "term_id": "T062",
+   "bo": "སེམས་ཅན་འདུ་ཤེས",
+   "sanskrit": "sattvasaṃjñā",
+   "senses": [
+    {
+     "sense": "perception of sentient beings",
+     "occurrences": "all",
+     "academic": "सत्त्व-संज्ञा",
+     "children": "जीवों की धारणा",
+     "basis": "style-sheet",
+     "reason": "Compound of सत्त्व/जीव and संज्ञा/धारणा (policy 13)."
+    }
+   ]
+  },
+  {
+   "term_id": "T075",
+   "bo": "འཛམ་བུའི་གླིང",
+   "sanskrit": "jambudvīpa",
+   "senses": [
+    {
+     "sense": "the continent Jambudvīpa",
+     "occurrences": "all",
+     "academic": "जम्बूद्वीप",
+     "children": "जम्बूद्वीप",
+     "basis": "style-sheet",
+     "reason": "Place name in standard Hindi form (policy 9), same in both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T088",
+   "bo": "རྣམ་པར་འདྲེན་པ",
+   "sanskrit": "vināyaka",
+   "senses": [
+    {
+     "sense": "epithet of the Buddhas",
+     "occurrences": "all",
+     "academic": "मार्गदर्शक",
+     "children": "मार्गदर्शक",
+     "basis": "style-sheet",
+     "reason": "Policy 7: all three Guide terms become मार्गदर्शक."
+    }
+   ]
+  },
+  {
+   "term_id": "T101",
+   "bo": "འགྲོ་དོན",
+   "sanskrit": "jagadartha",
+   "senses": [
+    {
+     "sense": "welfare of beings",
+     "occurrences": "all",
+     "academic": "जगत् के प्राणियों का कल्याण",
+     "children": "प्राणियों की भलाई",
+     "basis": "style-sheet",
+     "reason": "Built on འགྲོ་བ = जगत् के प्राणी / प्राणी plus welfare."
+    }
+   ]
+  },
+  {
+   "term_id": "T114",
+   "bo": "སངས་རྒྱས་བྱང་ཆུབ",
+   "sanskrit": "buddhabodhi",
+   "senses": [
+    {
+     "sense": "awakening of a Buddha",
+     "occurrences": "all",
+     "academic": "बुद्ध-बोधि",
+     "children": "बुद्ध की बोधि",
+     "basis": "style-sheet",
+     "reason": "Compound of बुद्ध and बोधि (policy 13)."
+    }
+   ]
+  },
+  {
+   "term_id": "T127",
+   "bo": "མཚན་མེད",
+   "sanskrit": "animitta",
+   "senses": [
+    {
+     "sense": "signlessness (one of three doors)",
+     "occurrences": "all",
+     "academic": "अनिमित्त",
+     "children": "बिना निशानी के होना",
+     "basis": "english-pivot",
+     "reason": "Gemini's आनिमित्त is misspelled; निमित्त is a register term; kids spell out signlessness."
+    }
+   ]
+  },
+  {
+   "term_id": "T140",
+   "bo": "རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "omniscience of all aspects",
+     "occurrences": "all",
+     "academic": "सर्वाकारज्ञता",
+     "children": "हर तरह से सब कुछ जानना",
+     "basis": "style-sheet",
+     "reason": "Policy 10: first of the three fixed knowledges."
+    }
+   ]
+  },
+  {
+   "term_id": "T153",
+   "bo": "གང་ཟག",
+   "sanskrit": "pudgala",
+   "senses": [
+    {
+     "sense": "person",
+     "occurrences": "all",
+     "academic": "पुद्गल",
+     "children": "व्यक्ति",
+     "basis": "zero-shot",
+     "reason": "Gemini पुद्गल is the established term; kids plain व्यक्ति."
+    }
+   ]
+  },
+  {
+   "term_id": "T166",
+   "bo": "བྱང་ཆུབ་ཡོན་ཏན",
+   "sanskrit": "bodhiguṇa",
+   "senses": [
+    {
+     "sense": "qualities of awakening",
+     "occurrences": "all",
+     "academic": "बोधि-गुण",
+     "children": "बोधि के अच्छे गुण",
+     "basis": "style-sheet",
+     "reason": "Compound of बोधि and गुण/अच्छे गुण (policy 13)."
+    }
+   ]
+  },
+  {
+   "term_id": "T179",
+   "bo": "བྱང་ཆུབ་དམ་པ",
+   "sanskrit": "varabodhi",
+   "senses": [
+    {
+     "sense": "supreme awakening",
+     "occurrences": "all",
+     "academic": "परम बोधि",
+     "children": "सबसे ऊँची बोधि",
+     "basis": "style-sheet",
+     "reason": "Style-sheet pattern for supreme awakening variants (policy 13)."
+    }
+   ]
+  },
+  {
+   "term_id": "T192",
+   "bo": "ཀུན་མཁྱེན",
+   "sanskrit": "sarvajñatā",
+   "senses": [
+    {
+     "sense": "omniscience",
+     "occurrences": "all",
+     "academic": "सर्वज्ञता",
+     "children": "सब कुछ जानना",
+     "basis": "style-sheet",
+     "reason": "Policy 10: plain omniscience."
+    }
+   ]
+  },
+  {
+   "term_id": "T205",
+   "bo": "ང་རྒྱལ",
+   "sanskrit": "māna",
+   "senses": [
+    {
+     "sense": "pride",
+     "occurrences": "all",
+     "academic": "मान",
+     "children": "घमंड",
+     "basis": "english-pivot",
+     "reason": "Pride: मान is the Buddhist term (zero-shot); kids घमंड."
+    }
+   ]
+  },
+  {
+   "term_id": "T218",
+   "bo": "བདག་ཏུ་འདུ་ཤེས",
+   "sanskrit": "ātmasaṃjñā",
+   "senses": [
+    {
+     "sense": "perception of a self",
+     "occurrences": "all",
+     "academic": "आत्म-संज्ञा",
+     "children": "अपने 'मैं' होने की धारणा",
+     "basis": "english-pivot",
+     "reason": "संज्ञा/धारणा from style sheet; kids avoid आत्मा (policy 3, 12)."
+    }
+   ]
+  },
+  {
+   "term_id": "T231",
+   "bo": "འཕགས་པ་འཇམ་དཔལ",
+   "sanskrit": "āryamañjuśrī",
+   "senses": [
+    {
+     "sense": "name of the bodhisattva Mañjuśrī",
+     "occurrences": "all",
+     "academic": "आर्य मञ्जुश्री",
+     "children": "आर्य मञ्जुश्री",
+     "basis": "style-sheet",
+     "reason": "Policies 8 and 9: आर्य plus name; spelling with ञ्."
+    }
+   ]
+  },
+  {
+   "term_id": "T244",
+   "bo": "མཉམ་པར་བཞག",
+   "sanskrit": "samādhita",
+   "senses": [
+    {
+     "sense": "meditative equipoise",
+     "occurrences": "all",
+     "academic": "समाहित",
+     "children": "शान्ति में टिका हुआ",
+     "basis": "english-pivot",
+     "reason": "Academic समाहित (zero-shot); kids resting in calm."
+    }
+   ]
+  },
+  {
+   "term_id": "T257",
+   "bo": "བྱང་ཆུབ་ཐེག་ཆེན",
+   "sanskrit": "bodhiyāna",
+   "senses": [
+    {
+     "sense": "Great Vehicle of Awakening",
+     "occurrences": "all",
+     "academic": "बोधि का महायान",
+     "children": "बोधि की महान सवारी",
+     "basis": "english-pivot",
+     "reason": "बोधि locked; महायान established; kids Great Vehicle as महान सवारी."
+    }
+   ]
+  },
+  {
+   "term_id": "T270",
+   "bo": "བདེན",
+   "sanskrit": "satya",
+   "senses": [
+    {
+     "sense": "truth",
+     "occurrences": "all",
+     "academic": "सत्य",
+     "children": "सच्चाई",
+     "basis": "english-pivot",
+     "reason": "Plain truth; academic tatsama, kids everyday word."
+    }
+   ]
+  },
+  {
+   "term_id": "T283",
+   "bo": "བདེ་བར་གཤེགས་ཀྱི་ཡུམ",
+   "sanskrit": "sugatamātṛ",
+   "senses": [
+    {
+     "sense": "Mother of the Sugatas (epithet of the perfection of wisdom)",
+     "occurrences": "all",
+     "academic": "सुगतों की माता",
+     "children": "भली-भाँति गए हुए बुद्धों की माता",
+     "basis": "style-sheet",
+     "reason": "Built on सुगत / भली-भाँति गए हुए plus माता."
+    }
+   ]
+  },
+  {
+   "term_id": "T296",
+   "bo": "དགེ་ཆོས",
+   "sanskrit": "kuśaladharma",
+   "senses": [
+    {
+     "sense": "virtuous qualities",
+     "occurrences": "all",
+     "academic": "कुशल गुण",
+     "children": "अच्छाई के गुण",
+     "basis": "style-sheet",
+     "reason": "Policy 4: धर्म as quality is गुण; कुशल marks virtue (policy 15 merit)."
+    }
+   ]
+  },
+  {
+   "term_id": "T309",
+   "bo": "དམ་ཆོས",
+   "sanskrit": "sudharma",
+   "senses": [
+    {
+     "sense": "true Dharma",
+     "occurrences": "all",
+     "academic": "सद्धर्म",
+     "children": "सच्ची शिक्षा",
+     "basis": "style-sheet",
+     "reason": "Policy 4: teaching, singular धर्म; kids शिक्षा."
+    }
+   ]
+  },
+  {
+   "term_id": "T322",
+   "bo": "སྐྱབས་མེད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "without refuge",
+     "occurrences": "all",
+     "academic": "अशरण",
+     "children": "बिना सहारे के",
+     "basis": "english-pivot",
+     "reason": "Without refuge; Gemini शरण-रहित; kids plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T335",
+   "bo": "ལྷ་རྒྱལ་བརྒྱ་བྱིན",
+   "sanskrit": "śakra devarāja",
+   "senses": [
+    {
+     "sense": "Śakra, king of the gods",
+     "occurrences": "all",
+     "academic": "देवराज शक्र",
+     "children": "देवताओं के राजा शक्र",
+     "basis": "style-sheet",
+     "reason": "Name शक्र per policy 9; epithet king of gods; kids spelled out."
+    }
+   ]
+  },
+  {
+   "term_id": "T348",
+   "bo": "ཆོས་ཀྱི་དམ་པ",
+   "sanskrit": "dharmaśreṣṭha",
+   "senses": [
+    {
+     "sense": "sublime Dharma",
+     "occurrences": "all",
+     "academic": "श्रेष्ठ धर्म",
+     "children": "सबसे अच्छी शिक्षा",
+     "basis": "style-sheet",
+     "reason": "Policy 4: Teaching sense, singular धर्म; kids शिक्षा."
+    }
+   ]
+  },
+  {
+   "term_id": "T361",
+   "bo": "མུ་སྟེགས་ཅན",
+   "sanskrit": "tīrthika",
+   "senses": [
+    {
+     "sense": "non-Buddhist",
+     "occurrences": "all",
+     "academic": "तीर्थिक",
+     "children": "दूसरे मार्ग को मानने वाला",
+     "basis": "english-pivot",
+     "reason": "Established Buddhist term for non-Buddhist; kids follower of another path."
+    }
+   ]
+  },
+  {
+   "term_id": "T374",
+   "bo": "བླ་མ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "teacher (guru)",
+     "occurrences": "all",
+     "academic": "गुरु",
+     "children": "गुरु",
+     "basis": "zero-shot",
+     "reason": "Gemini गुरु; everyday established word fits both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T387",
+   "bo": "ཐེ་ཚོམ",
+   "sanskrit": "kāṅkṣā",
+   "senses": [
+    {
+     "sense": "doubt",
+     "occurrences": "all",
+     "academic": "संशय",
+     "children": "शक",
+     "basis": "english-pivot",
+     "reason": "Doubt; Gemini mixes संशय/काङ्क्षा; lock संशय, kids शक."
+    }
+   ]
+  },
+  {
+   "term_id": "T400",
+   "bo": "དགེ་བཅུའི་ལས་ཀྱི་ལམ",
+   "sanskrit": "daśakuśalakarmapatha",
+   "senses": [
+    {
+     "sense": "path of the ten virtuous actions",
+     "occurrences": "all",
+     "academic": "दशकुशल कर्मपथ",
+     "children": "दस अच्छे कामों का रास्ता",
+     "basis": "english-pivot",
+     "reason": "Established compound; kids path of ten good actions."
+    }
+   ]
+  },
+  {
+   "term_id": "T413",
+   "bo": "མིང་ཙམ",
+   "sanskrit": "nāmamātra",
+   "senses": [
+    {
+     "sense": "merely a name",
+     "occurrences": "all",
+     "academic": "नाममात्र",
+     "children": "सिर्फ़ एक नाम",
+     "basis": "zero-shot",
+     "reason": "Gemini नाममात्र established; kids just a name."
+    }
+   ]
+  },
+  {
+   "term_id": "T426",
+   "bo": "བདེན་པའི་བྱིན་རླབས",
+   "sanskrit": "satyādhiṣṭhāna",
+   "senses": [
+    {
+     "sense": "blessing of truth",
+     "occurrences": "all",
+     "academic": "सत्य का अधिष्ठान",
+     "children": "सच्चाई का आशीर्वाद",
+     "basis": "english-pivot",
+     "reason": "Gemini सत्य का अधिष्ठान; kids blessing of truth."
+    }
+   ]
+  },
+  {
+   "term_id": "T439",
+   "bo": "སྣང",
+   "sanskrit": "obhāsa",
+   "senses": [
+    {
+     "sense": "light",
+     "occurrences": "all",
+     "academic": "प्रकाश",
+     "children": "रोशनी",
+     "basis": "english-pivot",
+     "reason": "Light; plain tatsama vs everyday word."
+    }
+   ]
+  },
+  {
+   "term_id": "T452",
+   "bo": "དགྲོལ",
+   "sanskrit": "parimocayati",
+   "senses": [
+    {
+     "sense": "liberate",
+     "occurrences": "all",
+     "academic": "मुक्त करना",
+     "children": "आज़ाद करना",
+     "basis": "zero-shot",
+     "reason": "Gemini मुक्त करना; kids set free as आज़ाद करना."
+    }
+   ]
+  },
+  {
+   "term_id": "T465",
+   "bo": "སློབ་པ་པོ",
+   "sanskrit": "śikṣaka",
+   "senses": [
+    {
+     "sense": "trainee",
+     "occurrences": "all",
+     "academic": "शिक्षार्थी",
+     "children": "सीखने वाला",
+     "basis": "zero-shot",
+     "reason": "Gemini शिक्षार्थी; kids learner as सीखने वाला."
+    }
+   ]
+  },
+  {
+   "term_id": "T478",
+   "bo": "རེ་རབ",
+   "sanskrit": "meru",
+   "senses": [
+    {
+     "sense": "Mount Meru",
+     "occurrences": "all",
+     "academic": "मेरु पर्वत",
+     "children": "मेरु पर्वत",
+     "basis": "style-sheet",
+     "reason": "Policy 9: place name in standard Hindi form."
+    }
+   ]
+  },
+  {
+   "term_id": "T491",
+   "bo": "ཐལ་མོ་སྦྱར་བ",
+   "sanskrit": "añjalipuṭa",
+   "senses": [
+    {
+     "sense": "join palms",
+     "occurrences": "all",
+     "academic": "अञ्जलि बाँधना",
+     "children": "हथेलियाँ जोड़ना",
+     "basis": "english-pivot",
+     "reason": "Join palms; academic अञ्जलि, kids plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T504",
+   "bo": "ཚུལ་སྒོ",
+   "sanskrit": "nayadvāra",
+   "senses": [
+    {
+     "sense": "gateway",
+     "occurrences": "all",
+     "academic": "नयद्वार",
+     "children": "प्रवेश-द्वार",
+     "basis": "zero-shot",
+     "reason": "Gemini नय-द्वार; one spelling; kids gateway as प्रवेश-द्वार."
+    }
+   ]
+  },
+  {
+   "term_id": "T517",
+   "bo": "གཟུགས་མེད་ཁམས",
+   "sanskrit": "ārūpyadhātu",
+   "senses": [
+    {
+     "sense": "formless realm",
+     "occurrences": "all",
+     "academic": "अरूपधातु",
+     "children": "बिना रूप वाला क्षेत्र",
+     "basis": "style-sheet",
+     "reason": "Policy 14: धातु compound; kids spell out realm as क्षेत्र."
+    }
+   ]
+  },
+  {
+   "term_id": "T530",
+   "bo": "སེམས་དཔའ",
+   "sanskrit": "sattva",
+   "senses": [
+    {
+     "sense": "bodhisattva (truncated form)",
+     "occurrences": "all",
+     "academic": "बोधिसत्त्व",
+     "children": "बोधि-वीर",
+     "basis": "style-sheet",
+     "reason": "Core term बोधिसत्त्व; truncated form shares the rendering (policy 6)."
+    }
+   ]
+  },
+  {
+   "term_id": "T543",
+   "bo": "འཇིག་རྟེན་མཁྱེན",
+   "sanskrit": "lokavid",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "लोकविद्",
+     "children": "दुनिया को जानने वाला",
+     "basis": "style-sheet",
+     "reason": "Policy 7: epithet लोकविद्; kids plain meaning."
+    }
+   ]
+  },
+  {
+   "term_id": "T556",
+   "bo": "ཁྲིམས་འཆལ",
+   "sanskrit": "duḥśīla",
+   "senses": [
+    {
+     "sense": "lacking ethical discipline",
+     "occurrences": "all",
+     "academic": "शील-रहित",
+     "children": "अच्छे आचरण से रहित",
+     "basis": "style-sheet",
+     "reason": "Built on शील / अच्छा आचरण plus रहित."
+    }
+   ]
+  },
+  {
+   "term_id": "T569",
+   "bo": "གླིང་བཞི",
+   "sanskrit": "catvāri dvīpa",
+   "senses": [
+    {
+     "sense": "four continents",
+     "occurrences": "all",
+     "academic": "चार द्वीप",
+     "children": "चार द्वीप",
+     "basis": "zero-shot",
+     "reason": "Gemini चारों द्वीप; four continents, same word for both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T582",
+   "bo": "དུད་འགྲོའི་འགྲོ་བ",
+   "sanskrit": "tiryaggati",
+   "senses": [
+    {
+     "sense": "animal existence",
+     "occurrences": "all",
+     "academic": "तिर्यक् गति",
+     "children": "पशु के रूप में जीवन",
+     "basis": "zero-shot",
+     "reason": "Gemini तिर्यक् गति established; kids life as an animal."
+    }
+   ]
+  },
+  {
+   "term_id": "T595",
+   "bo": "དགེ་འདུན་རྒྱུད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "lineage of the Saṅgha",
+     "occurrences": "all",
+     "academic": "सङ्घ-परम्परा",
+     "children": "समुदाय की परम्परा",
+     "basis": "english-pivot",
+     "reason": "Lineage of the Saṅgha; spelling सङ्घ per policy 2; kids community."
+    }
+   ]
+  }
+ ]
+}

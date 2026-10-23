@@ -1,0 +1,217 @@
+{
+ "batch": "batch-06",
+ "segments": [
+  {
+   "id": "4-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-58",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "looking ahead only the length of a yoke",
+     "evidence": "A yoke (a wooden bar for oxen) is an unexplained hard word; the text means they look only a short distance ahead.",
+     "fix": "They walk looking only a short way ahead, about as far as the wooden bar that goes across an ox's neck."
+    }
+   ]
+  },
+  {
+   "id": "4-59",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "The three are kept quiet and pure.",
+     "evidence": "Academic: 'the three are isolated and pure'; 'the three' is unexplained and 'kept quiet' is imprecise for 'secluded'.",
+     "fix": "They live apart from the crowd, and their body, speech and mind are pure."
+    }
+   ]
+  },
+  {
+   "id": "4-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-62",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "They have no doubts about their path.",
+     "evidence": "Academic: 'without doubt about their own stage' (their own level of realization), not their path.",
+     "fix": "They have no doubt about their own stage of practice."
+    }
+   ]
+  },
+  {
+   "id": "4-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-64",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "They ride in the highest, free vehicle. ... When they understand this teaching, they perfect their stored-up goodness.",
+     "evidence": "Academic: 'the ultimate, unattached vehicle' and the bodhisattva who realizes this Dharma; the text does not say they 'perfect' goodness by understanding, it asks what accomplished merit exceeds theirs.",
+     "fix": "They ride in the deepest, unattached vehicle. Anyone who understands this teaching has stored-up goodness that nothing can beat."
+    }
+   ]
+  },
+  {
+   "id": "4-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-70",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "An awakening hero must dedicate their goodness without any self-importance.",
+     "evidence": "Academic: 'A bodhisattva who dedicates without conceit will not decline' (a description, not a command).",
+     "fix": "An awakening hero who dedicates without any self-importance will not fall back."
+    }
+   ]
+  },
+  {
+   "id": "4-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-73",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "it does not mean awakening is gone",
+     "evidence": "Academic: 'it is not that awakening is absent' (awakening is not nonexistent), not that something present has vanished.",
+     "fix": "When that first thought has ended, it does not mean there is no awakening."
+    }
+   ]
+  },
+  {
+   "id": "4-74",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "By slowly building up every good quality, you perfect the quality of goodness",
+     "evidence": "Academic: 'by gradually perfecting virtuous qualities, one becomes a Buddha'; the children's line is redundant and tangled.",
+     "fix": "By slowly building up the qualities of goodness, you become a Buddha."
+    }
+   ]
+  },
+  {
+   "id": "4-75",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "They practice the things of emptiness, being without signs, and without wishes.",
+     "evidence": "Academic: 'the phenomena of emptiness, signlessness, and wishlessness'; 'the things of emptiness' is awkward for ages 8-12.",
+     "fix": "They practice emptiness, being without signs, and being without wishes."
+    }
+   ]
+  },
+  {
+   "id": "4-76",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "They are also not afraid of awakening. They do not think, \"There is nothing here at all.\"",
+     "evidence": "Academic: 'nor do they fear awakening, thinking \"There is nothing at all here\"'; the thought is the cause of the fear, not something they refuse to think.",
+     "fix": "They are also not afraid of awakening, thinking, \"There is nothing here at all.\""
+    }
+   ]
+  },
+  {
+   "id": "4-77",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

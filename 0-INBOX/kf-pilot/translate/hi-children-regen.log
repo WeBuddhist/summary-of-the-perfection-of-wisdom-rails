@@ -1,0 +1,4 @@
+segments to translate=11 batches=2
+  1-4..4-6 ok  still missing terms in ['2-12', '2-17', '2-18']
+  4-16..5-99 ok
+rendered 318/318 blocks; segments still missing a locked term: 10

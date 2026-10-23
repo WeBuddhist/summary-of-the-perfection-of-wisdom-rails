@@ -1,0 +1,209 @@
+{
+ "batch": "batch-09",
+ "segments": [
+  {
+   "id": "5-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-38",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "बुद्ध ने कहा है कि",
+     "evidence": "The text says the perfections 'are said' to be gathered here; no speaker is named in the academic translation.",
+     "fix": "कहा गया है कि ठीक वैसे ही बाकी सब पूर्णता इसी में समा जाती हैं।"
+    }
+   ]
+  },
+  {
+   "id": "5-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-41",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "वे जब बोधि पाने की इच्छा जगाना शुरू करते हैं, तो जो लोग उन्हें देखकर दिल से खुश होना सीखते हैं",
+     "evidence": "The verse says: those who rejoice from the heart in the arising of the aspiration of those who have entered irreversible bodhi; the children's sentence is tangled and 'learn to rejoice' is not in the text.",
+     "fix": "जो लोग पीछे न लौटने वाली बोधि के रास्ते पर चल पड़े हैं, उनके बोधि पाने की इच्छा जगाने पर जो दिल से खुश होते हैं, उनकी अच्छाई बहुत बड़ी होती है।"
+    }
+   ]
+  },
+  {
+   "id": "5-42",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "अच्छाई और दूसरों का भला चाहने वाले जितने भी जीव हैं, वे उन सभी की जमा की हुई अच्छाई का ढेर देखकर भी खुश होना सीखते हैं",
+     "evidence": "The beings who seek virtue and benefit are the owners of the merit-heaps; the bodhisattvas rejoice in the merit of all of them. The children's text makes those beings themselves the ones who rejoice and then become like the victors and teach.",
+     "fix": "अच्छाई और दूसरों का भला चाहने वाले जितने भी जीव हैं, बोधि-वीर उन सभी की जमा की हुई अच्छाई के ढेर में भी खुश होते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "5-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-44",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "कोई भी उन्हें पकड़ या पा नहीं सकता",
+     "evidence": "What is not found by anyone is the opposition/conflict between space element and space (no such opposition exists), not space itself.",
+     "fix": "ऐसा कोई झगड़ा है ही नहीं, और किसी को वह कहीं मिलता भी नहीं।"
+    }
+   ]
+  },
+  {
+   "id": "5-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "स्वीकार करता है",
+     "evidence": "The text says he is endowed with various births and many deeds and shows them like illusion; 'accepts' is not stated.",
+     "fix": "वह कई तरह के जन्म लेता और बहुत से काम करता दिखता है।"
+    }
+   ]
+  },
+  {
+   "id": "5-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "उस होशियार व्यक्ति के रास्ते में",
+     "evidence": "The one who cannot be obstructed is the wise bodhisattva; the children's text drops that it is the bodhisattva and also loses 'as many' emanations as beings.",
+     "fix": "उस होशियार बोधि-वीर के रास्ते में कोई रुकावट नहीं डाल सकते।"
+    }
+   ]
+  },
+  {
+   "id": "5-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-58",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "जब मार्गदर्शक इन सभी अभ्यासों के बारे में बताते हैं। तब यह अभ्यास",
+     "evidence": "One conditional sentence ('when the guide fully teaches the trainings, this training is supreme and unsurpassed') is split into broken fragments, and 'unsurpassed' is lost.",
+     "fix": "जब मार्गदर्शक सभी अभ्यास बताते हैं, तब यह अभ्यास बाकी सबसे श्रेष्ठ और सबसे ऊँचा होता है।"
+    }
+   ]
+  },
+  {
+   "id": "5-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-61",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "बुद्ध की संतान, श्रोता, अकेला बुद्ध और देवता।",
+     "evidence": "The verse lists the Buddha's children, shravakas, pratyekabuddhas and gods together with all beings' happiness-dharmas as all arising from supreme perfect wisdom; the children's text leaves the list as a dangling fragment not tied to the verb.",
+     "fix": "बुद्ध की संतान, श्रोता, अकेला बुद्ध, देवता और सभी प्राणियों की खुशी की जितनी भी चीज़ें हैं, वे सब सबसे अच्छी पूर्ण प्रज्ञा से ही पैदा हुई हैं।"
+    }
+   ]
+  },
+  {
+   "id": "5-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-63",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

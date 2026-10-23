@@ -1,0 +1,261 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "4-75",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 6,
+      "bo_fixed": "མཚན་མ"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "4-76",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-77",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-78",
+    "drop": [
+     {
+      "n": 7,
+      "reason": "Contains the negative particle མ་; not the base technical term."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-79",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-80",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-81",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Invalid span that cuts the adverbial ཆེར་, and the base term is already listed."
+     },
+     {
+      "n": 6,
+      "reason": "Contains the adjective 'supreme'."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-82",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-83",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-84",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Contains the adjective 'supreme'."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-85",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 4,
+      "bo_fixed": "མཚན་མ"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "4-86",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-87",
+    "drop": [
+     {
+      "n": 6,
+      "reason": "Contains the adjective 'supreme'."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-88",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཆོ་འཕྲུལ",
+      "reason": "Buddhist technical term (prātihārya).",
+      "dm": "transformations",
+      "gm": "magical creations"
+     }
+    ]
+   },
+   {
+    "id": "4-89",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-90",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-91",
+    "drop": [
+     {
+      "n": 5,
+      "reason": "Metaphorical image used as part of a simile, not a standard technical term."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-92",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-93",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Span includes punctuation and is split across a line break."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-94",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-95",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-96",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-97",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-98",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "4-78",
+    "bo": "མཉམ་པར་མ་བཞག",
+    "reason": "Contains the negative particle མ་; not the base technical term."
+   },
+   {
+    "id": "4-81",
+    "bo": "སྙིང་རྗེ་ཆེ",
+    "reason": "Invalid span that cuts the adverbial ཆེར་, and the base term is already listed."
+   },
+   {
+    "id": "4-81",
+    "bo": "ཏིང་འཛིན་མཆོག",
+    "reason": "Contains the adjective 'supreme'."
+   },
+   {
+    "id": "4-84",
+    "bo": "ཏིང་འཛིན་དམ་པ",
+    "reason": "Contains the adjective 'supreme'."
+   },
+   {
+    "id": "4-87",
+    "bo": "སྟོང་ཉིད་དམ་པ",
+    "reason": "Contains the adjective 'supreme'."
+   },
+   {
+    "id": "4-91",
+    "bo": "གདུགས",
+    "reason": "Metaphorical image used as part of a simile, not a standard technical term."
+   },
+   {
+    "id": "4-93",
+    "bo": "རིན་ཆེན་གྱི། ། གླིང",
+    "reason": "Span includes punctuation and is split across a line break."
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "4-75",
+    "bo": "མཚན་མར",
+    "bo_fixed": "མཚན་མ"
+   },
+   {
+    "id": "4-85",
+    "bo": "མཚན་མར",
+    "bo_fixed": "མཚན་མ"
+   }
+  ],
+  "add": [
+   {
+    "id": "4-88",
+    "bo": "ཆོ་འཕྲུལ",
+    "dm": "transformations",
+    "gm": "magical creations",
+    "reason": "Buddhist technical term (prātihārya)."
+   }
+  ]
+ }
+}

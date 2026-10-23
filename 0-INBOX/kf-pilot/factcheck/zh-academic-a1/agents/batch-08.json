@@ -1,0 +1,176 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "4-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-52",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "具足方便當修般若，若無導師之般若則無法獲得",
+     "evidence": "The Tibetan line is \"ཐབས་དང་ལྡན་པས་ཤེས་རབ་ཕ་འདྲེན་པའི་ཤེས་རབ་མེད་ན་ཐོབ་པར་འགྱུར་མ་ཡིན\"; commentary bo-mipham 4-52 and bo-khenrab 4-52 gloss it as \"འདྲེན་པ་རྒྱལ་བའི་ཡུམ་ཤེས་རབ་ཀྱི་ཕར་ཕྱིན\" (the perfection of wisdom, mother of the Guides/Victors) and say one must apply oneself to \"ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ\". The Chinese drops \"perfection\" (ཕ་རོལ་ཏུ་ཕྱིན་པ) and \"mother\" (ཡུམ), and \"導師之般若\" reads as the wisdom belonging to the guides rather than the wisdom that is their mother. english_academic: \"the perfection of wisdom, the mother of the Guides\".",
+     "fix": "具足方便者當勤修般若波羅蜜多；若無此導師之母般若波羅蜜多，則無法獲得"
+    }
+   ]
+  },
+  {
+   "id": "4-53",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "必遭毀滅",
+     "evidence": "\"ཉམ་ཉེས་གྱུར་པ\" means suffering harm/injury; bo-khenrab 4-52 glosses it as \"ལུས་རྨས་པ་ལ་སོགས་པའི་ཉམས་ཉེས་ཆེན་པོ\" (body injured and the like, great harm). \"毀滅\" (destruction/annihilation) overstates it.",
+     "fix": "於彼必遭損傷"
+    }
+   ]
+  },
+  {
+   "id": "4-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-58",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "唯一喜愛佛法",
+     "evidence": "\"ཆོས་ལ་གཅིག་ཏུ་དགའ་ཞིང\" means being single-mindedly/exclusively delighted in the Dharma (bo-mipham 4-57: \"རྩེ་གཅིག་ཏུ་དགའ\"); \"唯一喜愛\" reads as \"the only thing they love\" and is awkward.",
+     "fix": "一向專心喜樂佛法"
+    }
+   ]
+  },
+  {
+   "id": "4-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-60",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "女人和合咒",
+     "evidence": "\"བུད་མེད་སྦྱོར་སྔགས\" is explained in bo-mipham 4-60 and bo-khenrab 4-60 as mantras that bring women under one's power or control through desire (\"བུད་མེད་དབང་དུ་བྱེད་པའམ་རང་དབང་དུ་སྦྱོར་བའི་སྔགས\"); \"和合\" (harmony/union) does not convey subjugation.",
+     "fix": "令女人受制之咒"
+    }
+   ]
+  },
+  {
+   "id": "4-61",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "於極寂靜之般若波羅蜜多中遠離爭鬥與諍論",
+     "evidence": "\"རབ་ཏུ་དབེན་པའི་ཤེས་རབ་ཕ་རོལ་ཕྱིན\" with Sanskrit \"pravivikta prajñavarapāramitā-abhiyuktāḥ\" (utterly secluded, devoted to the perfection of wisdom); bo-mipham 4-61/4-60 reads \"རབ་ཏུ་དབེན་པའི་སྒོ་ནས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མཆོག་ལ་བརྩོན་པ\" (striving at the perfection of wisdom while utterly secluded), and bo-rangjung 4-59 lists striving at the perfection of wisdom as a separate sign from being free of fighting and disputes (\"འཐབ་པ་དང་རྩོད་པ་དང་བྲལ\"). The Chinese makes \"極寂靜\" modify the perfection of wisdom, drops the devotion/striving, and puts freedom from conflict \"within\" the perfection.",
+     "fix": "極為寂靜，專注於般若波羅蜜多，遠離爭鬥與諍論"
+    }
+   ]
+  },
+  {
+   "id": "4-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-64",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "無貪",
+     "evidence": "\"ཆགས་མེད\" is non-attachment (bo-khenrab 4-64: \"མངོན་ཞེན་གྱིས་ཆགས་པ་མེད་པ\"); \"無貪\" (non-greed, alobha) is a different technical term.",
+     "fix": "無著"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "若如是趨於甚深",
+     "evidence": "\"དེ་ལྟར་ཟབ་གྱུར་ཅིང\" \"having thus become profound\" qualifies the dharma realized (bo-mipham 4-64: \"རྟོགས་བྱ་ཆོས་ཀྱི་རང་བཞིན་... དེ་ལྟར་ངོ་བོས་ཟབ་པར་གྱུར\"); \"趨於\" (tending toward) suggests a bodhisattva progressing toward profundity.",
+     "fix": "若如是已成甚深"
+    }
+   ]
+  },
+  {
+   "id": "4-65",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "爾許劫之成就",
+     "evidence": "bo-mipham 4-65 says the bodhisattva obtains the virtue/merit accumulated over that many eons (\"བསྐལ་པར་བསགས་པའི་དགེ་བ་... ཐོབ་པར་འགྱུར\"), and bo-khenrab 4-65 says \"བསོད་ནམས་དང་ཡེ་ཤེས་ཀྱི་ཚོགས་བསགས་པའི་དགེ་བ\". \"成就\" (accomplishment) is vague and loses \"merit\" (བསོད་ནམས་ locked 福德 elsewhere); english_academic: \"the merit accumulated over that many eons\".",
+     "fix": "爾許劫所積之福德"
+    }
+   ]
+  },
+  {
+   "id": "4-66",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "阿羅漢獨覺",
+     "evidence": "The Tibetan lists two separate recipients, \"དགྲ་བཅོམ་རང་རྒྱལ\" (bo-rangjung 4-66: \"དགྲ་བཅོམ་པ་དང་རང་སངས་རྒྱས\"); without a conjunction the Chinese can be read as a single compound.",
+     "fix": "阿羅漢與獨覺"
+    }
+   ]
+  },
+  {
+   "id": "4-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-69",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

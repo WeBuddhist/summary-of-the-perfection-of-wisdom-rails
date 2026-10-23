@@ -1,0 +1,15 @@
+[
+ {
+  "id": "4-48",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "he paused",
+    "evidence": "The Kind Helper 'felt little inclination' (to teach), thinking no one would understand; 'paused' loses the sense of reluctance.",
+    "fix": "he felt little wish to teach it. He thought, \"Who among all the living beings will understand this?\""
+   }
+  ]
+ }
+]

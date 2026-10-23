@@ -1,0 +1,152 @@
+{
+ "batch": "batch-14",
+ "segments": [
+  {
+   "id": "5-72",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "प्रीति और, सुख प्रदान करने वाले चार शान्त ध्यानों",
+     "evidence": "Tibetan \"མཁས་པ་དགའ་བ་དང་། བདེ་སྦྱིན\" has the wise bodhisattvas as the ones who give joy and bliss (to beings); Mipham (bo-mipham 5-72): the bodhisattvas \"སེམས་ཅན་རྣམས་ལ་འཕྲལ་དུ་དགའ་བ་དང་ནམ་ཕུག་གི་བདེ་བ་སྦྱིན་པར་བྱེད་པ\"; Rangjung (5-71) likewise \"གཞན་ལ་བདེ་བ་སྦྱིན་པ\". The Hindi line break makes \"प्रदान करने वाले\" qualify the four dhyāna-samādhis, so the dhyānas become the givers and the beings (recipients) disappear. (The Sanskrit \"prīti-sukhadāṃ śāntāṃ samādhi\" allows that reading, but the Tibetan and commentaries do not.)",
+     "fix": "विद्वान् बोधिसत्त्व, जो (प्राणियों को) प्रीति और सुख प्रदान करते हैं, चार शान्त ध्यान-समाधियों को प्राप्त करके"
+    }
+   ]
+  },
+  {
+   "id": "5-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-75",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "प्रत्यक्ष उद्योग करते हुए",
+     "evidence": "Tibetan \"མངོན་བརྩོན\" (མངོན་པར་བརྩོན་པ, Skt abhiyukta) means to strive earnestly/devote oneself; \"प्रत्यक्ष\" (directly perceptible/manifest) does not convey this and reads oddly with \"उद्योग\". Mipham 5-75 glosses it as taking up the armour of effort for others.",
+     "fix": "वीर्यपारमिता में तत्परता से लगे हुए विचरण करता है"
+    }
+   ]
+  },
+  {
+   "id": "5-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-78",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "प्रत्यक्ष उद्योग करें",
+     "evidence": "Tibetan \"མངོན་པར་བརྩོན\" (Skt abhiyukta) means to strive earnestly / be devoted; \"प्रत्यक्ष\" misleadingly suggests \"directly/visibly\". Mipham 5-78 \"ཉིན་དང་མཚན་དུ་མངོན་པར་བརྩོན་པར་བྱ\".",
+     "fix": "दिन-रात तत्परता से लगे रहें"
+    }
+   ]
+  },
+  {
+   "id": "5-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-80",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "अज्ञानी बोधिसत्त्व",
+     "evidence": "Tibetan \"མི་མཁས\" is \"unskilled\", and Mipham 5-80 and Khenrab 5-80 specify \"ཐབས་ལ་མི་མཁས་པ\" (unskilled in means), not ignorant; \"अज्ञानी\" shifts the sense to lack of knowledge.",
+     "fix": "उपाय-कौशल से रहित (अकुशल) बोधिसत्त्व"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "दीर्घकाल की संज्ञा कर दुःखपूर्वक बोधि का साधन करता है",
+     "evidence": "Tibetan \"རིང་བར་འདུ་ཤེས་སྡུག་བསྔལ་བྱང་ཆུབ་སྒྲུབ\": the bodhisattva has the perception (འདུ་ཤེས) of it being long and of it being suffering (Mipham 5-80 \"སྡུག་བསྔལ་བའི་འདུ་ཤེས\"). \"संज्ञा कर\" is awkward and \"दुःखपूर्वक\" turns the perception of suffering into an adverb, obscuring the second saṃjñā.",
+     "fix": "यदि वह (उस काल को) दीर्घ और (साधना को) दुःखमय मानने की संज्ञा रखते हुए बोधि का साधन करता है"
+    }
+   ]
+  },
+  {
+   "id": "5-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-87",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "लोकविद्,\nबुद्धों, अर्हतों",
+     "evidence": "Tibetan \"འཇིག་རྟེན་མཁྱེན། སངས་རྒྱས་རྣམས་དང་...\" and Mipham 5-87 \"འཇིག་རྟེན་མཁྱེན་པ་སངས་རྒྱས་རྣམས་\" make \"knower of the world\" an epithet of the Buddhas, not a separate recipient. In the Hindi, a singular \"लोकविद्\" separated by a comma and line break reads as a distinct fourth recipient.",
+     "fix": "लोकविद् बुद्धों, अर्हतों और प्रत्येकबुद्धों को"
+    }
+   ]
+  },
+  {
+   "id": "5-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-91",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

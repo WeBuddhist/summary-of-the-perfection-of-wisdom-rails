@@ -19,9 +19,9 @@ source: http://purl.bdrc.io/resource/MW4CZ295070
 other_ids:
 - 'Dzongsar: phakpadoepa comm-1'
 source_description: 'Dzongsar alignment doc exported as phakpadoepa-comm-1(root-comm).md, paired row for row with phakpadoepa-root-1(root-comm).md (the team''s own cut of the Tibetan root), carried onto the display Tibetan by letters. Title from the text''s own title line (row 2); alternative titles and source from phakpadoepa-comm-1.csv. Author left empty on the vault owner''s instruction (2026-10-03): the text names its author (བདག་འདྲའི་སེམས་དཔའ་རང་བྱུང་རྡོ་རྗེ་ཡིས།, row 3) and the text sheet gives ཀརྨ་པ་རང་བྱུང་རྡོ་རྗེ།, but the metadata sheet gives ཀརྨ་པ་མི་བསྐྱོད་རྡོ་རྗེ། / Karmapa Mikyo Dorje; to be settled by the text expert, together with the sheet''s source (MW4CZ295070).'
-text_id: null
-edition_id: null
-toc_id: null
+text_id: Tk0SWpg6ptoBZyWot3DmU
+edition_id: ci7Jb2KSZmoa85SM4uO55
+toc_id: hviXQcWbT80LtZ8g29zFg
 raw_sources:
 - file: 0-INBOX/raw-data/phakpadoepa-comm-1(root-comm).md
   sha1: 6f76400857311cee9fab0de0a5175f71397ad832
@@ -37,6 +37,8 @@ intake:
   date: '2026-10-04'
   annotations: 1-SOURCES/Annotations/bo-rangjung-dorje-tika.annotations.json
 covers_verses: 0-2–8-3
+commentary_of: U5FlKUlLLtS1zo4n0EGZL
+aligned_to_edition_id: fYnGwQC4fH8Fa37vLUiXD
 ---
 
 # འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྡུད་པ་ཚིགས་སུ་བཅད་པའི་ཊཱི་ཀ་ཡིད་བཞིན་གྱི་ནོར་བུ་རིན་པོ་ཆེ་ལྟ་བུ་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྒྱ་མཚོའི་སྡེ། ^0

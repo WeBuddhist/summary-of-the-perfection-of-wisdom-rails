@@ -1,0 +1,71 @@
+=== blocks pass 1 2026-10-05 15:32:50
+source     : 1-SOURCES/Translations/bo-ratnagunasancayagatha.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en
+reference  : none
+glossary   : none
+blocks     : 308 total, 4 already in ledger, 304 to do
+batching   : 42 calls for 304 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/42] ^1-1,^1-2,^1-3,^1-4,^1-5,^1-6,^1-7,^1-8  (8 blk, 1488 src, 1937 ctx) … 64.78s  Chapter One: The Teaching on the Knowledge of All As
+[2/42] ^1-9,^1-10,^1-11,^1-12,^1-13,^1-14,^1-15,^1-16  (8 blk, 1443 src, 3543 ctx) … 40.1s  Whoever does not practice regarding form, feeling, p
+[3/42] ^1-17,^1-18,^1-19,^1-20,^1-21,^1-22,^1-23,^1-24  (8 blk, 1432 src, 3424 ctx) … 39.59s  Great giving, great intelligence, and great power,
+[4/42] ^1-25,^1-26,^1-27,^1-28  (4 blk, 565 src, 3465 ctx) … 30.25s  Knowing all sentient beings to be like oneself,
+[5/42] ^2-1,^2-2,^2-3,^2-4,^2-5,^2-6,^2-7,^2-8  (8 blk, 1440 src, 3146 ctx) … 41.91s  Whoever does not abide in form, does not abide in fe
+[6/42] ^2-9,^2-10,^2-11,^2-12,^2-13,^2-14,^2-15,^2-16  (8 blk, 1404 src, 3694 ctx) … 59.08s  Form is not wisdom, in form there is no wisdom;
+[7/42] ^2-17,^2-18,^2-19,^2-20,^2-21,^2-22,^2-23,^2-24  (8 blk, 1443 src, 3442 ctx) … 48.95s  Whoever, regarding that from which the Guides of ten
+[8/42] ^2-25,^2-26,^2-27,^2-28,^2-29,^2-30,^2-31,^2-32  (8 blk, 1452 src, 3511 ctx) … 40.98s  Likewise, through the qualities of the supreme perfe
+[9/42] ^2-33,^2-34,^2-35,^2-36,^2-37,^2-38,^2-39,^2-40  (8 blk, 1480 src, 3407 ctx) … 40.68s  If the emergence of a tree in the world never happen
+[10/42] ^2-41,^2-42,^2-43,^2-44,^2-45,^2-46,^2-47,^2-48  (8 blk, 1415 src, 3594 ctx) … 44.55s  And whatever [virtues] of the sons of the buddhas, a
+[11/42] ^2-49,^2-50,^2-51,^2-52,^2-53,^2-54  (6 blk, 1078 src, 3380 ctx) … 29.14s  When conditioned, unconditioned, and white and black
+[12/42] ^3-1,^3-2,^3-3,^3-4,^3-5  (5 blk, 931 src, 3538 ctx) … 49.88s  The third chapter: teaching the knowledge of all bas
+[13/42] ^4-1,^4-2,^4-3,^4-4,^4-5,^4-6,^4-7,^4-8  (8 blk, 1496 src, 3589 ctx) … 49.51s  The fourth chapter: teaching the complete realizatio
+[14/42] ^4-9,^4-10,^4-11,^4-12,^4-13,^4-14,^4-15,^4-16  (8 blk, 1443 src, 3442 ctx) … 40.49s  When practicing the supreme perfection of wisdom, th
+[15/42] ^4-17,^4-18,^4-19,^4-20,^4-21,^4-22,^4-23,^4-24  (8 blk, 1449 src, 3438 ctx) … 45.28s  Those who at that time, having become eager and fait
+[16/42] ^4-25,^4-26,^4-27,^4-28,^4-29,^4-30,^4-31,^4-32  (8 blk, 1455 src, 3499 ctx) … 35.38s  Relying on the perfection of wisdom as a pleasure gr
+[17/42] ^4-33,^4-34,^4-35,^4-36,^4-37,^4-38,^4-39,^4-40  (8 blk, 1242 src, 3394 ctx) … 75.08s  For example, when a boat entering the ocean breaks,
+[18/42] ^4-41,^4-42,^4-43,^4-44,^4-45,^4-46,^4-47,^4-48  (8 blk, 1458 src, 3336 ctx) … 38.09s  Likewise, a bodhisattva whose power of wisdom is sma
+[19/42] ^4-49,^4-50,^4-51,^4-52,^4-53,^4-54,^4-55,^4-56  (8 blk, 1429 src, 3671 ctx) … 42.28s  Beings delight in resting places and desire sense ob
+[20/42] ^4-57,^4-58,^4-59,^4-60,^4-61,^4-62,^4-63,^4-64  (8 blk, 1447 src, 3500 ctx) … 33.48s  Free from differentiated perceptions and speaking ra
+[21/42] ^4-65,^4-66,^4-67,^4-68,^4-69,^4-70,^4-71,^4-72  (8 blk, 1439 src, 3686 ctx) … 49.18s  For example, a man who engages in the phenomena of d
+[22/42] ^4-73,^4-74,^4-75,^4-76,^4-77,^4-78,^4-79,^4-80  (8 blk, 1452 src, 3368 ctx) … 42.93s  From a seed, a sprout, a flower, and a fruit arise,
+[23/42] ^4-81,^4-82,^4-83,^4-84,^4-85,^4-86,^4-87,^4-88  (8 blk, 1391 src, 3535 ctx) … 39.64s  Likewise, at that time, a skilled bodhisattva,
+[24/42] ^4-89,^4-90,^4-91,^4-92,^4-93,^4-94,^4-95,^4-96  (8 blk, 1437 src, 3366 ctx) … 56.17s  Likewise, a skilled bodhisattva dwelling in emptines
+[25/42] ^4-97,^4-98  (2 blk, 348 src, 3476 ctx) … 31.62s  For example, just as an emanated human body is not i
+[26/42] ^5-1,^5-2,^5-3,^5-4,^5-5,^5-6,^5-7,^5-8  (8 blk, 1544 src, 3436 ctx) … 45.0s  Chapter Five: Teaching the Clear Realization of the 
+[27/42] ^5-9,^5-10,^5-11,^5-12,^5-13,^5-14,^5-15,^5-16  (8 blk, 1464 src, 3539 ctx) … 48.77s  Whoever, in a mountain valley of five hundred yojana
+[28/42] ^5-17,^5-18,^5-19,^5-20,^5-21,^5-22,^5-23,^5-24  (8 blk, 1446 src, 3510 ctx) … 46.3s  For example, just as poison aroused by the perceptio
+[29/42] ^5-25,^5-26,^5-27,^5-28,^5-29,^5-30,^5-31,^5-32  (8 blk, 1462 src, 3530 ctx) … 44.68s  The sun, freed from clouds, possessing a net of ligh
+[30/42] ^5-33,^5-34,^5-35,^5-36,^5-37,^5-38,^5-39,^5-40  (8 blk, 1440 src, 3594 ctx) … 37.15s  Whichever bodhisattva who has not obtained a prophec
+[31/42] ^5-41,^5-42,^5-43,^5-44,^5-45,^5-46,^5-47,^5-48  (8 blk, 1418 src, 3420 ctx) … 50.73s  Regarding those who have fully entered supreme, irre
+[32/42] ^5-49,^5-50,^5-51,^5-52,^5-53,^5-54,^5-55,^5-56  (8 blk, 1462 src, 3323 ctx) … 58.48s  To the wise who practice thus, many hosts of gods
+[33/42] ^5-57,^5-58,^5-59,^5-60,^5-61,^5-62,^5-63,^5-64  (8 blk, 1462 src, 3554 ctx) … 41.03s  To go to the supreme qualities of all sentient being
+[34/42] ^5-65,^5-66,^5-67,^5-68,^5-69,^5-70,^5-71,^5-72  (8 blk, 1432 src, 3579 ctx) … 47.56s  Endowed with great power, they even abide in the fou
+[35/42] ^5-73,^5-74,^5-75,^5-76,^5-77,^5-78,^5-79,^5-80  (8 blk, 1474 src, 3504 ctx) … 35.26s  If a bodhisattva abides in the samādhis of the dhyān
+[36/42] ^5-81,^5-82,^5-83,^5-84,^5-85,^5-86,^5-87,^5-88  (8 blk, 1456 src, 3603 ctx) … 42.16s  From the first generation of the mind for supreme aw
+[37/42] ^5-89,^5-90,^5-91,^5-92,^5-93,^5-94,^5-95,^5-96  (8 blk, 1498 src, 3638 ctx) … 28.4s  If some sentient being takes a handful of sandalwood
+[38/42] ^5-97,^5-98,^5-99,^5-100,^5-101,^5-102,^5-103,^5-104  (8 blk, 1447 src, 3747 ctx) … 46.2s  Even if one practices the ten paths of virtuous acti
+[39/42] ^5-105,^5-106,^5-107,^5-108,^5-109,^5-110  (6 blk, 1075 src, 3600 ctx) … 61.55s  The wise and brilliant bodhisattva, [thinking], "Of 
+[40/42] ^6-1,^6-2,^6-3,^6-4  (4 blk, 795 src, 3412 ctx) … 30.16s  Chapter Six: Teaching the Gradual Training.
+[41/42] ^7-1  (1 blk, 113 src, 3565 ctx) … 9.38s  Chapter Seven: Teaching Complete Awakening in a Sing
+[42/42] ^8-1,^8-2,^8-3,^8-4  (4 blk, 534 src, 3408 ctx) … 31.29s  Chapter Eight: Teaching the Dharmakāya.
+
+wrote 3-TRANSFORMATIONS/Translations/Gemini/en/bo-ratnagunasancayagatha-en.md  (308/308 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Gemini/en/work/bo-ratnagunasancayagatha-en.jsonl
+calls  42 for 304 block(s) recorded this run
+SUMMARY {"text": "bo-ratnagunasancayagatha", "lang_tag": "en", "blocks_total": 308, "blocks_done": 308, "new": 304, "calls": 42, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": null}
+=== headings pass 1 2026-10-05 16:03:45
+source     : 1-SOURCES/Translations/bo-ratnagunasancayagatha.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default   mode=headings
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en
+reference  : none
+glossary   : none
+blocks     : 9 total, 0 already in ledger, 9 to do
+batching   : 2 calls for 9 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/2] ^0-0,^1-0,^2-0,^3-0,^4-0,^5-0,^6-0,^7-0  (8 blk, 246 src, 391 ctx) … 20.03s  Prologue
+[2/2] ^8-0  (1 blk, 15 src, 1387 ctx) … 9.1s  Teaching on the Dharmakāya
+
+wrote 3-TRANSFORMATIONS/Translations/Gemini/en/bo-ratnagunasancayagatha-en.md  (308/308 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Gemini/en/work/bo-ratnagunasancayagatha-en.jsonl
+calls  2 for 9 block(s) recorded this run
+SUMMARY {"text": "bo-ratnagunasancayagatha", "lang_tag": "en", "blocks_total": 9, "blocks_done": 308, "new": 9, "calls": 2, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": null}
+JOB DONE 2026-10-05 16:04:15

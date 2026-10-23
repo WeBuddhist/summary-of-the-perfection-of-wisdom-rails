@@ -1,0 +1,103 @@
+[
+ {
+  "id": "1-6",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "徹底放下了",
+    "evidence": "The aggregates with no object of focus are utterly destroyed/dismantled (rnam par 'jig pa); '放下' (let go of) loses the sense of destruction.",
+    "fix": "把無法抓住的身心的組成部分徹底瓦解了"
+   }
+  ]
+ },
+ {
+  "id": "1-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-18",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "成為無上的國王，也就是最厲害的醫生中的王",
+    "evidence": "The protectors become the supreme king of physicians (one title); saying '無上的國王' first suggests a separate king, which is confusing.",
+    "fix": "因此成為最厲害的、醫生中的王"
+   }
+  ]
+ },
+ {
+  "id": "2-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-16",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "帶著想要看看外面事物的看法",
+    "evidence": "The mind is driven by a wish to see/fixate on outer things (views); the phrase is awkward and hard for children.",
+    "fix": "心裡想著外面的東西，抱著這樣的看法"
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "這也是魔王的作為",
+    "evidence": "The text says simply 'this is the work of Mara'; '也' implies an additional item not stated.",
+    "fix": "這些都是魔王的作為"
+   }
+  ]
+ },
+ {
+  "id": "4-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-4",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "從三個領域中解脫出來",
+    "evidence": "They pass beyond the three realms without remainder (ma lus pa, all of them); 'without remainder' is lost.",
+    "fix": "從三個領域中完全解脫出來，一個也不剩"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "他們成為人類中最傑出的領袖",
+    "evidence": "The 'best of humans' is an epithet of the one who turned the jewel wheel, not something the knowers 'become'.",
+    "fix": "那位人類中最傑出的領袖轉動了珍寶輪"
+   }
+  ]
+ }
+]

@@ -1,0 +1,184 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "1-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "佛法之法王與佛",
+     "evidence": "Tibetan has only \"རང་སངས་རྒྱས་དག་དེ་བཞིན་ཆོས་རྒྱལ་འགྱུར་འདོད་པ\" (wish to become pratyekabuddhas, and likewise a ཆོས་རྒྱལ \"Dharma King\"). Mipham 2-4 glosses it as one figure, \"ཆོས་ཀྱི་རྒྱལ་པོ་སངས་རྒྱས\" (the Dharma King, the Buddha), and Khenrab 2-4 as \"ཆོས་ཀྱི་རྒྱལ་པོ་སངས་རྒྱས་བཅོམ་ལྡན་འདས\". The Chinese adds 佛法 to the locked 法王 and lists \"Buddha\" as a second item (與佛), as if two goals.",
+     "fix": "法王"
+    }
+   ]
+  },
+  {
+   "id": "2-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "魔與魔黨等黨類",
+     "evidence": "Tibetan \"བདུད་དང་བདུད་ཀྱི་ཕྱོགས་ཀྱིས\" = Māra and the faction of Māra. The locked བདུད་ཀྱི་ཕྱོགས is already 魔黨, so 等黨類 renders ཕྱོགས a second time and adds a redundant \"and such factions\" not in the Tibetan (Mipham 2-14, Khenrab 2-14 speak only of བདུད and བདུད་ཀྱི་ཕྱོགས/སྡེ).",
+     "fix": "魔與魔黨"
+    }
+   ]
+  },
+  {
+   "id": "2-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "於每日三世供養",
+     "evidence": "\"དུས་གསུམ\" here means three times of each day: Mipham 2-15 \"ཉིན་མཚན་རེ་རེ་ཞིང་དུས་གསུམ་དུ\", Rangjung 2-15 \"དུས་སྔ་དྲོ་གུང་ཕྱི་དྲོ་གསུམ\" (morning, noon, evening); Skt triyadhva-. Chinese 三世 normally means past/present/future, so 每日三世 is hard to parse and allows a wrong reading. The locked 三世 clashes with the sense; the span should make the daily sense explicit.",
+     "fix": "於每日三時（晨、午、昏）供養"
+    }
+   ]
+  },
+  {
+   "id": "2-17",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "此善逝之母、佛母",
+     "evidence": "Tibetan has one phrase \"བདེ་བར་གཤེགས་ཀྱི་ཡུམ་འདི\" (this Mother of the Sugatas; Skt sugatamāta). The Chinese stacks both locked entries (善逝之母 and ཡུམ→佛母) as two epithets, adding a second designation that is not in the Tibetan. Rangjung 2-15 reads it as the single \"བདེ་བར་གཤེགས་པ་བསྐྱེད་པའི་ཡུམ\".",
+     "fix": "此善逝之母"
+    }
+   ]
+  },
+  {
+   "id": "2-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-27",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "除了在陰影數量上作稱說之外",
+     "evidence": "\"གྲིབ་མར་གྱུར་པའི་གྲངས་སུ་བརྗོད་པ་མ་གཏོགས་པར\": གྲངས here is enumeration/designation (Skt saṃkhyā), not a quantity. Mipham 2-27 \"གྲིབ་མར་གྱུར་པའི་རྣམ་གྲངས་སུ་བརྗོད་པ་ཙམ\" and Khenrab 2-26 \"མིང་གི་རྣམ་གྲངས་སུ་བརྗོད་པ་ཙམ\": the shadows are merely called \"shadow of such-and-such tree\" as a nominal classification. 數量 suggests counting shadows.",
+     "fix": "除了僅被稱說為歸入陰影之列（名言上的分類）之外"
+    }
+   ]
+  },
+  {
+   "id": "2-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-38",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "菩薩迴向菩提之一念隨喜心",
+     "evidence": "Tibetan \"བྱང་ཆུབ་སེམས་དཔའི་རྗེས་སུ་ཡི་རང་སེམས་གཅིག\" = a bodhisattva's single mind of rejoicing; nothing says it is dedicated to awakening. 迴向菩提 interpolates a dedication that Khenrab 2-38 brings in only as commentary (\"བླ་མེད་བྱང་ཆུབ་ཏུ་བསྔོ་བའི་ཐབས་མཁས\") and Mipham 2-38 does not state in the verse; the English academic also has no such qualifier. It also pushes བསྔོ་བ into a verse that is about རྗེས་སུ་ཡི་རང་ alone.",
+     "fix": "菩薩之一念隨喜心"
+    },
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "福德蘊",
+     "evidence": "ཕུང་པོ in \"བསོད་ནམས་ཕུང་པོ\" is a heap/mass of merit (Mipham 2-38 \"བསོད་ནམས་ཕུང་པོ\"), and the line before uses 福德聚. 蘊 is the technical rendering of skandha (the five aggregates), so it is inconsistent and misleading here.",
+     "fix": "福德聚"
+    }
+   ]
+  },
+  {
+   "id": "2-40",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "具備波羅蜜多之佛法",
+     "evidence": "Tibetan \"ཕ་རོལ་ཕྱིན་དང་ལྡན་དང་སངས་རྒྱས་ཆོས་གང་དང\" = what is endowed with the perfections, and whatever buddha-qualities. Mipham 2-39 reads the first as \"སྦྱོར་བ་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་དང་ལྡན་པ\" (the practice endowed with the six perfections) and the second as \"འབྲས་བུ་... སངས་རྒྱས་ཀྱི་ཆོས\". The Chinese inserts 佛法 as the thing endowed with perfections and then adds 佛功德, so a \"buddha-dharma\" item is added.",
+     "fix": "具備波羅蜜多者，以及任何佛功德"
+    }
+   ]
+  },
+  {
+   "id": "2-44",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "善法與功德",
+     "evidence": "Tibetan \"དཀར་པོའི་ཆོས་ལ་དམིགས་པ\" = apprehending white/virtuous dharma (one item). Mipham 2-44 \"དཀར་པོའི་ཆོས་ཡིན་ཀྱང་དེ་ལ་བདེན་པར་ཞེན་པའི་འདུ་ཤེས་ཀྱིས་དམིགས་པ\". The Chinese splits it into two objects, 善法 and 功德 (the glossary entry ཆོས→功德 was applied on top of དཀར་པོའི་ཆོས→善法), adding a second item.",
+     "fix": "以善法為所緣"
+    }
+   ]
+  },
+  {
+   "id": "2-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "志求菩提之菩薩",
+     "evidence": "Tibetan \"སེམས་ཅན་འདུ་ཤེས་ཡོངས་རྟོག་བྱང་ཆུབ་སེམས་དཔའ\" = the bodhisattva who conceptualizes the perception of sentient beings; བྱང་ཆུབ་སེམས་དཔའ is the single term 菩薩 (Mipham 2-50, Khenrab 2-50 use just བྱང་ཆུབ་སེམས་དཔའ). 志求菩提之 is a gloss on the name, not in the Tibetan.",
+     "fix": "菩薩"
+    }
+   ]
+  },
+  {
+   "id": "4-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-16",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

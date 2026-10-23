@@ -1,0 +1,343 @@
+{
+ "segments": [
+  {
+   "id": "0-4",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "obscurations of the afflictions",
+      "explanation": "The Tibetan (sngrib pa nyon mongs) refers to obscurations and afflictions as two items, or afflictions as the obscurations, but it is not a genitive construction."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "And to that which is the conduct of the heroic ones.",
+      "explanation": "The Tibetan says to listen to that [perfection of wisdom] in which the heroes practice. The translation wrongly separates it into a second object to listen to."
+     }
+    ],
+    "C": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "The perfection of wisdom of the gentle ones engaged in the benefit of beings, Listen to that in which the heroes practice.",
+      "explanation": "The noun phrase 'The perfection of wisdom...' is left dangling and awkwardly disconnected from the verb 'Listen'."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-6",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "unapprehendable aggregates",
+      "explanation": "According to the commentaries, 'without apprehending' (dmigs med) modifies the path/wisdom, not the aggregates, although this is a plausible literal reading."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "knowledge of craftsmanship",
+      "explanation": "The Tibetan 'bzo sbyangs' here is part of a proper name (the wanderer Śreṇika), not a reference to craftsmanship."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "Understood the aggregates as unapprehendable and subject to destruction",
+      "explanation": "The Tibetan verb is 'occurs' ('byung ba), meaning the destruction occurs. The translation changes this to someone understanding them as subject to destruction."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-16",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "1-25",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "Know that",
+      "explanation": "The Tibetan text describes what a bodhisattva does (knowing/knows) as a present participle or descriptive verb, not as an imperative command to the reader."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "both",
+      "explanation": "Translating 'gnyi gar' with a negative is better rendered as 'either', as 'not conceptualizing both' implies they might conceptualize one."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-28",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "2-8",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "training that rejoices in qualities",
+      "explanation": "The Tibetan (yon tan dga' ba'i slob) refers to the training of those [bodhisattvas] who delight in qualities, not that the training itself rejoices."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "2-21",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "all the qualities",
+      "explanation": "The translation omits 'dharmas' (chos) from 'all the qualities and dharmas'."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-27",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "diverse colors and diverse shapes",
+      "explanation": "The root text does not explicitly mention 'colors', although it is found in the commentaries as an explanation for 'various kinds'."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "things that cast a shadow",
+      "explanation": "The Tibetan 'grib mar gyur pa' means 'what has become a shadow' (i.e., the shadows themselves), not the objects that cast the shadow."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "2-30",
+   "candidates": {
+    "A": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "In which form is not apprehended, nor feeling, nor perception, Nor consciousness, nor intention is apprehended",
+      "explanation": "The repetition of 'is apprehended' makes the syntax somewhat awkward and disjointed."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "2-40",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "Including the perfections",
+      "explanation": "Omits 'endowed with' (ldan), as the Tibetan reads 'endowed with the perfections' (pha rol phyin dang ldan)."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "2-50",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "seeking awakening",
+      "explanation": "This phrase is added; it is not present in the Tibetan or Sanskrit source."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "The bodhisattva entirely imagines the notion of sentient beings; This is",
+      "explanation": "Translating the noun phrase describing the bodhisattva as an independent clause creates a disjointed sentence structure with the following clause."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-53",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "if the supreme pristine wisdom of a buddha One wishes to touch, generate",
+      "explanation": "The word order is slightly awkward in English."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "4-6",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "fluency",
+      "severity": "major",
+      "span": "should understand that by hearing This Perfection of Wisdom of the Victors, Even if they have not received a direct prophecy from the Guide, \"Before long, I shall touch the awakening of a Buddha.\"",
+      "explanation": "The sentence is grammatically broken and lacks a main verb to introduce the direct quote."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-10",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "awakening, or peace",
+      "explanation": "The Tibetan \"byang chub zhi\" (peaceful awakening) refers to a single concept, but the translation separates them with 'or'."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "blessing of non-conceptuality",
+      "explanation": "The Tibetan describes the practitioner (or their samadhi) as non-conceptual and free from concepts; they practice through blessing. Lumping this into \"blessing of non-conceptuality\" misconstrues the syntax."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "4-17",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "4-26",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "throughout the world",
+      "explanation": "The Tibetan \"yang\" (also/too) is omitted, changing 'also lets out a roar in the world' to 'lets out his roar throughout the world'."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "4-36",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "it does not break on the way; Without any danger",
+      "explanation": "The Tibetan and commentaries state there is 'no fear' ('jigs pa med) of it breaking; omitting 'fear' slightly shifts the meaning to a simple statement of fact."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "Regarding breaking on the path when carrying water in a fired pot, Without breaking, it will safely arrive at the house.",
+      "explanation": "The translation misses the negated noun 'fear' (fear of breaking), misconstruing the syntax of the entire line."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-44",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "enlightenment or the aggregates",
+      "explanation": "The Tibetan \"byang chub phung por\" means 'the aggregates of awakening'; splitting this with 'or' changes the core meaning."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "4-48",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "Felt little concern",
+      "explanation": "In this context, the Tibetan idiom refers to showing 'little inclination' or 'little eagerness' to teach, not a lack of concern or apathy."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "4-57",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "vividly strive",
+      "explanation": "Translating the prefix 'mngon par' (abhi-) literally as 'vividly' creates an awkward collocation; it means to strive intensely or actively."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  }
+ ]
+}

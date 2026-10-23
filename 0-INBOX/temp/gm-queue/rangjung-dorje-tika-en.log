@@ -1,0 +1,144 @@
+=== blocks pass 1 2026-10-05 15:32:50
+source     : 1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries
+reference  : none
+glossary   : none
+blocks     : 323 total, 0 already in ledger, 323 to do
+batching   : 285 calls for 323 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/285] ^0-1  (1 blk, 148 src, 450 ctx) … 16.92s  Herein is contained the commentary on the Noble Vers
+[2/285] ^0-2  (1 blk, 4558 src, 946 ctx) … === restarted with --cross-headings 2026-10-05 15:33:40
+=== blocks pass 1 2026-10-05 15:33:42
+source     : 1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries
+reference  : none
+glossary   : none
+blocks     : 323 total, 1 already in ledger, 322 to do
+batching   : 55 calls for 322 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/55] ^0-2  (1 blk, 4558 src, 946 ctx) … 108.97s  Vajra body accomplished from the glory of the Mount 
+[2/55] ^0-3,^0-4  (2 blk, 2945 src, 564 ctx) … 95.68s  In the language of India: Āryaprajñāpāramitāsañcayag
+[3/55] ^1-1,^2-1,^2-2,^2-3  (4 blk, 2468 src, 7833 ctx) … 91.62s  From 'Then' up to 'spoke': 'Then' means after the sp
+[4/55] ^2-4  (1 blk, 1514 src, 6593 ctx) … 47.49s  Thus it is stated. As for the example, it states 'Ja
+[5/55] ^2-5  (1 blk, 2807 src, 6421 ctx) … 75.73s  Regarding the meaning of these [verses] such as "...
+[6/55] ^2-6,^2-7,^2-8  (3 blk, 2908 src, 7521 ctx) … 92.19s  "It is taught by these methods." Thus it is said. Re
+[7/55] ^2-9,^2-10,^2-11,^2-12,^2-13,^2-14  (6 blk, 2982 src, 7541 ctx) … 48.06s  Thus it is said: Again, from "this wisdom is" up to 
+[8/55] ^2-15,^2-16,^2-17,^2-18,^2-19,^2-20  (6 blk, 2362 src, 7584 ctx) … 60.51s  Thus it is said: Regarding this from "Whoever here t
+[9/55] ^2-21,^2-22,^2-23,^2-24,^2-25,^2-26  (6 blk, 2923 src, 6503 ctx) … 97.61s  Thus it is said: Regarding this from "For example, a
+[10/55] ^2-27,^2-28,^2-29,^2-30,^2-31,^2-32  (6 blk, 2007 src, 8063 ctx) … 43.0s  Thus it is said: If, in contrast to that, one has th
+[11/55] ^2-33,^2-34,^2-35,^2-36  (4 blk, 2371 src, 5820 ctx) … 53.96s  By "Whoever does not abide in form, does not abide i
+[12/55] ^2-37,^2-38,^2-39,^2-40,^2-41,^2-42,^2-43,^2-44  (8 blk, 2867 src, 7350 ctx) … 44.95s  Regarding this from "teaching dharma and" up to "tau
+[13/55] ^2-45,^2-46,^2-47,^2-48,^2-49,^2-50,^2-51,^2-52  (8 blk, 1390 src, 4610 ctx) … 39.69s  Thus it is said:
+[14/55] ^2-53,^2-54,^2-55  (3 blk, 1632 src, 3886 ctx) … 54.16s  Regarding this from "Someone the Sugata" up to "does
+[15/55] ^2-56,^2-57,^2-58,^2-59,^2-60,^2-61  (6 blk, 2693 src, 5975 ctx) … 44.05s  Regarding this from "Many realms of beings" up to "a
+[16/55] ^2-62,^2-63,^2-64,^2-65,^2-66,^2-67,^2-68,^2-69  (8 blk, 2490 src, 7151 ctx) … 48.85s  up to "is holding": Although there are three givings
+[17/55] ^2-70,^2-71,^2-72,^2-73,^2-74,^2-75,^2-76,^2-77  (8 blk, 1662 src, 3878 ctx) … 32.74s  Regarding this from "by some" up to "touch enlighten
+[18/55] ^2-78,^2-79,^2-80,^2-81,^2-82,^2-83  (6 blk, 2475 src, 3676 ctx) … 79.32s  Thus it is said: Regarding this from "if thus" up to
+[19/55] ^2-84,^2-85,^2-86,^2-87  (4 blk, 2275 src, 6891 ctx) … 55.35s  Regarding this from "when conditioned" up to "does n
+[20/55] ^2-88,^2-89,^2-90,^2-91  (4 blk, 2389 src, 8038 ctx) … 75.47s  The essence of the third topic, the knowledge of the
+[21/55] ^2-92,^2-93,^2-94,^2-95,^2-96,^2-97,^2-98,^2-99  (8 blk, 2929 src, 8468 ctx) … 67.67s  Thus it is said: Regarding this from "the sun freed 
+[22/55] ^2-100,^2-101,^2-102,^2-103,^2-104,^2-105,^2-106,^2-107  (8 blk, 2218 src, 6439 ctx) … 58.93s  Regarding this from "the wilderness path" up to "not
+[23/55] ^2-108,^2-109,^2-110,^2-111,^2-112,^2-113,^2-114,^2-115  (8 blk, 1077 src, 4419 ctx) … 39.7s  Thus it is said:
+[24/55] ^2-116,^2-117,^2-118,^2-119,^2-120,^2-121,^2-122,^2-123  (8 blk, 2547 src, 2362 ctx) … 50.93s  Thus it is said: By this from "whoever at that time"
+[25/55] ^2-124,^2-125,^2-126,^2-127,^2-128,^2-129,^2-130,^2-131  (8 blk, 2750 src, 6291 ctx) … 43.74s  Thus it is said: Regarding this from "perfection of 
+[26/55] ^2-132,^2-133,^2-134,^2-135,^2-136,^2-137,^2-138,^2-139  (8 blk, 2193 src, 6748 ctx) … 54.41s  Thus it is said:
+[27/55] ^2-140,^2-141,^2-142,^2-143,^2-144,^2-145,^2-146  (7 blk, 2765 src, 5233 ctx) … 45.26s  Regarding this from "bodhisattva" up to "by them": A
+[28/55] ^2-147,^2-148,^2-149,^2-150,^2-151,^2-152,^2-153,^2-154  (8 blk, 2489 src, 6854 ctx) … 59.52s  Thus it is said: Regarding this from "those of such"
+[29/55] ^2-155,^2-156,^2-157,^2-158,^2-159,^2-160  (6 blk, 2857 src, 5957 ctx) … 66.8s  Regarding this from "bodhisattva" up to "engages in 
+[30/55] ^2-161,^2-162,^2-163,^2-164,^2-165  (5 blk, 2609 src, 7789 ctx) … 52.81s  Thus it is said: Regarding this from "in the four dh
+[31/55] ^2-166,^2-167,^2-168,^2-169,^2-170  (5 blk, 2183 src, 7195 ctx) … 41.6s  Thus it is said: Regarding this from "bodhisattva" u
+[32/55] ^2-171,^2-172,^2-173,^2-174,^2-175,^2-176,^2-177,^2-178  (8 blk, 2918 src, 8030 ctx) … 69.69s  Thus it is said: Regarding this from "oil and core" 
+[33/55] ^2-179,^2-180,^2-181,^2-182,^2-183,^2-184  (6 blk, 2776 src, 4973 ctx) … 46.98s  By this from "For example, a person" up to "does not
+    ^2-179: 1 source lines -> 2 returned; re-running alone
+    ^2-179 solo 1/3 (want 1) … 30.4s -> 1 line(s)  OK
+    ^2-180: 1 source lines -> 2 returned; re-running alone
+    ^2-180 solo 1/3 (want 1) … 36.02s -> 1 line(s)  OK
+    ^2-181: 1 source lines -> 2 returned; re-running alone
+    ^2-181 solo 1/3 (want 1) … 17.15s -> 1 line(s)  OK
+    ^2-182: 1 source lines -> 2 returned; re-running alone
+    ^2-182 solo 1/3 (want 1) … 50.35s -> 1 line(s)  OK
+    ^2-183: 1 source lines -> 2 returned; re-running alone
+    ^2-183 solo 1/3 (want 1) … 40.51s -> 1 line(s)  OK
+    ^2-184: 1 source lines -> 2 returned; re-running alone
+    ^2-184 solo 1/3 (want 1) … 45.0s -> 1 line(s)  OK
+[34/55] ^2-185,^2-186,^2-187,^2-188,^2-189,^2-190,^2-191,^2-192  (8 blk, 2905 src, 7653 ctx) … 50.89s  Thus it is said: Regarding this from "for example, d
+[35/55] ^2-193,^2-194,^2-195,^2-196,^2-197,^2-198,^2-199,^2-200  (8 blk, 2420 src, 5582 ctx) … 51.43s  Thus it is said: Moreover, if seeing a burning city 
+[36/55] ^2-201,^2-202,^2-203,^2-204,^2-205,^2-206,^2-207,^2-208  (8 blk, 2844 src, 5215 ctx) … 63.58s  Thus it is said: Regarding this from "always in vill
+[37/55] ^2-209,^2-210,^2-211,^2-212,^2-213,^2-214,^2-215  (7 blk, 2709 src, 5216 ctx) … 58.0s  Thus it is said:
+[38/55] ^2-216,^2-217,^2-218,^2-219,^2-220,^2-221  (6 blk, 2613 src, 7552 ctx) … 49.79s  Thus it is said: Regarding this from "perfection of 
+[39/55] ^2-222,^2-223,^2-224,^2-225,^2-226,^2-227  (6 blk, 2835 src, 7008 ctx) … 64.52s  Thus it is said: Regarding this from "at that time" 
+[40/55] ^2-228,^2-229,^2-230,^2-231,^2-232  (5 blk, 2380 src, 7425 ctx) … 44.53s  Regarding this from "a bodhisattva" up to "trains th
+[41/55] ^2-233,^2-234,^2-235,^2-236,^2-237,^2-238,^2-239,^2-240  (8 blk, 2716 src, 6469 ctx) … 54.1s  Thus it is said: Regarding this from "non-returning 
+[42/55] ^2-241,^2-242,^2-243,^2-244,^2-245,^2-246,^2-247  (7 blk, 2563 src, 5291 ctx) … 50.34s  Regarding this from "Wise ones who engage thus" up t
+[43/55] ^2-248,^2-249,^2-250,^2-251,^2-252,^2-253,^2-254,^2-255  (8 blk, 2226 src, 6412 ctx) … 53.54s  Thus it is said: Regarding this from "arhats' libera
+[44/55] ^2-256,^2-257,^2-258,^2-259,^2-260,^2-261  (6 blk, 2458 src, 3431 ctx) … 27.45s  Thus it is said:
+[45/55] ^2-262,^2-263,^2-264,^2-265  (4 blk, 1923 src, 6795 ctx) … 50.28s  Regarding this from "This accumulation of qualities"
+[46/55] ^2-266,^2-267,^2-268,^2-269,^2-270,^2-271,^2-272  (7 blk, 2794 src, 7685 ctx) … 41.99s  Thus it is said: Regarding this from "If a bodhisatt
+[47/55] ^2-273,^2-274,^2-275,^2-276,^2-277,^2-278,^2-279,^2-280  (8 blk, 2527 src, 4641 ctx) … 47.62s  Thus it is said: Regarding this from "A bodhisattva"
+[48/55] ^2-281,^2-282,^2-283,^2-284,^2-285,^2-286,^2-287,^2-288  (8 blk, 1958 src, 5003 ctx) … 56.57s  Thus it is said:
+[49/55] ^2-289,^2-290,^2-291,^2-292,^2-293,^2-294,^2-295  (7 blk, 2229 src, 4449 ctx) … 60.3s  Regarding this from "The one practicing patience thi
+[50/55] ^2-296,^2-297,^2-298,^2-299,^2-300  (5 blk, 2391 src, 4994 ctx) … 54.52s  Thus it is said: Regarding this from "If a bodhisatt
+[51/55] ^2-301,^2-302,^2-303,^2-304,^2-305,^2-306  (6 blk, 2695 src, 7493 ctx) … 60.58s  Regarding this from "Pure mind" up to "there is no o
+[52/55] ^2-307,^2-308,^2-309,^2-310  (4 blk, 1922 src, 7423 ctx) … 58.52s  Thus it is said: Regarding this from "The bodhisattv
+[53/55] ^2-311,^2-312,^2-313,^2-314  (4 blk, 2926 src, 7965 ctx) … 72.57s  By means of this from "[The bodhisattva]" up to "wil
+[54/55] ^2-315,^2-316,^2-317  (3 blk, 2146 src, 8179 ctx) … 44.72s  Thus it is said: Regarding this from "healing the il
+[55/55] ^2-318  (1 blk, 965 src, 8514 ctx) … 65.95s  Thus, by the Lord, the Great Sage, the Lion, from th
+
+wrote 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/bo-rangjung-dorje-tika-en.md  (323/323 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/work/bo-rangjung-dorje-tika-en.jsonl
+calls  61 for 322 block(s) recorded this run
+SUMMARY {"text": "bo-rangjung-dorje-tika", "lang_tag": "en", "blocks_total": 323, "blocks_done": 323, "new": 322, "calls": 61, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": null}
+=== headings pass 1 2026-10-05 16:31:05
+source     : 1-SOURCES/Commentaries/bo-rangjung-dorje-tika.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default   mode=headings
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries
+reference  : none
+glossary   : none
+blocks     : 317 total, 0 already in ledger, 317 to do
+batching   : 40 calls for 317 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/40] ^1-0,^2-0,^2-1-0,^2-2-0,^2-3-0,^2-4-0,^2-4-1-0,^2-4-1-1-0  (8 blk, 299 src, 450 ctx) … 16.08s  The Perfect Setting Which Is the Cause for the Arisi
+[2/40] ^2-4-1-1-1-0,^2-4-1-1-2-0,^2-4-1-1-2-1-0,^2-4-1-1-2-1-1-0,^2-4-1-1-2-1-2-0,^2-4-1-1-2-2-0,^2-4-1-1-2-2-1-0,^2-4-1-1-2-2-2-0  (8 blk, 238 src, 1524 ctx) … 19.66s  Identifying the Person Who Practices the Perfection 
+[3/40] ^2-4-1-1-2-3-0,^2-4-1-1-2-3-1-0,^2-4-1-1-2-3-2-0,^2-4-1-1-3-0,^2-4-1-1-3-1-0,^2-4-1-1-3-1-1-0,^2-4-1-1-3-1-2-0,^2-4-1-1-3-1-2-1-0  (8 blk, 238 src, 1490 ctx) … 18.36s  Attaining the Practice of the Path through Knowing t
+[4/40] ^2-4-1-1-3-1-2-2-0,^2-4-1-1-3-1-2-3-0,^2-4-1-1-3-2-0,^2-4-1-1-3-2-1-0,^2-4-1-1-3-2-1-1-0,^2-4-1-1-3-2-1-2-0,^2-4-1-1-3-2-2-0,^2-4-1-1-3-2-2-1-0  (8 blk, 201 src, 1498 ctx) … 15.04s  The Meaning of Mahasattva
+[5/40] ^2-4-1-1-3-2-2-2-0,^2-4-1-1-3-2-2-3-0,^2-4-1-1-3-3-0,^2-4-1-2-0,^2-4-1-2-1-0,^2-4-1-2-1-1-0,^2-4-1-2-1-1-1-0,^2-4-1-2-1-1-1-1-0  (8 blk, 211 src, 1503 ctx) … 17.23s  Knowing the Object as Equality
+[6/40] ^2-4-1-2-1-1-1-2-0,^2-4-1-2-1-1-2-0,^2-4-1-2-1-2-0,^2-4-1-2-1-2-1-0,^2-4-1-2-1-2-2-0,^2-4-1-2-1-2-3-0,^2-4-1-2-1-2-3-1-0,^2-4-1-2-1-2-3-2-0  (8 blk, 279 src, 1462 ctx) … 17.33s  The Example
+[7/40] ^2-4-1-2-1-2-3-3-0,^2-4-1-2-2-0,^2-4-1-2-2-1-0,^2-4-1-2-2-2-0,^2-4-1-2-2-3-0,^2-4-1-2-2-4-0,^2-4-1-2-3-0,^2-4-1-2-3-1-0  (8 blk, 238 src, 1665 ctx) … 17.9s  Training in Omniscience Through That
+[8/40] ^2-4-1-2-3-1-1-0,^2-4-1-2-3-1-2-0,^2-4-1-2-3-2-0,^2-4-1-2-3-2-1-0,^2-4-1-2-3-2-1-1-0,^2-4-1-2-3-2-1-2-0,^2-4-1-2-3-2-1-3-0,^2-4-1-2-3-2-2-0  (8 blk, 208 src, 1488 ctx) … 15.72s  Obtaining Prophecy by Retaining the Meaning
+[9/40] ^2-4-1-2-3-2-2-1-0,^2-4-1-2-3-2-2-2-0,^2-4-1-2-3-2-2-3-0,^2-4-1-2-3-2-3-0,^2-4-1-2-3-2-3-1-0,^2-4-1-2-3-2-3-2-0,^2-4-1-2-3-2-3-3-0,^2-4-1-2-3-3-0  (8 blk, 173 src, 1525 ctx) … 15.63s  The Brief Indication
+[10/40] ^2-4-1-2-3-3-1-0,^2-4-1-2-3-3-2-0,^2-4-1-2-3-3-2-1-0,^2-4-1-2-3-3-2-2-0,^2-4-1-2-3-3-2-2-1-0,^2-4-1-2-3-3-2-2-2-0,^2-4-1-2-3-4-0,^2-4-1-2-3-4-1-0  (8 blk, 204 src, 1465 ctx) … 22.65s  Teaching the Drawbacks of Teaching the Counterfeit M
+[11/40] ^2-4-1-2-3-4-1-1-0,^2-4-1-2-3-4-1-2-0,^2-4-1-2-3-4-2-0,^2-4-1-2-3-4-2-1-0,^2-4-1-2-3-4-2-2-0,^2-4-1-2-3-4-2-3-0,^2-4-1-2-3-4-2-4-0,^2-4-1-2-3-4-2-5-0  (8 blk, 227 src, 1410 ctx) … 17.6s  Teaching Through Examples the Great Merit of Rejoici
+[12/40] ^2-4-1-2-4-0,^2-4-1-2-4-1-0,^2-4-1-2-4-1-1-0,^2-4-1-2-4-1-2-0,^2-4-1-2-4-1-3-0,^2-4-1-2-4-2-0,^2-4-1-2-4-2-1-0,^2-4-1-2-4-2-2-0  (8 blk, 253 src, 1452 ctx) … 19.99s  Generating Its Nature in the Cause
+[13/40] ^2-4-1-2-4-2-2-1-0,^2-4-1-2-4-2-2-2-0,^2-4-1-2-4-3-0,^2-4-1-3-0,^2-4-1-3-1-0,^2-4-1-3-1-1-0,^2-4-1-3-1-2-0,^2-4-1-3-1-2-1-0  (8 blk, 259 src, 1575 ctx) … 12.29s  Not Abiding in the Extremes of Existence and Peace
+[14/40] ^2-4-1-3-1-2-2-0,^2-4-1-3-1-2-2-1-0,^2-4-1-3-1-2-2-2-0,^2-4-1-3-1-2-2-3-0,^2-4-1-3-1-2-2-4-0,^2-4-1-3-1-2-3-0,^2-4-1-3-1-2-3-1-0,^2-4-1-3-1-2-3-2-0  (8 blk, 213 src, 1564 ctx) … 46.63s  The Qualities of Nearing the Result of Awakening
+[15/40] ^2-4-1-3-1-2-3-3-0,^2-4-1-3-1-3-0,^2-4-1-3-1-3-1-0,^2-4-1-3-1-3-2-0,^2-4-1-3-1-3-2-1-0,^2-4-1-3-1-3-2-2-0,^2-4-1-3-1-3-2-3-0,^2-4-1-3-1-3-2-4-0  (8 blk, 250 src, 1517 ctx) … 18.5s  Teaching Non-Conceptuality
+[16/40] ^2-4-1-3-1-3-3-0,^2-4-1-3-1-4-0,^2-4-1-3-1-4-1-0,^2-4-1-3-1-4-2-0,^2-4-1-3-1-4-2-1-0,^2-4-1-3-1-4-2-1-1-0,^2-4-1-3-1-4-2-1-2-0,^2-4-1-3-1-4-2-1-3-0  (8 blk, 274 src, 1585 ctx) … 15.86s  Teaching the Cause of Many Obstacles
+[17/40] ^2-4-1-3-1-4-2-1-4-0,^2-4-1-3-1-4-2-1-5-0,^2-4-1-3-1-4-2-1-5-1-0,^2-4-1-3-1-4-2-1-5-2-0,^2-4-1-3-1-4-2-2-0,^2-4-1-3-1-4-2-2-1-0,^2-4-1-3-1-4-2-2-1-1-0,^2-4-1-3-1-4-2-2-1-2-0  (8 blk, 181 src, 1607 ctx) … 14.0s  Bestowing Their Names
+[18/40] ^2-4-1-3-1-4-2-2-2-0,^2-4-1-3-1-4-2-2-3-0,^2-4-1-3-1-4-2-3-0,^2-4-1-3-1-4-2-3-1-0,^2-4-1-3-1-4-2-3-2-0,^2-4-1-3-1-4-2-3-2-1-0,^2-4-1-3-1-4-2-3-2-2-0,^2-4-1-3-1-4-2-3-2-3-0  (8 blk, 300 src, 1498 ctx) … 26.4s  Possessing the Extensive Activity through the Exampl
+[19/40] ^2-4-1-3-1-4-2-3-2-4-0,^2-4-1-3-1-5-0,^2-4-1-3-1-5-1-0,^2-4-1-3-1-5-1-1-0,^2-4-1-3-1-5-1-2-0,^2-4-1-3-1-5-1-3-0,^2-4-1-3-1-5-2-0,^2-4-1-3-1-5-3-0  (8 blk, 269 src, 1657 ctx) … 40.59s  The Example of the Old Man With and Without the Depe
+[20/40] ^2-4-1-3-1-5-3-1-0,^2-4-1-3-1-5-3-1-1-0,^2-4-1-3-1-5-3-1-2-0,^2-4-1-3-1-5-3-1-3-0,^2-4-1-3-1-5-3-2-0,^2-4-1-3-1-5-3-2-1-0,^2-4-1-3-1-5-3-2-2-0,^2-4-1-3-2-0  (8 blk, 246 src, 1618 ctx) … 16.91s  The Greatness of the Person Who Practices
+[21/40] ^2-4-1-3-2-1-0,^2-4-1-3-2-1-1-0,^2-4-1-3-2-1-2-0,^2-4-1-3-2-2-0,^2-4-1-3-2-2-1-0,^2-4-1-3-2-2-2-0,^2-4-1-3-2-3-0,^2-4-1-3-2-4-0  (8 blk, 212 src, 1565 ctx) … 13.82s  Identifying the Object and Aspect of Generating Ulti
+[22/40] ^2-4-1-3-2-5-0,^2-4-1-3-2-5-1-0,^2-4-1-3-2-5-1-1-0,^2-4-1-3-2-5-1-2-0,^2-4-1-3-2-5-1-2-1-0,^2-4-1-3-2-5-1-2-1-1-0,^2-4-1-3-2-5-1-2-1-2-0,^2-4-1-3-2-5-1-2-1-3-0  (8 blk, 220 src, 1417 ctx) … 19.61s  The Distinction of Practicing That
+[23/40] ^2-4-1-3-2-5-1-2-1-4-0,^2-4-1-3-2-5-1-2-2-0,^2-4-1-3-2-5-1-2-2-1-0,^2-4-1-3-2-5-1-2-2-2-0,^2-4-1-3-2-5-1-3-0,^2-4-1-3-2-5-1-3-1-0,^2-4-1-3-2-5-1-3-2-0,^2-4-1-3-2-5-2-0  (8 blk, 273 src, 1549 ctx) … 24.03s  The Benefits of Knowing the Nature of Merit
+[24/40] ^2-4-1-3-2-5-3-0,^2-4-1-3-2-5-3-1-0,^2-4-1-3-2-5-3-2-0,^2-4-1-3-2-5-3-2-1-0,^2-4-1-3-2-5-3-2-2-0,^2-4-1-3-2-5-3-2-3-0,^2-4-1-3-2-5-3-2-4-0,^2-4-1-3-2-5-3-2-5-0  (8 blk, 349 src, 1702 ctx) … 26.04s  The Practice of Skill in Means of Union
+[25/40] ^2-4-1-3-2-5-3-2-6-0,^2-4-1-3-2-5-3-2-7-0,^2-4-1-3-2-5-3-2-8-0,^2-4-1-3-2-5-3-3-0,^2-4-1-3-3-0,^2-4-1-3-3-1-0,^2-4-1-3-3-1-1-0,^2-4-1-3-3-1-2-0  (8 blk, 291 src, 1899 ctx) … 19.36s  Not Falling into the Two Extremes of the Path Throug
+[26/40] ^2-4-1-3-3-2-0,^2-4-1-3-3-2-1-0,^2-4-1-3-3-2-2-0,^2-4-1-3-3-2-3-0,^2-4-1-3-3-2-4-0,^2-4-1-3-3-2-4-1-0,^2-4-1-3-3-2-4-2-0,^2-4-1-3-3-2-4-3-0  (8 blk, 157 src, 1606 ctx) … 19.53s  The Actions of Māra Arising from Not Being Prophesie
+[27/40] ^2-4-1-3-3-3-0,^2-4-1-3-3-3-1-0,^2-4-1-3-3-3-2-0,^2-4-1-3-3-3-2-1-0,^2-4-1-3-3-3-2-2-0,^2-4-1-3-3-4-0,^2-4-1-3-3-4-1-0,^2-4-1-3-3-4-2-0  (8 blk, 209 src, 1337 ctx) … 21.26s  Relying on a Spiritual Friend to Relinquish Demonic 
+[28/40] ^2-4-1-3-3-4-3-0,^2-4-1-3-3-4-4-0,^2-4-1-3-3-5-0,^2-4-1-3-3-5-1-0,^2-4-1-3-3-5-1-1-0,^2-4-1-3-3-5-1-2-0,^2-4-1-3-3-5-1-3-0,^2-4-1-3-3-5-2-0  (8 blk, 286 src, 1447 ctx) … 16.66s  Thorough Affliction From That
+[29/40] ^2-4-1-3-3-5-3-0,^2-4-1-3-3-5-3-1-0,^2-4-1-3-3-5-3-2-0,^2-4-1-3-3-5-3-3-0,^2-4-1-3-3-5-3-4-0,^2-4-1-3-3-5-3-4-1-0,^2-4-1-3-3-5-3-4-1-1-0,^2-4-1-3-3-5-3-4-1-2-0  (8 blk, 196 src, 1609 ctx) … 15.2s  The Benefits of Exerting Oneself in That Way
+[30/40] ^2-4-1-3-3-5-3-4-1-2-1-0,^2-4-1-3-3-5-3-4-1-2-2-0,^2-4-1-3-3-5-3-4-1-2-3-0,^2-4-1-3-4-0,^2-4-1-3-4-1-0,^2-4-1-3-4-2-0,^2-4-1-3-4-2-1-0,^2-4-1-3-4-2-2-0  (8 blk, 226 src, 1445 ctx) … 13.03s  Completing the Meaning of the Training
+[31/40] ^2-4-1-3-4-2-3-0,^2-4-1-3-4-3-0,^2-4-1-3-4-3-1-0,^2-4-1-3-4-3-2-0,^2-4-1-3-4-3-3-0,^2-4-1-3-5-0,^2-4-1-3-5-1-0,^2-4-1-3-5-2-0  (8 blk, 216 src, 1537 ctx) … 25.13s  The Example of a Wooden Man
+[32/40] ^2-4-1-3-5-2-1-0,^2-4-1-3-5-2-2-0,^2-4-1-3-5-2-3-0,^2-4-1-3-5-3-0,^2-4-1-3-5-3-1-0,^2-4-1-3-5-3-2-0,^2-4-1-3-5-3-2-1-0,^2-4-1-3-5-3-2-2-0  (8 blk, 248 src, 1496 ctx) … 32.08s  Identifying the Bodhisattva
+[33/40] ^2-4-1-3-5-3-2-2-1-0,^2-4-1-3-5-3-2-2-2-0,^2-4-1-3-5-3-2-2-2-1-0,^2-4-1-3-5-3-2-2-2-2-0,^2-4-2-0,^2-4-2-1-0,^2-4-2-1-1-0,^2-4-2-1-2-0  (8 blk, 192 src, 1592 ctx) … 20.8s  Brief Indication
+[34/40] ^2-4-2-1-2-1-0,^2-4-2-1-2-2-0,^2-4-2-1-2-2-1-0,^2-4-2-1-2-2-2-0,^2-4-2-1-3-0,^2-4-2-2-0,^2-4-2-2-1-0,^2-4-2-2-1-1-0  (8 blk, 214 src, 1508 ctx) … 17.4s  The Distinction of Non-Attachment
+[35/40] ^2-4-2-2-1-2-0,^2-4-2-2-1-3-0,^2-4-2-2-2-0,^2-4-2-2-2-1-0,^2-4-2-2-2-2-0,^2-4-2-2-2-3-0,^2-4-2-2-2-4-0,^2-4-2-2-2-5-0  (8 blk, 208 src, 1504 ctx) … 22.01s  Not Being Attached to One's Own Happiness
+[36/40] ^2-4-2-2-3-0,^2-4-2-2-3-1-0,^2-4-2-2-3-2-0,^2-4-2-3-0,^2-4-2-3-1-0,^2-4-2-3-1-1-0,^2-4-2-3-1-2-0,^2-4-2-3-2-0  (8 blk, 164 src, 1526 ctx) … 21.62s  Complete Purity of the Three Spheres
+[37/40] ^2-4-2-3-2-1-0,^2-4-2-3-2-2-0,^2-4-2-3-3-0,^2-4-2-3-3-1-0,^2-4-2-3-3-2-0,^2-4-2-4-0,^2-4-2-4-1-0,^2-4-2-4-1-1-0  (8 blk, 186 src, 1368 ctx) … 21.52s  Essence
+[38/40] ^2-4-2-4-1-2-0,^2-4-2-4-2-0,^2-4-2-4-2-1-0,^2-4-2-4-2-2-0,^2-4-2-4-3-0,^2-4-2-4-3-1-0,^2-4-2-4-3-2-0,^2-4-2-5-0  (8 blk, 214 src, 1468 ctx) … 19.7s  Detailed Explanation
+[39/40] ^2-4-2-5-1-0,^2-4-2-5-1-1-0,^2-4-2-5-1-2-0,^2-4-2-5-2-0,^2-4-2-5-2-1-0,^2-4-2-5-2-2-0,^2-4-2-5-2-3-0,^2-4-2-5-2-4-0  (8 blk, 200 src, 1426 ctx) … 19.65s  The Emptiness of Non-Attachment Due to Being Embrace
+[40/40] ^2-4-2-5-4-0,^2-4-3-0,^2-4-3-1-0,^2-4-3-2-0,^2-5-0  (5 blk, 143 src, 1429 ctx) … 15.32s  Summarizing the Merit of Generosity
+
+wrote 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/bo-rangjung-dorje-tika-en.md  (323/323 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Gemini/en-commentaries/work/bo-rangjung-dorje-tika-en.jsonl
+calls  40 for 317 block(s) recorded this run
+SUMMARY {"text": "bo-rangjung-dorje-tika", "lang_tag": "en", "blocks_total": 317, "blocks_done": 323, "new": 317, "calls": 40, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": null}
+JOB DONE 2026-10-05 16:45:13

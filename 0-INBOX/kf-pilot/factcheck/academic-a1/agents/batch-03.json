@@ -1,0 +1,144 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "2-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Those who are free from perception, having attained this,",
+     "evidence": "Tibetan: གང་དག་འདུ་ཤེས་བྲལ་བ་འདི་ནི་རྗེས་ཐོབ་པ། — those who attain this freedom from perception (Sanskrit ye atra saṃjñavigamaṃ anuprāpnuvanti). Mipham 2-11: འདུ་ཤེས་ཐམས་ཅད་དང་བྲལ་བ ... འདི་ལྟ་བུ་ནི་གང་གིས་རྗེས་སུ་ཐོབ་པ་དེ་དག — freedom from perception is what is attained. The English makes \"free from perception\" a description of the people and leaves \"this\" without a clear referent.",
+     "fix": "Those who attain this freedom from perception,"
+    }
+   ]
+  },
+  {
+   "id": "2-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "masters it",
+     "evidence": "Tibetan: ཆུབ་བྱེད་པ. Mipham 2-14: དོན་ཡིད་ལ་ཆུད་པར་བྱེད་པ (grasps the meaning in mind); Khenrab 2-14: སྒོམ... ཤེས་རབ་ཀྱིས་དོན་ཀུན་ཆུབ་པར་བྱེད་པ (comprehends the meaning through the wisdom of hearing, reflection and meditation). The commentaries gloss it as understanding the meaning, not \"mastering\".",
+     "fix": "fully understands its meaning"
+    }
+   ]
+  },
+  {
+   "id": "2-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "If someone, of a Sugata who has passed into parinirvāṇa, / Were to build stūpas of the seven precious things",
+     "evidence": "Tibetan: བདེ་གཤེགས་ཡོངས་སུ་མྱ་ངན་འདས་པ་ཡི། མཆོད་རྟེན་རིན་ཆེན་བདུན་ལས་བྱས། — \"of the Sugata\" qualifies the stūpas (Mipham 2-15: རིང་སྲེལ་གྱི་སྙིང་པོ་ཅན་གྱི་མཆོད་རྟེན, a stūpa of the parinirvāṇa Sugata). In English the genitive phrase is stranded between \"someone\" and the verb, hard to parse.",
+     "fix": "If someone were to build stūpas of the seven precious things for a Sugata who has passed into parinirvāṇa and make offerings,"
+    }
+   ]
+  },
+  {
+   "id": "2-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Fully conceiving of this, if",
+     "evidence": "Tibetan: ཡོངས་སུ་བརྟག་བཟུང་ ... ན. Mipham 2-15/16: ཡོངས་སུ་བརྟག་པ་བཟུང་བའི་དཔེར་བྱ་ན (taking it as an illustrative supposition); Khenrab 2-15: བརྟག་པ་མཐའ་བཟུང་གི་ཚུལ་གྱིས་དཔེར་བྱས་ན; Rangjung: ཡོངས་སུ་བརྟག་པའི་ཐབས་བཟུང་ན (if one adopts a way of assessing). The phrase introduces a hypothetical illustration, not an act of mentally \"conceiving of this\"; \"of this\" has no basis in the Tibetan.",
+     "fix": "By way of supposition, if"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "in the three times",
+     "evidence": "Tibetan: དུས་གསུམ་བསྐལ་པའམ་དེ་བས་ལྷག་མཆོད་ལ། Mipham 2-15: ཉིན་མཚན་རེ་རེ་ཞིང་དུས་གསུམ་དུ་མ་ཆག་པར ... བསྐལ་པའམ་དེ་བས་ཀྱང་ལྷག་པར་མཆོད་ན; Rangjung 2-15: དུས་སྔ་དྲོ་གུང་ཕྱི་དྲོ་གསུམ་དུ (morning, noon, afternoon). The \"three times\" are the three periods of each day, not past, present and future, which is how the bare English \"the three times\" reads.",
+     "fix": "at the three times of each day, for an eon or more"
+    }
+   ]
+  },
+  {
+   "id": "2-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-28",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

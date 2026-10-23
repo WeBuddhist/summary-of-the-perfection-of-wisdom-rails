@@ -49,7 +49,7 @@ import urllib.error
 import urllib.request
 
 HERE = pathlib.Path(__file__).resolve().parent
-DM_PATH = HERE.parent.parent / "dharmamitra-translate" / "scripts" / "dm_translate.py"
+DM_PATH = HERE / "dm_translate.py"
 _spec = importlib.util.spec_from_file_location("dm_translate", DM_PATH)
 dm = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(dm)
@@ -200,7 +200,7 @@ A **machine baseline**, not a rails-governed translation track.
 
 Every file here is raw output of Google Gemini (model `{model}`, recorded per
 block in the ledger as `model_version`), produced by
-`4-SYSTEM/Skills/gemini-translate/scripts/gm_translate.py`, which sends a small
+`4-SYSTEM/Skills/machine-translate/scripts/gm_translate.py`, which sends a small
 batch of adjacent block IDs per call and asks for a JSON object holding one
 array of lines per block. Nothing in it passed through `2-RAILS/`: no
 verse-context package, no consolidated bilingual glossary, no per-track
@@ -245,9 +245,9 @@ accepted silently. Anything still divergent is recorded with
 Regenerate or extend with:
 
 ```bash
-python3 4-SYSTEM/Skills/gemini-translate/scripts/gm_translate.py \\
+python3 4-SYSTEM/Skills/machine-translate/scripts/gm_translate.py \\
   --source "1-SOURCES/Text/<text>.md" --lang {lang}
-python3 4-SYSTEM/Skills/gemini-translate/scripts/gm_translate.py \\
+python3 4-SYSTEM/Skills/machine-translate/scripts/gm_translate.py \\
   --source "1-SOURCES/Text/<text>.md" --lang {lang} --headings     # section headings
 ```
 
@@ -284,7 +284,7 @@ def make_batches(todo, args):
         c, l = len(b["text"]), len(b["lines"])
         if cur and (
             len(cur) >= args.batch
-            or b["heading"] != cur[-1]["heading"]
+            or (b["heading"] != cur[-1]["heading"] and not getattr(args, "cross_headings", False))
             or chars + c > args.batch_max_chars
             or nlines + l > args.batch_max_lines
         ):
@@ -488,6 +488,9 @@ def main():
     p.add_argument("--batch", type=int, default=8, help="max blocks per call")
     p.add_argument("--batch-max-chars", type=int, default=3000, help="max source chars per call")
     p.add_argument("--batch-max-lines", type=int, default=80, help="max source lines per call")
+    p.add_argument("--cross-headings", action="store_true",
+                   help="let a batch span section headings (for commentaries whose sa bcad puts "
+                        "a heading above almost every block; ids keep the blocks apart)")
     p.add_argument("--parity-attempts", type=int, default=3,
                    help="solo re-runs allowed for a block whose line count is wrong")
     p.add_argument("--only", default=None, help="comma-separated block IDs")

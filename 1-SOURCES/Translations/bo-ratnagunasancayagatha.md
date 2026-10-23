@@ -24,9 +24,9 @@ bdrc_work_id: WA0RK0013
 other_ids:
 - 'Dzongsar: phakpadoepa display doc'
 source_description: 'Dzongsar Google Doc (the display segmentation), exported as phakpadoepa-root-bo(display).md. Titles, author and source from phakpadoepa-root-bo.csv (whose English author cell reads ''Peltsek Rakṣita'', the translator''s name, so it is not used as author_in_english); translator from the text''s own colophon (row 373). A translation of the Sanskrit root, aligned by the Dzongsar team''s row pairing (read in full: no pairing errors).'
-text_id: null
-edition_id: null
-toc_id: null
+text_id: U5FlKUlLLtS1zo4n0EGZL
+edition_id: fYnGwQC4fH8Fa37vLUiXD
+toc_id: kNcLwkdKvMvS6qBNwQCIj
 raw_sources:
 - file: 0-INBOX/raw-data/phakpadoepa-root-bo(display).md
   sha1: 06c7f7d423002b51a0543998d08b239d25cb520a
@@ -51,6 +51,7 @@ related_commentaries:
 - 1-SOURCES/Commentaries/bo-khenrab-jamyang-norbu-dronme.md
 - 1-SOURCES/Commentaries/bo-cone-drakpa-shedrup-gyalwe-gongsal.md
 - 1-SOURCES/Commentaries/bo-senge-zangpo-kadrel.md
+aligned_to_edition_id: PjNu42nbrR7yrGKKlL2aM
 ---
 
 # ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྡུད་པ་ཚིགས་སུ་བཅད་པ། ^0

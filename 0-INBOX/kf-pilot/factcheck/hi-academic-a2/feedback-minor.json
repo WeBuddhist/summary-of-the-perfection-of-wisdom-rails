@@ -1,0 +1,74 @@
+{
+ "2-23": {
+  "translation": "यदि पूछें किसलिए? ऐसा नहीं कि मैं शारीरिक अवशेषों के प्रति आदरहीन हूँ,\nकिन्तु प्रज्ञा से पूर्णतः भावित होने के कारण वे पूजे जाते हैं।\nजैसे राजा के आश्रित मनुष्य को सत्कार प्राप्त होता है,\nवैसे ही बुद्ध-अवशेष रूपी शरीर-धातु प्रज्ञापारमिता के आश्रित हैं।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "बुद्ध-अवशेष रूपी शरीर-धातु",
+    "evidence": "Tibetan 'སངས་རྒྱས་རིང་བསྲེལ' is a single phrase whose locked rendering is 'बुद्ध-अवशेष'. The translation merges it with the locked rendering of the sub-term 'རིང་བསྲེལ' (शरीर-धातु) through an invented 'रूपी' apposition, which the Tibetan does not have and which reads as a different, doubled referent.",
+    "fix": "बुद्ध-अवशेष"
+   }
+  ]
+ },
+ "5-2": {
+  "translation": "स्वप्न में सत्त्वों को तीन दुर्गति में स्थित देखकर,\nउसी क्षण दुर्गति का प्रवाह काटने का प्रणिधान करते हैं,\nसत्याधिष्ठान से अग्नि की राशि शान्त करते हैं,\nइसे अविनिवर्तनीय की अविवर्तनीयता की भविष्यवाणी जानना चाहिए।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "इसे अविनिवर्तनीय की अविवर्तनीयता की भविष्यवाणी जानना चाहिए।",
+    "evidence": "The Tibetan refrain is 'དེ་ནི་མི་ལྡོག་ལུང་བསྟན་ཡིན་པར་རིག་པར་བྱ' ('this should be known as the prophecy of irreversibility'; Sanskrit 'avivartiyeti ayu vyākṛtu veditavyo'). The Hindi doubles the term ('prophecy of irreversibility of the irreversible'), which is garbled and departs from the locked rendering 'अविवर्तनीयता की भविष्यवाणी' used in 5-1.",
+    "fix": "इसे अविवर्तनीयता की भविष्यवाणी जानना चाहिए।"
+   }
+  ]
+ },
+ "5-3": {
+  "translation": "मनुष्य लोक में बहुत से भूतग्रह और व्याधियाँ,\nहित और करुणा से युक्त सत्य के अधिष्ठान से शान्त हो जाती हैं,\nफिर भी वे अभिमान से रहित होते हैं और मान उत्पन्न नहीं करते,\nउन्हें अविनिवर्तनीय मानकर अविवर्तनीयता की भविष्यवाणी जानना चाहिए।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "उन्हें अविनिवर्तनीय मानकर अविवर्तनीयता की भविष्यवाणी जानना चाहिए",
+    "evidence": "The Tibetan refrain 'དེ་ནི་མི་ལྡོག་ལུང་བསྟན་ཡིན་པར་རིག་པར་བྱ' says only that 'this should be known as the prophecy of irreversibility' (Sanskrit 'ayu vyākṛtu veditavyaḥ'). The Hindi adds a separate step ('regarding them as irreversible') and re-uses the term awkwardly, making the clause hard to parse and altering the syntax of the refrain.",
+    "fix": "इसे अविवर्तनीयता की भविष्यवाणी जानना चाहिए।"
+   }
+  ]
+ },
+ "5-34": {
+  "translation": "बुद्ध क्षान्तिपारमिता से बोधि का स्पर्श करते हैं,\n\"यह चित्त उत्तम नहीं है\" ऐसा विचार कर स्मृति उत्पन्न करते हुए,\nवे अपना दोष स्वीकार करते हैं और भविष्य के लिए भी संयम करते हैं,\nतथा उसमें आनन्दित नहीं होते, वे इन बुद्ध-गुणों में शिक्षा लेते हैं।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "वे अपना दोष स्वीकार करते हैं और भविष्य के लिए भी संयम करते हैं, तथा उसमें आनन्दित नहीं होते, वे इन बुद्ध-गुणों में शिक्षा लेते हैं।",
+    "evidence": "Line 1 has the Buddhas as subject (སངས་རྒྱས་བཟོད་པའི་ཕ་རོལ་ཕྱིན་པས་བྱང་ཆུབ་རེག), but the actions in lines 2-4 (སེམས་འདི་བཟང་བ་མིན་སྙམ་དྲན་པ་སྐྱེད། སོ་སོར་འཆགས། སྡོམ་བྱེད། དགའ་བར་མི་བྱེད། དེ་ནི་སངས་རྒྱས་ཆོས་འདིར་སློབ) belong to the practitioner (bodhisattva) who recognises his angry mind as bad. bo-mipham 5-34 and bo-khenrab 5-34 gloss: the Buddhas touch awakening through patience, whereas 'this angry mind of mine is not good' (བདག་གི་ཁྲོ་བའི་སེམས་འདི་ནི་བཟང་བ་མིན་). The Hindi bare 'वे' continues from 'बुद्ध' and so reads as the Buddhas confessing and training in Buddha-qualities.",
+    "fix": "जो साधक \"यह चित्त उत्तम नहीं है\" ऐसा विचार कर स्मृति उत्पन्न करता है, अपना दोष स्वीकार करता है, भविष्य के लिए संयम करता है और उसमें आनन्दित नहीं होता, वह इन बुद्ध-गुणों में शिक्षा ले रहा है।"
+   }
+  ]
+ },
+ "5-52": {
+  "translation": "तथागतों की माता इस प्रज्ञापारमिता की,\nदेशना के समय जो बोधिसत्त्व अधिमुक्ति करता है,\nऔर सुदृढ़ आशय से इसे सिद्ध करने के लिए उद्यम करता है,\nउस भद्र को सर्वज्ञता में प्रविष्ट जानना चाहिए।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "उस भद्र को सर्वज्ञता में प्रविष्ट जानना चाहिए",
+    "evidence": "The Tibetan 'དེས་པ ... ཞུགས་རིག་བྱ' (read as ངེས་པ, 'definitely') is glossed by bo-rangjung 5-52 as 'ངེས་པར་ཞུགས་པར་རིག་པར་བྱ' and by bo-khenrab 5-52 as 'ངེས་པ་ཡི་བྱང་ཆུབ་སེམས་དཔའ་'. The word expresses certainty ('should be known to have definitely entered omniscience'); it is not an honorific. The Hindi adds an epithet 'भद्र' and loses the certainty. Sanskrit has only vedītavyo abhiprasthitu.",
+    "fix": "उस बोधिसत्त्व को निश्चय ही सर्वज्ञता में प्रविष्ट जानना चाहिए"
+   }
+  ]
+ },
+ "5-78": {
+  "translation": "अपने सुख को त्याग कर आशारहित चित्त से,\nअन्य सत्त्वों के प्रयोजन हेतु दिन-रात तत्परता से लगे रहें;\nजैसे माता अपने इकलौते पुत्र की परिचर्या करती है,\nसच्चे हृदय से बिना किसी खेद के स्थित रहें।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "आशारहित चित्त से",
+    "evidence": "Tibetan རེ་བ་མེད་སེམས is glossed by bo-mipham 5-78 as 'ལན་དང་རྣམ་སྨིན་ལ་རེ་བ་མེད་པའི་སེམས' (no expectation of reward or ripened result); Sanskrit niṣpratikāṅkṣacitto. Hindi 'आशारहित' also means hopeless or despondent, a reading the Tibetan excludes (the next lines are about joyful, tireless effort).",
+    "fix": "प्रतिफल की अपेक्षा से रहित चित्त से"
+   }
+  ]
+ }
+}

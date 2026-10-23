@@ -1,0 +1,2279 @@
+[
+ {
+  "id": "0-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "0-4",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "請你們帶著開心、恭敬和最大的信任。我們要消除阻礙和心裡的煩惱",
+    "evidence": "The verses describe the state of those who have generated joy, respect and supreme faith and eliminated obscurations and afflictions; the children's text turns this into a request to the listeners and a 'we must' resolve, shifting speaker and mood.",
+    "fix": "你們已經生起了開心、恭敬和最大的信任，也消除了阻礙和心裡的煩惱，超越了一切污垢。"
+   }
+  ]
+ },
+ {
+  "id": "1-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-2",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "得勝者的聽法的弟子們",
+    "evidence": "Awkward stacked possessives ('得勝者的聽法的弟子們'); source says the Victor's hearers (śrāvakas) teach whatever Dharma.",
+    "fix": "得勝者的弟子們，也就是聽法的弟子，無論講了多少佛法，"
+   }
+  ]
+ },
+ {
+  "id": "1-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-5",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "固定不變的形體和感受",
+    "evidence": "Academic translation: form, feeling, perception and volition cannot be found; no qualifier 'fixed/unchanging' is in the text.",
+    "fix": "我們找不到形體和感受，也找不到想法和意願。"
+   }
+  ]
+ },
+ {
+  "id": "1-6",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "他就不會急著進入超越憂傷的安寧",
+    "evidence": "Academic: the bodhisattva does not touch/realize nirvana (and abides in wisdom); 'not hurrying to enter' turns a negation of touching nirvana into a timing matter and implies he will enter later.",
+    "fix": "他不會去碰觸超越憂傷的安寧，而是安穩地停留在智慧之中。"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "徹底放下了",
+    "evidence": "Academic: the unapprehendable aggregates are thoroughly destroyed/dissolved (rnam par 'jig pa), not merely 'let go of'.",
+    "fix": "徹底看穿並消除了那些抓不住的身心的組成部分"
+   }
+  ]
+ },
+ {
+  "id": "1-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-11",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "什麼都不去抓取，才是真正的練習",
+    "evidence": "Academic: he knows that 'non-practice is practice' (無所行持即是行持); the children's text replaces this with 'not grasping at anything is the real practice', losing the stated point.",
+    "fix": "因為他深深明白，沒有任何可練習的東西，這樣才是真正的練習。"
+   }
+  ]
+ },
+ {
+  "id": "1-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-19",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "我們的形體、想法、感受、意願和覺知，其實沒有被綁住。它們沒有被解開，也不是真的存在。",
+    "evidence": "Academic: form, perception, feeling, volition and consciousness are neither bound nor liberated, and do not (truly) exist; 'our' is added and 'not truly existing' on its own risks sounding as if one's body and mind are nothing.",
+    "fix": "形體、想法、感受、意願和覺知，既沒有被綁住，也沒有被解開，本來就沒有可以抓住的真實樣子。"
+   }
+  ]
+ },
+ {
+  "id": "1-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-21",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "不管去哪個方向，心裡都沒有執著",
+    "evidence": "Academic: no direction of going can be apprehended/found (去向無所緣取); the children's text says the mind has no attachment, shifting from 'no destination found' to 'no clinging'.",
+    "fix": "搭上這個乘，不管往哪個方向去，都找不到真正要去的地方。"
+   }
+  ]
+ },
+ {
+  "id": "1-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-25",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "明白自己是什麼樣子，就會明白所有的眾生也是這個樣子",
+    "evidence": "The verse says that knowing how oneself is, all beings are likewise, and knowing how beings are, all things are likewise (sameness). The children's text turns this into a cause-and-effect 'if you understand X, you will understand Y'.",
+    "fix": "知道自己是什麼樣子，所有的眾生也是這個樣子；知道眾生是什麼樣子，所有的事物也是這個樣子。"
+   }
+  ]
+ },
+ {
+  "id": "1-26",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "只要對這一切不再執著出現和消失",
+    "evidence": "Academic translation: having cut off (abandoned) arising and ceasing with respect to all of them; 'no longer cling' softens 'abandon' and adds a conditional 'as long as'.",
+    "fix": "對這一切都不再有出現和消失的想法，就能得到最特別、永遠不死的深刻的領悟。"
+   }
+  ]
+ },
+ {
+  "id": "1-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-8",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "去尋找這樣的出路",
+    "evidence": "Academic translation: 'whatever is this definite emergence (出離) is the training of those who delight in good qualities' — a statement, not an instruction to go and look for a way out.",
+    "fix": "這樣的學習就是出路。喜愛美好的品質的人，就會這樣學習。"
+   }
+  ]
+ },
+ {
+  "id": "2-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-13",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "當我為大家講解這無比珍貴的圓滿時",
+    "evidence": "Source says 'when I spoke in accord with (相順宣說) this supreme perfection'; there is no audience ('for everyone') and no 'explaining'.",
+    "fix": "當我照著這最崇高的圓滿來說法時"
+   }
+  ]
+ },
+ {
+  "id": "2-14",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "守護者們都在學習這圓滿的智慧",
+    "evidence": "Academic translation: the perfection of wisdom in which the protectors practise/conduct themselves (行持), not merely 'study'.",
+    "fix": "守護者們都在實踐這圓滿的智慧。"
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "不管從哪一邊攻擊",
+    "evidence": "The source only says the Mara and Mara's side cannot find an opening; 'from whichever side they attack' is not in it.",
+    "fix": "就連魔王和魔王一方的同夥，也找不到他的弱點。"
+   }
+  ]
+ },
+ {
+  "id": "2-15",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "為了紀念",
+    "evidence": "Academic translation: making offerings (作供養) to the Sugata who has passed into nirvana, not commemorating.",
+    "fix": "為了供養已經得到最終超越憂傷的安寧、走向安樂的人"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "千百萬個國土",
+    "evidence": "Source: a thousand koti (千俱胝) of lands, a much larger number than 'thousands of millions'.",
+    "fix": "裝滿了數不清的國土（千俱胝個國土）"
+   }
+  ]
+ },
+ {
+  "id": "2-16",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Source lists three offerings: celestial flowers, excellent incense and ointment/scented paste (塗香). The children's text mentions only flowers and 'the most fragrant incense'; the ointment is dropped.",
+    "fix": "他們只用天上的花朵、最香的香和香膏獻上供養。"
+   }
+  ]
+ },
+ {
+  "id": "2-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-18",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "受到像國王一樣的尊敬",
+    "evidence": "The source only says they became the supreme 'king of physicians'; the idea of being respected like a king is not in the verse or the academic translation.",
+    "fix": "才成為最了不起的醫生中的王。"
+   }
+  ]
+ },
+ {
+  "id": "2-19",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "那些為別人帶來好處和慈悲的人",
+    "evidence": "Academic translation: those who practise (行持) with benefit and compassion — the practitioners act with these, they do not 'bring compassion to others'.",
+    "fix": "那些帶著好處他人的心和慈悲去行動的人"
+   }
+  ]
+ },
+ {
+  "id": "2-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-26",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "為了不讓「善良的特質」白白浪費，我們要好好把它們記在心裡。",
+    "evidence": "In the verse, wisdom is what holds/upholds the virtues so they are not wasted; the children's text makes 'we' the agent who memorises them.",
+    "fix": "為了不讓「善良的特質」白白浪費，「智慧」會把它們好好守護住。"
+   }
+  ]
+ },
+ {
+  "id": "2-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-29",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "有人以為，只要教大家東西都會壞掉就好，其實不是這樣。",
+    "evidence": "The segment does not mention anyone holding this belief; it says a bodhisattva who teaches the five aggregates as impermanent without proper understanding is practising something fabricated.",
+    "fix": "如果「菩薩」還沒有真正明白，就把「形體」……都當作「不斷變化」來教給別人，這就是在學習虛假的東西。"
+   }
+  ]
+ },
+ {
+  "id": "2-30",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "如果我們不去抓住「形體」或「感受」。",
+    "evidence": "The verse says form and feeling are not (found), and no apprehension of perception, consciousness, intention; it is not about 'not grasping' form and feeling while 'not finding' the others.",
+    "fix": "如果我們「找不到」「形體」和「感受」，也「找不到」「想法」、「覺知」和「意願」。"
+   }
+  ]
+ },
+ {
+  "id": "2-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-34",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "為了追求真理",
+    "evidence": "The wise one generates the wish for awakening in the world 'in order to know' (so as to gain realisation); 'truth' is not in the text.",
+    "fix": "為了能真正明白"
+   }
+  ]
+ },
+ {
+  "id": "2-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-42",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "帶著錯誤看法的內心",
+    "evidence": "The academic translation says the mind clings to 'view' and these three; it does not call the view wrong.",
+    "fix": "抱著某種「看法」的內心"
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "有人以為這就是奉獻，其實不是這樣。",
+    "evidence": "Not in the verse; the next line already states that this is not dedication.",
+    "fix": "—"
+   }
+  ]
+ },
+ {
+  "id": "2-43",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "接受奉獻的對象也不是永遠不變的。",
+    "evidence": "The verse says the place/object of dedication is also exhausted (ceased), and the whole is conditional 'if one knows', not an instruction.",
+    "fix": "如果明白這件事物會停止、會消失，連接受奉獻的地方也會消失。"
+   }
+  ]
+ },
+ {
+  "id": "2-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-46",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "能勝過世界上所有的菩薩。也就是那些抓著某個東西不放的人。",
+    "evidence": "Only the bodhisattvas of the world who have an object of clinging are surpassed, not all bodhisattvas.",
+    "fix": "能勝過世界上那些抓著某個東西不放的「菩薩」。"
+   }
+  ]
+ },
+ {
+  "id": "2-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-50",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "doctrinal",
+    "severity": "major",
+    "span": "如果一個菩薩心裡有眾生的想法。即使他想要追求覺悟。這也不是在學習最棒的圓滿的智慧。",
+    "evidence": "The text rejects the bodhisattva who conceptualises (fixates on) beings as real while thinking 'I will liberate them'; it does not say that merely thinking of beings or wanting to rescue them is wrong. The children's text can be read as saying that thinking of beings, or wanting to help them, is itself a mistake.",
+    "fix": "如果一個「菩薩」一邊想著要解救「眾生」，一邊把「眾生」當成真實的東西抓著不放，即使他想要追求「覺悟」，這也不是在學習最棒的「圓滿的智慧」。"
+   }
+  ]
+ },
+ {
+  "id": "2-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-1",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "得勝者說：",
+    "evidence": "The academic translation gives no explicit speaker for the answer; it presents the verse as Indra's question followed by the teaching on not striving for the aggregates.",
+    "fix": "「對身心的組成部分和元素，連一點點微塵大的力氣都不花。不把力氣花在身心的組成部分上，這才是菩薩真正的努力。」（去掉「得勝者說」）"
+   }
+  ]
+ },
+ {
+  "id": "4-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-10",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "不去分辨",
+    "evidence": "The text says the practitioner does not conceptualize (rnam par mi rtog / 不分別) the Buddha's qualities, powers etc.; 'distinguish/tell apart' is a different, imprecise sense.",
+    "fix": "如果有人在修行時，不去執著想著佛陀的特質，不去執著想著力量、神奇力量的基礎，以及平靜的覺悟；"
+   }
+  ]
+ },
+ {
+  "id": "4-11",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "我先簡單告訴你們其中的一小部分吧",
+    "evidence": "Subhuti asks and the Teacher replies about the obstacles; the text does not address a plural audience.",
+    "fix": "我先簡單告訴你其中的一小部分吧。"
+   }
+  ]
+ },
+ {
+  "id": "4-12",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "可能會突然覺得自己很有口才",
+    "evidence": "The text says many different kinds of eloquence will arise; the children's text drops 'different kinds' and recasts it as merely feeling eloquent.",
+    "fix": "抄寫得勝者的圓滿的智慧時，可能會冒出各種不同的口才。"
+   }
+  ]
+ },
+ {
+  "id": "4-13",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "The academic translation lists three items the doubter says were not mentioned: caste/family (種姓), birthplace (生處) and clan (氏族); the children's text gives only two.",
+    "fix": "他們想：「導師沒有提到我的名字，也沒有說我的家族、出生的地方和氏族。」"
+   }
+  ]
+ },
+ {
+  "id": "4-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-16",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "帶著錯誤的看法去親近別人家",
+    "evidence": "The academic translation says they associate with laypeople's homes with a mind that desires to see outer things (欲求見外境之心); it does not say 'wrong views'. 'Wrong' is added and changes the fault described.",
+    "fix": "帶著想要看看外面事物的心，常常去親近別人家。"
+   }
+  ]
+ },
+ {
+  "id": "4-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-20",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "剛踏上這乘的眾生",
+    "evidence": "'乘' (the vehicle, i.e. the Great Vehicle) is left unexplained and is hard for ages 8-12.",
+    "fix": "剛踏上大乘這條路的眾生智慧還很小。"
+   }
+  ]
+ },
+ {
+  "id": "4-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-22",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "生下了世界的老師、大師與得勝者",
+    "evidence": "The Tibetan/academic text names one group in apposition: the teachers of the world, the victors. The children's text reads as three separate kinds of beings.",
+    "fix": "她就像母親一樣，生下了得勝者，也就是世界的老師、大師。"
+   }
+  ]
+ },
+ {
+  "id": "4-23",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "（也就是得勝者的孩子眼中事物的真正樣貌）",
+    "evidence": "The parenthetical repeats the same phrase, and the long list of four 'true nature' phrases is hard for ages 8-12. Meaning is intact.",
+    "fix": "把四種人眼中的樣貌分成短句列出，並刪去括號裡重複的解釋。"
+   }
+  ]
+ },
+ {
+  "id": "4-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-31",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "菩薩了解事物的本性也是這樣。他哪裡都不去",
+    "evidence": "The subject that goes nowhere yet gathers all qualities of the buddha grounds is the bodhisattva's dharmata (nature of things). The children's text makes the bodhisattva the one who 'understands' it and adds that idea.",
+    "fix": "菩薩的本性（事物的本性）也是這樣，哪裡都不去，卻能收集佛的階段所有的美好的品質。"
+   }
+  ]
+ },
+ {
+  "id": "4-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-35",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "這些巧妙的方法的美好的品質",
+    "evidence": "Stacked possessives are tangled for children; the academic text says the qualities of skillful means are fully embraced by wisdom.",
+    "fix": "如果這些靠巧妙的方法得來的美好品質，都被智慧完全包住、守護著。"
+   }
+  ]
+ },
+ {
+  "id": "4-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-37",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "超越前面的兩個階段",
+    "evidence": "The two grounds are the hearers' and solitary realizers' grounds; 'front two stages' leaves them unidentified and adds 'front'.",
+    "fix": "就能完全超越聽法的弟子和獨自覺悟的人這兩個階段。"
+   }
+  ]
+ },
+ {
+  "id": "4-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-39",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "如果沒有智慧，就會失去覺悟",
+    "evidence": "The text says that without wisdom one quickly falls away from awakening; the speed is dropped.",
+    "fix": "如果沒有智慧，很快就會失去覺悟。"
+   }
+  ]
+ },
+ {
+  "id": "4-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-44",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "也不要執著於最高的",
+    "evidence": "'Do not cling to awakening as a heap/aggregate and make it supreme' is one prohibition; the children's text splits it and leaves 'the highest' dangling and unclear.",
+    "fix": "不要把覺悟當成一堆東西來貪戀，也不要把它當成最高的而緊抓不放。"
+   }
+  ]
+ },
+ {
+  "id": "4-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-46",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "他們沒有關於三乘的想法",
+    "evidence": "'Three vehicles' is left unexplained for ages 8-12; the text says they have no fixed notion of the three paths.",
+    "fix": "他們不會緊抓著聽法的弟子、獨自覺悟的人和菩薩這三條道路的想法。"
+   }
+  ]
+ },
+ {
+  "id": "4-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-51",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "所有事物的事物真正的樣貌，還是得勝者的事物真正的樣貌；這個事物的事物真正的樣貌",
+    "evidence": "Academic: the suchness of all dharmas, of the Victors, and of this dharma; the repeated locked term makes \"事物的事物真正的樣貌\" tangled for ages 8-12.",
+    "fix": "所有事物真正的樣貌，還是得勝者真正的樣貌；這個教法真正的樣貌，這一切全都沒有差別。"
+   }
+  ]
+ },
+ {
+  "id": "4-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-54",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "他們在世間也一直抱著廣大的願望",
+    "evidence": "Academic: the practitioner who perfects the five perfections over many eons and always relies on boundless vast aspirations falls to the Hearer level without skillful means and wisdom; \"他們\" is unclear and could be read as the Victors, who do not fall.",
+    "fix": "修行的人雖然經過許多漫長的時代才修成這五種圓滿，也一直抱著廣大的願望。可是，如果沒有巧妙的方法，又缺少智慧，他們就會掉下來，變成聽法的弟子。"
+   }
+  ]
+ },
+ {
+  "id": "4-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-59",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "他們的行為、說話和想法這三者都很清淨",
+    "evidence": "Academic says only \"the three are secluded and pure\" (三者遠離且清淨); it does not name body, speech and mind.",
+    "fix": "他們把自己打理得很乾淨，穿著乾淨的衣服；那三者也都遠離過失、很清淨。"
+   }
+  ]
+ },
+ {
+  "id": "4-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-63",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "找不到這些身心的組成部分的盡頭",
+    "evidence": "Academic: one cannot find the bottom (底) of the aggregates, like probing the sea floor with an arrow; \"盡頭\" (end) loses the depth image.",
+    "fix": "根本找不到這些身心的組成部分的底部。"
+   }
+  ]
+ },
+ {
+  "id": "4-64",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "doctrinal",
+    "severity": "minor",
+    "span": "在最深的真理中學習不執著的乘。他明白這裡沒有身心的組成部分，沒有元素，也沒有感官之門",
+    "evidence": "Academic: in the vehicle of non-attachment in the ultimate sense, aggregates, elements and sense-bases do not exist; the \"ultimately\" scope is not clearly tied to the absence, so it may read as the aggregates simply not existing.",
+    "fix": "在最深的真理裡，他明白身心的組成部分、元素和感官之門都不是真的存在。"
+   }
+  ]
+ },
+ {
+  "id": "4-65",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "追求想要的事物的男人",
+    "evidence": "Academic: a man who engages in the dharma of desire/lust (貪欲法) who arranged to meet a woman; \"想要的事物\" loses the desire/lust meaning.",
+    "fix": "一個被慾望牽動的男人"
+   }
+  ]
+ },
+ {
+  "id": "4-66",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "可是，如果有人為大家講解包含圓滿的智慧的佛法。這講解的好處",
+    "evidence": "The \"如果\" clause is left as a sentence fragment, so the comparison is tangled for children.",
+    "fix": "可是，如果有人為大家講解包含圓滿的智慧的佛法，這講解的好處，遠遠超過前面的慷慨與良好品行。"
+   }
+  ]
+ },
+ {
+  "id": "4-67",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "接著他為大家講解清淨的佛法",
+    "evidence": "Academic: the bodhisattva rises from that meditation (從彼出定) and then teaches the stainless dharma; \"rising from meditation\" is dropped.",
+    "fix": "菩薩好好練習了智慧，從禪修中起來後，為大家講解清淨的佛法。"
+   }
+  ]
+ },
+ {
+  "id": "4-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-73",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "即使這個念頭過去了，覺悟也不會因此消失",
+    "evidence": "Academic: even though the first mind has ceased, it is not that there is no bodhi (bodhi still arises from it); \"消失\" implies bodhi already existed and is lost.",
+    "fix": "即使這個念頭過去了，覺悟還是會從它長出來，不是沒有覺悟。"
+   }
+  ]
+ },
+ {
+  "id": "4-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-80",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "妻兒",
+    "evidence": "The text mentions parents and wife only; no children.",
+    "fix": "他帶著父母和妻子一起出門。"
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "來保護大家",
+    "evidence": "The text says he emanates many brave men; it does not state the purpose (protection).",
+    "fix": "這時，他變出許多勇敢的人。"
+   }
+  ]
+ },
+ {
+  "id": "4-81",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "卻不急著去接觸覺悟",
+    "evidence": "The text says the bodhisattva does not touch (realize) enlightenment; 'not in a hurry' turns a negation into a delay, implying he will soon do so.",
+    "fix": "卻不去接觸覺悟。"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "完全打敗了四個魔王",
+    "evidence": "The text says the bodhisattva has completely transcended the four maras, not defeated them.",
+    "fix": "他們完全超越了四個魔王。"
+   }
+  ]
+ },
+ {
+  "id": "4-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-83",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "也不會只停留在空性之中",
+    "evidence": "The text says the bodhisattva does not abide in emptiness at all; 'only' weakens this.",
+    "fix": "也不會停留在空性之中。"
+   }
+  ]
+ },
+ {
+  "id": "4-84",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "認取",
+    "evidence": "'Not meditating on signs'; 認取 is a hard word for ages 8-12.",
+    "fix": "他在這段期間完全不去想著任何記號。"
+   }
+  ]
+ },
+ {
+  "id": "4-85",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "也不去追求任何記號",
+    "evidence": "The text says he does not practice/engage in signs, not that he does not seek them.",
+    "fix": "也不照著任何記號去行動。"
+   }
+  ]
+ },
+ {
+  "id": "4-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-89",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-90",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-91",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "卻不會獨自進入超越憂傷的安寧",
+    "evidence": "The text says the bodhisattva does not touch nirvana at all; 'alone' adds the idea that he might enter it together with others.",
+    "fix": "卻不去接觸超越憂傷的安寧。"
+   }
+  ]
+ },
+ {
+  "id": "4-92",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-93",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-94",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-95",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-96",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-97",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-98",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-4",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "以為自己能給出各種真實的祝福",
+    "evidence": "The text says arrogance arises because he has accomplished the various true blessings, not because he merely believes he can give them.",
+    "fix": "有人成就了各種真實的祝福，就產生了自大。"
+   }
+  ]
+ },
+ {
+  "id": "5-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-9",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "其實他一直處在混亂之中",
+    "evidence": "Academic text says he dwells in 'mixing' (混雜, i.e. mingling with company), not in 'confusion/chaos'.",
+    "fix": "其實他一直跟別人混在一起，沒有真正獨處。"
+   }
+  ]
+ },
+ {
+  "id": "5-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-13",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "他們會順著道理來教導我們",
+    "evidence": "Academic text says they are those who teach/guide in accordance (隨順開示者); 'following reason' is not stated.",
+    "fix": "他們會一步一步指導我們。"
+   }
+  ]
+ },
+ {
+  "id": "5-14",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "這個圓滿就是他們的明亮",
+    "evidence": "Academic text: the pāramitā is the light, lamp, radiance and supreme teacher of those who enter supreme awakening; 'their brightness' is awkward for children.",
+    "fix": "對走向最高的覺悟的人來說，這個圓滿是明亮，是燈，是光亮，也是最棒的老師。"
+   }
+  ]
+ },
+ {
+  "id": "5-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-16",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "不明智的人卻靠著自己，就像在天空中打結一樣",
+    "evidence": "Academic text: the foolish by themselves tie knots in empty space (a futile act); 'rely on themselves' is unclear and the image is unexplained.",
+    "fix": "不明智的人卻自己在天空中打結，這根本是白費力氣。"
+   }
+  ]
+ },
+ {
+  "id": "5-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-21",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Academic text says they 'always' (恆常) make meaningful use of the alms food of the land (國土之施食); 'always' and 'country/land' are dropped.",
+    "fix": "他們一直都能吃各地人們施捨的食物，這些食物吃得很有意義。"
+   }
+  ]
+ },
+ {
+  "id": "5-22",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "所以日夜不停，努力學習圓滿的智慧",
+    "evidence": "Academic text gives an instruction: the bodhisattva should (應當) strive day and night in the perfection of wisdom; the children's text states it as a plain fact.",
+    "fix": "所以菩薩應該日夜不停，努力學習圓滿的智慧。"
+   }
+  ]
+ },
+ {
+  "id": "5-23",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "以前沒看過最高的寶物",
+    "evidence": "Academic text: had not previously obtained (未得) the supreme jewel, not merely 'not seen' it.",
+    "fix": "以前從來沒有得到過最高的寶物"
+   }
+  ]
+ },
+ {
+  "id": "5-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-25",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "螢火蟲和小生物發出的微光",
+    "evidence": "Academic text: all fireflies and all living creatures are eclipsed; 'all' is lost and 'small creatures that give faint light' is an addition.",
+    "fix": "會蓋過所有螢火蟲和生靈，還有滿天星星和月亮的光芒。"
+   }
+  ]
+ },
+ {
+  "id": "5-26",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "深重錯誤的看法",
+    "evidence": "Academic text says 'dense views' (濃密之見); 'wrong' is not stated.",
+    "fix": "打破了濃濃的看法"
+   }
+  ]
+ },
+ {
+  "id": "5-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-28",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "大家一定更開心！",
+    "evidence": "Academic text: the bodhisattva already works to benefit many beings; how much more once established as Dharma king. The comparison concerns benefit, not happiness.",
+    "fix": "當菩薩成為佛法的國王時，能幫助的眾生就更多了，更不用說了！"
+   }
+  ]
+ },
+ {
+  "id": "5-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-42",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "有些眾生追求善良，並且想要幫助別人。對於他們累積的福氣，我們也要為別人高興。",
+    "evidence": "Tibetan/academic: ALL sentient beings who seek virtue and wish to benefit others themselves rejoice in the whole heap of merit of all; therefore, having obtained the Victors' qualities, they give the gift of Dharma in the world. The children's text says 'some' beings and makes 'we' (the reader) the one who rejoices in their merit, changing the subject of the rejoicing and the logic of 'therefore'.",
+    "fix": "所有追求善良、想要幫助別人的眾生，也都為大家累積的福氣高興。因此，他們得到得勝者的美好品質之後，為了消滅所有的痛苦，就會在這個世界送出佛法的禮物。"
+   }
+  ]
+ },
+ {
+  "id": "5-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-50",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "數量像恆河裡的沙子一樣多的眾生",
+    "evidence": "Academic: all beings in world-fields (剎土) equal in number to the Ganges sands; the 'fields' are dropped, so the count applies to beings rather than to the worlds they live in.",
+    "fix": "就算像恆河裡的沙子那麼多的世界裡，所有的眾生"
+   }
+  ]
+ },
+ {
+  "id": "5-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-55",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "比起聽法的弟子與獨自覺悟的人，他們在平靜的深度安定中所得到的極大安靜與快樂，這種安住是最特別、最至高無上的。",
+    "evidence": "Academic: this abiding is supreme and unsurpassed among all the peaceful samadhi abidings, very calm and blissful, of hearers and solitary realizers; the children's sentence is long and 'they' is ambiguous.",
+    "fix": "聽法的弟子與獨自覺悟的人，也有平靜的深度安定，很安靜、很快樂。但這種安住比他們所有的都更特別、更至高無上。"
+   }
+  ]
+ },
+ {
+  "id": "5-56",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "不會直接進入",
+    "evidence": "Tibetan/academic: the bodhisattva abides in emptiness and does not pass into nirvana; 'directly' is not in the text.",
+    "fix": "菩薩安住在空性之中，不會進入超越憂傷的安寧。"
+   }
+  ]
+ },
+ {
+  "id": "5-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-63",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "須菩提，",
+    "evidence": "The Tibetan and academic translation contain no address to Subhuti or anyone else; the vocative adds a speaker/addressee not in the segment.",
+    "fix": "所有深刻的領悟的入口，還有巧妙的方法與根源，全都來自最棒的圓滿的智慧。"
+   }
+  ]
+ },
+ {
+  "id": "5-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-73",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "想要追求值得敬重的人，或是獨自覺悟的人的乘",
+    "evidence": "Source: aspiring to the Arhat and Pratyekabuddha vehicle; the children's phrase can be misread as pursuing people.",
+    "fix": "想要走「值得敬重的人」或「獨自覺悟的人」所走的乘"
+   }
+  ]
+ },
+ {
+  "id": "5-74",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "只要他們遠離值得敬重的人，以及獨自覺悟的人的乘",
+    "evidence": "Source: being free of (turning away from) the Arhat and Pratyekabuddha vehicles; 'stay away from the worthy people' misreads it, and the sentences are fragments.",
+    "fix": "只要他們不去走值得敬重的人和獨自覺悟的人的乘，並且為想要覺悟的心願感到歡喜，"
+   }
+  ]
+ },
+ {
+  "id": "5-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-80",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "去計算經過了多少個漫長的時代",
+    "evidence": "Academic translation: the unskilled bodhisattva counts tens of millions of kalpas (number 'ten million' lost).",
+    "fix": "會去計算要經過千萬個漫長的時代"
+   }
+  ]
+ },
+ {
+  "id": "5-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-83",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-84",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-85",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "都沒有任何固定的想法",
+    "evidence": "Academic translation: no notion (perception) of body, mind and beings; 'fixed' is not in the text.",
+    "fix": "都不再有「這是身體、這是心、這是眾生」的想法"
+   }
+  ]
+ },
+ {
+  "id": "5-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-89",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-90",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-92",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-93",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-94",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-95",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "產生覺悟的美好的品質",
+    "evidence": "Academic: whatever dharma surely brings about the qualities of awakening; the children's phrase stacks two 的 and reads awkwardly, though the meaning is intact.",
+    "fix": "能讓覺悟的美好品質出現"
+   }
+  ]
+ },
+ {
+  "id": "5-96",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "即使菩薩享受了感官的享樂，也就是體驗了感官的五種快樂。",
+    "evidence": "Academic: even if the bodhisattva enjoys the five sense pleasures (one statement); the children's text states it twice in a tangled way, and the following clauses are fragments that lack a clear main clause.",
+    "fix": "即使菩薩享受感官的五種快樂，只要他把佛陀、佛法和神聖的僧團都當作庇護處，心裡想著「我一定要成佛」，專心追求無所不知的智慧，我們就應該知道，這個有智慧的人安住在圓滿的良好品行之中。"
+   }
+  ]
+ },
+ {
+  "id": "5-97",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "他這樣許下覺悟的心願",
+    "evidence": "Academic: 此發心 'this aspiration' refers to the wish for the arhat's or solitary realizer's result, which is worse than a root downfall. 'Making a wish for awakening' can be misread as the bodhisattva's own aspiration being worse than the gravest offense.",
+    "fix": "他心裡這樣的願望，其實比最嚴重的犯戒還要嚴重"
+   }
+  ]
+ },
+ {
+  "id": "5-98",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-99",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-100",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-101",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-102",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-103",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "這種笨蛋",
+    "evidence": "Tibetan/academic: 愚者 'fools' (those deluded by self-notion); 笨蛋 is a harsh, insulting word for a children's text.",
+    "fix": "這樣糊塗的人"
+   }
+  ]
+ },
+ {
+  "id": "5-104",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "就相信分享的好處",
+    "evidence": "Academic: 信解布施 'is devoted to / inclined toward giving'; the text does not say he believes in benefits of sharing.",
+    "fix": "就喜愛布施"
+   }
+  ]
+ },
+ {
+  "id": "5-105",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "他把這份善意奉獻給最高的覺悟",
+    "evidence": "Academic: 彼亦…迴向殊勝菩提 'he also dedicates it (the giving) to supreme awakening'; 'goodwill' replaces the gift/giving itself.",
+    "fix": "他把這份慷慨也奉獻給最高的覺悟"
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "菩薩這樣想著去幫助別人。",
+    "evidence": "Not in the text; the sentence only repeats that he thinks 'may I give this gift to all' and gives.",
+    "fix": "—"
+   }
+  ]
+ },
+ {
+  "id": "5-106",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "不會一直把這件事放在心上",
+    "evidence": "Academic: 不住於實事 'does not abide in / fixate on the thing (as real)'; 'keep it in mind' reads as simply not remembering the gift.",
+    "fix": "不會執著自己給出去的東西"
+   }
+  ]
+ },
+ {
+  "id": "5-107",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "展現慷慨，只為了努力成為聽法的弟子。",
+    "evidence": "Academic ends with a semicolon: the sentence is an 'if' clause that continues in the next verse; the children's text ends with a full stop, leaving an unfinished 'if' sentence.",
+    "fix": "…展現慷慨，一心想成為聽法的弟子，（接下一節）"
+   }
+  ]
+ },
+ {
+  "id": "5-108",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-109",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-110",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-2",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "他們散發美麗金光",
+    "evidence": "Academic: 身色金黃美麗 'the body color is golden and beautiful' (a color, not light radiating).",
+    "fix": "他們的身體是美麗的金黃色"
+   }
+  ]
+ },
+ {
+  "id": "6-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "放下不好的欲望",
+    "evidence": "Academic: 捨棄應受呵責之欲妙 'abandon the despised sense pleasures (objects of desire)', not desires in general.",
+    "fix": "放下不值得貪求的感官享樂"
+   }
+  ]
+ },
+ {
+  "id": "6-4",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "就像人類中最傑出的領袖轉動了珍寶輪。",
+    "evidence": "Academic: 人中牛王轉動輪寶之後，為盡除苦亦向眾生宣說佛法: the one who has become the supreme leader of humans turns the wheel and then teaches the Dharma (a sequence of actions by the same person). The children's text makes it a simile ('就像') and detaches the leader from the practitioners, dropping the sequence.",
+    "fix": "他成為人類中最傑出的領袖，轉動了珍寶輪，然後為了消除大家的痛苦，向眾生宣說佛法。"
+   }
+  ]
+ },
+ {
+  "id": "7-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-1",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "菩薩會完全照顧",
+    "evidence": "Academic has no stated subject ('完全攝受…'); the children's text supplies the bodhisattva as subject and uses 照顧 'take care of' for 攝受 'embrace/uphold'.",
+    "fix": "完全守護並保持完全純淨的國土，以及清淨的眾生"
+   }
+  ]
+ },
+ {
+  "id": "8-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-4",
+  "verdict": "pass",
+  "issues": []
+ }
+]

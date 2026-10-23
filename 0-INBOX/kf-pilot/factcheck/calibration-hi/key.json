@@ -1,0 +1,146 @@
+{
+ "1-11": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "अनुपलब्ध",
+  "new": "उपलब्ध"
+ },
+ "1-14": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "कभी भयभीत नहीं होता",
+  "new": "भयभीत हो जाता है"
+ },
+ "1-16": {
+  "planted": false
+ },
+ "1-19": {
+  "planted": true,
+  "kind": "terminology",
+  "severity": "major",
+  "old": "पुद्गलों",
+  "new": "व्यक्तियों"
+ },
+ "1-23": {
+  "planted": true,
+  "kind": "addition",
+  "severity": "major",
+  "old": "इस प्रकार आचरण करता है,",
+  "new": "इस प्रकार आचरण करता है, सब प्राणियों को निर्वाण में स्थापित करने का संकल्प करता है,"
+ },
+ "1-24": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "आचरण नहीं है",
+  "new": "आचरण है"
+ },
+ "2-1": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "वह धर्मता में स्थित है",
+  "new": "वह धर्मता में स्थित नहीं है"
+ },
+ "2-6": {
+  "planted": false
+ },
+ "2-7": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "अर्हद्भूमि में नहीं सीखता, प्रत्येकबुद्धभूमि में भी नहीं",
+  "new": "अर्हद्भूमि में सीखता है, प्रत्येकबुद्धभूमि में भी"
+ },
+ "2-25": {
+  "planted": true,
+  "kind": "terminology",
+  "severity": "major",
+  "old": "शरीर-धातु",
+  "new": "अवशेष"
+ },
+ "2-51": {
+  "planted": true,
+  "kind": "omission",
+  "severity": "major",
+  "old": " और सन्देह-रहित",
+  "new": ""
+ },
+ "4-1": {
+  "planted": true,
+  "kind": "name",
+  "severity": "major",
+  "old": "शक्र",
+  "new": "ब्रह्मा"
+ },
+ "4-31": {
+  "planted": false
+ },
+ "4-46": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "कवच नहीं है",
+  "new": "कवच है"
+ },
+ "4-57": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "आश्रय नहीं लेते",
+  "new": "आश्रय लेते हैं"
+ },
+ "4-66": {
+  "planted": true,
+  "kind": "number",
+  "severity": "major",
+  "old": "अनेक कोटि-सहस्र",
+  "new": "सौ"
+ },
+ "4-67": {
+  "planted": false
+ },
+ "4-71": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "भस्म नहीं होती, और",
+  "new": "भस्म हो जाती है, और"
+ },
+ "4-92": {
+  "planted": true,
+  "kind": "mistranslation",
+  "severity": "major",
+  "old": "व्यापारी",
+  "new": "किसान"
+ },
+ "5-4": {
+  "planted": true,
+  "kind": "mistranslation",
+  "severity": "major",
+  "old": "सम्पन्न होने से",
+  "new": "नष्ट होने से"
+ },
+ "5-9": {
+  "planted": true,
+  "kind": "number",
+  "severity": "major",
+  "old": "पाँच सौ",
+  "new": "पचास"
+ },
+ "5-13": {
+  "planted": false
+ },
+ "5-24": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "परित्याग नहीं करना चाहिए",
+  "new": "परित्याग करना चाहिए"
+ },
+ "5-47": {
+  "planted": false
+ }
+}

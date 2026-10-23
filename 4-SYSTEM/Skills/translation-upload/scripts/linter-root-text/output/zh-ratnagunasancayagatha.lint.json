@@ -1,13 +1,12 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Translations/zh-ratnagunasancayagatha.md",
-  "validated_at": "2026-10-04T06:04:05.388036+00:00",
+  "validated_at": "2026-10-04T10:17:42.215106+00:00",
   "notes": [
     "bdrc_work_id: not set (optional)",
     "wiki: not set (optional)",
     "date: not set (optional)",
     "commentary_of: not set (optional)",
-    "translation_of: not set (optional)",
     "root_text: '1-SOURCES/Translations/bo-ratnagunasancayagatha.md'",
     "tag_ids: not set (optional)",
     "source: source = 'https://cbetaonline.dila.edu.tw/zh/T0229'",
@@ -27,7 +26,7 @@
     "alt_titles": null,
     "language": "zh",
     "commentary_of": null,
-    "translation_of": null,
+    "translation_of": "U5FlKUlLLtS1zo4n0EGZL",
     "category_id": "uGpinx0GZlvU1uw44RyYS",
     "license": "public",
     "contributions": null,

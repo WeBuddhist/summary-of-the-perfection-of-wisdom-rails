@@ -1,0 +1,19 @@
+calls=12
+  sample-en-01 0-4..2-40 ok
+  sample-en-01 2-50..4-57 ok
+  sample-en-02 5-46..8-1 ok
+  sample-en-02 4-64..5-39 ok
+  sample-hi-02 4-64..5-39 ok
+  sample-hi-01 0-4..2-40 ok
+  sample-hi-01 2-50..4-57 ok
+  sample-hi-02 5-46..8-1 ok
+  sample-zh-02 4-64..5-39 ok
+  sample-zh-02 5-46..8-1 ok
+  sample-zh-01 0-4..2-40 ok
+  sample-zh-01 2-50..4-57 ok
+sample-en-01 OK
+sample-en-02 OK
+sample-hi-01 OK
+sample-hi-02 OK
+sample-zh-01 OK
+sample-zh-02 OK

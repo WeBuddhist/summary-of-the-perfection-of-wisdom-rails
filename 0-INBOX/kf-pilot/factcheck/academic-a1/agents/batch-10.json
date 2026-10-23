@@ -1,0 +1,129 @@
+{
+ "batch": "batch-10",
+ "segments": [
+  {
+   "id": "4-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-95",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "know the nature of the path",
+     "evidence": "Tibetan \"ལམ་གྱི་ཚུལ་ཤེས་ཡིན\": ཚུལ་ is the manner/ways of the path; bo-mipham 4-95 glosses it as knowing \"ཉན་རང་བྱང་སེམས་ཀྱི་ལམ་གསུམ་གྱི་ཚུལ\" (the ways of the three paths), not the nature of the path.",
+     "fix": "know the ways of the path"
+    }
+   ]
+  },
+  {
+   "id": "4-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-98",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "dharmas of emptiness and signlessness ... dharmas of the irreversible stage",
+     "evidence": "Locked term ཆོས → \"Dharma\"; in \"སྟོང་པ་མཚན་མ་མེད་པའི་ཆོས\" and \"ཕྱིར་མི་ལྡོག་པའི་ས་ཡི་ཆོས\" ཆོས is the teaching (bo-mipham 4-98: \"ཆོས་ཟབ་མོ་ཡོངས་སུ་མི་སྟོན\", does not teach / \"འཆད\" explain), so lowercase plural \"dharmas\" reads as phenomena.",
+     "fix": "the Dharma of emptiness and signlessness ... the Dharma of the irreversible stage"
+    }
+   ]
+  },
+  {
+   "id": "5-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "your lineage back to your seven ancestors",
+     "evidence": "Tibetan \"བདུན་མེས་རྒྱུད་ཀྱི་བར\"; bo-mipham 5-5: \"མི་རབས་བདུན་གྱི་མེས་པོ་ཚུན་ཆད་ཀྱི་རྒྱུད་ཀྱི་བར\" (the lineage up to the ancestor of seven generations); Sanskrit \"anusaptam upaiti vaṃśo\" (lineage to the seventh). Not seven separate ancestors.",
+     "fix": "your lineage back to the seventh generation of ancestors"
+    }
+   ]
+  },
+  {
+   "id": "5-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-11",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

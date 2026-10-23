@@ -1,0 +1,216 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "2-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "為了不讓「善良的特質」白白浪費，我們要好好把它們記在心裡。",
+     "evidence": "In the verse, wisdom is what holds/upholds the virtues so they are not wasted; the children's text makes 'we' the agent who memorises them.",
+     "fix": "為了不讓「善良的特質」白白浪費，「智慧」會把它們好好守護住。"
+    }
+   ]
+  },
+  {
+   "id": "2-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-29",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "有人以為，只要教大家東西都會壞掉就好，其實不是這樣。",
+     "evidence": "The segment does not mention anyone holding this belief; it says a bodhisattva who teaches the five aggregates as impermanent without proper understanding is practising something fabricated.",
+     "fix": "如果「菩薩」還沒有真正明白，就把「形體」……都當作「不斷變化」來教給別人，這就是在學習虛假的東西。"
+    }
+   ]
+  },
+  {
+   "id": "2-30",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "如果我們不去抓住「形體」或「感受」。",
+     "evidence": "The verse says form and feeling are not (found), and no apprehension of perception, consciousness, intention; it is not about 'not grasping' form and feeling while 'not finding' the others.",
+     "fix": "如果我們「找不到」「形體」和「感受」，也「找不到」「想法」、「覺知」和「意願」。"
+    }
+   ]
+  },
+  {
+   "id": "2-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-34",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "為了追求真理",
+     "evidence": "The wise one generates the wish for awakening in the world 'in order to know' (so as to gain realisation); 'truth' is not in the text.",
+     "fix": "為了能真正明白"
+    }
+   ]
+  },
+  {
+   "id": "2-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-42",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "帶著錯誤看法的內心",
+     "evidence": "The academic translation says the mind clings to 'view' and these three; it does not call the view wrong.",
+     "fix": "抱著某種「看法」的內心"
+    },
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "有人以為這就是奉獻，其實不是這樣。",
+     "evidence": "Not in the verse; the next line already states that this is not dedication.",
+     "fix": "—"
+    }
+   ]
+  },
+  {
+   "id": "2-43",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "接受奉獻的對象也不是永遠不變的。",
+     "evidence": "The verse says the place/object of dedication is also exhausted (ceased), and the whole is conditional 'if one knows', not an instruction.",
+     "fix": "如果明白這件事物會停止、會消失，連接受奉獻的地方也會消失。"
+    }
+   ]
+  },
+  {
+   "id": "2-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "能勝過世界上所有的菩薩。也就是那些抓著某個東西不放的人。",
+     "evidence": "Only the bodhisattvas of the world who have an object of clinging are surpassed, not all bodhisattvas.",
+     "fix": "能勝過世界上那些抓著某個東西不放的「菩薩」。"
+    }
+   ]
+  },
+  {
+   "id": "2-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-50",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "doctrinal",
+     "severity": "major",
+     "span": "如果一個菩薩心裡有眾生的想法。即使他想要追求覺悟。這也不是在學習最棒的圓滿的智慧。",
+     "evidence": "The text rejects the bodhisattva who conceptualises (fixates on) beings as real while thinking 'I will liberate them'; it does not say that merely thinking of beings or wanting to rescue them is wrong. The children's text can be read as saying that thinking of beings, or wanting to help them, is itself a mistake.",
+     "fix": "如果一個「菩薩」一邊想著要解救「眾生」，一邊把「眾生」當成真實的東西抓著不放，即使他想要追求「覺悟」，這也不是在學習最棒的「圓滿的智慧」。"
+    }
+   ]
+  },
+  {
+   "id": "2-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-52",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

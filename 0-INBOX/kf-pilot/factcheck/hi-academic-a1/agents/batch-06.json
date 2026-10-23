@@ -1,0 +1,153 @@
+{
+ "batch": "batch-06",
+ "segments": [
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-16",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "major",
+     "span": "दृष्टि से युक्त चित्त",
+     "evidence": "Tibetan ལྟ་དང་བཅས་པའི་སེམས renders Skt sāpekṣa-citta. Mipham (bo-mipham 4-16) glosses it ཕྱི་རོལ་ཡུལ་ལ་ལྟ་བར་འདོད་པ་དང་བཅས་པའི་སེམས, 'a mind with the wish to look at external objects'; Khenrab (bo-khenrab 4-16) likewise ལྟ་བར་འདོད་པ་དང་བཅས་པའི་སེམས. Here lta means looking/longing, not a philosophical 'view'; Hindi 'दृष्टि' (view) with the locked term misapplied reads as 'a mind possessed of a view' and drops the sense of longing for external objects.",
+     "fix": "बाह्य विषयों को देखने की लालसा से युक्त चित्त से गृहस्थों के साथ संसर्ग करेंगे"
+    }
+   ]
+  },
+  {
+   "id": "4-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "जिनके द्वारा बहुत से भिक्षुओं को क्षुब्ध कर, इस प्रज्ञापारमिता को धारण न करने दिया जाए",
+     "evidence": "Tibetan གང་དག་གིས་ནི་དགེ་སློང་མང་དཀྲུགས་ནས། ཤེས་རབ་ཕ་རོལ་ཕྱིན་འདི་འཛིན་པར་མི་འགྱུར་བའི། means many monks are agitated and consequently do not uphold the perfection of wisdom (Skt samākulikṛtā ... na dhārayanti). The Hindi 'क्षुब्ध कर' (gerund) plus passive subjunctive 'धारण न करने दिया जाए' is ungrammatical/hard to parse and recasts the monks' non-upholding as something done to them.",
+     "fix": "जिनके कारण बहुत से भिक्षु क्षुब्ध होकर इस प्रज्ञापारमिता को धारण नहीं करते"
+    }
+   ]
+  },
+  {
+   "id": "4-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-20",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "परिग्रह",
+     "evidence": "Tibetan ཡོངས་སུ་འཛིན (Skt parigraha) means to take up, hold, support or protect (the Buddhas uphold these beings). In Hindi 'परिग्रह' ordinarily means possession/hoarding, so the line is easily misread.",
+     "fix": "उन्हें पूर्णतः धारण (संरक्षण) करने में संलग्न रहते हैं"
+    }
+   ]
+  },
+  {
+   "id": "4-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-22",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "यह लोकशास्ता जिनों को जन्म देने वाली माता है",
+     "evidence": "Tibetan འཇིག་རྟེན་སྟོན་པ་རྒྱལ་བ་རྣམས་ཀྱི་སྐྱེད་བྱེད་ཡུམ takes 'world-teacher' as the epithet of the Victors (the Mother gives birth to the Victors who are teachers of the world). Khenrab (bo-khenrab 4-22) says the Buddhas, having seen reality, teach others, and arise relying on the Mother, and Mipham (bo-mipham 4-22) has the Mother produce the Buddhas. The Hindi 'यह लोकशास्ता' makes the Mother herself the world-teacher, a wrong referent.",
+     "fix": "यह लोक के शास्ता जिनों को जन्म देने वाली माता है"
+    }
+   ]
+  },
+  {
+   "id": "4-23",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "यह एकरूपता ही",
+     "evidence": "Tibetan གཅིག་པ་ཉིད (Skt ekaiva) means 'oneness / one alone' of suchness. 'एकरूपता' means uniformity or sameness of form, which shifts the sense from the unity of suchness.",
+     "fix": "यह एक ही तथता है, भावरहित, अनन्य"
+    }
+   ]
+  },
+  {
+   "id": "4-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "तीर्थकों",
+     "evidence": "Tibetan མུ་སྟེགས་ཅན is locked to तीर्थिक. The Hindi form 'तीर्थकों' is a non-standard spelling that is neither the locked term nor an established word, and risks confusion with तीर्थंकर.",
+     "fix": "तीर्थिकों"
+    }
+   ]
+  },
+  {
+   "id": "4-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-29",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,712 @@
+{
+ "batch": "batch-09",
+ "segments": [
+  {
+   "id": "4-75",
+   "terms": [
+    {
+     "bo": "སྟོང་པ",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    },
+    {
+     "bo": "མཚན་མེད",
+     "dm": "signlessness",
+     "gm": "signlessness"
+    },
+    {
+     "bo": "སྨོན་པ་མེད",
+     "dm": "wishlessness",
+     "gm": "wishlessness"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "dharmas",
+     "gm": "dharmas"
+    },
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "nirvāṇa",
+     "gm": "nirvāṇa"
+    },
+    {
+     "bo": "མཚན་མར",
+     "dm": "signs",
+     "gm": "signs"
+    }
+   ]
+  },
+  {
+   "id": "4-76",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སྟོབས་བཅུ",
+     "dm": "Ten-Powered Ones",
+     "gm": "Ten-Powered One"
+    },
+    {
+     "bo": "ལུང་བསྟན",
+     "dm": "prophesied",
+     "gm": "prophesied"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "awakening"
+    },
+    {
+     "bo": "བདེ་གཤེགས",
+     "dm": "Sugatas",
+     "gm": "sugatas"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    }
+   ]
+  },
+  {
+   "id": "4-77",
+   "terms": [
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "world",
+     "gm": "world"
+    }
+   ]
+  },
+  {
+   "id": "4-78",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattvas",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victors",
+     "gm": "victors"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "ཕུང་པོ",
+     "dm": "aggregates",
+     "gm": "aggregates"
+    },
+    {
+     "bo": "སྟོང་",
+     "dm": "empty",
+     "gm": "empty"
+    },
+    {
+     "bo": "སྐྱེ་མེད",
+     "dm": "unborn",
+     "gm": "unarisen"
+    },
+    {
+     "bo": "མཉམ་པར་མ་བཞག",
+     "dm": "meditative equipoise",
+     "gm": "meditative equipoise"
+    },
+    {
+     "bo": "སེམས་ཅན་ཁམས",
+     "dm": "realm of sentient beings",
+     "gm": "realm of beings"
+    },
+    {
+     "bo": "སྙིང་རྗེ",
+     "dm": "compassion",
+     "gm": "compassion"
+    },
+    {
+     "bo": "སངས་རྒྱས་ཆོས",
+     "dm": "Buddha-dharma",
+     "gm": "buddha dharmas"
+    }
+   ]
+  },
+  {
+   "id": "4-79",
+   "terms": [
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "qualities",
+     "gm": "qualities"
+    },
+    {
+     "bo": "འགྲོ་དོན",
+     "dm": "welfare of beings",
+     "gm": "welfare of beings"
+    },
+    {
+     "bo": "སྒྱུ་མ",
+     "dm": "illusions",
+     "gm": "illusions"
+    }
+   ]
+  },
+  {
+   "id": "4-80",
+   "terms": []
+  },
+  {
+   "id": "4-81",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སེམས་ཅན་ཁམས",
+     "dm": "realms of sentient beings",
+     "gm": "realms of sentient beings"
+    },
+    {
+     "bo": "སྙིང་རྗེ་ཆེ",
+     "dm": "great compassion",
+     "gm": "great compassion"
+    },
+    {
+     "bo": "སྙིང་རྗེ",
+     "dm": "compassion",
+     "gm": "compassion"
+    },
+    {
+     "bo": "བདུད་བཞི",
+     "dm": "four Māras",
+     "gm": "four māras"
+    },
+    {
+     "bo": "ཏིང་འཛིན་མཆོག",
+     "dm": "supreme meditative absorption",
+     "gm": "supreme samādhi"
+    },
+    {
+     "bo": "ཏིང་འཛིན",
+     "dm": "meditative absorption",
+     "gm": "samādhi"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "awakening",
+     "gm": "awakening"
+    }
+   ]
+  },
+  {
+   "id": "4-82",
+   "terms": [
+    {
+     "bo": "ནམ་མཁའ",
+     "dm": "space",
+     "gm": "space"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "living beings",
+     "gm": "living beings"
+    },
+    {
+     "bo": "ལས",
+     "dm": "karma",
+     "gm": "karma"
+    }
+   ]
+  },
+  {
+   "id": "4-83",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སྟོང་པ་ཉིད",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    },
+    {
+     "bo": "འགྲོ",
+     "dm": "world",
+     "gm": "wanderers"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "སྨོན་ལམ",
+     "dm": "aspirations",
+     "gm": "aspirations"
+    },
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "nirvana",
+     "gm": "nirvāṇa"
+    }
+   ]
+  },
+  {
+   "id": "4-84",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སྟོང་པ",
+     "dm": "empty",
+     "gm": "emptiness"
+    },
+    {
+     "bo": "ཏིང་འཛིན་དམ་པ",
+     "dm": "supreme samadhi",
+     "gm": "supreme samādhi"
+    },
+    {
+     "bo": "ཏིང་འཛིན",
+     "dm": "samadhi",
+     "gm": "samādhi"
+    },
+    {
+     "bo": "མཚན་མ",
+     "dm": "signs",
+     "gm": "signs"
+    },
+    {
+     "bo": "མཚན་མ་མེད་པ",
+     "dm": "signless",
+     "gm": "signlessness"
+    }
+   ]
+  },
+  {
+   "id": "4-85",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "རྣམ་ཐར་སྒོ",
+     "dm": "gateways to liberation",
+     "gm": "doors of liberation"
+    },
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "nirvāṇa",
+     "gm": "nirvāṇa"
+    },
+    {
+     "bo": "མཚན་མར",
+     "dm": "signs",
+     "gm": "signs"
+    }
+   ]
+  },
+  {
+   "id": "4-86",
+   "terms": []
+  },
+  {
+   "id": "4-87",
+   "terms": [
+    {
+     "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ",
+     "dm": "perfection of wisdom",
+     "gm": "perfection of wisdom"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "ཐབས",
+     "dm": "skillful means",
+     "gm": "skillful means"
+    },
+    {
+     "bo": "རྫུ་འཕྲུལ",
+     "dm": "miraculous powers",
+     "gm": "miracles"
+    },
+    {
+     "bo": "དགེ་བའི་རྩ་བ",
+     "dm": "roots of virtue",
+     "gm": "roots of virtue"
+    },
+    {
+     "bo": "སྟོང་ཉིད་དམ་པ",
+     "dm": "supreme emptiness",
+     "gm": "supreme emptiness"
+    },
+    {
+     "bo": "སྟོང་ཉིད",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    }
+   ]
+  },
+  {
+   "id": "4-88",
+   "terms": [
+    {
+     "bo": "དགེ་སློང",
+     "dm": "monk",
+     "gm": "monk"
+    },
+    {
+     "bo": "རྫུ་འཕྲུལ",
+     "dm": "miracles",
+     "gm": "miracles"
+    },
+    {
+     "bo": "རྫུ་འཕྲུལ་སྟོབས",
+     "dm": "power of miracles",
+     "gm": "power of miracles"
+    }
+   ]
+  },
+  {
+   "id": "4-89",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སྟོང་",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    },
+    {
+     "bo": "ཡེ་ཤེས",
+     "dm": "gnosis",
+     "gm": "pristine wisdom"
+    },
+    {
+     "bo": "རྫུ་འཕྲུལ",
+     "dm": "miraculous powers",
+     "gm": "miracles"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "sentient beings",
+     "gm": "wanderers"
+    },
+    {
+     "bo": "བསྐལ་པ",
+     "dm": "eons",
+     "gm": "aeons"
+    }
+   ]
+  },
+  {
+   "id": "4-90",
+   "terms": []
+  },
+  {
+   "id": "4-91",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སྙིང་རྗེ",
+     "dm": "compassion",
+     "gm": "compassion"
+    },
+    {
+     "bo": "ཐབས",
+     "dm": "skillful means",
+     "gm": "skillful means"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "གདུགས",
+     "dm": "umbrellas",
+     "gm": "umbrellas"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "dharmas"
+    },
+    {
+     "bo": "སྟོང་པ",
+     "dm": "empty",
+     "gm": "empty"
+    },
+    {
+     "bo": "མཚན་མེད",
+     "dm": "signless",
+     "gm": "signless"
+    },
+    {
+     "bo": "སྨོན་པ་མེད",
+     "dm": "wishless",
+     "gm": "wishless"
+    },
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "nirvana",
+     "gm": "nirvāṇa"
+    }
+   ]
+  },
+  {
+   "id": "4-92",
+   "terms": [
+    {
+     "bo": "རིན་ཆེན་གླིང",
+     "dm": "jewel island",
+     "gm": "jewel island"
+    }
+   ]
+  },
+  {
+   "id": "4-93",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སྟོང་ཉིད",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    },
+    {
+     "bo": "རིན་ཆེན་གྱི། ། གླིང",
+     "dm": "jewel island",
+     "gm": "jewel island"
+    },
+    {
+     "bo": "བསམ་གཏན",
+     "dm": "meditative concentrations",
+     "gm": "concentration"
+    },
+    {
+     "bo": "དབང་བོ",
+     "dm": "faculties",
+     "gm": "faculties"
+    },
+    {
+     "bo": "སྟོབས",
+     "dm": "powers",
+     "gm": "powers"
+    },
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "nirvana",
+     "gm": "nirvāṇa"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "4-94",
+   "terms": [
+    {
+     "bo": "རིན་ཆེན་གླིང",
+     "dm": "Island of Jewels",
+     "gm": "jewel island"
+    },
+    {
+     "bo": "ལམ",
+     "dm": "path",
+     "gm": "path"
+    }
+   ]
+  },
+  {
+   "id": "4-95",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ཉན་ཐོས",
+     "dm": "Śrāvakas",
+     "gm": "śrāvakas"
+    },
+    {
+     "bo": "རང་རྒྱལ",
+     "dm": "Pratyekabuddhas",
+     "gm": "pratyekabuddhas"
+    },
+    {
+     "bo": "རྣམ་གྲོལ",
+     "dm": "liberations",
+     "gm": "liberations"
+    },
+    {
+     "bo": "སངས་རྒྱས་ཡེ་ཤེས",
+     "dm": "primordial wisdom of a Buddha",
+     "gm": "Buddha's pristine wisdom"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "ཡེ་ཤེས",
+     "dm": "primordial wisdom",
+     "gm": "pristine wisdom"
+    },
+    {
+     "bo": "འདུས་མ་བྱས",
+     "dm": "unconditioned",
+     "gm": "unconditioned"
+    },
+    {
+     "bo": "ལམ",
+     "dm": "path",
+     "gm": "path"
+    }
+   ]
+  },
+  {
+   "id": "4-96",
+   "terms": [
+    {
+     "bo": "བྱམས་པ",
+     "dm": "loving-kindness",
+     "gm": "love"
+    },
+    {
+     "bo": "ཏིང་འཛིན",
+     "dm": "meditative stabilizations",
+     "gm": "samādhis"
+    },
+    {
+     "bo": "སྟོང་པ",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    },
+    {
+     "bo": "མཚན་མེད",
+     "dm": "signlessness",
+     "gm": "signlessness"
+    },
+    {
+     "bo": "སྨོན་པ་མེད",
+     "dm": "wishlessness",
+     "gm": "wishlessness"
+    },
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "nirvana",
+     "gm": "nirvāṇa"
+    },
+    {
+     "bo": "འདུས་བྱས",
+     "dm": "conditioned",
+     "gm": "conditioned"
+    },
+    {
+     "bo": "འགྲོ",
+     "dm": "beings",
+     "gm": "wanderers"
+    }
+   ]
+  },
+  {
+   "id": "4-97",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "རྣམ་ཐར་སྒོ",
+     "dm": "doors of liberation",
+     "gm": "doors of liberation"
+    }
+   ]
+  },
+  {
+   "id": "4-98",
+   "terms": [
+    {
+     "bo": "དབང་པོ",
+     "dm": "faculties",
+     "gm": "faculties"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "སྟོང་པ",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    },
+    {
+     "bo": "མཚན་མ་མེད་པ",
+     "dm": "signlessness",
+     "gm": "signlessness"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "dharmas",
+     "gm": "dharmas"
+    },
+    {
+     "bo": "ཕྱིར་མི་ལྡོག་པའི་ས",
+     "dm": "irreversible stage",
+     "gm": "irreversible stage"
+    },
+    {
+     "bo": "ལུང་མ་བསྟན",
+     "dm": "has not been prophesied",
+     "gm": "unprophesied"
+    }
+   ]
+  }
+ ]
+}
